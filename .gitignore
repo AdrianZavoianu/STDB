@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.pot
+*.pyc
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+local_settings.py
+
+# pipenv
+Pipfile.lock
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Virtualenv
+venv/
+ENV/
+env/
+.venv/
+
+# Git
+*.swp
+*.swo
+
+# Migrations (optional – if you don't want to commit them)
+*/migrations/*.py
+*/migrations/__pycache__/
+
+# PostgreSQL dump files (optional)
+*.sql

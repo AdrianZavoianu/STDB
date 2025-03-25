@@ -1,0 +1,271 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - S. H. Huang
+    
+        AU - Q. S. Li
+    
+
+TI - Large Eddy Simulations of Wind-Driven Rain on Tall Building Facades
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 967-983
+VI - 138
+IP - 8
+AID - 10.1061/(ASCE)ST.1943-541X.0000516 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000516
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000516
+SO - Journal of Structural Engineering 2012-08-01 138(8): 967-983
+AB - Wind-driven rain (WDR) on building facades may lead to water penetration, cladding damage, structural cracking, etc., which affect the durability of the claddings. This study aims to develop a numerical approach to the evaluation of WDR on tall building envelopes based on large eddy simulations (LESs) and a Eulerian multiphase model. The present method utilizes the concept of the multiphase model to deal with rain and wind, and both wind and rain motions as well as their interactions are treated under the Euler frame, which can significantly reduce the complexity in evaluations of WDR and simplify boundary condition treatments. Besides these advantages, unsteady-state WDR information such as the transient catch ratio of WDR, the spatial and temporal distributions of rain intensity, etc., can be predicted by the LES. A validation study shows that the simulation results agree well with the available experimental data, verifying the accuracy of the simulation approach based on the Eulerian multiphase model and LES. Furthermore, a LES of WDR on the 508-m-high Taipei 101 Tower was performed to illustrate the application of the present method and to investigate WDR on a tall building. Both the transient and time-averaged WDR results are presented and discussed, demonstrating that the present approach can provide more information on WDR than the existing methods.
+
+
+    
+        AU - Chun Ni
+    
+        AU - Minjuan He
+    
+        AU - Songlai Chen
+    
+
+TI - Evaluation of Racking Performance of Wood Portal Frames with Different Wall Configurations and Construction Details
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 984-994
+VI - 138
+IP - 8
+AID - 10.1061/(ASCE)ST.1943-541X.0000537 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000537
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000537
+SO - Journal of Structural Engineering 2012-08-01 138(8): 984-994
+AB - The performance of portal frame walls was studied using a finite-element model verified with results from tests of full-size portal frame walls. Parameters such as wall height, metal strap type and location, doubling of the bottom plate, sheathing placement, and nailing pattern were investigated. Results indicate that in all cases, lateral load capacity and stiffness are greatly reduced with the increase of wall height. Considering the effect of different metal strap types and locations, the tensile strength of metal straps has the greatest impact on the lateral load capacity and stiffness. Walls with metal straps placed directly on the framing members outperform walls with metal straps placed over the sheathing. For walls with a double bottom plate and two rows of nails fastening the bottom plate, the stiffness and lateral load capacity are slightly increased compared with walls with a single bottom plate. For walls with unblocked sheathing at midheight, the lateral load capacity is the same as in walls with continuous sheathing running from the bottom of the wall to the top, but the stiffness is slightly less.
+
+
+    
+        AU - Andrew P. Voth
+    
+        AU - Jeffrey A. Packer
+    
+
+TI - Branch Plate-to-Circular Hollow Structural Section
+Connections. I: Experimental Investigation and Finite-Element Modeling
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 995-1006
+VI - 138
+IP - 8
+AID - 10.1061/(ASCE)ST.1943-541X.0000505 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000505
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000505
+SO - Journal of Structural Engineering 2012-08-01 138(8): 995-1006
+AB - Although branch plate-to-circular hollow section (CHS) connections
+under branch axial load are simple to fabricate and cost-effective,
+they generally experience significant deformation at relatively low
+loads resulting in an imposed deformation limit. To increase the connection
+capacity, various stiffening methods such as use of ring stiffeners,
+grout filling, and “through plate” connections have been
+proposed. To determine the effectiveness of previously unstudied plate-to-CHS
+through plate connections, an experimental investigation consisting
+of 12 connections was undertaken. Additionally, the behavior of nonorthogonal
+or skewed connections and the effect of load sense were examined.
+The experimental study determined that through plate-to-CHS connection
+behavior can be obtained by algebraically combining the behavior of
+a T
+-type branch plate-to-CHS connection in
+tension with another in compression. Moreover, the through plate connection
+increased the capacity by more than three times that of a branch plate
+connection loaded in compression. Finite-element (FE) models were
+constructed to replicate, and be compared with, the experimental connections
+to validate the use of FE modeling for a subsequent parametric study
+with the aim of expanding the scope of the experimental results database.
+
+
+    
+        AU - Andrew P. Voth
+    
+        AU - Jeffrey A. Packer
+    
+
+TI - Branch Plate-to-Circular Hollow Structural Section
+Connections. II: X-Type Parametric Numerical Study and Design
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1007-1018
+VI - 138
+IP - 8
+AID - 10.1061/(ASCE)ST.1943-541X.0000545 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000545
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000545
+SO - Journal of Structural Engineering 2012-08-01 138(8): 1007-1018
+AB - This paper presents a numerical finite-element parametric study
+on the behavior of transverse or longitudinal X-type plate-to-circular
+hollow section connections loaded under branch plate tension or compression,
+to evaluate the suitability of present international (CIDECT) design
+recommendations, the effect of boundary conditions and chord length,
+and the influence of applied chord normal stress. A total of 449 connections
+with wide-ranging values of geometric properties and chord normal
+stress levels were modeled and analyzed using commercially available
+software. An analysis of the effect of chord length determined that,
+to exclude the influence of chord end boundary conditions, an effective
+chord length of at least 10&nbsp;times the chord diameter should be used
+for experimental and numerical studies. Further, the present CIDECT
+chord stress functions (
+Qf) provide an acceptable lower bound for all connections
+examined. Evaluation of present CIDECT partial design strength functions
+(Q
+u) indicated
+general conservatism, lack of plate thickness incorporation, and underutilization
+of tension-only connections. Partial design strength functions, determined
+through regression analysis, are hence proposed with lower-bound reduction
+(resistance) factors.
+
+
+    
+        AU - Chang-Soo Kim
+    
+        AU - Hong-Gun Park
+    
+        AU - Kyung-Soo Chung
+    
+        AU - In-Rak Choi
+    
+
+TI - Eccentric Axial Load Testing for Concrete-Encased Steel Columns Using 800 MPa Steel and 100 MPa Concrete
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1019-1031
+VI - 138
+IP - 8
+AID - 10.1061/(ASCE)ST.1943-541X.0000533 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000533
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000533
+SO - Journal of Structural Engineering 2012-08-01 138(8): 1019-1031
+AB - Seven concrete-encased steel columns using high-strength steel (nominal yield strength fys=913 and 806&nbsp;MPa) and high-strength concrete (cylinder compressive strength fc′=94 and 113&nbsp;MPa) were tested to investigate the eccentric axial load-carrying capacity and the deformation capacity. The test parameters were full or partial concrete-encasement, the eccentricity of the axial load, and the effect of lateral reinforcement. Because the yield strain (≈0.004) of the high-strength steel is greater than the ultimate compressive strain (≈0.003) of the concrete subjected to short-term loads, the current study focused on the effect of early concrete crushing on the behavior of the composite columns. The test results showed that in the case of inadequate lateral confinement, the load-carrying capacity was limited by the early crushing of concrete. However, because of the high-strength steel section, all test specimens showed ductile flexural behavior after the delamination of the concrete. The test results were compared with the predictions by nonlinear numerical analysis and current design codes.
+
+
+    
+        AU - W. Ghannoum
+    
+        AU - V. Saouma
+    
+        AU - G. Haussmann
+    
+        AU - K. Polkinghorne
+    
+        AU - M. Eck
+    
+        AU - D.-H. Kang
+    
+
+TI - Experimental Investigations of Loading Rate Effects in Reinforced Concrete Columns
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1032-1041
+VI - 138
+IP - 8
+AID - 10.1061/(ASCE)ST.1943-541X.0000540 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000540
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000540
+SO - Journal of Structural Engineering 2012-08-01 138(8): 1032-1041
+AB - Seismic loading rates can significantly affect the behavior of reinforced concrete (RC) elements. However, few data are available to quantify these effects. Shaking table tests allow the study of loading rate phenomena; however, they suffer from difficulties in assessing causality (direct assessment of causes on effects) and are expensive to conduct. An alternative is to test individual RC elements by directly imparting high-velocity loading protocols. However, multiactuator setups are necessary to achieve seismically representative loading and boundary conditions, which entails particularly challenging control requirements. This investigation makes use of recent advances in real-time testing hardware to study the effects of loading rates on the structural response of lightly confined RC columns. A pioneering test setup in which three actuators are controlled independently at high velocities was used to test a series of columns until axial collapse. The experimental challenges and column behavior are discussed.
+
+
+    
+        AU - Cem Aydemir
+    
+        AU - Mustafa Zorbozan
+    
+
+TI - Uncertainty Analysis of Flexural Overstrength Ratio for RC Columns
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1042-1053
+VI - 138
+IP - 8
+AID - 10.1061/(ASCE)ST.1943-541X.0000528 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000528
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000528
+SO - Journal of Structural Engineering 2012-08-01 138(8): 1042-1053
+AB - This paper summarizes the results of a comprehensive statistical study of the flexural overstrength ratio for estimation of the probable flexural strength of ductile RC columns with varying geometries and confinement levels. The material and section properties and the analytical model response are modeled as random variables and their effects on section behavior are assessed through statistical evaluation. For randomly sampled values of the considered variables, the sectional analyses are carried out using a computer program that uses various confined and unconfined concrete models to obtain the maximum flexural strength in the moment-curvature relationship. The effect of variability is investigated by examining the response distributions resulting from Monte Carlo simulations. Furthermore, a simple expression is derived for estimation of the probable flexural strength using the flexural overstrength ratio with the 10% probability of being exceeded. Finally, the proposed method is compared with ACI 318, Eurocode 8, and the Turkish seismic design code provisions.
+
+
+    
+        AU - Mehdi Ben Ftima
+    
+        AU - Bruno Massicotte
+    
+
+TI - Development of a Reliability Framework for the Use of Advanced Nonlinear Finite Elements in the Design of Concrete Structures
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1054-1064
+VI - 138
+IP - 8
+AID - 10.1061/(ASCE)ST.1943-541X.0000538 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000538
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000538
+SO - Journal of Structural Engineering 2012-08-01 138(8): 1054-1064
+AB - This paper proposes a methodology that uses advanced nonlinear finite-element analysis for determining a global resistance factor for the design of reinforced concrete structures. It introduces a new reliability approach that takes into account the uncertainties of the material properties and the performance of the concrete model used in the calculations. In the proposed approach, the global resistance factor is computed following a procedure in which the coefficient of variation of the calculated resistance is estimated using Rosenblueth’s point-estimate method. The robustness and simplicity of the method are demonstrated through validation examples. It is seen that good approximations of the resistance factor can be achieved for the case of normal or quasi-normal distributions of the resistance. Estimation of the coefficient of variation of the prediction error is then performed for a given reinforced concrete element and a nonlinear finite-element package. The accuracy of the selected software is considered through its ability to predict the behavior of a set of benchmarks selected for the target design structure, going from the material level to the structural level. The suggested methodology is well suited for structural engineers having access to nonlinear deterministic finite-element packages with concrete models. It proposes a reliability format that focuses on the variability on the resistance side while using the concept of critical load paths on the load side, which is compatible with the philosophy of the existing design codes.
+
+
+    
+        AU - Stefano de Miranda
+    
+        AU - Luisa Molari
+    
+        AU - Giulia Scalet
+    
+        AU - Francesco Ubertini
+    
+
+TI - Simple Beam Model to Estimate Leakage in Longitudinally Cracked Pressurized Pipes
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1065-1074
+VI - 138
+IP - 8
+AID - 10.1061/(ASCE)ST.1943-541X.0000535 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000535
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000535
+SO - Journal of Structural Engineering 2012-08-01 138(8): 1065-1074
+AB - Losses from water distribution systems are reaching alarming levels in many cities throughout the world. Leakage is often the principal cause of water loss because of aging and deterioration of these systems, and pressure has been verified to assume a key-role in water-loss management. This paper presents a simple analytical model based on a beam with elastic constraints to estimate the leak area (from which the leakage is then estimated) in longitudinally cracked pressurized pipes and to evaluate the effect of pressure on the opening area of the crack. The model is calibrated on the results of a three-dimensional finite-element analysis and then validated by experimental results. The validation has been carried out for a wide range of pipes made of different materials (PVC, cast iron, asbestos-cement, and steel) with radii ranging from 27.5 to 110&nbsp;mm, thicknesses from 1.5 to 12&nbsp;mm, and crack lengths from 50 to 200&nbsp;mm. The beam model, notwithstanding its simplicity, provides reliable leakage evaluations in longitudinally cracked pressurized pipes.
+
+
+    
+        AU - Shobeir Pirayeh Gar
+    
+        AU - Monique Head
+    
+        AU - Stefan Hurlebaus
+    
+
+TI - Tension Stiffening in Prestressed Concrete Beams Using Moment-Curvature Relationship
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1075-1078
+VI - 138
+IP - 8
+AID - 10.1061/(ASCE)ST.1943-541X.0000534 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000534
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000534
+SO - Journal of Structural Engineering 2012-08-01 138(8): 1075-1078
+AB - Tension stiffening phenomenon plays a vital role in serviceability of nonprestressed reinforced concrete (RC) beams as it enhances the postcracking flexural stiffness leading to a smaller deflection, accordingly. However, this paper’s findings indicate that in contrast to RC sections, the effect of tension stiffening is negligible for fully prestressed concrete sections. This study presents a closed form equation of moment-curvature for prestressed concrete sections under service load, where the tensile strength of the concrete is taken into account. This equation is verified by experimental test data and numerical analysis, thereby proving the negligible effect of tension stiffening on fully prestressed concrete sections.
+
+

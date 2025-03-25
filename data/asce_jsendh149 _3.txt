@@ -1,0 +1,686 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Sivaganesh Selvaraj
+    
+        AU - Mahendrakumar Madhavan
+    
+
+TI - Splice Connections for Built-Up Column Assemblies in Cold-Formed Steel Construction
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022250
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11540 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11540
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11540
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04022250
+AB - The development of simple connection methods is necessary for increasing cold-formed steel (CFS) construction activities. A new splice connection concept for the CFS built-up column-to-column connections is presented in this paper. This simple connection concept will use the same size and shape of the geometry as the CFS built-up column, which will enable a quick erection process. The new splice connection configurations, arrangement, and installation methods for cold-formed steel construction are demonstrated. Twenty-eight experiments, which include four actual columns, two disconnected columns, and 22 columns with splice connections, are carried out. This paper examines the influence of various parameters of splice connections such as length, thickness, and number of fastener rows. The design strength of the actual column is determined using the direct strength method (with modified global and local slenderness approaches) and is compared with the results of the splice connected columns for adequacy. The force transfer mechanism and failure modes of splice connection components are demonstrated in the form of detailed sketches. The smaller length splice connections led to localized failures, while the longer splice connections enabled the uniform force distribution between the built-up column cross-sections. Finally, it is recommended that the splice connection configuration should be a minimum of 300 mm in length, the splice thickness should be equal to the CFS built-up cross-section, and two rows of fasteners for attaining the required design strength of the built-up column members.
+
+
+    
+        AU - Floriana Petrone
+    
+        AU - Rowland Perez
+    
+        AU - Jason Coates
+    
+        AU - David McCallen
+    
+
+TI - A Biaxial Discrete Diode Position Sensor for Rapid Postevent Structural Damage Assessment
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022251
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11776 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11776
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11776
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04022251
+AB - The interstory drift ratio (IDR) is a key engineering parameter utilized by several codes and standards to quantify structural performance and correlate with potential structural damage following a seismic event. A number of methods have been explored for measuring building interstory drift, including approaches that rely on accelerometers, linear variable differential transformers (LVDTs), global position systems, combinations of cameras and optical sensors, and, most recently, on machine learning surrogate models. Nevertheless, limitations related to accuracy, cost, and challenges associated with data processing and interpretation still hinder the broad utilization of such methods for rapid post-event damage assessment. This paper presents a recently developed optical sensor, termed a biaxial discrete diode position sensor (2DDPS), which is able to directly measure earthquake transient and residual interstory drift in the two horizontal directions and transmit structure observables to offsite locations in near real-time. The sensor performance is herein evaluated through a series of shake-table tests carried out on the single 2DDPS to provide a statistical basis for sensor performance evaluations and on the 2DDPS installed on a 3D two-story frame subject to realistic earthquake biaxial excitation to evaluate system performance under realistic deployment conditions. The experimental campaign design and execution has been supported by advanced computational models. Results of the investigation demonstrate that the 2DDPS can reliably measure transient and residual bidirectional interstory drifts with an accuracy of the order of a millimeter. A critical review of the observed error and strategies to reduce it are also provided. Evidence from the presented study demonstrates that the 2DDPS has the potential to be utilized as a key tool for rapid, postevent decision-making and field inspection prioritization.
+
+
+    
+        AU - Xiao Luo
+    
+        AU - Ting Lin
+    
+
+TI - Probabilistic Sea Level Rise Hazard Analysis Based on the Current Generation of Data and Protocols
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022252
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11413 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11413
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11413
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04022252
+AB - Sea level rise, as a result of climate change, is expected to drive coastal hazards that could bring significant damages to coastal regions in the future. However, high uncertainties remain in the projections of sea level rise from different climate scenarios and sea level rise prediction models. Quantification and integration of these uncertainties are essential to better inform coastal planning and decision making for climate adaptation, critical for infrastructure sustainability and resilience. This paper advances knowledge cross-cutting structural engineering and climate change in the face of multihazards via a novel framework termed the Probabilistic Sea Level Rise Hazard Analysis (PSLRHA). This study uses the current generation of models and protocols from the climate science research community to better portray the future climate and project sea level rise. The aggregation process produces the probability of exceeding a specific sea level rise threshold at a certain location and facilitates the creation of the global sea level rise hazard map. The relative importance of each climate scenario and sea level rise contributing models are demonstrated via the deaggregation process. We identify the models that have most contribution to extreme sea level rise thresholds, with large fluctuations in the high thresholds among ice sheet models. Finally, we show the practical implementation of PSLRHA results via compound flooding analyses using Houston as an illustrative example.
+
+
+    
+        AU - Barbara G. Simpson
+    
+        AU - Minjie Zhu
+    
+        AU - Akiri Seki
+    
+        AU - Michael Scott
+    
+
+TI - Challenges in GPU-Accelerated Nonlinear Dynamic Analysis for Structural Systems
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022253
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11311 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11311
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11311
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04022253
+AB - Many numerical simulation methods, such as finite-element analysis, were originally formulated to run serially or in parallel on central processing units (CPUs). However, computer engineering has seen a paradigm shift toward massive parallelism using graphics processing units (GPUs), which have become the default accelerators in many data-driven scientific disciplines outside of civil engineering. This state-of-the-art review highlights the challenges and practicalities of GPU-accelerating nonlinear dynamic analyses for civil structural problems. To demonstrate the feasibility of a fully GPU-accelerated finite-element analysis, a GPU-based program for linear-elastic dynamic analysis was implemented, where all stages of the analysis were ported to the GPU. Observed speedups were 115 times that of an equivalent CPU-driven analysis for 106 model degrees of freedom (dof). Importantly, the computational time for the assembly and update levels of the analyses were nearly independent of the number of dof. High-resolution simulations of complex structures can be computationally expensive, but these results and advances in other fields suggest that some levels of the finite-element analysis of civil structures could be accelerated using GPUs at increased model resolution with little increase in computational cost, demonstrating the potential for GPU-accelerated computing. However, compared to other GPU-accelerated finite-element analysis applications, the dynamic analysis of civil structures is subject to unique challenges that need to be addressed before GPU acceleration can be fully realized. Aspects of simulating the response of civil structures considering nonlinear response under extreme loading may not be immediately amenable to GPU acceleration; e.g.,&nbsp;the use of many differing element formulations within a model, potential for inelastic response and varying degrees of nonlinearity across elements, and traditional reliance on implicit integration schemes with direct solvers. The shift to GPUs is part of a larger movement toward specialized hardware using fine-grained parallelism, and structural engineers need to address these challenges as these emerging technologies become more prevalent.
+
+
+    
+        AU - Lethicia Oliveira Costa
+    
+        AU - Pablo Augusto Krahl
+    
+        AU - Maria Cristina Vidigal de Lima
+    
+
+TI - Investigation of Lateral Stability of UHPC Beams Supported by Bearing Pads Considering the Nonlinear Lift-Off Effect
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022254
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-10896 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-10896
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-10896
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04022254
+AB - Ultrahigh-performance concrete (UHPC) is an advanced cement-based material with a compressive strength greater than 150&nbsp;MPa. The application of UHPC on prestressed girders allows the design of very long spans with thin sections. However, the increased slenderness, low lateral flexural stiffness, flexible supports, and beam imperfections make lateral instability critical. Therefore, this paper presents an analytical prediction of precast beams’ behaviors considering the nonlinear contact interaction with the bearing pads. The nonlinear geometric theory for the slender element is coupled with the nonlinear contact mechanism developed between the beam and pad through the energy approach. The proposed solutions are compared with the equations available in the literature that consider the linear stiffness contact interaction. Changes in the limit load of up to 84% were a result of the lift-off effect (contact interaction). From the results, the UHPC is highly sensitive to lateral instability, giving a maximum load/dead weight ratio of up to 1.08 where the common technical recommendation is greater than four.
+
+
+    
+        AU - Zhen-Yu Chen
+    
+        AU - Xiang-Lin Gu
+    
+        AU - Xiao-Ling Zhao
+    
+        AU - Elyas Ghafoori
+    
+        AU - Qian-Qian Yu
+    
+
+TI - Fatigue Tests on Fe-SMA Strengthened Steel Plates Considering Thermal Effects
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022255
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11694 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11694
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11694
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04022255
+AB - An iron-based shape memory alloy (Fe-SMA) can be used to conveniently apply prestress strengthening via a heating and cooling procedure. Material-level tests demonstrated that prestress of Fe-SMAs is sensitive to mechanical and thermal loading. Durability of steel structures strengthened by Fe-SMAs when subjected to harsh service conditions, such as coupled thermomechanical cycles is not fully understood. In this study, high-cycle fatigue tests were conducted on damaged steel plates retrofitted with Fe-SMA strips. Four temperature scenarios were adopted: room temperature (RT), a low temperature (LT) of −20°C, a high temperature (HT) of 60°C, and a cyclic temperature (CT) from −20°C to 60°C. Results showed that regardless of temperature variation, the Fe-SMA presented reliable repairing effects on steel plates, of which, the fatigue life was 2.1–3.5 times larger than that of the unstrengthened samples. The difference in coefficients of thermal expansion (CTEs) between the Fe-SMA and steel, as well as loss of prestress of the Fe-SMA due to fatigue and thermal loading, both affected the fatigue performance of the retrofitted specimens.
+
+
+    
+        AU - Zheng Li
+    
+        AU - Fei Chen
+    
+        AU - Minjuan He
+    
+        AU - Weiguo Long
+    
+        AU - Jiajia Ou
+    
+        AU - Minghao Li
+    
+
+TI - Experimental Investigation on Self-Centering Steel-Timber Hybrid Beam-Column Connections
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022256
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11570 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11570
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11570
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04022256
+AB - Self-centering heavy timber frames rely on the self-centering beam-column timber connections to limit damage and provide the recentering capability. However, low compressive strength and stiffness perpendicular to the grain of the timber columns have long been a design challenge, which yields low initial post-tensioning forces and possibly a significant loss of post-tensioning forces over the building service life. To address this issue, this paper proposes a new design solution for the self-centering steel-timber hybrid beam-column connections, in which the timber column is replaced by a steel-timber composite column. Cyclic tests were conducted on four beam-column connection specimens with post-tensioning. During the gap-opening, the composite column provided a stiff foundation to the timber beam. The hysteretic curves of all four connections were in a flag shape. Compared with self-centering beam-column timber connections that had the same geometry and material properties, the proposed connection had a larger connection stiffness and an improved efficiency of dissipating energy. After the cyclic loading, the loss of post-tensioning force of the proposed connection was also lower than that of the counterpart timber connections.
+
+
+    
+        AU - Guohui Shen
+    
+        AU - Jianfeng Yao
+    
+        AU - Yong Chen
+    
+        AU - Haiwei Xu
+    
+        AU - Wenjuan Lou
+    
+        AU - Yong Guo
+    
+
+TI - Experimental Study of Wind Loads on Tubular Crossarms of Transmission Towers
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022257
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11211 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11211
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11211
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04022257
+AB - The actions exerted by yawed wind on the crossarm substantially differ from those on the tower body due to the presence of the angle between the crossarm’s cross-section and the incoming flow, and this phenomenon deserves a better understanding. Focusing on the tubular crossarms with round-section members, this paper aims to determine insights into wind actions, as affected by various factors, such as the tower type, the mean width to mean height ratio, the solidity ratio, and the wind incidence angle, and thereby derive the wind loads for design. Accordingly, a succession of wind tunnel tests was conducted by using quadrilateral and triangular crossarm models with various solidity ratios and mean width to mean height ratios. The method of direct force measurement (DFM) is employed for the high frequency force balance (HFFB) test to attain the transverse and longitudinal forces on the crossarm simultaneously. It was found that the wind load coefficients increase with increases of the mean width to mean height ratio and decreases of the solidity ratio. Moreover, in the case of the incoming flow perpendicular to the crossarm face, it is concluded that compared to the quadrilateral crossarm, the triangular crossarm possesses a relatively smaller drag coefficient, provided a moderate mean width to mean height ratio of 1.19. Furthermore, an analysis of the experimental results shows that the skewed wind load factor specified in the relevant codes would overestimate the effects of the wind incidence angle and the variations in mean width to mean height ratio, which is evident in the tests but not considered in the codes. It is worth noting that the experimental results show that the crosswind force is pronounced, which is usually ignored in the skewed wind load factor-based approach. Comparatively, using wind load distribution factors seems to be more rational. Thus, the corresponding estimating equations are proposed for the wind load-distribution factors of the crossarms, which agree well with the experimental results. The developed equations would greatly facilitate the determination of wind loads on tubular crossarms.
+
+
+    
+        AU - Xiao Ding Bu
+    
+        AU - Jeffrey A. Packer
+    
+
+TI - Hidden Toe Welds in RHS-to-RHS Overlapped K-Connections
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022258
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11800 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11800
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11800
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04022258
+AB - The effects of hidden toe welds on the static behavior and strength of rectangular hollow sections to rectangular hollow sections (RHS-to-RHS) overlapped K-connections is investigated. Five full-scale welded specimens with a high overlap ratio were fabricated and tested under quasistatic loading in a universal testing machine, with the existence of hidden toe welds and branch loading condition varied. The experimental results were used to validate corresponding numerical models, and a parametric study was performed thereafter. The experimental and numerical results indicate that the overlapped K-connection capacity is affected by the presence of a hidden toe weld and the branch load case but remains within a reasonable range of the capacity predicted by certain codes and guides. Considering all the branch load cases studied, the hidden toe in a partially overlapped K-connection can be left unwelded, while some modifications are suggested to current design recommendations to account for this. A new method for calculating the branch local failure limit state is proposed, which can be used to accurately predict the capacity of overlapped RHS K-connections, without considering hidden toe welds in partially overlapped K-connections.
+
+
+    
+        AU - Yu Shen
+    
+        AU - Fabio Freddi
+    
+        AU - Yongxing Li
+    
+        AU - Jianzhong Li
+    
+
+TI - Enhanced Strategies for Seismic Resilient Posttensioned Reinforced Concrete Bridge Piers: Experimental Tests and Numerical Simulations
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022259
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11831 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11831
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11831
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04022259
+AB - Recent studies have proposed and investigated the use of unbonded posttensioned (PT) bars in bridge substructure systems to improve their self-centering behavior. However, the lateral loading resistance and self-centering capacities of reinforced concrete (RC) piers with PT bars (i.e.,&nbsp;the posttensioned RC bridge piers: PRC piers) could be easily compromised by early crushing of the base compression toe during a seismic event. Hence, in order to enhance the pier base integrity, the present study proposes and experimentally investigates three simple strategies for enhancing the seismic-damage resistance of PRC piers based on the use of (1)&nbsp;a steel tube to encase the PRC pier’s end segment; (2)&nbsp;ultrahigh performance concrete at the PRC pier’s end segment; and (3)&nbsp;engineered cementitious composite mortar bed underneath the pier bottom. The performance of these three PRC piers was assessed by comparing them with a conventional PRC pier under cyclic loading and considering the damage evolution and the cyclic force-displacement response. The comparison shows that the proposed enhanced PRC solutions allow improving the seismic performance of the system sustaining large lateral drifts with good self-centering behavior. Moreover, based on the test results, finite element models accounting for PT force loss and the rocking characteristics were validated to reproduce the piers’ cyclic response, thus highlighting the importance of considering PT force loss during numerical simulations.
+
+
+    
+        AU - Ahmed Yassin
+    
+        AU - Mohamed Ezzeldin
+    
+        AU - Lydell Wiebe
+    
+
+TI - Experimental Assessment of Resilient Controlled Rocking Masonry Walls with Replaceable Energy Dissipation
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022260
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11258 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11258
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11258
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04022260
+AB - In recent years, several studies have been conducted to evaluate the seismic response of controlled rocking masonry walls (CRMWs) that depend on unbonded post-tensioning (PT) tendons. The current paper describes the quasi-static cyclic testing of proposed controlled rocking masonry walls that omit PT but incorporate externally attached energy dissipation (ED-CRMWs). The proposed external energy dissipation (ED) is a flexural yielding device, named a flexural arm, that is bolted to the wall through a special steel hollow block to allow simple and fast replacement after an earthquake. As such, this wall system overcomes the limitation of internal ED devices (e.g.,&nbsp;unbonded axial yielding bars) of being unreachable and unreplaceable after damage due to yielding or fracturing. In addition, the paper reports the retesting of the proposed controlled rocking wall after being repaired and subsequently compares the performance to that of the original wall in order to evaluate the wall resilience following seismic events. The experimental results are discussed in terms of the failure modes and damage pattern, force–displacement response, wall lateral load capacity, residual drifts, displacement ductility, and ED capacity. The results show that using a special hollow steel block at strategic locations produced a high displacement capacity of 5.0% drift without strength degradation and preserved the intended self-centering with residual drifts of less than 0.2% until at least 3.7% lateral drift. The flexural arm also had significant ductility capacity, where the walls reached 5.0% drift without buckling or fracturing of the arms. Both the original and the repaired walls exhibited limited and localized damage at the wall toes, thus positioning the proposed ED-CRMWs as a resilient system for masonry construction. Finally, the paper presents design recommendations that could be considered for introducing ED-CRMWs with flexural arms in future relevant standards.
+
+
+    
+        AU - Paul W. Richards
+    
+        AU - Amy J. McCall
+    
+        AU - Justin D. Marshall
+    
+
+TI - Functional Recovery of Steel Special Moment Frames
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022261
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11567 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11567
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11567
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04022261
+AB - Steel special moment frames (SMFs) designed per current codes will likely require major repair or be a total loss after design earthquake (DE) shaking. Functional recovery of SMFs can be improved by designing to stricter drift limits, improving postyield stiffness, or improving repairability. In this study, FEMA P-58/ATC-138 (beta) was used to determine the most effective option for improving functional recovery. Eighteen SMFs were designed with different heights (4, 6, and 8 stories), different risk categories (II and IV), and different connections (with varying postyield stiffness and repairability) and were analyzed under response history analysis (RHA). Results from the RHA were used in the FEMA P-58/ATC-138 (beta) analyses to quantify functional recovery for each design. The building designs showed that 6- and 8-story SMFs designed for Risk Category IV were 1.8 to 2.2 times heavier than Risk Category II designs, and that the direct cost premium for Risk Category IV design (versus Risk Category II) was 4%–14% of the total building costs. Response history analysis showed that SMFs with enhanced postyield stiffness had up to 47% lower residual drifts than SMFs with typical postyield stiffness. FEMA P-58/ATC-138 (beta) analyses showed that SMFs with enhanced postyield stiffness and repairability designed to Risk Category II had functional recovery comparable to Risk Category IV SMFs with typical postyield stiffness and repairability. While some proposals to improve functional recovery focus primarily on stiffness and strength, this study demonstrates the relative value of postyield stiffness and repairability.
+
+
+    
+        AU - Peng Zhang
+    
+        AU - M. Shahria Alam
+    
+
+TI - Accuracy of Buckling Strength Curves Using Direct Strength Method in Estimating Axial Strengths of Cold-Formed Steel Members under Compression: Critical Review
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022262
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-10770 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-10770
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-10770
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04022262
+AB - Current design specifications for cold-formed steel incorporate the Direct Strength Method (DSM) to design cold-formed steel members under compression. Although the DSM has been used for quite some time, its buckling strength curves have not been experimentally assessed thoroughly. This study attempts to fulfill this objective. First, a thorough literature review was conducted to inspect the buckling strength curves in the DSM, and the issues are summarized in this paper. Second, experimental data associated with compression tests of 453 solid and 228 perforated cold-formed steel columns were collected from the literature. Design parameters (e.g.,&nbsp;elastic critical buckling loads) of the columns were then determined and assembled with the experimental results in a database to be used as a source to assess the buckling strength curves in the DSM. Finally, the LRFD resistance factors (ϕc) of the DSM buckling strength curves were determined in accordance with the AISI S100. This paper highlights the level of accuracy of the buckling strength curves in the DSM.
+
+
+    
+        AU - Xinhao Pan
+    
+        AU - Gaohui Wang
+    
+        AU - Wenbo Lu
+    
+        AU - Yang Wang
+    
+        AU - Yizhan Shu
+    
+        AU - Xiangyu Zhang
+    
+
+TI - Blast Performance and Damage Evaluation of High Arch Dams Subjected to Far-Field Underwater Explosions: Consideration of Joints
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022263
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11918 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11918
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11918
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04022263
+AB - The blast performance of 300-m-high arch dams is an important subject which has been studied widely over the years. An arch dam is convex on the upstream face, and the load is transmitted along the arch axis to the abutments at the ends of the dam. However, the integrity of arch dams is affected by the transverse contraction joints. The blast resistance performance of a 300-m-high arch dam subjected to far-field underwater explosion was investigated considering contraction joints. The acoustic–structural method was employed to model the underwater explosion loads and the interactions among the dam–reservoir–foundation system. To verify the reliability of the acoustic–structural method, a 1∶200-scale model of an arch dam subjected to far-field underwater explosion was tested. A zero-thickness cohesive element was employed to model the mechanical behavior of contraction joints with grouting. Nonlinear dynamic response and damage progress of the high arch dam with transverse contraction joints to the far-field underwater explosion were investigated in terms of peak displacement, velocity, and damage modes. The tensile damage mechanism of the arch dam subjected to the far-field underwater explosion was discussed. The damage modes and deformation mechanism of high arch dams at the different positions of initiation point were presented. A damage index based on the damaged area in the downstream face and foundation face is proposed to evaluate the blast performance of high arch dams subjected to far-field underwater explosions. The results show that the contraction joints have a certain influence on the nonlinear dynamic and damage modes of high arch dams subjected to the far-field underwater explosion. The damage is larger with explosive charges near the one-quarter arch ring in the weak stiffness bank due to the asymmetry of the arch dam.
+
+
+    
+        AU - Xun Chong
+    
+        AU - Huiling Sha
+    
+        AU - Linlin Xie
+    
+        AU - Yufei Guo
+    
+
+TI - Seismic Performance Comparison of Hybrid, Isolation, and Damping Control Structures through 1/2-Scale Shaking Table Tests Based on Chinese Standard
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022264
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11785 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11785
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11785
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04022264
+AB - A hybrid control structure (HCS) using seismic isolation at the base and energy dissipating cladding panel system (EDCPS) in the superstructure was proposed to realize enhanced seismic performance objectives of the main structure and nonstructural walls. To verify the feasibility of the HCS and validate its advantages in controlling the damage of structures compared with a seismic isolation structure (SIS) and a damping structure (DS), 1/2-scale shaking table tests were conducted on a HCS, an SIS, and a DS designed based on Chinese Standard. The seismic performance of the three damage control structures under different earthquake levels and ground motions (i.e.,&nbsp;normal and velocity pulse-type ground motions) were investigated, including the damage characteristic, global responses, and isolator and damper behaviors. The test results indicated that the HCS provided the best control effect and remained elastic under the maximum considered earthquake (MCE). In contrast, slight and moderate damage were observed in the main structures of the SIS and DS under the MCE, respectively. Under the service level earthquake, the seismic response of the HCS was similar to or even greater than that of the SIS. While under the design basis earthquake and MCE, the U-shaped steel dampers in the HCS yielded and partially dissipated the earthquake energy; thus, this resulted in an obvious reduction in the drift ratio compared with that of the SIS. No damage to the cladding panels was observed in the HCS and DS, which indicated that the EDCPS was effective in controlling damage to the panels. In addition, a velocity-pulse type ground motion and the peak ground velocity significantly influenced the seismic responses of the HCS, SIS, and DS, particularly under the MCE.
+
+
+    
+        AU - Qiang Zeng
+    
+        AU - Xiaonong Guo
+    
+        AU - Xu Yang
+    
+        AU - Shaojun Zhu
+    
+        AU - Zhengning Li
+    
+
+TI - Constrained Stochastic Imperfection Modal Method for Nonlinear Buckling Analysis of Single-Layer Reticulated Shells
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022265
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11251 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11251
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11251
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04022265
+AB - Single-layer reticulated shells (SLRSs) are highly sensitive to initial geometric imperfections (IGIs) with respect to their nonlinear buckling behavior. However, the traditional random imperfection modal method assumes the joint deviations to be independent, which leads to the member length deviations always exceeding the manufacturing error limit given by design codes, i.e.,&nbsp;the IGIs are unrealistic, and the nonlinear buckling load must be inaccurate. This paper proposes a simple and efficient method to generate stochastic IGIs for SLRSs considering topology constraints. By applying nonlinear heuristically perturbed virtual interaction forces to the joints, the joint coordinates can be updated using the iterative forward Euler method, aiming to generate realistic stochastic IGIs. Numerical experiments show that all the members in the IGIs generated by the proposed method satisfy the topology constraint, resulting in more significant out-of-plane joint deviations. Moreover, compared with the traditional method, the proposed method has better potential to search for the lower boundary of the nonlinear buckling load of SLRSs.
+
+
+    
+        AU - Guohua Sun
+    
+        AU - Zhiqin Li
+    
+        AU - Youzhen Fang
+    
+        AU - Jun Lin
+    
+        AU - Futao Gong
+    
+
+TI - Cyclic Response of Sloped Extended End-Plate Moment Connections
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022266
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11810 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11810
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11810
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04022266
+AB - Bolted extended end-plate (BEEP) moment connections are extensively recommended in design standards to be used as a prequalified beam-to-column connection in steel portal frames and special moment frame buildings. These standards assume that in such a connection, the beam is perpendicular to the steel column or that the slope angle of the steel beam is very small. To expand the engineering applications of BEEP connections in large-slope angle buildings, in this study, three one-sided specimens at half scale with 0°, 15°, and 30° slope angles, respectively, were designed and tested under cyclic loading. All dimensions of these specimens were identical, except the slope angles of their steel beams. The experimental results showed that the maximum rotation angles of these sloped BEEP connections exceeded 0.05&nbsp;rad, and they were remarkably larger than those of other types of sloped rigid-moment connections tested by Mashayekh and Uang. However, the force concentration that occurred in the flange at the heel location was similar to that observed by them, and it led to the development of brittle fractures. Particularly, with the increase in the slope angle, the force concentration tended to become more severe. Three strengthening schemes for reducing the force concentration and enhancing the deformation capacities of the sloped BEEP connections subjected to the extremely rare earthquake, i.e.,&nbsp;less than 2% probability of exceedance in 50&nbsp;years, were evaluated using the finite element approach. These were Scheme I: stiffening the rib in the acute-angle zone, Scheme II: employing a reduced beam section (RBS) connection, and Scheme III: forming a curved web cut in a non-RBS beam. The analytical results showed that the three schemes decreased the von Mises stress level in the acute-angle zone of the connection web. Scheme I enhanced the initial rotation stiffness, flexural strength, and deformation rotation capacity. For Scheme II, a RBS configuration was employed, which effectively improved the connection rotation capacity, whereas it decreased the flexural strength of the sloped BEEP connection. Scheme III without a reasonable design led to a degradation of the hysteretic performance, moderate rotation capacity, and low flexural strength. Therefore, Schemes I and II leading to much better seismic behavior than Scheme III are recommended.
+
+
+    
+        AU - Yongjae Yu
+    
+        AU - Sangho Lee
+    
+        AU - Hyukjun Ahn
+    
+        AU - Jae-Yeol Cho
+    
+
+TI - Residual Performance of Reinforced Concrete Beams Damaged by Low-Velocity Impact Loading
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022267
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11697 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11697
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11697
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04022267
+AB - With the advancement of material science and infrastructure design technology, there is an increased need to reflect various loading scenarios in the design of civil infrastructures, including extreme loads such as impact and blast. However, structural behavior under extreme loads has been observed to be very different from that under static loads due to the high-rate loading condition. Therefore, extensive experimental and analytical studies have been conducted to explain the structural behavior under impact loading. From these efforts, various discussions have been presented on the impact behavior and the evaluation of the impact resistance of structures. However, despite the fact that the repair or reinforcement of structures damaged by impact loads is a critical issue, studies of the residual performance of impact-damaged structures are insufficient. This paper presents an experimental study to improve the understanding of the residual performance of impact-damaged structures. A total of 29 RC beams were tested under static loads to examine the effect of impact-damage on the residual behavior of RC beams. Of these, 8 RC beams were intact, and the other 21 RC beams suffered impact loading through drop weight impact tests and were damaged prior to the static flexural tests. The residual performance was evaluated by comparing the maximum load capacity, flexural stiffness, and displacement ductility of impact-damaged beams and intact beams. The comparison indicated that the flexural stiffness and displacement ductility of the impact-damaged RC beams decreased significantly, whereas their flexural strengths did not exhibit a significant difference. Predictive models for flexural stiffness and displacement ductility of the impact-damaged beams were suggested from the test results, and through these, the residual performance of the impact-damaged structure could be evaluated.
+
+
+    
+        AU - Shusheng Yi
+    
+        AU - Man-Tai Chen
+    
+        AU - Ben Young
+    
+
+TI - Stub Column Behavior of Concrete-Filled Cold-Formed Steel Semi-Oval Sections
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023001
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11667 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11667
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11667
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04023001
+AB - This paper is an attempt to investigate the structural behavior of concrete-filled cold-formed steel stub columns with semi-oval cross sections via experimental and numerical studies. The test campaign included thirteen stub columns tests on four semi-oval sections infilled with both normal and high strength concrete. The details of test campaign and key observations are described and discussed. Validated against the test data obtained from this study, finite element model was developed to emulate the compressive behavior observed from tests and then used to derive more numerical data via parametric analyses. It is worth noting that the current codified design provisions for concrete-filled steel tubular columns do not explicitly include the semi-oval sections investigated herein. The acquired results from the test campaign and numerical analyses were employed to evaluate the applicability of the American Specifications (ANSI/AISC 360 and ACI318) as well as the European Code (EN1994-1-1). The evaluation results indicate that the aforementioned design rules are generally conservative for compressive strength predictions, among which the predictions by the European Code are the most accurate. Design method considering strength enhancement and confinement effect was proposed with improved accuracy. It is suggested to use the proposed design method for the compressive design of concrete-filled cold-formed steel semi-oval stub columns.
+
+
+    
+        AU - Mark Grigorian
+    
+        AU - Siavash Sedighi
+    
+        AU - Marzie Ansary Targhi
+    
+        AU - Razie Ansary Targhi
+    
+
+TI - Sustainable Earthquake-Resistant Mixed Multiple Seismic Systems
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023002
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11510 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11510
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11510
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04023002
+AB - Mixed multiple seismic systems (MMSSs) are ideally suited for sustainable seismic design (SSD). MMSSs are combinations of two or more different earthquake-resisting structures (ERSs) that provide lateral support for gravity frameworks. Same-system combinations have been demonstrated to not be suitable for SSD. Regardless of the carbon footprint reduction, unless a structure has been designed for seismic sustainability it would be disposable with greater harm to the environment. Here, design means planning for both seismic resistance as well as post-earthquake realignment and repair (PERR). Earthquakes are random, natural, and dynamic events, whereas PERR is a deliberate, manual, and static process. In SSD the practicality of PERR is as important as the relevance of the theoretical assumptions. In SSD the non-lateral-resisting items are designed not to partake in seismic resistance, nor hinder the realignment process. Additionally, efforts are made to mitigate the P-delta effects that undermine the global strength of the system and oppose the recentering effort. The purpose of this paper is to identify and remedy design flaws and physical issues that prevent MMSSs from achieving seismic sustainability as cost-effectively as possible. Two newly developed technologies, the ladder moment frame (LMF), and the fail-safe (FS) system, as well as a capacity distribution rule together with six simple axioms are introduced. Brief descriptions of LMF and FS are presented in the text. Any structure designed to survive earthquakes is expected to either remain elastic and stable or be capable of post-earthquake realignment and repairs. Sustainable seismic design is a new field of research that promises improved environmental conditions and innovative developments in structural engineering. Regardless of the carbon footprint reduction, unless a structure has been designed for the purpose, it would be disposable with greater harm to the environment. Here, design implies planning for seismic resistance as well as post-earthquake realignment and repairs. The difference between conventional and sustainable seismic design is in the modes of behavior during and after the event. In conventional seismic design, the object is to satisfy code-specified requirements; in sustainable seismic design, the post-earthquake attributes of the system are as important as those during the event. The paper shows that seismic sustainability can be achieved without resorting to untenable costs and technologies. In light of current findings, it is suggested to include post-earthquake realignment and repairs in seismic design guidelines for new construction.
+
+
+    
+        AU - R. Suhail
+    
+        AU - G. Amato
+    
+        AU - M. Shahria Alam
+    
+        AU - B. Broderick
+    
+        AU - M. Grimes
+    
+        AU - D. McCrum
+    
+
+TI - Seismic Retrofitting of Nonseismically Detailed Exterior Reinforced Concrete Beam-Column Joint by Active Confinement Using Shape Memory Alloy Wires
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023003
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11843 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11843
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11843
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04023003
+AB - It is widely accepted that the seismic retrofitting of nonseismically detailed reinforced concrete beam-column joints (BCJs) in reinforced concrete (RC) frame buildings is an urgent necessity due to its high vulnerability and potential consequences in seismic events. As a result, considerable effort has already been put into developing efficient and practical retrofitting solutions for such BCJs. Most of the existing techniques, however, are based on either passive confinement techniques, for example, fiber reinforced polymer (FRP) wrappings, or involve a considerable joint enlargement, which, in many cases, is undesirable. In this study a new technique of retrofitting BCJs is proposed by employing a more effective method of confinement (i.e.,&nbsp;active confinement), utilizing the shape recovery feature of shape memory alloys (SMAs). To evaluate the performance of the proposed retrofitting scheme, experimental tests were conducted on full-scale BCJ specimens. The efficacy of the proposed retrofitting scheme is evaluated in terms of enhancement in strength, ductility, energy dissipation capacity, damage reduction in the specimens, and ease of application. The results from this study suggest that the proposed retrofitting scheme could be effectively used in achieving the full capacity of the joints corresponding to beam yielding and consequently enhances the energy dissipation capacity of the system significantly. The test results demonstrated that the proposed retrofitting scheme performs excellently in reducing the joint shear strain (core damage) (to almost zero or negligible) and also in retaining the full axial load carrying capacity of the column, even at very large drift values. The proposed retrofitted scheme could also be conveniently used in cases where the capacity ratio of column-to-beam needs to be improved. This paper presents a novel retrofitting technique for beam-column joints of a reinforced concrete frame buildings. Beam-column joints that are either falling short of the minimum recommended strength to withstand medium to strong earthquakes or requiring an upgrade due to a change in use or class could be retrofitted using this technique. This proposed retrofitting scheme consists of two main components: (1)&nbsp;precast concrete attachments that are first attached to the column section near the joint region, and (2)&nbsp;shape memory alloy wire that is wound over the precast concrete attachment. The proposed scheme employs the unique material property of shape memory alloy wire. Shape memory alloy wire is a class of smart materials that have several unique material properties, including the shape memory effect used in this technique. The process requires heating of shape memory alloy wires to about 200–300°C. Heating shape memory alloy wires causes them to shorten due to shape memory effect and thus results in an inward pressure in the confined region. The inward pressure applied by the shape memory alloy wire spiral together with the supplementary stiffness provided by the precast concrete attachment makes the overall joint considerably stronger and ductile. The proposed technique could be easily used in retrofitting the external beam-column joints—the most critical ones. Moreover, it has a potential to be used in conjunction with other conventional materials, such as steel or fiber reinforced polymer, to reduce the overall cost of the retrofitting.
+
+
+    
+        AU - Junli Lyu
+    
+        AU - Bai Sun
+    
+        AU - Rukai Li
+    
+        AU - Anqi Li
+    
+        AU - Qichao Chen
+    
+        AU - Zili Wang
+    
+
+TI - Fire Resistance of Composite Beams with Composite Slabs under Hinge Constraints
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023004
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11588 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11588
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11588
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04023004
+AB - To study the fire resistance of monolithic composite beams and separated composite beams with composite slabs under hinge constraints, constant-load temperature rise tests were conducted on a full-scale two-span continuous beam. The test phenomena, temperature distribution, displacement changes, and failure modes of the composite beam were studied during the entire process of the fire. The results showed that the cracking of the seams between the precast slabs of the separated composite slabs led to an increase in the burned area of the composite slabs and an increase in the temperature of the composite beams. No obvious cracking was observed at the postpouring seams of the monolithic composite slabs, the integrity and fire resistance of which were better. After the temperature stopped increasing, the steel beam cooled faster than the concrete composite slabs. The deformation recovery of the steel beam was restricted by the composite slabs, which were subject to the joint action of the constraining force generated by the deformation recovery of the steel beam and the external load, resulting in longitudinal cracks along the medial axis of the top of the slabs. The deformation recovery ratios of the two types of composite beams with composite slabs under hinged conditions after the temperature stopped increasing were similar. The calculation method of the axial force and horizontal displacement of the composite beam with composite slabs under the hinge constraint at the beam end in the fire was established, and the calculation results were in good agreement with the test results, with good calculation accuracy.
+
+
+    
+        AU - Yonghui An
+    
+        AU - Hanwen Jiang
+    
+        AU - Chunguang Lan
+    
+        AU - Jinping Ou
+    
+
+TI - Real-Time Damage Self-Diagnosis and Self-Localization Brillouin Distributed Optical Fiber–Fiber-Reinforced Polymer Composite Smart Cables
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023005
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11534 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11534
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11534
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04023005
+AB - Cables are important components of long-span space structures, cable-supported bridges, slopes, and so on. However, they often suffer from damage such as wire breakage, corrosion, and anchor head loosening, which threatens structural safety seriously. Therefore, it is very important to diagnose and localize their damage. To address this problem, a real-time damage self-diagnosis and self-localization smart cable is proposed. It is made of a polyethylene cover pipe and some parallel intelligent steel strands with the Brillouin distributed monitoring capability. Fiber-reinforced polymer (FRP) and optical fiber are put together in the thermosetting molding process to form the intelligent central wire of each intelligent steel strand. When the side wire of the steel strand reaches the ultimate load, the intelligent central wire only reaches about 50% of its ultimate load, so it can be used in the real-time monitoring of side wires. Numerical models of seven-wire steel strands with different lengths were established, and the broken wire damage was simulated by changing coupling conditions in single and multiple damage cases. To further verify the proposed smart cable, experiments were carried out based on two intelligent steel strands with the length of 34.5&nbsp;m. Experimental damage cases were simulated by cutting side wires at different positions under different loads. Both numerical and experimental results show that the change in the tension strain of the intelligent central wire can indicate the damaged location of the broken side wire. For a healthy steel strand, the tension strain of the central wire is a constant value; for a damaged steel strand, damage can be localized according to the strain waveform of the intelligent central wire and its ratio of peak strain to stable strain. The proposed smart cable has functions of real-time stress self-sensing, damage self-diagnosis, damage self-localization, damage self-warning of any side wire, and its central wire has excellent corrosion resistance; it can be well used in life-cycle real-time structural health monitoring of cable structures/substructures, which dramatically reduces the probability of cable accidents, and lays a good foundation for smart civil structures.
+
+
+    
+        AU - Kangming Chen
+    
+        AU - Hanhui Huang
+    
+        AU - Qiaofeng Zheng
+    
+        AU - Qingxiong Wu
+    
+        AU - Shozo Nakamura
+    
+
+TI - Experimental Research on the Calculating Method of Stress Concentration Factor for CFST K-Joint
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023006
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11343 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11343
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11343
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04023006
+AB - The concrete-filled steel tubular (CFST) K-joint was taken as the research object, full-scale specimen tests and finite-element (FE) analysis of seven CFST K-joints and one steel tubular (ST) K-joint were carried out. The accuracy of CFST K-joint stress concentration coefficient (SCF) calculation using the existing K-joint SCF formula was discussed. Based on the effect of core concrete on the chord deformation mechanism, the releasing coefficient of CFST K-joint SCF was proposed. According to the relationship between releasing coefficient and stripping arc length, the calculation method of releasing coefficient was established by theoretical derivation. The calculation method of CFST K-joint SCF was then established based on the releasing coefficient and ST K-joint SCF. The obtained results show that the maximum SCF of the K-joint appears in the position of the intersecting weld between tension brace and chord near the crown toe of the chord. The maximum SCFs of the CFST and ST K-joints in order are obtained as 3.98 and 6.08, which indicates that the core concrete can reduce the SCF of the CFST K-joint by about 34.5%. The existing methods for calculating the SCF of CFST and ST K-joints fail to fully consider the influence of core concrete constraints and the coupling relationship between geometric parameters; therefore, the accuracy of CFST K-joint SCF calculation using the existing K-joint SCF calculation formula is low. By employing the proposed SCF calculation method, the calculation error of the CFST K-joint SCF can be reduced from 58.0% to 19.6%.
+
+
+    
+        AU - Junqing Xue
+    
+        AU - Davide Lavorato
+    
+        AU - Angelo M. Tarantino
+    
+        AU - Bruno Briseghella
+    
+        AU - Camillo Nuti
+    
+
+TI - Rebar Replacement in Severely Damaged RC Bridge Column Plastic Hinges: Design Criteria and Experimental Investigation
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023007
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-10419 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-10419
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-10419
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04023007
+AB - This paper presents a procedure for rehabilitating plastic hinges with damaged/fractured weldable longitudinal rebars in severely damaged reinforced concrete (RC) bridge columns and possible improvements regarding connection protection and plastic hinge development. Damaged/fractured longitudinal rebars are replaced with new rebar segments, and the basis of this approach involves connecting intermediate machined parts to the original longitudinal rebars by welding with an off-the-shelf steel equal angle. The proposed rehabilitation design procedure is based on capacity design principles, with equations that define the new geometries and required ductility, and it is validated experimentally on three 1∶6-scale RC circular column specimens. Compared with the original columns, the ductility capacity of the rehabilitated columns increased from 39% to 58%, and the energy dissipation (equivalent viscous damping ratio) increased from approximately 50% to 250%. The base shears of the rehabilitated columns were smaller than those of the original columns owing to the reduction in the rebar area; thus, shear failure was avoided, and the demand on the foundation was reduced. The rehabilitation procedure, by adopting a welding connection that is easily performed on site and concentrates the damage in the new rebar segments, promises to be a quick, simple, reliable, and effective means to improve the ductility and shear capacity of RC bridge columns without using mechanical couplers or changing the column dimensions.
+
+
+    
+        AU - Suman Neupane
+    
+        AU - M. J. Ameli
+    
+        AU - Chris P. Pantelides
+    
+
+TI - Numerical Modeling of Column Piers with Recessed Spliced Sleeves and Intentional Debonding for Accelerated Bridge Construction
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023008
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11769 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11769
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11769
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04023008
+AB - The grouted splice sleeve (GSS) connection is considered to be an effective bending moment–resisting connection between precast RC members. This connection type has been used extensively in nonseismic regions. The application of such a connection type in moderate or high seismic regions has been investigated and considered for multistory moment frame buildings and highway bridges. A computational modeling strategy is proposed at local and global levels for developing an appropriate computational model for such a connection type using a recessed GSS connection with intentional debonding. A computational model capable of predicting the structural response under cyclic loading was developed using established material models and a forced-based beam-column element considering low-cycle fatigue of reinforcing bars, bar-slip, intentional debonding of reinforcing bars, and plastic hinge length. The proposed model for recessed GSS connections with intentional debonding was experimentally validated. The proposed model was subsequently used to obtain the seismic response of a three-column bridge bent to near- and far-field earthquakes in terms of the overall maximum drift ratio and the drift ratio at the maximum seismic force.
+
+
+    
+        AU - Justin R. Brown
+    
+        AU - Minghao Li
+    
+        AU - Alessandro Palermo
+    
+        AU - Stefano Pampanin
+    
+        AU - Francesco Sarti
+    
+
+TI - Analytical Modeling of Posttensioned C-Shaped CLT Core Walls
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023009
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11455 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11455
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11455
+SO - Journal of Structural Engineering 2023-03-01 149(3): 04023009
+AB - Post-tensioned (PT) timber technology, also referred to as Pres-Lam (prestressed laminated timber) provides a low damage seismic design solution. So far PT timber research and practical implementation have focused on moment resisting frames, planar shear walls and coupled planar shear wall—or column-wall-column—systems and their analytical prediction models were adapted and extended from precast concrete to account for the unique characteristics of engineered timber. Following a recent experimental study on a PT cross-laminated timber (CLT) C-shaped core-wall system aiming to enhance lateral strength and stiffness, this paper presents an analytical framework/model to capture three unique kinematic rocking mechanisms for a PT C-shaped CLT core-wall system connected primarily with self-tapping screws. Depending on the relative stiffness of the screwed connections to the PT and the energy dissipaters, the model considers different kinematic responses, and that a staged kinematic response could occur at different imposed core-wall base connection rotations. It also accounts for the material inhomogeneity of CLT with nonedge glued lamella and implements a nonlinear spring model for the screwed connections calibrated from component testing and expected elastic core-wall deformations. The study showed that, for the given specimen configurations presented, the compressive flange wall could be neglected for a PT C-shaped CLT core wall. The analytical model was verified against three large-scale 8.6&nbsp;m high PT C-shaped core-wall experimental tests and the model prediction error was within 10%. The analytical model was limited to capturing the envelope (push-over) curve of a four wall PT C-shaped CLT core-wall system.
+
+
+    
+        AU - Yi Shao
+    
+        AU - Avery Parks
+    
+        AU - Claudia P. Ostertag
+    
+
+TI - Carbon Footprint between Steel-Reinforced Concrete and UHPC Beams
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 06023001
+VI - 149
+IP - 3
+AID - 10.1061/JSENDH.STENG-11449 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11449
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11449
+SO - Journal of Structural Engineering 2023-03-01 149(3): 06023001
+AB - Due to its superior mechanical and durability performance, ultrahigh performance concrete (UHPC) has gained increasing applications worldwide. While studies have suggested different strategies to design reinforced UHPC beams, their resulting structural behavior is not yet well understood, and their carbon footprint has not been given considerable attention. Based on nonlinear finite element simulations and cradle-to-gate life-cycle analyses, this study compares the performance of two steel-reinforced concrete beams to steel-reinforced UHPC (R/UHPC) beams with the same flexural load capacity but different design strategies. Results show that an R/UHPC beam of the same cross-section but lower reinforcing ratio of a conventional concrete beam could show 166% higher carbon emission and 64% less deformation capacity than a control steel-reinforced concrete beam. On the other hand, a well-designed R/UHPC beam can (1)&nbsp;maintain the carbon footprint; (2)&nbsp;reduce the section size and steel bar usage by 50% and 30%–53%, respectively; and (3)&nbsp;show equivalent or higher service-level stiffness and ultimate deformation capacity.
+
+

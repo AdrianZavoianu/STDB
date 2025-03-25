@@ -1,0 +1,398 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - T. M. Roberts
+    
+        AU - B. Achour
+    
+
+TI - Torsion and Bending of Braced Thin‐Walled Open Sections
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1-12
+VI - 116
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1990)116:1(1) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A1%281%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A1%281%29
+SO - Journal of Structural Engineering 1990-01-01 116(1): 1-12
+AB - The paper describes a theoretical and experimental study of the flexural and torsional properties of braced, thin‐walled, open sections, such as elevator core shear walls with lintel beams across openings at each floor level. The theoretical model developed is based on an equivalent closed section, and it is consistent with established open‐section and closed‐section behavior at the two extremes of bracing. For intermediate bracing, the theoretical model incorporates the influences of bending and shear deformation of the bracing, continuous shear flow around the equivalent closed section, and out‐of‐plane bending of the side walls, which is analyzed approximately using plate theory. The theoretical model is validated, for the entire range of bracing stiffness, by comparison with a series of tests on perforated, extruded aluminum tubes. The influences of continuous shear flow around the equivalent closed section and out‐of‐plane bending of the side walls, which have not been considered previously, are shown to be very significant for particular sections.
+
+
+    
+        AU - Michael Schlaich
+    
+        AU - Georg Anagnostou
+    
+
+TI - Stress Fields for Nodes of Strut‐and‐Tie Models
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 13-23
+VI - 116
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1990)116:1(13) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A1%2813%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A1%2813%29
+SO - Journal of Structural Engineering 1990-01-01 116(1): 13-23
+AB - Truss models have been developed and applied to the ultimate strength design and detailing of two‐dimensional reinforced concrete members loaded in their plane. Such a truss is composed of struts and ties which represent one‐dimensional stress fields. The nodes, however, form two‐dimensional stress fields whose bearing capacity also needs to be checked. The geometry of the nodes is only limited by the existing boundary of the plate, and not by the area formed by the intersection of the stress fields reaching the node. This makes it possible to show that for any node with an arbitrary number of struts of equal stress intensity, a stress field can be found that satisfies the lower bound theorem of plasticity. This stress field consists of several triangular and rectangular areas, which are separated by lines of stress discontinuity. The stress state inside each of these areas is homogeneous, either one‐dimensional or “pseudo‐hydrostatic.” An algorithm for the automatic generation of such stress fields is presented. It will further be shown that even if there are stress fields of different intensities, nodes as described can be formed. This is made possible by the introduction of “transition stress fields” and by exploiting the concrete tensile strength.
+
+
+    
+        AU - C. C. Weng
+    
+        AU - R. N. White
+    
+
+TI - Residual Stresses in Cold‐Bent Thick Steel Plates
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 24-39
+VI - 116
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1990)116:1(24) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A1%2824%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A1%2824%29
+SO - Journal of Structural Engineering 1990-01-01 116(1): 24-39
+AB - An experimental investigation of the residual stresses in severely cold‐bent thick high‐strength steel plates is presented. Both the sectioning and the hole‐drilling methods are used for residual stress measurement; the two sets of results are found to be in good agreement. Tension residual stresses on the inside surface of the bend range from 46% to 92% of the yield stress of the material. In addition, residual stresses through the plate thickness are measured using the sectioning method. A zigzag‐type residual stress distribution pattern through the plate thickness is observed. The test results are then compared to the values predicted by equations proposed by Dat in 1980. The cold‐bending behavior of the thick steel plates is also studied and the results are presented in a companion paper.
+
+
+    
+        AU - C. C. Weng
+    
+        AU - R. N. White
+    
+
+TI - Cold‐Bending of Thick High‐Strength Steel Plates
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 40-54
+VI - 116
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1990)116:1(40) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A1%2840%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A1%2840%29
+SO - Journal of Structural Engineering 1990-01-01 116(1): 40-54
+AB - The cold‐bending behavior of thick high‐strength steel plates is studied. Fifteen 1‐in. (25.4‐mm) and three 1.5‐in. (38.1‐mm) thick steel plates are cold‐bent to angles up to 90°, with bend radii of 1.5, 2.5, 3.5, and 5.5 in. Quantities measured include maximum surface strain, load‐displacement relationship, degree of springback, and residual stresses produced by the cold‐bending. Selected equations for predicting maximum surface strain and degree of springback are reviewed, and the values predicted by these equations are compared to test results. The results of the residual stress measurements are presented in a companion paper.
+
+
+    
+        AU - Marc Badoux
+    
+        AU - James O. Jirsa
+    
+
+TI - Steel Bracing of RC Frames for Seismic Retrofitting
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 55-74
+VI - 116
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1990)116:1(55) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A1%2855%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A1%2855%29
+SO - Journal of Structural Engineering 1990-01-01 116(1): 55-74
+AB - The use of steel bracing systems for retrofitting seismically inadequate reinforced concrete frames is examined. Diagonal bracing provides an excellent approach for strengthening and stiffening existing buildings for lateral forces. A variety of retrofitting objectives, ranging from drift control to collapse prevention, can be achieved. The designer can determine the force path in the retrofitted structure and adjust the strength and stiffness as needed. An analytical study is performed to gain understanding into the behavior of a braced frame under cyclic lateral loading, particularly frames with weak short columns. Inelastic buckling of the braces influences detrimentally the inelastic cyclic behavior of a braced frame. Instability can be prevented by using braces that yield in compression or buckle elastically at low axial loads. The advantages of altering beams of a braced frame with weak short columns are described. The beam strength can be reduced to produce a more favorable (ductile) frame failure mechanism. Combining bracing with beam alterations can significantly improve inelastic behavior of the braced frame.
+
+
+    
+        AU - Roman Wolchuk
+    
+
+TI - Lessons from Weld Cracks in Orthotropic Decks on Three European Bridges
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 75-84
+VI - 116
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1990)116:1(75) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A1%2875%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A1%2875%29
+SO - Journal of Structural Engineering 1990-01-01 116(1): 75-84
+AB - Weld cracks in orthotropic decks with closed ribs on the Haseltal and Sinntal bridges in West Germany and on the Severn Crossing in the United Kingdom occurred at the intersections of the discontinuous ribs with the floor beams and at the rib‐to‐deck welds, and were caused by inappropriate details and welds not suitable for transmitting stresses between the deck components at these junctions. Good practice requires continuity of the ribs through the floor beams, the use of welds with good penetration into the rib webs at their junction with the deck plate, and avoidance of welded attachments to the ribs or to the deck plate. No weld failures or cracks are known in orthotropic bridge decks with correct details and general performance record of such decks is satisfactory. Careful design, detailing and fabrication of orthotropic decks is essential, especially in cases with long rib spans. Insufficient attention to details can result in costly failures; there is no reason, however, to question the reliability of orthotropic decks where the rules of good design and fabrication practice have been observed.
+
+
+    
+        AU - Erdal Şafak
+    
+        AU - Mehmet Çelebi
+    
+
+TI - Method to Estimate Center of Rigidity Using Vibration Recordings
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 85-97
+VI - 116
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1990)116:1(85) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A1%2885%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A1%2885%29
+SO - Journal of Structural Engineering 1990-01-01 116(1): 85-97
+AB - A method to estimate the center of rigidity of buildings by using vibration recordings is presented. The method is based on the criterion that the coherence of translational motions with the rotational motion is minimum at the center of rigidity. Since the coherence is a function of frequency, a gross but frequency‐independent measure of the coherency is defined as the integral of the coherence function over the frequency. The center of rigidity is determined by minimizing this integral. The formulation is given for two‐dimensional motions. Two examples are presented for the method; a rectangular building with ambient‐vibration recordings, and a triangular building with earthquake‐vibration recordings. Although the examples given are for buildings, the method can be applied to any structure with two‐dimensional motions.
+
+
+    
+        AU - Hitoshi Kuwamura
+    
+        AU - Michio Sasaki
+    
+
+TI - Control of Random Yield‐Strength for Mechanism‐Based Seismic Design
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 98-110
+VI - 116
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1990)116:1(98) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A1%2898%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A1%2898%29
+SO - Journal of Structural Engineering 1990-01-01 116(1): 98-110
+AB - A weak‐beam‐strong‐column philosophy is generally recommended for the design of earthquake‐resistant multistory structures, because the associated overall collapse mechanism exhibits a high ductility against a strong ground motion. Some uncertainty factors, however, are considered to impair the overall collapse mechanism, such as randomness in members' yield strengths, randomness in earthquake motions, and randomness in mass‐distribution over the height of the building. Static and dynamic simulations on the inelastic performance of a six‐story rigid frame using a Monte Carlo method showed that the randomness in the yield strengths has a predominant influence on the failure mechanism and consequently on the system ductility. In practice, weak‐beam‐strong‐column structures will be realized only when the randomness in the yield strengths is reduced by means of a higher quality control in manufacturing and construction processes, otherwise a considerably high margin should be provided to column strengths.
+
+
+    
+        AU - Richard D. Hunt
+    
+        AU - Anthony H. Bryant
+    
+
+TI - Laterally Loaded Nail Joints in Wood
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 111-124
+VI - 116
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1990)116:1(111) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A1%28111%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A1%28111%29
+SO - Journal of Structural Engineering 1990-01-01 116(1): 111-124
+AB - Finite element analysis of laterally loaded nails is shown to give accurate load deformation relationships for a variety of nail joint details. Analytical results are in good agreement with experimental tests. Nonlinear nail and wood material properties from simple tests on nails and on the wood are used as input for the analyses. Analytical results for a wide range of joint details are presented. The results indicate how basic design‐code values should be modified to allow for differences in behavior between nail plate joints with thick steel, thin steel, or plywood joint plates. The effects of factors, such as nail head size and shape as well as direction of loading with respect to the wood grain, are also considered.
+
+
+    
+        AU - Arturo E. Schultz
+    
+
+TI - Experiments on Seismic Performance of RC Frames with Hinging Columns
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 125-145
+VI - 116
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1990)116:1(125) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A1%28125%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A1%28125%29
+SO - Journal of Structural Engineering 1990-01-01 116(1): 125-145
+AB - The seismic behavior of reinforced concrete (RC) frames with hinging columns, also known as strong‐beam–weak‐column (SBWC) frames, is studied from earthquake‐simulation test results of two small‐scale models. The models were subjected to scaled earthquake motions of various intensities on a unidirectional shake table. The paper describes some of the dynamic response measurements and their implication for SBWC‐frame performance. The response of the model structures to the “design” motion is found to be acceptable when large discontinuities in the vertical distribution of lateral strength are avoided. Maximum inelastic drifts of the structures were controlled through appropriate member proportioning, and stories comprising hinging columns exhibited adequate force‐deformation behavior and developed moderate displacement ductility factors.
+
+
+    
+        AU - I. D. Lefas
+    
+        AU - M. D. Kotsovos
+    
+
+TI - NLFE Analysis of RC Structural Walls and Design Implications
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 146-164
+VI - 116
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1990)116:1(146) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A1%28146%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A1%28146%29
+SO - Journal of Structural Engineering 1990-01-01 116(1): 146-164
+AB - Analytical work based on the use of a reliable finite element program has been carried out to investigate the influence of several parameters generally considered to be related to the causes of the observed behavior and strength characteristics of walls subjected to a combination of loads increasing to complete destruction. The program had been tested by comparing analytical predictions with published information obtained experimentally for a wide range of structural walls. Among the parameters investigated in the present study are the arrangement and amount of vertical and horizontal reinforcement, the detailing of the edge members, the height‐to‐width ratio, the axial load, and the concrete strength. The results obtained indicate that wall resistance is associated with the strength of concrete in the compressive zone in the region where the maximum moment develops and that strengthening of the compressive zone can lead to a significant increase in load‐carrying capacity, in spite of the considerable reduction of horizontal web reinforcement.
+
+
+    
+        AU - R. J. Melosh
+    
+        AU - Saeed Paydarfar
+    
+
+TI - Intrinsic Sensitivity Matrices for Structural Optimization of Trusses
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 165-176
+VI - 116
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1990)116:1(165) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A1%28165%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A1%28165%29
+SO - Journal of Structural Engineering 1990-01-01 116(1): 165-176
+AB - This paper introduces an intrinsic symmetric, positive or positive semi‐definite matrix that contains the essential data for characterizing the change of a measure of stress as a function of self‐equilibrating load states. The concept is important in the theory of structures because it isolates intrinsic characteristics of a structure's sensitivity to design changes irrespective of externally applied load cases. It is computationally important because it provides alternative and sometimes more efficient procedures for calculating design sensitivities than the conventional approach. The intrinsic sensitivity matrix leads to a necessary and sufficient basis for determining force redundancy and identifying elements whose removal will reduce an indeterminate structure to a determinate one. It leads to theorems relating changes in sizing variables to changes in element stresses. Its use offers to reduce calculations when there are many more loadings than elements and when a sequence of changes to the design requires a sequence of sensitivity matrices.
+
+
+    
+        AU - Mehdi S. Zarghamee
+    
+
+TI - Wind Effects on Single‐Ply Roofing Systems
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 177-187
+VI - 116
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1990)116:1(177) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A1%28177%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A1%28177%29
+SO - Journal of Structural Engineering 1990-01-01 116(1): 177-187
+AB - A failure mechanism for single‐ply roofing systems is formulated that accounts for air infiltration into the space underneath the inflated membrane and the billowing of the membrane with the fluctuations of wind pressure on the roof. The governing differential equation, expressed in terms of the pressure underneath the inflated membrane, is derived and solved numerically for a range of material, geometric, and wind parameters. The results are expressed in terms of a transient response factor (TRF), which is equal to the ratio of the fluctuating component of pressure across the membrane thickness to the fluctuating component of wind pressure. The results show that TRF increases with the rate of air infiltration into the space underneath the inflated membrane, the stiffness of the membrane, the magnitude of the fluctuating component of wind pressure, and the size of the inflated membrane. The inadequacies of the present empirical design procedures are discussed.
+
+
+    
+        AU - N. I. Fattuhi
+    
+
+TI - Column‐Load Effect on Reinforced Concrete Corbels
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 188-197
+VI - 116
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1990)116:1(188) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A1%28188%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A1%28188%29
+SO - Journal of Structural Engineering 1990-01-01 116(1): 188-197
+AB - The paper reports tests carried out on 18 150×150×200mm concrete corbels reinforced with main bars and steel fibers. The fibers are used as a secondary (shear) reinforcement. The volumes of main and fibrous reinforcements and the shear span‐to‐depth ratio are varied. A concentric load is applied on the column segment of eight specimens. Also, unequal loads are applied on the corbel segments of four of the double corbel specimens. Test results appear to indicate that neither column load nor unequal corbel loads have any significant effect on the strengths of different corbels. Also, the addition of steel fibers improves both strength and ductility of the corbels.
+
+
+    
+        AU - E. Brühwiler
+    
+        AU - I. F. C. Smith
+    
+        AU - M. A. Hirt
+    
+
+TI - Fatigue and Fracture of Riveted Bridge Members
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 198-214
+VI - 116
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1990)116:1(198) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A1%28198%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A1%28198%29
+SO - Journal of Structural Engineering 1990-01-01 116(1): 198-214
+AB - Estimates of remaining fatigue life and development of rational maintenance strategies for riveted bridges are hindered by a lack of knowledge of their resistance to fatigue and fracture. This paper presents results of fatigue tests of three types of full‐scale riveted bridge girders. If stresses are calculated using net‐section areas, detail category European Convention for Construction Steelwork (ECCS) 71 American Association of State Highway Traffic Officials [(AASHTO)D] provides a reasonable estimate of fatigue strength of mildly corroded steel and wrought‐iron elements. Also, the maximum shear stress range in rivets should not exceed 14 ksi (100 MPa). Fracture properties of wrought iron are examined in tests of Charpy specimens and fatigue‐cracked plates. Fracture toughness of wrought iron may be low and consequently it is important to obtain data corresponding to the material employed in the bridge under assessment. If toughness is low, other factors that contribute to critical crack length (e.g., built‐in stresses, geometry, and loading) become important, since critical crack lengths may not be detectable under certain conditions. Finally, a two‐criteria approach for determination of critical crack lengths has been identified to be useful for civil engineering structures.
+
+
+    
+        AU - Faris G. A. Al‐Bermani
+    
+        AU - Sritawat Kitipornchai
+    
+
+TI - Nonlinear Analysis of Thin‐Walled Structures Using Least Element/Member
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 215-234
+VI - 116
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1990)116:1(215) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A1%28215%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A1%28215%29
+SO - Journal of Structural Engineering 1990-01-01 116(1): 215-234
+AB - The paper presents the derivation of a deformation stiffness matrix for an asymmetric thin‐walled beam‐column element. This matrix KD is a function of element deformation and incorporates the coupling between axial stretching and the lateral and torsional deformations. The stiffness matrix derived and the solution procedure proposed may be used together with the linear and geometric stiffness matrices for thin‐walled beam‐column elements to analyze large deflection behavior of space frames comprising members in which the influence of sectorial warping in the section can be neglected. These include members with solid, tubular hollow, or angle type sections. The formulation has been applied to a variety of sample problems involving arbitrarily large deflections. Results obtained from the approach using only one element per member in most cases agree very well with independent analytical and other published finite element solutions. The proposed method is suitable for analyzing the nonlinear behavior of large space frames, such as transmission towers.
+
+
+    
+        AU - Polat Gülkan
+    
+        AU - Ray W. Clough
+    
+        AU - Ronald L. Mayes
+    
+        AU - George C. Manos
+    
+
+TI - Seismic Testing of Single‐Story Masonry Houses: Part 1
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 235-256
+VI - 116
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1990)116:1(235) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A1%28235%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A1%28235%29
+SO - Journal of Structural Engineering 1990-01-01 116(1): 235-256
+AB - The paper describes the design and testing of a series of single‐story masonry houses in a research program carried out at the University of California, Berkeley, Earthquake Engineering Research Center (EERC), with funding from the U.S. Department of Housing and Urban Development (HUD). The ultimate purpose of the research was to determine whether partial reinforcement should be required of such structures in order to qualify for HUD insurance, if they are intended to be built in Uniform Building Code Seismic Zone 2 areas of the United States. The test structures were 16‐ft square in plan dimensions and were assembled from full‐size wall‐panel components so that their damage mechanisms would duplicate the seismic behavior of actual houses. The excitations, applied by the 20‐ft square EERC Earthquake Simulator to the test structure were based on records obtained during several earthquakes in the western U.S., and were increased gradually in successive tests until significant damage had occurred. The results demonstrated that properly constructed houses with plain masonry walls are capable of resisting quite severe earthquake motions without developing an unacceptable degree of damage.
+
+
+    
+        AU - Ray W. Clough
+    
+        AU - Polat Gülkan
+    
+        AU - George C. Manos
+    
+        AU - Ronald L. Mayes
+    
+
+TI - Seismic Testing of Single‐Story Masonry Houses: Part 2
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 257-274
+VI - 116
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1990)116:1(257) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A1%28257%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A1%28257%29
+SO - Journal of Structural Engineering 1990-01-01 116(1): 257-274
+AB - This paper describes the performance of a series of single‐story masonry houses observed during a shaking table test program carried out at the University of California Earthquake Engineering Research Center (EERC), under the sponsorship of the U.S. Department of Housing and Urban Development (HUD). The design of the test structures and the conduct of the tests on the earthquake simulator are described in a companion paper. In evaluating the observed performance, the intensity of the test motions was characterized by the measured effective peak acceleration (EPA) so that they could be related to Uniform Building Code seismic zone 2. Based on the observed behavior, it is recommended that zone 2 be divided into subzone 2A for EPA values up to 0.1 g and subzone 2B for values between 0.1 g and 0.2 g. The observed results demonstrate that masonry houses without reinforcement may be permitted in both parts of zone 2 provided that the design guidelines recommended for each subzone are followed.
+
+
+TI - Erratum: “Shelf Angles for Masonry Veneer” by Clayford T. Grimm and Joseph A. Yura (March, 1989, Vol. 115, No. 3)
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 275-275
+VI - 116
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1990)116:1(275) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A1%28275%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A1%28275%29
+SO - Journal of Structural Engineering 1990-01-01 116(1): 275-275
+
+
+TI - Reviewers of the <i>Journal of Structural Engineering</i>
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 276-278
+VI - 116
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1990)116:1(276) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A1%28276%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A1%28276%29
+SO - Journal of Structural Engineering 1990-01-01 116(1): 276-278
+
+

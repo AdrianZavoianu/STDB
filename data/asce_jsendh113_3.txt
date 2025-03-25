@@ -1,0 +1,601 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Magdy S. L. Roufaiel
+    
+        AU - Christian Meyer
+    
+
+TI - Analytical Modeling of Hysteretic Behavior of R/C Frames
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 429-444
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(429) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28429%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28429%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 429-444
+AB - A theory for an enhanced mathematical model of R/C frame members is presented and its accuracy is verified by simulating various laboratory experiments for which data were available in the literature. New member and global damage parameters are defined. These damage parameters are useful for subsequent reliability analysis of damaged concrete frames.
+
+
+    
+        AU - Magdy S. L. Roufaiel
+    
+        AU - Christian Meyer
+    
+
+TI - Reliability of Concrete Frames Damaged by Earthquakes
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 445-457
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(445) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28445%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28445%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 445-457
+AB - A methodology that permits an assessment of the reliability of concrete frames, which may have been damaged in previous earthquakes, is presented. Using Monte Carlo simulation, damage probability matrices are constructed that take into account the variability of building strength parameters in addition to the randomness of ground motions. This methodology can serve owners and public officials as a decision aid for strengthening strategies and repairs.
+
+
+    
+        AU - Jong‐Shyong Wu
+    
+        AU - Chang‐Wang Dai
+    
+
+TI - Dynamic Responses of Multispan Nonuniform Beam Due to Moving Loads
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 458-474
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(458) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28458%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28458%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 458-474
+AB - This paper presents the use of a transfer matrix method to determine the natural frequencies and mode shapes of a multispan, nonuniform beam; and the application of a mode superposition technique to the analysis of dynamic response of the beam caused by moving loads. To check the reliability of the theory introduced and the computer program developed, the dynamic responses of a single‐span, simply supported uniform beam and a multispan, nonuniform beam subjected to a moving load with constant velocity were studied. The results obtained were compared with the exact solutions and existing information. It was found that good agreement was achieved. Next, the dynamic behavior of the multispan, nonuniform beam subjected to various conditions of moving load were investigated. The cases studied include a single and series moving load with constant and varying speeds traversing the beam in identical and opposite directions.
+
+
+    
+        AU - John B. Kennedy
+    
+        AU - Mohamed H. Soliman
+    
+
+TI - Temperature Distribution in Composite Bridges
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 475-482
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(475) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28475%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28475%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 475-482
+AB - Thermal stresses in composite concrete deck slab‐on‐steel beam bridges can be significant in comparison to dead or live load stresses. Specifications by AASHTO do not provide guidance for the vertical temperature distribution through the depth of the composite bridge, while the Ontario Highway Bridge Design Code does require the designer to account for the effects of temperature differentials, but is deficient in several aspects. Based on a synthesis of several theoretical and experimental studies on prototype bridges, a simple but realistic vertical temperature distribution through the section depth is proposed. Maximum and minimum values of temperature differentials, consistent with observed field measurements, are also presented. The proposed distribution is linear through the depth of the slab and uniform through the depth of the steel beam. This distribution also leads to simple formulas to estimate the thermal stresses in simple and continuous composite bridges.
+
+
+    
+        AU - Nur Yazdani
+    
+        AU - Pedro Albrecht
+    
+
+TI - Risk Analysis of Fatigue Failure of Highway Steel Bridges
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 483-500
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(483) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28483%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28483%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 483-500
+AB - A probabilistic fracture mechanics model was developed for determining the risk of fatigue failure of steel highway bridges. The model consists of: (1) stochastic inputs for crack growth rate, fracture toughness, initial crack size, and load history; (2) a deterministic fracture mechanics calculation of crack growth; and (3) a Monte Carlo simulation to obtain the output variable, i.e., the fatigue life. The following effects on the risk of failure were examined: inspection interval, truck weight, truck traffic, system versus detail reliability, and length of service life extension. The model was applied to three bridges with cover‐plated girders. It was found to predict well the short service life of the Yellow Mill Pond Bridge, Connecticut, in which the cover‐plate end details began to fail 12 yrs after bridge opening. The model is particularly useful in determining the risk of extending the service life of a bridge beyond its intended design life.
+
+
+    
+        AU - Emil Simiu
+    
+        AU - Erik M. Hendrickson
+    
+
+TI - Design Criteria for Glass Cladding Subjected to Wind Loads
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 501-518
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(501) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28501%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28501%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 501-518
+AB - The safety and cost of glass cladding facades subjected to wind loads depend upon the criteria used for their design. These criteria specify the design wind loads and the allowable panel loads. The present paper reviews the following: (1) the evolution in recent years of methods for the estimation and specification of design wind loads for building facades; (2) recent developments concerning the estimation and specification of allowable loads for glass cladding panels, and controversies surrounding these developments; and (3) recent developments in structural reliability as applied to glass cladding, which allow rational decisions to be made concerning the adoption of satisfactory design criteria specifying both design wind loads and allowable panel loads. It is shown that, in view of recent changes in methods for estimating design wind loads and allowable panel loads, it would be imprudent or wasteful to adopt a standard specifying allowable panel loads without giving due consideration to the overall reliability aspects of the cladding glass design problem. Comments are offered concerning the development of such a standard.
+
+
+    
+        AU - Iqbal S. Sohal
+    
+        AU - Wai‐Fah Chen
+    
+
+TI - Local Buckling and Sectional Behavior of Fabricated Tubes
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 519-533
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(519) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28519%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28519%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 519-533
+AB - A simple kinematic model is proposed to describe the changing shape of a locally buckled or distorted cross section during loading. Based on the kinematic model, a complete moment‐curvature relationship, including the softening branch (the effect of local buckling), is developed and formulated. Reasonably good agreement is found between the theoretical moment‐curvature curve and the available experimental data. Closed‐form expressions are proposed for the softening branch of the moment‐thrust‐curvature relationship. These expressions are useful to study the effect of the local buckling on the maximum strength and post‐buckling behavior of long columns. The local buckling affects the maximum strength and moment‐curvature behavior of sections with diameter‐to‐thickness ratio greater than or equal to 36. The effect of the local buckling increases as the diameter‐to‐thickness ratio increases.
+
+
+    
+        AU - H. Scholz
+    
+
+TI - P‐Delta Effect in Elastic Analysis of Sway Frames
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 534-545
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(534) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28534%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28534%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 534-545
+AB - A novel method to allow for the P‐Delta effect of steel sway frames analyzed by elastic methods is presented. The method is a variation of an interaction procedure recently developed for plastically analyzed and designed frameworks. Second‐order design forces are established from empirical graphs and are then used in conjunction with the well‐established ultimate strength interaction equations for beam‐columns. In contrast to existing methods the second‐order forces are determined on a rational basis for the framework as a whole. A numerical example is provided to demonstrate the use of the technique.
+
+
+    
+        AU - John S. Ellis
+    
+        AU - Claude Tahiani
+    
+
+TI - Patents of Gustave Eiffel
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 546-556
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(546) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28546%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28546%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 546-556
+AB - For possibly the first time in the English language, the 24 patents that the writers have been able to discover that bear Eiffel's name are briefly described. They reflect chronologically the engineering interests of Eiffel, which include bridge launching, lighthouses, navigation under arch bridges, floor deflections, through‐deck railway bridges, joints for steel towers, prefabricated bridges, wash borings, the floating of an observatory's dome, positioning of bridge supports, the Eiffel tower's structural form, an incubator, falsework piers with adjustments, suspended railways, continuous roof trusses, slots for canal gates, concrete anchor blocks for arch roofs, the use of vertical members of trusses for window installation, a meteorological measuring instrument, a wind tunnel, and an aircraft configuration.
+
+
+    
+        AU - Vladimír Křístek
+    
+        AU - Zdeněk P. Bažant
+    
+
+TI - Shear Lag Effect and Uncertainty in Concrete Box Girder Creep
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 557-574
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(557) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28557%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28557%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 557-574
+AB - The effect of shear lag on creep deformations and stress redistributions in concrete box girder bridges is analyzed both deterministically and stochastically. It is found that the shear lag is as important for creep as it is for elastic deformations. Compared to bending theory predictions, the shear lag causes a significant increase in the maximum longitudinal normal stress, alters the stress redistributions due to a change in the structural system during the construction stage, and substantially increases the deflections. The statistical variability of material creep parameters and environmental factors has a significant effect on the statistical scatter of the calculated maximum longitudinal stresses and a very large effect on the statistical scatter of the predicted deflections. Both the shear lag effect and the statistical variability of creep must be taken into account if a reliable design of box girder bridges from the viewpoint of long‐term serviceability should be achieved.
+
+
+    
+        AU - Michael C. Head
+    
+        AU - J. Dario Aristizabal‐Ochoa
+    
+
+TI - Analysis of Prismatic and Linearly Tapered Reinforced Concrete Columns
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 575-589
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(575) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28575%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28575%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 575-589
+AB - A rational analysis describing the ultimate strength and behavior of reinforced concrete columns of linearly tapering cross section under axial load and end moments is presented. The conjugate beam method is used to calculate the second‐order effects (i.e., the additional moment caused by the applied axial load). An interactive computer program for use with microcomputers is presented. The program uses iterative procedures for calculating moment‐thrust‐curvature relationships along the member, including the secondorder effects. It determines the failure load as well as the failure mode of a slender, linearly tapered, reinforced concrete column. The results obtained from the computer model are compared with available experimental results.
+
+
+    
+        AU - Siamak Parsanejad
+    
+
+TI - Strength of Grout‐Filled Damaged Tubular Members
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 590-603
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(590) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28590%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28590%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 590-603
+AB - A simple explicit analytical expression, amenable to hand calculation, is developed for estimating the ultimate capacity of grout‐filled damaged tubular members. The analysis is based on the simplifying assumptions that: (1) Full interaction exists between grout and the damaged tube; and (2) grout provides sufficient support to the tube wall in the damaged region to prevent premature local buckling. The load‐carrying capacity is then obtained on the basis of the reduced section using beam‐column analysis similar in form to that adopted in current design codes. The first yield collapse criterion has been adopted. Experimental work was previously conducted on 10 small‐scale specimens. They were tested with different damage conditions. It is shown that the proposed expression provides close lower‐bound estimates of the experimental results. A parametric study is performed to establish the relationship between various parameters and their effects on the ultimate strength of grout‐filled damaged tubes.
+
+
+    
+        AU - Gale P. Mulligan
+    
+        AU - Teoman Pekoz
+    
+
+TI - Local Buckling Interaction in Cold‐Formed Columns
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 604-620
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(604) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28604%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28604%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 604-620
+AB - Local buckling interaction between component plate elements of uniformly compressed, channel and lipped channel, steel stub columns is studied. An experimental investigation is reported to quantify the structural response. This response is analyzed with two effective section approaches. One approach employs the finite strip method to predict local buckling interaction. The second neglects the interactional effects and treats component plate elements as if simply supported. Ultimate strengths predicted with the second, simplified approach agree well with experimental results; whereas strengths predicted with the first approach are too conservative. Also, a special subultimate effective width equation, applicable to both stiffened and unstiffened plate elements, provides load‐deflection predictions that are in agreement with experimental data. In contrast to this, subultimate deflections predicted with a current design approach are shown to be excessively conservative.
+
+
+    
+        AU - Ian F. C. Smith
+    
+        AU - Manfred A. Hirt
+    
+
+TI - Fatigue Reliability: ECCS Safety Factors
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 623-628
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(623) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28623%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28623%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 623-628
+AB - A simple reliability analysis for limit-state (load and resistance factor) fatigue assessments is presented. This analysis was recently proposed in guidelines published by the European Convention for Constructional Steelwork (ECCS). Partial safety factors are related directly to the safety index by means of a simple formula, and examples are shown graphically for typical target values of the safety index. Further work is needed to investigate the importance of parameters such as quality assurance and in-service inspection for a range of practical problems.
+
+
+    
+        AU - Andrew Tallin
+    
+        AU - Bruce Ellingwood
+    
+
+TI - Structural Load Estimates from Geographically Sparse Data
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 628-632
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(628) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28628%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28628%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 628-632
+AB - Structural engineers often must estimate wind or snow loads at a building site using data from weather stations some distance from the site. This paper describes how design loads at a site can be estimated using moving area-averaging rules that take into account inherent randomness in the data and the sparseness of the reporting stations. These rules provide load estimates or contour maps which are specified exactly by the given data.
+
+
+    
+        AU - Tadeusz J. Marchaj
+    
+
+TI - Discussion of &#x201c;<i>Vertical Accelerations in Prestressed Concrete Tanks</i>&#x201d; by Rene W. Luft (April, 1984, Vol. 110, No. 4)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 635-638
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(635) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28635%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28635%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 635-638
+
+
+    
+        AU - Rene W. Luft
+    
+
+TI - Closure to &#x201c;<i>Vertical Accelerations in Prestressed Concrete Tanks</i>&#x201d; by Rene W. Luft (April, 1984, Vol. 110, No. 4)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 638-640
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(638) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28638%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28638%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 638-640
+
+
+    
+        AU - Douglas A. Foutch
+    
+        AU - Michael E. Barenberg
+    
+
+TI - Discussion of &#x201c;<i>Effect of Design Seismic Loads on a Highway Bridge</i>&#x201d; by Mehdi Saiidi and Bruce M. Douglas (November, 1984, Vol. 110, No. 11)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 640-642
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(640) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28640%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28640%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 640-642
+
+
+    
+        AU - Mehdi Saiidi
+    
+        AU - Bruce M. Douglas
+    
+
+TI - Closure to &#x201c;<i>Effect of Design Seismic Loads on a Highway Bridge</i>&#x201d; by Mehdi Saiidi and Bruce M. Douglas (November, 1984, Vol. 110, No. 11)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 642-643
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(642) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28642%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28642%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 642-643
+
+
+    
+        AU - Kingsley Harrop‐Williams
+    
+
+TI - Discussion of &#x201c;<i>Bivariate Lognormal Probability Distribution</i>&#x201d; by Nick T. Thomopoulos and Anatol Longinow (December, 1984, Vol. 110, No. 12)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 643-644
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(643) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28643%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28643%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 643-644
+
+
+    
+        AU - Achintya Haldar
+    
+
+TI - Discussion of &#x201c;<i>Damage Probability of Turbine Missile Impact</i>&#x201d; by H. S. Gopalakrishna and Amde M. Wolde&#x2010;Tinsae (December, 1984, Vol. 110, No. 12)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 644-645
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(644) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28644%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28644%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 644-645
+
+
+    
+        AU - H. S. Gopalakrishna
+    
+        AU - Amde M. Wolde‐Tinsae
+    
+
+TI - Closure to &#x201c;<i>Damage Probability of Turbine Missile Impact</i>&#x201d; by H. S. Gopalakrishna and Amde M. Wolde&#x2010;Tinsae (December, 1984, Vol. 110, No. 12)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 646-647
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(646) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28646%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28646%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 646-647
+
+
+    
+        AU - George R. Walker
+    
+        AU - Gregory F. Reardon
+    
+
+TI - Discussion of &#x201c;<i>Wind&#x2010;Induced Fatigue on Low Metal Buildings</i>&#x201d; by Brian A. Lynn and Theodore Stathopoulos (April, 1985, Vol. 111, No. 4)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 647-649
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(647) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28647%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28647%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 647-649
+
+
+    
+        AU - Theodore Stathopoulos
+    
+
+TI - Closure to &#x201c;<i>Wind&#x2010;Induced Fatigue on Low Metal Buildings</i>&#x201d; by Brian A. Lynn and Theodore Stathopoulos (April, 1985, Vol. 111, No. 4)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 649-649
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(649) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28649%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28649%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 649-649
+
+
+    
+        AU - Michael E. Bryant
+    
+
+TI - Discussion of &#x201c;<i>Transmission Towers: Design of Cold&#x2010;Formed Angles</i>&#x201d; by Edwin H. Gaylord and Gene M. Wilhoite (August, 1985, Vol. 111, No. 8)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 649-650
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(649.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28649.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28649.2%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 649-650
+
+
+    
+        AU - Cedric Marsh
+    
+
+TI - Discussion of &#x201c;<i>Transmission Towers: Design of Cold&#x2010;Formed Angles</i>&#x201d; by Edwin H. Gaylord and Gene M. Wilhoite (August, 1985, Vol. 111, No. 8)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 650-652
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(650) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28650%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28650%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 650-652
+
+
+    
+        AU - Sujit K. Ray
+    
+        AU - Murty K. S. Madugula
+    
+
+TI - Discussion of &#x201c;<i>Transmission Towers: Design of Cold&#x2010;Formed Angles</i>&#x201d; by Edwin H. Gaylord and Gene M. Wilhoite (August, 1985, Vol. 111, No. 8)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 652-653
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(652) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28652%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28652%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 652-653
+
+
+    
+        AU - Edwin H. Gaylord
+    
+        AU - Gene M. Wilhoite
+    
+
+TI - Closure to &#x201c;<i>Transmission Towers: Design of Cold&#x2010;Formed Angles</i>&#x201d; by Edwin H. Gaylord and Gene M. Wilhoite (August, 1985, Vol. 111, No. 8)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 654-657
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(654) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28654%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28654%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 654-657
+
+
+    
+        AU - Gupta S. R. Davalath
+    
+
+TI - Discussion of &#x201c;<i>Design of Cold&#x2010;Formed Latticed Transmission Towers</i>&#x201d; by Adolfo Zavelani and Paolo Faggiano (November, 1985, Vol. 111, No. 11)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 658-658
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(658) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28658%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28658%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 658-658
+
+
+    
+        AU - Adolfo Zavelani
+    
+        AU - Paolo Faggiano
+    
+
+TI - Closure to &#x201c;<i>Design of Cold&#x2010;Formed Latticed Transmission Towers</i>&#x201d; by Adolfo Zavelani and Paolo Faggiano (November, 1985, Vol. 111, No. 11)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 659-659
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(659) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28659%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28659%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 659-659
+
+
+TI - Erratum: Earthquake Tank‐Wall Stability of Unanchored Tanks” by George C. Manos (August, 1986, Vol. 112, No. 8)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 661-661
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(661) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28661%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28661%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 661-661
+
+
+TI - Erratum: “Flexural‐Torsional Buckling of Arches” by John P. Papangelis and Nicholas S. Trahair (November, 1986, Vol. 112, No. 11)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 661-661
+VI - 113
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1987)113:3(661.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28661.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A3%28661.2%29
+SO - Journal of Structural Engineering 1987-03-01 113(3): 661-661
+
+

@@ -1,0 +1,342 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Mitao Ohga
+    
+        AU - Tsunemi Shigematsu
+    
+        AU - Kouichi Kawaguchi
+    
+
+TI - Buckling Analysis of Thin-Walled Members with Variable Thickness
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 919-924
+VI - 121
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1995)121:6(919) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A6%28919%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A6%28919%29
+SO - Journal of Structural Engineering 1995-06-01 121(6): 919-924
+AB - An analytical procedure for the elastic buckling problems of thin-walled members with variable-thickness cross sections is presented in this paper, using the transfer-matrix method. The transfer matrix is derived from nonlinear differential equations for plate panels with variable thickness, by using the Fourier series expansions in the longitudinal direction and then applying a numerical integration in the lateral direction. In this method the end boundary conditions are restricted, and the effects of yielding and initial imperfection are not considered; however, closed-form results can be obtained with much smaller computational efforts, when compared with both the finite-element and finite-strip methods. The buckling loads and mode shapes of  L
+-section,  U
+-section and  H
+-section members with tapered-thickness cross sections are presented, and influences of the thickness variation of cross sections on the buckling loads and mode shapes are examined. The results obtained by this method are very effective in clarifying the instability phenomena of thin-walled members.
+
+
+    
+        AU - K. C. Tsai
+    
+        AU - Shun Wu
+    
+        AU - Egor P. Popov
+    
+
+TI - Experimental Performance of Seismic Steel Beam-Column Moment Joints
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 925-931
+VI - 121
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1995)121:6(925) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A6%28925%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A6%28925%29
+SO - Journal of Structural Engineering 1995-06-01 121(6): 925-931
+AB - The performance of 10 seismic beam-to–wide-flange-column moment-connection specimens using bolted-web–welded-flange (BWWF) details is critically assessed. Key parameters include beam-flange–to–entire-beam-section plastic modulus ratio,  Z f
+/Z; supplemental web bolts; supplemental web welds; and column panel-zone strength. Experimental results indicate that the cyclic plastic rotational capacities of the BWWF connections range between 0.009 and 0.018 rad, with no apparent relationship to the  Z f
+/Z ratio. The ultimate beam-flange flexural strength,  Z f
+F u
+, accurately predicts the ultimate moment capacities of the BWWF connections. Using 1.2 M p
+−Z f
+F u as the flexural-strength requirement, the supplemental web welds, but not the supplemental web bolts, significantly enhance the strength, ductility, and energy absorbing capacity of the BWWF connections. Using 0.8 Z f
+F u
+ as the design yield strength for two beam-column panel zones, inelastic-beam and panel-zone deformations were developed simultaneously.
+
+
+    
+        AU - Deric John Oehlers
+    
+        AU - George Sved
+    
+
+TI - Composite Beams with Limited-Slip-Capacity Shear Connectors
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 932-938
+VI - 121
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1995)121:6(932) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A6%28932%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A6%28932%29
+SO - Journal of Structural Engineering 1995-06-01 121(6): 932-938
+AB - The flexural strength of steel and concrete composite beams in buildings is affected by both the strength and the ductility of the mechanical shear connections between the steel and concrete components of the composite beam. Design techniques can easily allow for the variation in the shear-connector strengths, but one of the most intractable problems in composite-beam construction is to allow for the limited slip that these mechanical shear connectors have been found to exhibit. Present design techniques try to prevent the connector fracturing, which occurs through excessive slip, by placing limits on the maximum span and the minimum strength of the shear connection. A procedure has been developed that directly relates the flexural strength of a composite beam with both the strength and ductility of the shear connectors, and thus can be used to design against premature failure through fracture of the connectors due to excessive slip.
+
+
+    
+        AU - Siu Lai Chan
+    
+        AU - Zhi Hua Zhou
+    
+
+TI - Second-Order Elastic Analysis of Frames Using Single Imperfect Element per Member
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 939-945
+VI - 121
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1995)121:6(939) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A6%28939%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A6%28939%29
+SO - Journal of Structural Engineering 1995-06-01 121(6): 939-945
+AB - In practical stability design and analysis of steel members and structures, one must allow for member imperfection. Various national design codes impose different values of initial imperfection for member-strength determination, such as 0.001 of the member length in the 1986  Load and Resistance Factor Design Specification for Structural Steel Buildings
+. This paper presents a new method of including the effects of initial imperfection in the element stiffness without needing to adopt a curved-element formulation, which is deficient for members under high axial load, or to divide a member into two or more straight elements in order to simulate member imperfection. A very considerable savings and convenience in data-manipulation effort and computer time can be achieved when using the proposed element.
+
+
+    
+        AU - Timothy A. Philpot
+    
+        AU - David V. Rosowsky
+    
+        AU - Kenneth J. Fridley
+    
+
+TI - Reliability of Wood Joist Floor Systems with Creep
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 946-954
+VI - 121
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1995)121:6(946) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A6%28946%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A6%28946%29
+SO - Journal of Structural Engineering 1995-06-01 121(6): 946-954
+AB - Light-frame wood floors are constructed from a number of parallel flexural members (joists), which provide the primary structural support. Sheathing material is attached across the top edges of these joists to form the floor surface. Because the joists are connected in this manner, load sharing occurs, which enhances the performance of the system as a whole. Current design procedures focus on the behavior of single members with only limited provisions that account for the improved performance of systems. In this study, the reliability of wood joist floors is investigated considering both strength and serviceability limit states. The objective of the system reliability analyses is to determine appropriate system factors for use in single member load and resistance factor design checking equations. These factors are included to account for the beneficial effects associated with systems of parallel members. This study considers factors such as lumber species and grade, floor size, and the effects of creep deformations. A stochastic viscoelastic stress-strain relationship is used to model the time-dependent behavior of wood, and stochastic pulse process models are used to account for the temporal variability of the loads. Cumulative damage analysis using two common damage accumulation models is used to account for the time-dependent strength of wood flexural members.
+
+
+    
+        AU - Spyros A. Karamanos
+    
+        AU - John L. Tassoulas
+    
+
+TI - Tension Effects on Pressure Capacity of Tubular Members
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 955-963
+VI - 121
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1995)121:6(955) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A6%28955%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A6%28955%29
+SO - Journal of Structural Engineering 1995-06-01 121(6): 955-963
+AB - An investigation of the effects of axial tension on the pressure capacity of tubular members is presented. Unstiffened and ring-stiffened tubes are analyzed using a rigorous finite-element technique that accounts for changes in the geometry of the tube, elastoplastic material behavior, longitudinal and cross-sectional imperfections, and residual stresses from the tube manufacturing process. A study is conducted to assess the significance of several factors influencing pressure-tension interaction, such as the loading path, the presence of residual stresses, and the stiffener spacing. The calculations indicate that closely spaced stiffeners amplify pressure-tension interaction, since they restrain the tube cross section against ovalization and allow material response well beyond initial yielding. Computational results are obtained and compared with available experimental data as well as widely used design equations. Good agreement is found between test data and predictions based on the technique developed in the present study. However, the design equations substantially underestimate the pressure capacity of stiffened tubes.
+
+
+    
+        AU - Antoine E. Naaman
+    
+
+TI - Unified Bending Strength Design of Concrete Members: AASHTO LRFD Code
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 964-970
+VI - 121
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1995)121:6(964) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A6%28964%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A6%28964%29
+SO - Journal of Structural Engineering 1995-06-01 121(6): 964-970
+AB - This paper summarizes the procedure for the computation of nominal bending resistance of reinforced, prestressed, and partially prestressed concrete members according to the 1994 “AASHTO LRFD Specifications for Highway Bridge Design.” The cases of rectangular or flanged sections, underreinforced or overreinforced, with a combination of reinforcing bars and prestressing tendons, whether bonded or unbonded, are covered. Provisions on limiting the flexural reinforcement adopted in the new specifications are summarized. They address minimum and maximum levels of reinforcement in flexural members, the percent of moment redistribution in continuous bending members, and the prediction of stress at ultimate in bonded and unbonded tendons. The provisions are nondimensional and can be applied to any code. Logical flowcharts showing the various computational steps are provided, and examples illustrating the procedure are developed.
+
+
+    
+        AU - Zongwei Tao
+    
+        AU - Ross B. Corotis
+    
+        AU - J. Hugh Ellis
+    
+
+TI - Reliability-Based Structural Design with Markov Decision Processes
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 971-980
+VI - 121
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1995)121:6(971) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A6%28971%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A6%28971%29
+SO - Journal of Structural Engineering 1995-06-01 121(6): 971-980
+AB - An optimal structural design is defined as the synthesis of a structural initial design and its maintenance/management policy over a design lifetime. Using a Markov decision process (MDP) model and structural reliability theory, a designer at the initial design stage is able to incorporate a reliability-based model of the lifetime process of the structure. The advantage of MDP is that it systematically characterizes the entire process, including decisions, costs, and system performance. It also provides a solution of this dynamic problem through a static method, thus retaining computational tractability. A long-term maintenance policy under the criterion of minimum expected lifetime cost can be found with respect to the chosen initial design, and used to select an optimum initial design to minimize cost and maintain acceptable reliability. For an existing structure, the approach gives a decision maker a future maintenance policy leading to identification of the minimum discounted expected future cost of the structure, based on its present condition, and maintains acceptable reliability.
+
+
+    
+        AU - Bahaa E. H. Mahmoud
+    
+        AU - Ajaya K. Gupta
+    
+
+TI - Inelastic Large Displacement Behavior and Buckling of Cooling Tower
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 981-985
+VI - 121
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1995)121:6(981) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A6%28981%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A6%28981%29
+SO - Journal of Structural Engineering 1995-06-01 121(6): 981-985
+AB - Inelastic, large displacement behavior of reinforced concrete hyperbolic cooling towers is studied using a finite-element program developed on the Cray Y-MP supercomputer. The large displacement effects are formulated based on the Lagrangian approach in which the displacements are measured from the original configuration of the structure. The concrete cracking is modeled using the rotating smeared crack approach and the bending deformation is represented using the layering technique. The concrete constitutive behavior is represented by a biaxial inelastic material model. The tension stiffening of concrete is modeled using gradual linear unloading of the stress strain curve of concrete. Several nonlinear analyses of the Grand Gulf cooling tower are performed. Unlike the results of previous investigations that attribute the failure of the cooling tower to the yielding of the meridional reinforcement, the results of this investigation show that the failure occurs due to the circumferential buckling in the vicinity of the throat triggered by the reduction of the stiffness due to concrete cracking.
+
+
+    
+        AU - Raymond H. Plaut
+    
+        AU - Yu-Wen Yang
+    
+
+TI - Behavior of Three-Span Braced Columns with Equal or Unequal Spans
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 986-994
+VI - 121
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1995)121:6(986) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A6%28986%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A6%28986%29
+SO - Journal of Structural Engineering 1995-06-01 121(6): 986-994
+AB - The behavior of uniform, elastic, braced columns with three spans is investigated. The spans may have equal or unequal lengths. The base of the column is pinned and the top is either pinned or flexibly supported. The braces are represented by elastic translational springs, and a compressive axial load is applied to the column. For perfect columns, critical loads and buckling modes are determined. Full bracing is possible if the spans are equal. For imperfect columns with an initial deflection, additional deflections and bracing forces are obtained, and the effects of the stiffnesses and locations of the braces are examined. Examples of design curves for required bracing stiffness and strength are presented. Extensions involving nonuniform loading and cross section, unequal bracing stiffnesses, and rotational resistance at the braces are also discussed. General conditions are derived for full bracing of columns with an arbitrary number of equal or unequal spans and braces, and with uniform or piecewise-constant loading and cross section. The corresponding critical loads are found, and equations and simple bounds for ideal bracing stiffnesses are given.
+
+
+    
+        AU - Leonard J. Morse-Fortier
+    
+
+TI - Structural Implications of Increased Panel Use in Wood-Frame Buildings
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 995-1003
+VI - 121
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1995)121:6(995) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A6%28995%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A6%28995%29
+SO - Journal of Structural Engineering 1995-06-01 121(6): 995-1003
+AB - To improve performance and lower cost, conventional wood-frame construction has evolved to incorporate increasing numbers of manufactured components. Through recent work at the Massachusetts Institute of Technology (MIT) to develop a panelized roof system, other, more general observations have been made about the structural implications of panel use, and these observations form the basis for this paper. A partial exploration of structural response in conventional wood-frame construction is included as background, with a particular emphasis on sheathing. Panelized and modularized buildings represent a significant shift from historical practice, with structural implications for floors, walls, and roofs. Without the structural redundancy and load sharing that continuous envelope sheathing provides, panelized wood-frame buildings require more and careful engineering to achieve performance comparable to conventional construction. Floors, walls, and roofs need panel-to-panel joints that resist differential transverse deflection and possess in-plane shear strength and stiffness comparable to site-built, staggered-sheathed assemblies. Wherever structural response includes diaphragm action, the disruption of sheathing and perimeter-chord continuity both have consequences for panelized building systems.
+
+
+    
+        AU - Sudhir K. Jain
+    
+        AU - Utpal K. Mandal
+    
+
+TI - Dynamics of Buildings with Y-Shaped Plan and Flexible Floor Diaphragms
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 1004-1012
+VI - 121
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1995)121:6(1004) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A6%281004%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A6%281004%29
+SO - Journal of Structural Engineering 1995-06-01 121(6): 1004-1012
+AB - A long, narrow multistory building with Y-shaped plan having a number of identical frames and floors placed uniformly is modeled including in-plane floor flexibility and analyzed using the equivalent vertically oriented anisotropic plate concept. It is observed that for unequal stiffness of a wing in the transverse and longitudinal directions, all natural modes of vibration involve in-plane floor deformations. However, if the two stiffnesses are equal, rigid floor as well as flexible floor modes exist, but the latter are not excited by spatially uniform ground motion. A Y-shaped building could therefore be configured so as to have some total lateral stiffness in the two directions for each wing. This will ensure that stress concentration at reentrant corners, caused by the floor-diaphragm flexibility, does not take place. The method is illustrated with a numerical example. In general, the in-plane floor flexibility does not substantially alter the natural periods, even though this may significantly affect the shear distribution among transverse frames, depending upon the configuration.
+
+
+    
+        AU - Greg C. Foliente
+    
+
+TI - Hysteresis Modeling of Wood Joints and Structural Systems
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 1013-1022
+VI - 121
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1995)121:6(1013) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A6%281013%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A6%281013%29
+SO - Journal of Structural Engineering 1995-06-01 121(6): 1013-1022
+AB - General features of the hysteretic behavior of wood joints and structural systems are characterized, and the available hysteresis models for wood systems are reviewed. A general hysteresis model for single- and multiple-degree-of-freedom wood joints and structural systems, based on a modification of the Bouc-Wen-Baber-Noori model, is presented and used in nonlinear dynamic analysis of single-degree-of-freedom wood systems. The hysteretic constitutive law produces a smoothly varying hysteresis that models previously observed behavior of wood joints and structural systems, such as nonlinearity, strength and stiffness degradation, and pinching. It takes into account the experimentally observed dependence of wood joints' response to the input and response at an earlier time (known as memory). Hysteresis shapes produced by the model are shown to compare favorably with experimental hysteresis of wood joints with (1) yielding plates; (2) yielding nails; and (3) yielding bolts.
+
+
+    
+        AU - W. Chung
+    
+        AU - S. H. Ahmad
+    
+
+TI - Analytical Model for Shear Critical Reinforced-Concrete Members
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 1023-1029
+VI - 121
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1995)121:6(1023) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A6%281023%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A6%281023%29
+SO - Journal of Structural Engineering 1995-06-01 121(6): 1023-1029
+AB - In this investigation, a nonlinear finite-element model is developed for predicting the complete load-deflection response of shear critical reinforced-concrete members. The nonlinear finite-element model employs a biaxial stress-strain constitutive relationship of concrete based on an equivalent uniaxial approach developed in this study and a simplified bilinear stress-strain relationship of reinforcing steel. The main feature of the model is its ability to predict the postpeak load-deflection response of shear critical reinforced-concrete members failing under a diagonal tension. The computational procedure developed in this study employs the secant-stiffness method and a noniterative algorithm. The predictions of the analytical model are compared with the available experimental data and the comparisons are judged to be good.
+
+
+    
+        AU - Y. L. Mo
+    
+        AU - J. Y. Kuo
+    
+
+TI - Effect of Construction Procedures on Reinforced-Concrete Beams
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 1031-1033
+VI - 121
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1995)121:6(1031) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A6%281031%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A6%281031%29
+SO - Journal of Structural Engineering 1995-06-01 121(6): 1031-1033
+AB - Due to construction limitations reinforced-concrete beams cannot be directly cast to their full depth. To evaluate the effect of a two-step casting procedure on the mechanical behavior of the reinforced-concrete beams, six 3.84-m-long, reinforced-concrete beams were tested. Three of the six beams were cast by the traditional method, and the remaining three by a two-step casting procedure to simulate the site conditions. It is found from the test results that the beams with the two-step casting procedure have 3% greater average concrete-crushing load than those with the traditional method, and the load-deflection relationships for both groups are almost identical. In conclusion, the effect of two-step casting procedure on the mechanical behavior of reinforced-concrete beams is insignificant.
+
+
+    
+        AU - Erling Murtha-Smith
+    
+
+TI - Progressive-Collapse Loads for Flat-Roof Structures
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 1034-1035
+VI - 121
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1995)121:6(1034) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A6%281034%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A6%281034%29
+SO - Journal of Structural Engineering 1995-06-01 121(6): 1034-1035
+AB - Progressive collapse was defined as “the widespread propagation of failure following damage to a relatively small portion of the structure,” by Breen in 1975. Existing quantitative approaches to prevent progressive collapse are reviewed and are seen to be limited to floor and wall structures. Those recommendations are extended to develop a design equation for roof structures on which snow loading needs to be considered. The statistical characteristics of roof snow loading are reviewed, and a load and resistance factor design equation is developed for the alternate path analysis of flat-roof structures subject to snow loading.
+
+

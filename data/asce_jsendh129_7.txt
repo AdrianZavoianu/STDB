@@ -1,0 +1,353 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Sashi K. Kunnath
+    
+
+TI - Editor's Note
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 843-844
+VI - 129
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2003)129:7(843) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28843%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28843%29
+SO - Journal of Structural Engineering 2003-07-01 129(7): 843-844
+
+
+    
+        AU - B. F. Spencer
+    
+        AU - S. Nagarajaiah
+    
+
+TI - State of the Art of Structural Control
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 845-856
+VI - 129
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2003)129:7(845) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28845%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28845%29
+SO - Journal of Structural Engineering 2003-07-01 129(7): 845-856
+AB - In recent years, considerable attention has been paid to research and development of structural control devices, with particular emphasis on alleviation of wind and seismic response of buildings and bridges. In both areas, serious efforts have been undertaken in the last two decades to develop the structural control concept into a workable technology. Full-scale implementation of active control systems have been accomplished in several structures, mainly in Japan; however, cost effectiveness and reliability considerations have limited their wide spread acceptance. Because of their mechanical simplicity, low power requirements, and large, controllable force capacity, semiactive systems provide an attractive alternative to active and hybrid control systems for structural vibration reduction. In this paper we review the recent and rapid developments in semiactive structural control and its implementation in full-scale structures.
+
+
+    
+        AU - S. J. Dyke
+    
+        AU - J. M. Caicedo
+    
+        AU - G. Turan
+    
+        AU - L. A. Bergman
+    
+        AU - S. Hague
+    
+
+TI - Phase I Benchmark Control Problem for Seismic Response of Cable-Stayed Bridges
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 857-872
+VI - 129
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2003)129:7(857) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28857%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28857%29
+SO - Journal of Structural Engineering 2003-07-01 129(7): 857-872
+AB - This paper presents the problem definition for the first generation of benchmark structural control problems for cable-stayed bridges. The benchmark problem is based on the Bill Emerson Memorial Bridge that is currently under construction in Cape Girardeau, Missouri. Construction of the bridge is expected to be completed in 2003. The goal of this study is to provide a testbed for the development of strategies for the control of cable-stayed bridges. Based on detailed drawings, a three-dimensional evaluation model has been developed to represent the complex behavior of the full scale benchmark bridge. The linear evaluation model is developed using the equations of motion generated around the deformed equilibrium position. Evaluation criteria are selected that are consistent with the goals of seismic response control of a cable-stayed bridge. Control constraints ensure that the results are representative of a control implementation on the physical structure. Each participant in this benchmark study is given the task of defining (including devices, sensors, and algorithms), evaluating, and reporting on their proposed control strategies. These strategies may be either passive, active, semiactive, or a combination thereof. A simulation program is provided to facilitate direct comparison of the capabilities and efficiency of the various control strategies. The problem is available through the internet in the form of a set of MATLAB® programs and includes a sample control design to guide participants through the benchmark problem. 
+
+
+    
+        AU - Hyung-Jo Jung
+    
+        AU - Billie F. Spencer
+    
+        AU - In-Won Lee
+    
+
+TI - Control of Seismically Excited Cable-Stayed Bridge Employing Magnetorheological Fluid Dampers
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 873-883
+VI - 129
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2003)129:7(873) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28873%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28873%29
+SO - Journal of Structural Engineering 2003-07-01 129(7): 873-883
+AB - This paper examines the ASCE first generation benchmark problem for a seismically excited cable-stayed bridge, and proposes a new semiactive control strategy focusing on inclusion of effects of control-structure interaction. The subject of the ASCE benchmark problem is a cable-stayed bridge in Cape Girardeau, Missouri, for which construction is expected to be completed in 2003. The goal of the benchmark study is to provide a testbed structure on which researchers can systematically compare and evaluate the relative merits of proposed structural protection for cable stayed-bridges. In this paper, magnetorheological (MR) fluid dampers, which belong to the class of controllable fluid dampers, are proposed for use in a control strategy for protecting the bridge. A clipped-optimal control algorithm, shown to perform well in previous studies involving MR fluid dampers, is employed. A comprehensive study of the adequacy of various types of dynamic models for MR fluid dampers, such as a Bingham model, a Bouc-Wen model, and a modified Bouc-Wen model, is provided. In contrast to previous studies, models considered in this study are based on experimental data for a full-scale MR fluid damper. Because the MR fluid damper is a controllable energy-dissipation device that cannot add mechanical energy to the structural system, the proposed control strategy is fail-safe in that bounded-input, bounded-output stability of the controlled structure is guaranteed. Numerical simulation results considering several historical earthquakes scaled to various magnitudes show that the proposed semiactive control strategy using MR fluid dampers is the promising one of the applicable control methods to reduce seismic responses of cable-stayed bridges. 
+
+
+    
+        AU - A. K. Agrawal
+    
+        AU - J. N. Yang
+    
+        AU - W. L. He
+    
+
+TI - Applications of Some Semiactive Control Systems to Benchmark Cable-Stayed Bridge
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 884-894
+VI - 129
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2003)129:7(884) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28884%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28884%29
+SO - Journal of Structural Engineering 2003-07-01 129(7): 884-894
+AB - Recently, a benchmark cable-stayed bridge model was developed for the control community as a test bed to evaluate the performance of various strategies for the control of cable-stayed bridges during earthquakes. In this paper, the effectiveness and performances of some semiactive and passive control systems for this benchmark cable-stayed bridge are evaluated and presented. The semiactive control systems considered include the semiactive stiffness damper and the semiactive friction damper. Cases of passive linear and nonlinear viscous fluid dampers are also investigated and presented. The performances of semiactive control systems are evaluated using effective control strategies and compared with that of the sample active control system using actuators. Simulation results clearly indicate that the displacement of the bridge deck as well as the shear and moment at the base of the towers can be reduced substantially by installing these passive and semiactive protective devices. It is shown that semiactive and passive devices investigated herein are effective in reducing the peak response quantities of the bridge to a level comparable to that of the sample active controller under similar force constraints. 
+
+
+    
+        AU - Haruhiko Kurino
+    
+        AU - Jun Tagami
+    
+        AU - Kan Shimizu
+    
+        AU - Takuji Kobori
+    
+
+TI - Switching Oil Damper with Built-in Controller for Structural Control
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 895-904
+VI - 129
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2003)129:7(895) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28895%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28895%29
+SO - Journal of Structural Engineering 2003-07-01 129(7): 895-904
+AB - This paper presents a simple semiactive oil damper developed for an actual application. This device can dissipate twice as much energy imposed by wind or earthquake forces as an ordinary passive damper by switching the opening of the on/off valve according to a signal from a controller. Because the system employs a decentralized control algorithm that uses only a built-in sensors’ information, each device can be equipped with all the necessary control equipment such as sensors and a controller. This simple construction has several advantages in actual application. First, we discuss the control algorithm and compare the control performance with that of the passive damper. Second, we describe the construction of the developed full-scale device. Finally, we present the results of a dynamic loading test conducted on a full-scale device. The developed device showed stable performance under a nonstationary excitation as well as a harmonic loading, and the improved energy dissipation capacity was clearly recognized. It is also confirmed that the damper’s dynamic behavior can be accurately simulated with simple analytical parameters. 
+
+
+    
+        AU - Li Zhou
+    
+        AU - Chih-Chen Chang
+    
+        AU - Li-Xin Wang
+    
+
+TI - Adaptive Fuzzy Control for Nonlinear Building-Magnetorheological Damper System
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 905-913
+VI - 129
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2003)129:7(905) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28905%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28905%29
+SO - Journal of Structural Engineering 2003-07-01 129(7): 905-913
+AB - Because of their intrinsically nonlinear characteristics, development of control strategies that are implementable and can fully utilize the capabilities of semiactive control devices is an important and challenging task. In this study, the use of an adaptive fuzzy control strategy is proposed for protecting buildings against dynamic hazards, such as severe earthquakes and strong winds, using magnetorheological (MR) damping technology. The proposed adaptive fuzzy control strategy involves the design of a fuzzy controller and an adaptation law. The control objective is to minimize the difference between some desirable response and the response of the combined system by adaptively adjusting the MR damper. The use of the adaptation law eliminates the needs of acquiring characteristics of the combined system in advance. Because the control strategy based on the combination of the fuzzy controller and the adaptation law does not require a prior knowledge of the combined building-damper system, this approach provides a robust control strategy that can be used to protect nonlinear structures with uncertainty subjected to random loads. 
+
+
+    
+        AU - Narito Kurata
+    
+        AU - Takuji Kobori
+    
+
+TI - Reliability of Applied Semiactive Structural Control System
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 914-921
+VI - 129
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2003)129:7(914) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28914%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28914%29
+SO - Journal of Structural Engineering 2003-07-01 129(7): 914-921
+AB - Research on semiactive control of structures has been carried out actively since the middle of the 1990s. After a theoretical and experimental study, a semiactive structural control system has been applied to an actual five-story building in 1998 by use of a continuous-variable semiactive hydraulic damper that has a maximum damping force of 1,000 kN. For application of the system, health monitoring, fail-safe operation, possibility of power failure, sensor malfunction, control device operation, computer, and communication system, etc., need to be considered. In this paper, reliability of an operational semiactive structural control system is discussed from the view points of health monitoring of the system and fail-safe functions. Power failures, abnormal outputs of sensors, valve damages, and communication errors, are focused as main problems. Dynamic load and forced vibration tests were carried out to determine fail-safe functions. After completion of the system installation, monitoring for earthquake excitation was initiated. Results presented show the effectiveness of functioning of the system. Finally, reliability of the system is confirmed and satisfactory performance is demonstrated. 
+
+
+    
+        AU - Henri Gavin
+    
+        AU - Cenk Alhan
+    
+        AU - Natasha Oka
+    
+
+TI - Fault Tolerance of Semiactive Seismic Isolation
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 922-932
+VI - 129
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2003)129:7(922) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28922%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28922%29
+SO - Journal of Structural Engineering 2003-07-01 129(7): 922-932
+AB - A six-story seismically isolated structure fitted with semiactive hydraulic devices is analyzed in order to study the effect of time lag in the devices and mass eccentricity in the superstructure on the lateral-torsional behavior. The computer program 3DBASIS, which allows the nonlinear dynamic analysis of three-dimensional structures, is used in this work. Appropriate modifications were made to this program to incorporate the behavior of semiactive hydraulic devices. Three different types of base isolation systems were considered: (1) lead rubber bearings; (2) lead rubber bearings with supplemental viscous damping; and (3) lead rubber bearings with semiactive viscous damping. A comparison of these three base-isolation systems, considering both the effects of eccentricity in the structure and differential time lags in semiactive hydraulic devices are studied. The peak isolator shear, isolation drift, rotation, and torsional moment are reported. Three major earthquake motion records, namely, the El Centro record of the 1940 Imperial Valley earthquake, the Meloland record of the 1979 Imperial Valley earthquake, and the Sylmar free field record of the 1994 Northridge earthquake were used as inputs in the analyses. 
+
+
+    
+        AU - Akira Nishitani
+    
+        AU - Yoshihiro Nitta
+    
+        AU - Yoshiki Ikeda
+    
+
+TI - Semiactive Structural-Control Based on Variable Slip-Force Level Dampers
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 933-940
+VI - 129
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2003)129:7(933) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28933%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28933%29
+SO - Journal of Structural Engineering 2003-07-01 129(7): 933-940
+AB - This paper presents a semiactive control strategy based on variable slip-force level dampers. The proposed scheme controls only the slip-force level of the friction damper in such a way that the damper exhibits bilinear hysteresis with a ductility factor equal to two regardless of the level of seismic excitation. With a constant ductility factor maintained in any seismic event, the damper behaves like a linear system in response to any seismic excitation. For implementation of this scheme in multistory buildings, an autonomous-decentralized type of control system is constructed. In such a control system, a number of subcontrol systems are present, each of which is controlled by the decentralizing or local controller utilizing local response information. The fundamental idea is first presented through the application of this control scheme to a single-degree-of-freedom structure. The extension of the scheme to a multistory building structure is then discussed. Finally, the feasibility of utilizing oil dampers for the proposed control strategy is experimentally examined.  
+
+
+    
+        AU - W. L. He
+    
+        AU - A. K. Agrawal
+    
+        AU - J. N. Yang
+    
+
+TI - Novel Semiactive Friction Controller for Linear Structures against Earthquakes
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 941-950
+VI - 129
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2003)129:7(941) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28941%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28941%29
+SO - Journal of Structural Engineering 2003-07-01 129(7): 941-950
+AB - Semiactive friction dampers (SAFD) have been demonstrated to be more effective than passive friction dampers in reducing the structural response due to earthquakes. The effectiveness of SAFD, however, depends on the control strategy used. Because of the nonlinear nature of friction dampers, the establishment of an effective control strategy is a challenging effort. The motion of friction dampers, either passive or semiactive, involves sticking and slipping phases. The idea for increasing the performance of SAFD is to maintain its motion in the slipping phase as much as possible, since energy is dissipated during the slipping phase rather than the sticking phase. In this paper, we propose control strategies which are capable of (1) maintaining the motion of SAFD in the slipping phase as much as possible; and (2) eliminating the undesirable acceleration spikes by introducing an appropriate boundary layer in the control strategy. Two buildings, a six-story base-isolated building and a three-story fixed base building model, have been used to demonstrate the performance of the proposed control strategies using different far-field and near-field earthquakes. Further, the performances of various combinations of passive and semiactive energy dissipation devices have been evaluated and compared. Based on numerical simulation results, it is demonstrated that the proposed semiactive friction control strategies are very effective. 
+
+
+    
+        AU - J. T. Scruggs
+    
+        AU - W. D. Iwan
+    
+
+TI - Control of a Civil Structure Using an Electric Machine with Semiactive Capability
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 951-959
+VI - 129
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2003)129:7(951) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28951%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28951%29
+SO - Journal of Structural Engineering 2003-07-01 129(7): 951-959
+AB - This paper concerns the implementation of a brushless DC machine as a force actuator, for use in suppressing vibrations in civil structures. The machine has the dual capability of operation as an active as well as semiactive device. It operates semiactively by using the machine as a generator to convert mechanical energy to electrical energy which is then dissipated. The electrical network uses electronic switching to control the power flow from the machine. With the machine shaft connected to a gear reducer and ballscrew mechanism, the result is a device that resembles a linear damper with a controllable damping coefficient. The only external electrical power required is that which is needed to support the control system intelligence and to control the transistors, enabling the device to be operated on battery power. As an example of an application of such an actuator, simulations are performed in which the semiactive device is used to control a three-story structural model, with acceleration feedback control. The structural control system design approach is the well-established “clipped-optimal” method. Results suggest that this actuator is effective in simultaneously suppressing the interstory drifts and the absolute accelerations of the structure. A comparison is made to a similar configuration using a magnetorheological damper as the semiactive force device. 
+
+
+    
+        AU - Swaroop K. Yalla
+    
+        AU - Ahsan Kareem
+    
+
+TI - Semiactive Tuned Liquid Column Dampers: Experimental Study
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 960-971
+VI - 129
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2003)129:7(960) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28960%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28960%29
+SO - Journal of Structural Engineering 2003-07-01 129(7): 960-971
+AB - A tuned liquid column damper (TLCD) is a special type of auxiliary damping device which relies on the inertia of a liquid column in a U-tube to counteract the forces acting on the structure. Damping in the TLCD is introduced as a result of headloss experienced by the liquid column moving through an orifice. The primary objective of this paper was to examine the performance of a prototype semiactive TLCD. Experiments were conducted to determine the dynamic characteristics of a coupled structure-TLCD system. The experimental setup included a prototype TLCD attached to a model of a single-degree-of-freedom structure which was mounted on a shaking table. The prototype TLCD was equipped with an electropneumatic valve to provide optimal damping at a wide range of structural motion amplitudes. The optimum absorber parameters, i.e., the optimal tuning ratio and damping ratio, were determined experimentally and compared to the analytical results obtained previously reported by the writers. A control strategy based on gain scheduling was utilized, which was designed to maintain the optimal damping based on a prescribed look-up table. This scheme was experimentally validated. It was noted that the semiactive system provided an additional 15–25% reduction in response over a passive system. Finally, a design example was presented to demonstrate the application of semiactive TLCDs to tall buildings under wind loads. The response of uncontrolled structure, braced structure, and structure with a passive damper, and semiactive damping system using numerical simulations were compared. The semiactive TLCD reduced the RMS acceleration at the building top by 45% at all wind speeds.  
+
+
+    
+        AU - Chunxiang Li
+    
+        AU - Yanxia Liu
+    
+        AU - Zhaomin Wang
+    
+
+TI - Active Multiple Tuned Mass Dampers: A New Control Strategy
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 972-977
+VI - 129
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2003)129:7(972) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28972%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28972%29
+SO - Journal of Structural Engineering 2003-07-01 129(7): 972-977
+AB - Active multiple tuned mass dampers (AMTMD) consisting of many active tuned mass dampers (ATMDs) with uniform distribution of natural frequencies have been, for the first time here, proposed to attenuate undesirable oscillations of structures under the ground acceleration. The MTMD in the AMTMD is manufactured by keeping the identical stiffness and damping and varying the mass. In light of the physical principle of the passive MTMD, the active control forces of AMTMD are defined, namely, the control forces are generated through keeping the identical displacement and velocity feedback gain and varying the acceleration feedback gain. Based on the modegeneralized system in the specific vibration mode being controlled (referred to as the main system), the expression for the dynamic magnification factor (DMF) of the structure with AMTMD is formulated. The criterion for the optimum searching can then be defined as the minimization of the minimum values of the maximum DMF (i.e., Min.Min.Max.DMF). With resorting to the criterion, the research is conducted on the parameters reflecting the effectiveness and robustness of AMTMD. The parameters include the frequency spacing, average damping ratio, tuning frequency ratio, total number, total mass ratio, and normalized acceleration feedback gain coefficient. For the sake of comparison, the results of the optimum MTMD (the passive counterpart of AMTMD) and ATMD are also taken into account in the present paper. It is shown that AMTMD can remarkably improve the performance of the MTMD and also has higher effectiveness than ATMD. Additionally, evaluation is performed on the stroke displacement of AMTMD through assessing the maximum DMF of every ATMD in the AMTMD with regard to that of corresponding TMD in the MTMD and ATMD. Numerical results indicate that every ATMD in the AMTMD has different maximum stroke displacement, each of which is larger than that of ATMD, and the maximum stroke displacement of every ATMD in the AMTMD is close to that of corresponding TMD in the MTMD. 
+
+
+    
+        AU - Juan F. Camino
+    
+        AU - M. C. de Oliveira
+    
+        AU - R. E. Skelton
+    
+
+TI - “Convexifying” Linear Matrix Inequality Methods for Integrating Structure and Control Design
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 978-988
+VI - 129
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2003)129:7(978) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28978%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28978%29
+SO - Journal of Structural Engineering 2003-07-01 129(7): 978-988
+AB - This paper presents a methodology in the linear matrix inequality (LMI) framework to jointly optimize the linear control law and the linear parameters in the structure. The method allows the mass matrix to contain free parameters, while employing LMI methods. The paper solves a structure design problem which bounds the covariance of selected outputs, such as interstory drifts and their velocities, in the presence of random excitations. In fact, the method simultaneously designs the structure and the controller, yielding a hybrid control. The proposed method also allows one to guarantee bounds on the peak response in the presence of bounded energy excitations. With minor modifications, the method can also guarantee bounds on the H∞ performance and many other convex performance criteria. The nonconvex problem is approximated by a convex one by adding a certain function to make the constraint convex. This “convexifying” function is updated with each iteration until the added convexifying function disappears at a saddle point of the nonconvex problem. This is a new contribution to both control theory and structure design. 
+
+
+    
+        AU - Michael S. Wrobleski
+    
+        AU - Henry T. Y. Yang
+    
+
+TI - Identification of Simplified Models Using Adaptive Control Techniques
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 989-997
+VI - 129
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2003)129:7(989) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28989%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A7%28989%29
+SO - Journal of Structural Engineering 2003-07-01 129(7): 989-997
+AB - This paper presents a method, which uses techniques from adaptive control, to identify a simplified model of a complex structure using measurements of the input excitation and forces and the output displacements of the structure, as well as some basic assumptions about the structure of the simplified model being identified. Examples are presented in which the input and output to relatively complex plane frame models are used to identify simplified models with significantly fewer degrees of freedom. One of these original complex models is a benchmark structure for which a highly accurate evaluation model has been developed for the purpose of testing controller designs. Using the simplified model of the complex benchmark structure that has been identified, a controller is designed using an existing controller design algorithm and tested using the evaluation model. 
+
+

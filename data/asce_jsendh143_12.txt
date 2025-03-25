@@ -1,0 +1,522 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - P. Fouché
+    
+        AU - M. Bruneau
+    
+        AU - V. Chiarito
+    
+
+TI - Dual-Hazard Blast and Seismic Behavior of Concrete-Filled Double-Skin Steel Tubes Bridge Pier
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017155
+VI - 143
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001883 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001883
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001883
+SO - Journal of Structural Engineering 2017-12-01 143(12): 04017155
+AB - The dual-hazard inelastic behavior of concrete-filled double-skin steel tubes (CFDSTs) is experimentally investigated as a substitute to reinforced concrete columns for bridge piers in multihazard applications. Results demonstrate that CFDSTs exhibit substantial toughness and ductility that can help achieve satisfactory performance when exposed to seismic and blast hazards. Under cyclic loading, for all specimens designed as part of this testing program, yielding of the section preceded buckling of the outside tube. The onset of local buckling of the outside tube was not observed until well beyond 4% drift, and failure of all the sections happened generally beyond 7% drift, even when compactness of the outside tube met only the AISC seismic provisions requirements for moderately ductile behavior. In the cyclic tests, although pinching of the hysteresis curve happened during the test, the curves remained stable. For the blast tests, all sections behaved in a ductile manner when subjected to near-contact charges; but for extreme conditions, sections having large voids in their cross section experienced significant denting. Overall, these tests validated the viability of CFDSTs in compliance with AISC compactness requirements for bridge columns in the dual-hazard application considered here.
+
+
+    
+        AU - João P. Almeida
+    
+        AU - Ovidiu Prodan
+    
+        AU - Danilo Tarquini
+    
+        AU - Katrin Beyer
+    
+
+TI - Influence of Lap Splices on the Deformation Capacity of RC Walls. I: Database Assembly, Recent Experimental Data, and Findings for Model Development
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017156
+VI - 143
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001853 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001853
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001853
+SO - Journal of Structural Engineering 2017-12-01 143(12): 04017156
+AB - Recent postearthquake missions have shown that reinforced concrete (RC) wall buildings can experience critical damage owing to lap splices, which led to a recent surge in experimental tests of walls with such constructional details. Most of the 16 wall tests described in the literature thus far were carried out in the last six years. This paper presents a database with these wall tests, including the description of a new test on a wall with lap splices and a corresponding reference wall with continuous reinforcement. They complement the existing tests by investigating a spliced member with a shear span ratio smaller than two, which is the smallest among them. The objective of this database is to collect information not just on the force capacity but mainly on the deformation capacity of lap splices in reinforced concrete walls. It is shown that (1)&nbsp;well-confined lap splices relocate the plastic hinge above the lap splice, (2)&nbsp;lap splices with adequate lengths but insufficiently confined attain the peak force but their deformation capacity is significantly reduced, and (3)&nbsp;short and not well-confined lap splices fail before reaching the strength capacity. The analysis of the test results, which are used in the companion paper for the finite element analysis of walls with lap splices, indicates in particular that the confining reinforcement ratio and the ratio of shear span to lap splice length influence the lap splice strain capacity.
+
+
+    
+        AU - Danilo Tarquini
+    
+        AU - João P. Almeida
+    
+        AU - Katrin Beyer
+    
+
+TI - Influence of Lap Splices on the Deformation Capacity of RC Walls. II: Shell Element Simulation and Equivalent Uniaxial Model
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017157
+VI - 143
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001859 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001859
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001859
+SO - Journal of Structural Engineering 2017-12-01 143(12): 04017157
+AB - Spliced longitudinal reinforcement may result in a reduction of both strength and displacement capacity of reinforced concrete (RC) members. This applies in particular when lap splices are located in regions where inelastic deformations concentrate, such as the plastic zone at the base of RC walls. This paper introduces a simple numerical model suitable for engineering practice to simulate the force-displacement response of RC walls with lap splices. Based on experimental data from 16 test units, an equivalent uniaxial steel stress-strain law is proposed that represents the monotonic envelope of the cyclic response of spliced rebars in RC walls up to the onset of strength degradation. It allows for modeling lap splice response with finite element (FE) models while avoiding the use of complex interface bond-slip elements. A new semi-empirical expression for the strain at the onset of strength degradation is derived, which expresses the strain capacity of the lap splice as a function of the confining reinforcement ratio and the ratio of lap splice length to shear span of the wall. The proposed equivalent constitutive law was included in shell element models to predict the force-displacement response of the test unit set of RC walls. Results demonstrated the ability of this approach to adequately capture the peak strength and displacement capacity of the spliced units.
+
+
+    
+        AU - Gabriele Granello
+    
+        AU - Simona Giorgini
+    
+        AU - Alessandro Palermo
+    
+        AU - David Carradine
+    
+        AU - Stefano Pampanin
+    
+        AU - Robert Finch
+    
+
+TI - Long-Term Behavior of LVL Posttensioned Timber Beams
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017158
+VI - 143
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001907 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001907
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001907
+SO - Journal of Structural Engineering 2017-12-01 143(12): 04017158
+AB - The long-term behavior of unbonded posttensioned laminated veneer lumber (LVL) timber beams was investigated for four years under uncontrolled environmental conditions. Two full-scale simply supported beam specimens with eccentric cable profiles were monitored. One specimen was only posttensioned; the other one was posttensioned and loaded with a simulated gravity load. Environmental temperature, relative humidity, posttensioning forces, midspan deflections, timber strains, and end rotations were recorded in order to describe the performance of the structural system over time. Particular attention was dedicated to posttensioning loss and midspan deflection, which are fundamental when evaluating the long-term reliability of such structural systems. Results show that the amount of loss was 3.4 and 4.5%, respectively, for the loaded and unloaded beams. The midspan deflection was determined to be sensitive to the loading configuration, and therefore a unique creep coefficient was not identified. In addition, experimental data were compared with closed-form solutions obtained using analytical models available in literature. Although good agreement was observed in terms of posttensioning trends, the deflection comparisons highlighted the limitations of currently available creep functions.
+
+
+    
+        AU - Kevin Goorts
+    
+        AU - Ali Ashasi-Sorkhabi
+    
+        AU - Sriram Narasimhan
+    
+
+TI - Deployable Active Mass Dampers for Vibration Mitigation in Lightweight Bridges
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017159
+VI - 143
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001921 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001921
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001921
+SO - Journal of Structural Engineering 2017-12-01 143(12): 04017159
+AB - The use of lightweight materials in bridges has brought significant attention to the design and construction of control devices that can suppress excessive vibrations, especially to satisfy serviceability requirements. Control devices enable realization of structural designs for lightweight structures without a commensurate increase in the overall footprint or weight. Most current structural control devices are permanent installations of control systems, tuned to particular structural properties and hence specific to a particular application. This paper proposes a novel concept of a deployable active control device aimed at applications where short-term vibration mitigation during predictable events is desired. This deployable active control device consists of an electromechanical mass damper (EMD) mounted on an uncrewed ground vehicle (UGV) and does not rely on a rigid connection to the structure, thus facilitating rapid deployment for temporary applications. The controller consists of a linear quadratic Gaussian (LQG) algorithm in series with a model to compensate for UGV dynamics and a controller for the EMD. This paper introduces this concept for the first time, followed by the controller formulation including the identification of transfer-function models to capture the EMD and UGV dynamics. The performance of the models and overall control performance of the proposed system is studied through real-time hybrid simulation (RTHS) involving coupled numerical and experimental substructures. The experimental results confirm effective control is achieved using an EMD mounted on a UGV by compensating for UGV dynamics. This concept shows promising results where temporary control is desired, especially in lightweight bridge applications.
+
+
+    
+        AU - Tong Guo
+    
+        AU - Zhenkuan Xu
+    
+        AU - Lianglong Song
+    
+        AU - Lei Wang
+    
+        AU - Zhiqiang Zhang
+    
+
+TI - Seismic Resilience Upgrade of RC Frame Building Using Self-Centering Concrete Walls with Distributed Friction Devices
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017160
+VI - 143
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001901 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001901
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001901
+SO - Journal of Structural Engineering 2017-12-01 143(12): 04017160
+AB - This paper presents the seismic upgrade of existing frame structures by using the self-centering (SC) concrete wall with friction dampers. Working principle, numerical simulation, and design procedure of the upgrade system are introduced, and application was made in the seismic resilience upgrade of a five-story reinforced concrete (RC) frame building located in a high-seismicity area in China. The original building, as a corridor, connects two adjacent buildings and was evaluated as seismically deficient. Three posttensioned concrete walls with friction devices were therefore used to provide self-centering capacity and supplemental energy dissipation. In situ vibration tests were conducted to obtain dynamic properties of the rehabilitated structure and to validate the numerical model. Dynamic nonlinear analyses of original and upgraded buildings subjected to the design-basis earthquake (DBE) and the maximum considered earthquake (MCE) are conducted, which confirm the design objectives and improved seismic resilience of the upgraded system. In addition, by controlling the deformation pattern of the frame, the weak story failure might be avoided.
+
+
+    
+        AU - Cancan Yang
+    
+        AU - Pinar Okumus
+    
+
+TI - Ultrahigh-Performance Concrete for Posttensioned Precast Bridge Piers for Seismic Resilience
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017161
+VI - 143
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001906 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001906
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001906
+SO - Journal of Structural Engineering 2017-12-01 143(12): 04017161
+AB - Precast concrete bridge substructures accelerate construction. Precast concrete piers can also limit residual displacements after earthquakes when used with nonemulative connections. This paper investigates the use of ultrahigh-performance concrete (UHPC) to eliminate damage under moderate to high seismic activity for posttensioned self-centering precast piers. Large-scale laboratory testing was used to assess damage in pier specimens. Specimens were constructed in segments, where the column segment above the foundation had varying details: conventional concrete with mild steel reinforcing bars, UHPC with mild steel reinforcing bars, and UHPC without mild steel reinforcing bars. Specimens were subjected to quasi-static cyclic lateral loading, allowing and disallowing shear slip. The use of UHPC led to minimal damage at displacements much larger than the seismic demand. The difference in damage of UHPC segments with and without mild steel reinforcement was negligible. A comparison of hysteretic responses of different specimens revealed that strength, stiffness, and energy dissipation depended on shear slip more than the material type when shear slip was allowed. For tests without shear slip, specimens with UHPC had higher strength and stiffness.
+
+
+    
+        AU - A. O. Abdelatif
+    
+        AU - J. S. Owen
+    
+        AU - M. F. M. Hussein
+    
+
+TI - Modeling and Parametric Study of the Reanchorage of Ruptured Tendons in Bonded Posttensioned Concrete
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017162
+VI - 143
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001898 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001898
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001898
+SO - Journal of Structural Engineering 2017-12-01 143(12): 04017162
+AB - The contribution of ruptured tendons to the residual strength of bonded posttensioned concrete structures is currently assessed based on pretensioned concrete bond models. However, this approach is inaccurate due to the inherent differences between pretensioned and posttensioned concrete. In this paper, a nonlinear three-dimensional (3D) finite-element model is developed for the reanchoring of a ruptured tendon in posttensioned concrete. The model is validated using full-field displacement measurement from 33 posttensioned concrete prisms and previous experimental data on beams from the literature. The influence of different parameters is investigated, including tendon properties (i.e.,&nbsp;diameter, roughness), duct properties (i.e.,&nbsp;diameter, thickness, material), initial prestress, concrete strength, grout strength, grout voids, stirrups, and strands on the tendon reanchorage. The most influential parameters are found to be tendon and duct properties.
+
+
+    
+        AU - Phe Van Pham
+    
+        AU - Magdi Mohareb
+    
+        AU - Amir Fam
+    
+
+TI - Elastic Analysis of Steel Beams Strengthened with GFRP Plates Including Preexisting Loading Effects
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017163
+VI - 143
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001904 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001904
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001904
+SO - Journal of Structural Engineering 2017-12-01 143(12): 04017163
+AB - The present study develops a theory for the elastic analysis of a preloaded wide flange steel beam, strengthened with two glass fiber-reinforced polymer (GFRP) plates bonded to both flanges, then subjected to additional loads. Starting with the principle of stationary potential energy, the governing equilibrium equations and corresponding boundary conditions are formulated prior to and after GFRP strengthening. The resulting theory involves four coupled equilibrium equations and 10 boundary conditions. A general closed form solution is then provided for general loading and boundary conditions. Detailed comparisons with three-dimensional finite-element solutions show that the theory provides reliable predictions for the displacements and stresses. A parametric study is then developed to quantify the effects of strengthening, GFRP plate thicknesses, and preexisting loads on the capacity of the strengthened beam.
+
+
+    
+        AU - Marta García-Diéguez
+    
+        AU - Jose L. Zapico-Valle
+    
+
+TI - Statistical Modeling of the Relationships between Spatiotemporal Parameters of Human Walking and Their Variability
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017164
+VI - 143
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001899 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001899
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001899
+SO - Journal of Structural Engineering 2017-12-01 143(12): 04017164
+AB - Human walking is a decisive excitation when checking vibration serviceability of several kinds of structures. Advanced models of walking load are needed to obtain realistic serviceability checks. This paper includes the study of the spatiotemporal parameters of human walking, which have a strong effect on the structural dynamic response. An advanced statistical model intended to simulate the temporal evolution of these parameters is sought. The modeling integrates previous related findings in biomechanics and results of a campaign of treadmill tests. An original model, in which the deviations of step interval are decomposed into a deterministic part due to asymmetry and a random part described by a second-order autoregressive process, is first established to model the intrasubject evolution of the step interval. The parameters of this model are formulated as a function of the walking speed, which constitutes a crucial innovation. The intersubject variability of the parameters of the previous model is then modeled statistically. The capability of the calibrated model to reproduce the experimental data is verified by comparing statistically the dynamic response of a virtual bridge in a variety of natural frequencies and walking speeds. The proposed model is more versatile than existing models because it is not restricted to a given distribution of walking speed, but it can be used in simulations with different distributions. Moreover, the application of the model can be extended to real-life walking, in which the average step speed is variable.
+
+
+    
+        AU - Kyle Tousignant
+    
+        AU - Jeffrey A. Packer
+    
+
+TI - Numerical Investigation of Fillet Welds in HSS-to-Rigid End-Plate Connections
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017165
+VI - 143
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001889 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001889
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001889
+SO - Journal of Structural Engineering 2017-12-01 143(12): 04017165
+AB - This paper presents a finite-element (FE) investigation on the behavior of fillet-welded hollow structural section (HSS) rigid end-plate connections, wherein the entire weld length is effective. The FE models are validated by comparison to 33 experimental tests and a parametric study is then performed with 73 numerical tests to evaluate the effect of weld size, HSS branch wall slenderness, and branch inclination angle on fillet-weld strength. The inherent problem with single-sided fillet welds to a tension-loaded element is illustrated. A reliability analysis determined that the directional strength-increase factor for fillet welds in North America leads to inadequate values of the safety index for joints to both circular and rectangular HSSs, especially for connections with large welds. Hence, an alternative yet safe method for estimating the strength of fillet welds to HSS, based on weld size, is proposed. An expression for the fillet-weld size required to develop the yield strength of a 90° HSS branch member is derived.
+
+
+    
+        AU - Zafer I. Sakka
+    
+        AU - R. Ian Gilbert
+    
+
+TI - Structural Behavior of Two-Way Slabs Reinforced with Low-Ductility WWF
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017166
+VI - 143
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001902 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001902
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001902
+SO - Journal of Structural Engineering 2017-12-01 143(12): 04017166
+AB - Concrete slabs usually have small flexural reinforcement ratios and are considered to be very ductile structural members. However, this is not true for slabs containing low-ductility tensile reinforcement. These slabs fail in a brittle manner by rupture of the reinforcement at relatively small deformations. This is because many of the assumptions implicit in the design of flexural reinforced concrete members are not applicable for such structures. Concrete slabs that are reinforced with low-ductility steel welded wire fabric (WWF) are not able to absorb energy generated by the applied loads and lack robustness. This paper presents the results of laboratory tests on 11 two-way square and rectangular corner-supported reinforced concrete slab panels containing either low-ductility WWF or deformed bars with normal ductility. The slabs were subjected to deformation controlled transverse loads applied by an actuator. The results of the tests are presented and evaluated with specific focus on the ductility, mode of failure, and strength of the slabs.
+
+
+    
+        AU - Cameron B. Ritchie
+    
+        AU - Jeffrey A. Packer
+    
+        AU - Michael V. Seica
+    
+        AU - Xiao-Ling Zhao
+    
+
+TI - Behavior of Steel Rectangular Hollow Sections Subject to Blast Loading
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017167
+VI - 143
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001922 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001922
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001922
+SO - Journal of Structural Engineering 2017-12-01 143(12): 04017167
+AB - Large-scale far-field air-blast testing of cold-formed steel rectangular hollow sections (RHS) in flexure has been performed for the first time. These arena trials illustrated the excellent performance and ductility of cold-formed tubular steel members under extreme blast loads, without any fractures experienced in the cross section. These instrumented tests provided much performance data that enabled the validation of subsequent models, using both single-degree-of-freedom and explicit finite-element analysis. By means of a parametric numerical study, the behavioral models were used to illustrate the influence of key variables affecting the response. Guidance is then given for the preliminary selection of RHS flexural members for blast design applications to achieve various ductility ratios.
+
+
+    
+        AU - Dawei Zhang
+    
+        AU - Khuram Rashid
+    
+        AU - Bo Wang
+    
+        AU - Tamon Ueda
+    
+
+TI - Experimental and Analytical Investigation of Crack Spacing and Width for Overlaid RC Beams at Elevated Temperatures
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017168
+VI - 143
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001910 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001910
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001910
+SO - Journal of Structural Engineering 2017-12-01 143(12): 04017168
+AB - Cracking in overlay-strengthened RC structures significantly influences their structural performance; however, the effect of elevated temperatures on cracking behavior remains unclear. This work summarizes the experimental and analytical investigations of flexural crack spacing and crack widths of overlaid reinforced concrete (RC) beams at elevated temperatures. Flexural crack spacing was observed experimentally by conducting four-point bending tests on control RC beams and beams overlaid by polymer cement mortar (PCM) together with steel reinforcements at 20, 40, and 60°C during both exposure and loading. The flexural crack width was measured during testing at 20 and 40°C. The flexural crack spacing and crack width increased with increasing temperature for the same reinforcement ratio in the overlay, whereas the flexural crack spacing and crack width decreased with increasing total area of steel reinforcements in the overlay at the same temperature. Based on the existing models for predicting the average crack spacing of overlaid beams, the bond deterioration of concrete/steel and PCM/steel bonds was incorporated to predict the flexural crack spacing of overlaid beams at elevated temperatures. The flexural crack width at an elevated temperature was predicted by incorporating the flexural crack spacing and the tensile stress of tension reinforcements in both the substrate beam and overlay at the cracked section. Close agreement was obtained between the experimental and predicted values of the flexural crack spacing and width.
+
+
+    
+        AU - Utsab Katwal
+    
+        AU - Zhong Tao
+    
+        AU - Md Kamrul Hassan
+    
+        AU - Wen-Da Wang
+    
+
+TI - Simplified Numerical Modeling of Axially Loaded Circular Concrete-Filled Steel Stub Columns
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017169
+VI - 143
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001897 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001897
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001897
+SO - Journal of Structural Engineering 2017-12-01 143(12): 04017169
+AB - Behavior of concrete-filled steel tubular (CFST) columns can be predicted accurately using detailed finite-element (FE) modeling, but such models are tedious to build and impractical for frame analysis. In contrast, computationally efficient fiber beam element (FBE) models can achieve the balance between accuracy and simplicity, and can be utilized for advanced analysis of structural systems. In FBE models, however, the material models themselves have to account for the interaction between the steel tube and core concrete. Therefore the accuracy of a FBE model depends mainly on the input material models. Although there are a few FBE models available in the literature for CFST columns, these models may not be suitable for some cases, especially when considering the rapid development and application of high-strength materials and/or thin-walled steel tubes. This paper proposes versatile, computationally simple, yet accurate steel and concrete models based on detailed FE modeling results of circular CFST stub columns under axial compression. The material models are then implemented in FBE modeling and the prediction accuracy is verified with a wide range of test data.
+
+
+    
+        AU - Xue Zhang
+    
+        AU - Jinping Ou
+    
+        AU - Zhimin Wu
+    
+
+TI - Effect of Circumferentially Nonuniform Lateral Tension on Bond Behavior between Plain Round Bars and Concrete: Analytical Study
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017170
+VI - 143
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001903 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001903
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001903
+SO - Journal of Structural Engineering 2017-12-01 143(12): 04017170
+AB - The bond behavior between a plain bar and concrete has received more attention in recent years because of its importance in the assessment of historical structures. The negative effect of lateral tension on the bond performance of plain bars has been previously investigated through experiments, and the results have shown that the bond strength decreases with increases of lateral tension. However, few attempts have been made to analytically study the bond behavior of plain bars under circumferentially nonuniform lateral tension. Therefore, in this study, a theoretical investigation into the effect of circumferentially nonuniform lateral tension on the bond mechanism and ultimate bond strength of plain bars is undertaken. Based on the theory of elasticity, the compaction of the bar/concrete bond interface is first discussed, and then an analytical model is given for the ultimate bond strength of plain round bars under circumferentially nonuniform lateral tension. The proposed model is verified with experimental results from 96 pull-out specimens, which agree well with the test data. Furthermore, a parametric study is made to show that the proposed model can be applied without concern for separation of the bar/concrete interface for most historical RC structures except those located in humid or marine environments. Finally, the analytical results are compared with a design bond-strength code, which shows that the code could be used in calculating the development length of plain bars under lateral tension.
+
+
+    
+        AU - Xiaoqin Liu
+    
+        AU - Frank Lam
+    
+
+TI - Reliability Analysis of Lateral Bracing Forces in Metal-Plated Wood Trusses
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017171
+VI - 143
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001908 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001908
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001908
+SO - Journal of Structural Engineering 2017-12-01 143(12): 04017171
+AB - This paper presents a reliability study of metal-plated (MP) wood truss webs laterally braced by single or double braces, and the results provide a reference for amending relevant prescriptions in truss design codes. The objectives of the study were to: (1)&nbsp;characterize specific random variables that are involved in the single-braced or double-braced MP truss web systems; and (2)&nbsp;conduct reliability-based analyses to quantify the bracing forces of such systems based on the characterized random variables. Experimental studies were performed to evaluate one of the random variables, namely the out-of-plane rotational stiffness of the MP connection. Moreover, three-dimensional numerical models were constructed to simulate the structural responses of the single-braced and double-braced truss web systems subjected to eccentric loads applied. Reliability analyses were then performed using response surface method. Results of the reliability analyses show that the conventional 2% rule is conservative and a rational lateral-to-axial-load ratio of 1.25% may provide MP truss bracing designers a supplement solution when MP truss joints are fabricated in compliance with the relevant manufacturing and handling provisions and other system stability implementations (e.g.,&nbsp;roof sheathing and diagonal bracing) are present.
+
+
+    
+        AU - Li-Yan Xu
+    
+        AU - Mu-Xuan Tao
+    
+        AU - Xin Nie
+    
+        AU - Jian-Sheng Fan
+    
+        AU - Ertugrul Taciroglu
+    
+
+TI - Modeling Techniques for Strain-Range-Dependent Hardening Behavior of Low-Yield-Point Steel Shear Panel Dampers
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017172
+VI - 143
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001896 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001896
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001896
+SO - Journal of Structural Engineering 2017-12-01 143(12): 04017172
+AB - Shear panel dampers made of the low-yield-point steel exhibit significant overstrength under cyclic loading—a phenomenon that has been observed to depend not only on accumulated plastic deformations but also the loading amplitudes. This type of material behavior cannot be captured by using nominal metal plasticity models, and thus an extension—dubbed in this paper as the stepwise hardening model—is proposed. This model incorporates a set of kinematic and isotropic hardening variables that can be selectively activated or deactivated based on the strain amplitude. It can be incorporated into standard plasticity models using the so-called finite-element birth-death technique, which is available in most commercial finite-element analysis packages. In this paper, the authors implement the proposed extension onto the standard J2 plasticity model in general finite-element software using its parameter design language. The utility of the model is demonstrated by calibrating its parameters using force-displacement data from laboratory tests, and by carrying out numerical simulations to examine the evolution of damper shear force and energy consumption under different loading histories. The numerical studies performed in this paper indicate that the modified model can capture the hysteretic characteristics of low-yield-point steel dampers very well, which include their nonlinear transient and load–amplitude-dependent responses, as well as Bauschinger effects.
+
+
+    
+        AU - Thomas Reynolds
+    
+        AU - Robert Foster
+    
+        AU - Julie Bregulla
+    
+        AU - Wen-Shao Chang
+    
+        AU - Richard Harris
+    
+        AU - Michael Ramage
+    
+
+TI - Lateral-Load Resistance of Cross-Laminated Timber Shear Walls
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 06017006
+VI - 143
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001912 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001912
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001912
+SO - Journal of Structural Engineering 2017-12-01 143(12): 06017006
+AB - Cross-laminated timber shear wall systems are used as a lateral load resisting system in multistory timber buildings. Walls at each level typically bear directly on the floor panels below and are connected by nailed steel brackets. Design guidance for the lateral-load resistance of such systems is not well established and design approaches vary among practitioners. Two cross-laminated two-story timber shear wall systems are tested under vertical and lateral load, along with pullout tests on individual steel connectors. Comprehensive kinematic behavior is obtained from a combination of discrete transducers and continuous field displacements along the base of the walls, obtained by digital image correlation, giving a measure of the length of wall in contact with the floor below. Existing design approaches are evaluated. A new offset-yield criterion based on acceptable permanent deformations is proposed. A lower bound plastic distribution of stresses, reflecting yielding of all connectors in tension and cross-grain crushing of the floor panel, is found to most accurately reflect the observed behavior.
+
+
+    
+        AU - Michael H. Scott
+    
+        AU - Alabbas Al-Aukaily
+    
+
+TI - Discussion of “Complex Perturbation Method for Sensitivity Analysis of Nonlinear Trusses” by Ravi Kiran, Lei Li, and Kapil Khandelwal
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 07017005
+VI - 143
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001918 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001918
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001918
+SO - Journal of Structural Engineering 2017-12-01 143(12): 07017005
+
+
+    
+        AU - Ravi Kiran
+    
+        AU - Lei Li
+    
+        AU - Kapil Khandelwal
+    
+
+TI - Closure to “Complex Perturbation Method for Sensitivity Analysis of Nonlinear Trusses” by Ravi Kiran, Lei Li, and Kapil Khandelwal
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 07017006
+VI - 143
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001919 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001919
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001919
+SO - Journal of Structural Engineering 2017-12-01 143(12): 07017006
+
+
+    
+        AU - Shiming Chen
+    
+        AU - Junming Jiang
+    
+
+TI - Discussion of “Component-Based Model for Single-Plate Shear Connections with Pretension and Pinched Hysteresis” by Jonathan M. Weigand
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 07017007
+VI - 143
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001933 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001933
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001933
+SO - Journal of Structural Engineering 2017-12-01 143(12): 07017007
+
+
+    
+        AU - Jonathan M. Weigand
+    
+
+TI - Closure to “Component-Based Model for Single-Plate Shear Connections with Pretension and Pinched Hysteresis” by Jonathan M. Weigand
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 07017008
+VI - 143
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001934 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001934
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001934
+SO - Journal of Structural Engineering 2017-12-01 143(12): 07017008
+
+

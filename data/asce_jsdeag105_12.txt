@@ -1,0 +1,464 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Robert Smilowitz
+    
+        AU - Nathan M. Newmark
+    
+
+TI - Design Seismic Accelerations in Buildings
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 2487-2496
+VI - 105
+IP - 12
+AID - 10.1061/JSDEAG.0005306 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005306
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005306
+SO - Journal of the Structural Division 1979-12-01 105(12): 2487-2496
+AB - A procedure is presented for determining the design distribution of story shears and overturning moments in buildings subjected to strong ground motions, with particular emphasis on tall buildings. A parameter study was conducted and modal analyses were performed to determine the influence of the following variables on the most probable response to earthquake excitation at various levels in a building: (1) The type of structural behavior, ranging from that of a purely flexural beam to that of a purely shear beam; (2) the fundamental frequency relative to the intersection of the linear branches of the response spectrum; (3) the degree of structural setback, ranging from uniform to setback over 80% of the height; and (4) the degree of foundation compliance. For all parametric combinations a bilinear response spectrum was used and the secondary P-Δeffects were incorporated into the modal analysis.
+
+
+    
+        AU - Andrzej S. Nowak
+    
+        AU - Niels C. Lind
+    
+
+TI - Practical Bridge Code Calibration
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 2497-2510
+VI - 105
+IP - 12
+AID - 10.1061/JSDEAG.0005307 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005307
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005307
+SO - Journal of the Structural Division 1979-12-01 105(12): 2497-2510
+AB - The paper describes the calibration of the Ontario Highway Bridge Design Code and gives results. The method of calibration integrates traditional procedures, establishing some factors by judgment where applicable, with second moment level two reliability analysis wherever feasible. The resulting formulation is a process of suboptimization. By adjustment of the free code parameters the safety index is made close to the target safety index. Safety indices were calculated for 20 selected existing bridges redesigned using calibrated load and performance factors. The scatter of safety indices for redesigned bridges is significantly reduced. It was found that further research is required to provide more information on serviceability limit states such as cracking in prestressed concrete bridges and permanent deformations of steel girders.
+
+
+    
+        AU - T. Y. Yang
+    
+        AU - M. I. Baig
+    
+
+TI - Seismic Analysis of Fossil-Fuel Boiler Structures
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 2511-2528
+VI - 105
+IP - 12
+AID - 10.1061/JSDEAG.0005308 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005308
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005308
+SO - Journal of the Structural Division 1979-12-01 105(12): 2511-2528
+AB - Seismic analysis has been performed for a 600-MW and a 1200-MW steam generators and their supporting structures in this paper using realistic three-dimensional finite element models. The 600-MW power plant is located in Zone III of the earthquake-risk map whereas the 1200-MW plant is located in Zone I. Because of greater possibility of an occurrance of an earthquake in Zone III, the power plant was designed according to the specifications of the Uniform Building Codes. Each suspended boiler is analyzed by an analytic model as well as by a finite element model with four hanger rods. For each plant, twelve natural frequencies and associated mode shapes of the combined boiler and structure finite element model have been obtained. For the 600-MW boiler structure, the spectra of modal responses of the relative displacements of the joints and the axial stresses in the structural members are obtained based on El Centro earthquake. It is found that the axial stresses exceed the yield stress and Euler buckling stresses in a minority of members. Small damping coefficients reduce the response displacements significantly.
+
+
+    
+        AU - Visit Tansirikongkol
+    
+        AU - David A. Pecknold
+    
+
+TI - Equivalent Linear SDF Response to Earthquakes
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 2529-2545
+VI - 105
+IP - 12
+AID - 10.1061/JSDEAG.0005309 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005309
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005309
+SO - Journal of the Structural Division 1979-12-01 105(12): 2529-2545
+AB - The objective of this paper is to examine the accuracy of an equivalent linearization method for prediction of maximum response of a single degree-of-freedom bilinear hysteretic oscillator subjected to earthquake input. Simple expressions are developed for equivalent linear frequency and damping in terms of maximum attained response ductility. Comprehensive numerical results are presented in which the effects on accuracy of elastic frequency, yield strength, bilinear hardening slope, initial viscous damping, and earthquake input are examined. The parameters that most strongly influence accuracy are the hardening slope of the bilinear hysteresis loop and the magnitude of the response ductility. Accuracy is poorest for nearly elastoplastic systems and moderate response ductilities. These trends are interpreted by examining in the frequency domain the response of the bilinear oscillator to simple inputs.
+
+
+    
+        AU - Stuart D. Werner
+    
+        AU - Li Chi Lee
+    
+        AU - Hung Leung Wong
+    
+        AU - Mihailo D. Trifunac
+    
+
+TI - Structural Response of Traveling Seismic Waves
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 2547-2564
+VI - 105
+IP - 12
+AID - 10.1061/JSDEAG.0005310 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005310
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005310
+SO - Journal of the Structural Division 1979-12-01 105(12): 2547-2564
+AB - A new methodology for analyzing the three-dimensional response of soil/structure systems to traveling seismic waves is described and used to analyze a single-span bridge subjected to incident plane SH-waves. The analysis results demonstrate the importance of traveling wave effects and show how the excitation frequency and direction of incidence of the seismic waves influence the three-dimensional response characteristics of this bridge/soil system.
+
+
+    
+        AU - Ray W. Clough
+    
+        AU - Akira Niwa
+    
+        AU - Douglas P. Clough
+    
+
+TI - Experimental Seismic Study of Cylindrical Tanks
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 2565-2590
+VI - 105
+IP - 12
+AID - 10.1061/JSDEAG.0005311 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005311
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005311
+SO - Journal of the Structural Division 1979-12-01 105(12): 2565-2590
+AB - Earthquake response behavior of ground-supported, thin-shell, cylindrical liquid storage tanks was studied experimentally by means of the University of California at Berkeley shaking table. 12-ft x 6-ft and 7-¾-ft x 15-ft models, fabricated from sheet aluminum to represent steel tanks three times larger, were subjected to simulated earthquake accelerations with intensities up to 0.5 g. Principal test parameters included base fixity (fixed or free to uplift) and top condition (open, fixed, or floating roof). The most significant observation was that out-of-round distortions were induced in both fixed and free-base tanks in addition to the expected lateral deflection. Stresses and deflections associated with the out-of-round response were not negligible. Also, the uplift behavior of unanchored tanks differed greatly from design prediction, with observed stresses several times larger than expected. The models performed satisfactorily despite the unexpected behavior characteristics.
+
+
+    
+        AU - Conrad P. Heins
+    
+        AU - M. A. Sahin
+    
+
+TI - Natural Frequency of Curved Box Girder Bridges
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 2591-2600
+VI - 105
+IP - 12
+AID - 10.1061/JSDEAG.0005312 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005312
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005312
+SO - Journal of the Structural Division 1979-12-01 105(12): 2591-2600
+AB - This paper presents the results of a comprehensive study which has permitted the development of a series of empirical equations used for direct evaluation of the natural frequency of straight and curved box girders. The natural frequency of curved box girders has been obtained by utilizing a computer oriented finite difference scheme. The natural frequency results obtained from the computer program were compared to measured frequencies of a series of test bridges. Excellent correlation was observed. A parametric study was then performed on a series of simple, two and three span continuous curved bridges. The results from this parametric study permitted development of a simplified natural frequency equation.
+
+
+    
+        AU - Robert G. Drysdale
+    
+        AU - Fernando Betancourt-Angel
+    
+        AU - Geoffrey B. Haddad
+    
+
+TI - Thick Skin Sandwich Beam Columns with Weak Cores
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 2601-2619
+VI - 105
+IP - 12
+AID - 10.1061/JSDEAG.0005313 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005313
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005313
+SO - Journal of the Structural Division 1979-12-01 105(12): 2601-2619
+AB - An analytical method for predicting the behavior of sandwich beam columns was developed for cases where thick skins and weak cores are utilized. It is anticipated that this analytical tool will help in the design of this type of elements for buildings where the other functions (i.e., thermal and acoustic insulation) can also be satisfied in an integrated design. Analytical expressions were derived for seven loading conditions, the most complicated of which was with end thrusts and end moments and a concentrated midspan load, all acting on an initially bowed beam-column. As an example, additional design equations were derived for this loading condition so that stresses and strains in the skins and core could be evaluated. This analytical tool has proven to be useful in the design of prototype sandwich panels.
+
+
+    
+        AU - Carlos P. Patrickson
+    
+        AU - Peretz P. Friedmann
+    
+
+TI - Deterministic Torsional Building Response to Winds
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 2621-2637
+VI - 105
+IP - 12
+AID - 10.1061/JSDEAG.0005314 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005314
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005314
+SO - Journal of the Structural Division 1979-12-01 105(12): 2621-2637
+AB - The dynamic response of tall buildings to wind loads, including the torsional degree-of-freedom, is investigated using a sinusoidal pseudo-turbulent representation of atmospheric gusts superimposed on a mean wind velocity. Torsional effects are due to the offsets between a hypothetical aerodynamic center and the cross-sectional center of mass relative to the elastic axis or both. Cases which were found to contain significant torsional response when using this deterministic approach show similar characteristics when analyzed by a probabilistic method. Thus it appears that the deterministic approach provides valuable physical insight to the problem. This is utilized in the paper for validating approximations associated with nonlinear terms in the wind loads and the time dependent portion of the aerodynamic damping.
+
+
+    
+        AU - M. Pinto de Magalhães
+    
+
+TI - Biaxially Loaded Concrete Sections
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 2639-2656
+VI - 105
+IP - 12
+AID - 10.1061/JSDEAG.0005315 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005315
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005315
+SO - Journal of the Structural Division 1979-12-01 105(12): 2639-2656
+AB - A method has been developed for the calculation of the ultimate strength and the design of reinforced concrete sections subject to biaxial eccentricity. The method follows the recommendations of the CEB-FIP Model Code for Concrete Structures but can easily be adapted to the ACI code. The shape of the section and the type of reinforcement may be any whatsoever. The theory is developed particularly for sections defined by the coordinates of the vertices of the outline polygon. The formulas and the procedure for calculation of the mechanical characteristics of the concrete and steel sections, areas and static moments of the 1st, 2nd and 3rd order, are presented for such sections. The method presupposes the use of computers.
+
+
+    
+        AU - Pedro Albrecht
+    
+        AU - Ian M. Friedland
+    
+
+TI - Fatigue-Limit Effect on Variable-Amplitude Fatigue of Stiffeners
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 2657-2675
+VI - 105
+IP - 12
+AID - 10.1061/JSDEAG.0005316 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005316
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005316
+SO - Journal of the Structural Division 1979-12-01 105(12): 2657-2675
+AB - The effect of the constant-amplitude fatigue limit on the variable-amplitude fatigue life was determined experimentally. Tensile specimens with transverse stiffeners welded either automatically or manually were tested in such a way that, from one set of tests to another, an increasing number of cycles fell below the fatigue limit. Data were developed from 500,000 cycles—60,000,000 cycles of loading. The root-mean-cube stress range was found to be a valuable transfer function between constant and variable-amplitude fatigue life data when its value exceeded the fatigue limit. When it was lower, the modification suggested by Yamada and the first writer—based on the assumption that those cycles in the histogram that fall below the fatigue limit do not drive the crack—led to good predictions of variable amplitude fatigue life.
+
+
+    
+        AU - Frank Van der Woude
+    
+        AU - Brian F. Cousins
+    
+
+TI - Deformation of Arches: Elastic Buckling Behavior
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 2677-2694
+VI - 105
+IP - 12
+AID - 10.1061/JSDEAG.0005317 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005317
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005317
+SO - Journal of the Structural Division 1979-12-01 105(12): 2677-2694
+AB - In-plane buckling, in the Euler sense, of slender, incompressible arches under funicular loading is investigated. A differential equation, applicable to arches of any shape, is derived. An analytical solution appears to exist only for the particular case of uniform circular arches. A strain-energy method using the lagrangian multiplier technique to handle geometric restrictions is developed. An infinite series solution is presented for uniform circular arches, and the results obtained are identical to the differential equation solution. Having established that the energy method gives exact results for circular arches, it is then used to derive an approximate solution for uniform parabolic arches using a finite series approach. Numerical results are given for both the buckling loads and buckling modes. Convergence tests are included showing that as few as three or four terms give solutions accurate to within 1%.
+
+
+    
+        AU - Zdeněk P. Bažant
+    
+        AU - Sang-Sik Kim
+    
+
+TI - Approximate Relaxation Function for Concrete
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 2695-2705
+VI - 105
+IP - 12
+AID - 10.1061/JSDEAG.0005318 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005318
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005318
+SO - Journal of the Structural Division 1979-12-01 105(12): 2695-2705
+AB - Presented is an approximate algebraic formula for calculating the relaxation function for aging concrete. The formula is general; it applies to any form of the creep function. Compared to the previously used effective modulus method, the formula reduces the error from up to 37% to within 2% relative to the exact solution according to the superpositon principle. Calculation of long-time relaxation does not require knowledge of the elastic modulus and of the creep function for load duration below one day. The formula enables direct calculation of the age-adjusted effective modulus from the creep function, and thus it allows dispensing with the table of the aging coefficient. This is particularly useful in case of a more sophisticated creep model which reflects the fact that the creep functions for different humidities and sizes have different (nonproportional) shapes.
+
+
+    
+        AU - Henning Agerskov
+    
+        AU - Jørgen Bjørnbak-Hansen
+    
+
+TI - Welded Connections in Round Bar Steel Structures
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 2707-2724
+VI - 105
+IP - 12
+AID - 10.1061/JSDEAG.0005319 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005319
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005319
+SO - Journal of the Structural Division 1979-12-01 105(12): 2707-2724
+AB - Welded connections in round bar steel structures are studied with a view to clarifying the strength and stiffness characteristics of the various types of connections commonly used. Various forms of butt-welded joints in round bar members and various types of connections between round bars and other structural elements, e.g., gusset plates in trussed structures, are examined. The main emphasis in the investigation is laid upon the fatigue strength of the connections, but tests to determine the static strength of the various connection types are also included. The test results obtained in the investigation make possible, for both statically loaded structures and structures subjected to fatigue, the selection of the optimum connection, taking into consideration strength as well as production costs.
+
+
+    
+        AU - Bennosuke Tanimoto
+    
+        AU - Kiyoshi Ishikawa
+    
+        AU - Shotaro Natsume
+    
+
+TI - Forced Vibration of Beams by Eigenmatrix Method
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 2725-2749
+VI - 105
+IP - 12
+AID - 10.1061/JSDEAG.0005320 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005320
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005320
+SO - Journal of the Structural Division 1979-12-01 105(12): 2725-2749
+AB - The eigenmatrix method and the operational displacement one are presented for the forced vibration problem of beams and frames. The differential equation for flexure is due to the classical Bernoulli-Euler's theory, and it can be extended to the excellent Timoshenko's one. The stress-strain relationship can also be extended from Hooke's law to the visco-elastic Voigt's law. Avoiding the prevailing lumped mass or finite element philosophy, the structures are treated as continuum solid body as they appear. The method consists of the three traditional branches in structural analysis: (1) Eigenvalue problem, (2)boundary-value problems, and (3)initial-value problem. The eigenmatrix method is in a sense the algebraic transfer matrix one, in which case the load term can be separated, and it is suited for one-dimensional structures. The operational displacement method is fitted for frames, in which case the complete stiffness matrix is tridiagonal.
+
+
+    
+        AU - Al P. Kabaila
+    
+        AU - Robert J. Edwardes
+    
+
+TI - Hybrid Element Applied to Shear Wall Analysis
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 2753-2760
+VI - 105
+IP - 12
+AID - 10.1061/JSDEAG.0005321 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005321
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005321
+SO - Journal of the Structural Division 1979-12-01 105(12): 2753-2760
+AB - In the finite element analysis of structures consisting of assemblages of beam and plate elements such as coupled shear walls, difficulties are encountered at the point of intersection of the different elements. The conventional displacement rectangular plane stress element has only translational displacement components at its nodes, whereas the beam element has two translations, and a rotation. If the rotation is suppressed at the intersection points, the structure is only poorly modeled.
+
+
+    
+        AU - Venkatakrishnan Kalyanaraman
+    
+        AU - Hung-Yi Pao
+    
+        AU - Marwan A. Rayan
+    
+
+TI - Shear Tests of Deep Beams with Flanges
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 2760-2766
+VI - 105
+IP - 12
+AID - 10.1061/JSDEAG.0005322 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005322
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005322
+SO - Journal of the Structural Division 1979-12-01 105(12): 2760-2766
+AB - It is well known that the shear strength of deep reinforced concrete beams in higher than that of slender beams. Even without shear reinforcement, directly loaded deep beams exhibit reserve strength in shear above the shear force causing the diagonal tension cracks whereas the formation of diagonal tension cracks almost immediately leads to shear failure in slender reinforced concrete beams with no shear reinforcement.
+
+
+    
+        AU - Rene W. Luft
+    
+
+TI - Optimal Tuned Mass Dampers for Buildings
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 2766-2772
+VI - 105
+IP - 12
+AID - 10.1061/JSDEAG.0005323 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005323
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005323
+SO - Journal of the Structural Division 1979-12-01 105(12): 2766-2772
+AB - This note has presented approximate formulas for the design of a TMD system. For most buildings, the accuracy obtained from the closed form expressions is adequate for preliminary design. This note has also shown, using results of the feasibility study of the Citicorp Center TMD, that the effective damping of a building with a TMD is smaller than predicted by a model that represents the building by its first mode only.
+
+
+    
+        AU - Rafael Riddell
+    
+        AU - Nathan M. Newmark
+    
+
+TI - Force-Deformation Models for Nonlinear Analyses
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 2773-2778
+VI - 105
+IP - 12
+AID - 10.1061/JSDEAG.0005324 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005324
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005324
+SO - Journal of the Structural Division 1979-12-01 105(12): 2773-2778
+AB - The purpose of this note is to consider some of the desirable characteristics of such a model and to point out two deficiencies that may often lead to spurious results.
+
+
+    
+        AU - David Morris
+    
+
+TI - Closure to “Prestressed Concrete Design by Linear Programming”
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 2781-2782
+VI - 105
+IP - 12
+AID - 10.1061/JSDEAG.0005325 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005325
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005325
+SO - Journal of the Structural Division 1979-12-01 105(12): 2781-2782
+
+
+    
+        AU - Erling A. Smith
+    
+
+TI - Discussion of “Space Truss Design in Inelastic Range”
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 2782-2783
+VI - 105
+IP - 12
+AID - 10.1061/JSDEAG.0005326 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005326
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005326
+SO - Journal of the Structural Division 1979-12-01 105(12): 2782-2783
+
+
+    
+        AU - Vicente Solana
+    
+        AU - Salvador Meca
+    
+
+TI - Discussion of “Stochastic Nature of Building Live Loads”
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 2784-2787
+VI - 105
+IP - 12
+AID - 10.1061/JSDEAG.0005327 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005327
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005327
+SO - Journal of the Structural Division 1979-12-01 105(12): 2784-2787
+
+
+TI - Erratum for “A New Mixed Procedure for Nonlinear Analysis”
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 2788-2789
+VI - 105
+IP - 12
+AID - 10.1061/JSDEAG.0005328 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005328
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005328
+SO - Journal of the Structural Division 1979-12-01 105(12): 2788-2789
+
+

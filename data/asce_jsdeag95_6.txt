@@ -1,0 +1,450 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - David S. Hatcher
+    
+        AU - Mete A. Sozen
+    
+        AU - Chester P. Siess
+    
+
+TI - Test of a Reinforced Concrete Flat Slab
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 1051-1072
+VI - 95
+IP - 6
+AID - 10.1061/JSDEAG.0002284 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002284
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002284
+SO - Journal of the Structural Division 1969-06-01 95(6): 1051-1072
+AB - The behavior of a flat slab, the second of the 5 test structures built and tested in the course of an investigation of multiple-panel reinforced concrete floor slabs, is described and analyzed. The test structure, which comprised 9 5-ft square panels, was designed essentially on the basis of the ACI Building Code (ACI 318-56). Test data included deflections at 33 locations, reinforcement strains at 335 locations, and all three components of each of the 16 column reactions. Moments computed from measured reinforcement strains were compared with the ACI design moments and indicated that the total amount of reinforcement was sufficient but was in some cases inefficiently distributed. Although the overall factor of safety of the structure was adequate, the tests clearly indicated that the service-load behavior was marginal and that excessive cracking and deflections can be expected in such structures designed for and subjected to high permanent live loads.
+
+
+    
+        AU - William L. Gamble
+    
+        AU - Mete A. Sozen
+    
+        AU - Chester P. Siess
+    
+
+TI - Tests of a Two-Way Reinforced Concrete Floor Slab
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 1073-1096
+VI - 95
+IP - 6
+AID - 10.1061/JSDEAG.0002285 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002285
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002285
+SO - Journal of the Structural Division 1969-06-01 95(6): 1073-1096
+AB - Construction and testing of a nine-panel two-way reinforced concrete floor slab are described. The panels were 5 ft sq. Stresses, strains, deflections, and cracking observed during the tests are described. Bending moments derived from measured strains are presented and are shown to be substantially different than the design moments at many design sections. The measured beam moments were appreciably lower than the design moments, but many of the slab sections were underdesigned. The slab design load was 145 psf and the failure load with all panels loaded was 537 psf. This compared favorably with the 529 psf predicted for the same failure mechanism by means of yield-line analysis methods.
+
+
+    
+        AU - M. Daniel Vanderbilt
+    
+        AU - Mete A. Sozen
+    
+        AU - Chester P. Siess
+    
+
+TI - Tests of a Modified Reinforced Concrete Two-Way Slab
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 1097-1116
+VI - 95
+IP - 6
+AID - 10.1061/JSDEAG.0002286 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002286
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002286
+SO - Journal of the Structural Division 1969-06-01 95(6): 1097-1116
+AB - Tests to failure of a nine-panel two-way slab designed on the basis of a modified limit analysis are described. The behavior of the structure at various stages of loading is described in terms of deflections, reinforcement stresses, and cracks. Moments measured at the design sections are compared with the design moments. The flexural strength of the structure is computed using the yield-line theory.
+
+
+    
+        AU - James O. Jirsa
+    
+        AU - Mete A. Sozen
+    
+        AU - Chester P. Siess
+    
+
+TI - Pattern Loadings on Reinforced Concrete Floor Slabs
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 1117-1137
+VI - 95
+IP - 6
+AID - 10.1061/JSDEAG.0002287 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002287
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002287
+SO - Journal of the Structural Division 1969-06-01 95(6): 1117-1137
+AB - The effects of strip and checkerboard loading patterns on the moments in multipanel reinforced concrete floor slabs are evaluated using analytical and experimental information. Moments measured under pattern loading are compared with uniform-load values for a flat plate, two flat slabs and two two-way slabs. The results of theoretical solutions for pattern loads on elastic plates are used to develop a procedure for estimating the effect of pattern loadings on moments in multipanel slabs supported by beams or columns of any stiffness. The procedure consists of determining whether the given combinations of beam and column stiffnesses are sufficient to limit moment increases to a prescribed level. Results from the moments measured in the test structures indicate that the effects of pattern loads on actual structures can be predicted using the suggested procedure.
+
+
+    
+        AU - Mehdi S. Zarghamee
+    
+
+TI - Minimum Weight Design of Enclosed Antennas
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 1139-1152
+VI - 95
+IP - 6
+AID - 10.1061/JSDEAG.0002288 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002288
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002288
+SO - Journal of the Structural Division 1969-06-01 95(6): 1139-1152
+AB - The minimization of the total weight of the tiltable component of an enclosed antenna structure with a given topology and a given initial design subject to relative deformation constraints (rms limits) in both face-up and face-side attitudes as well as to certain structural constraints is formulated, and the solution to this problem is sought by a modified version of the gradient projection method of nonlinear programming. The given initial design should satisfy all the structural constraints, but it may violate one or both deformation constraints. The solution is obtained in two steps by first finding a feasible solution, that is a solution which satisfies all the constraints, and then minimizing the total weight subject to structural and deformation constraints. The structural constraints, for the sake of simplicity, have been assumed to be linear. The method is tested by optimizing a plane truss of a large radio telescope antenna.
+
+
+    
+        AU - Alexander Chajes
+    
+
+TI - Stability Behavior Illustrated by Simple Models
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 1153-1172
+VI - 95
+IP - 6
+AID - 10.1061/JSDEAG.0002289 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002289
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002289
+SO - Journal of the Structural Division 1969-06-01 95(6): 1153-1172
+AB - Lumped parameter models, consisting of rigid bars and extensional and rotational springs, are used to study the stability of structural members. The linear as well as the nonlinear, post-buckling behavior of columns, frames, plates and shells is simulated by means of one and two degree of freedom models. The mathematical simplification resulting from the use of the models makes it possible to explain complex stability phenomenons such as snap-through buckling in shells and the presence of primary bending in frames in simple terms.
+
+
+    
+        AU - A. F. Lukey
+    
+        AU - Peter F. Adams
+    
+
+TI - Rotation Capacity of Beams under Moment Gradient
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 1173-1188
+VI - 95
+IP - 6
+AID - 10.1061/JSDEAG.0002290 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002290
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002290
+SO - Journal of the Structural Division 1969-06-01 95(6): 1173-1188
+AB - This investigation attempts to relate the flange slenderness ratio to the rotation capacity of steel wide-flange beams subjected to a moment gradient. The steel used was CSA G 40.12, a low alloy steel having a specified minimum yield stress of 44 ksi. The reported tests were performed on simply-supported beams, subjected to a concentrated load at midspan. The flange and web geometry were varied, while the laterally unbraced slenderness ratio was held constant. All tests were continued until substantial unloading had occurred due to the effects of instability. In all cases rotation capacity was terminated by local buckling of the compression flange accompanied by large lateral deformations of the unbraced span. For beams under high moment gradient the length of the local buckle was restricted by the extent of yielding, while for beams under lower moment gradient the local buckle occupied only part of the yielded length.
+
+
+    
+        AU - Walter M. Ruiz
+    
+        AU - George Winter
+    
+
+TI - Reinforced Concrete Beams under Repeated Loads
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 1189-1211
+VI - 95
+IP - 6
+AID - 10.1061/JSDEAG.0002291 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002291
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002291
+SO - Journal of the Structural Division 1969-06-01 95(6): 1189-1211
+AB - This paper describes the results of an experimental program of the effect of repeated loads on the rotation and load carrying capacity of reinforced concrete beams. Comparing results obtained under repeated loading with results obtained on similar specimens under single loading showed that neither the rotation nor the load carrying capacity of a reinforced concrete beam is affected by several cycles of near ultimate loading. Repeated loading always caused a relatively small increase in deformation that appears to be related to destruction of bond and to additional cracking at the level of the reinforcement, or to both. The rotation capacity of a plastic hinge was found to be greatly affected by variations in the concrete strength, by variations in the position of the compression steel, and by variations in the restraint provided by the stirrup to the compression bar.
+
+
+    
+        AU - Thomas R. Kuesel
+    
+
+TI - Earthquake Design Criteria for Subways
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 1213-1231
+VI - 95
+IP - 6
+AID - 10.1061/JSDEAG.0002292 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002292
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002292
+SO - Journal of the Structural Division 1969-06-01 95(6): 1213-1231
+AB - Earthquake effects on underground structures comprise faulting and shaking. The design criterion for underground structures is ductility to absorb imposed distortions without losing capacity to carry static loads, rather than resistance to inertial forces. Curvature distortion may be calculated from a design earthquake spectrum giving amplitudes and wave lengths. Shearing distortion, resulting from lag of soil behind bedrock displacement, may be calculated from seismic velocity of ground and depth of overburden. Usually reinforced concrete structures have sufficient ductility to absorb seismic deformations elastically, so no special design is required for earthquake resistance. Detailed earthquake design criteria for San Francisco BART subways are included. These contain provisions to be made when plastic distortions are imposed on the structure.
+
+
+    
+        AU - Paul F. McManus
+    
+        AU - Charles G. Culver
+    
+
+TI - Nonuniform Torsion of Composite Beams
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 1233-1256
+VI - 95
+IP - 6
+AID - 10.1061/JSDEAG.0002293 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002293
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002293
+SO - Journal of the Structural Division 1969-06-01 95(6): 1233-1256
+AB - The general expressions governing the behavior of a beam of composite, open, thin-walled cross section subjected to nonuniform torsion are developed. These expressions are rewritten in series form for the case in which the cross section is composed of a series of flat plates of different materials. Numerical results are presented for a composite tee-section consisting of a concrete slab connected to a WF beam. These results indicate a significant increase in the torsional resistance of such sections due to composite action. Equations for determining the torsional properties of composite sections used in buildings and bridges are also presented.
+
+
+    
+        AU - Semih S. Tezcan
+    
+        AU - Bijay C. Mahapatra
+    
+
+TI - Tangent Stiffness Matrix for Space Frame Members
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 1257-1270
+VI - 95
+IP - 6
+AID - 10.1061/JSDEAG.0002294 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002294
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002294
+SO - Journal of the Structural Division 1969-06-01 95(6): 1257-1270
+AB - This presentation is concerned with the derivation of a 12 by 12 tangent stiffness matrix for a space frame member with constant cross-section. At first, the member end forces are expressed in the coordinate axes of the deformed geometry of the member in terms of the total end displacements. Then, in accordance with the Taylor expansion method, the stiffness influence coefficients are obtained as the partial derivatives of the force vector with respect to each one of the twelve member end displacements. It is believed that when this tangent stiffness matrix is used in connection with the Newton-Raphson iteration scheme in analyzing geometrically nonlinear structures, both the speed of convergence and the accuracy of the results are substantially increased. Numerical results are included to demonstrate the efficiency of the tangent stiffness matrix presented.
+
+
+    
+        AU - Adel Helmy Salem
+    
+
+TI - Buckling of Rigidly-Jointed Plane Trusses
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 1271-1293
+VI - 95
+IP - 6
+AID - 10.1061/JSDEAG.0002295 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002295
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002295
+SO - Journal of the Structural Division 1969-06-01 95(6): 1271-1293
+AB - A direct method for determining the critical loading pattern of a rigidly jointed truss as a whole is presented. It was found that the equation of the critical load is independent of the shape of the assumed distorted configuration of the truss and hence no time should be lost in searching for the distorted configuration that yields the least buckling load. The method was applied on two-panel, three-panel and four-panel equilateral triangulated trusses, and curves giving the buckling loads as well as the buckling lengths are presented for different stiffnesses of lower chord and web members in each case. The analysis was extended to include the effect of rigid gusset plates. An empirical formula giving the effective length was suggested for use in design rules and working formula. A review of the previous methods of analysis and approximations used is also included.
+
+
+    
+        AU - N. S. Trahair
+    
+
+TI - Elastic Stability of Continuous Beams
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 1295-1312
+VI - 95
+IP - 6
+AID - 10.1061/JSDEAG.0002296 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002296
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002296
+SO - Journal of the Structural Division 1969-06-01 95(6): 1295-1312
+AB - Although the flexural-torsional buckling of simply supported I-beams has been investigated extensively, both theoretically and experimentally, comparatively few studies have been made of continuous beams. The theoretical work on this subject is summarized, and a series of experimental studies of small scale continuous I-beams described. This includes 86 buckling tests on four two-span beams and three symmetrical three-span beams, and a number of subsidiary tests. The model beams were of aluminum, and two different cross sections were tested. The experimental results are compared with the theoretical predictions of the elastic critical loads and good agreement is demonstrated for most cases. These experimental results support a simple approximate analysis of the elastic interaction buckling of continuous beams in which three significant combinations of critical loads are used to predict the full range of critical load combinations.
+
+
+    
+        AU - P. Paramasivam
+    
+        AU - Jawalker K. Sridhar Rao
+    
+
+TI - Buckling of Plates of Abruptly Varying Stiffnesses
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 1313-1337
+VI - 95
+IP - 6
+AID - 10.1061/JSDEAG.0002297 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002297
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002297
+SO - Journal of the Structural Division 1969-06-01 95(6): 1313-1337
+AB - By replacing the continuous system of the plate with a discrete system of beams and torsional panels with finite degrees-of-freedom, a grid framework model is formulated for obtaining the critical buckling load of plates whose stiffness changes abruptly in two directions. This approach is then generalized to consider the effect of lateral deformations by a mathematically consistent first order finite-difference method. However, it is found that the effect of Poisson's ratio on the critical buckling load is negligible. The advantage in the discrete formulation is that no fictitious points need be considered, thereby making it possible to easily deal with cases of nonhomogeneity, complex boundary conditions, etc. An advantage over the finite element method is that the number of equations are far less, since there is only one unknown at a grid point. Numerical examples for different boundary conditions are presented to show the convergence and versatility of the method.
+
+
+    
+        AU - Bengt B. Broms
+    
+
+TI - Shear Strength of Reinforced Concrete Beams
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 1339-1360
+VI - 95
+IP - 6
+AID - 10.1061/JSDEAG.0002298 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002298
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002298
+SO - Journal of the Structural Division 1969-06-01 95(6): 1339-1360
+AB - The stress distribution at failure and the failure modes of reinforced concrete beams with and without web reinforcement failing by shear-compression have been investigated. Stress redistribution which takes place at the diagonal tension cracking load is caused by internal local rotation, which increases the width of the diagonal tension cracks. The crack width is proportional to the distance from the center of rotation at the apex of the diagonal tension crack. The ultimate strength of beams failing by shear-compression is dependent on the location of the diagonal tension crack within the compression zone, and the shear span ratio. The diagonal tension crack is located at the center of the compression zone.
+
+
+    
+        AU -  
+    
+
+TI - Closure to “Electrical Transmission Line and Tower Design Guide”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 1361-1370
+VI - 95
+IP - 6
+AID - 10.1061/JSDEAG.0002299 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002299
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002299
+SO - Journal of the Structural Division 1969-06-01 95(6): 1361-1370
+
+
+    
+        AU - G. C. Nayak
+    
+
+TI - Discussion of “Influence Surfaces for Continuous Plates”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 1372-1374
+VI - 95
+IP - 6
+AID - 10.1061/JSDEAG.0002301 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002301
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002301
+SO - Journal of the Structural Division 1969-06-01 95(6): 1372-1374
+
+
+    
+        AU - John A. Blume
+    
+
+TI - Discussion of “Inelastic Earthquake Response of Tall Steel Frames”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 1374-1376
+VI - 95
+IP - 6
+AID - 10.1061/JSDEAG.0002302 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002302
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002302
+SO - Journal of the Structural Division 1969-06-01 95(6): 1374-1376
+
+
+    
+        AU - F. H. Needham
+    
+        AU - Anatol A. Eremin
+    
+        AU - Anatole Longinow
+    
+        AU -  
+    
+
+TI - Discussion of “Development and Use of Prestressed Steel Flexural Members”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 1376-1378
+VI - 95
+IP - 6
+AID - 10.1061/JSDEAG.0002303 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002303
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002303
+SO - Journal of the Structural Division 1969-06-01 95(6): 1376-1378
+
+
+    
+        AU - Bulent Ovunc
+    
+        AU - J. Tinsley Oden
+    
+
+TI - Discussion of “Finite Element Analysis of Nonlinear Structures”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 1379-1381
+VI - 95
+IP - 6
+AID - 10.1061/JSDEAG.0002304 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002304
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002304
+SO - Journal of the Structural Division 1969-06-01 95(6): 1379-1381
+
+
+    
+        AU - J. C. Falkenberg
+    
+
+TI - Discussion of “Shear Flexibility and Strength of Corrugated Decks”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 1382-1386
+VI - 95
+IP - 6
+AID - 10.1061/JSDEAG.0002305 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002305
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002305
+SO - Journal of the Structural Division 1969-06-01 95(6): 1382-1386
+
+
+    
+        AU - Kuang-Han Chu
+    
+
+TI - Discussion of “Lateral Buckling of Braced Multistory Frames”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 1387-1387
+VI - 95
+IP - 6
+AID - 10.1061/JSDEAG.0002306 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002306
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002306
+SO - Journal of the Structural Division 1969-06-01 95(6): 1387-1387
+
+
+    
+        AU - H.C.S. Thorn
+    
+
+TI - Erratum for “New Distributions of Extreme Winds in the United States”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 1370-1372
+VI - 95
+IP - 6
+AID - 10.1061/JSDEAG.0002300 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002300
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002300
+SO - Journal of the Structural Division 1969-06-01 95(6): 1370-1372
+
+

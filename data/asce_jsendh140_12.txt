@@ -1,0 +1,274 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Xinzhong Chen
+    
+
+TI - Extreme Value Distribution and Peak Factor of Crosswind Response of Flexible Structures with Nonlinear Aeroelastic Effect
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014091
+VI - 140
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001017 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001017
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001017
+SO - Journal of Structural Engineering 2014-12-01 140(12): 04014091
+AB - The crosswind response at the vicinity of vortex lock-in wind speed becomes an increasing concern in structural design of super tall buildings and other dynamically sensitive structures. Because of nonlinear aeroelastic effect of vortex shedding, the extreme value distribution and peak factor of crosswind response are distinctly different from traditional wind-induced stochastic buffeting response. This study establishes an effective approach for predicting extreme value distribution and peak factor of crosswind response of flexible structures on the basis of an improved understanding of the underlying mechanism. It is pointed out that the improved extreme theory of Gaussian processes with consideration of narrow-band feature cannot interpret the extreme crosswind response. This study, at the first time, reveals that the unique characteristics of extreme value distribution of crosswind response is primarily attributed to its hardening non-Gaussian distribution. An extensive analysis of simulated crosswind response illustrates that the extreme value distribution and peak factor can be estimated from those of an underlying Gaussian process based on the translation process theory. The translation function between non-Gaussian crosswind response and Gaussian process can be expressed in terms of Hermite polynomial model based on the first four statistical moments or quantified by mapping of cumulative distribution functions and curve fitting. Closed-form formulations are developed for calculating Hermite translation model coefficients, which permits the estimation of extreme value distribution and peak factor directly using the response kurtosis and bandwidth parameter. The characteristics of crosswind response and the proposed approach are also validated using full-scale vibration measurements of a wind-excited traffic-signal-support structure. This study not only clarified the mechanism responsible for the unique extreme value distribution of crosswind response with nonlinear aeroelastic effect but also established an effective simple approach for its estimation using the characteristics of response process.
+
+
+    
+        AU - C. Q. Li
+    
+        AU - S. T. Yang
+    
+        AU - M. Saafi
+    
+
+TI - Numerical Simulation of Behavior of Reinforced Concrete Structures considering Corrosion Effects on Bonding
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014092
+VI - 140
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001021 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001021
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001021
+SO - Journal of Structural Engineering 2014-12-01 140(12): 04014092
+AB - Corrosion of reinforcing steel in concrete can alter the interface between the steel and concrete and thus affects the bond mechanism. This subsequently influences the behavior of reinforced concrete structures in terms of their safety and serviceability. The present paper attempts to develop a numerical method that can simulate the behavior of reinforced concrete walls subjected to steel corrosion in concrete as measured by their load-deflection relationship. The method accounts for the effects of corrosion on the stiffness, maximum strength, residual strength, and failure mode of the bond between the steel and concrete. In the numerical method, the corrosion-affected stiffness and maximum strength of the bond are explicitly expressed as a function of the corrosion rate. It is found in this paper that the increase in the bond strength due to minor corrosion can increase the load-bearing capacity of the wall and the corrosion-affected reinforced concrete walls exhibit less ductile behavior compared with the uncorroded walls. The paper concludes that the developed numerical method can predict the behavior of corrosion-affected reinforced concrete seawalls with reasonable accuracy.
+
+
+    
+        AU - Yu-Fei Wu
+    
+        AU - Yanchun Yun
+    
+        AU - Youyi Wei
+    
+        AU - Yingwu Zhou
+    
+
+TI - Effect of Predamage on the Stress-Strain Relationship of Confined Concrete under Monotonic Loading
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014093
+VI - 140
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001015 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001015
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001015
+SO - Journal of Structural Engineering 2014-12-01 140(12): 04014093
+AB - Jacketing concrete columns with steel or fiber-reinforced polymer (FRP) has been identified as a highly effective way of restoring and enhancing the strength and ductility of columns damaged by catastrophic events such as earthquakes, blasts, and vehicle impact. However, a stress-strain relationship for damaged and subsequently repaired concrete is not available for design of the repair works. An extensive experimental and analytical investigation was undertaken in this work to study the mechanical properties of repaired concrete columns. Tests were conducted on 102 concrete cylinders involving variations of damage degree, concrete grade, and confinement pressure. The effect of damage on the compressive strength, strain capacity, initial elastic modulus, and strain-hardening modulus of repaired concrete is quantified in terms of a damage index. A stress-strain model is developed for the design of structural repair works. Evaluation of the test data also exhibits that the classic model of confined concrete proposed by a previous study and the classic internal friction theory are qualitatively applicable to failure of concrete materials not only in its original form, but also in the heavily disturbed state. The Hoek-Brown failure criterion is unconservative for heavily damaged concrete.
+
+
+    
+        AU - Jiansheng Fan
+    
+        AU - Quanwang Li
+    
+        AU - Jianguo Nie
+    
+        AU - Hui Zhou
+    
+
+TI - Experimental Study on the Seismic Performance of 3D Joints between Concrete-Filled Square Steel Tubular Columns and Composite Beams
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014094
+VI - 140
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001013 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001013
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001013
+SO - Journal of Structural Engineering 2014-12-01 140(12): 04014094
+AB - Six three-dimensional (3D) joints between concrete-filled square steel tubular columns and composite steel-concrete beams were tested under bidirectional reversal loads. The primary purpose of this experiment was to investigate the seismic performance of these composite joints, including load-deformation performance, hysteretic behavior, failure modes, and damage patterns, emphasizing the effects of loading history, connection details, and joint geometries. The test specimens exhibited good strength and stiffness retention capacities and excellent energy dissipation. The typical failure mode of the specimens was shear damage of the joint panel. The influence of the bidirectional loading was minor during the initial response of the joint in elastic range; however, it became significant when the joint was loaded into plastic range. The composite action between steel girder and concrete slab enhanced the capacity of the joint in terms of ultimate strength, stiffness and ductility. Concrete encased in the steel tubular column improved the seismic performance of the joints.
+
+
+    
+        AU - Yue Li
+    
+        AU - Ruiqiang Song
+    
+        AU - John W. Van De Lindt
+    
+
+TI - Collapse Fragility of Steel Structures Subjected to Earthquake Mainshock-Aftershock Sequences
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014095
+VI - 140
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001019 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001019
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001019
+SO - Journal of Structural Engineering 2014-12-01 140(12): 04014095
+AB - This paper investigates the collapse probability of mainshock-damaged steel buildings in aftershocks, as an essential part of developing a framework to integrate aftershock seismic hazard into performance-based engineering (PBE). Analytical studies were conducted utilizing structural degradation models derived from existing publicly available NEEShub data. During earthquake events, aftershocks have the potential to cause severe damage to buildings and threaten life safety even when only minor damage is present from the mainshock. While aftershocks are normally somewhat smaller in magnitude, their ground motion intensity is not always smaller. Aftershocks may have a higher peak ground acceleration than the mainshock, even longer duration, and significantly different energy content as a result of the change in their location relative to the site. To date, the description of seismic hazard in PBE has not included the probability of aftershocks. In this study, the structural degradation model of a four-story code-compliant steel moment-resisting frame is calibrated using existing publicly available NEEShub data. Three approaches to generate collapse fragility for the steel building that sustain a certain state of damage from a mainshock are used to investigate the effect of damage states from mainshocks on the structural collapse capacity. It is found that structural collapse capacity may reduce significantly when the building is subjected to a high intensity mainshock. As a result, the structure is likely to collapse even if only a small aftershock follows the mainshock. In addition, the effects of mainshock records, fault types and spectral shapes of aftershocks on the structural collapse capacity, are evaluated, respectively.
+
+
+    
+        AU - Clay Naito
+    
+        AU - Mark Beacraft
+    
+        AU - John Hoemann
+    
+        AU - Jonathan Shull
+    
+        AU - Hani Salim
+    
+        AU - Bryan Bewick
+    
+
+TI - Blast Performance of Single-Span Precast Concrete Sandwich Wall Panels
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014096
+VI - 140
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001020 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001020
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001020
+SO - Journal of Structural Engineering 2014-12-01 140(12): 04014096
+AB - A research program was conducted to assess the capability of conventional non-load-bearing insulated precast concrete exterior wall panels to withstand blast loadings. Typical construction details from the tilt-up and prestressed concrete industries were examined. The sensitivity of insulation type, reinforcement, foam thickness, and shear tie type on the flexural resistance was assessed. Forty-two single-span static experiments were conducted on 14 different panel designs. From the results of these experiments, resistance functions and deformation limits for insulated concrete sandwich panels were determined. The resistance functions were used to develop predictive dynamic models for panels subjected to blast demands. The models were found to be accurate in comparison to measurements from four full-scale blast detonations. The findings of the research indicate that both prestressed and non-prestressed insulated concrete wall panels meet current rotational limits defined by the U.S. Army Corps of Engineers for protective structures. Simplified methods for modeling the pressure-deformation characteristics of insulated panels can be used to approximate the peak dynamic deformation and reaction loads.
+
+
+    
+        AU - Hassan Moghimi
+    
+        AU - Robert G. Driver
+    
+
+TI - Performance-Based Capacity Design of Steel Plate Shear Walls. I: Development Principles
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014097
+VI - 140
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001023 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001023
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001023
+SO - Journal of Structural Engineering 2014-12-01 140(12): 04014097
+AB - This is Part I of two companion papers on performance-based capacity design of steel plate shear walls. Most previous research has been conducted with the primary aim of maximizing ductility and robustness under severe cyclic loading, without any explicit consideration of the costs of achieving this behavior. This has resulted in onerous capacity design rules in current codes and standards for achieving highly ductile systems, and has effectively discouraged their use in low and moderate seismic regions. These companion papers aim to provide a holistic and sound basis for capacity design to any of three explicit performance levels. In this paper, Part I, two target yield mechanisms associated with the two extreme performance levels (ductile and limited-ductility) are identified and justified, and the capacity design principles applicable to these performance levels are discussed. The limited-ductility mechanism departs from conventional treatment and is established based on finite element simulations and experimental observations. Two complementary new concepts for designing moderately ductile walls are also proposed and verified. Because design is an iterative process, modeling efficiencies for use with the performance-based approach are suggested and validated. Inconsistencies between current capacity design methods for evaluating the demands imposed by the infill plates on the boundary elements and the true infill plate behavior are identified and discussed.
+
+
+    
+        AU - Hassan Moghimi
+    
+        AU - Robert G. Driver
+    
+
+TI - Performance-Based Capacity Design of Steel Plate Shear Walls. II: Design Provisions
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014098
+VI - 140
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001022 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001022
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001022
+SO - Journal of Structural Engineering 2014-12-01 140(12): 04014098
+AB - This is Part II of two companion papers on performance-based capacity design of steel plate shear walls. These papers aim to provide a holistic and sound basis for capacity design of steel plate shear walls to any of three explicit performance levels (ductile, moderately ductile, and limited-ductility), with emphasis on design requirements for applications involving lower ductility demands. In this paper, Part II, existing design provisions for ductile steel plate shear walls are briefly reviewed and discussed, with some modifications recommended, and capacity design provisions for limited-ductility walls are proposed based on the development principles presented in Part I. Capacity design provisions for moderately ductile walls are then rationalized based on the development principles for the other two performance levels. The proposed capacity design methods for the limited-ductility and moderately ductile performance levels are applied to design examples, and the results are discussed in the context of the observed performance of two multistory steel plate shear walls tested under cyclic lateral loading.
+
+
+    
+        AU - M. V. Anil Kumar
+    
+        AU - V. Kalyanaraman
+    
+
+TI - Distortional Buckling of CFS Stiffened Lipped Channel Compression Members
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014099
+VI - 140
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001027 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001027
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001027
+SO - Journal of Structural Engineering 2014-12-01 140(12): 04014099
+AB - The direct strength method (DSM) simplified the design of cold-formed steel (CFS) beams and columns compared with the traditional effective width method (EWM). In this paper, DSM equations for the distortional buckling (DB) strength are evaluated using the results of the experimental study on channel compression members with edge and intermediate stiffeners as well as nonlinear finite-element analysis (FEA) of the stiffened lipped channel compression members with various configurations, which fail after only DB. A total of 14 fixed-ended stiffened lipped channel compression members with intermediate stiffeners in both the web and flanges were tested, which failed after only DB. Further, additional data on the DB behavior is generated based on a parametric study using the nonlinear FEA, which was initially calibrated with the test data. A study on effect of parameters, such as the type of cross section, the dimensions of the cross section, the lip depth to flange width ratio (d/b), the web height to the flange width ratio (h/b), the yield stress (fy), end boundary condition (EBC), and the failure modes, shows that the nondimensional ultimate strength, expressed as the ratio of the ultimate strength to yield strength under compression, Pu/Py, is adequately addressed through the nondimensional DB slenderness, λd, alone as assumed in the DSM. The test and the analysis results show that the DSM equations generally evaluate the strength of stiffened lipped channel members under DB conservatively. Modifications to the DSM equations are suggested to evaluate the DB strength of stiffened lipped channel members more accurately.
+
+
+    
+        AU - Jian-Guo Nie
+    
+        AU - Ran Ding
+    
+        AU - Jian-Sheng Fan
+    
+        AU - Mu-Xuan Tao
+    
+
+TI - Seismic Performance of Joints between Steel K-Style Outrigger Trusses and Concrete Cores in Tall Buildings
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014100
+VI - 140
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001028 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001028
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001028
+SO - Journal of Structural Engineering 2014-12-01 140(12): 04014100
+AB - This paper presents finite-element analysis (FEA) and experimental study on the seismic behavior of joints between steel K-style outrigger truss and concrete core in tall buildings. Two new joint types with different details, including the joints with outside steel plates and encased steel plates, were conceived and intensively compared. Elaborate FEA models of the joints were developed, and a preliminary finite-element study was first conducted to evaluate the failure modes and hysteretic behavior of the joints to support the preparation of the laboratory test program. Then two specimens with different joint details were tested under cyclic loads. Several indexes that could reflect the seismic performance of the joints, such as the strength degradation, the rigidity degradation, the ductility, and the energy dissipation capacity, were analyzed. The mechanism of the joints was also revealed based on the stress distributions obtained by further FEA and test results, and a simplified FEA model was finally proposed for a more general purpose in routine design practice, and could provide a powerful tool for future research in design methods of the joints. The FEA and experimental results indicated that the joints exhibited favorable seismic performance which could transfer the loads reliably, and the joint with outside steel plates was better than that with encased steel plates, with more construction convenience, higher buckling load, and less concrete cracks.
+
+
+    
+        AU - Lip H. Teh
+    
+        AU - Mehmet E. Uz
+    
+
+TI - Effect of Loading Direction on the Bearing Capacity of Cold-Reduced Steel Sheets
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 06014005
+VI - 140
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001107 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001107
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001107
+SO - Journal of Structural Engineering 2014-12-01 140(12): 06014005
+AB - This study is concerned with double-shear bolted connections in cold-reduced steel sheets that undergo the pure bearing failure mode of the inside sheet. Compared to the published test results of bolted connections failing in the net section fracture, those involving the bearing failure mode had very wide scatter in the ultimate test loads of specimens having seemingly similar configurations. This technical note presents the laboratory test results of 51 specimens composed of G2 and G450 steel sheets, which have very different ductility properties. One new and significant finding is that the absolute bearing capacity can be considerably higher in the rolling direction of the cold-reduced steel sheet than in the perpendicular direction, even though the tensile strength has the opposite trend. Another result is that material ductility has a much greater effect on the bearing capacity than on the net section tension capacity. It was also found that snug tightening had little effect on the bearing capacity of specimens thicker than 1.5&nbsp;mm. For the inside sheet of a double-shear bolted connection, the current American Iron and Steel Institute provision for bearing capacity is reasonably accurate if the load is applied in the rolling direction of G2 steel sheet, but is overoptimistic in the perpendicular direction.
+
+
+    
+        AU - Kimberly Grau Talley
+    
+        AU - José Arrellaga
+    
+        AU - John E. Breen
+    
+
+TI - Computational Modeling of Existing Damage in Concrete Bridge Columns
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 06014006
+VI - 140
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001115 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001115
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001115
+SO - Journal of Structural Engineering 2014-12-01 140(12): 06014006
+AB - The research program discussed in this paper included both experimental and computational investigations of structural capacity effects on bridge columns by simulating observed column damage. For the experimental research, scaled models of a column were constructed and fractured using stone-splitting wedges. This method was intended to create the worst-case scenario based on the observed damage in the field: cracks propagating through the core of the columns and effectively cleaving each column into four pieces. The finite-element software ATENA, which models cracking in reinforced concrete, was used for the computational modeling and a parametric study. The computer model was correlated to the experimental results and then used to predict capacities for a variety of deterioration levels. This parametric study was used to determine the critical crack width, which would reduce the capacity of the column to its design load. This predicted critical crack width gives the bridge owner another tool for the evaluation of concrete degradation. This paper focuses on the computational portion of the research. As such, this paper presents a method to mimic existing damage in a finite-element model that the practicing engineer could use in a structural assessment of existing conditions.
+
+

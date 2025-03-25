@@ -1,0 +1,500 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Krishna Naraine
+    
+        AU - Sachchidanand Sinha
+    
+
+TI - Stress‐Strain Curves for Brick Masonry in Biaxial Compression
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1451-1461
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1451) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281451%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281451%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1451-1461
+AB - A generalized approach is proposed to determine the envelope, common‐point, and stability‐point curves for brick masonry in cyclic, biaxial compression. The approach uses a family of interaction curves to predict the peak stresses of the envelope, common‐point, and stability‐point curves at different principal stress ratios. The corresponding strains at the peak stresses are determined using an empirical relationship involving the principal stress ratio and the strain at the peak stress of the envelope curve. A general stress‐strain equation is then used to determine the envelope, common‐point, and stability‐point curves for each principal stress ratio. The method is developed using the test results of 45 and 18 half‐scale brick masonry models tested under biaxial and uniaxial cyclic compressive loading, respectively. The test specimens are 360mm×360mm×115mm constructed with half‐scale clay bricks 115mm×55mm×35mm and with 6 mm thick bed joint mortar. The proposed generalized approach is simple and accurate.
+
+
+    
+        AU - Yong Lin Pi
+    
+        AU - N. S. Trahair
+    
+        AU - S. Rajasekaran
+    
+
+TI - Energy Equation for Beam Lateral Buckling
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1462-1479
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1462) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281462%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281462%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1462-1479
+AB - This paper presents a derivation of the classical energy equation for the lateral buckling of doubly symmetric thin‐walled beams. This is based on the use of second‐order rotation components to obtain the nonlinear relationship between the longitudinal normal strain and the member deformations. The classical energy equation is compared with an alternative energy equation, and found to be significantly different in terms used to represent the work done by centroidal loads during buckling. The difference is attributed to the omission of some nonlinear components from the longitudinal displacements used for the alternative equation. Comparisons of finite element predictions based on the two energy equations demonstrate some substantial differences with the predictions by the alternative energy equation being higher for simply supported and continuous beams, and lower for cantilevers. Comparisons show that the available experimental evidence agrees well with the classical predictions, and they provide independent evidence that the alternative energy equation is incorrect.
+
+
+    
+        AU - K. M. Liew
+    
+        AU - C. M. Wang
+    
+
+TI - Elastic Buckling of Rectangular Plates with Curved Internal Supports
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1480-1493
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1480) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281480%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281480%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1480-1493
+AB - This paper considers the elastic buckling of rectangular plates with curved internal supports. In contrast to commonly used discretization methods, the buckling analysis is performed on a continuum plate domain, including its supporting edges. This is made possible by using the Rayleigh‐Ritz method, which employs the newly proposed pb‐2 Ritz functions. The pb‐2 Ritz functions consist of the product of a two‐dimensional polynomial function (p‐2) and a basic function (b). The basic function is defined by the product of equations specifying the location of the internal supports and equations of the prescribed continuous piecewise boundary shape; in which each of the latter is raised to the power of either 0, 1, or 2, corresponding to free, simply supported, or clamped edge, respectively. Such combination of functions ensures the satisfaction of all kinematic boundary conditions at the outset. The pb‐2 Rayleigh‐Ritz method offers simplicity and easy automation so that very complicated plate shapes and curved internal supports may be solved efficiently and with high accuracy. To illustrate the method, the buckling loads for rectangular plates with straight lines, circular, and cubic curved internal supports are determined.
+
+
+    
+        AU - Burl E. Dishongh
+    
+        AU - Theodore V. Galambos
+    
+
+TI - Residual Deformation Analysis for Inelastic Bridge Rating
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1494-1508
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1494) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281494%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281494%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1494-1508
+AB - A new bridge rating method, residual deformation analysis (RDA), is presented. RDA is a method for assessing the residual moments and deformations that are set up in a bridge beam that has been loaded into its inelastic resistance range. RDA combines classical elastic conjugate beam theory with empirically formulated moment‐versus‐rotation relationships for both midspan inelastic positive moment and interior support inelastic negative moment hinging. The RDA method will allow bridge engineers to more easily and systematically incorporate the automoment concept of the American Association of State Highway and Transportation Officials (AASHTO) alternate load factor design (ALFD) method into an inelastic bridge analysis. The RDA techniques developed for inelastic bridge rating are both an extension and a refinement of the analysis procedures given as the ALFD method. Bridge rating by RDA follows a straightforward procedure that will allow bridge engineers to compute higher‐rated load capacities of existing bridge structures, thus providing the potential of avoiding the unnecessary posting of many bridge structures that might otherwise rate below minimum legal load levels.
+
+
+    
+        AU - Ahmad Namini
+    
+        AU - Pedro Albrecht
+    
+        AU - Harold Bosch
+    
+
+TI - Finite Element‐Based Flutter Analysis of Cable‐Suspended Bridges
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1509-1526
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1509) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281509%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281509%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1509-1526
+AB - In this paper, an approach to computational flutter analysis is presented, which permits the determination of the critical wind velocity that initiates damping‐ and stiffness‐driven flutter of cable‐suspended bridges. Dynamic response may be coupled elastically and/or aerodynamically, with the developed algorithm, the so‐called pK‐F method determining the preflutter and postflutter responses by solution to the modal equations of motion. The entire method is presented in matrix form, so as to be easily implemented into finite element systems. As an example, the pK‐F method is applied to the Luling cable‐stayed bridge, which was experimentally tested for flutter in the wind tunnel. Also, examples are provided for flutter determination with different deck sections. The pK‐F method has proved reliable in its methodology and efficient in its use. The generality of the method permits more flutter scenarios to be examined, including construction stages and different flutter derivatives for different portions of the bridge structure.
+
+
+    
+        AU - Shyi‐Lin Lee
+    
+        AU - P. K. Basu
+    
+
+TI - Bracing Requirements of Plane Frames
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1527-1546
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1527) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281527%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281527%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1527-1546
+AB - Secant formulation for the elastic‐plastic limit analysis of planar frames with rigid and semirigid connections is presented. A series of one‐, two‐, three‐, and 14‐story braced frames are considered. The results of limit analysis of these frames for different bracing areas are included. In evaluating these results, both strength and serviceability criteria are considered. Based on these studies, semiempirical formulas are developed to calculate the required bracing areas for frames with type‐FR and type‐PR connections. The effect of connection flexibility in semirigid frames is accounted for by introducing a correction factor to the formula developed for rigid frames. The performance of the proposed formulas are evaluated by comparing with the results of limit analysis, and good correlation is observed. A step‐by‐step scheme is presented for easy calculation of the required bracing area. The limitations of the scheme are also identified. In the case of semirigid frames, if the connections do not have enough moment capacity to allow plastic hinges to be formed in the members, the connections must be treated as hinged.
+
+
+    
+        AU - M. Çelebi
+    
+        AU - E. Şafak
+    
+
+TI - Seismic Response of Pacific Park Plaza. I: Data and Preliminary Analysis
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1547-1565
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1547) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281547%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281547%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1547-1565
+AB - The objective of this paper is to present analyses of a set of acceleration response records obtained during the October 17, 1989 Loma Prieta earthquake (Ms=7.1) from the 30‐story, three‐winged, ductile moment‐resistant reinforced‐concrete‐framed Pacific Park Plaza Building, located in Emeryville, east of San Francisco, Calif. The building was constructed in 1983, and instrumented in 1985 with 21 channels of synchronized uniaxial accelerometers deployed throughout the structure, and three channels of accelerometers located at free‐field outside on the north side of the building, all connected to a central recording system. In addition, a triaxial strong‐motion accelerograph is deployed at free‐field on the south side of the building. The predominant response modes of the building and the associated frequencies at approximately 0.4 Hz and 1.0 Hz are identified visually from the unprocessed records, and also from Fourier amplitude spectra of the processed records, which, as expected, reveal significant torsional motion. In addition, the response spectra of the free‐field and basement motions are very similar. These spectra show that significant structural resonances at higher modes influence both the ground level and the free‐field motions, thus raising the question as to the definition of free‐field motion, at least at this site. This part of the paper includes the preliminary analyses of the data acquired from this building. Part 2 of the paper provides detailed analyses of the data using system identification techniques.
+
+
+    
+        AU - E. Şafak
+    
+        AU - M. Çelebi
+    
+
+TI - Recorded Seismic Response of Pacific Park Plaza. II: System Identification
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1566-1589
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1566) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281566%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281566%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1566-1589
+AB - This is the second of two companion papers on the recorded seismic response of the Pacific Park Plaza building, in Emeryville, Calif., during the October 17, 1989, Ms=7.1 (surface‐wave magnitude) Loma Prieta earthquake. In this second part, the recorded data are analyzed in more detail by using system‐identification techniques. The three‐dimensional behavior and the coupled modes of the building are determined, and the effects of soil‐structure interaction are investigated. The study shows that the response of the building is nonlinear at the beginning, and becomes linear after 17 sec into the earthquake. The dominant motion of the building follows an elliptical path oriented in the southeast‐northwest direction. Some of the modes are complex, with nonproportional damping, and there are phase differences among modal response components. The fundamental mode of the building is a translation in the southeast‐northwest direction at 0.4 Hz, with 13% damping. The wing displacements relative to the center core are large, about 50% of the center core displacements, and indicate significant torsion in the center core. The soil‐structure interaction is characterized by a vibration at 0.7 Hz. This is believed to be the fundamental frequency of the surrounding soil medium. The rocking motions of the building are negligible.
+
+
+    
+        AU - Murat Saatcioglu
+    
+        AU - Salim R. Razvi
+    
+
+TI - Strength and Ductility of Confined Concrete
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1590-1607
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1590) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281590%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281590%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1590-1607
+AB - An analytical model is proposed to construct a stress‐strain relationship for confined concrete. The model consists of a parabolic ascending branch, followed by a linear descending segment. It is based on calculation of lateral confinement pressure generated by circular and rectilinear reinforcement, and the resulting improvements in strength and ductility of confined concrete. A large volume of test data, including poorly confined and well‐confined concrete was evaluated to establish the parameters of the analytical model. Confined concrete strength and corresponding strain are expressed in terms of equivalent uniform confinement pressure provided by the reinforcement cage. The equivalent uniform pressure is obtained from average lateral pressure computed from sectional and material properties. Confinement by a combination of different types of lateral reinforcement is evaluated through superposition of individual confinement effects. The descending branch is constructed by defining the strain corresponding to 85% of the peak stress. This strain level is expressed in terms of confinement parameters. A constant residual strength is assumed beyond the descending branch, at 20% strength level. The model is compared against a large number of column tests. Circular, square, and rectangular columns, with spiral and rectilinear reinforcements, as well as welded wire fabric, are used for comparison. Comparisons include concentric and eccentric loadings, as well as slow and fast strain rates. The results indicate good agreement.
+
+
+    
+        AU - Baidar Bakht
+    
+        AU - Leslie G. Jaeger
+    
+
+TI - Ultimate Load Test of Slab‐on‐Girder Bridge
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1608-1624
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1608) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281608%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281608%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1608-1624
+AB - An ultimate load test on a short‐span simply supported bridge having six rolled‐steel girders and a noncomposite deck slab is described. The main conclusions drawn from the test are as follows: (1) The bearing restraint forces reduced the bending moment at midspan by a minimum of 11%; (2) the transverse load distribution pattern of the bridge improves by a relatively small margin as the ultimate limit state is approached; (3) any composite action between the deck slab and a girder that may exist at service loads, and is due only to bond or friction between steel and concrete, completely breaks down as the load approaches the failure load for the girder; and (4) a girder continues to carry loads long after the formation of first yield.
+
+
+    
+        AU - John W. Wallace
+    
+        AU - Jack P. Moehle
+    
+
+TI - Ductility and Detailing Requirements of Bearing Wall Buildings
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1625-1644
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1625) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281625%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281625%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1625-1644
+AB - An analytical procedure to determine the need for concrete confinement at the boundaries of structural walls in a building subjected to earthquakes is described. The procedure is based on comparing directly the expected displacement capacities and displacement demands for the building. For bearing wall buildings, relatively simple expressions are derived that enable the need for confined boundary elements to be evaluated. The expressions are verified using observations from the laboratory and from postearthquake response studies. The primary variables that determine the need for confined boundary elements are found to be the ratio of wall cross‐sectional area to the floor‐plan area, the wall aspect ratio and configuration, the wall axial load, and the wall reinforcement ratio. The study concludes that concrete confinement in walls of bearing wall buildings may be necessary at the extremities of walls having T, L, or other similarly shaped cross sections. Confinement is typically not required for symmetrically reinforced, rectangular wall cross sections. Current U.S. code requirements for confinement do not properly discern those cases where concrete confinement is or is not required, and are generally quite conservative.
+
+
+    
+        AU - Ronald A. Cook
+    
+        AU - Richard E. Klingner
+    
+
+TI - Ductile Multiple‐Anchor Steel‐to‐Concrete Connections
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1645-1665
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1645) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281645%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281645%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1645-1665
+AB - Multiple‐anchor connections are commonly used in attaching steel members to concrete. A typical connection includes a steel attachment, the anchors that actually do the connecting, and an embedment of the anchors into the concrete. The behavior and design of these connections is not well‐defined by existing design standards. Multiple‐anchor connections can be divided into two categories, connections for which strength is controlled by the strength of the anchor‐steel, and connections for which strength is controlled by the strength of the embedment. Based on experimental research, the behavior and design of connections for which strength is controlled by the strength of the anchor steel is addressed. A behavioral model for determining the distribution of loads to the individual anchors in a connection is presented. The model is based on limit design theory. Experimental results are reported for 28 tests of multiple‐anchor connections loaded monotonically by various combinations of moment and shear. Test specimens included steel attachments with rigid and flexible base plates connected to concrete with threaded cast‐in‐place or retrofit (undercut and adhesive) anchors.
+
+
+    
+        AU - Satish Nagarajaiah
+    
+        AU - Andrei M. Reinhorn
+    
+        AU - Michalakis C. Constantinou
+    
+
+TI - Experimental Study of Sliding Isolated Structures with Uplift Restraint
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1666-1682
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1666) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281666%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281666%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1666-1682
+AB - An experimental study, performed to evaluate the feasibility of using a sliding isolation system with uplift restraint devices for medium‐rise buildings subject to column uplift, is presented. A Teflon‐disc sliding bearing with built‐in uplift restraint devices is described. A quarter‐scale, 52‐kip (231‐kN) model of a six‐story structure was isolated using the sliding isolation system with uplift restraint devices. The model had a slender configuration with ratio of height to width of 4.5. The slender configuration was chosen to ensure column uplift. Shake‐table tests, involving strong motions with different frequency contents and peak table accelerations as high as 0.6 g, were performed. The shake‐table test results show that the sliding isolation system is effective in reducing the structural response and uplift forces, by reducing the lateral floor accelerations and overturning moments, and that the uplift restraint system is effective in resisting uplift forces. An analytical model for predicting the response is developed. Comparisons between the predicted and observed responses are presented.
+
+
+    
+        AU - Alberto H. Puppo
+    
+        AU - Raul D. Bertero
+    
+
+TI - Evaluation of Probabilities Using Orientated Simulation
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1683-1704
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1683) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281683%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281683%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1683-1704
+AB - A sampling method to calculate the n‐dimensional integral representing probability of failure, pf is presented. By means of n‐dimensional polar coordinates, the directions of the sampling point are limited to a hypercone whose axis contains the design point. If β and the direction cosines are known from the first‐order reliability method, only two parameters are necessary to define the integration domain, whatever the problem dimension n may be. The method described in this paper, a straightforward simulation, and the Harbitz method are used in two problems of known solution and in two examples with convex failure domain. It is shown that the orientated simulation allows a drastic reduction in the number of samples needed, especially in certain structural systems and in quality‐control methods with strongly convex failure domain. On the other hand, a procedure using orientated iteration is presented for obtaining β in cases where the usual iterative method is not suitable.
+
+
+    
+        AU - Baidar Bakht
+    
+        AU - John R. Billing
+    
+        AU - Akhilesh C. Agarwal
+    
+
+TI - Discussion of &#x201c;<i>Wheel Loads from Highway Bridge Strains&#x2010;. Field Studies</i>&#x201d; by Tommy Hung Tin Chan and Colin O'Connor (July, 1990, Vol. 116, No. 7)
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1706-1708
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1706) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281706%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281706%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1706-1708
+
+
+    
+        AU - Colin O'Connor
+    
+
+TI - Closure to &#x201c;<i>Wheel Loads from Highway Bridge Strains&#x2010;. Field Studies</i>&#x201d; by Tommy Hung Tin Chan and Colin O'Connor (July, 1990, Vol. 116, No. 7)
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1708-1709
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1708.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281708.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281708.2%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1708-1709
+
+
+    
+        AU - Charles D. Clift
+    
+
+TI - Discussion of &#x201c;<i>Wind Pressures on Buildings with Mullions</i>&#x201d; by Theodore Stathopoulos and Xiwu Zhu (August, 1990, Vol. 116, No. 8)
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1709-1710
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1709.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281709.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281709.2%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1709-1710
+
+
+    
+        AU - D. Surry
+    
+
+TI - Discussion of &#x201c;<i>Wind Pressures on Buildings with Mullions</i>&#x201d; by Theodore Stathopoulos and Xiwu Zhu (August, 1990, Vol. 116, No. 8)
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1710-1711
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1710.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281710.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281710.2%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1710-1711
+
+
+    
+        AU - Theodore Stathopoulos
+    
+
+TI - Closure to &#x201c;<i>Wind Pressures on Buildings with Mullions</i>&#x201d; by Theodore Stathopoulos and Xiwu Zhu (August, 1990, Vol. 116, No. 8)
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1711-1713
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1711.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281711.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281711.2%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1711-1713
+
+
+    
+        AU - Juan C. Molano Toro
+    
+
+TI - Discussion of &#x201c;<i>Beam Strength Enhancement at Design Ductility Factor Demands</i>&#x201d; by Gaetano Russo (December, 1990, Vol. 116, No. 12)
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1713-1715
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1713.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281713.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281713.2%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1713-1715
+
+
+    
+        AU - Gaetano Russo
+    
+
+TI - Closure to &#x201c;<i>Beam Strength Enhancement at Design Ductility Factor Demands</i>&#x201d; by Gaetano Russo (December, 1990, Vol. 116, No. 12)
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1715-1718
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1715.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281715.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281715.2%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1715-1718
+
+
+    
+        AU - Antoine E. Naaman
+    
+
+TI - Discussion of &#x201c;<i>Direct Analysis of Prestressed Concrete Members</i>&#x201d; by A. S. Prasada Rao (December, 1990, Vol. 116, No. 12)
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1718-1718
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1718.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281718.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281718.2%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1718-1718
+
+
+    
+        AU - A. S. Prasada Rao
+    
+
+TI - Closure to &#x201c;<i>Direct Analysis of Prestressed Concrete Members</i>&#x201d; by A. S. Prasada Rao (December, 1990, Vol. 116, No. 12)
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1718-1719
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1718.3) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281718.3%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281718.3%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1718-1719
+
+
+    
+        AU - M. Kashani
+    
+
+TI - Discussion of &#x201c;<i>Effect of Imperfections on Lattice Shells</i>&#x201d; by Nicholas G. Morris (June, 1991, Vol. 117, No. 6)
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1719-1722
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1719.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281719.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281719.2%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1719-1722
+
+
+    
+        AU - Nicholas F. Morris
+    
+
+TI - Closure to &#x201c;<i>Effect of Imperfections on Lattice Shells</i>&#x201d; by Nicholas G. Morris (June, 1991, Vol. 117, No. 6)
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1722-1723
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1722.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281722.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281722.2%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1722-1723
+
+
+TI - Erratum: “Thin‐Walled Multicell Box‐Girder Finite Element” by A. Ghani Razaqpur and Hangang Li (October, 1991, Vol. 117, No. 10)
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1724-1724
+VI - 118
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1992)118:6(1724) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281724%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A6%281724%29
+SO - Journal of Structural Engineering 1992-06-01 118(6): 1724-1724
+
+

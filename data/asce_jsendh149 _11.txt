@@ -1,0 +1,508 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Hamidreza Alinejad
+    
+        AU - Thomas H.-K. Kang
+    
+        AU - Seung Yong Jeong
+    
+        AU - Byeonguk Ahn
+    
+
+TI - Engineering Review of Wind-Induced Torsional Moment and Response of Buildings
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 03123001
+VI - 149
+IP - 11
+AID - 10.1061/JSENDH.STENG-12546 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12546
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12546
+SO - Journal of Structural Engineering 2023-11-01 149(11): 03123001
+AB - For building service and strength design under wind load, torsional moment and response (or torsional-wind load) is a main component. Several factors contribute to torsional-wind load, including asymmetric distribution of wind pressure on the building façade (aerodynamic source), dynamic torsional vibration, and the contribution of resonant components of along-wind and across-wind loads in presence of mass-stiffness eccentricity. In addition, adjacent building influence can be considerable. For low (1 or 2 stories) to midrise (less than 10 stories) buildings, the main component in torsional-wind load typically is aerodynamic source. For tall buildings, contribution due to all sources is significant. In this article, theoretical background and procedures to calculate torsional-wind load, with a focus on the concept of equivalent eccentricity and equivalent static wind load, are discussed. Then, procedures and perspectives in several international standards, including ASCE 7-22, Architectural Institute of Japan-recommendations for loads on buildings (AIJ-RLB-2015), Australian and New Zealand Standard (AS/NZS 1170.2-2011), Korean Design Standard (KDS 41-2019), and ISO 4354-2009, are introduced to clarify differing points of view and how components of torsional-wind load are included. Finally, the main parameters of each standard are compared with wind tunnel test results. The results confirm consistency between the wind tunnel test results and those based on the standards with consideration of their covered ranges.
+
+
+    
+        AU - Mostafa Ramadan Ahmed
+    
+        AU - Ashraf El Damatty
+    
+        AU - Kaoshan Dai
+    
+        AU - Wensheng Lu
+    
+
+TI - Dynamic Analysis of Horizontal Axis Wind Turbines under Thunderstorm Downbursts
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023143
+VI - 149
+IP - 11
+AID - 10.1061/JSENDH.STENG-11923 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11923
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11923
+SO - Journal of Structural Engineering 2023-11-01 149(11): 04023143
+AB - Wind turbines are among the fastest-growing technologies for producing sustainable energy. Although numerous studies have been carried out to investigate the dynamic behavior of wind turbines exposed to synoptic winds, the dynamic behavior of such structures under downbursts is not comprehensively studied and not yet well-understood. As such, the main objective of the current study is to develop a numerical model that can be used to investigate the dynamic response of wind turbines subjected to downbursts taking into account the fluid-structure interaction (FSI) effect. To achieve this task, two modules are developed in this study and are integrated with the open-source code, fatigue, aerodynamics, structures, and turbulence (FAST). These modules introduce a three-dimensional (3D) time history of the downburst wind field into FAST inflow-wind module and simulate the interaction between the downburst wind field and the wind turbine structure. The downburst wind field consists of a moving mean component with a superimposed turbulence. The mean component is generated using a previously conducted computational fluid dynamics (CFD) simulation. The turbulence is simulated using the consistent discrete random flow generation (CDRFG) method as a stochastic process based on the turbulence power spectral density and the coherence functions pertaining to downbursts. The developed numerical model is validated using the results of a previously performed experiment on a wind turbine model sited in microburst-liked winds. A parametric study is then conducted on a wind turbine model to investigate the dynamic responses of the tower and blades with and without FSI effect under various downburst configurations. A comparison between the wind turbine quasistatic and dynamic responses is conducted, and the dynamic amplification factor (DAF) is then calculated. The aerodynamic damping of the blades is also estimated and compared with a previously developed closed form solution.
+
+
+    
+        AU - Chung-Che Chou
+    
+        AU - Hou-Chun Xiong
+    
+        AU - Agam Kumar
+    
+        AU - Yun-Chuan Lai
+    
+        AU - Chia-Ming Uang
+    
+
+TI - Effects of Section Compactness and SCWB Condition on Moment Redistribution and Plastic Hinging in SMF Built-Up Box Columns
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023144
+VI - 149
+IP - 11
+AID - 10.1061/JSENDH.STENG-12273 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12273
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12273
+SO - Journal of Structural Engineering 2023-11-01 149(11): 04023144
+AB - Steel special moment frames (SMFs) with built-up box columns and I-shaped beams commonly are used for seismic design, especially in Asian countries. Modern seismic design codes assume that plastic hinging will occur near the base of columns and in the reduced beam section (RBS) region; a strong column–weak beam (SCWB) check is required to reduce the likelihood that column hinging will occur above the first story. This study investigated the effects of column section compactness (i.e.,&nbsp;width–thickness ratio), axial force level, and SCWB ratio on the moment redistribution and plastic hinging in the bottom two stories of the columns. Two half-scale, two-and-one-half-story subassemblages with a column and RBS beams were cyclically tested; steel beams were included to simulate a realistic boundary condition to the column, especially after the beams started to form plastic hinges. The experimental observations of two subassemblages with varying column width–thickness ratios and SCWB ratios showed that meeting the SCWB requirement does not necessarily preclude plastic hinging in the second-story column. A finite-element parametric study with nine subassemblage models was conducted. A design criterion with an expression containing both the width–thickness and SCWB ratios is proposed to achieve plastic hinging near the column base, but not elsewhere along the columns.
+
+
+    
+        AU - Shiyun Xiao
+    
+        AU - Lu Mao
+    
+        AU - Ziyi Yang
+    
+
+TI - Dynamic Experimental Study on RC Interior BCJs under Cyclic Loading at Column Ends
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023145
+VI - 149
+IP - 11
+AID - 10.1061/JSENDH.STENG-12314 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12314
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12314
+SO - Journal of Structural Engineering 2023-11-01 149(11): 04023145
+AB - Concrete and steel are typical rate-dependent materials. Therefore, the dynamic behavior of reinforced concrete (RC) members is inevitably affected by the loading rate. To study the effect of the loading rate on the behavior of RC beam–column joints (BCJs), a dynamic test was carried out on RC BCJs. Cyclic loading with various loading rates was applied to the column end of RC BCJs to simulate horizontal earthquake excitation. The final crack morphology and the first principal stress contour plots of BCJs indicate that dynamic loading can promote the shear effect in the core region of RC BCJs. The lower the shear span ratio is, the higher the loading rate and the more obvious the effect. Experimental results show that the yield strength and ultimate strength of BCJs are approximately linear with the logarithm of the loading rate. There is no obvious effect of the loading rate on the yield, ultimate, and failure displacements of the BCJ, but the shear angle of the core region is approximately linear with the logarithm of the loading rate. In addition, the effects of the loading rate on the stiffness degradation, ductility, and energy dissipation capacity are studied.
+
+
+    
+        AU - Xiaodong Ji
+    
+        AU - Shaohui Zhang
+    
+        AU - Xiaowei Cheng
+    
+        AU - Xiangfu Jia
+    
+        AU - Mengchao Xu
+    
+
+TI - Cyclic In-Plane Shear Behavior of Composite Plate Shear Walls-Concrete Encased
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023146
+VI - 149
+IP - 11
+AID - 10.1061/JSENDH.STENG-11803 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11803
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11803
+SO - Journal of Structural Engineering 2023-11-01 149(11): 04023146
+AB - Steel-plate composite walls comprise a steel plate encased in the middle of a reinforced concrete shear wall [referred to as “composite plate shear walls-concrete encased (C-PSW/CE)”], or a concrete infill sandwiched between two steel faceplates [referred to as “double-skin composite (DSC) walls”]. In this study, two I-shaped C-PSW/CE specimens with a shear-to-span-ratio of 1.2 were experimentally tested to investigate the cyclic in-plane shear behavior of C-PSW/CE used for high-rise buildings. Both wall specimens were identical in geometric dimensions and reinforcement details, with the exception of axial force ratio. The results indicated that shear failure occurred in the two wall specimens due to serious spalling of web concrete, followed by buckling of the embedded steel plate and vertically distributed reinforcements. The increase in axial force ratio from 0.16 to 0.29 resulted in an 11.8% rise in peak strength and a decrease in ultimate shear strain of 27% for C-PSW/CE. A comparison between C-PSW/CE and DSC walls indicated that the latter had a similar peak strength to the former, but clearly improved the ultimate drift. This is because the double faceplates of DSC walls provided a more effective restraint to the infilled concrete and prevented spalling of concrete. Then, this paper developed a refined numerical model to simulate C-PSW/CE and compared the analytical results with the experimental data. Finally, shear strength design formulas specified in Chinese and US codes were verified against a large volume of test data and numerical simulation results. The shear strength of C-PSW/CE was reasonably estimated by the JGJ 3-2010 design formulas (Chinese code), while significantly underestimated by the AISC 341-16 formula (US code) which neglects the shear contribution of reinforced concrete encasement.
+
+
+    
+        AU - Junwei Ren
+    
+        AU - Quanbiao Xu
+    
+        AU - Gang Chen
+    
+        AU - Xiaodong Yu
+    
+        AU - Shunfeng Gong
+    
+        AU - Yong Lu
+    
+
+TI - Seismic Performance of Pretensioned Centrifugal Spun Concrete Piles with Combined Steel Strands and Deformed Steel Bars
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023147
+VI - 149
+IP - 11
+AID - 10.1061/JSENDH.STENG-12339 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12339
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12339
+SO - Journal of Structural Engineering 2023-11-01 149(11): 04023147
+AB - Pretensioned spun high-strength concrete piles usually use the traditional helical grooved steel bars as the main reinforcement, leading to insufficient ductility. Replacing prestressing steel bars with steel strands can effectively overcome the problem. To further enhance the overall seismic performance of the piles, pretensioned centrifugal spun concrete piles with combined use of pretensioned steel strands and nonprestressing deformed steel bars (PSRC piles) have been developed. This paper presents experimental and numerical investigations into the seismic performances of PSRC piles. Three full-scale PSRC pile specimens have been tested under lateral cyclic loading with different axial compressive forces, and the results are analyzed in detail and discussed. The influence of incorporating the deformed steel bars on the cyclic behavior of piles is examined with a comparison to the previous test results of the counterpart piles with only steel strands. A detailed finite element model of the PSRC pile specimens is developed and verified against the test results. Parametric analyses are then carried out using the validated model. The results show that the incorporation of nonprestressing deformed steel bars markedly improves the cracking behavior of the piles with much-diffused crack distributions. The combined use of steel strands and deformed bars also results in better deformation capacity as well as higher load-bearing capacity. By adjusting the concrete wall thickness and selecting a desirable ratio of prestressing steel strands and nonprestressing deformed bars, sufficient deformation and load-bearing capacities can be ensured with the piles.
+
+
+    
+        AU - Ben Moerman
+    
+        AU - Minghao Li
+    
+        AU - Tobias Smith
+    
+        AU - Angela Liu
+    
+
+TI - Cyclic Testing of High-Capacity CLT Shear Walls
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023148
+VI - 149
+IP - 11
+AID - 10.1061/JSENDH.STENG-12188 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12188
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12188
+SO - Journal of Structural Engineering 2023-11-01 149(11): 04023148
+AB - Conventional cross-laminated timber (CLT) shear walls often use commercial hold-downs and shear brackets with small-diameter fasteners that limit their lateral capacities. By using higher capacity hold-down connections with large diameter dowels, bolts, or mixed angle screws, a CLT shear wall’s strength and stiffness can be significantly improved. This experimental study assessed the performance of CLT shear walls using high-capacity hold-down and shear key connections. A total of six full-scale, five-ply cantilever CLT shear walls were cyclically tested to evaluate their strength, stiffness, and hysteretic behavior. The specimens had three height-to-width aspect ratios (0.52, 1.3, and 3.3) and two hold-down fastener types (bolts and mixed angle screws). All six wall specimens exhibited significantly higher strength and initial stiffness when compared to previously tested conventional CLT shear walls. Four of the six specimens exhibited ductile behavior through yielding of their hold-down fasteners. However, the two long walls buckled prematurely, highlighting a possible failure mode for CLT shear walls with significant in-plane loading. A maximum system overstrength factor of 2.0 was observed for the walls with mixed angle screw hold-downs, and the overstrength values reduced with increasing aspect ratios. The three walls with bolted hold-downs were not tested to failure due to the longest wall buckling and the other two specimens reaching the test setup’s maximum allowable drifts of 4.5% and 6.0% for the 2.6 m–tall and 6.6 m–tall walls, respectively. Although post peak behavior was not reached, high local ductility demands of 14 and 21 were observed in the bolted connections. Therefore, their ultimate overstrength factors were not found, but the test results indicate an overstrength of 2.7 or greater can occur due to significant “rope effect” of the bolts and their excellent local ductility capacity.
+
+
+    
+        AU - Kang Chen
+    
+        AU - Bo Yang
+    
+
+TI - Component-Based Modeling for Steel and Composite Beam-Column Joints Subjected to Quasi-Static and Impact Loads under Column Removal Scenarios
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023149
+VI - 149
+IP - 11
+AID - 10.1061/JSENDH.STENG-12070 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12070
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12070
+SO - Journal of Structural Engineering 2023-11-01 149(11): 04023149
+AB - This paper describes a component-based modeling approach for bare steel and composite beam-column joints subjected to quasi-static and impact loads under column removal scenarios. Two types of beam-column joints, viz. fin plate and welded unreinforced flange with bolted web, were simulated using the component-based modeling approach. The beam-column joints were discretized into individual springs consisting of various components. Material and geometry of the components were used to determine mechanical properties and failure criteria of the springs. After that, the springs were assembled together in a finite element package ABAQUS and component-based models were built. The joint models were validated against test results under quasi-static and impact loading scenarios. It was found that the component-based modeling approach performed well for both scenarios, with most of the relative errors less than 10%. Structural behavior of beam-column joints, including the development of load, axial force and bending moment for quasi-static loading scenario, as well as the development of displacement, axial force and bending moment for impact loading scenario could be captured by numerical simulations. The assumptions and limitations of the proposed modeling approach are presented as well.
+
+
+    
+        AU - Bilal Alhawamdeh
+    
+        AU - Xiaoyun Shao
+    
+        AU - David M. Salazar
+    
+
+TI - Experimental Investigation of Lateral Behavior of Light-Frame Shear Walls Applied with Elastomeric Adhesive
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023150
+VI - 149
+IP - 11
+AID - 10.1061/JSENDH.STENG-11973 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11973
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11973
+SO - Journal of Structural Engineering 2023-11-01 149(11): 04023150
+AB - The seismic design of light-frame wood buildings requires adequate lateral strength and stiffness without inversely compromising the energy dissipation performance, mainly attributable to the connections. The impact of elastomeric adhesives on the seismic performance of light-frame shear walls (LFSW) was examined experimentally. Eleven LFSW specimens subjected to monotonic and cyclic loading tests represented four configurations of sheathing-to-framing connections. The reference configuration used standard nailing in the connections, while the other three configurations added elastomeric adhesives. The adhesives adopted are the conventional polyurethane-based and two silyl-modified polyether-based (SMP) adhesives of different mechanical properties. Experimental results of force-displacement relationships and performance characteristics were evaluated, including strength, stiffness, energy dissipation, and ductility. The failure modes, sheathing deformation, and hold-down and anchor bolt forces were monitored to explain the quantified performance reasonably. Calculated values from the tests were compared with their counterparts in the design provisions, including shear wall deflection and allowable story drift. It is noted that the adhesive configurations doubled the wall strength and increased stiffness by half compared with the reference configuration. Of all the configurations, the most energy dissipation was achieved when using the SMP adhesive of high-elongation and the least using conventional adhesive. The superior elongation capability of the SMP adhesives indicates a synergistic effect with nails allowing more deflection of sheathing from framing and more energy dissipation than conventional adhesives of inherently limited elongation.
+
+
+    
+        AU - Julie Liu
+    
+        AU - Erica C. Fischer
+    
+        AU - Andre R. Barbosa
+    
+        AU - Arijit Sinha
+    
+
+TI - Experimental Testing and Numerical Simulation of Timber-Concrete Composite Floors in Fire
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023151
+VI - 149
+IP - 11
+AID - 10.1061/JSENDH.STENG-12577 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12577
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12577
+SO - Journal of Structural Engineering 2023-11-01 149(11): 04023151
+AB - Timber–concrete composite (TCC) floors exposed to fire experience charring and thermal degradation of timber, leading to a reduction in load-carrying capacity. Finite element (FE) modeling supplements data from experimental fire testing and allows for fast and economical investigation of additional design parameters. This research presents fire test results of three large-scale TCC floor specimens and development of an FE modeling methodology for TCC floors in a fire. TCC floors constructed with nail-laminated timber, cross-laminated timber, or mass ply panel, with truss plates or angled screws as shear connectors, are loaded with a uniformly distributed service-level live load and exposed to the ASTM E119-20 standard fire curve. A 2D FE modeling methodology is presented and benchmarked against the test data. The methodology integrates sequentially coupled thermal-structural analyses, which make use of temperature-dependent thermal and mechanical properties of timber and concrete. The deflection and failure times of the FE models are benchmarked against test data. Connector forces from FE models show that shear connectors remain elastic throughout the fire exposure. FE results indicate that the load-carrying capacity is dependent on tensile stress redistribution to the uncharred timber section. The FE modeling methodology effectively calculates the mechanical and fire behavior of TCC floors and highlights limits of the applicability of analytical design methods.
+
+
+    
+        AU - Chiyun Zhong
+    
+        AU - Constantin Christopoulos
+    
+
+TI - Simplified Method for the Preliminary Design of Shear-Controlling Rocking-Isolation Podium Systems for Tall Buildings
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023152
+VI - 149
+IP - 11
+AID - 10.1061/JSENDH.STENG-12155 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12155
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12155
+SO - Journal of Structural Engineering 2023-11-01 149(11): 04023152
+AB - Base dual-mechanism systems that limit both shear force and overturning moment demands are being developed as a new class of seismic force–resisting systems to enhance the control of seismic demands at the base and along the height of tall buildings and to control higher-mode effects. Despite an increasing number of numerical studies that demonstrate the enhanced seismic resilience of tall buildings as a result of better-controlled shear force and overturning moment demands and reduced higher-mode effects through a variety of base dual-mechanism configurations, there are limited design methodologies for buildings with this type of seismic-resistant base system. This paper proposes a simplified method for the performance-based seismic design methodology for these base dual-mechanism systems and the structures above, which consists of (1)&nbsp;designing the dual base-mechanism system using a set of design charts, and (2)&nbsp;protecting the rest of the structure for the maximum expected seismic force demands computed using closed-form equations. The proposed method was used in this paper for the preliminary design of four example core-wall tall buildings with heights of 45, 90, 150, and 300&nbsp;m. The adequacy of the proposed method was demonstrated using three-dimensional finite-element models. The analysis results were in reasonable agreement with the targeted force and displacement demands estimated using the proposed simplified method for the preliminary design of dual base-mechanism systems.
+
+
+    
+        AU - Hediyeh Sheikh
+    
+        AU - Rajeev Ruparathna
+    
+        AU - Niel C. Van Engelen
+    
+
+TI - Implementation, Verification, and Validation of an Impact Model for Lateral Numerical Modeling of Unbonded Fiber-Reinforced Elastomeric Isolators
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023153
+VI - 149
+IP - 11
+AID - 10.1061/JSENDH.STENG-12541 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12541
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12541
+SO - Journal of Structural Engineering 2023-11-01 149(11): 04023153
+AB - Unbonded fiber-reinforced elastomeric isolators (UFREIs) are a potentially low-cost and viable alternative for application as base isolators in low-rise buildings due to their adaptive characteristics. The behavior is denoted adaptive because the device exhibits well-defined lateral softening and subsequent substantial stiffening responses depending on the loading level. Since adaptive characteristics could have a significant effect on the seismic response of base-isolated structures, proper modeling of adaptive devices is crucial. There are several numerical modeling techniques for considering the adaptive characteristics of UFREIs. However, to date, none accurately fit the experimental hysteresis loops of UFREIs at large displacements where there is more dissipated energy due to full rollover. In this paper, an impact model is added to the leading numerical models of UFREIs (i.e.,&nbsp;the Bouc–Wen model with a fifth-order polynomial and the algebraic model) to accurately capture the force-displacement hysteresis in lower and larger displacement amplitudes. The proposed impact model is then validated using prior experimental cyclic loading tests for square and rectangular specimens and shake table tests for different earthquake records. The effect of the impact model was also investigated through comparison with the response of the existing phenomenological models (e.g.,&nbsp;the Bouc–Wen model with a fifth-order polynomial, the algebraic model, and the elastomeric bearing (Bouc–Wen) element). The results show that incorporating the impact model will improve the ability of the current numerical models to capture the behavior of UFREIs, particularly at larger amplitudes.
+
+
+    
+        AU - Kim J. R. Rasmussen
+    
+
+TI - Stiffness Reduction of Cold-Formed Steel Structures Subject to Sectional Buckling and Yielding
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023154
+VI - 149
+IP - 11
+AID - 10.1061/JSENDH.STENG-12655 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12655
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12655
+SO - Journal of Structural Engineering 2023-11-01 149(11): 04023154
+AB - The paper develops a stiffness reduction factor to be used in geometric nonlinear beam-element type elastic analysis of cold-formed steel structures. The factor accounts for the reduction in flexural and warping torsion rigidities resulting from local and distortional buckling as well as residual stresses, particular to cold-formed steel structures. The purpose of applying the factor is to accurately account for the geometric second order effects when predicting the internal distributions of moments of cold-formed steel structural frames. The stiffness reduction factor arising from local and distortional buckling is first determined followed by the stiffness reduction factor caused by residual stresses. Subsequently, the two effects are combined in a single expression, which is a format suitable for incorporation in the North American specification for cold-formed steel structures, AISI-S100.
+
+
+    
+        AU - Yulong Feng
+    
+        AU - Hao Wen
+    
+        AU - Xun Chong
+    
+        AU - Qing Jiang
+    
+        AU - Zhi Zhang
+    
+        AU - Mingtu Wei
+    
+
+TI - Experimental Study on a Single-Sided Column–Tree Connection with a Replaceable Buckling-Restrained Cover Plate at a Bottom Flange
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023155
+VI - 149
+IP - 11
+AID - 10.1061/JSENDH.STENG-11710 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11710
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11710
+SO - Journal of Structural Engineering 2023-11-01 149(11): 04023155
+AB - This paper presents the study of a single-sided column–tree connection with a replaceable buckling-restrained cover plate (BRCP) at a bottom flange to achieve rapid postearthquake repair for connections in the presence of concrete slabs. During major earthquakes, the bottom flange core plate of the BRCP yields and dissipates energy, and the connection rotates around the center of the top flange connection plate. The slip and yield moments of the proposed connection were theoretically calculated, and the design principle was proposed. Quasi-static loading tests were performed on four specimens. Moreover, the hysteresis behavior, failure modes, force–deformation hysteresis curves, force–deformation backbone curves, strain responses, energy dissipation capacity, and neutral axis position were obtained. Additionally, the influence of restrained forms, unbonded material, and neutral axis position on the hysteresis performance were analyzed. The results show that the two-piece restraint plate leads to extreme local bending of the core plate, the unbonded material on the restraint plate has little effect on the seismic performance, and the core plate undergoes larger deformation when the neutral axis is close to the top flange. Finally, finite-element models of the test specimens were established and validated using the test hysteretic curves and the failure modes to further investigate the test results.
+
+
+    
+        AU - Mojtaba Aliasghar-Mamaghani
+    
+        AU - Ioannis Koutromanos
+    
+        AU - Carin Roberts-Wollmann
+    
+        AU - Matthew Hebdon
+    
+
+TI - Finite Element Analysis of Chloride Ingress in Prestressed Concrete Bridge Girders Accounting for Service-Life Ambient Conditions
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023156
+VI - 149
+IP - 11
+AID - 10.1061/JSENDH.STENG-11686 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11686
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11686
+SO - Journal of Structural Engineering 2023-11-01 149(11): 04023156
+AB - This paper introduces a computational simulation scheme to describe the intrusion of corrosion-inducing chloride ions in prestressed bridge girders. This phenomenon impacts the durability of bridges in coastal zones or regions where deicing salts are used. The computational study is focused on two girders decommissioned from separate bridges in Virginia after 34 and 49&nbsp;years of service. A time-dependent, nonlinear finite element scheme, accounting for coupled heat, moisture, and chloride transport, is formulated and used in the analyses. The model parameters are calibrated using data from material tests in the literature. Subsequently, two-dimensional analyses are conducted to determine the evolution of chloride in the girder cross-sections. Contrary to earlier studies using finite element analysis, which have been focused on laboratory specimens, the work presented herein is focused on reproducing the evolution of chloride ingress of actual bridge members, considering the local climate conditions through the use of temperature and relative humidity measurements from weather stations in the vicinity of the bridges. The simulations are found capable of capturing the actual chloride content at various depths from the surface, measured through titration tests. Further analyses indicate that using the simplified, design-oriented equations in the fib code may underestimate the chloride content during the lifespan of a bridge. A similar underestimation is observed if the impact of advective chloride transport is neglected in the finite element models.
+
+
+    
+        AU - Huanyang Zhang
+    
+        AU - Xuhong Zhou
+    
+        AU - Ke Ke
+    
+        AU - Michael C. H. Yam
+    
+        AU - Yu Shi
+    
+        AU - Haibin Zhang
+    
+
+TI - Hybrid Self-Centering Connection Employing Energy Dissipation Sequences: Experimental Study and a Structural Seismic Demand Perspective
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023157
+VI - 149
+IP - 11
+AID - 10.1061/JSENDH.STENG-12306 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12306
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12306
+SO - Journal of Structural Engineering 2023-11-01 149(11): 04023157
+AB - This study reported an experimental study of hybrid-self-centering connections (HSCCs) employing energy dissipation sequences. The dual self-centering mechanism of the connection consisting of post-tensioned (PT) steel strands and shape memory alloy (SMA) bolts provided the self-centering driving force, and the energy dissipation sequences can be realized by friction dampers and SMA bolts. An experimental program employing five proof-of-concept connections was tested under the cyclic loading scenarios. The test results including hysteretic responses, strain gauge readings, force evolution in PT steel strands, strength and stiffness, energy dissipation capability, and self-centering ability were examined and discussed. The obvious trilinear hysteretic feature of the test connection accompanied by excellent self-centering ability, moderate energy dissipation capability, and satisfactory ductility was confirmed. In addition, the encouraging repairability of the test connection was verified by retests of repaired specimens. Subsequently, finite element (FE) models verified by the experimental results were developed to further examine the behavior of the proposed connection. A design model was developed enabling the quantification of the multilinear behavior of moment-rotation responses of the proposed connection. The good agreement between the stiffness and strength of the connection from the test data confirmed the rationality of the proposed design model. The analysis results of nonlinear spectral analyses confirmed the effectiveness of structures equipped with the HSCC in reducing acceleration response.
+
+
+    
+        AU - Hai-Ting Li
+    
+        AU - Feng Zhou
+    
+        AU - Ben Young
+    
+
+TI - Web Crippling Design of Cold-Formed Stainless Steel SHS and RHS
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023158
+VI - 149
+IP - 11
+AID - 10.1061/JSENDH.STENG-12047 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12047
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12047
+SO - Journal of Structural Engineering 2023-11-01 149(11): 04023158
+AB - This paper presents the development and background information of the web crippling design provision proposed for cold-formed stainless steel square and rectangular hollow sections (SHS and RHS) incorporated in the recently revised ASCE/SEI 8-22 Specification. The provision was derived based upon reliability requirements as regulated by the ASCE/SEI 8-22 using experimental data from the literature on cold-formed SHS and RHS of austenitic, ferritic, and austenitic-ferritic (duplex and lean-duplex) stainless steel types of various grades including UNS S30400, S30153, S43940, S40977, S32101, and S32202. The accuracy and consistency of the design provisions in the ASCE/SEI 8-22 and SEI/ASCE 8-02 specifications were compared. In addition, the possible extension of validity limits of the new ASCE/SEI 8-22 provision was assessed by utilizing additional finite-element results generated in this study as well as those reported in the literature. It is shown that the validity limits of the new provision could be further extended. Moreover, the direct strength method (DSM) proposed by the authors for web crippling design of cold-formed ferritic stainless steel SHS and RHS was evaluated to check its applicability to other stainless steel types and grades. A modified DSM with updated coefficients is proposed in this study using the format that in line with DSM for members in shear as per ASCE/SEI 8-22. It is shown that the modified DSM can provide well-predicted resistances for cold-formed stainless steel SHS and RHS undergoing web crippling.
+
+
+    
+        AU - Zhe Li
+    
+        AU - Ye Li
+    
+        AU - Wei-Jian Yi
+    
+        AU - Yuan Huang
+    
+        AU - Yun Zhou
+    
+        AU - Wang-Xi Zhang
+    
+
+TI - Shear Mechanism and Size Effect of RC Deep Beams without Stirrups Based on Crack Kinematics in Tests
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023159
+VI - 149
+IP - 11
+AID - 10.1061/JSENDH.STENG-12375 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12375
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12375
+SO - Journal of Structural Engineering 2023-11-01 149(11): 04023159
+AB - Based on the experimental results, this paper investigates the shear mechanism of reinforced concrete deep beams without stirrups. By analyzing the kinematics of the critical shear crack, it can be found that the compression of concrete above the critical shear crack causes the crack sliding and that the combined action of the elongation of longitudinal reinforcement and the compression of concrete above the critical shear crack causes the crack opening. Based on the new-found crack kinematics and test data, the aggregate interlock force is calculated by two methods. The dowel action is also calculated. The results reveal that the shear forces transmitted by the aggregate interlock and the dowel action are relatively small, ranging from 0.5% to 9.2%. The uncracked concrete in the compression zone provides the primary resistance. Both the aggregate interlock and the uncracked concrete in the compression zone can cause a size effect. But because of the small proportion of the aggregate interlock, the size effect of shear strength is mainly caused by the size effect of uncracked concrete in the compression zone. A modified strut-and-tie model (STM) is established based on the shear mechanism found in the test. It considers the size effect using the modified size effect law. The modified STM is evaluated by comparing the calculation results with the experimental results of 194 beams. It is shown that the prediction of the modified STM is more accurate than those of the other five models, with a mean value of Vu/Vu,cal of 1.01 and a coefficient of variation value of 0.22. The proposed model well captures the effect of the shear span-to-effective depth ratio and the size effect on the shear strength. The modified STM reflects the actual shear transfer mechanism of deep beams without stirrups and has the advantages of simple calculation and accurate prediction.
+
+
+    
+        AU - Wei Cui
+    
+        AU - Lin Zhao
+    
+        AU - Yaojun Ge
+    
+
+TI - Wind-Induced Buffeting Vibration of Long-Span Bridge Considering Geometric and Aerodynamic Nonlinearity Based on Reduced-Order Modeling
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023160
+VI - 149
+IP - 11
+AID - 10.1061/JSENDH.STENG-11543 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11543
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11543
+SO - Journal of Structural Engineering 2023-11-01 149(11): 04023160
+AB - Aeroelastic instability and buffeting are two wind-induced phenomena for long-span bridges. In the traditional method, aeroelastic instability and buffeting are analyzed separately. If geometric and aerodynamic nonlinearity are required, aeroelastic instability is normally calculated based on finite-element methods, and buffeting is carried out based on linearization of structural and aerodynamic nonlinearity. Then, the standard frequency-domain methods are utilized on the eigenvalue decomposition. However, for ultralong-span bridges, aerostatic deformation, aeroelasticity, and buffeting are strongly coupled. During buffeting, the bridge deck pitching will change both structural stiffness and aerodynamic loads; therefore, the nonlinearity should be included in the long-span bridge buffeting analysis. This paper establishes a reduced-order modeling procedure to simulate the wind-induced buffeting vibration for long-span bridges including the nonlinear aeroelasticity and buffeting force. First, the mode-based vibration formulas are derived to consider both structural and aerodynamic nonlinearity through polynomial expansion. Next, the numerically simulated turbulence is imported into the vibration governing equation, and the structural response can be calculated using the time-domain integration method.
+
+
+    
+        AU - Yitian Feng
+    
+        AU - Yifan Fei
+    
+        AU - Yuanqing Lin
+    
+        AU - Wenjie Liao
+    
+        AU - Xinzheng Lu
+    
+
+TI - Intelligent Generative Design for Shear Wall Cross-Sectional Size Using Rule-Embedded Generative Adversarial Network
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023161
+VI - 149
+IP - 11
+AID - 10.1061/JSENDH.STENG-12206 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12206
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12206
+SO - Journal of Structural Engineering 2023-11-01 149(11): 04023161
+AB - Deep learning–driven intelligent generative design for building structures provides novel insights into intelligent construction. In a structural scheme design, the cross-sectional design of the shear wall components is critical. However, the current manual method is time-consuming and labor-intensive, and a statistical regression–based design is insufficiently accurate. Satisfying the requirements of a complex shear wall design in the real world is difficult for both methods. Generative adversarial networks (GANs) can extract implicit design laws by learning from design data and conduct end-to-end design effectively and rapidly. Although GANs have been adopted for intelligent structural design, some design rules established by competent engineers are difficult to capture. Hence, this study developed and subsequently adopted a rule-embedded GAN called StructGAN-Rule to address the demand for a rapid and accurate cross-sectional design of shear wall components. Specifically, a representation method that integrates design images and multiple design conditions was first established, which was followed by the construction of the training data set. Subsequently, based on the design rules, a differentiable tensor operator was built as a rule evaluator, which was embedded in the GAN to guide and constrain the training process. Finally, following the training of StructGAN-Rule, intelligent generative cross-sectional design based on the developed postprocessing method was effectively completed. Case studies on typical shear wall structures demonstrated that the StructGAN-Rule design satisfied the rule constraints well and was highly consistent with the design of engineers (approximately 1% difference). Moreover, the design efficiency was improved 6–10 times compared with that of the latter.
+
+
+    
+        AU - M. Pharand
+    
+        AU - J.-P. Charron
+    
+
+TI - Prediction of Moment–Curvature Response and Maximum Bending Resistance for Hybrid NSC-UHPC Elements
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023162
+VI - 149
+IP - 11
+AID - 10.1061/JSENDH.STENG-12407 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12407
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12407
+SO - Journal of Structural Engineering 2023-11-01 149(11): 04023162
+AB - Exceptional mechanical properties of ultra-high performance concretes (UHPC) offer strong strengthening capacities in bending and shear when used as overlay on normal strength concrete (NSC) structures. Nonetheless, lack of simple and intuitive design models for hybrid elements in design guidelines refrain designers from using UHPC overlays for structural applications. Thereby, a simplified sectional analysis model for NSC-UHPC hybrid elements was developed based on the philosophy of the Canadian Bridge Design Code CSA-S6. By using a new average stress distribution for NSC in hybrid elements that considers the strain at the extreme compressed fiber, equilibrium of forces can be solved by a second-degree equation with direct computation. The simplified model provides the complete moment–curvature behavior of hybrid elements for design purposes, thus allowing verifications in service and ultimate state conditions. An empiric equation is also proposed to evaluate the maximum bending capacity of hybrid elements for predesign. It only uses an approximation of a lever arm between forces in the hybrid cross section and thus offers a quick and easy way to evaluate the bending capacity. Both tools were validated on a detailed and iterative sectional analysis program and with results of four international experimental campaigns. The simplified sectional analysis model and empirical equation showed very good accuracy at reproducing the behavior of a wide range of NSC-UHPC hybrid elements configurations.
+
+

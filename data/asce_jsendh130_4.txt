@@ -1,0 +1,416 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Sashi K. Kunnath
+    
+
+TI - Editor's Note
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 533-537
+VI - 130
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2004)130:4(533) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28533%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28533%29
+SO - Journal of Structural Engineering 2004-04-01 130(4): 533-537
+
+
+    
+        AU - Zhi-Hua Zhou
+    
+        AU - Siu-Lai Chan
+    
+
+TI - Elastoplastic and Large Deflection Analysis of Steel Frames by One Element per Member. I: One Hinge along Member
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 538-544
+VI - 130
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2004)130:4(538) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28538%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28538%29
+SO - Journal of Structural Engineering 2004-04-01 130(4): 538-544
+AB - The ultimate load of a typical steel frame is dependent on the geometrically nonlinear and material yielding effects. The complexity for considering material yielding by the plastic hinge approach is the unknown location of the plastic hinge, which can occur at the ends or any position along the element length. For the latter case, a member is divided into many elements in order to approximate the location of a plastic hinge. This process is tedious, inconvenient to use, and involves extensive computer time. Further, the strength check for sectional capacity using the LRFD code requires an assumption of the K factor or the effective length ratio, which further complicates a computer analysis for the ultimate load of a steel frame. To describe the formation of a plastic hinge along an element in a member at the ultimate limit state, a single element capable of modeling the P-δ effect as well as the formation of the plastic hinge is needed. This paper adopts a simple concept of superimposition of triangular deflected shapes due to the formation of plastic hinge to the fifth order deflection shape for elastic deflection to yield the final deflection of the element, the plastic pointwise equilibrium polynomial (PPEP) element. Equilibrium of moment and shear at midspan of an element is maintained for accurate modeling of the P-δ effect in the tangent and secant stiffness. The robustness, accuracy and reliability of the developed element are demonstrated in a number of worked examples. 
+
+
+    
+        AU - Siu-Lai Chan
+    
+        AU - Zhi-Hua Zhou
+    
+
+TI - Elastoplastic and Large Deflection Analysis of Steel Frames by One Element per Member. II: Three Hinges along Member
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 545-553
+VI - 130
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2004)130:4(545) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28545%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28545%29
+SO - Journal of Structural Engineering 2004-04-01 130(4): 545-553
+AB - An isolated member capacity check for beam columns may not correctly reflect the true behavior of a structure undergoing large deflection and material yielding. This paper extends the previous work by the authors on geometrically nonlinear analysis of skeletal structures to combined geometrically and material nonlinear analysis of slender frames using a single element per member. In the proposed element, three plastic hinges are allowed to form in an element with two at the two ends and one at the location of maximum combined stress due to axial force and moment. For calibration against the load capacity of a single member in the load and resistance factor design and allowable stress design standards, the present results perform excellently while, in the case of ultimate and collapse analysis of steel frames, the present method gives accurate results allowing for interaction between all members with geometric and material nonlinearities. The formulation is capable of conducting an elastoplastic buckling analysis of a beam column modeled by one element per member, which is not available in literature. 
+
+
+    
+        AU - N. S. Trahair
+    
+
+TI - Biaxial Bending of Steel Angle Section Beams
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 554-561
+VI - 130
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2004)130:4(554) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28554%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28554%29
+SO - Journal of Structural Engineering 2004-04-01 130(4): 554-561
+AB - The loads applied to angle beams usually act out of the principal planes so that they cause simultaneous biaxial bending about both principal axes. The general practice for designing unbraced beams against biaxial bending is to consider the separate failure modes of either in-plane bending or lateral buckling under bending about the major principal axis, and in-plane bending about the minor principal axis, and then to use an interaction equation to combine the two principal axis strengths. However, the interaction equations provided by many codes for designing against biaxial bending are largely derived from research on doubly symmetric I-section beams, which may be inappropriate for angle section beams, while the lateral buckling rules of these codes appear to be in error for nonuniform bending with loads acting away from the shear center. This paper investigates the biaxial bending of unbraced steel angle beams. The biaxial bending of compact equal angles in uniform bending is considered first, and a simple interaction equation is developed for their design which utilizes recent proposals for lateral buckling design. A corresponding interaction equation is developed for the design of semicompact and slender equal angles. Suggestions are then made for extending these to the biaxial bending of unequal angles under general shear center loading, and finally, a worked example illustrating the method is provided. 
+
+
+    
+        AU - Sing-Ping Chiew
+    
+        AU - Seng-Tjhen Lie
+    
+        AU - Chi-King Lee
+    
+        AU - Zhi-Wei Huang
+    
+
+TI - Fatigue Performance of Cracked Tubular T Joints under Combined Loads. I: Experimental
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 562-571
+VI - 130
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2004)130:4(562) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28562%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28562%29
+SO - Journal of Structural Engineering 2004-04-01 130(4): 562-571
+AB - Experimental fatigue tests were carried out on three tubular T joints having the same geometrical parameters subjected to in-plane bending (IPB) only, combination of IPB and out-of-plane bending (OPB), and a combination of axial loading, IPB and OPB respectively. Static tests were first carried out to investigate the Hot Spot Stress (HSS) distribution along the intersection of chord and brace, and to determine the peak HSS and its location when the joints were subjected to these load cases. The peak HSS location was used to determine the placement of the probes. An alternating current potential drop technique was then employed to monitor the crack growth and crack shape development on the joints at a preset number of cycles. The experimental data were recorded, and the fatigue performance of the three T joints subjected to basic and combined load cases were investigated. The crack growth curves and crack growth rate on each specimen were presented. The results confirmed that the United Kingdom Department of Energy tubular joint fatigue design T curve derived from a single axis test data is conservative even for combined load cases. 
+
+
+    
+        AU - Seng-Tjhen Lie
+    
+        AU - Sing-Ping Chiew
+    
+        AU - Chi-King Lee
+    
+        AU - Zhi-Wei Huang
+    
+
+TI - Fatigue Performance of Cracked Tubular T Joints under Combined Loads. II: Numerical
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 572-581
+VI - 130
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2004)130:4(572) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28572%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28572%29
+SO - Journal of Structural Engineering 2004-04-01 130(4): 572-581
+AB - In practice, tubular joints are always subjected to a combination of axial loading (AX), in-plane bending (IPB), and out-of-plane bending (OPB), and the initiation of surface cracks does not always start at the saddle or the crown position on the joints. A systematic finite element modeling of tubular Y joints with any surface crack and located at any position along the brace–chord intersection is developed and proposed in this paper. The weld details in the model conform to the American Welding Society codes. The contact surfaces have been defined carefully between the two crack surfaces that may arise due to some loading cases. Along the crack tip, a well-graded finite element mesh is generated to get the stress intensity factors. This modeling method is then used to analyze three tubular T joint specimens which were tested to failure earlier, and they were subjected to IPB only, combination of IPB and OPB, and a combination of AX, IPB, and OPB, respectively. The numerical results compared favorably with the experimental results based on the Paris’ law, and all of these results demonstrate that the proposed model is consistent and reliable. 
+
+
+    
+        AU - Sheng-Jin Chen
+    
+        AU - Chin-Te Tu
+    
+
+TI - Experimental Study of Jumbo Size Reduced Beam Section Connections Using High-Strength Steel
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 582-587
+VI - 130
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2004)130:4(582) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28582%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28582%29
+SO - Journal of Structural Engineering 2004-04-01 130(4): 582-587
+AB - There is an increasing demand for jumbo sections and high-strength steel in the construction of modern high-rise buildings. However, there is a lack of knowledge of the behavior of this type of construction, especially under seismic loading. This paper describes experimental studies of reduced beam section connections using jumbo sections and high-strength steel. The steel selected is ASTM A572 Gr. 60 steel (Fy=414MPa) and the flange thickness of both steel beam and steel column is 50 mm. The beam flanges in the preselected area are tapered following the seismic moment demand. As a result of this arrangement, an enlarged plastic zone can be obtained in the preselected area and seismic energy can be dissipated through the yielding of steel plate in this region. The plastic rotational angle can be more than 0.03 radians. It is also found that the weld tabs of the complete joint penetration weld between beam flanges and column flanges have a crucial effect on the premature fracture of the connection and it is suggested that these weld tabs be removed. 
+
+
+    
+        AU - Kihak Lee
+    
+        AU - Douglas A. Foutch
+    
+
+TI - Performance Evaluation of Damaged Steel Frame Buildings Subjected to Seismic Loads
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 588-599
+VI - 130
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2004)130:4(588) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28588%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28588%29
+SO - Journal of Structural Engineering 2004-04-01 130(4): 588-599
+AB - This paper presents a systematic evaluation approach that allows the design professional to estimate the performance of damaged buildings subjected to sets of ground motions representing different hazard levels. The performance of damaged buildings for a future seismic event prior to repair and/or rehabilitation was evaluated using an elastic model and stiffness of the structure. The linear static model using the damaged state of brittle fractured connections in steel moment resisting frame buildings provides a reasonable estimation of the interstory drift of the damaged buildings when compared to nonlinear time history analysis. Then, this result was incorporated in a reliability-based procedure that provides a degree of confidence that a building before and after the damage will exceed the given performance levels. Finally, examples of confidence level calculations are presented. The results showed that the linear static model and the performance evaluation procedure are very useful and allow the design professional to determine the level of safety of damaged buildings. 
+
+
+    
+        AU - Kuo-Chun Chang
+    
+        AU - Yu-Yuan Lin
+    
+
+TI - Seismic Response of Full-Scale Structure with Added Viscoelastic Dampers
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 600-608
+VI - 130
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2004)130:4(600) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28600%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28600%29
+SO - Journal of Structural Engineering 2004-04-01 130(4): 600-608
+AB - This paper presents the test and analytical results of a full-scale 5 story steel frame with added viscoelastic (VE) dampers. The ISD110 VE dampers made by 3M Company are installed to the long (East–West) direction of the structure. In addition to carrying out ambient and free vibration tests, the dynamic responses of the VE structure under four moderate earthquakes are recorded and analyzed. The ambient vibration tests show that the increase of damping in the full-scale structure is not obvious because of the small input energy. Nevertheless, in the free vibration tests and under earthquake ground motions, the increase of damping ratio is very significant. Analytical results show that when the structure is added with the diagonal–damper–brace assemblies, the modal strain energy method that has been validated by extensive shaking table tests on small-scale models slightly overestimates the damping ratio of the full-scale structure. However, when the structure is added with the floor–damper–brace assemblies, the method slightly underestimates the damping ratio. In addition to providing important database for verifying the effectiveness of applying the VE dampers to full-scale structures, this study also obtains important experiences concerning the implementation and detailed design of damper connections for practical applications. 
+
+
+    
+        AU - M. Saiid Saiidi
+    
+        AU - Frank Martinovic
+    
+        AU - Brett McElhaney
+    
+        AU - David Sanders
+    
+        AU - Faramarz Gordaninejad
+    
+
+TI - Assessment of Steel and Fiber Reinforced Plastic Jackets for Seismic Retrofit of Reinforced Concrete Columns with Structural Flares
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 609-617
+VI - 130
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2004)130:4(609) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28609%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28609%29
+SO - Journal of Structural Engineering 2004-04-01 130(4): 609-617
+AB - An analytical and experimental study of reinforced concrete flared bridge columns was conducted to determine an appropriate retrofit method for columns with inadequate shear capacity under earthquake loads. Four 0.3-scale models were tested on a shake table to failure, one representing as-built columns and the other three retrofitted with jackets, one with steel, one with a glass fiber reinforced plastic (FRP), and the third with a carbon FRP jacket. The jackets were designed to keep the plastic hinge away from the column end. A new lay up method was developed for FRP fabrics used on nonprismatic members. The results showed that all jackets improved the seismic performance. The effectiveness of the jackets was nearly the same for all materials. The method to estimate shear capacity based on the guidelines of the California Department of Transportation and a modified version of that method were found to closely estimate the shear capacity. However, the method in the Federal Highway Administration seismic retrofit manual overestimated the shear capacity and was unconservative. 
+
+
+    
+        AU - John H. Thomsen
+    
+        AU - John W. Wallace
+    
+
+TI - Displacement-Based Design of Slender Reinforced Concrete Structural Walls—Experimental Verification
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 618-630
+VI - 130
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2004)130:4(618) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28618%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28618%29
+SO - Journal of Structural Engineering 2004-04-01 130(4): 618-630
+AB - Application of displacement-based design for slender structural walls results in predictions for the wall normal strain gradient derived from estimating the wall neutral axis depth and maximum compressive strain at the wall boundary, for a given top displacement. Based on this strain distribution, requirements for special boundary element transverse reinforcement are assessed. A simplified application of displacement-based design was incorporated into ACI 318-99 to evaluate detailing requirements at wall boundaries. The results of experimental studies of moderate-scale, slender wall specimens with rectangular-shaped and T-shaped cross sections are used to verify results predicted using displacement-based design. Detailing at the boundaries of the wall specimens, which were subjected to monotonically increasing reversed cyclic lateral loads and constant axial load of approximately 0.10Agfc′, were varied to assess behavior for a variety of conditions. Findings indicate good agreement between predicted and measured strain (curvature) distributions for a range of drift levels, verifying that displacement-based design is both a powerful and flexible tool for assessing wall detailing requirements. 
+
+
+    
+        AU - Amir Fam
+    
+        AU - Frank S. Qie
+    
+        AU - Sami Rizkalla
+    
+
+TI - Concrete-Filled Steel Tubes Subjected to Axial Compression and Lateral Cyclic Loads
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 631-640
+VI - 130
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2004)130:4(631) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28631%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28631%29
+SO - Journal of Structural Engineering 2004-04-01 130(4): 631-640
+AB - This paper presents an experimental work and analytical modeling for concrete-filled steel tubes (CFSTs) subjected to concentric axial compression and combined axial compression and lateral cyclic loading. The objective of the study is to evaluate the strength and ductility of CFST short columns and beam-column members under different bond and end loading conditions. Both bonded and unbonded specimens were tested, including application of the axial load to the composite steel-concrete section and to the concrete core only. Research findings indicate that the bond and end loading conditions did not affect the flexural strength of beam-column members significantly. On the other hand, the axial strengths of the unbonded short columns were slightly increased, compared to those of the bonded ones, while the stiffness of the unbonded specimens was slightly reduced. Test results were compared with the available design specifications, which were found to be conservative. The paper also presents an analytical model capable of predicting the flexural and axial load strength of CFST members. Experimental results were found to be in good agreement with the predicted values. 
+
+
+    
+        AU - Mark J. Masia
+    
+        AU - Peter W. Kleeman
+    
+        AU - Robert E. Melchers
+    
+
+TI - Modeling Soil/Structure Interaction for Masonry Structures
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 641-649
+VI - 130
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2004)130:4(641) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28641%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28641%29
+SO - Journal of Structural Engineering 2004-04-01 130(4): 641-649
+AB - A soil/structure interaction model for the simulation of the structural response, including wall cracking, of lightweight masonry structures to expansive soil movements is described. The simulation of swell and shrink in expansive soils due to changes in soil suction is discussed. The model is capable of reproducing the essential features of the structural response observed in full scale experiments. Simple modeling assumptions and the use of static condensation of the global stiffness equations allow fast solution speeds to be achieved. The soil/structure interaction model is thus suitable for use in sensitivity studies and probabilistic analyses of masonry walls with a wide range of possible structural geometries and crack locations. The model has potential applications for studying the behavior of one or two story structures of masonry veneer, full brick/block, or cavity construction, particularly in a probabilistic framework. Although designed specifically for the simulation of expansive soil movements, the effects of various other sources of foundation deformation such as differential settlement and mine subsidence can also be studied. 
+
+
+    
+        AU - Bryan D. Ewing
+    
+        AU - Mervyn J. Kowalsky
+    
+
+TI - Compressive Behavior of Unconfined and Confined Clay Brick Masonry
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 650-661
+VI - 130
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2004)130:4(650) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28650%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28650%29
+SO - Journal of Structural Engineering 2004-04-01 130(4): 650-661
+AB - Presented in this paper are the results of an investigation of the compressive behavior of grouted clay brick masonry prisms. The objective is to experimentally capture the stress–strain characteristics of unconfined and confined clay brick masonry and compare the response with that predicted with the “modified” Kent–Park stress–strain curve. Based on the experimental results, five limit states for clay brick masonry in compression are proposed, as well as equivalent stress blocks for design. Thin galvanized steel plates placed in the mortar joints during construction provided prism confinement. The variables considered included volumetric ratio of confining steel (0, ∼0.015, and ∼0.03) and the presence of machined holes within the confinement plates to improve the bond between the masonry and steel plate. It is shown that confinement plates are extremely effective in enhancing the ultimate compressive strength as well as increasing the deformation capacity of the clay brick masonry prisms. The use of confinement plates in the test increased the ultimate compression strength by 40%. Failure of the confined masonry prisms occurred simultaneously or immediately after yielding of the confinement plates. Experimentally obtained stress–strain curves agreed reasonably well with the modified Kent–Park model. 
+
+
+    
+        AU - Sıddık Şener
+    
+        AU - Ben I. G. Barr
+    
+        AU - Hadi F. Abusiaf 
+    
+
+TI - Size Effect in Axially Loaded Reinforced Concrete Columns
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 662-670
+VI - 130
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2004)130:4(662) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28662%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28662%29
+SO - Journal of Structural Engineering 2004-04-01 130(4): 662-670
+AB - Test results from a size effect study on axially loaded reinforced concrete columns are presented. The tests specimens were geometrically similar pin-ended concrete columns of different sizes (in the ratio 1:2:4) giving slenderness ratios of 9.7, 18.0, and 34.7. The columns had square cross sections of sides 50, 100, and 200 mm, and varied in length from 0.14 m to 2.08 m. It was observed that for all slenderness ratios, the failure loads exhibited a size effect in which the nominal stress at maximum load (failure load divided by cross-sectional area) decreased as the size was increased. This contradicts the current design codes, which make no allowance for such size effect, and indicates that the failure is governed by fracture mechanics. The results are in good agreement with the size-effect law previously proposed by Bazant. The imperfections introduced by the loading arrangement were analyzed using the Southwell plot method. The test results showed that larger size columns exhibited larger imperfections. 
+
+
+    
+        AU - Hamed M. Salem
+    
+        AU - Koichi Maekawa
+    
+
+TI - Pre- and Postyield Finite Element Method Simulation of Bond of Ribbed Reinforcing Bars
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 671-680
+VI - 130
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2004)130:4(671) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28671%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28671%29
+SO - Journal of Structural Engineering 2004-04-01 130(4): 671-680
+AB - Both elastic and postyielding bond mechanisms between deformed bars and concrete are simulated by means of nonlinear three-dimensional asymmetric finite element analysis. Fine mesh discretization as well as fracture energy-based nonlinear constitutive models of the concrete is adopted in the computations. The degradation in bond due to yielding could be captured and explained by the finite element method results. The mechanics of bond in conventional concrete as well as self-compacting concrete could also be successfully predicted. The bond performance is greatly enhanced in the self-compacting concrete due to the nonexistence of the high porosity layers in the vicinity of bar. The bond behavior of normal strength concrete was found to be reasonably enhanced by adding a powder to the concrete mixture. This is attributed to the reduction of the pores in concrete. The bond behavior of aluminum bar was also successfully predicted confirming the effect of the bar strain on the local bond between concrete and deformed bars. The analysis could also predict the bond deterioration close to the crack or the free surface. 
+
+
+    
+        AU - William R. Parsons
+    
+        AU - Donald A. Bender
+    
+
+TI - Energy-based Design of Dowel Connections in Wood-Plastic Composites Hollow Sections
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 681-689
+VI - 130
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2004)130:4(681) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28681%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28681%29
+SO - Journal of Structural Engineering 2004-04-01 130(4): 681-689
+AB - The goal of this research was to develop a rational method of designing dowel-type connections for hollow wood-plastic composite sections. Models consisting of six controlling yield modes were developed to predict the hollow section connection behavior. The models were validated with double-shear unconstrained bolted connection tests using two wood-plastic composite formulations, three wall thicknesses, and three dowel diameters. The hollow section yield model performed well with an average difference between the theoretical maximum load and tested maximum load of 5.7%. The maximum connection loads were compared to the theoretical load calculated by entering the dowel bearing strength based on maximum load and a bending yield strength based on the stress in the dowel at the displacement of maximum connection load. Proposed design equations for WPC hollow section connection maximum loads were based on maximum dowel bearing strength and the codified 5% diameter offset dowel bending yield strength. 
+
+
+    
+        AU - Bruce F. Maison
+    
+        AU - David Bonowitz
+    
+
+TI - Discussion of “Seismic Performance Evaluation of Pre-Northridge Steel Frame Buildings with Brittle Connections” by Kihak Lee and Douglas A. Foutch
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 690-691
+VI - 130
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2004)130:4(690) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28690%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28690%29
+SO - Journal of Structural Engineering 2004-04-01 130(4): 690-691
+
+
+    
+        AU - Kihak Lee
+    
+        AU - Douglas A. Foutch
+    
+
+TI - Closure to “Seismic Performance Evaluation of Pre-Northridge Steel Frame Buildings with Brittle Connections” by Kihak Lee and Douglas A. Foutch
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 692-692
+VI - 130
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2004)130:4(692) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28692%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28692%29
+SO - Journal of Structural Engineering 2004-04-01 130(4): 692-692
+
+
+TI - Errata for “New Design Rule for Intermediate Transverse Stiffeners Attached on Web Panels” by Sung C. Lee, Chai H. Yoo, and Dong Y. Yoon
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 693-693
+VI - 130
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2004)130:4(693) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28693%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A4%28693%29
+SO - Journal of Structural Engineering 2004-04-01 130(4): 693-693
+
+

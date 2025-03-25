@@ -1,0 +1,511 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Sashi K. Kunnath
+    
+
+TI - EDITOR'S NOTE
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1423-1424
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1423) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281423%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281423%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1423-1424
+
+
+    
+        AU - Xinzhong Chen
+    
+        AU - Ahsan Kareem
+    
+
+TI - Equivalent Static Wind Loads on Buildings: New Model
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1425-1435
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1425) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281425%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281425%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1425-1435
+AB - In current design practice, spatiotemporally varying wind loads on buildings are modeled as equivalent static wind loads. This loading description serves as pivotal information for estimating response under the combined action of wind and other loads. This paper presents a framework for evaluating the equivalent static wind load for any given peak response of buildings with uncoupled responses in the three primary directions. A new description of the background loading based on the gust loading envelope/peak dynamic loading is presented. The resonant loading is expressed in terms of the inertial load following the respective fundamental structural mode. The equivalent static wind loading for the total peak response is then expressed as a linear combination of the background and resonant components. Following this framework, closed-form formulations using an analytical wind loading model are presented. The gust response factors and the equivalent static wind loads for various alongwind response components at different building elevations are discussed in detail highlighting the advantages of the proposed equivalent static loading. The potential high-frequency force balance technique for ascertaining the equivalent static loading on buildings is also revisited. A commentary is presented to highlight the role of mode shape correction, uncertainty in the modeling of wind loads, and contributions of higher modes to background response.
+
+
+    
+        AU - Yunus Dere
+    
+        AU - Elisa D. Sotelino
+    
+
+TI - Modified Iterative Group-Implicit Algorithm for the Dynamic Analysis of Structures
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1436-1444
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1436) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281436%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281436%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1436-1444
+AB - In this work, the convergence characteristics of the iterative group-implicit (IGI) algorithm, which is a parallel algorithm for the time integration of the equations of motion arising in structural dynamics problems, are studied. It is found that the IGI algorithm does not always converge. For realistic structural applications, the time-step size must be limited to impractical values, which jeopardizes its efficiency, thus, defeating its purpose. The modified IGI (MIGI) algorithm is developed to address the convergence handicaps of the IGI algorithm. The new method incorporates new approaches in a number of areas, such as on the interface compatibility enforcement calculation, imbalance force distribution, and interface convergence checks. The convergence characteristics and limitations of the two algorithms are compared. It is found that the performance of the MIGI algorithm is far superior to that of the IGI algorithm. Through the numerical simulation of a practical structural engineering application, it is found that the MIGI algorithm is very efficient and produces highly accurate solutions.
+
+
+    
+        AU - Wendel M. Sebastian
+    
+
+TI - Collapse Considerations and Electrical Analogies  for Statically Indeterminate Structures
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1445-1453
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1445) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281445%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281445%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1445-1453
+AB - It is a commonly held belief that increased levels of statical indeterminacy equip structures with enhanced factors of safety against collapse. This belief is loosely predicated on the idea that statically indeterminate structures can, after localized failure, activate alternative force paths and so can significantly delay overall collapse while continuing to support load. The first part of this paper is in the nature of a review of research into two forms of highly statically indeterminate structure, namely the steel space truss and the reinforced concrete frame, which challenges this received wisdom. This review shows that research published subsequent to the failure of a real space truss has identified factors which render such trusses prone to “premature” collapse, in spite of the inherently high degrees of statical indeterminacy of these structures. Indeed, a key idea identified from this work is that the presence or absence of collapse mechanisms in a truss is not influenced exclusively by the degree of statical indeterminacy of the truss. This idea is shown to lead to the important result that a truss can be statically indeterminate and also a mechanism. Another key result of this work is shown to be that states of self-stress due to this very indeterminacy can actively assist in precipitating (rather than inhibiting) collapse of trusses and frames. The role of member postbuckling behavior in triggering progressive collapse of trusses is also discussed. Anti-collapse schemes, including selective member removal (normally held to be detrimental to structural integrity), are then presented. In the second part of the paper, analogies are drawn between trusses and electrical circuits. It is shown that truss material stiffness is analogous to conductivity, not resistivity, in the circuit. Further, the electrical analogy of a truss inextensional mechanism is shown to exist when parallel capacitor–inductor arrangements satisfying a unique mathematical relationship are present in the circuit. Potential uses of these analogies are stated. It is concluded that care must be exercised in relying on statical indeterminacy to provide fail-safe characteristics, and that future research should focus on optimizing the balance between indeterminacy and stability in structures.
+
+
+    
+        AU - Etienne Fest
+    
+        AU - Kristina Shea
+    
+        AU - Ian F. C. Smith
+    
+
+TI - Active Tensegrity Structure
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1454-1465
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1454) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281454%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281454%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1454-1465
+AB - Most active structures involve direct control of single parameters when there is a closed form relationship between the response required and the control parameter. Building on a previous study of an adjustable structure, this paper describes geometric active control of a reusable tensegrity structure that has been enlarged to five modules with improved connections and is equipped with actuators. Closely coupled strut and cable elements behave nonlinearly (geometrically) even for small movement of the 10 telescopic struts. The control criterion for maintaining the upper surface slope has no closed form relationship with strut movement. The behavior of the structure is studied under 25 load cases. A newly developed stochastic search algorithm successfully identifies good control commands following computation times of up to 1 h. Sequential application of the commands through sets of partial commands helps to avoid exceeding limits during intermediate stages and adds robustness to the system. Reuse of a previously calculated command reduces the response time to less than 1 min. Feasible storage and reuse of such commands confirm the potential for improving performance during service.
+
+
+    
+        AU - Thomas P. Murphy
+    
+        AU - Kevin R. Collins
+    
+
+TI - Retrofitting Suspension Bridges Using Distributed Dampers
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1466-1474
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1466) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281466%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281466%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1466-1474
+AB - Suspension bridges in the Central and Eastern United States (CEUS) were built before recent advances in earthquake engineering, and may be susceptible to seismic ground motions. A retrofit strategy is proposed in which damping devices are distributed throughout the suspended truss structure in order to reduce the bridge response. Six ground motions suites are assembled; three synthetic motion suites representing expected CEUS motions, with special attention paid to the long-period range. The three remaining motions are recordings of actual events. A finite element model of a suspension bridge typical of those found in the CEUS was subjected to the assembled ground motions both in a baseline and retrofitted condition. The proposed retrofit strategy successfully reduced the demands on both the superstructure and substructure of the subject bridge. Specific locations for the damping devices were identified as being especially effective. The inclusion of spatial variations in the input ground motions can have a large effect on the response. The method may be useful for mitigating dynamic responses caused by wind.
+
+
+    
+        AU - Haluk Sucuoğlu
+    
+        AU - Türel Gür
+    
+        AU - M. Selim Günay
+    
+
+TI - Performance-Based Seismic Rehabilitation of Damaged  Reinforced Concrete Buildings
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1475-1486
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1475) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281475%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281475%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1475-1486
+AB - A building stock consisting of 130 medium-rise reinforced concrete buildings were damaged moderately during the recent earthquakes in Turkey. These buildings were rehabilitated by using simple, cost-effective methods where the newly added shear walls comprised the primary lateral load resisting system. In the presented study, different seismic performance evaluation procedures are tested first on the samples of damaged buildings for predicting their observed performances. Then the expected performances of the rehabilitated buildings are evaluated by employing these procedures. It has been found that the nonlinear static procedure is equally successful as the nonlinear dynamic procedure in predicting the observed performances of damaged buildings. The demand-to-capacity ratios obtained from linear spectral procedure are also good indicators of member performances predicted by the nonlinear static procedure. The predicted performance of the rehabilitated buildings evaluated under design excitations revealed that the simple rehabilitation methodology applied systematically should provide life safety under a 475 year seismic hazard. Hence, implementation of the cost effective rehabilitation method presented herein can be suggested as a realistic solution for the vulnerable medium rise concrete buildings in seismic regions.
+
+
+    
+        AU - Jocelyn Paquette
+    
+        AU - Michel Bruneau
+    
+        AU - Svetlana Brzev
+    
+
+TI - Seismic Testing of Repaired Unreinforced Masonry  Building having Flexible Diaphragm
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1487-1496
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1487) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281487%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281487%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1487-1496
+AB - The in-plane rocking behavior of unreinforced masonry walls is generally perceived as a stable desirable behavior. However, there may be instances where the available lateral resistance of such walls would be inadequate. In that perspective, fiberglass strips were applied to damaged unreinforced masonry (URM) shear walls to increase their in-plane lateral load-resisting capacity. This paper reports on the dynamic response and behavior of a full-scale one-story unreinforced brick masonry building specimen having a flexible wood floor diaphragm. The shear walls were damaged in a previous test and repaired with fiberglass strips. The results demonstrate the effectiveness of fiberglass strips in enhancing the in-plane seismic response of URM walls failing in rocking and bed joint sliding mode. The response of the wood diaphragm and its interaction with the shear walls have also been studied. As a consequence of the increased in-plane lateral resistance of URM shear wall, the diaphragm was subjected to larger deformations in the inelastic range. The evaluation of experimental results and the comparison with the existing procedures have revealed that the diaphragm deflections observed experimentally closely matched those predicted using the Federal Emergency Management Agency 356 and Agbabian, Barnes, and Kariotis models.
+
+
+    
+        AU - Peter T. Laursen
+    
+        AU - Jason M. Ingham
+    
+
+TI - Structural Testing of Large-Scale Posttensioned Concrete Masonry Walls
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1497-1505
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1497) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281497%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281497%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1497-1505
+AB - Two unbonded posttensioned concrete masonry (PCM) cantilever walls were subjected to in-plane pseudostatic simulated seismic loading in the Civil Test Hall at the University of Auckland, New Zealand. The 67% scale wall units were designed to model a typical cantilever wall from a 4–5 story high office or apartment building. A detailed account of the wall construction, test setup, testing procedure, and test results are provided in this paper. The principal intent of these wall tests was to validate the use of PCM in a realistic structural configuration. The test units, incorporating reinforced concrete slabs at the intermediate floor levels, were subjected to a realistic moment gradient. Furthermore, the tests explored means of masonry confinement or strengthening that are expected to allow for reliable drift capacities beyond 1%.
+
+
+    
+        AU - Can Balkaya
+    
+        AU - Erol Kalkan
+    
+
+TI - Three-Dimensional Effects on Openings of Laterally Loaded Pierced Shear Walls
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1506-1514
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1506) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281506%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281506%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1506-1514
+AB - Current design provisions comprise broadly described information for the detailing of reinforcement around the openings of pierced shear walls. To address this deficiency, the load capacity and stress distribution around the openings were analyzed by conducting three-dimensional (3D) nonlinear pushover analyses on typical shear wall dominant building structures. The diaphragm flexibility, behavior of transverse walls and slab-wall interaction during the 3D action were investigated in addition to effects of 3D and 2D modeling on the capacity evaluation. An effort was spent to illuminate the significance of different size and location of openings within the pierced walls having variable reinforcement ratios. The results of this study indicated that the stress flow and crack patterns around the openings of the 3D cases were drastically different than those computed for the 2D cases. The tension–compression coupling effects caused by the wall-to-wall and wall-to-slab interactions provided a significant contribution for increasing the global lateral resistance.
+
+
+    
+        AU - Mehmet Inel
+    
+        AU - Mark A. Aschheim
+    
+
+TI - Seismic Design of Columns of Short Bridges Accounting  for Embankment Flexibility
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1515-1528
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1515) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281515%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281515%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1515-1528
+AB - Empirical observations and analysis of the recorded response of two California bridges indicate that the flexibility of the bridge embankments has a significant effect on the displacement demands sustained by the columns of short bridges under seismic excitation. Because the deck and abutments provide a capable load path, the columns only need to maintain gravity load support while accommodating the lateral displacement demands associated with the response of the embankments. This is in contrast to conventional R (or Z) factor approaches, which require the columns to provide substantial lateral resistance and, hence, lead to relatively large diameter columns that have limited displacement capacity. A displacement-based approach to the design of the columns is proposed. Displacement demand is assessed for one or multiple performance objectives using a simple extension of the “N2” model to address the nonlinear response of the embankments. Relative to conventional designs, the smaller diameter columns obtained with this approach have better seismic performance. The columns have a larger displacement capacity and sustain less damage because they have larger yield displacements. The columns also are much less vulnerable to shear failures because of their more slender aspect ratios. Normalized embankment capacity curves are provided, and their use is illustrated with an example.
+
+
+    
+        AU - G. Chen
+    
+        AU - G. Baker
+    
+
+TI - Analytical Model for Predication of Crack Spacing  due to Shrinkage in Concrete Pavements
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1529-1533
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1529) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281529%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281529%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1529-1533
+AB - This paper investigates the minimum and maximum crack spacings in concrete pavements from the energy viewpoint and explores mechanisms that control spacing. An analytical model, which is composed of two cohesive cracks and an elastic bar restrained by distributed elastic springs, is proposed as an idealization of the cracking pattern in the concrete. By varying the length of the elastic bar of the analytical model, the tensile forces acting on the cohesive cracks and the energy profiles are investigated. It is demonstrated that the cracking pattern varies with the length of the elastic bar (i.e., the spacing between the two possible cracks), from which the minimum and maximum crack spacings are obtained. Numerical analyses are made of a model pavement and the results indicate that it is the energy minimization principle that governs the cracking pattern. The practical spacings evaluated by numerical analyses fall within the minimum and maximum crack spacings given by the practical observation.
+
+
+    
+        AU - C. Y. Tang
+    
+        AU - K. H. Tan
+    
+
+TI - Interactive Mechanical Model for Shear Strength of Deep Beams
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1534-1544
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1534) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281534%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281534%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1534-1544
+AB - The current American Concrete Institute code states that the nominal shear strength Vn of a reinforced concrete deep beam consists of the concrete contribution Vc and shear reinforcement contribution Vs, i.e., Vn=Vc+Vs. In this paper, however, a very different yet original approach is presented. The method is based on strut-and-tie approach, with the effect of transverse tensile stresses on concrete compressive strength of the diagonal strut properly accounted for. Two common failure modes, namely, diagonal splitting and concrete crushing, are examined in the paper. Premature failures such as shear tension failure (due to insufficient anchorage of main longitudinal reinforcement) and bearing failures are not considered. The resistance to diagonal splitting is mainly provided by the main and shear reinforcement. Additional resistance from concrete tensile strength is included in the analysis. The resistance to crushing of concrete is contributed by the concrete compressive strength. Ultimate shear strengths of deep beams are governed by both the transverse tensile stresses perpendicular to the diagonal strut, and the compressive stresses in the diagonal strut, resulting in an interaction between the two failure modes. Predictions by the proposed modal are compared with experimental results and other established calculation methods. Generally, the predictions are not only accurate and consistent in each case study, but also conservative.
+
+
+    
+        AU - Ravi Kumar Sharma
+    
+        AU - Savita Maru
+    
+        AU - A. K. Nagpal
+    
+
+TI - Simplified Procedure for Creep and Shrinkage Effects  in Reinforced Concrete Frames
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1545-1552
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1545) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281545%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281545%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1545-1552
+AB - This paper describes a simplified procedure for evaluation of creep and shrinkage effects in reinforced concrete frames having low shear beam stiffness. In this procedure the inelastic axial forces, which get generated progressively with time in various substructures, are assumed to arise only at an instant time. The procedure designated as AP2, is much more simplified than the recently developed consistent procedure (CP), which is highly elaborate. This procedure yields more accurate results than the procedure already available in literature, AP1, for frames with low shear stiffness of beams. Studies are reported for a range of chosen typical creep parameters for 40-, 60-, and 80-storied frames and for chosen values of shear stiffness of beam as a nondimensional parameter–stiffness factor. It is shown that for a given accuracy the range of stiffness factor for which AP2 is to be used is much higher than that for AP1. The estimate of the stiffness factor beyond which the use of CP is warranted is also indicated.
+
+
+    
+        AU - Richard M. Gutkowski
+    
+        AU - Kevin Brown
+    
+        AU - Abdalla Shigidi
+    
+        AU - Julius Natterer
+    
+
+TI - Investigation of Notched Composite  Wood–Concrete Connections
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1553-1561
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1553) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281553%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281553%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1553-1561
+AB - An initial stage of research on the feasibility of a composite concrete–wood commercial floors system is described. The floors are comprised of concrete placed atop a solid layer of dimension lumber. A notched shear key/anchor detail is used for interlayer connection. This connection detail transfers interlayer force by bearing adjacent materials in the notch. The anchor serves to tighten the layers after curing of the concrete. Initial testing included pull-out tests on the anchor and interlayer slip tests to define the geometry of the connection detail. Test results indicated the structural merit of the connection concept compared to the use of ordinary mechanical connectors.
+
+
+    
+        AU - Z. W. Guan
+    
+        AU - E. C. Zhu
+    
+
+TI - Nonlinear Finite Element Modeling of Crack Behavior  in Oriented Strand Board Webbed Wood I-Beams  with Openings
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1562-1569
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1562) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281562%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281562%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1562-1569
+AB - Openings are necessary in oriented strand board webbed wood I-joists to allow electrical wires/service pipes pass through their webs. Sizes and locations of the opening are variable, which could be crucial in some circumstances. There is a high possibility that crack will grow in high stress/strain areas, especially in tension corners of large size openings with square or rectangular shapes. In this paper, nonlinear three-dimensional finite element models, incorporating with orthotropic elastic and perfectly elasto–plastic material behavior, were developed to simulate crack growth in a beam with openings until it collapses. Removal (model change) techniques in ABAQUS were used, by which elements were removed when they reached a critical level of stress (strain). Finite element simulations were compared with the corresponding experimental results in terms of failure modes and load–deflection relationships. Reasonably good correlation was obtained. Beams with different dimensions and opening sizes were studied and validated. Using validated finite element models, parametric studies were undertaken to cover both circular and square openings with different sizes. Critical opening sizes were discussed.
+
+
+    
+        AU - Chun Qing Li
+    
+
+TI - Reliability Based Service Life Prediction of Corrosion  Affected Concrete Structures
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1570-1577
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1570) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281570%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281570%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1570-1577
+AB - A review of the most recently published literature suggests that the prediction of service life of corrosion affected concrete structures remains at the stage of parametric studies, in spite of intensive research on reinforcement corrosion in concrete structures for the past three decades or so. The intention of this paper is to present a performance-based methodology for service life prediction of corrosion affected concrete structures and apply it to flexural members in marine environments. Reliability methods are employed to determine the time period for each phase of service life. It is found that corrosion induced concrete cracking would occur in reinforced concrete flexural members at about 18% of its total service life, and that, once reinforced concrete flexural members become unserviceable due to corrosion induced excessive deflection, there is about 13% of the service life remaining before the structures finally become unsafe. It is concluded that the methodology presented in this paper can serve as a rational tool for decisionmakers with regard to repairs and strengthening of corrosion affected concrete structures. Accurate prediction of each phase of service life of corrosion affected structures can assist structural engineers and asset managers in achieving a cost-effective strategy in the management of reinforced concrete infrastructures.
+
+
+    
+        AU - Yoshiaki Goto
+    
+        AU - Naoki Kawanishi
+    
+
+TI - Analysis to Predict Long-Term Mechanical Performance of Steel Structures with Histories of Corrosion and Repair
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1578-1585
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1578) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281578%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281578%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1578-1585
+AB - A structural analytical method is developed in order to evaluate the long-term mechanical performance of steel structures by taking into account the effects of the histories of corrosion loss of material and repair. This method is characterized by the point that the volume change in material due to corrosion or repair is adopted as a new controlling parameter along with the conventional parameters such as load and displacement. With this new parameter, the change of the stress and deformations of structures by the corrosion loss of material and past repair can be accurately predicted. By making use of the proposed method, we examine how the seismic behaviors of the repaired bridges are influenced by the difference of the repair methods.
+
+
+    
+        AU - L. Gardner
+    
+        AU - D. A. Nethercot
+    
+
+TI - Numerical Modeling of Stainless Steel Structural Components—A Consistent Approach
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1586-1601
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1586) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281586%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281586%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1586-1601
+AB - This paper describes numerical modeling of the structural response of stainless steel hollow sections. The aim of the investigation was to develop a consistent approach to the modeling of stainless steel structures. The developed finite element models are more sophisticated than any other reported attempts to model stainless steel structural behavior, with general expressions defined for material stress–strain behavior, enhanced strength corner properties, initial geometric imperfection modes, and amplitudes (local and global), and residual stresses. The general expressions define a consistent means of describing the key input parameters. A compound (two-stage) Ramberg–Osgood model is developed to describe stainless steel material stress–strain behavior in tension and compression. For the prediction of enhanced strength corner properties, a simple, though accurate model is proposed. Characterization of local plate imperfection amplitudes is described whereby a model originally devised for hot-rolled carbon steel cross sections was recalibrated and applied to stainless steel cross sections. Numerical prediction of the key performance measures from tests is achieved with a high degree of accuracy: On average, ultimate load was predicted to within 3% and with a low standard deviation; deformation at ultimate load was within 6%, but exhibited a higher standard deviation; and the general form of the load–deformation response and the failure modes were similar.
+
+
+    
+        AU - M. R. Bambach
+    
+        AU - K. J. R. Rasmussen
+    
+
+TI - Tests of Unstiffened Plate Elements Under Combined Compression and Bending
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1602-1610
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1602) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281602%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281602%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1602-1610
+AB - Details of a dual-actuator rig developed for testing rectangular plates simply supported on three sides, with the remaining (longitudinal) edge free, under combined uniaxial compression and in-plane bending are presented. Particular attention is given to ensuring a constant strain eccentricity to the loaded ends, as opposed to a constant load eccentricity, in order to determine the postbuckling behavior and ultimate load and moment capacities of unstiffened thin-walled elements. Strain gradients varying from pure compression to pure bending are facilitated.
+
+
+    
+        AU - M. R. Bambach
+    
+        AU - K. J. R. Rasmussen
+    
+
+TI - Effective Widths of Unstiffened Elements  with Stress Gradient
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1611-1619
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1611) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281611%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281611%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1611-1619
+AB - Current American design provisions treat unstiffened elements under stress gradients as if they were uniformly compressed for effective width calculations. Australian, British, and European design provisions allow accurate calculation of the elastic buckling coefficient, however, the same effective width equation for compressed elements is used for elements with stress gradients. In all cases, the design provisions produce conservative bending capacities for sections containing unstiffened elements under stress gradients. This paper presents a design method for calculating the effective width of these elements, based on plate test results of unstiffened elements under strain gradients varying from pure compression to pure bending. It is shown that both elastic and plastic effective widths may be derived from the test results, and effective width methods based on both principles may be used for design.
+
+
+    
+        AU - M. R. Bambach
+    
+        AU - K. J. R. Rasmussen
+    
+
+TI - Design Provisions for Sections Containing  Unstiffened Elements with Stress Gradient
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1620-1628
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1620) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281620%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281620%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1620-1628
+AB - This paper presents a general design procedure for calculating the moment capacity of sections containing unstiffened elements with stress gradient. The method uses design equations for effective widths of unstiffened elements with stress gradients based on plate test results. Current international design provisions allow the capacity of sections that contain stiffened elements with stress gradients to be calculated on the basis of inelastic reserve capacity, whereas sections that contain unstiffened elements must be designed on the basis of initiation of yielding in the section. This paper presents methods for the calculation of the capacity where inelastic reserve capacity may be taken into account, for sections containing fully effective unstiffened elements with stress gradient. The methods are shown to be in good agreement with experimental data of I-sections and plain channels in minor axis bending. Particular attention is given to the effect of both the elastic buckling coefficient used in the effective width method, and the use of inelastic considerations, on the bending capacity. Specific design proposals are presented in the form of amendments to the current American and Australian standards for cold-formed steel structures, for elements (effective width equations) and sections in bending (inelastic reserve capacity equations).
+
+
+    
+        AU - Panitan Lukkunaprasit
+    
+        AU - Jatupon Thepmangkorn
+    
+
+TI - Load History Effect on Cyclic Behavior of Reinforced Concrete Tied Columns
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1629-1633
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1629) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281629%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281629%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1629-1633
+AB - The effect of two commonly used load histories on the ductility and energy dissipation capacity of reinforced concrete tied columns is presented. Based on regression analyses of the test results reported in the literature, the effective confinement steel ratio is shown to provide a good correlation with the performance indexes studied. The parameters accounted for include the amount of transverse reinforcement, the axial load level, and the effectiveness of the tie configurations. For moderate values of the effective confinement steel ratio, load history with increments of two times the yield displacement is slightly more severe than that with one yield displacement increments. The limited data available indicate that the effect of load history tends to be less significant for higher values of the effective confinement steel ratio.
+
+
+    
+        AU - Sundaramoorthy Rajasekaran
+    
+        AU - K. Nalinaa
+    
+
+TI - Discussion of “Neural Network Modeling of Confined Compressive Strength and Strain of Circular Concrete Columns” by Andres W. C. Oreta and Kuzuhiko Kawashima
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1634-1635
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1634) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281634%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281634%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1634-1635
+
+
+    
+        AU - Andres W. C. Oreta
+    
+
+TI - Closure to “Neural Network Modeling of  Confined Compressive Strength and Strain  of Circular Concrete Columns” by Andres  W. C. Oreta and Kazuhiko Kawashima
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1635-1635
+VI - 130
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2004)130:10(1635) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281635%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A10%281635%29
+SO - Journal of Structural Engineering 2004-10-01 130(10): 1635-1635
+
+

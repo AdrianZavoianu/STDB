@@ -1,0 +1,399 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Arthur H. Nilson
+    
+        AU - Albert R. Ammar
+    
+
+TI - Finite Element Analysis of Metal Deck Shear Diaphragms
+PT - Journal Article
+DP - 1974
+TA - Journal of the Structural Division
+PG - 711-726
+VI - 100
+IP - 4
+AID - 10.1061/JSDEAG.0003752 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003752
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003752
+SO - Journal of the Structural Division 1974-04-01 100(4): 711-726
+AB - A special adaptation of the finite element method provides a basis for the analysis of shear diaphragms composed of light gage steel panels. The panels, perimeter beams, purlins, and connectors are chosen as the basic elements, and their mechanical properties established. They are then incorporated as parts of an analytical model using matrix methods. The predictions of analysis are compared with experimental results.
+
+
+    
+        AU - John L. Dawe
+    
+        AU - Geoffrey L. Kulak
+    
+
+TI - Welded Connections under Combined Shear and Moment
+PT - Journal Article
+DP - 1974
+TA - Journal of the Structural Division
+PG - 727-741
+VI - 100
+IP - 4
+AID - 10.1061/JSDEAG.0003753 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003753
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003753
+SO - Journal of the Structural Division 1974-04-01 100(4): 727-741
+AB - An analytical method is developed for predicting the ultimate strength of eccentrically loaded fillet weld connections not free to deform in the compression zone. The method uses the true load-deformation response of the welds rather than some idealized one. The validity of the approach has been verified by a testing program using 16 full-size specimens. Comparison of the ultimate strength obtained by this method with allowable loads calculated assuming elastic behavior shows that the resulting factor of safety is both high and inconsistent.
+
+
+    
+        AU - Garrison Kost
+    
+        AU - William Weaver
+    
+        AU - Russell B. Barber
+    
+
+TI - Nonlinear Dynamic Analysis of Frames with Filler Panels
+PT - Journal Article
+DP - 1974
+TA - Journal of the Structural Division
+PG - 743-757
+VI - 100
+IP - 4
+AID - 10.1061/JSDEAG.0003754 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003754
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003754
+SO - Journal of the Structural Division 1974-04-01 100(4): 743-757
+AB - The bond between filler panels and a building frame is often destroyed by shrinkage or poor construction techniques, causing small gaps that open and close during ground motions. An analytical model and a computer program were developed for nonlinear dynamic analyses of plane frames with filler panels having such gaps at the sides and tops of the panels. Beams and columns of the frame were represented by plane-frame elements. Filler panels were modeled by rectangular finite elements having various nodal displacement patterns. Criteria were devised for monitoring the opening and closing of gaps, and a procedure is described for modification of the stiffness matrix upon closing and opening of the gaps. Sample problems show that the presence of small gaps between frames and filler panels can significantly affect the dynamic responses of structures subjected to ground motions.
+
+
+    
+        AU - Warren H. Bower
+    
+
+TI - Lateral Analysis of Plywood Diaphragms
+PT - Journal Article
+DP - 1974
+TA - Journal of the Structural Division
+PG - 759-772
+VI - 100
+IP - 4
+AID - 10.1061/JSDEAG.0003755 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003755
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003755
+SO - Journal of the Structural Division 1974-04-01 100(4): 759-772
+AB - To properly analyze a plywood diaphragm, the diaphragm must be considered flexible, and structural elements that interfere with its deflection must be considered. The presently published formula for plywood diaphragm deflection is only applicable for midspan of a simple rectangular diaphragm with uniform load and uniform nailing. A method is presented for calculating diaphragm deflection of any point with any pattern of loading, including concentrated loads, and with any variation of diaphragm shape or nail spacing.
+
+
+    
+        AU - John F. Wiss
+    
+        AU - Richard A. Parmelee
+    
+
+TI - Human Perception of Transient Vibrations
+PT - Journal Article
+DP - 1974
+TA - Journal of the Structural Division
+PG - 773-787
+VI - 100
+IP - 4
+AID - 10.1061/JSDEAG.0003756 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003756
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003756
+SO - Journal of the Structural Division 1974-04-01 100(4): 773-787
+AB - An experimental investigation was conducted to study human perception of transient vertical vibrations in terms of their frequency, maximum displacement, and damping. A portion of the testing program consisted of undamped vibrations, and the response data were compared with the results of past research. Multiple regression analyses of the test data yield simple equations for predicting the human perception of either damped or undamped vertical vibrations.
+
+
+    
+        AU - H. Max Irvine
+    
+
+TI - Torsional Analysis of Boxgirder Suspension Bridges
+PT - Journal Article
+DP - 1974
+TA - Journal of the Structural Division
+PG - 789-812
+VI - 100
+IP - 4
+AID - 10.1061/JSDEAG.0003757 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003757
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003757
+SO - Journal of the Structural Division 1974-04-01 100(4): 789-812
+AB - Theories are presented for the static torsional analysis of the single-span box-girder suspension bridge. The box-girder deck is chosen because of its current popularity and because of the simplicity of its torque-twist relation. An elastic theory is developed and then extended to a deflection theory. It is shown that the torsional elastic theory is usually inadequate in predicting the bridge's behavior under torsional live loading and that recourse should always be made to the torsional deflection theory which is not intrinsically more difficult. This torsional deflection theory provides a natural complement to the classic flexural deflection theory in which the deck is assumed to behave purely in flexure. Three examples are given to show that the torsional analysis is governed primarily by two characteristic dimensionless parameters. These are the relative torsional stiffness parameter (of deck and cables), the parameter involving cable geometry and elasticity, and the torsional stiffness of the towers.
+
+
+    
+        AU - Dennis H. Parr
+    
+        AU - Samuel P. Maggard
+    
+
+TI - Closure to “Ultimate Design of Hollow Thin-Walled Box Girders”
+PT - Journal Article
+DP - 1974
+TA - Journal of the Structural Division
+PG - 815-815
+VI - 100
+IP - 4
+AID - 10.1061/JSDEAG.0003758 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003758
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003758
+SO - Journal of the Structural Division 1974-04-01 100(4): 815-815
+
+
+    
+        AU - Richard N. White
+    
+        AU - Myle J. Holley
+    
+
+TI - Closure to “Experimental Studies of Membrane Shear Transfer”
+PT - Journal Article
+DP - 1974
+TA - Journal of the Structural Division
+PG - 816-818
+VI - 100
+IP - 4
+AID - 10.1061/JSDEAG.0003759 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003759
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003759
+SO - Journal of the Structural Division 1974-04-01 100(4): 816-818
+
+
+    
+        AU - Natarajan Annamalai
+    
+        AU - Albert D. M. Lewis
+    
+        AU - John E. Goldberg
+    
+
+TI - Closure to “Cost Optimization of Welded Plate Girders”
+PT - Journal Article
+DP - 1974
+TA - Journal of the Structural Division
+PG - 819-819
+VI - 100
+IP - 4
+AID - 10.1061/JSDEAG.0003760 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003760
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003760
+SO - Journal of the Structural Division 1974-04-01 100(4): 819-819
+
+
+    
+        AU - Ian K. Lee
+    
+        AU - Peter T. Brown
+    
+
+TI - Closure to “Structure-Foundation Interaction Analysis”
+PT - Journal Article
+DP - 1974
+TA - Journal of the Structural Division
+PG - 820-820
+VI - 100
+IP - 4
+AID - 10.1061/JSDEAG.0003761 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003761
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003761
+SO - Journal of the Structural Division 1974-04-01 100(4): 820-820
+
+
+    
+        AU - C. M. Kamath
+    
+
+TI - Discussion of “Fire Resistance of Unprotected Steel Columns”
+PT - Journal Article
+DP - 1974
+TA - Journal of the Structural Division
+PG - 821-821
+VI - 100
+IP - 4
+AID - 10.1061/JSDEAG.0003762 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003762
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003762
+SO - Journal of the Structural Division 1974-04-01 100(4): 821-821
+
+
+    
+        AU - William P. Dawkins
+    
+
+TI - Discussion of “Finite Element for Reinforced Concrete Frame Study”
+PT - Journal Article
+DP - 1974
+TA - Journal of the Structural Division
+PG - 822-824
+VI - 100
+IP - 4
+AID - 10.1061/JSDEAG.0003764 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003764
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003764
+SO - Journal of the Structural Division 1974-04-01 100(4): 822-824
+
+
+    
+        AU - John B. Scalzi
+    
+
+TI - Discussion of “How Safe are Your Poles?”
+PT - Journal Article
+DP - 1974
+TA - Journal of the Structural Division
+PG - 824-825
+VI - 100
+IP - 4
+AID - 10.1061/JSDEAG.0003765 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003765
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003765
+SO - Journal of the Structural Division 1974-04-01 100(4): 824-825
+
+
+    
+        AU - H. Kardestuncer
+    
+
+TI - Discussion of “Evaluation of Computer Charging Policies”
+PT - Journal Article
+DP - 1974
+TA - Journal of the Structural Division
+PG - 826-826
+VI - 100
+IP - 4
+AID - 10.1061/JSDEAG.0003766 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003766
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003766
+SO - Journal of the Structural Division 1974-04-01 100(4): 826-826
+
+
+    
+        AU - H. T. Solanki
+    
+
+TI - Discussion of “Test of Concrete Columns in Torsion”
+PT - Journal Article
+DP - 1974
+TA - Journal of the Structural Division
+PG - 827-828
+VI - 100
+IP - 4
+AID - 10.1061/JSDEAG.0003767 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003767
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003767
+SO - Journal of the Structural Division 1974-04-01 100(4): 827-828
+
+
+    
+        AU - Anil K. Kar
+    
+
+TI - Discussion of “Solution of Linear Equations—State-of-the-Art”
+PT - Journal Article
+DP - 1974
+TA - Journal of the Structural Division
+PG - 828-829
+VI - 100
+IP - 4
+AID - 10.1061/JSDEAG.0003768 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003768
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003768
+SO - Journal of the Structural Division 1974-04-01 100(4): 828-829
+
+
+    
+        AU - Thomas C. Kavanagh
+    
+
+TI - Discussion of “Deck-Stiffened Arch Bridges of Robert Maillart”
+PT - Journal Article
+DP - 1974
+TA - Journal of the Structural Division
+PG - 829-832
+VI - 100
+IP - 4
+AID - 10.1061/JSDEAG.0003769 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003769
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003769
+SO - Journal of the Structural Division 1974-04-01 100(4): 829-832
+
+
+    
+        AU - Thomas R. Kuesel
+    
+
+TI - Discussion of “Deck-Stiffened Arch Bridges of Robert Maillart”
+PT - Journal Article
+DP - 1974
+TA - Journal of the Structural Division
+PG - 832-834
+VI - 100
+IP - 4
+AID - 10.1061/JSDEAG.0003770 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003770
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003770
+SO - Journal of the Structural Division 1974-04-01 100(4): 832-834
+
+
+    
+        AU - Alan I. Soler
+    
+        AU - Hooshang Afshari
+    
+
+TI - Transverse Elastic Buckling of Plane Pipe Gridworks
+PT - Journal Article
+DP - 1974
+TA - Journal of the Structural Division
+PG - 837-842
+VI - 100
+IP - 4
+AID - 10.1061/JSDEAG.0003771 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003771
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003771
+SO - Journal of the Structural Division 1974-04-01 100(4): 837-842
+AB - This note presents an approximate solution for predicting the buckling load factor for an orthogonal gridwork that is valid for arbitrary spacings and distribution of material and geometric properties. The Rayleigh-Ritz procedure is employed to reduce the problem to a solution of an eigenvalue problem. In addition, a procedure for combining computed Euler buckling load factors with semi-empirical buckling formulas for individual grid members is suggested.
+
+
+    
+        AU - Simon F. Ng
+    
+        AU - Garnesh G. Kulkarni
+    
+
+TI - Empirical Frequency Analysis of Bridge Deck Slabs
+PT - Journal Article
+DP - 1974
+TA - Journal of the Structural Division
+PG - 842-848
+VI - 100
+IP - 4
+AID - 10.1061/JSDEAG.0003772 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003772
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003772
+SO - Journal of the Structural Division 1974-04-01 100(4): 842-848
+AB - For the purpose of bridge design it is often convenient to know empirical relationships among various parameters such as natural frequencies, mode shapes, and impact factors under live loads. Availability of these empirical relationships would serve a useful purpose in commencing, checking, or finalizing results in dynamic analysis. It is the purpose of this note to present a formulation applicable to isotropic slab bridges and compare the results with those computed using other methods. After comparing the frequency parameters, it is believed that the empirical relationship derived can be successfully used for obtaining frequencies of vibrations sufficiently accurate for all practical design purposes.
+
+
+    
+        AU -  
+    
+
+TI - Erratum for “The Shear Strength of Reinforced Concrete Members”
+PT - Journal Article
+DP - 1974
+TA - Journal of the Structural Division
+PG - 821-822
+VI - 100
+IP - 4
+AID - 10.1061/JSDEAG.0003763 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003763
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003763
+SO - Journal of the Structural Division 1974-04-01 100(4): 821-822
+
+

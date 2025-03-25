@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Lucian Stefan
+    
+        AU - Pierre Léger
+    
+
+TI - Multicriteria Capacity Envelopes for Biaxial Bending of Concrete Hydraulic Structures
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 1035-1043
+VI - 136
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000205 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000205
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000205
+SO - Journal of Structural Engineering 2010-09-01 136(9): 1035-1043
+AB - Envelopes for biaxial bending capacity of reinforced concrete elements are used extensively in design or in structural safety evaluation to verify the adequacy of internal force resultants from series of axial 
+P
+ and bending moments 
+
+
+Mx
+
+
+ and 
+
+
+My
+
+
+ loading pairs computed for prescribed load combinations. However, existing methods to construct 
+
+P-
+Mx
+-
+My
+
+
+ (PMM) interaction curves are not appropriate for concrete hydraulic structures because (1) pressurized water could penetrate in cracks leading to a coupled hydromechanical problem and (2) the structural performance is assessed using several criteria related to the allowable cracked area as well as allowable compressive (tensile) stresses for usual, unusual, and extreme load combinations. This paper presents a methodology to construct PMM interaction curves for arbitrary cross sections of hydraulic structures considering multiperformance criteria, water penetration in cracks, as well as the presence of reinforcing steel. The computations are based on a robust and efficient isogonic approach based on strength of materials where the position of the neutral axis is systematically varied over the cross section to find PMM equilibrium solutions. Four application examples of the proposed approach are presented (1) to illustrate its versatility, (2) to validate the results, and (3) to show its convergence properties. In some cases, PMM capacity envelopes are formed by distinct closed surfaces where equilibrium solutions are possible. This type of PMM capacity envelope, which the proposed algorithm is able to construct, is not found for classical reinforced concrete elements.
+
+
+    
+        AU - Tae-Sung Eom
+    
+        AU - Hong-Gun Park
+    
+
+TI - Elongation of Reinforced Concrete Members Subjected to Cyclic Loading
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 1044-1054
+VI - 136
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000201 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000201
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000201
+SO - Journal of Structural Engineering 2010-09-01 136(9): 1044-1054
+AB - Longitudinal elongation develops in reinforced concrete members that exhibit flexural yielding during cyclic loading. The longitudinal elongation can decrease the shear strength and deformation capacity of the members. In the present study, nonlinear truss model analysis was performed to study the elongation mechanism of reinforced concrete beams and the effects of various design variables on the elongation. The results showed that residual tensile plastic strain of the longitudinal reinforcement in the plastic hinge is the primary factor causing the member elongation and that the shear-force transfer mechanism of diagonal concrete struts has a substantial effect on the magnitude of the elongation. Based on the elongation mechanism found by truss model analysis, a simplified method for evaluating member elongation was developed. The proposed method was applied to test specimens with various design parameters and loading conditions.
+
+
+    
+        AU - Zhi-Qi He
+    
+        AU - Zhao Liu
+    
+
+TI - Stresses in External and Internal Unbonded Tendons: Unified Methodology and Design Equations
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 1055-1065
+VI - 136
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000202 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000202
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000202
+SO - Journal of Structural Engineering 2010-09-01 136(9): 1055-1065
+AB - A unified methodology is proposed to compute the tendon stresses in externally prestressed beams in elastic and ultimate states, and practical design equations are developed to predict the ultimate tendon stresses. Previous test results have shown that there is an almost linear relationship between the tendon stress increment and the beam midspan deflection in both elastic and inelastic ranges. The key point is to seek this relationship and then the prediction of the tendon stress increment is transferred to the problem of calculating the beam midspan deflection. The second-order effect of external tendons is included in this deformation compatibility based analysis. Moreover, reasonable simplifications are made to establish practical design equations for the prediction of the ultimate tendon stress. The proposed equations are shown to be able to account for most of the important variables and result in good agreement with test data. It is shown that the ultimate stress increment is mainly dependent on the tendon eccentricity and the neutral axis depth, and the second-order effect can be reasonably taken into account using the stress and depth reduction factors.
+
+
+    
+        AU - Brad D. Weldon
+    
+        AU - Yahya C. Kurama
+    
+
+TI - Experimental Evaluation of Posttensioned Precast Concrete Coupling Beams
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 1066-1077
+VI - 136
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000212 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000212
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000212
+SO - Journal of Structural Engineering 2010-09-01 136(9): 1066-1077
+AB - This paper describes the results from eight half-scale experiments of unbonded posttensioned precast concrete coupling beams under reversed-cyclic lateral loading. Each test specimen includes a coupling beam and the adjacent concrete wall pier regions at a floor level. Under lateral loads, the nonlinear displacements of unbonded posttensioned coupling beams are governed by the opening of gaps at the beam-to-wall joints. Steel top and seat angles are used at the beam ends to yield and provide energy dissipation. The test parameters include the beam posttensioning tendon area and initial stress, initial beam concrete axial stress, angle strength, and beam depth. The results demonstrate the lateral stiffness, strength, and ductility of the coupling beams under cyclic loading, with considerable energy dissipation concentrated in the angles. It is shown that the residual displacements of the structure upon unloading are small due to the restoring effect of the posttensioning force. The sustained chord rotation capacities of the test specimens are compared with those from previous tests of monolithic coupling beams.
+
+
+    
+        AU - Min-Yuan Cheng
+    
+        AU - Gustavo J. Parra-Montesinos
+    
+        AU - Carol K. Shield
+    
+
+TI - Shear Strength and Drift Capacity of Fiber-Reinforced Concrete Slab-Column Connections Subjected to Biaxial Displacements
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 1078-1088
+VI - 136
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000213 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000213
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000213
+SO - Journal of Structural Engineering 2010-09-01 136(9): 1078-1088
+AB - Results from the tests of three large-scale slab-column subassemblies subjected to combined gravity load and biaxial lateral displacements are presented. The main purpose of the experimental program was to investigate the use of randomly oriented steel fiber reinforcement as a means to increase connection punching shear strength and deformation capacity. The connection of Specimen SB1 was reinforced with regular strength (1,100 MPa) fibers, 30 mm long and 0.55 mm in diameter, while the connection of Specimen SB2 featured high-strength (2,300 MPa) fibers, 30 mm long and 0.38 mm in diameter. Both types of fibers were targeted at a 1.5% volume fraction. The connection of Specimen SB3, on the other hand, was reinforced with shear studs, designed according to the 2008 American Concrete Institute Building Code. All three connections were subjected to a gravity shear ratio of approximately 1/2 during application of biaxial lateral displacements. The use of fiber reinforcement in the connection region resulted in superior deformation capacity compared to the connection with shear stud reinforcement. Average connection rotation, just before punching, was approximately 0.04 rad in the two fiber-reinforced concrete connections. On the other hand, shear stud reinforcement seems to have had little effect on connection ductility. The connection with shear stud reinforcement failed at an average rotation of 0.023 rad. Inspection of this connection after the test indicated a breakout failure of the concrete engaged by the second line of studs accompanied by severe bending of the bottom steel rail.
+
+
+    
+        AU - E. Minaie
+    
+        AU - M. Mota
+    
+        AU - F. L. Moon
+    
+        AU - A. A. Hamid
+    
+
+TI - In-Plane Behavior of Partially Grouted Reinforced Concrete Masonry Shear Walls
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 1089-1097
+VI - 136
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000206 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000206
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000206
+SO - Journal of Structural Engineering 2010-09-01 136(9): 1089-1097
+AB - The objectives of this research were to experimentally establish the in-plane behavior of partially grouted (PG) reinforced concrete masonry shear walls and to assess the appropriateness of current seismic design provisions for such walls. To accomplish these, four PG special reinforced masonry shear walls (SRMSWs) were constructed based on the provisions of the Masonry Standards Joint Committee (MSJC) code and subjected to in-plane reversed cyclic displacements. The experimental test variables included mortar formulation, level of axial stress, and boundary conditions. The results of this study indicate that PG masonry shear walls respond similar to in-filled frames and provide little coupling between vertical reinforcing steels. Using these results along with those from past research, it is shown that the shear strength expression for reinforced masonry shear walls provided by MSJC (along with others) appears unconservative for PG masonry shear walls. In terms of displacement ductility, the results indicate that the response of PG SRMSW is consistent with the 
+R
+ factors provided by the 2006 International Building Code due to the required capacity design and increased shear demand provisions of the MSJC.
+
+
+    
+        AU - Xudong Shao
+    
+        AU - Haolei Wang
+    
+        AU - Hua Zhao
+    
+        AU - Ying Chang
+    
+
+TI - Experimental Study on Multicantilever Prestressed Composite Beams with Corrugated Steel Webs
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 1098-1110
+VI - 136
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000204 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000204
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000204
+SO - Journal of Structural Engineering 2010-09-01 136(9): 1098-1110
+AB - An experimental study was carried out to investigate the behavior of a new type multicantilever prestressed composite beams with corrugated steel webs (CBCW). The main mechanical performances of CBCW, such as efficiency of prestressing, creep and shrinkage of concrete slab, load distribution, and load-carrying capacity were focused on in this study. One scaled test specimen was constructed and tested. Based on strain measurements, stress in test specimen and load distribution factor were analyzed using theories of elasticity and plasticity. The bending resistance of specimen was also obtained. The test results indicate that the use of CBCW improves the prestressing efficiency and crack resistance capacity of CBCW. It also reveals that the CBCW has better ductility than the conventional system. In addition to the experimental study, new methods for analyzing the effect of creep and shrinkage, load distribution, and bending resistance capacity of CBCW are proposed. The proposed method gives satisfactory predictions in comparison with the test results.
+
+
+    
+        AU - Young-Ju Kim
+    
+        AU - In-Yong Jung
+    
+        AU - Young-Kyu Ju
+    
+        AU - Soon-Jeon Park
+    
+        AU - Sang-Dae Kim
+    
+
+TI - Cyclic Behavior of Diagrid Nodes with 
+H
+-Section Braces
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 1111-1122
+VI - 136
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000203 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000203
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000203
+SO - Journal of Structural Engineering 2010-09-01 136(9): 1111-1122
+AB - In recent years, the number of tall buildings being constructed has been rapidly increasing worldwide. Some buildings have been constructed with triangular exterior structural members, known as diagrid systems, which have been developed for structural effectiveness and architectural aesthetics. Although more buildings with diagrid systems have been proposed and have been entered in design competitions, few studies have been carried out on the behavior of diagrid systems or diagrid nodes. Most important, the fabrication of diagrid nodes has been very difficult due to the relatively complex geometry and costly connections of the diagrid system. In this study, a new type of diagrid structural system node was proposed and tested cyclically for lateral loads such as earthquake and wind. Based on the test results, the cyclic performance for diagrid nodes is discussed with an emphasis on the hysteresis characteristics, welding methods, and failure modes.
+
+
+    
+        AU - Reynaud Serrette
+    
+
+TI - Seismic Design Strength of Cold-Formed Steel-Framed Shear Walls
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 1123-1130
+VI - 136
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000207 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000207
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000207
+SO - Journal of Structural Engineering 2010-09-01 136(9): 1123-1130
+AB - A method for estimating the available strength level (load and resistance factor design) seismic resistance of light-frame cold-formed steel shear walls is discussed. The proposed method attempts to account for the early onset of inelastic behavior in light-frame shear walls by evaluating the strength level resistance in terms of an equivalent shear wall yield strength. Application of the proposed method is illustrated using shear wall data from an independent test program and wall performance is compared to current light-frame bearing wall design requirements and expected system performance. It is shown that the proposed method results in design values that are generally conservative compared to current design recommendations and the overall performance of the tested walls is characterized using five parameters that relate common design strength and displacement quantities.
+
+
+    
+        AU - B. Belletti
+    
+        AU - A. Gasperi
+    
+
+TI - Behavior of Prestressed Steel Beams
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 1131-1139
+VI - 136
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000208 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000208
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000208
+SO - Journal of Structural Engineering 2010-09-01 136(9): 1131-1139
+AB - This paper reports on the behavior of simply supported (I-shaped cross section) steel beams prestressed by tendons. It is well known that this typology of beams has successfully been used mainly in the past. Prestressed steel beams are lighter than traditional ones that have the same length and vertical load capacity; this aspect could make them economically advantageous and a viable solution in many practical situations. This paper analyzes prestressed steel beams having a medium span ranging from 35 to 45 m and which are to be used as roof structural elements. This study focuses on two parameters that are considered two of the fundamental items for the design: the number of deviators and the value of the prestressing force. This study has been carried out with nonlinear finite-element analyses that take into account both mechanical and geometrical nonlinearities. In particular, the behavior of these beams has been investigated up to failure during tensioning and during loading (after tensioning). The effect on the structural response of bracing, which can be only at the top flange of the beams or at the top and bottom flanges of the beams, also has been considered.
+
+
+    
+        AU - Dimitrios G. Lignos
+    
+        AU - Dimitrios Kolios
+    
+        AU - Eduardo Miranda
+    
+
+TI - Fragility Assessment of Reduced Beam Section Moment Connections
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 1140-1150
+VI - 136
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000214 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000214
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000214
+SO - Journal of Structural Engineering 2010-09-01 136(9): 1140-1150
+AB - This paper presents fragility functions to estimate the probability of reaching or exceeding different damage states in reduced beam section (RBS) beam-to-column moment connections of steel moment resisting frames. The fragility functions are developed using results from 71 experimental tests that have been conducted on RBS connections during the past 14 years. The main sources of uncertainty considered are specimen-to-specimen variability of the interstory drifts associated with the various damage states and the epistemic uncertainty arising from using a limited number of experimental data and from interpreting experimental results. Quantitative measures for each of these two kinds of uncertainty were developed using statistical procedures. For a given peak interstory drift ratio the fragility functions developed herein permit the estimation of the probability of experiencing five different levels of damage in RBS moment connections.
+
+
+    
+        AU - Naiyu Wang
+    
+        AU - Bruce R. Ellingwood
+    
+        AU - Abdul-Hamid Zureick
+    
+
+TI - Reliability-Based Evaluation of Flexural Members Strengthened with Externally Bonded Fiber-Reinforced Polymer Composites
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 1151-1160
+VI - 136
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000199 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000199
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000199
+SO - Journal of Structural Engineering 2010-09-01 136(9): 1151-1160
+AB - Structural applications of carbon fiber-reinforced polymer (FRP) composites in civil infrastructure rehabilitation projects are receiving increasing interest due primarily to their high strength-weight ratio, resistance to aggressive environments, and other favorable properties that can be used to advantage in civil projects. Structural design and evaluation in civil engineering applications are distinguished by their reliance on codes of practice and on advanced analysis in lieu of component testing. The current lack of supporting codes, standards, and other regulatory guidance is a barrier to the implementation of high-performance FRP materials in civil construction. Experience over the past three decades in developing probability-based limit state design criteria for common construction materials points the way forward for making similar advances in guidelines for design and evaluation of structural components and systems that employ FRP composite materials. This paper summarizes some of the available tools and supporting databases that can be used to develop reliability-based guidelines for design and evaluation of FRP composites in civil construction and illustrates their application with several practical examples involving strengthening reinforced concrete flexural members.
+
+
+    
+        AU - David O. Prevatt
+    
+        AU - Bo Cui
+    
+
+TI - Wind Tunnel Studies on Sawtooth and Monosloped Roofs
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 1161-1171
+VI - 136
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000200 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000200
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000200
+SO - Journal of Structural Engineering 2010-09-01 136(9): 1161-1171
+AB - Wind tunnel studies were conducted on 1:100 scale building models of monosloped and several (two- through five-span) sawtooth roof buildings to determine appropriate peak and area-averaged wind pressure coefficients. The results showed that the peak negative pressure coefficients in the high corner regions of monosloped roof buildings are nearly equal to the high corner peak negative pressure coefficients on the windward span (Span A) of the sawtooth roof building, and as expected, low corner zone peak negative pressure coefficients on sawtooth roofs are greater (approximately 150%) than on monosloped roofs. The peak negative coefficients were in general agreement with the earlier wind tunnel study used to develop American wind load design standards, and they suggested that the Australian wind design standard may underestimate the peak loads for moderately sloped (around 20°) sawtooth roofs. Preliminary analyses of the data suggest that current ASCE 7 wind design provisions for monosloped roof buildings may underestimate the high corner design wind pressure. However, this may be offset by a more rapid decrease in area-averaged peak pressure coefficients with increasing tributary areas than was previously observed in the earlier studies.
+
+
+    
+        AU - Ioannis Zisis
+    
+        AU - Ted Stathopoulos
+    
+
+TI - Wind-Induced Pressures on Patio Covers
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 1172-1181
+VI - 136
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000210 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000210
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000210
+SO - Journal of Structural Engineering 2010-09-01 136(9): 1172-1181
+AB - A wind tunnel study has been carried out to assess wind loads on patio covers attached to low-rise buildings. A 1:100 geometric scale building and patio cover model was constructed and tested for open exposure conditions. The patio cover model was instrumented with pressure taps on both top and bottom surfaces, allowing the simultaneous measurement of wind pressure/suction on each side of the patio cover. The effect of building/patio height was considered by testing three different model configurations. Local surface and net wind pressure and force coefficients are presented for each model configuration. Correlation analysis was carried out to demonstrate how wind flow on the top and bottom of the patio cover affects the total wind load. The findings are also compared to the limited design guidelines derived by current building codes. Finally, recommendations for design wind load standards and codes of practice are made.
+
+
+    
+        AU - Zhi-hao Wang
+    
+        AU - Zheng-qing Chen
+    
+
+TI - Discussion of “Quantitative Comparison of Optimization Approaches for the Design of Supplemental Damping in Earthquake Engineering Practice” by Robert Levy and Oren Lavan
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 1182-1183
+VI - 136
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000113 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000113
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000113
+SO - Journal of Structural Engineering 2010-09-01 136(9): 1182-1183
+
+
+    
+        AU - Robert Levy
+    
+        AU - Oren Lavan
+    
+
+TI - Closure to “Quantitative Comparison of Optimization Approaches for the Design of Supplemental Damping in Earthquake Engineering Practice” by Robert Levy and Oren Lavan
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 1183-1184
+VI - 136
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000242 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000242
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000242
+SO - Journal of Structural Engineering 2010-09-01 136(9): 1183-1184
+
+

@@ -1,0 +1,389 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Piyali Sengupta
+    
+        AU - Bing Li
+    
+
+TI - Hysteresis Behavior of Reinforced Concrete Walls
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014030
+VI - 140
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000927 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000927
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000927
+SO - Journal of Structural Engineering 2014-07-01 140(7): 04014030
+AB - Reinforced concrete walls are the primary lateral load-resisting systems in numerous multistory buildings and nuclear structures located in seismically active regions. Hence, hysteresis behavior prediction of structural walls is of utmost importance in the context of seismic analysis and design. A hysteresis model of reinforced concrete walls, capable of producing requisite structural degradation and pinching characteristics, has been proposed in this research on the basis of the Bouc-Wen-Baber-Noori model. The Livermore solver for ordinary differential equations (LSODE) and genetic algorithms have been used for solving the differential equations and identifying the analytical parameters associated with the model, respectively. A database of wall specimens tested under cyclic loading has been accumulated from literature to successfully calibrate the analytical response with the experimental results. Subsequently, the relationship between the structural features and the model parameters is resolved based on the wall database by regression analysis. Moreover, to facilitate structural analysis of wall-dominant buildings using the proposed approach, the hysteresis model has been effectively implemented as a user element in the form of a pair of diagonal springs in ABAQUS.
+
+
+    
+        AU - Abdullah Al Mamun
+    
+        AU - G. Doudak
+    
+        AU - Chun Ni
+    
+        AU - Mohammad Mohammad
+    
+
+TI - Performance Evaluation of Midply and Standard Corner Joints of Wood Portal Frames
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014031
+VI - 140
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000971 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000971
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000971
+SO - Journal of Structural Engineering 2014-07-01 140(7): 04014031
+AB - Experimental results to determine the moment-resisting capacity of wood portal frame corner joints are presented in this paper. Two types of corner joints (standard and MIDPLY) were tested with different configurations. An L-shaped corner joint including a narrow braced wall segment and header was used as a test specimen. A total of 37 corner joints were tested. Test results showed that the installation of metal strap or the adding of exterior oriented strand board (OSB) sheathing, while using high-density wood product (LVL, LSL) as header increased the moment-resisting capacity of corner joints. Furthermore, the MIDPLY corner joint had higher moment capacity than the standard corner joint. The moment-carrying capacity of corner joints could be further increased by applying fiber-reinforced polymer (FRP) on top of exterior OSB sheathing. A detailed finite element (FE) model of a corner joint is presented. The FE model predictions correlated well with the experimental results.
+
+
+    
+        AU - Yongchao Yang
+    
+        AU - Satish Nagarajaiah
+    
+
+TI - Data Compression of Structural Seismic Responses via Principled Independent Component Analysis
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014032
+VI - 140
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000946 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000946
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000946
+SO - Journal of Structural Engineering 2014-07-01 140(7): 04014032
+AB - This paper proposes a novel lossy data compression scheme for structural seismic responses based on principled (truncated) independent component analysis (PICA). It is first shown that independent component analysis (ICA) is able to transform a multivariate data set into a sparse representation space where is optimal for coding and compression, such that both the intradependencies and interdependencies (i.e.,&nbsp;redundant information) between the multichannel data are removed for efficient data compression. Two examples are presented to demonstrate the compression performance of PICA, using the real-measured structural seismic responses from the 1994 Northridge earthquake, of the Fire Command Control (FCC) building and the USC hospital building, respectively. It is compared with the popular wavelet transform coding technique, which is only able to handle single-channel data separately. Results show that PICA achieves dramatically higher compression ratio (CR) than the wavelet method while retaining excellent reconstruction accuracy. It is also shown that PICA slightly outperforms the (principled) principal component analysis (PCA) method—which used to be considered optimal multivariate data compression scheme—with respect to both CR and reconstruction accuracy. Equipped with the FastICA algorithm that enjoys a cubic convergence rate, PICA has potential for rapid and reliable data transfer, communication (e.g.,&nbsp;multihop wireless sensor network), storage, and retrieval in online or post-disaster (e.g.,&nbsp;earthquake) monitoring and assessment applications of civil infrastructures.
+
+
+    
+        AU - M. Omar Amini
+    
+        AU - John W. van de Lindt
+    
+
+TI - Quantitative Insight into Rational Tornado Design Wind Speeds for Residential Wood-Frame Structures Using Fragility Approach
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014033
+VI - 140
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000914 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000914
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000914
+SO - Journal of Structural Engineering 2014-07-01 140(7): 04014033
+AB - Tornadoes are an extremely devastating natural hazard that have significant consequences but are currently not considered in the structural design codes due to their low probability of occurrence. These low-occurrence high-consequence events have been studied but not to the extent of other natural hazards. This paper presents the results of a study whose objective was to provide quantitative insight into a rational design wind speed for tornadoes considering the current state-of-practice in construction methods. Five archetype buildings were selected to be representative of the typical residential structure design space in tornado-prone regions of the United States. Wind analysis was performed using the ASCE standard loading in combination with modification factors for tornadic winds developed from the available literature. Fragilities were developed for the main components along the vertical load path that included roof sheathing and roof-to-wall connection. Then, system fragilities for the combined load path of these two potential failure modes were formulated as a series system. The results of the fragility analysis were compared with the Enhanced Fujita (EF) scale ratings for residential construction and were then used to identify which critical component had a greater effect on system performance. Finally, it was concluded that, if proper foundation anchorage is provided, it is possible to design a residential wood-frame structure for winds from an EF1 tornado, possibly an EF2, but not an EF3, using conventional construction methods including hurricane clips.
+
+
+    
+        AU - Ahmed M. El-Kholy
+    
+        AU - Usama A. Morsy
+    
+        AU - Sherif A. Mourad
+    
+
+TI - Imperfection Modeling Using Finite Element Approach with Particular Discretization
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014034
+VI - 140
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000950 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000950
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000950
+SO - Journal of Structural Engineering 2014-07-01 140(7): 04014034
+AB - The research reported in this paper presents an attempt to improve the modeling of imperfections in steel structures using a finite-element approach with particular discretization. This approach, termed the modified finite-element beta method (MFEM-β), is an improvement of a finite-element scheme that can handle displacement discontinuity. In MFEM-β, a multilinear isotropic hardening model is implemented, a random imperfection procedure is proposed, and a modified failure treatment is adopted. The paper reviews the progression of the original scheme, presents the proposed imperfection procedure, and uses the results of two experimental tests to demonstrate the imperfection effect on the failure of a uniaxailly elongated steel plate and to validate MFEM-β. The proposed method simulates the boundary and internal imperfections, and controls the intensity and distribution of the imperfections using six input parameters to randomly assign the imperfections to the numerical model. Showing an advance over the original scheme, the predicted stress and strain distributions of an imperfect cylinder under pressure are realistic. The predicted crack-path and failure load for an elongated imperfect steel plate match well with the experimental results.
+
+
+    
+        AU - D. H. Bondok
+    
+        AU - H. A. Salim
+    
+
+TI - Numerical Modeling of Conventional Steel Stud Walls’ Static Resistance for Blast Response Predictions
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014035
+VI - 140
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000968 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000968
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000968
+SO - Journal of Structural Engineering 2014-07-01 140(7): 04014035
+AB - Several experimental studies were conducted to evaluate the energy-absorption capacity of conventional and nonconventional cold-formed steel (CFS) stud walls for blast resistance. Recently, experiments were performed to investigate the effect of minor modifications to conventional walls to enhance their performance to resist relatively moderate blast threats without significantly affecting the cost. However, to investigate all possible design parameters experimentally can be costly. Therefore, this paper focused on developing a reliable nonlinear numerical model that predicted the resistance of conventional walls. The model was verified using experimental data to validate its ability to simulate the resistance and toughness of the walls under various parameters, such as the end condition type, the utility holes, stud thickness, and screw sizes and layouts. The numerical model accurately predicted the various details of the static response through all stages of loading that characterize the resistance and the toughness. Hence, the developed numerical model can be utilized to investigate the resistance of steel stud walls for blast modeling and design under various stud, track, connection details, and wall configurations.
+
+
+    
+        AU - Amr A. Nassr
+    
+        AU - A. Ghani Razaqpur
+    
+        AU - Michael J. Tait
+    
+        AU - Manuel Campidelli
+    
+        AU - Simon Foo
+    
+
+TI - Dynamic Response of Steel Columns Subjected to Blast Loading
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014036
+VI - 140
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000920 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000920
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000920
+SO - Journal of Structural Engineering 2014-07-01 140(7): 04014036
+AB - In this study, 13 typical wide-flange steel columns, each carrying an axial load equal to 25% of its axial capacity, are field tested using live explosives, involving charge size of 50 to 250&nbsp;kg of ammonium nitrate/fuel oil (ANFO) and ground stand-off distance of 7.0 to 10.3&nbsp;m. The reflected pressure time histories, time-dependent displacements, accelerations, and strains of the columns are measured, and their postblast damages and failure modes are reported. Maximum deformations, vibration periods, strain-rate, and contributing modes in the dynamic response of the columns are compared to those of companion steel beams (without axial load) tested in the same setup. Results show that columns that exhibit elastic response, due to the elongation of the column vibration period caused by the axial load, the lateral deformation caused by blast load is reduced rather than magnified by the axial load. The axial-bending interaction, or P-δ effect, may be neglected for steel columns with axial load up to 25% of their axial capacity, provided the column response remains within the elastic range—but if it crosses into the plastic range, the interaction cannot be ignored.
+
+
+    
+        AU - Carmine Galasso
+    
+        AU - Giuseppe Maddaloni
+    
+        AU - Edoardo Cosenza
+    
+
+TI - Uncertainly Analysis of Flexural Overstrength for Capacity Design of RC Beams
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014037
+VI - 140
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0001024 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001024
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001024
+SO - Journal of Structural Engineering 2014-07-01 140(7): 04014037
+AB - To ensure an overall ductile structural behavior, the reinforcing steel used in the seismic design of reinforced concrete (RC) structures is governed by certain specific requirements given in many international codes, such as the Eurocodes and the recently released Italian Building Code (IBC). This study’s primary focus is the statistical analysis of reinforcing steel properties, based on data from over 600 material tests. The data sets considered include a wide range of reinforcing steel bars (from 12 to 26&nbsp;mm) provided by different Italian industries and used for a large structure built in Naples (Southern Italy). The test results are analyzed to determine the appropriate cumulative distribution function for yield and ultimate strengths, as well as the ultimate deformation, and other statistical parameters of interest as defined in the codes. The comparison with previous tests confirms an improvement in the quality of materials, as reflected in reduced variability and increased bias factors, consistent with other investigators’ recent findings. Finally, this study investigates the flexural overstrength of RC beams designed according to the current IBC—consistent with Eurocodes—and the accuracy of code requirements in light of realistic material models both for concrete and reinforcing steel and of uncertainties associated with mechanical models, structural members geometry, and material properties (as obtained in this study for reinforcing steel). The obtained results show that code provisions do not seem conservative and provide a basis for an improved calibration of future editions of seismic design codes for buildings.
+
+
+    
+        AU - M. R. LeBorgne
+    
+        AU - W. M. Ghannoum
+    
+
+TI - Analytical Element for Simulating Lateral-Strength Degradation in Reinforced Concrete Columns and Other Frame Members
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014038
+VI - 140
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000925 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000925
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000925
+SO - Journal of Structural Engineering 2014-07-01 140(7): 04014038
+AB - An analytical element is proposed that is capable of simulating the lateral-strength degradation behavior of frame members subjected to seismic loading up to severe loss in lateral strength. Although element capabilities allow simulating the behavior of a wide range of frame members exhibiting loss of lateral strength, they were developed with the behavior of shear-critical reinforced concrete columns in mind. The element consists of a zero-length shear spring that connects in series with a beam-column flexural element. The proposed element can dynamically monitor beam-column elements for user-defined limiting forces and flexural deformations, and initiate degradation when either is reached. Upon initiation of degradation, the material model governing the behavior of the zero-length shear spring changes its constitutive properties to include pinching, strength degradation, and stiffness degradation. Cycle-, energy-, and displacement-based damage accumulation methods were implemented to provide users with the necessary tools to model a variety of frame members. A novel flexural-deformation compensation algorithm was implemented in the element that automatically adjusts the shear-spring stiffness and backbone curve such that a symmetric member response is achieved. The versatile element is shown to possess the necessary capabilities to simulate the nonlinear shear behavior and strength degradation of select reinforced concrete columns with only a limited number of parameters calibrated.
+
+
+    
+        AU - Francisco Sena Cardoso
+    
+        AU - Kim J. R. Rasmussen
+    
+
+TI - Behavior and Design of Concentrically Loaded T-Section Steel Columns
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014039
+VI - 140
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000969 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000969
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000969
+SO - Journal of Structural Engineering 2014-07-01 140(7): 04014039
+AB - The buckling behavior of T-section columns is discussed in detail, followed by a numerical study using geometric and material nonlinear analyses (GMNIA) to produce column strengths for a wide range of geometries of T-sections and column lengths. The T-sections are assumed to be hot-rolled and include residual stresses and geometric imperfections typical of hot-rolled sections. On the basis of the numerical strengths thus produced and the available test strengths for T-section columns, the design provisions of the Australian, European, and American specifications for hot-rolled steel structures are evaluated. It is shown that the Australian standard provides fairly consistent and accurate predictions of strength. However, the design provisions for T-sections of current European and American specifications are conservative and associated with large variability, particularly for T-sections with slender elements. The paper recommends modifications to the European and American specifications that improve the design strength predictions of these specifications for T-section columns.
+
+
+    
+        AU - Max Stephens
+    
+        AU - Peter Dusicka
+    
+
+TI - Continuously Stiffened Composite Web Shear Links: Tests and Numerical Model Validation
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014040
+VI - 140
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000996 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000996
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000996
+SO - Journal of Structural Engineering 2014-07-01 140(7): 04014040
+AB - Experiments were carried out on shear links with webs made from two metal sheets vulcanized to an elastomeric core to investigate the concept of utilizing continuous web stiffening as means of enhancing the hysteretic behavior. The links were designed for the same nominal strengths and were subjected to increasing cyclic deformations. Two different link aspect ratios were considered with two different core thicknesses. The composite web increased the maximum strength and postbuckling capacity of deep shear links dominated by elastic buckling, but the links were not able to achieve the link plastic shear capacity. Although the use of the elastomer core increased the out-of-plane stiffness of the web, the failure mode was still characterized by web tearing caused by localized regions of reversing out-of-plane buckling zones. Performance expectations were exceeded by an unstiffened base link that achieved the American Institute of Steel Construction (AISC) deformation requirement with minimal strength degradation. Results from the experimental analysis were used to develop and validate a numerical model.
+
+
+    
+        AU - Elaina Jennings
+    
+        AU - John W. van de Lindt
+    
+
+TI - Numerical Retrofit Study of Light-Frame Wood Buildings Using Shape Memory Alloy Devices as Seismic Response Modification Devices
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014041
+VI - 140
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000953 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000953
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000953
+SO - Journal of Structural Engineering 2014-07-01 140(7): 04014041
+AB - Woodframe buildings have historically performed well during earthquakes primarily because of their high strength/stiffness to weight ratio. Even still, these structures possess the potential for significant damage and even collapse when exposed to very large earthquakes. New design techniques and advanced technologies can provide an alternative for improved building performance. The use of dampers and other seismic response modification devices is one such method being explored in earthquake engineering. In this paper, shape memory alloy (SMA) devices are investigated for the response modification of light-frame wood buildings during strong earthquakes. A numerical model for a suite of SMA wood shearwalls is developed based on existing data. The numerical models of the shearwalls are examined using incremental dynamic analysis at the single wall level. Design charts are developed for the shearwall models for a range of seismic weights and targeted performance levels. The wall database is then used to demonstrate retrofit of a four-story apartment building. The interstory drift was reduced by over 55% when SMA devices are used for response modification of the four-story apartment building.
+
+
+    
+        AU - Amin Ghali
+    
+        AU - Ramez B. Gayed
+    
+
+TI - Sustainable Serviceability of Structural Concrete: Control of Deflection and Cracking
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014042
+VI - 140
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000965 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000965
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000965
+SO - Journal of Structural Engineering 2014-07-01 140(7): 04014042
+AB - Modern structures must be designed for satisfactory serviceability over a long lifespan: 100 years or more. The camber or the deflection must not be excessive during the design lifespan. The present paper concerns the state-of-the-art technology on prediction of the most probable long-term deflection.
+
+
+    
+        AU - Vincenzo Giamundo
+    
+        AU - Gian Piero Lignola
+    
+        AU - Andrea Prota
+    
+        AU - Gaetano Manfredi
+    
+
+TI - Analytical Evaluation of FRP Wrapping Effectiveness in Restraining Reinforcement Bar Buckling
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014043
+VI - 140
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000985 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000985
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000985
+SO - Journal of Structural Engineering 2014-07-01 140(7): 04014043
+AB - Internal transverse steel reinforcements (e.g.,&nbsp;stirrups) are the main internal devices that prevent the longitudinal steel bar buckling, but in many existing reinforced concrete (RC) structures the amount and the spacing between steel stirrups are inadequate. In these structures, longitudinal bar buckling can be prevented by applying external reinforcement, in particular, by means of fiber-reinforced polymer (FRP) wrapping. A novel analytical approach for the study of longitudinal bar buckling in columns wrapped with FRP is proposed. Longitudinal bars have been considered as axially loaded beams, whereas the mechanical effect of FRP wrapping on the bars has been modeled by means of springs. The effect of elastic and inelastic behavior has been taken into account by means of the reduced modulus theory. The well-known relations for steel stirrups have been revisited in the case of FRP wrapping to propose an analytical formulation, valid both for circular and noncircular cross sections of columns, for the evaluation of the FRP thickness needed to prevent the longitudinal bar buckling.
+
+
+    
+        AU - Liang-Jiu Jia
+    
+        AU - Tsuyoshi Koyama
+    
+        AU - Hitoshi Kuwamura
+    
+
+TI - Experimental and Numerical Study of Postbuckling Ductile Fracture of Heat-Treated SHS Stub Columns
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014044
+VI - 140
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0001056 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001056
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001056
+SO - Journal of Structural Engineering 2014-07-01 140(7): 04014044
+AB - Previous studies have proposed a cyclic ductile fracture model by applying the void growth model and an established rule in incremental form, in which only a monotonic tensile coupon test is required to calibrate the parameters of the fracture model and the corresponding plasticity models. The model parameters were deduced from small-scale hourglass steel coupons, but not from large-scale specimens. In practice, however, ductile fracture after the occurrence of local buckling has been observed in steel members during recent huge earthquakes. This paper aims to establish a simulation method for the postbuckling cracking process on the basis of formerly proposed fracture and plasticity models. Experimental results demonstrate that the ultimate behaviors of heat-treated square hollow section (SHS) stub columns associated with plate buckling and ductile fracture under cyclic loading can be simulated with favorable accuracy.
+
+
+    
+        AU - Ioannis Koutromanos
+    
+        AU - P. Benson Shing
+    
+
+TI - Numerical Study of Masonry-Infilled RC Frames Retrofitted with ECC Overlays
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014045
+VI - 140
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000934 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000934
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000934
+SO - Journal of Structural Engineering 2014-07-01 140(7): 04014045
+AB - This paper presents a nonlinear finite-element modeling method to evaluate the seismic performance of reinforced concrete (RC) frames that have unreinforced masonry infill walls retrofitted with engineered cementitious composite (ECC) overlays. The method has been validated by results of shake-table tests conducted on a 2/3-scale, three-story, two-bay, infilled frame. Results of a numerical study conducted with the validated model have provided further insight into the performance of a structure retrofitted with this technique. A simplified analytical method to assess the shear capacity of an ECC overlay and determine the number and size of shear dowels required to prevent dowel failure has been proposed to ensure a more ductile behavior of the retrofitted structure. Results have shown that the performance of a retrofitted system can be greatly improved by preventing dowel failure so that the benefit of the ductile inelastic behavior of the ECC can be fully exploited. Furthermore, methods to estimate and account for the influence of the construction sequence and material creep on the distribution of gravity loads between the RC columns and infill walls in a finite-element model are presented.
+
+
+    
+        AU - Hassan Moghimi
+    
+        AU - Robert G. Driver
+    
+
+TI - Beam Design Force Demands in Steel Plate Shear Walls with Simple Boundary Frame Connections
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014046
+VI - 140
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000993 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000993
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000993
+SO - Journal of Structural Engineering 2014-07-01 140(7): 04014046
+AB - Where simple beam-to-column connections are used in the boundary frame of a steel plate shear wall and the tension fields in the infill plates are assumed to be uniform and at the yield stress for capacity design, the moment and shear force distributions in each beam are statically determinate, while the axial force distribution is highly indeterminate and depends on several contributing factors. In this paper, in addition to quantifying appropriate moment and shear force distributions for use in design, a simple but powerful analysis method is presented for evaluating the beam’s axial force demand. The method is based on the principle of capacity design and nonlinear finite element simulations of wall systems with different numbers of stories, infill plate aspect ratios and thicknesses, and lateral load distributions. The axial force demands are highly dependent on the mechanism of load transfer to the system from the floor and roof diaphragms and the shear force distribution in the compression column. The various components of shear force demand on the beams of the system are also studied, and it is shown that the net shear forces on an intermediate beam depend on the pattern of yield progression in the infill plates above and below. A method for determining appropriate design moment and shear values is proposed for the case where the same infill plate thickness is used above and below an intermediate beam. The methods presented for moment, shear, and axial force determination are verified against experimental results for a two-story steel plate shear wall with simple bolted double-angle beam-to-column connections.
+
+
+    
+        AU - Arvind Y. Vyavahare
+    
+        AU - L. M. Gupta
+    
+
+TI - Discussion of “Empirical Model of the Moment-Rotation Curve of Beam-to-Beam Bolted Flush Endplate Connections” by M. R. Mohamadi-Shooreh, M. Mofid, and S. L. McCabe
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 07014002
+VI - 140
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0001000 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001000
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001000
+SO - Journal of Structural Engineering 2014-07-01 140(7): 07014002
+
+

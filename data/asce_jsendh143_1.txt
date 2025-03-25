@@ -1,0 +1,367 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Yi Bao
+    
+        AU - Yizheng Chen
+    
+        AU - Matthew S. Hoehler
+    
+        AU - Christopher M. Smith
+    
+        AU - Matthew Bundy
+    
+        AU - Genda Chen
+    
+
+TI - Experimental Analysis of Steel Beams Subjected to Fire Enhanced by Brillouin Scattering-Based Fiber Optic Sensor Data
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016143
+VI - 143
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001617 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001617
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001617
+SO - Journal of Structural Engineering 2017-01-01 143(1): 04016143
+AB - This paper presents high temperature measurements using a Brillouin scattering-based fiber optic sensor and the application of the measured temperatures and building code recommended material parameters into enhanced thermomechanical analysis of simply supported steel beams subjected to combined thermal and mechanical loading. The distributed temperature sensor captures detailed, nonuniform temperature distributions that are compared locally with thermocouple measurements with less than 4.7% average difference at 95% confidence level. The simulated strains and deflections are validated using measurements from a second distributed fiber optic (strain) sensor and two linear potentiometers, respectively. The results demonstrate that the temperature-dependent material properties specified in the four investigated building codes lead to strain predictions with less than 13% average error at 95% confidence level and that the Europe building code provided the best predictions. However, the implicit consideration of creep in Europe is insufficient when the beam temperature exceeds 800°C.
+
+
+    
+        AU - Cristian Cruz
+    
+        AU - Eduardo Miranda
+    
+
+TI - Evaluation of Damping Ratios for the Seismic Analysis of Tall Buildings
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016144
+VI - 143
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001628 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001628
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001628
+SO - Journal of Structural Engineering 2017-01-01 143(1): 04016144
+AB - This paper examines damping ratios in tall buildings in California inferred from motions recorded in instrumented buildings during earthquake motions. A total of 41 measured seismic responses from 14 buildings with 20 or more stories are analyzed using a parametric least-squares system identification technique in the time domain. The reliability of the inferred damping ratios is first examined based on the sensitivity of the structural response to variations in modal damping ratios. Using only inferred damping ratios deemed reliable, it is found that the damping ratios of the fundamental mode decrease with increasing building height, reaching values lower than 2.5%—the damping value that is commonly recommended for seismic design in the United States for buildings taller than 150&nbsp;m. The variation of damping of higher modes with frequency is then examined by studying the results of those buildings where damping ratios of at least the first three modes are reliably inferred. It is shown that the variation of damping with frequency follows an approximately linear trend. No evidence was found to suggest that a mass-proportional model could be appropriate. The amplitude dependency of damping is then analyzed for buildings having four or more recorded earthquakes, finding no statistical correlation between the peak roof drift ratio and the identified fundamental damping ratio.
+
+
+    
+        AU - Paolo Clemente
+    
+        AU - Fernando Saitta
+    
+
+TI - Analysis of No-Tension Material Arch Bridges with Finite Compression Strength
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016145
+VI - 143
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001627 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001627
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001627
+SO - Journal of Structural Engineering 2017-01-01 143(1): 04016145
+AB - The mechanism method, based on the particularization of limit design to masonry structures proposed by Heyman, is certainly a very suitable procedure for the analysis of no-tension material arches, especially because of its simplicity. The literature largely treats the method under the hypothesis of infinite compressive strength of the material, whereas fewer studies are devoted to finite compression strength. In this paper the latter case is revisited with reference to masonry arch bridges, assuming a rigid-perfect plastic model for the material and using a nondimensional formulation. In this way, results are derived and discussed for a wide range of parameters. The results are compared with those obtained using Heyman’s hypotheses.
+
+
+    
+        AU - Yuguang Yang
+    
+        AU - Joost Walraven
+    
+        AU - Joop den Uijl
+    
+
+TI - Shear Behavior of Reinforced Concrete Beams without Transverse Reinforcement Based on Critical Shear Displacement
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016146
+VI - 143
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001608 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001608
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001608
+SO - Journal of Structural Engineering 2017-01-01 143(1): 04016146
+AB - This paper presents a new concept to evaluate the shear capacity of reinforced concrete beams without shear reinforcement having flexural shear failure. Based on experimental observations, it is proposed that the opening of the critical inclined crack can be considered as the lower bound for the shear capacity of a structural member. It is also proposed that the unstable opening of the critical inclined crack is triggered when the shear displacement in an existing flexural crack reaches a critical value Δcr. Thus the critical shear displacement is used as a failure criterion, and based on that a new shear evaluation method is proposed. The method shows agreeable accuracy when compared with test results in literature.
+
+
+    
+        AU - C. Yang
+    
+        AU - S. Tangaramvong
+    
+        AU - F. Tin-Loi
+    
+        AU - W. Gao
+    
+
+TI - Influence of Interval Uncertainty on the Behavior of Geometrically Nonlinear Elastoplastic Structures
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016147
+VI - 143
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001618 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001618
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001618
+SO - Journal of Structural Engineering 2017-01-01 143(1): 04016147
+AB - This paper proposes an interval analysis scheme to map out the complete bound spectrum of the most maximum and most minimum responses of geometrically nonlinear elastoplastic structures subjected to both interval applied loads and interval inelastic material properties. The proposed heuristic method uses a finite-step holonomic formulation under pseudodisplacement control. Geometric nonlinearity is modeled using a conventional second-order approximation. The analysis thus determines directly the most maximum and most minimum bound solutions by processing a pair of optimization problems, known as interval mathematical programs with equilibrium constraints or interval MPECs. The simultaneous presence of complementarity constraints and interval data is the main cause of difficulties (associated with nonconvex and/or nonsmooth optimization programs) underpinning the interval MPECs considered. The simple solution approach proposed reformulates the interval MPECs into their noninterval nonlinear programming counterparts that can be processed by a smoothing regularization technique. The efficiency and robustness of the proposed interval analysis scheme are illustrated through a number of numerical examples motivated by various engineering applications, such as the safety assessment of multistory frames that are prone to geometric nonlinearity and interval uncertainties.
+
+
+    
+        AU - Xinxin Zhang
+    
+        AU - Xinzhong Chen
+    
+
+TI - Refined Process Upcrossing Rate Approach for Estimating Probabilistic Wind Load Effects with Consideration of Directionality
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016148
+VI - 143
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001625 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001625
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001625
+SO - Journal of Structural Engineering 2017-01-01 143(1): 04016148
+AB - The process upcrossing rate approach remains one of the most popular methods for the estimation of probabilistic wind load effect with consideration of directionality. The accuracy of this approach depends on the adequacy of the parent distribution of directional mean wind speed. The widely used Weibull distribution has been proved to be inadequate in capturing the characteristics of strong wind speed region, thus leading to unsatisfactory estimations when adopted in the process upcrossing rate approach. This study introduces a new mixed distribution model for the parent distribution of mean wind speed in order to provide a better modeling of distribution for strong wind speed region. Within this mixed model, the distribution below a prescribed wind speed threshold is given by an empirical distribution estimated from the observation data directly, whereas above the threshold, it is described in terms of the generalized Pareto distribution (GPD). The performance of the mixed distribution model is examined in estimating the yearly maximum distributions of wind speeds in each direction and regardless of direction. It is further investigated in estimating the wind load effects of buildings with consideration of directionality effect. The uncertainty of wind load effect at a given wind speed and direction is further accounted for. Numerical examples for buildings with various response characteristics demonstrate the effectiveness of the proposed framework.
+
+
+    
+        AU - M. Javad Hashemi
+    
+        AU - Yassamin Al-Ogaidi
+    
+        AU - Riadh Al-Mahaidi
+    
+        AU - Robin Kalfat
+    
+        AU - Hing-Ho Tsang
+    
+        AU - John L. Wilson
+    
+
+TI - Application of Hybrid Simulation for Collapse Assessment of Post-Earthquake CFRP-Repaired RC Columns
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016149
+VI - 143
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001629 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001629
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001629
+SO - Journal of Structural Engineering 2017-01-01 143(1): 04016149
+AB - Hybrid simulation combines the flexibility and cost-effectiveness of computer simulations with the realism of experimental testing to provide a powerful platform for large-scale experimental investigation of the seismic response of structures through collapse. This paper presents applications of hybrid simulation for (1)&nbsp;tracing the seismic response of a limited-ductility reinforced-concrete (RC) column through collapse and (2)&nbsp;evaluating the capability of carbon fiber reinforced polymer (CFRP) repair on rehabilitating the earthquake-damaged RC column to its initial collapse resistance capacity. A state-of-the-art hybrid testing facility, referred to as the multiaxis substructure testing (MAST) system, was used to simulate complex time-varying six-degrees-of-freedom (6-DOF) boundary effects on the physical specimens using mixed load/deformation modes. Based on the experimental results, a comparative collapse risk assessment of the initial and repaired column was conducted, which illustrates the effectiveness of using CFRP repair to restore and improve the collapse resistance of earthquake-damaged RC columns.
+
+
+    
+        AU - Sam E. Rigby
+    
+        AU - Andrew Tyas
+    
+        AU - Sam D. Clarke
+    
+        AU - Ghani Razaqpur
+    
+
+TI - Approach to Developing Design Charts for Quantifying the Influence of Blast Wave Clearing on Target Deformation
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016150
+VI - 143
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001626 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001626
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001626
+SO - Journal of Structural Engineering 2017-01-01 143(1): 04016150
+AB - If a structural component is located close to the free edge of a building, clearing of the blast wave around the target edge may significantly influence the temporal characteristics of the applied pressure. Because of this, traditional analysis methods assuming a linear decaying load may not be valid, particularly if the blast event imparts a relatively large impulse from the negative phase. Treatment of this phenomenon is brief in the literature, and its influence is usually neglected. This article presents an approach to quantifying the influence of clearing on target deformation, through rigorous analysis of elastic–perfectly-plastic equivalent single-degree-of-freedom (SDOF) systems. The cleared load is evaluated for structural components situated at various distances from the free edge of a reflecting surface using the Hudson acoustic approximation. The results from the SDOF analyses are then used to draw up design charts for determination of the likely influence clearing may have on the design of blast-resistant structural components. Four regions are identified: areas where clearing is beneficial, where clearing has no effect, where clearing is acting adversely, or where clearing is acting highly adversely. The method presented herein provides clear demarcation of these regions.
+
+
+    
+        AU - Yoshihiro Kanno
+    
+
+TI - Redundancy Optimization of Finite-Dimensional Structures: Concept and Derivative-Free Algorithm
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016151
+VI - 143
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001630 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001630
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001630
+SO - Journal of Structural Engineering 2017-01-01 143(1): 04016151
+AB - Redundancy is related to the amount of functionality that the structure can sustain in the worst-case scenario of structural degradation. This paper proposes a widely-applicable concept of redundancy optimization of finite-dimensional structures. The concept is consistent with the robust structural optimization and with the quantitative measure of structural redundancy on the basis of the information-gap theory. A derivative-free algorithm is proposed on the basis of the sequential quadratic programming (SQP) method, in which the finite-difference method that adaptively varies the difference increment is used. Preliminary numerical experiments show that an optimal solution of the redundancy optimization problem possibly has multiple worst-case scenarios.
+
+
+    
+        AU - Hiroshi Isoda
+    
+        AU - Naohito Kawai
+    
+        AU - Mikio Koshihara
+    
+        AU - Yasuhiro Araki
+    
+        AU - Solomon Tesfamariam
+    
+
+TI - Timber–Reinforced Concrete Core Hybrid System: Shake Table Experimental Test
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016152
+VI - 143
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001631 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001631
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001631
+SO - Journal of Structural Engineering 2017-01-01 143(1): 04016152
+AB - The law to promote the use of wood in the construction industry was announced by the Japanese government in 2010. As a result of this initiative, timber and timber-based hybrid buildings are increasingly used in public buildings. As the buildings are located in high seismic zone areas, however, validation of the current design guideline was of paramount importance. This paper reports the design and a shake table test of timber frame–reinforced concrete (RC) core hybrid systems. Three specimens (S1, S2, and S3) are tested: S1 and S2 are both one-story buildings with a nailed plywood floor (flexible diaphragm) and a rigid RC floor (rigid diaphragm), respectively. S3 is a two-story building with a nailed plywood floor. Each specimen is tested with increasing magnitude of earthquake loading. The shake table test results showed that the adopted design guideline is sufficient. At higher seismic loads, however, the prevalent plan irregularity induced higher torsional demand damage at the RC core and timber connection region.
+
+
+    
+        AU - Zhi-Qi He
+    
+        AU - Zhao Liu
+    
+        AU - Zhongguo John Ma
+    
+
+TI - Shear Deformations of RC Beams under Service Loads
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016153
+VI - 143
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001641 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001641
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001641
+SO - Journal of Structural Engineering 2017-01-01 143(1): 04016153
+AB - Shear deformations of reinforced concrete (RC) beams are not negligible after shear cracking. However, unlike the well-established procedure for calculating bending deformations of cracked beams, the calculation of shear deformations is still ignored in codes of practice due to a lack of practical models. This study aims to develop a practical approach for estimating instantaneous shear deformations of RC beams under service loads. Based on the truss analogy, an explicit equation for evaluating the yield shear stiffness of fully diagonally cracked beams is derived. It is discovered that the shear retention factor (ratio of the yield shear stiffness to the initial elastic shear stiffness) is approximately the cubic root of the shear-reinforcement ratio. An analytical approach for evaluating the degradation of effective shear stiffness and the development of shear deformation is proposed. Two restrained I-beams with thin webs are tested. This test and shear-deformation tests available in the literature are used to validate the analytical approach.
+
+
+    
+        AU - Ravi Kiran
+    
+        AU - Lei Li
+    
+        AU - Kapil Khandelwal
+    
+
+TI - Complex Perturbation Method for Sensitivity Analysis of Nonlinear Trusses
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016154
+VI - 143
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001619 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001619
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001619
+SO - Journal of Structural Engineering 2017-01-01 143(1): 04016154
+AB - A numerical method based on complex analysis is presented for obtaining response sensitivities of three-dimensional (3D) trusses with geometrical and material nonlinearities. To this end, a complex perturbation method for sensitivity analysis is proposed that can be used in conjunction with the finite-element method. Performance of the complex perturbation method is demonstrated by evaluating response sensitivities of linear elastic, hyperelastic, and hyperelastic-plastic 3D trusses. To validate the method, the sensitivity data obtained from the complex perturbation method are compared with analytical sensitivity data and the central difference method. Advantages and limitations of complex perturbation method are discussed, and it is shown that the complex perturbation method can be used to obtain sensitivity data of analytical quality.
+
+
+    
+        AU - M. R. Falamarz-Sheikhabadi
+    
+        AU - A. Zerva
+    
+        AU - M. Ghafory-Ashtiany
+    
+
+TI - Revised Seismic Intensity Parameters for Middle-Field Horizontal and Rocking Strong Ground Motions
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016155
+VI - 143
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001646 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001646
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001646
+SO - Journal of Structural Engineering 2017-01-01 143(1): 04016155
+AB - This paper presents a new method for determining rocking ground motion considering the effects of both time delay and loss of coherency in spatially variable seismic ground motions. Acceleration, velocity, and displacement response spectra resulting from the rocking component are also derived. Next, new seismic intensity parameters are proposed to estimate the combined action of the middle-field horizontal and rocking motions on the earthquake excitation of structures. These seismic intensity parameters are revised forms of the widely used ones for characterizing translational components, namely, peak ground velocity, peak ground displacement, cumulative absolute displacement, acceleration response spectrum, acceleration spectrum intensity, Fajfar intensity, and Kappos spectrum intensity. In addition, an expression for the estimation of the effect of the base tilt due to the rocking ground motion on the structural response is presented. The main advantage of the proposed relations is that they can be easily used to evaluate the approximate effect of the rocking component on the seismic excitation of structures.
+
+
+    
+        AU - Piero Colajanni
+    
+        AU - Lidia La Mendola
+    
+        AU - Alessia Monaco
+    
+
+TI - Experimental Investigation of the Shear Response of Precast Steel–Concrete Trussed Beams
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016156
+VI - 143
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001642 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001642
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001642
+SO - Journal of Structural Engineering 2017-01-01 143(1): 04016156
+AB - The results of an experimental campaign of three-point bending tests on precast composite beams, named hybrid steel–trussed concrete beams (HSTCBs), are provided. HSTCBs are typically constituted by a precast steel truss embedded in a block of concrete cast in place. Two series of specimens were manufactured, designed such that shear failure would occur, and tested under positive and negative bending moment. The experimental results obtained showed that fragile shear failure occurred in almost all cases, evidencing the crisis of the compressed concrete strut involved in the collapse mechanism. Yielding of the steel members provided ductility to the system, especially in those cases in which the mechanical properties of the concrete were adequate and allowed the failure of the strut to be delayed. Some of the more accredited expressions for prediction of shear resistance available in the literature were used to assess the shear capacity and compared against those experimentally obtained for all specimens. The existing formulas mainly refer to classical reinforced concrete (RC) beams, but analytical models recently developed for HSTCBs were considered for interpreting the test results. On the basis of the experimental outcomes and the results obtained from their analytical interpretation, comments and design considerations on the main parameters ruling the resisting mechanism occurring in the tested beam typology are provided.
+
+
+    
+        AU - Yan-Lin Guo
+    
+        AU - Xing Yuan
+    
+        AU - Yong-Lin Pi
+    
+        AU - Mark Andrew Bradford
+    
+        AU - Hang Chen
+    
+
+TI - In-Plane Failure and Strength of Pin-Ended Circular Steel Arches Considering Coupled Local and Global Buckling
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016157
+VI - 143
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001644 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001644
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001644
+SO - Journal of Structural Engineering 2017-01-01 143(1): 04016157
+AB - Little research has been reported that investigates the effects of plate local buckling and postbuckling on the in-plane behavior and strength of steel arches, and hitherto there has been no corresponding design guidance available. This paper presents a numerical investigation of the structural behavior of steel arches, and proposes a strength design method against their in-plane failure by considering plate local elastic-plastic buckling and postbuckling coupled with global elastic-plastic buckling. The failure modes of pin-ended steel circular arches having a box section under a uniformly distributed radial load are analyzed by using a large deformation elastic-plastic finite-element formulation. It is found that plate local buckling significantly influences the in-plane failure mode and strength of a steel arch. The arch may fail owing to local elastic-plastic buckling of its plates, global elastic-plastic buckling of the arch, or coupled local and global elastic-plastic buckling. The failure mode is found to depend on a number of factors such as the height-to-thickness ratio of the plate components, the aspect ratio of the cross section, the rise-to-span ratio, and the slenderness of the arch, as well as the yield stress of the steel. It is also found that the most important factors that influence the strength of the arch are the normalized global slenderness of the arch and the normalized height-to-thickness ratio of the plate components of the cross section. A strength reduction coefficient for estimating the in-plane strength of arches is developed based on these two most significant parameters, and a corresponding strength design method is proposed.
+
+
+TI - Reviewers
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 09016002
+VI - 143
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001694 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001694
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001694
+SO - Journal of Structural Engineering 2017-01-01 143(1): 09016002
+
+

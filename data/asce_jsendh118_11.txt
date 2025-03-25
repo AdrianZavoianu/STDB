@@ -1,0 +1,446 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Yong Lin Pi
+    
+        AU - N. S. Trahair
+    
+
+TI - Prebuckling Deflections and Lateral Buckling. I: Theory
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 2949-2966
+VI - 118
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1992)118:11(2949) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A11%282949%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A11%282949%29
+SO - Journal of Structural Engineering 1992-11-01 118(11): 2949-2966
+AB - When the ratio of the minor axis flexural stiffness to the major axis flexural stiffness is large, classic analysis may lead to inaccurate predictions of the lateral buckling loads of beams and beam‐columns because the effects of prebuckling deformations are not considered. The energy equation for the elastic lateral buckling of monosymmetric beam‐columns that includes the effects of prebuckling deformations is derived, and the buckling differential equilibrium equations are obtained. A finite element algorithm for the prediction of the lateral buckling loads of monosymmetric beam‐columns that includes the effects of prebuckling deformations is developed from the energy equation. This includes the effects of second‐order moments due to the prebuckling displacements and the axial loads. An iterative procedure for determining the lateral buckling loads is recommended. The finite element results, given in a companion paper, show that the classic predictions of the lateral buckling loads of beams and beam‐columns are generally conservative, but that the predictions by a linearized procedure are overestimated. The predictions by the recommended nonlinear iteration procedure agree well with the experimental results.
+
+
+    
+        AU - Yong Lin Pi
+    
+        AU - N. S. Trahair
+    
+
+TI - Prebuckling Deflections and Lateral Buckling. II: Applications
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 2967-2985
+VI - 118
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1992)118:11(2967) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A11%282967%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A11%282967%29
+SO - Journal of Structural Engineering 1992-11-01 118(11): 2967-2985
+AB - In a companion paper, it was pointed out that when the ratio of the out‐of‐plane flexural stiffness to the in‐plane flexural stiffness is not small, classical analysis may lead to inaccurate predictions of the out‐of‐plane lateral buckling loads of beams and beam‐columns, since the effects of the in‐plane prebuckling deformations are not considered. This paper investigates numerically the effects of the in‐plane prebuckling deformations on the lateral buckling of beams and beam‐columns by using the finite element procedure developed in the companion paper. The numerical results show that the classical predictions of the lateral buckling loads of beams and beam‐columns are generally conservative, but the predictions obtained by a linearized procedure that ignores second‐order terms are overestimated. The predictions by the nonlinear iteration procedure recommended in the companion paper agree well with the experimental results. The effects of span length and height of the load point have also been investigated. It is shown that lateral buckling is possible for sections where the out‐of‐plane flexural stiffness is equal to or greater than the in‐plane flexural stiffness.
+
+
+    
+        AU - Bao‐Jun Sun
+    
+        AU - Zhi‐Tao Lu
+    
+
+TI - Design Aids for Reinforced Concrete Columns
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 2986-2995
+VI - 118
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1992)118:11(2986) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A11%282986%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A11%282986%29
+SO - Journal of Structural Engineering 1992-11-01 118(11): 2986-2995
+AB - A general computer model to investigate the ultimate strength behavior of regularly and irregularly shaped reinforced concrete columns subjected to axial load and biaxial bendings based on the Chinese Code GBJ 10‐89 and ACI 318‐83 is presented. The model combines biaxial bending, biaxial bending and tension, and biaxial bending and compression. It is also applicable to reinforced concrete columns loaded in one direction. With the presented design procedure, the position of the neutral axis and the area of the reinforcement or the ultimate strength capability can be obtained using the classical Newton‐Raphson method. The design tool is both clear in physical conception and easily programmed. The accuracy of the method is established by comparison with experimental results for reinforced concrete members subjected to combined biaxial bending and axial load. A numerical example is presented to demonstrate the validity and applicability of the presented method.
+
+
+    
+        AU - Bofang Zhu
+    
+        AU - Bin Rao
+    
+        AU - Jinsheng Jia
+    
+        AU - Yisheng Li
+    
+
+TI - Shape Optimization of Arch Dams for Static and Dynamic Loads
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 2996-3015
+VI - 118
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1992)118:11(2996) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A11%282996%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A11%282996%29
+SO - Journal of Structural Engineering 1992-11-01 118(11): 2996-3015
+AB - In recent years, progress has been made in the shape optimization of arch dams in China for static and dynamic loads. The paper proposes rational and practical mathematical models and a series of effective methods of solution such as the internal force expansion method, the exponential transformation of design variables, and the methods for analyzing the stresses and stress sensitivities of an arch dam under static and dynamic loads. Special effort was made to apply this new technique to practical projects. Methods of mathematical programming were used to determine the optimum shapes of about 30 arch dams, which resulted in considerable reduction of dam concrete and higher speed of design. The writers were awarded the National Prize of Technical Progress of China for this research. The mathematical models, the methods of solution, and some examples of application to practical arch dams are presented in this paper.
+
+
+    
+        AU - D. S. Ramachandra Murthy
+    
+        AU - A. G. Madhava Rao
+    
+        AU - P. Gandhi
+    
+        AU - P. K. Pant
+    
+
+TI - Structural Efficiency of Internally Ring‐Stiffened Steel Tubular Joints
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 3016-3035
+VI - 118
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1992)118:11(3016) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283016%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283016%29
+SO - Journal of Structural Engineering 1992-11-01 118(11): 3016-3035
+AB - Welded tubular structures are widely used for offshore platforms. In India, there are more than 120 offshore platforms in the Bombay High region, all of which are jacket‐type structures consisting of welded tubular members. The tubular joints of these structures are subjected to stress concentration, which because of the increased hot‐spot stresses reduces the fatigue life of the structure. Also, the ultimate strength of the tubular joints is very much reduced due to the local buckling effect of the tubular members. Based on the analytical and experimental studies conducted at the Structural Engineering Research Centre, at Madras, it is observed that these deficiencies of tubular joints can be reduced to a great extent by providing internal ring stiffeners in the chord members. Internal ring stiffeners are found to reduce stress concentration, increase fatigue life under cyclic loads, and also improve the ultimate strength of the joints. The results of investigations on internally ring‐stiffened steel tubular T and Y joints are presented in this paper.
+
+
+    
+        AU - Hanbin Ge
+    
+        AU - Tsutomu Usami
+    
+
+TI - Strength of Concrete‐Filled Thin‐Walled Steel Box Columns: Experiment
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 3036-3054
+VI - 118
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1992)118:11(3036) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283036%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283036%29
+SO - Journal of Structural Engineering 1992-11-01 118(11): 3036-3054
+AB - An experimental study on the strength and deformation of concrete‐filled square box stub‐columns is presented. Six specimens of concrete‐filled composite columns were tested under cyclic compressive loads. For comparison, four specimens of steel columns were also loaded to failure. The ultimate strength, ductility, and collapse behavior of the two types of columns were compared. In the comparison, the effect of width‐thickness ratio and stiffener rigidity on the behavior of the columns was examined. The study showed that high strength and high ductility can be expected from the concrete‐filled composite column. In the case of concrete‐filled composite columns, an empirical reduction factor that accounts for the effect of the size of the filled‐in concrete prism and the concrete strength class was introduced in evaluating the compressive strength of the concrete, and the local buckling strength of the plate panel in composite columns was then compared with available empirical design formulas for a thin‐walled steel member in compression.
+
+
+    
+        AU - S. Parsanejad
+    
+        AU - P. Gusheh
+    
+
+TI - Behavior of Partially Grout‐Filled Damaged Tubular Members
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 3055-3066
+VI - 118
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1992)118:11(3055) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283055%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283055%29
+SO - Journal of Structural Engineering 1992-11-01 118(11): 3055-3066
+AB - A simple analytical expression, amenable to hand calculation, is developed for estimating the ultimate capacity of partially grout‐filled damaged tubular members. The analysis is based on the simplifying assumptions that: (1) The bond between the grout and the tube wall could totally fail prior to the attainment of the ultimate capacity; and (2) grout provides sufficient support in the damaged region of the tube and makes the steel cross section fully effective. The load‐carrying capacity is then obtained using a beam‐column analysis similar in form to that used in the current design codes. The analysis uses the weighted average rigidity of the cross sections (taking into account the effect of the grouted segment) while using the dented section as the critical section. The first yield collapse criterion has been used. Experimental work has been conducted on 10 small‐scale specimens. It is shown that the proposed expression provides acceptable lower‐bound estimates of the experimental results. A parametric study is performed to establish the relationship between various parameters and their effects on the ultimate strength of partially grout‐filled damaged tubes.
+
+
+    
+        AU - M. D. Engelhardt
+    
+        AU - E. P. Popov
+    
+
+TI - Experimental Performance of Long Links in Eccentrically Braced Frames
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 3067-3088
+VI - 118
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1992)118:11(3067) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283067%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283067%29
+SO - Journal of Structural Engineering 1992-11-01 118(11): 3067-3088
+AB - Short, shear yielding links are preferred in eccentrically braced frames (EBFs) because of their demonstrated excellent strength, stiffness, and energy‐dissipation capacity. Longer flexural yielding links, however, can offer important architectural advantages and have been used in a number of recently constructed EBFs. An experimental investigation was conducted on EBF subassemblages constructed with long links attached to columns. The dominant failure mode was fracture of the link flange at the link‐to‐column connection. These connection failures occurred at levels of inelastic rotation that do not appear adequate for application in severe Seismic environments. Based on this experimental program, it is recommended that long links attached to columns should not be used in EBFs. There is no evidence from this test program that long links cannot be used when located within a span between two braces, although short links are still preferred for best structural performance. The investigation also demonstrated the potential for instability in the beam segment outside of the link, and the resulting loss of EBF strength and ductility.
+
+
+    
+        AU - Hassan S. Saffarini
+    
+        AU - Musa M. Qudaimat
+    
+
+TI - In‐Plane Floor Deformations in RC Structures
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 3089-3102
+VI - 118
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1992)118:11(3089) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283089%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283089%29
+SO - Journal of Structural Engineering 1992-11-01 118(11): 3089-3102
+AB - The assumption of in‐plane floor rigidity, commonly used in the analysis of reinforced concrete multistory buildings subjected to lateral loads, is examined by analytically investigating 37 buildings. These are chosen to cover parameters including: number of stories, story height, slab type, building‐plan aspect ratio, regularity of building plan, openings in the slab, and the sizes and spacing of columns and shear walls. A three‐dimensional finite element model is constructed for each building, and two analyses are conducted. The first incorporates all the in‐plane degrees of freedom, while the second is based on three rigid‐body displacements per floor. Error resulting in the latter solution is assessed as the given parameters are varied. The criteria for comparison are primarily the lateral deflection, column and wall shear, and interstory shear. A simple empirical error bound on the shear is suggested. This error bound is expressed in terms of an in‐plane rigidity factor, which gives a measure of the ratio of in‐plane stiffness of the slab to lateral stiffness of the building.
+
+
+    
+        AU - W. M. Jenkins
+    
+
+TI - Plane Frame Optimum Design Environment Based on Genetic Algorithm
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 3103-3112
+VI - 118
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1992)118:11(3103) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283103%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283103%29
+SO - Journal of Structural Engineering 1992-11-01 118(11): 3103-3112
+AB - A computational environment suitable for optimum design of structures in the general class of plane frames is described. Design optimization is based on the use of a genetic algorithm in which a population of individual designs is changed generation by generation applying principles of natural selection and survival of the fittest. The fitness of a design is assessed using an objective function in which violations of design constraints are penalized. Facilities are provided for automatic data editing and reanalysis of the structure. The environment is particularly useful when parametric studies are required. The use of the environment is illustrated in a study of a cable‐stayed bridge structure.
+
+
+    
+        AU - Shih Toh Chang
+    
+
+TI - Prestress Influence on Shear‐Lag Effect in Continuous Box‐Girder Bridge
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 3113-3121
+VI - 118
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1992)118:11(3113) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283113%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283113%29
+SO - Journal of Structural Engineering 1992-11-01 118(11): 3113-3121
+AB - The shear‐lag effect in a thin‐walled box girder has been recognized and introduced in the technical literature. In contrast however, a discussion of shear‐lag effect caused by the combination of prestress force and self‐weight of a box girder is limited. In this paper, the shear‐lag effect is treated by the principle of superposition by considering that the configuration of a prestressed tendon takes the form of a broken straight line. Two equal spans of a continuous box girder of constant depth with a shear‐lag effect are used as an illustrative example. If γ denotes actual stress due to bending under symmetrical loading over the stress computed by elementary beam theory, a compound parameter Nyθ/ωL is a measure of the shear‐lag effect in this particular example, where Ny is effective prestress force, θ is the inclined angle of tendon at support, ω is the intensity of uniformly distributed load, and L is the span length of bridge. On the Nyθ/ωL and γ diagram, an asymptote exists. Usually in engineering practice Nyθ/ωL is equal to or greater than unity. Based on this approach, some preliminary conclusions are presented for this study.
+
+
+    
+        AU - B. Kasal
+    
+        AU - R. J. Leichti
+    
+
+TI - Nonlinear Finite‐Element Model for Light‐Frame Stud Walls
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 3122-3135
+VI - 118
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1992)118:11(3122) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283122%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283122%29
+SO - Journal of Structural Engineering 1992-11-01 118(11): 3122-3135
+AB - Considerable attention has been given to the performance and modeling of wood‐frame stud walls in the past two decades, and linear and nonlinear models were presented. Linear models do not truly describe the wall behavior. They either underestimate or overestimate the wall stiffness, depending upon load applied. In this presentation, the writers use load‐deflection characteristics to transform a three‐dimensional detailed model of a wood‐frame stud wall into a simple two‐dimensional model made equivalent to the original substructure by energy concepts. The detailed model is represented in three dimensions by linear and nonlinear finite elements, where each nail joint is included via its translational stiffness. Gaps and discontinuities in the sheathing are also considered. The model is loaded in shear, torsion, X‐, and Y‐bending, simulating simple tests of the real substructure. Results are used to identify properties of an “equivalent” orthotropic continuum. The application of equivalent models in a full‐structure nonlinear analysis yields the global behavior of the structure (deflections and reactions), in reasonable computer times.The approach can be used for wood‐frame stud walls with or without openings. The method may be particularly useful to those evaluating alternative designs in manufactured structures or for structures with redundant substructures.
+
+
+    
+        AU - M. Kassar
+    
+        AU - W. W. Yu
+    
+
+TI - Effect of Strain Rate on Material Properties of Sheet Steels
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 3136-3150
+VI - 118
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1992)118:11(3136) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283136%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283136%29
+SO - Journal of Structural Engineering 1992-11-01 118(11): 3136-3150
+AB - The effect of strain rate on tensile and compressive mechanical properties of sheet steels is investigated experimentally and analytically. Three sheet steels are studied in both longitudinal and transverse directions under different strain rates and different amounts of prior cold stretching. In order to determine the separate effects of strain rate and aging, half of the cold‐stretched coupons are tested in an average of two days after cold‐stretching operation. The remaining half are tested to failure at least 30 days after cold‐stretching operation. The results show that the proportional limit, yield strength, and ultimate strength increase with increasing strain rate. In general, the amount of increase is found to be: (1) Dependent on the material static yield strength and possibly the Fu/Fy ratio, the amounts of prior cold stretching, and/or the strain rates used in the tests; and (2) independent of test directions (longitudinal or transverse), test types (tension or compression), and/or material aging conditions (aged or nonaged). The yield strength is found to be more sensitive to strain rate than the ultimate strength was.
+
+
+    
+        AU - M. Kassar
+    
+        AU - C. L. Pan
+    
+        AU - W. W. Yu
+    
+
+TI - Effect of Strain Rate on Cold‐Formed Steel Stub Columns
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 3151-3168
+VI - 118
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1992)118:11(3151) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283151%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283151%29
+SO - Journal of Structural Engineering 1992-11-01 118(11): 3151-3168
+AB - The material properties of steel and the strength of steel members are affected by strain rate. To investigate this characteristic for compression members, 49 stub columns fabricated from 35XF sheet steel and 48 stub columns fabricated from 50XF sheet steel are studied experimentally and analytically under different strain rates. The strain rate ranged from 10-5 to 0.1 in./in./sec (10-5 to 0.1 mm/mm/s). The material properties of 35XF and 50XF sheet steels developed from previous tests are used for the evaluation of the test data obtained from the member tests using specimens fabricated from the same sheet steel. The results show that the strength of stub columns increased with the strain rate. The amount of increase is found to be dependent on the type of material, the FuFy ratio, the width‐to‐thickness ratio (w/t) of the compression element, and the strain rate used in the tests. The effective width approach included in the American Iron and Steel Institute (AISI) specification for cold‐formed steel members and in the AISI Automotive Steel Design Manual is utilized for the evaluation of stub column strengths using static and dynamic yield stresses corresponding to the strain rates used in the tests. It is found that better agreement can be achieved between the predicted and tested stub column strengths when using the dynamic yield stresses and considering the effect of cold work.
+
+
+    
+        AU - Tianxi Tang
+    
+        AU - Surendra P. Shah
+    
+        AU - Chengsheng Ouyang
+    
+
+TI - Fracture Mechanics and Size Effect of Concrete in Tension
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 3169-3185
+VI - 118
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1992)118:11(3169) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283169%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283169%29
+SO - Journal of Structural Engineering 1992-11-01 118(11): 3169-3185
+AB - It is found that strength of concrete structures generally decreases with increasing structure size before reaching a limiting value. Fracture mechanics is used to predict such size effect. However, most previous fracture models predict that the strength drops to zero after structures become very large. The size effect is studied with the two‐parameter fracture model (TPFM). A general formulation for predicting the strength is first proposed. Two types of specimens, three‐point bend beams and split‐tension cylinders, which are frequently used to experimentally measure the strength, are then examined. For three‐point bend beams, TPFM predicts that the nominal strength decreases with increasing beam size, but approaches to a minimum constant value when sizes of the beam become very large. For split‐tension cylinders, the model indicates that load‐distribution width is an important parameter on the strength. In the presence of the distributed load, the nominal strength initially decreases with increasing cylinder size, and rises up slowly after the lowest limit. These observations are in accord with the experimental data.
+
+
+    
+        AU - Pei Jianping
+    
+        AU - Issam E. Harik
+    
+
+TI - Axisymmetric General Shells and Jointed Shells of Revolution
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 3186-3202
+VI - 118
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1992)118:11(3186) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283186%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283186%29
+SO - Journal of Structural Engineering 1992-11-01 118(11): 3186-3202
+AB - An iterative numerical method is presented for the analysis of axisymmetric, isotropic general shells with varying wall rigidity. Shell elements of special geometric shapes, e.g., cylindrical, spherical, and conical shells, are also considered. One‐dimensional finite difference points are used to discretize the shell elements into strips along the meridian. An iterative technique is then employed to determine the displacements and stresses. The solution to jointed shells is determined by the well‐known stiffness approach. The proposed method is applicable to any variation in rigidity along the meridian and to general axisymmetric loading conditions.
+
+
+    
+        AU - D. R. Schelling
+    
+        AU - N. H. Galdos
+    
+        AU - M. A. Sahin
+    
+
+TI - Evaluation of Impact Factors for Horizontally Curved Steel Box Bridges
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 3203-3221
+VI - 118
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1992)118:11(3203) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283203%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283203%29
+SO - Journal of Structural Engineering 1992-11-01 118(11): 3203-3221
+AB - This paper presents the dynamic impact factors for horizontally curved steel box‐girder bridges. The dynamic impact is presented as a function of the span length and the first fundamental frequency. The results are discussed and compared with the impact provisions as applied in the previous AASHTO specifications and the Ontario Highway Bridge Design Code. It is concluded that the impact functions previously specified by AASHTO exhibit shortcomings and do not apply for a large percentage of designs. Consequently, an alternate set of impact factors for horizontally curved steel box‐girder bridges is developed.
+
+
+    
+        AU - M. Ahmad
+    
+        AU - E. Y. L. Chien
+    
+        AU - M. U. Hosain
+    
+
+TI - Modified Stub‐Girder Floor System: Full‐Scale Tests
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 3222-3236
+VI - 118
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1992)118:11(3222) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283222%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283222%29
+SO - Journal of Structural Engineering 1992-11-01 118(11): 3222-3236
+AB - This paper summarizes the results of load tests on two full‐size stub‐girders. The first, specimen M‐1, had a conventional girder‐to‐column connection and the second, specimen M‐2, featured a modified connection in which an extended end stub was connected to the column support. The modified end details offer some economic advantages, greater convenience for the erection and for installation of services. The test specimens were designed as spandrel stub girders for a typical office floor loading and consisted of three continuous spans. The concrete slab was continuous over the end supports of the interior span. The test results indicated that the stub girder with the modified end details is structurally as efficient as the conventional system. Specimen M‐1 failed by shear yielding of the steel girder, while specimen M‐2 failed by crushing of the concrete slab. The measured ultimate loads were 1.58 and 1.81 times the design factored load for specimens M‐1 and M‐2, respectively. Specimen M‐2, with the modified girder‐to‐column connection, exhibited a 14% increase in the observed ultimate strength over specimen M‐1.
+
+
+    
+        AU - B. K. Chakrabarty
+    
+
+TI - Model for Optimal Design of Reinforced Concrete Beam
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 3238-3242
+VI - 118
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1992)118:11(3238) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283238%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283238%29
+SO - Journal of Structural Engineering 1992-11-01 118(11): 3238-3242
+AB - An infinite member of combinations of values of the effective depth, width, and area of reinforcement could yield the same nominal moment capacity of a reinforced concrete beam. In the conventional process, a designer often assumes a beam section not linked with cost, and the process is repeated if the assumed section is not adequate. This technical note presents a model for the optimal flexural design of singly reinforced concrete beam in which the process is reversed; i.e., applied bending moment and other parameters are inputs, and the beam section is the output of the model. Using this nonlinear programming model, the unique least-cost beam design could be achieved directly, exactly matching its ultimate moment of resistance with the ultimate applied bending moment, including that due to the self-weight. Application of this new design technique is illustrated with example problems showing considerable savings in cost and material consumption.
+
+
+    
+        AU - Edwin P. Russo
+    
+        AU - Gregory Garic
+    
+
+TI - Shear‐Stress Distribution in Symmetrically Tapered Cantilever Beam
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 3243-3249
+VI - 118
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1992)118:11(3243) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283243%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283243%29
+SO - Journal of Structural Engineering 1992-11-01 118(11): 3243-3249
+AB - Shear-stress distribution is investigated for the case of a symmetrically tapered cantilever beam subjected to simultaneous axial and transverse loading. An analytical solution is developed by expanding on earlier work involving tapered beams subject to transverse loading. The solution is compared to a finite element model for both long, slender beams and short, stubby beams. The model is in good agreement with the theoretical predictions for the long, slender beams at the middle and free end but shows a significant discrepancy at the fixed end, i.e., a stress concentration of greater than 2. This discrepancy is to be expected since the fixed end is not free to distort. Similar correlations were obtained for the short, stubby beam. The finite element analysis indicated that these stress concentrations dissipated at approximately 15% of the beam length.
+
+
+TI - Erratum: “Beam Strength Enhancement at Design Ductility Factor Demands” by Gaetano Russo (June, 1992 Vol. 118, No. 6)
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 3250-3250
+VI - 118
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1992)118:11(3250) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283250%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283250%29
+SO - Journal of Structural Engineering 1992-11-01 118(11): 3250-3250
+
+
+TI - Erratum: “Finite Element Analysis of Thin‐Walled Curved Beams Made of Composites” by G. S. Palani, Sundaramoorthy Rajesekan (August, 1992, Vol. 118, No. 8)
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 3250-3251
+VI - 118
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1992)118:11(3250.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283250.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A11%283250.2%29
+SO - Journal of Structural Engineering 1992-11-01 118(11): 3250-3251
+
+

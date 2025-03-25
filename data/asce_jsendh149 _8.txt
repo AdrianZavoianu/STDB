@@ -1,0 +1,394 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Yuxuan Tao
+    
+        AU - Yuan Huang
+    
+        AU - Weijian Yi
+    
+
+TI - Analytical Investigation on Catenary Action in Unbonded Prestressed Concrete Beam-Column Subassemblages
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023094
+VI - 149
+IP - 8
+AID - 10.1061/JSENDH.STENG-11893 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11893
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11893
+SO - Journal of Structural Engineering 2023-08-01 149(8): 04023094
+AB - One reinforced concrete (RC) and four prestressed concrete (PC) beam-column subassemblages with various tendon profiles were designed and tested to investigate the effect of prestressed tendon profiles on the progressive collapse response of PC frames. An analytical model was developed to evaluate the PC frames’ catenary action (CA) response by identifying the fracture of longitudinal reinforcement and prestressed tendons in beams. The effect of the bond mechanism on the rupture strain of reinforcement was considered. Then, the proposed model was validated using experimental and simulation results. Finally, parametric studies were performed based on the calibrated model. Test results indicate that the prestressed tendon profile significantly impacts the CA response of PC frames against progressive collapse. The analytical model can effectively reflect the effect of the prestressed tendons on the CA resistance and displacement of PC frames.
+
+
+    
+        AU - Thinzar Hnin
+    
+        AU - Kyohei Noguchi
+    
+        AU - Tomomi Yagi
+    
+
+TI - Wind Resistance Evaluation of Existing Standing Buddha Statue Using 3D Laser Scanning and CFD
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023095
+VI - 149
+IP - 8
+AID - 10.1061/JSENDH.STENG-11709 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11709
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11709
+SO - Journal of Structural Engineering 2023-08-01 149(8): 04023095
+AB - Underestimating the aerodynamic forces acting on structures can lead to them sustaining severe damage. Currently, there are limited studies on the wind flow around complex-shaped tall structures such as the Buddha statue (Monywa, Myanmar) and the aerodynamic forces acting on them. This study discusses the applicability of three-dimensional (3D) terrestrial laser scanning in the 3D modeling of an existing complex-shaped standing Buddha statue. This study also aims to shed light on the wind resistance evaluation for the maintenance of a contemporary standing Buddha statue. Large-eddy simulation (LES), a turbulence model used in computational fluid dynamics, was utilized to calculate the wind flow around it. The results showed that there was no recirculation region at its top. The horseshoe vortex moved closer to the Buddha statue as the angle of attack (AOA) increased. However, the size of the wake region decreased. Sudden changes in the aerodynamic force coefficients and Strouhal number were observed in the Buddha statue—owing to vortices caused by the cross-sectional variations in shape and a setback. Finally, the most vulnerable parts of the Buddha statue that might require optimal maintenance and renovation are mentioned. Results from this study can be used in developing maintenance techniques for similar complex-shaped structures.
+
+
+    
+        AU - Xinlong Du
+    
+        AU - Jerome F. Hajjar
+    
+        AU - Robert Bailey Bond
+    
+        AU - Pu Ren
+    
+        AU - Hao Sun
+    
+
+TI - Clustering and Selection of Hurricane Wind Records Using Autoencoder and k-Means Algorithm
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023096
+VI - 149
+IP - 8
+AID - 10.1061/JSENDH.STENG-12110 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12110
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12110
+SO - Journal of Structural Engineering 2023-08-01 149(8): 04023096
+AB - In wind engineering, to accurately estimate the nonlinear dynamic response of structures while considering uncertainties of hurricanes, a suite of wind records representing the hurricane hazards of a given location is of great interest. Such a suite generally consists of a large number of hurricane wind records, which may lead to highly computational cost for structural analysis. To reduce the computational demand while still preserving the accuracy of the uncertainty quantification process, this paper proposes a machine learning approach to select a representative subset of all collected hurricane wind records for a location. First, hurricane wind records, which are expressed as time series with information that includes both wind speed and direction, are collected from a synthetic hurricane catalog. The high dimensional hurricane wind records are then compressed into a set of low dimensional latent feature vectors using an artificial neural network, designated as an autoencoder. The latent feature vectors represent the important patterns of wind records such as duration, magnitude, and the changing of wind speeds and directions over time. The wind records are then clustered by applying the k-means algorithm on the latent features, and a subset of records is selected from each cluster. The wind records selected from each cluster are those whose latent feature points are closest to the centroid of all latent feature points in that cluster. In order to do regional analysis while taking into account that the hurricane wind records are site-specific, this paper suggests that a region can be discretized into a set of grids, with the proposed hurricane selection approach applied to each grid. This procedure is demonstrated using Massachusetts as a testbed.
+
+
+    
+        AU - Gulen Ozkula
+    
+        AU - Chia-Ming Uang
+    
+
+TI - Classification and Identification of Buckling Modes of Steel Columns under Cyclic Loading
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023097
+VI - 149
+IP - 8
+AID - 10.1061/JSENDH.STENG-12156 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12156
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12156
+SO - Journal of Structural Engineering 2023-08-01 149(8): 04023097
+AB - Wide-flange columns are commonly used for the construction of special moment frames and braced frames. For special moment frames, design engineers routinely use deep sections to meet the stringent code-specified story drift limits in order to achieve economy in recent years. Columns with shallow and stocky sections are common for braced frame construction. Observation made from two recent experimental studies involving both deep and shallow columns under axial compression and cyclic drifts showed a variety of buckling modes. A classification with three cyclic buckling modes is proposed in this paper; subsets of each buckling mode are also presented. A parameter measuring the relative rotational restraint that the web provides to each flange is derived. After calibrating this parameter with the test results, a practical procedure that can predict the governing cyclic buckling mode is proposed.
+
+
+    
+        AU - Kai Qian
+    
+        AU - Xi Lan
+    
+        AU - Xiao-Fang Deng
+    
+        AU - Zhi Li
+    
+
+TI - Effects of Infilled Walls with and without Openings on Progressive Collapse Resistance of Steel Frames under Corner Column Loss Condition
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023098
+VI - 149
+IP - 8
+AID - 10.1061/JSENDH.STENG-12268 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12268
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12268
+SO - Journal of Structural Engineering 2023-08-01 149(8): 04023098
+AB - Steel frames may have an inherent ability to resist progressive collapse through alternative load-resisting mechanisms, including Vierendeel, flexural, catenary, and membrane actions. Among the columns at different positions, corner column failure caused by accidental loading is more dangerous due to the relatively few alternative load-resisting mechanisms. To evaluate the effects of infilled walls with or without openings on the progressive collapse resistance of steel frames, four two-span 2-story steel frames were tested in this study. According to the test results, the solid infilled frames achieved peak loads that were over 300% greater than those of the bare frame. Relative to the bare frame, the infilled frames with solid bricks and perforated bricks increased the deflection capacities by 15% and 29%, respectively. This result was attributed to the development of effective compressive struts in the infilled walls to partially transfer the vertical loads. Thus, premature joint failure was avoided. Moreover, the failure modes of the infilled walls changed when different types of brick were adopted. The infilled walls with solid bricks showed extensive shear sliding cracks; the infilled walls with perforated bricks were relatively intact, but the compressive corners were crushed. The partially infilled frame with a 40% opening ratio still increased the load-resisting capacity of the steel frame by 90%. In addition, the efficiencies of the compressive strut models of the infilled walls under corner column loss conditions were evaluated. Based on the calculations, the width of the equivalent compressive strut provided by current US standards is recommended.
+
+
+    
+        AU - Man-Tai Chen
+    
+        AU - Wenkang Zuo
+    
+        AU - Ben Young
+    
+
+TI - Tests of Cold-Formed Steel T-Joints with Semi-Oval Hollow Section Chord
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023099
+VI - 149
+IP - 8
+AID - 10.1061/JSENDH.STENG-12277 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12277
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12277
+SO - Journal of Structural Engineering 2023-08-01 149(8): 04023099
+AB - This paper presents a test campaign concerning the structural behavior of cold-formed steel T-joints with semi-oval hollow section (SOHS) chord. Three different sizes of SOHS and nine different sizes of rectangular hollow sections (RHS) or square hollow sections (SHS) were employed as chord and brace members, respectively, to fabricate the T-joint specimens. Robotic gas metal arc welding was adopted to connect the RHS/SHS brace to the flat flange of SOHS chord. The width ratio between brace and chord (β) ranged from 0.29 to 0.96. The brace-to-chord thickness ratio (τ) ranged from 0.46 to 0.72, and the chord width-to-thickness ratio (2γ) ranged from 10.3 to 13.9. A total of 29&nbsp;T-joint specimens were tested with the chord simply supported and the brace axially compressed. The joint failure strengths, load-deformation histories, and failure characteristics of cold-formed steel T-joints with a SOHS chord are presented and discussed. The behavior of T-joints with a SOHS chord resembled that of RHS/SHS T-joints because the brace was connected to the SOHS chord at the flat flange. The feasibility of the design provisions in current standards initially developed for RHS T-joints was examined. The comparisons demonstrate that the strength predictions by the current standards are quite conservative for T-joints with cold-formed steel SOHS chord. The possible reasons for conservatism in design strength predictions are analyzed and discussed.
+
+
+    
+        AU - Ian Chong-Xian Chin
+    
+        AU - Douglas Tomlinson
+    
+        AU - Robert Driver
+    
+
+TI - Response of Embedded Plates in Reinforced Concrete Loaded in Eccentric Shear towards an Edge
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023100
+VI - 149
+IP - 8
+AID - 10.1061/JSENDH.STENG-11768 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11768
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11768
+SO - Journal of Structural Engineering 2023-08-01 149(8): 04023100
+AB - Embedded plates (EPs) are commonly used to connect steel to reinforced concrete elements. Due to a lack of industry-wide standard designs, EPs are custom designed for every instance in each project. This leads to many inefficiencies in the construction process and introduces susceptibilities to error. North American design standards based on the concrete capacity design (CCD) philosophy require many assumptions to predict EP capacity, which then lead to inconsistencies in their application. CCD is also well suited for analysis as it depends on a considerable numbers of variables (e.g.,&nbsp;edge distances, anchor size, number, and length) to check capacity. The sheer number of variables makes it difficult for designers to come up with a trial design to fit a situation. This study aims to improve the efficiency of this process by proposing standard EPs. A subset of these proposed standard EPs are then experimentally tested to verify predicted capacities and evaluate design assumptions using existing CCD approaches in North America. Four- and six-anchor proposed standard EPs with shear tab connections were placed at four distances from the concrete edge (75–250&nbsp;mm) and tested in shear towards the edge. North American provisions for concrete anchorage were adequate in predicting the failure loads if connection eccentricity, caused by the gap between the shear tab bolt line and the exposed surface of the plate, is considered in capacity predictions. Mean test-to-predicted ratios of 0.92 and 1.05 were obtained, respectively, when not considering and considering this eccentricity. Rotations of these connections during testing (0.01 to 0.02&nbsp;rad at peak load with further rotations post-peak) and signs of secondary tension breakout cones suggest that connection eccentricity significantly affects the behavior of EPs and should be considered in design.
+
+
+    
+        AU - Xu-Liang Han
+    
+        AU - Qiu-Sheng Li
+    
+        AU - Kang Zhou
+    
+        AU - Ming Li
+    
+
+TI - Investigation of the Aerodynamic Forces on a 600-m-High Supertall Building by Field Measurements and Wind Tunnel Test
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023101
+VI - 149
+IP - 8
+AID - 10.1061/JSENDH.STENG-11186 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11186
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11186
+SO - Journal of Structural Engineering 2023-08-01 149(8): 04023101
+AB - This paper investigates the aerodynamic forces on a 600-m-high supertall building based on field measurements during Super Typhoon Mangkhut and wind tunnel test on a 1∶500 scaled model of the monitored building. The local wind force coefficients and their power spectral densities obtained by the full-scale measurements and the model experiment are compared and discussed. The comparative study shows that the wind tunnel test provides conservative mean local drag coefficients and root-mean-square (RMS) local lift coefficients, whereas for the RMS local drag coefficients, the model experiment reproduces smaller predictions at higher levels than those from the onsite measurements. Moreover, to explore the deviations between the full-scale and model-scale results, the Reynolds number effects in the range of 5.5×104 to 1.8×108 on the local wind forces and the Strouhal number are investigated. It is found that the Reynolds number has evident effects on the local wind force coefficients, although its influence on the Strouhal number is negligible. This combined study of field measurements and wind tunnel test aims to enhance the understanding of the aerodynamic forces on high-rise buildings during strong windstorms and provide useful information for the wind-resistant design of supertall buildings.
+
+
+    
+        AU - Emre Kizilarslan
+    
+        AU - Michel Bruneau
+    
+
+TI - Cyclic Behavior of T-Shaped Composite Plate Shear Walls–Concrete Filled
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023102
+VI - 149
+IP - 8
+AID - 10.1061/JSENDH.STENG-11693 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11693
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11693
+SO - Journal of Structural Engineering 2023-08-01 149(8): 04023102
+AB - This paper presents findings from experiments conducted on four large-scale T-shaped concrete filled composite plate shear walls (C-PSW/CF) specimens subjected to axial force and flexure. A C-PSW/CF is a sandwich type of construction by which concrete (without rebars) is enclosed between steel plates connected by tie bars. One of the walls was subjected to a cyclic wind loading protocol and the other walls were cycled with a seismic loading protocol. Their dimensions were identical, but different axial loads (up to 30% of the crushing load of the infill concrete, Acfc′) were applied. The plastic hinge development was investigated along with the composite behavior and compared with the calculated plastic moment of the corresponding cross section. These tests along with the results on C-shaped wall tests were conducted to establish the development of design guidelines for high-rise core-wall steel buildings having C-PSW/CF as the primary lateral force resisting system.
+
+
+    
+        AU - Madhup Pandey
+    
+        AU - Ben Young
+    
+
+TI - Design of Cold-Formed High-Strength Steel Diamond Bird-Beak Tubular T-Joints and X-Joints
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023103
+VI - 149
+IP - 8
+AID - 10.1061/JSENDH.STENG-11701 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11701
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11701
+SO - Journal of Structural Engineering 2023-08-01 149(8): 04023103
+AB - Numerical investigation and design of cold-formed high-strength steel (CFHSS) diamond bird-beak (DBB) T- and X-joints are presented in this paper. The 0.2% proof stress of braces and chords was 960&nbsp;MPa. Tests of CFHSS DBB T- and X-joints undergoing compression loads were carried out by the authors. The test results were used to develop accurate finite element (FE) models in this study. A comprehensive FE parametric study was then performed using the verified FE models. The nominal strengths predicted from the literature and European code were compared to the joint failure strengths and ultimate capacities of 244 DBB T- and X-joints specimens, including 224 FE specimens investigated in this work. The failure of DBB T- and X-joints specimens at chord crown locations was identified as the dominant failure mode. It has been shown that the design provisions given in the literature and European code are unsuitable and uneconomical for the cold-formed S960 steel grade DBB T- and X-joints investigated in this study. Hence, accurate, less dispersed, and reliable design equations are proposed in this work, using two design approaches, to predict the joint failure strengths and ultimate capacities of the investigated DBB T- and X-joints.
+
+
+    
+        AU - Fahimeh Shahpouri
+    
+        AU - Abbas Ali Tasnimi
+    
+        AU - Joaquim António Oliveira de Barros
+    
+
+TI - Experimental and Numerical Investigation on the Behavior of a New Replaceable Steel Device Used in Self-Centering Prefabricated Shear Wall
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023104
+VI - 149
+IP - 8
+AID - 10.1061/JSENDH.STENG-11971 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11971
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11971
+SO - Journal of Structural Engineering 2023-08-01 149(8): 04023104
+AB - An experimental and numerical investigation on the behavior of a new replaceable steel device (RSD), is presented in this paper. The RSD consists of a steel pipe with two circular steel plates that close the ends of the tube, four stiffeners, and an added damping and stiffness (ADAS)-type steel plate that functions as a fuse element. This RSD is characterized by its compressive strength, which is much higher than its tensile strength and is compatible with the rocking behavior of a self-centering prefabricated shear wall (SCPSW), and also by its ability to dissipate energy. Three-dimensional finite element analyses were carried out to investigate the behavior and performance of the RSD, both individually and in the case where they were installed at the bottom of the toe and heel of a SCPSW. The results show that the RSD has stable behavior and is compatible with the gap opening in the corner of the SCPSW. The combined specimen of SCPSW and RSD (SCPSWR) remains stable under cyclic loading, with a maximum drift ratio of 3.98%, demonstrating that the RSD could be a viable candidate for practical use in seismic-prone areas. The behavior of the RSD was assessed by conducting two sets of cyclic tests, which provided good agreement with the numerical results. The results indicate that the RSD’s performance is influenced by the plastic behavior of the fuse element, plastic buckling of the disks, and pipe deformation. If the RSD is damaged, it can be easily replaced, because fabrication and installation of the proposed RSD is easy and cost-effective. This article proposes a replaceable steel device (RSD) that can be installed at the lower corners of a self-centering prefabricated RC shear wall (SCPSW) in order to prevent damage to the wall. The RSD consists of a steel pipe with two circular steel plates that close the ends of the tube, four stiffeners and an added damping and stiffness ADAS-type steel plate functioning as a fuse element. This device is easy to fabricate, install, and replace, and is inexpensive compared to other types of yielding dampers. One of the characteristics of this RSD is that its compressive strength is much higher than its tensile strength, which makes it compatible with the rocking behavior of a SCPSW. Another feature of this device is its ability to dissipate energy by tensile deformation. In case of damage, the RSD can be quickly and easily replaced. The contribution of the RSD in resisting the lateral load induced by an earthquake to the SCPSWR is another excellent feature of this device. Its resistant to compressive force exerted to the system is noticeable. Finally, the proposed RSD is a convenient device to prevent damage to a SCPSWR and would be a desirable candidate for practical use in earthquake-prone areas.
+
+
+    
+        AU - Codi McKee
+    
+        AU - Petros Sideris
+    
+        AU - Mija Hubler
+    
+
+TI - A Macromechanical Constitutive Model for Rebar Buckling
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023105
+VI - 149
+IP - 8
+AID - 10.1061/JSENDH.STENG-11349 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11349
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11349
+SO - Journal of Structural Engineering 2023-08-01 149(8): 04023105
+AB - Rebar buckling and fracture have been experimentally observed to cause significant degradation of the mechanical properties of reinforced concrete (RC) elements and should be accounted for in the analysis of RC structures. While data on the material properties of steel rebar are widely available, test data on rebar buckling remain scarce. This paper proposes a macromechanical model capable of predicting rebar buckling responses solely on the basis of steel material properties and the rebar geometry, even when rebar buckling experimental data are not available. This is achieved by computationally building the uniaxial stress-strain constitutive response at each analysis step through the equilibrium in the deformed configuration of the buckled rebar and through the cross-sectional constitutive response. The equilibrium in the deformed configuration is treated in a manner consistent with the corotational formulation, while the cross-sectional constitutive response is built through integration of a uniaxial damage plasticity model over the cross-section area. Rebar buckling is triggered by an initial imperfection, while low-cycle fatigue effects are reproduced through the uniaxial damage plasticity steel material model, without the need for cycle-counting algorithms. The proposed model is translated to a computer code, calibrated to a set of experimental data, validated to separate test data, and subsequently used in the analysis of an experimentally studied RC column that experienced rebar buckling under cyclic loading. Using the proposed model, the analysis captured the response of the RC column and the experimentally observed strength deterioration due to rebar buckling.
+
+
+    
+        AU - Shengyi Xu
+    
+        AU - Genshen Fang
+    
+        AU - Lin Zhao
+    
+        AU - Yaojun Ge
+    
+        AU - Junfeng Zhang
+    
+
+TI - Aerodynamic and Aerostatic Performance of a Long-Span Bridge with Wide Single Box Girder Installed with Vertical and Horizontal Stabilizers
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023106
+VI - 149
+IP - 8
+AID - 10.1061/JSENDH.STENG-11925 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11925
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11925
+SO - Journal of Structural Engineering 2023-08-01 149(8): 04023106
+AB - The continuous increase in traffic volume requires wider single box girders for long-span cable-supported bridges. Flutter and aerostatic instability are challenging issues for these flexible bridges, especially when they are located in typhoon-prone regions. Aerodynamic countermeasures such as vertical and horizontal stabilizers, which are convenient in operation, saving in cost, and effective in the enhancement of flutter performance, are usually employed to withstand the wind environment requirement. This study investigates the aerodynamic and aerostatic effects of upper central vertical stabilizers (UCVS), lower central vertical stabilizers (BCVS), horizontal stabilizers (HS), and their combinations on two wide single box girders with an aspect ratio larger than 12 at various angles of attack (AOAs). The optimal layouts of stabilizers for the enhancement of flutter performance are studied using a series of wind tunnel tests. Their control mechanisms are examined and discussed using flutter derivatives and step-by-step (SBS) method. A new index of nominal torsional center (NTC) is proposed to intuitively describe the flutter modality. The correlations among different indexes of flutter modality, flutter derivatives, and Ucr are further analyzed. The static coefficients of the bridge girders and the aerostatic performance of the bridge with or without stabilizers are also analyzed. Experiment results show that the values of Ucr for 4- and 5-m-high single box girders increased by 13.9% and 46.3%, respectively, after the hybrid installation of UCVS, BCVS, and HS at their optimal conditions. The analytical solutions indicate that the installation of different stabilizers changes the variation trend of the aerodynamic damping ratio with the wind speed to increase or reduce the flutter boundary. Four flutter modality indexes including amplitude ratio (Ψ), phase difference (ψ), energy participation level (Ph), and NTC are all found that have no obvious correlations with Ucr. The static analysis on a three-dimensional bridge showed that the optimal stabilizer schemes for flutter have insignificant effects on aerostatic performance.
+
+
+    
+        AU - Mengyao Shen
+    
+        AU - George Deodatis
+    
+        AU - Raimondo Betti
+    
+        AU - Blaise Blabac
+    
+        AU - Barney Martin
+    
+
+TI - A Novel Methodology for Inspection and Strength Evaluation of Suspension Bridge Main Cables
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023107
+VI - 149
+IP - 8
+AID - 10.1061/JSENDH.STENG-11891 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11891
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11891
+SO - Journal of Structural Engineering 2023-08-01 149(8): 04023107
+AB - A novel methodology is proposed to evaluate the ultimate strength of the main cables of suspension bridges using information obtained from site inspections and from tensile strength tests on selected wire samples extracted from the bridge’s main cables. A new model is proposed accounting for the spatial variation of individual wires’ strength along their length, an important physical attribute of corroded wires considered here for the first time. This model includes (1)&nbsp;mapping the corrosion stage variation along one-panel-long wires that are visible during an inspection; (2)&nbsp;establishing probability distribution functions for the ultimate tensile strength of 0.46&nbsp;m (18&nbsp;in.)–long wire segments in each corrosion stage group; (3)&nbsp;generating random realizations of the ultimate strength of all the wires in the cable’s cross section, accounting for their strength variation along the entire panel length; and (4)&nbsp;accounting for the effect of broken wires in the evaluation panel as well as in adjacent panels. A Monte Carlo simulation approach is finally proposed to generate random realizations of the ultimate overall strength of the cable, using an incremental loading procedure. The final outcome is the probability distribution of the ultimate strength of the entire cable. The methodology is demonstrated through the cable strength evaluation of the Franklin Delano Roosevelt Mid-Hudson Bridge using results of a 2009 inspection, and compared with corresponding results obtained using current guidelines. The proposed methodology provides estimates of higher accuracy and reliability for the cable’s ultimate strength, without essentially increasing the cost of inspections.
+
+
+    
+        AU - Chenhui Qian
+    
+        AU - Sijia Chen
+    
+        AU - Xiaobing Song
+    
+
+TI - In-Plane Behavior of Steel-Plate Composite Wall Elements under Intermediate High Temperature
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023108
+VI - 149
+IP - 8
+AID - 10.1061/JSENDH.STENG-12043 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12043
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12043
+SO - Journal of Structural Engineering 2023-08-01 149(8): 04023108
+AB - To explore how steel-plate composite (SC) walls response to in-plane loading is essential for SC structural design, especially combined with thermal loading. This work focuses on the intermediate high temperature (≤400°C) that is often considered during design process. Individual mechanical behavior of steel plate and concrete in SC walls under intermediate high temperature are studied. Thermoplasticity is applied to describe steel plate as 2D element, by which plastic flow combined with mechanical property degradation can be considered. High-temperature mechanical behavior of concrete is very complicated. In this study, strain of concrete at high temperature is decomposed into transient thermal strain, free thermal strain, and mechanical strain. By elaborating the physical meaning of transient thermal strain and selecting mathematical models for every strain component, deformation of high-temperature concrete can be calculated. To study the in-plane behavior experimentally, an SC panel test with in-plane shear and thermal loading was conducted. Steady thermal state and transient thermal state were considered in two specimens, respectively. Comparison between test data and theoretical calculation results shows good agreement. Verifications from other researchers’ tests show that the model can be applied to general situations of in-plane loading combined with intermediate high temperature.
+
+
+    
+        AU - Luisa Berto
+    
+        AU - Anna Saetta
+    
+        AU - Diego Talledo
+    
+
+TI - A New Bond Degradation Model for Freeze–Thaw-Damaged Reinforced Concrete
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023109
+VI - 149
+IP - 8
+AID - 10.1061/JSENDH.STENG-11577 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11577
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11577
+SO - Journal of Structural Engineering 2023-08-01 149(8): 04023109
+AB - Freeze–thaw cycles (FTCs) are one the most serious causes of damage in RC structures in cold regions affecting both concrete and bond behavior. In this paper, after a comprehensive review on the effects on concrete and bond of freeze–thaw degradation for ordinary concrete, a new constitutive bond stress-slip law is formulated in the framework of a coupled mechanical-environmental damage model. This law is developed exploiting the versatility of Bezier curves and using an optimization process based on genetic algorithms to select the best form among some options (composite quadratic, composite cubic, and a single fourth-order curve). Moreover, a comprehensive enhanced freeze–thaw degradation (E-FTD) model is developed including the effect of FTCs on bond behavior, by means of a new environmental damage parameter included in the proposed bond stress-slip law. The whole model is formulated, calibrated, and validated referring to all the available experimental data to the authors’ knowledge both for compressive and pull-out tests for ordinary concrete. The comparison with the experimental results showed the proposed E-FTD model is able to predict bond strength degradation fairly well and generally on the safe side, capturing also the overall bond-slip curves, making it particularly appealing for the structural analysis of RC elements subjected to FTCs according to an engineering-oriented approach.
+
+
+    
+        AU - Li-Min Tian
+    
+        AU - Bei-Bei Jin
+    
+        AU - Lei Li
+    
+
+TI - Axial Compressive Mechanical Behaviors of a Double-Layer Member
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023110
+VI - 149
+IP - 8
+AID - 10.1061/JSENDH.STENG-12175 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12175
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12175
+SO - Journal of Structural Engineering 2023-08-01 149(8): 04023110
+AB - The instability of structural members under axial compression most likely causes spatial structural collapse. Therefore, the configuration of double-layer members (DLMs) is proposed in this study to improve the stability of compression members. Experiments on four specimens (two single-layer members and two DLMs) were conducted, where the failure mechanism was revealed based on analysis of a validated finite-element (FE) model. Parametric studies were also performed to investigate the effects of different parameters on the compressive mechanical behaviors of the DLMs. Results showed that the desired failure mode of the DLMs was high-order buckling with torsion of the inner tube and no global buckling failure prior to contact between the outer tube and end plate (HTCG). Under the failure mode of HTCG, the ultimate load and ductility were greatly improved due to the constraint of the outer tube. Finally, predictions of the crucial loads derived from the equilibrium differential equation and empirical formula were in good agreement with the test and FE results.
+
+

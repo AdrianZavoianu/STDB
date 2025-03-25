@@ -1,0 +1,258 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Hua-Dong Zheng
+    
+        AU - Jian Fan
+    
+
+TI - Phenomenological Hysteretic Model for Steel Braces Including Inelastic Postbuckling and Low-Cycle Fatigue Prediction
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019037
+VI - 145
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0002319 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002319
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002319
+SO - Journal of Structural Engineering 2019-06-01 145(6): 04019037
+AB - This study presents a simple yet efficient phenomenological hysteretic model for hollow circular steel (HCS) braces without a middle connection in concentrically braced frames (CBFs). The model is calibrated on the basis of the available experimental results and on a series of numerical simulations by finite-element (FE) models, which are validated by existing experiments. The Miner linear cumulative damage theory based on the Coffin-Manson expression is used to represent the low-cycle fatigue deterioration of a brace subjected to cyclic loading. Furthermore, the cumulative yielding strength degradation is considered by a simplified formulation, which is defined as the cumulative fatigue damage. Comparisons of the hysteretic responses obtained by the proposed model with the results of the FE models show that this model can capture several failure modes of a brace during inelastic cyclic behaviors, such as yielding, inelastic postbuckling, strength degradation, and fracture due to low-cycle fatigue, as well as the fracture point. The cumulative dissipated energy of a brace is well-predicted by the model. In addition, this model takes much less computing time than the FE model and is therefore suitable for structural analyses. The model should be further examined to more precisely consider the effect of the local buckling of a brace with different cross-sectional geometries.
+
+
+    
+        AU - Rong-Pan Hu
+    
+        AU - You-Lin Xu
+    
+
+TI - SHM-Based Seismic Performance Assessment of High-Rise Buildings under Long-Period Ground Motion
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019038
+VI - 145
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0002323 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002323
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002323
+SO - Journal of Structural Engineering 2019-06-01 145(6): 04019038
+AB - Long-period ground motions from large-magnitude distant earthquakes can cause serious damage to high-rise buildings, even to those located in intraplate urban areas. Real-time monitoring and postearthquake performance assessment of high-rise buildings are therefore essential. Using an integrated optimal sensor placement and response reconstruction scheme, this paper proposes a determinstic real-time warning system and a probabilistic postearthquake performance assessment method for high-rise buildings during and after long-period earthquakes, respectively. Both the warning system and the assessment method make good use of the accurate and complete estimation of all the key structural responses reconstructed from the incomplete measurement data from limited sensors installed in the building. The warning system monitors the building structural behavior in real-time and issues various levels of warning whenever it detects structural responses exceeding the preset safety thresholds. The assessment method evaluates the structural component integrity after an earthquake in a probabilistic manner, incorporating the extreme value distribution of the reconstructed structural responses with the structural component fragility functions to determine the damage probabilities of the structural components. The proposed warning system and assessment method were applied to a superhigh-rise building as a case study. The results from the case study showed that the proposed warning system and assessment method are feasible and effective and have good potential for real application in high-rise buildings.
+
+
+    
+        AU - Wei Fan
+    
+        AU - Bin Liu
+    
+        AU - Gary R. Consolazio
+    
+
+TI - Residual Capacity of Axially Loaded Circular RC Columns after Lateral Low-Velocity Impact
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019039
+VI - 145
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0002324 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002324
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002324
+SO - Journal of Structural Engineering 2019-06-01 145(6): 04019039
+AB - RC bridge columns that are at risk for collision loading must be designed for lateral impact load. Because bridge columns must also support axial loads, evaluating the residual axial capacity and collapse risk of impact-damaged columns is important. This study examined axial performance characteristics of RC columns using compression after impact (CAI) testing of twelve circular columns. As residual deformations caused by lateral impact loading increased, residual axial strengths were found to decrease. Additionally, damage modes induced by impact loading were found to have an obvious influence on residual axial capacity. Shear-dominated impact damage was observed to result in greater reduction of axial capacity than did flexure-dominated damage. Because the maximum load imposed during a collision is usually unknown, an assessment method based on the postimpact state (deformation and damage mode) is proposed and was demonstrated to be capable of predicting postimpact residual axial capacity. The effects of reinforcement ratio and axial load ratio on postimpact capacity were parametrically investigated, and an empirical formula derived from the results was developed for estimating residual strengths.
+
+
+    
+        AU - Anh Tuan Pham
+    
+        AU - Kang Hai Tan
+    
+
+TI - Analytical Model for Tensile Membrane Action in RC Beam-Slab Structures under Internal Column Removal
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019040
+VI - 145
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0002303 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002303
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002303
+SO - Journal of Structural Engineering 2019-06-01 145(6): 04019040
+AB - An analytical approach was developed at Nanyang Technological University, Singapore, to predict structural capacities of RC beam-slab structures under the internal column removal scenario, taking into account the contribution of tensile membrane action in the slab. The model considers both commonly used loading methods in the laboratory, namely, concentrated and uniformly distributed loads. Catenary action in internal beams is neglected for conservatism, and tensile membrane action is assumed to rely solely on the yielding force of the top reinforcement arranged along negative yielding lines in the slab. The failure criterion of the model is based on fracture of longitudinal bars in internal beams, either near the middle or near the edge of beam-column joints. The proposed approach is shown to be reasonable because it provides conservative estimates compared with actual tests, which had high rotational restraints at the slab perimeter, and still gives good predictions for cases of semirigid rotational restraints.
+
+
+    
+        AU - Amory Martin
+    
+        AU - Gregory G. Deierlein
+    
+        AU - Xiang Ma
+    
+
+TI - Capacity Design Procedure for Rocking Braced Frames Using Modified Modal Superposition Method
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019041
+VI - 145
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0002329 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002329
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002329
+SO - Journal of Structural Engineering 2019-06-01 145(6): 04019041
+AB - Rocking braced frames (RBF) are innovative structural systems that maintain near-zero residual drift through controlled rocking and a self-centering posttensioning system. The braced frame members are designed to remain elastic, with inelasticity concentrated in energy-dissipating elements. Recently developed capacity design procedures are reviewed and compared with a newly proposed method, called the modified modal superposition (MMS) method, for a set of seven RBFs using nonlinear time-history analyses. The proposed design method employs a structural model whose boundary conditions mimic the rocked configuration of the structure and reduction of the forces associated with the first-mode response determined by the base moment demand at maximum considered earthquake (MCE). The proposed MMS procedure is shown to be equally or more accurate than other capacity design procedures in estimating story shear forces and brace and column axial forces in the RBFs. A reliability study supports applying a load amplification factor of 1.3 to the MMS force demands to meet reliability targets for capacity designed force-controlled members under MCE hazard demands.
+
+
+    
+        AU - Jiangtao Yu
+    
+        AU - Junhong Ye
+    
+        AU - Bin Zhao
+    
+        AU - Shilang Xu
+    
+        AU - Bin Wang
+    
+        AU - Kequan Yu
+    
+
+TI - Dynamic Response of Concrete Frames Including Plain Ductile Cementitious Composites
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019042
+VI - 145
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0002292 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002292
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002292
+SO - Journal of Structural Engineering 2019-06-01 145(6): 04019042
+AB - Ultrahigh ductile cementitious composites (UHDCC) developed by the authors has the tensile strain capacity up to 10%. Considering UHDCC has deformability close to steel used for the reinforcement of the concrete, the authors tried to study the feasibility of using plain UHDCC in civil engineering construction. In the present study, shaking table tests were conducted on two one-quarter–scale two-story frame models. One was a reference frame made of reinforced concrete (RC), while the other was a frame, of which all the seismic-vulnerable parts were made of plain UHDCC and the rest parts were inherited from the reference RC frame. The RC frame and UHDCC frame were exposed to a series of scaled earthquakes with the peak ground acceleration ranging from 0.105g to 1.178g. The seismic capacities of two frames were evaluated in terms of damage pattern, interstory shear-drift behavior and residual drift. It is indicated that the UHDCC frame had a similar seismic resistance capacity to the reference RC frame and performed even better in vibration control. According to the acquired dynamic characteristics and tensile strain, a preliminarily explanation was given to the seismic performances of the UHDCC frame. Finally, according to the relevant provisions in various seismic codes, the seismic performance level of the UHDCC frame was estimated.
+
+
+    
+        AU - Iván Gómez Araújo
+    
+        AU - Jose Elias Laier
+    
+        AU - Ricardo Carrazedo
+    
+
+TI - Enhanced Power Spectral Density Transmissibility Matrix for Operational Modal Analysis of Structures
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019043
+VI - 145
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0002322 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002322
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002322
+SO - Journal of Structural Engineering 2019-06-01 145(6): 04019043
+AB - The approach for identifying modal parameters of a structure from power spectral density transmissibility matrices, called the PSDTM-SVD method, is improved to identify modal parameters (including damping ratios) in a condition when the structure is not completely loaded. Therefore, an enhanced PSDTM-SVD method is proposed based on the use of a modified Moore-Penrose inverse to evaluate the singularity of the transmissibility matrices at the system poles and thus determine natural frequencies, mode shapes, and damping ratios. In the inverse modified operation, it is necessary to use a maximum number of singular values, which depends on the rank of the transmissibility matrix. One cause of the reduction of the matrix rank is the number of uncorrelated loads present in the structure. In this way, we propose a procedure for the automatic identification of the number of singular values that must be used in the Moore-Penrose inverse. Different numerical examples of a beam model subjected to colored noise excitations and data from an operational vibration bridge test showed that the proposed method is capable of identifying modal parameters.
+
+
+    
+        AU - Yunbyeong Chae
+    
+        AU - Jinhaeng Lee
+    
+        AU - Minseok Park
+    
+        AU - Chul-Young Kim
+    
+
+TI - Fast and Slow Cyclic Tests for Reinforced Concrete Columns with an Improved Axial Force Control
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019044
+VI - 145
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0002334 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002334
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002334
+SO - Journal of Structural Engineering 2019-06-01 145(6): 04019044
+AB - Cyclic tests have been widely used in earthquake engineering to experimentally evaluate the strength and postyield response of structures. It is well known that the lateral response of a structure can be significantly affected by the presence of axial load; thus, axial loads need to be correctly applied during tests to ensure the accuracy of test results. In the past, it was a challenging task to satisfy the axial force boundary condition in real time for axially stiff members. Therefore, the majority of cyclic tests were conducted slowly over an expanded time scale, which did not account for the rate-dependent behavior of structures under dynamic loads. This paper introduces a flexible loading frame (FLF) to enable large-capacity real-time axial force application to axially stiff members. Force application using the FLF was validated by conducting fast and slow cyclic tests for small-scale reinforced concrete columns. The RC columns were controlled to have the same lateral displacement path and axial load during the fast and slow cyclic tests, in which a constant target axial force was successfully applied to the RC columns using the FLF. Force-deformation relationships were obtained for each RC column, and notable differences in strength and damage patterns were observed between fast and slow cyclic tests, clearly demonstrating the importance of conducting real-time tests to better understand the true dynamic behavior of structures.
+
+
+    
+        AU - Amin Ghali
+    
+        AU - Ramez B. Gayed
+    
+
+TI - Serviceability and Strength of Concrete Floors and Bridge Decks: Grid Analogy
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019045
+VI - 145
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0002291 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002291
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002291
+SO - Journal of Structural Engineering 2019-06-01 145(6): 04019045
+AB - This paper analyzes bridge decks and two-way horizontal slabs with or without beams or drop panels using a grid analogy. The grid members are beams with a horizontal centroidal principal axis. The nodal displacements are a downward deflection, two rotations about Cartesian axes, and two translations along the Cartesian axes. The internal forces at a cross section of a grid member were a vertical shearing force, a twisting moment, a bending moment about horizontal principal centroidal axis, and a normal force at centroid. The model gives deflections in agreement with the solution of the differential equation of elastic deflection of thin plates. For ultimate strength design of sections and deflection calculation, it is recommended to use analysis of a grid with zero twisting moments. This can be done by setting a negligible value for the torsion constant for all members. Long-term curvatures and deflections are predicted using equations derived for beams.
+
+
+    
+        AU - Xue Zhang
+    
+        AU - Wei Dong
+    
+        AU - Changming Lv
+    
+        AU - Meng Yang
+    
+        AU - Jinping Ou
+    
+
+TI - Analytical Approach to Modeling the Effect of Transverse Reinforcements on the Bond Strength of Deformed Bars
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019046
+VI - 145
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0002293 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002293
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002293
+SO - Journal of Structural Engineering 2019-06-01 145(6): 04019046
+AB - The bond strength of deformed bars has been widely concerned owing to its importance in calculating development and/or splice lengths. Many database-independent analytical models were proposed to evaluate bond strength of deformed bars for their wider application. In these models, however, the effects of transverse reinforcements which greatly affect bond strength were not fully considered. Therefore, an analytical approach is presented in this study to model such effects on the bond strength between deformed bars and concrete. The proposed model is established by considering rebar-concrete surface characteristics and confinement around the rebar. The bond strength and bond failure mode of deformed bars can be predicted using the proposed model when geometrical and material properties of concrete cover, bar diameter, and layout of transverse reinforcements are known. Furthermore, the proposed model is verified by the tested data with respect to various levels of confinement. The results show that the proposed model is more appropriate for predicting bond strengths of specimens confined with transverse reinforcements by making a comprehensive comparison with the selected empirical models.
+
+
+    
+        AU - Nasser A. Marafi
+    
+        AU - Kamal A. Ahmed
+    
+        AU - Dawn E. Lehman
+    
+        AU - Laura N. Lowes
+    
+
+TI - Variability in Seismic Collapse Probabilities of Solid- and Coupled-Wall Buildings
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019047
+VI - 145
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0002311 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002311
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002311
+SO - Journal of Structural Engineering 2019-06-01 145(6): 04019047
+AB - Reinforced concrete walls are a common lateral load–resisting system for buildings. Common wall configurations are solid planar or solid flanged (H, I, T, L, or C-shaped cross sections) and coupled planar or flanged walls. A coupled-wall system comprises two solid walls linked at most floors by coupling beams that typically have length-to-depth ratios ranging from 2 to 4. In low- to midrise buildings, solid walls are expected and designed to form a single plastic hinge at the base of the wall; in mid- to high-rise buildings, a second hinge is expected in the upper half of the buildings. In coupled walls, plastic hinges are expected at the ends of the coupling beams and at the base of the wall. Because coupled walls offer a more distributed plastic mechanism, they are considered to provide superior earthquake performance to solid walls. This study employs nonlinear incremental dynamic analysis with the suite of ground motions from crustal earthquakes and a set of six idealized wall buildings of varying height to test the hypothesis that coupled walls provide reduced earthquake collapse risk over solid walls; to establish the sensitivity of collapse to modeling decisions and model parameters; and to identify design decisions that can reduce earthquake collapse risk.
+
+

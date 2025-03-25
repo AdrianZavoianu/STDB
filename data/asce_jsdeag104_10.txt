@@ -1,0 +1,454 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Armen Der Kiureghian
+    
+
+TI - Second-Moment Combination of Stochastic Loads
+PT - Journal Article
+DP - 1978
+TA - Journal of the Structural Division
+PG - 1551-1567
+VI - 104
+IP - 10
+AID - 10.1061/JSDEAG.0005005 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005005
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005005
+SO - Journal of the Structural Division 1978-10-01 104(10): 1551-1567
+AB - A practical method for specification and evaluation of stationary stochastic loads and their combinations is developed. A set of descriptor functions for stationary processes is introduced that describes the mean and variance of the extreme over given intervals of time, in terms of the random-point-in-time mean and variance of the process. For linear combinations of stationary loads, the mean and variance of the combined extreme are obtained in terms of the random-point-in-time means and variances of individual loads and their respective descriptor functions. Computed values of the extreme may be used in conjunction with the second-moment theory to evaluate structural reliabilities or required safety margins. Applications of the method to several load models are presented. Computed results for various combinations are shown to be in good agreement with Monte Carlo simulations.
+
+
+    
+        AU - Edward G. Lovell
+    
+        AU - Shitalkumar P. Morchi
+    
+
+TI - Stability Analysis of Beam-Crosses by Finite Integral Method
+PT - Journal Article
+DP - 1978
+TA - Journal of the Structural Division
+PG - 1569-1584
+VI - 104
+IP - 10
+AID - 10.1061/JSDEAG.0005006 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005006
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005006
+SO - Journal of the Structural Division 1978-10-01 104(10): 1569-1584
+AB - Pairs of orthogonal connected beams (beam-crosses) supported at their outer ends are analyzed for flexural-torsional instability. Loads consist of combinations of uniform transverse distributions, end thrust and a concentrated central force. Warping stiffness is included. Interaction curves are developed for various loading combinations as functions of span ratios, warping stiffnes and end support conditions. These results are obtained numerically using the finite integral method. The general characteristics of this method relevant to such lateral buckling problems are presented and considered in detail.
+
+
+    
+        AU - Jacques Biétry
+    
+        AU - Christian Sacré
+    
+        AU - Emil Simiu
+    
+
+TI - Mean Wind Profiles and Change of Terrain Roughness
+PT - Journal Article
+DP - 1978
+TA - Journal of the Structural Division
+PG - 1585-1593
+VI - 104
+IP - 10
+AID - 10.1061/JSDEAG.0005007 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005007
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005007
+SO - Journal of the Structural Division 1978-10-01 104(10): 1585-1593
+AB - Information is presented on the wind structure in established flow over terrains with various roughness characteristics (open water, open terrain, suburban terrain, towns, centers of large cities). Based on recent results of theoretical and experimental meteorological studies a simple procedure is then proposed, enabling the designer to assess the effect upon the mean wind profile of a roughness change upwind of the structure under consideration. The procedure, which is approximate but adequate for structural engineering purposes, is then illustrated in a numerical example.
+
+
+    
+        AU - Rafik Y. Itani
+    
+        AU - Francisco A. Brito
+    
+
+TI - Elastomeric Bonded Wood Beams with Transverse Gaps
+PT - Journal Article
+DP - 1978
+TA - Journal of the Structural Division
+PG - 1595-1609
+VI - 104
+IP - 10
+AID - 10.1061/JSDEAG.0005008 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005008
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005008
+SO - Journal of the Structural Division 1978-10-01 104(10): 1595-1609
+AB - This paper describes the development of expressions for stresses in and deflection of a two-layered T-beam bonded with an elastomeric adhesive. The beam is simply supported and subjected to a uniformly distributed load. Two flange conditions are investigated: discontinuities at third points and at fourth points. Relationships among stresses, deflections, and glue line rigidity are developed and solutions to illustrative examples are presented.
+
+
+    
+        AU - Lawrence A. Twisdale
+    
+
+TI - Tornado Data Characterization and Windspeed Risk
+PT - Journal Article
+DP - 1978
+TA - Journal of the Structural Division
+PG - 1611-1630
+VI - 104
+IP - 10
+AID - 10.1061/JSDEAG.0005009 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005009
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005009
+SO - Journal of the Structural Division 1978-10-01 104(10): 1611-1630
+AB - Tornado data records are analyzed for potential classification error, F-scale windspeed correlation, and tornado intensity variation. This assessment provides quantification of the uncertainties inherent in tornado wind loading specification and risk analysis as a result of the indirect measuring techniques utilized in the current national tornado classification methodology. A data base of over 4,500 tornadoes is analyzed according to three broad geographic regions to demonstrate the methodology and to provide input for tornado loading risk analyses. The results indicate that the potential classification error is significant for the intense tornadoes and tends to underestimate the likelihood of the rare events by several hundred percent. A set of updated windspeed transformations are presented which suggest that the original windspeed ranges are 10% to 20% too high. The maximum tornado windspeeds are suggested as 300 mph, 225 mph, and 200 mph for three identified tornado regions in the United States.
+
+
+    
+        AU - Peter Ansourian
+    
+        AU - Jack William Roderick
+    
+
+TI - Analysis of Composite Beams
+PT - Journal Article
+DP - 1978
+TA - Journal of the Structural Division
+PG - 1631-1645
+VI - 104
+IP - 10
+AID - 10.1061/JSDEAG.0005010 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005010
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005010
+SO - Journal of the Structural Division 1978-10-01 104(10): 1631-1645
+AB - The behavior is examined of composite beams consisting of a concrete slab attached to a steel beam by a shear connection. The effects of interface slip due to the flexibility of the connectors are included, as are the effects of residual stress and nonlinearity in the mechanical properties of the steel and concrete. Elastic methods of analysis are reviewed with the object of assessing the errors introduced by the conventional T-beam assumption. Comparisons are made with test reults on beams having adequate or inadequate shear connections, and having the relatively high width to span ratio of 0.35. In the nonlinear range, it was found that the combined effects of slip and residual stress were significant and could raise deflections by as much as 100%.
+
+
+    
+        AU - Robert Mark Lawson
+    
+
+TI - Design Formulas for Steel Folded Plate Roofs
+PT - Journal Article
+DP - 1978
+TA - Journal of the Structural Division
+PG - 1647-1655
+VI - 104
+IP - 10
+AID - 10.1061/JSDEAG.0005011 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005011
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005011
+SO - Journal of the Structural Division 1978-10-01 104(10): 1647-1655
+AB - Formulas are presented for the design of folded plate roofs using profiled steel sheeting and standard fastenings, based on their known performance in shear. As a result of full-scale tests to failure, the folded plate design criteria have been identified and evaluated. Consequently, simple expressions are derived for the roof span limitation, which may be presented in the form of a failure envelope for the four controlling factors of sheet shear, bending, buckling, and overall deflection.
+
+
+    
+        AU - Louis P. Schwendeman
+    
+        AU - Arthur W. Hedgren
+    
+
+TI - Bolted Repair of Fractured I-79 Girder
+PT - Journal Article
+DP - 1978
+TA - Journal of the Structural Division
+PG - 1657-1670
+VI - 104
+IP - 10
+AID - 10.1061/JSDEAG.0005012 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005012
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005012
+SO - Journal of the Structural Division 1978-10-01 104(10): 1657-1670
+AB - The scheme used to repair an 11-ft (3.36-m) deep web of a welded girder is described. Design checks and repair studies begun immediately after the failure are explained. After rejecting several repair schemes, the scheme chosen required work to be performed from a barge platform moored in the river under the bridge. Large test coupons were removed from the girder flange and web and fills inserted. The fractured halves of the girder bottom flange were jacked longitudinally to closure by four 300-ton (2,670-kN) hydraulic jacks. A force of approximately 2,000 kips (8,900-kN) was needed to reintroduce the dead-load moment. Bottom flange and web repair splices were made using A490 friction bolts to develop the full design capacity of the girder. The entire jacking operation was closely monitored by hydraulic gages and electrical resistance gages on the bridge.
+
+
+    
+        AU - Alexander Coull
+    
+        AU - Bishwanath Bose
+    
+
+TI - Closure to “Torsion of Frame-Tube Structures”
+PT - Journal Article
+DP - 1978
+TA - Journal of the Structural Division
+PG - 1673-1674
+VI - 104
+IP - 10
+AID - 10.1061/JSDEAG.0005013 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005013
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005013
+SO - Journal of the Structural Division 1978-10-01 104(10): 1673-1674
+
+
+    
+        AU - John T. Easley
+    
+
+TI - Closure to “Strength and Stiffness of Corrugated Metal Shear Diaphragms”
+PT - Journal Article
+DP - 1978
+TA - Journal of the Structural Division
+PG - 1674-1674
+VI - 104
+IP - 10
+AID - 10.1061/JSDEAG.0005014 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005014
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005014
+SO - Journal of the Structural Division 1978-10-01 104(10): 1674-1674
+
+
+    
+        AU - Yi-Kwei Wen
+    
+
+TI - Closure to “Statistical Combination of Extreme Loads”
+PT - Journal Article
+DP - 1978
+TA - Journal of the Structural Division
+PG - 1675-1676
+VI - 104
+IP - 10
+AID - 10.1061/JSDEAG.0005015 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005015
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005015
+SO - Journal of the Structural Division 1978-10-01 104(10): 1675-1676
+
+
+    
+        AU - Bruce Ellingwood
+    
+        AU - James R. Shaver
+    
+
+TI - Closure to “Reliability of RC Beams Subjected to Fire”
+PT - Journal Article
+DP - 1978
+TA - Journal of the Structural Division
+PG - 1677-1677
+VI - 104
+IP - 10
+AID - 10.1061/JSDEAG.0005016 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005016
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005016
+SO - Journal of the Structural Division 1978-10-01 104(10): 1677-1677
+
+
+    
+        AU - William M. Henghold
+    
+        AU - John J. Russell
+    
+        AU - Joseph D. Morgan
+    
+
+TI - Closure to “Free Vibrations of Cable in Three Dimensions”
+PT - Journal Article
+DP - 1978
+TA - Journal of the Structural Division
+PG - 1678-1679
+VI - 104
+IP - 10
+AID - 10.1061/JSDEAG.0005017 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005017
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005017
+SO - Journal of the Structural Division 1978-10-01 104(10): 1678-1679
+
+
+    
+        AU -  
+    
+
+TI - Closure to “Curved I-Girder Bridge Design Recommendations”
+PT - Journal Article
+DP - 1978
+TA - Journal of the Structural Division
+PG - 1679-1681
+VI - 104
+IP - 10
+AID - 10.1061/JSDEAG.0005018 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005018
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005018
+SO - Journal of the Structural Division 1978-10-01 104(10): 1679-1681
+
+
+    
+        AU - Ned H. Burns
+    
+        AU - Roongroj Hemakom
+    
+
+TI - Closure to “Test of Scale Model Post-Tensioned Flat Plate”
+PT - Journal Article
+DP - 1978
+TA - Journal of the Structural Division
+PG - 1681-1682
+VI - 104
+IP - 10
+AID - 10.1061/JSDEAG.0005019 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005019
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005019
+SO - Journal of the Structural Division 1978-10-01 104(10): 1681-1682
+
+
+    
+        AU - Bruce Ellingwood
+    
+
+TI - Closure to “Statistical Analysis of RC Beam-Column Interaction”
+PT - Journal Article
+DP - 1978
+TA - Journal of the Structural Division
+PG - 1683-1683
+VI - 104
+IP - 10
+AID - 10.1061/JSDEAG.0005020 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005020
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005020
+SO - Journal of the Structural Division 1978-10-01 104(10): 1683-1683
+
+
+    
+        AU - Michael P. Collins
+    
+        AU - Denis Mitchell
+    
+
+TI - Discussion of “Torsional-Balanced Steel in Concrete Beams”
+PT - Journal Article
+DP - 1978
+TA - Journal of the Structural Division
+PG - 1684-1687
+VI - 104
+IP - 10
+AID - 10.1061/JSDEAG.0005023 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005023
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005023
+SO - Journal of the Structural Division 1978-10-01 104(10): 1684-1687
+
+
+    
+        AU - Joseph H. Kaiserlik
+    
+        AU - Alan D. Freas
+    
+
+TI - Discussion of “Modulus of Elasticity of Timber Members”
+PT - Journal Article
+DP - 1978
+TA - Journal of the Structural Division
+PG - 1687-1689
+VI - 104
+IP - 10
+AID - 10.1061/JSDEAG.0005024 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005024
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005024
+SO - Journal of the Structural Division 1978-10-01 104(10): 1687-1689
+
+
+    
+        AU - Shunsuke Otani
+    
+
+TI - Discussion of “Models for RC Frames with Degrading Stiffness”
+PT - Journal Article
+DP - 1978
+TA - Journal of the Structural Division
+PG - 1689-1691
+VI - 104
+IP - 10
+AID - 10.1061/JSDEAG.0005025 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005025
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005025
+SO - Journal of the Structural Division 1978-10-01 104(10): 1689-1691
+
+
+    
+        AU - Fred C. McCormick
+    
+
+TI - Discussion of “Concrete Filled Structural Plastic Columns”
+PT - Journal Article
+DP - 1978
+TA - Journal of the Structural Division
+PG - 1691-1692
+VI - 104
+IP - 10
+AID - 10.1061/JSDEAG.0005026 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005026
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005026
+SO - Journal of the Structural Division 1978-10-01 104(10): 1691-1692
+
+
+    
+        AU - René Ryser
+    
+
+TI - Discussion of “Composite Bridge Decking by Stage-Deck Jacking”
+PT - Journal Article
+DP - 1978
+TA - Journal of the Structural Division
+PG - 1692-1693
+VI - 104
+IP - 10
+AID - 10.1061/JSDEAG.0005027 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005027
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005027
+SO - Journal of the Structural Division 1978-10-01 104(10): 1692-1693
+
+
+    
+        AU - Alex Aswad
+    
+
+TI - Discussion of “Prestressed Concrete Design by Linear Programming”
+PT - Journal Article
+DP - 1978
+TA - Journal of the Structural Division
+PG - 1693-1694
+VI - 104
+IP - 10
+AID - 10.1061/JSDEAG.0005028 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005028
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005028
+SO - Journal of the Structural Division 1978-10-01 104(10): 1693-1694
+
+
+    
+        AU - J. Michael Davies
+    
+
+TI - Erratum for “Simplified Diaphram Analysis”
+PT - Journal Article
+DP - 1978
+TA - Journal of the Structural Division
+PG - 1684-1684
+VI - 104
+IP - 10
+AID - 10.1061/JSDEAG.0005021 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005021
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005021
+SO - Journal of the Structural Division 1978-10-01 104(10): 1684-1684
+
+
+    
+        AU - Michael R. Horne
+    
+        AU - Rangachari Narayanan
+    
+
+TI - Erratum for “Design of Axially Loaded Stiffened Plates”
+PT - Journal Article
+DP - 1978
+TA - Journal of the Structural Division
+PG - 1684-1684
+VI - 104
+IP - 10
+AID - 10.1061/JSDEAG.0005022 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005022
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005022
+SO - Journal of the Structural Division 1978-10-01 104(10): 1684-1684
+
+

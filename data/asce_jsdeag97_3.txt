@@ -1,0 +1,778 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - M. J. L. Hussey
+    
+        AU - A. I. Tarzi
+    
+        AU - W. F. D. Theron
+    
+
+TI - Simply Supported Rectangular Double-Layered Grids
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 753-764
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002843 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002843
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002843
+SO - Journal of the Structural Division 1971-03-01 97(3): 753-764
+AB - The governing difference equations are given for a class of double-layered grids. They are solved for arbitrary loading by use of double finite Fourier series. The boundary conditions corresponding to this form of solution are shown, by a numerical comparison, to represent a good approximation to practical conditions of support. The grids treated are pin-jointed and have rectangular meshes. The boundaries are parallel to the axes of symmetry of the mesh. A result of significance in model testing is established. Generalizations for grids of a wider class are briefly considered.
+
+
+    
+        AU - Sherwood F. Crawford
+    
+        AU - Geoffrey L. Kulak
+    
+
+TI - Eccentrically Loaded Bolted Connections
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 765-783
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002844 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002844
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002844
+SO - Journal of the Structural Division 1971-03-01 97(3): 765-783
+AB - Although present methods of investigating eccentrically loaded fastener groups have produced safe designs, the factor of safety is, in general, unknown. A rational theoretical method of predicting the ultimate load on eccentrically loaded fastener groups is developed. The method is based on a recognition of the true load-deformation response of the fasteners. The validity of the theoretical approach has been verified by a testing program using eight full-size specimens. The test results agreed favorably with the theoretical predictions. By making use of the more accurate predictions presented, the factor of safety can be brought in line with that of other structural components and can be established at a constant value for all connections of this type.
+
+
+    
+        AU - Jan C. Jofriet
+    
+        AU - Gregory M. McNeice
+    
+
+TI - Finite Element Analysis of Reinforced Concrete Slabs
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 785-806
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002845 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002845
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002845
+SO - Journal of the Structural Division 1971-03-01 97(3): 785-806
+AB - The bending analysis of reinforced concrete slabs by the finite element method is presented. The analysis concentrates on the nonlinear behavior due to progressive cracking of a slab and does not include post-yield behavior. The Branson and Beeby methods are explored for estimating the rigidity of a cracked concrete region. The latter is found to yield better results. In order to deal with cracking in any arbitrary direction, suggestions are made for the transformation of the matrix of flexural rigidities and for the determination of equivalent steel areas with respect to the orientation of the cracks in a region. Some results are presented to demonstrate the proposed method.
+
+
+    
+        AU - Kashi T. Sundara Raja Iyengar
+    
+        AU - Mandanapalle K. Prabhakara
+    
+
+TI - Anchor Zone Stresses in Prestressed Concrete Beams
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 807-824
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002846 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002846
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002846
+SO - Journal of the Structural Division 1971-03-01 97(3): 807-824
+AB - A solution for the stress distribuiton in the anchorage zone of post-tensioned concrete beams based on the three-dimensional elasticity theory is presented. The problem is idealized as that of a rectangular prism with normal forces acting on a pair of opposite sides. A three-dimensional solution for this problem is obtained using the Galerkin vector and adopting a multiple Fourier series procedure so that all the governing equations are satisfied. Numerical results were obtained for a particular case and the results compared and analyzed with the results of previous investigations. It was found that the two-dimensional elasticity solution gives good values for the bursting tension except when the end load is concentrated. In this particular case the value for bursting tensile stress given by the present solution is very large compared to the two-dimensional solution. In general, results of actual tests on concrete glock apear to greatly overestimate the bursting stresses.
+
+
+    
+        AU - Denison Campbell-Allen
+    
+        AU - Raymond J. L. Wedgwood
+    
+
+TI - Need for Diaphragms in Concrete Box Girders
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 825-842
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002847 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002847
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002847
+SO - Journal of the Structural Division 1971-03-01 97(3): 825-842
+AB - The action of diaphragms in single-cell concrete box girders is covered with particular reference to torsional loading. A simple analysis of the distortion of boxes is presented in which the webs are treated as beams on elastic foundations. An empirical factor for the effective span of the top and bottom plates has been selected to agree with experimental results and this factor is consistent with values obtained from more elaborate analyses from other sources. Current designs are analyzed and the need for diaphragms is considered in terms of web moments and shears and transverse moments. The simplified analysis enables a designer to visualize readily the behavior of the box section. Diaphragms are generally required at bearings. In those few cases where diaphragms are required in the spans their spacing can be determined rationally.
+
+
+    
+        AU - Thomas Paulay
+    
+
+TI - Coupling Beams of Reinforced Concrete Shear Walls
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 843-862
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002848 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002848
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002848
+SO - Journal of the Structural Division 1971-03-01 97(3): 843-862
+AB - The behavior of short and relatively deep reinforced concrete beams, which occur in shear walls of multistory structures, and the damage or failure of which has been observed in recent earthquakes, is examined. Experimental and analytical studies indicate that their ultimate flexural capacity is reduced by large shearing forces, even if a diagonal tension failure is prevented by adequate web reinforcement. After diagonal cracking, the distribution of internal forces radically differs from that observed in beams of normal proportions. The flexural reinforcement is found to be in tension in areas where compression is expected, and this affects the beam's ductility. Shear deformations of diagonally cracked coupling beams greatly overshadow those causd by flexure. With the aid of a model of the cracked beam its stiffness can be approximated. This satisfactorily agrees with observations which indicate that the stiffness after cracking is less than 20% of the stiffness of uncracked coupling beams.
+
+
+    
+        AU - Leonard Rice
+    
+
+TI - Computer Plotted Prestressed Concrete Design Charts
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 863-879
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002849 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002849
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002849
+SO - Journal of the Structural Division 1971-03-01 97(3): 863-879
+AB - A computer-prepared and -plotted system of graphic design aids for standard prestressed concrete sections that permits an exact, immediate and complete design of any uniformly loaded simple span is described. The system, termed Speed Graphs, consists of a set of design charts that outline visually the interaction of all design parameters affecting prestressed concrete design—prestress force, camber, release strength, top tension, bottom tension, deflection at various stages of loading, ultimate strength, shear steel required at d/2 from the face and at the quarter points, and by the minimum shear steel equation. Developed initially for twin tee sections, the system has been extended to single tees and highway bridge girders and is also applicable to beams. Speed Graphs can be prepared for composite or noncomposite sections of stone or light-weight aggregate and can be made to include partial prestressing (variable allowable bottom tension).
+
+
+    
+        AU - David W. Fowler
+    
+
+TI - Design of Laterally Unsupported Timber Beams
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 881-889
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002850 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002850
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002850
+SO - Journal of the Structural Division 1971-03-01 97(3): 881-889
+AB - Timber specifications now recognize a rational procedure for the design of laterally unsupported beams, and design aids have been developed to simplify selection of members. Three categories of flexural members are recognized based upon the potential mode of failure. The allowable stress for beams subject to lateral instability is a function of the beam slenderness factor and modulus of elasticity. The slenderness factor is a dimensionless constant relating the effective unbraced length, width, and depth. Beam properties and lateral stability constants are furnished for a wide range of laminated beam sections. Allowable stress curves for the full range of permissible slenderness factors are presented for three grades of laminated timber. Design examples illustrate the design procedure and the use of the design aids.
+
+
+    
+        AU - Donald Sherman
+    
+
+TI - Residual Stresses and Tubular Compression Members
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 891-904
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002851 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002851
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002851
+SO - Journal of the Structural Division 1971-03-01 97(3): 891-904
+AB - A computer study of concentrically loaded tubes shows that the strength reduction reaches 40% when the residual stress in the corner is at the compressive yield point of the elastic-plastic material. For members loaded with an eccentric axial force causing bending about the strong axis, the effect of residual stresses decreases as the eccentricity increases. Hence strength reductions of up to 40% are again possible for small eccentricities. The ratios of width or thickness to depth of the section have negligible influence on the magnitude of the residual stress effect. The residual stress pattern also influences the strength reduction when eccentrically loaded columns are free to buckle about the weak axis. This effect is most pronounced in narrow sections and increases as the load eccentricity increases. The classic interaction equation can be quite conservative in predicting unbraced beam column strengths when corners have a high residual tension.
+
+
+    
+        AU - Verl Lobb
+    
+        AU - Floyd Stoller
+    
+
+TI - Bolted Joints under Sustained Loading
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 905-933
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002852 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002852
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002852
+SO - Journal of the Structural Division 1971-03-01 97(3): 905-933
+AB - A study of bolted structural joints under sustained loads (1,000 hours) was made to determine long-term joint slip. Joints representative of antenna structural joints were used. These joints were coated with galvanize, Inorganic Zinc primer, red oxide zinc chromate primer, and mill scale. Interference bolts and hexhead bolts of two different grades were used (ASTM A325 and ASTM A490). The bolted structural joints were tested for long-term static shear stress, long-term static shear stress with a superimposed transverse vibration, and a short-term static shear stress with repetitive load reversals. The effects of such variables as joint and fastener coatings, bolt design, strength level shear, tension stress, and balanced design tension-shear rates were studied. All of the faying surfaces tested reached a steady-state rate of slip under sustained loads. The amount and degree of total slip and slip rate were dependent principally on joint shear stress, faying-surface coating, and bolt type.
+
+
+    
+        AU - Peter C. Birkemoe
+    
+        AU - Ramachandran Srinivasan
+    
+
+TI - Fatigue of Bolted High Strength Structural Steel
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 935-950
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002853 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002853
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002853
+SO - Journal of the Structural Division 1971-03-01 97(3): 935-950
+AB - Results of fatigue tests on bolted connections in high strength structural steel conducted at the University of Illinois are presented. The principal parameter varied was the bolt type; one additional variation was included also. Constant amplitude fatigue tests were conducted at various stress ratios, with particular emphasis on zero-to-tension testing. The results indicate improved fatigue strength for high strength structural steel (yield strength = 50.0 ksi) compared to A36 steel. Connections with A325 bolts exhibit approximately the same fatigue strength as those in which A490 bolts are used. A comparison of results of present study with those from other sources indicates that stress based on gross section area gives a better correlation with the number of load cycles to failure of steel in bolted connections than net section stress.
+
+
+    
+        AU - Alfred Bishara
+    
+        AU - Jong-Cheng Peir
+    
+
+TI - Closure to “Reinforced Concrete Rectangular Columns in Torsion”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 953-954
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0006129 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006129
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006129
+SO - Journal of the Structural Division 1971-03-01 97(3): 953-954
+
+
+    
+        AU - Iain A. Macleod
+    
+
+TI - Closure to “New Rectangular Finite Element for Shear Wall Analysis”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 955-956
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0006130 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006130
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006130
+SO - Journal of the Structural Division 1971-03-01 97(3): 955-956
+
+
+    
+        AU - Alfredo H.-S. Ang
+    
+        AU - Mohammad Amin
+    
+
+TI - Closure to “Safety Factors and Probability in Structural Design”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 956-960
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0006131 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006131
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006131
+SO - Journal of the Structural Division 1971-03-01 97(3): 956-960
+
+
+    
+        AU - Christos C. Chamis
+    
+
+TI - Closure to “Buckling of Anisotropic Composite Plates”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 960-962
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0006132 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006132
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006132
+SO - Journal of the Structural Division 1971-03-01 97(3): 960-962
+
+
+    
+        AU - George Abdel-Sayed
+    
+
+TI - Closure to “Effective Width of Thin Plates in Compression”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 963-964
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0006133 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006133
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006133
+SO - Journal of the Structural Division 1971-03-01 97(3): 963-964
+
+
+    
+        AU - Conrad P. Heins
+    
+        AU - Robert L. Hails
+    
+
+TI - Closure to “Behavior of Stiffened Curved Plate Model”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 964-965
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0006134 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006134
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006134
+SO - Journal of the Structural Division 1971-03-01 97(3): 964-965
+
+
+    
+        AU - Chiyyarath V. Girijavallabhan
+    
+
+TI - Closure to “Buckling Loads of Nonuniform Columns”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 965-966
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0006135 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006135
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006135
+SO - Journal of the Structural Division 1971-03-01 97(3): 965-966
+
+
+    
+        AU - Gayle E. Albritton
+    
+
+TI - Closure to “Deep Slabs Subjected to Static and Blast Loading”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 966-967
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0006136 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006136
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006136
+SO - Journal of the Structural Division 1971-03-01 97(3): 966-967
+
+
+    
+        AU - Maurice L. Sharp
+    
+
+TI - Closure to “Field Tests of Aluminum Orthotropic Bridge Deck”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 967-967
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0006137 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006137
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006137
+SO - Journal of the Structural Division 1971-03-01 97(3): 967-967
+
+
+    
+        AU - David Johnson
+    
+        AU - Derick M. Brotton
+    
+
+TI - Closure to “Optimum Elastic Design of Redundant Trusses”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 968-968
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0006138 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006138
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006138
+SO - Journal of the Structural Division 1971-03-01 97(3): 968-968
+
+
+    
+        AU - George I. N. Rozvany
+    
+
+TI - Discussion of “Behavior of Simply Supported Slabs”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 969-971
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0006139 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006139
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006139
+SO - Journal of the Structural Division 1971-03-01 97(3): 969-971
+
+
+    
+        AU - K. V. Swaminathan
+    
+        AU - N. Raghavendra
+    
+
+TI - Discussion of “Concrete Beams in Bending, Torsion and Shear”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 972-976
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002854 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002854
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002854
+SO - Journal of the Structural Division 1971-03-01 97(3): 972-976
+
+
+    
+        AU - B. K. Mital
+    
+
+TI - Discussion of “Concrete Beams in Bending, Torsion and Shear”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 976-977
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002855 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002855
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002855
+SO - Journal of the Structural Division 1971-03-01 97(3): 976-977
+
+
+    
+        AU - Umakanta Behera
+    
+
+TI - Discussion of “Concrete Beams in Bending, Torsion and Shear”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 977-978
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002856 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002856
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002856
+SO - Journal of the Structural Division 1971-03-01 97(3): 977-978
+
+
+    
+        AU - D. Melville Porter
+    
+
+TI - Discussion of “Analytical Model for Lateral Load Effect on Buildings”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 978-979
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002857 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002857
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002857
+SO - Journal of the Structural Division 1971-03-01 97(3): 978-979
+
+
+    
+        AU - K. V. Swaminathan
+    
+        AU - N. Raghavendra
+    
+
+TI - Discussion of “Arch Action and Bond in Concrete Shear Failures”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 979-983
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002858 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002858
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002858
+SO - Journal of the Structural Division 1971-03-01 97(3): 979-983
+
+
+    
+        AU - Surendra K. Ojha
+    
+
+TI - Discussion of “Arch Action and Bond in Concrete Shear Failures”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 983-986
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002859 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002859
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002859
+SO - Journal of the Structural Division 1971-03-01 97(3): 983-986
+
+
+    
+        AU - Chinta S. Reddy
+    
+        AU - B. Rajaram
+    
+
+TI - Discussion of “Arch Action and Bond in Concrete Shear Failures”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 986-987
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002860 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002860
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002860
+SO - Journal of the Structural Division 1971-03-01 97(3): 986-987
+
+
+    
+        AU - Satyendra K. Ghosh
+    
+
+TI - Discussion of “Effects of Reinforcements on Ductility of Concrete”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 988-989
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002861 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002861
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002861
+SO - Journal of the Structural Division 1971-03-01 97(3): 988-989
+
+
+    
+        AU - Ryszard Kowalcyzk
+    
+
+TI - Discussion of “Effects of Reinforcements on Ductility of Concrete”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 989-991
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002862 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002862
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002862
+SO - Journal of the Structural Division 1971-03-01 97(3): 989-991
+
+
+    
+        AU - K. Nagi Reddy
+    
+        AU - S. Ramaswamy Reddy
+    
+
+TI - Discussion of “Effects of Reinforcements on Ductility of Concrete”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 991-995
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002863 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002863
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002863
+SO - Journal of the Structural Division 1971-03-01 97(3): 991-995
+
+
+    
+        AU - Lennart Elfgren
+    
+        AU - Inge Karlsson
+    
+        AU - Anders Losberg
+    
+
+TI - Discussion of “What Do We Know about Torsion in Concrete Members?”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 995-996
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002864 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002864
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002864
+SO - Journal of the Structural Division 1971-03-01 97(3): 995-996
+
+
+    
+        AU - Umakanta Behera
+    
+
+TI - Discussion of “What Do We Know about Torsion in Concrete Members?”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 996-997
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002865 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002865
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002865
+SO - Journal of the Structural Division 1971-03-01 97(3): 996-997
+
+
+    
+        AU - Bharat L. Mehrotra
+    
+
+TI - Discussion of “Shear Lag in Stiffened Box Girders”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 998-999
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002866 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002866
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002866
+SO - Journal of the Structural Division 1971-03-01 97(3): 998-999
+
+
+    
+        AU - David A. Nethercot
+    
+
+TI - Discussion of “Experimental Study of Flexural-Torsional Buckling”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 1000-1003
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002837 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002837
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002837
+SO - Journal of the Structural Division 1971-03-01 97(3): 1000-1003
+
+
+    
+        AU - K. T. Sundara Raja Iyengar
+    
+        AU - Prakash Desayi
+    
+        AU - K. Nagi Reddy
+    
+
+TI - Discussion of “Compression-Tests on Hoop-Reinforced Concrete”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 1003-1005
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002838 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002838
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002838
+SO - Journal of the Structural Division 1971-03-01 97(3): 1003-1005
+
+
+    
+        AU - Satyendra K. Ghosh
+    
+
+TI - Discussion of “Compression-Tests on Hoop-Reinforced Concrete”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 1005-1007
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002839 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002839
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002839
+SO - Journal of the Structural Division 1971-03-01 97(3): 1005-1007
+
+
+    
+        AU - Bandhuvula V. Subrahmanyam
+    
+
+TI - Discussion of “Rational Design of Light Gage Beams”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 1007-1008
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002840 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002840
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002840
+SO - Journal of the Structural Division 1971-03-01 97(3): 1007-1008
+
+
+    
+        AU - Ernest F. Masur
+    
+
+TI - Discussion of “Elastic Lateral Buckling of Steel Beams”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 1008-1011
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002841 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002841
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002841
+SO - Journal of the Structural Division 1971-03-01 97(3): 1008-1011
+
+
+    
+        AU - Settiana G. Krishnasamy
+    
+        AU - Archibald N. Sherbourne
+    
+
+TI - Model I-Shaped Beams under Alternating Deflections
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 1015-1019
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0002842 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002842
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002842
+SO - Journal of the Structural Division 1971-03-01 97(3): 1015-1019
+AB - The importance of studying the behavior of structural components under low-cycle fatigue conditions, as an extension of simple plastic theory, has been described by the writers in earlier publications. An analytical technique has been developed to predict the performance of simple and indeterminate structural components under reversed cyclic deflection. The technique has been extended herein to the study of miniature I-beams subjected to completely reversed cyclic deflections.
+
+
+    
+        AU - Chiyyarath V. Girijavallabhan
+    
+
+TI - Erratum for “Analysis of Shear Walls with Openings”
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 962-962
+VI - 97
+IP - 3
+AID - 10.1061/JSDEAG.0006145 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006145
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006145
+SO - Journal of the Structural Division 1971-03-01 97(3): 962-962
+
+

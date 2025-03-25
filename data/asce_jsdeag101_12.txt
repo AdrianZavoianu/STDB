@@ -1,0 +1,361 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - R. Shankaran Nair
+    
+
+TI - Overall Elastic Stability of Multistory Buildings
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 2487-2503
+VI - 101
+IP - 12
+AID - 10.1061/JSDEAG.0004229 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004229
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004229
+SO - Journal of the Structural Division 1975-12-01 101(12): 2487-2503
+AB - Procedures are presented for the three-dimensional analysis of the overall elastic stability of multistory buildings and for the inclusion of stability effects in lateral-load analysis. The effect of axial force on the flexural stiffness of individual members is neglected. Floors are treated as diaphragms that are rigid in the horizontal plane. The suggested procedures do not require the solution of nonlinear systems of equations or nonlinear eigenvalue problems. The proposed techniques were used to study several 20-story buildings whose structural framing systems were designed in accordance with current engineering practice. The results of these analyses indicate that buildings that are designed without regard to overall elastic stability can have very low factors of safety against elastic buckling, especially in a torsional mode; second-order effects can cause substantial increases in the displacements and stresses due to wind and other horizontal loads.
+
+
+    
+        AU - Ari Danay
+    
+        AU - Menachem Gellert
+    
+        AU - Jacob Gluck
+    
+
+TI - Continuum Method for Overall Stability of Tall Asymmetric Buildings
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 2505-2521
+VI - 101
+IP - 12
+AID - 10.1061/JSDEAG.0004230 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004230
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004230
+SO - Journal of the Structural Division 1975-12-01 101(12): 2505-2521
+AB - A solution for the buckling loads of asymmetric tall buildings with uniform cross section is presented, using a three-dimensional continuum model and including the effects due to normal strains in columns and shear walls. The layout of the stiffening elements in the plane of the structure is arbitrary, without restrictions as to shape of the shear wall cross section, direction of its principal axes, and orientation of the frames. The equilibrium equations for rotation, lateral and normal displacements are formulated in variational terms. Buckling loads are calculated by means of infinite polynomial series, using the existence criterion for a nonzero solution of the homogeneous system of differential equations. For practical application of the method, the use of a computer is essential. The numerical example worked out shows that for slightly deformable connecting beam systems, largely overestimated buckling loads may result by omission of axial strains.
+
+
+    
+        AU - Donald S. Mansell
+    
+        AU - Peter Dobos
+    
+
+TI - Fracture Sensitivity of Dynamically Loaded Girders
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 2523-2535
+VI - 101
+IP - 12
+AID - 10.1061/JSDEAG.0004231 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004231
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004231
+SO - Journal of the Structural Division 1975-12-01 101(12): 2523-2535
+AB - The effect of dynamic traffic loads on the brittleness of steel highway bridge girders is found to be considerable if fracture initiation is taken as the criterion of brittleness. The effect on propagation of these fractures is less dramatic. A universal beam section was used for the experiment. It was found that a strain rate increase from 30 × 10−6s−1 to 30 × 10−3s−1 caused a shift of25°C (45°F) in the highest temperature for fracture initiation, while the highest temperature for complete fracture at certain strain levels was shifted by only 10°C (18°F).
+
+
+    
+        AU - Ricardo O. Foschi
+    
+        AU - Jack Longworth
+    
+
+TI - Analysis and Design of Griplam Nailed Connections
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 2537-2555
+VI - 101
+IP - 12
+AID - 10.1061/JSDEAG.0004232 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004232
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004232
+SO - Journal of the Structural Division 1975-12-01 101(12): 2537-2555
+AB - A stress analysis for Griplam nailed connections is presented for loads parallel and loads perpendicular to the grain. For loads parallel to the grain, two modes of failure are studied: (1)Yielding of the nails in bending with simultaneous bearing failure of the wood under the nail shanks; and (2)wood failure around the group of nails. Maximum stresses in the wood are determined in terms of geometrical parameters of the connection: number of rows of nails, number of nails per row, nail penetration length, spacing of nails, and distances between the nail group and edges of the timber member. Ultimate loads are derived for both modes of failure and allowable loads are determined. For the second mode, Weibull's theory of brittle fracture applied to the longitudinal shear strength of wood is used. Good agreement is shown between theoretical failure loads and full-size connection test results using Douglas-fir. Design procedures are proposed.
+
+
+    
+        AU - Michael J. O’Rourke
+    
+        AU - Richard A. Parmelee
+    
+        AU - Ross B. Corotis
+    
+
+TI - Response of Structures to Random Wind Forces
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 2557-2571
+VI - 101
+IP - 12
+AID - 10.1061/JSDEAG.0004233 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004233
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004233
+SO - Journal of the Structural Division 1975-12-01 101(12): 2557-2571
+AB - The effect of wind forces are of primary importance in the design of tall buildings. Since wind forces are random variables, it is necessary to approach the problem from a statistical viewpoint. This paper presents a method for making an analysis of the response of a building subjected to a wind loading. The forcing function is assumed to be an independent stationary stochastic process, and the output of the analysis are the standard deviations of the floor displacements. Also presented is a study of the effect of neglecting inertia and damping terms associated with flexural motions of the floor analysis. Finally, an approximate method for determining the standard deviations of the rigid body floor displacements is presented which yields results that are within 10% of the exact values.
+
+
+    
+        AU - Ronald F. Zollo
+    
+
+TI - Fiber Reinforced Concrete Extrusion
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 2573-2583
+VI - 101
+IP - 12
+AID - 10.1061/JSDEAG.0004234 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004234
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004234
+SO - Journal of the Structural Division 1975-12-01 101(12): 2573-2583
+AB - Results of tests involving extrusion of fibrous concrete (FRC) indicate the feasibility of the process. Extrusion through a stationary die proves beneficial to the mechanisms governing material behavior. The results of flexure tests are considered for extruded steel and glass fibrous concrete. The extrusion process caused a reorientation of originally randomly-oriented fibers toward an alignment parallel to the axis of extrusion, which is favorable with respect to flexural strengthening. An asbestos-cement filler provided a matrix strengthened by the addition of both glass and steel fibers. Clay fillers were weaker.
+
+
+    
+        AU - Russell H. Brown
+    
+
+TI - Minimum Cost Selection of One-Way Slab Thickness
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 2585-2590
+VI - 101
+IP - 12
+AID - 10.1061/JSDEAG.0004235 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004235
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004235
+SO - Journal of the Structural Division 1975-12-01 101(12): 2585-2590
+AB - Considerable cost savings can result from the design of one-way reinforced concrete slabs, beams of constant width, and footings based on cost minimization techniques of flexural capacity. Equations for minimum cost slab depth are developed and a simple iterative method of their solution is presented. Resulting slab costs are compared, one using the minimum cost procedure, the other based on minimum slab thickness requiring no deflection check. The minimum cost slab usually requires a deflection check except where steel is expensive relative to concrete or for intense design loads.
+
+
+    
+        AU - Harold S. Reemsnyder
+    
+
+TI - Fatigue Life Extension of Riveted Connections
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 2591-2608
+VI - 101
+IP - 12
+AID - 10.1061/JSDEAG.0004236 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004236
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004236
+SO - Journal of the Structural Division 1975-12-01 101(12): 2591-2608
+AB - The paper describes a fatigue test program that studied the effectiveness of rehabilitation by replacement of rivets with high-strength structural bolts in critical or fatigue-damaged locations as a more economical alternative to replacement of entire members. Constant amplitude fatigue tests and variable amplitude service simulation tests of full-scale model ore bridge joints and constant amplitude tests of joints removed from an ore bridge showed that rehabilitation of fatigue-damaged members by fastener replacement increases fatigue life two to six times. It was found that cumulative damage analysis of the constant amplitude tests conservatively predicts the variable amplitude test phenomena. The effect on fatigue life extension of increasing bolt tension above the minimum value accepted in present specifications and the effect of crack length up to l in. (25 mm) long or both, at rehabilitation were found to be of secondary importance.
+
+
+    
+        AU - Vijaya K. A. Gopu
+    
+        AU - James R. Goodman
+    
+
+TI - Full-Scale Tests on Tapered and Curved Glulam Beams
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 2609-2626
+VI - 101
+IP - 12
+AID - 10.1061/JSDEAG.0004237 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004237
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004237
+SO - Journal of the Structural Division 1975-12-01 101(12): 2609-2626
+AB - A series of full-scale tests, designed to evaluate the available theoretical analyses, were conducted on double-tapered, pitched, and curved glulam beam members. The Douglas-fir beams, each with a span of 30 ft, varied in pitch from 2 in 12 to 5 in 12. Each beam was instrumented for strain and deflection measurements and tested under working loads. In addition, load tests were conducted to beam failure, which occurred in radial tension stress for the beams that were not reinforced. Test results generally confirm the currently used theory for evaluation of radial tension stress. Suggestions for altering current design procedures are examined.
+
+
+    
+        AU - Gordon H. Holze
+    
+        AU - Arthur P. Boresi
+    
+
+TI - Free Vibration Analysis Using Substructuring
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 2627-2639
+VI - 101
+IP - 12
+AID - 10.1061/JSDEAG.0004238 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004238
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004238
+SO - Journal of the Structural Division 1975-12-01 101(12): 2627-2639
+AB - The method of substructuring is developed and applied to the solution of free vibration problems for large structural systems. Modifications to the substructure stiffness and mass matrices permit the substructure mode shapes to more accurately conform to the complete system mode shapes. These modifications account for the elastic and inertial effects of the surrounding structure on each substructure. Computational algorithms are described which determine the substructure mode shapes associated with the lowest natural frequencies. These algorithms are based on an iterative scheme with an automatic starting method. The synthesis method for the determination of the system mode shapes from the substructure mode shapes is demonstrated. An example problem is solved and the solution compared to that obtained by a conventional method.
+
+
+    
+        AU - Dharapuram S. Jagannathan
+    
+        AU - Howard I. Epstein
+    
+        AU - Paul Christiano
+    
+
+TI - Nonlinear Analysis of Reticulated Space Trusses
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 2641-2658
+VI - 101
+IP - 12
+AID - 10.1061/JSDEAG.0004239 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004239
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004239
+SO - Journal of the Structural Division 1975-12-01 101(12): 2641-2658
+AB - Most existing methods of analyzing reticulated structures are either approximate or are applicable to only special cases. The present investigation studies the geometric nonlinear behavior and associated snap-through buckling of reticulated structures. The development is based on a large displacement finite element formulation, using bar elements, but may be expanded to include geometrically nonlinear behavior of more general elements. The formulation may be used to analyze space trusses that might undergo both large displacements and large member rotations. It is shown that upper and lower bounds are not always reliable, and that an approximate nonlinear analysis may be used to accurately determine the snap-through loads of large structures. Examples are presented to illustrate differences in results obtained through linear and nonlinear formulations.
+
+
+    
+        AU - Erik G. Thompson
+    
+        AU - James R. Goodman
+    
+        AU - M. Daniel Vanderbilt
+    
+
+TI - Finite Element Analysis of Layered Wood Systems
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 2659-2672
+VI - 101
+IP - 12
+AID - 10.1061/JSDEAG.0004240 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004240
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004240
+SO - Journal of the Structural Division 1975-12-01 101(12): 2659-2672
+AB - The major factors which must be considered in the analysis of layered wood systems, such as wood joist floors, are the orthotropic and variable properties of the wood materials, the incomplete composite action due to interlayer slip, and gaps in sheathing layers at joints between pieces of sheathing. The development of a finite element method for the analysis of layered wood systems, which correctly incorporates all major factors for the first time, is described. Comparisons of measured and computed deflections for T-beams and floors are given and show generally excellent agreement.
+
+
+    
+        AU - Thomas T. C. Hsu
+    
+        AU - Kenneth T. Burton
+    
+
+TI - Closure to “Design of Reinforced Concrete Spandrel Beams”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 2675-2676
+VI - 101
+IP - 12
+AID - 10.1061/JSDEAG.0004241 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004241
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004241
+SO - Journal of the Structural Division 1975-12-01 101(12): 2675-2676
+
+
+    
+        AU -  
+    
+
+TI - Closure to “Composite Steel-Concrete Construction”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 2676-2678
+VI - 101
+IP - 12
+AID - 10.1061/JSDEAG.0004242 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004242
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004242
+SO - Journal of the Structural Division 1975-12-01 101(12): 2676-2678
+
+
+    
+        AU - Graham H. Powell
+    
+        AU - M. Bassam El Hafez
+    
+
+TI - Closure to “Subassemblage Concept for Tall Frame Analysis”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 2678-2678
+VI - 101
+IP - 12
+AID - 10.1061/JSDEAG.0004243 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004243
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004243
+SO - Journal of the Structural Division 1975-12-01 101(12): 2678-2678
+
+
+    
+        AU - M. Bassam El Hafez
+    
+        AU - Graham H. Powell
+    
+
+TI - Closure to “Preliminary Plastic Design of Tall Steel Frames”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 2678-2679
+VI - 101
+IP - 12
+AID - 10.1061/JSDEAG.0004244 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004244
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004244
+SO - Journal of the Structural Division 1975-12-01 101(12): 2678-2679
+
+
+    
+        AU - Andrew O. Currie
+    
+        AU - Reginald G. Smith
+    
+
+TI - Discussion of “Wall-Beam Frames under Static Lateral Load”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 2679-2681
+VI - 101
+IP - 12
+AID - 10.1061/JSDEAG.0004245 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004245
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004245
+SO - Journal of the Structural Division 1975-12-01 101(12): 2679-2681
+
+
+    
+        AU - Carol Rubin
+    
+
+TI - Buried Pipe Deflections Using Elastic Theory
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 2685-2690
+VI - 101
+IP - 12
+AID - 10.1061/JSDEAG.0004248 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004248
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004248
+SO - Journal of the Structural Division 1975-12-01 101(12): 2685-2690
+AB - An elastic theory for the deflection of buried pipes has been developed based on several simplifying approximations. This can serve as a rule of thumb for design of buried pipes since it offers a quick conservative estimate for large values of pipe loading. It can also be expanded to include cases where load variations along the pipe length occur. In addition, it is intended as a first step in the development of a more exact elastic theory for buried pipes.
+
+

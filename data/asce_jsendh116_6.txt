@@ -1,0 +1,377 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - J. L. Meek
+    
+        AU - W. J. Lin
+    
+
+TI - Geometric and Material Nonlinear Analysis of Thin‐Walled Beam‐Columns
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1473-1490
+VI - 116
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1990)116:6(1473) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281473%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281473%29
+SO - Journal of Structural Engineering 1990-06-01 116(6): 1473-1490
+AB - In this paper, the effect of plastic area deformation after local yielding of thin‐walled beam‐columns is studied. Beyond the yield point of the material in the beam‐columns, the effective stress‐strain curve is determined by experiment. The solution method uses the finite element concept in conjunction with a finite segment method of cross section. Simpson's rule is used to calculate the elastic stiffness matrix for the integration over the member length. Nonlinear equations are solved by using incremental iterative techniques. Some numerical examples are given and compared with the experimental work. The results are satisfactory.
+
+
+    
+        AU - Bilal M. Ayyub
+    
+        AU - Ahmed Ibrahim
+    
+        AU - David Schelling
+    
+
+TI - Posttensioned Trusses: Analysis and Design
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1491-1506
+VI - 116
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1990)116:6(1491) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281491%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281491%29
+SO - Journal of Structural Engineering 1990-06-01 116(6): 1491-1506
+AB - More than 80% of the steel truss bridges inventoried in the United States are structurally deficient and/or functionally obsolete. Posttensioning these bridges using different posttensioned tendon layouts can be a cost‐effective method to strengthen them to meet current and future loading and traffic requirements. A method for the structural stiffness analysis of posttensioned trusses is suggested. The stiffness matrices of straight, one‐drape, and two‐drape tendon layouts are developed. The tendon layout need not coincide with the truss members. However, it can be externally or internally attached to the truss. A closed‐form solution for the relationship between the cross‐sectional area, posttensioning force of the tendon, and the desired final member stress after posttensioning is derived for a statically determinate truss. Posttensioning enlarges the elastic range, increases the fatigue resistance, increases redundancy, and reduces deflection and member stresses. Thus, the remaining life of a truss bridge can be increased relatively inexpensively.
+
+
+    
+        AU - Bilal M. Ayyub
+    
+        AU - Ahmed Ibrahim
+    
+
+TI - Posttensioned Trusses: Reliability and Redundancy
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1507-1521
+VI - 116
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1990)116:6(1507) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281507%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281507%29
+SO - Journal of Structural Engineering 1990-06-01 116(6): 1507-1521
+AB - This study demonstrates the potential of posttensioning truss bridges. Posttensioning deficient truss bridges using different posttensioning tendon layouts can be a cost‐effective method to strengthen them and to increase the redundancy levels as well as the reliability of the truss structures to meet current and future loading and traffic requirements. Methods for the assessment of the reliability and redundancy of posttensioned trusses are suggested. The effect of posttensioning on the structural strength of the individual components and the overall system of trusses is investigated. Posttensioning enlarges the elastic range, increases the fatigue resistance, redundancy, and relibility, and reduces deflection and member stresses. Thus, the remaining life of a truss bridge can be extended relatively inexpensively.
+
+
+    
+        AU - Bunu Alibe
+    
+
+TI - Characteristics of Columns with Uncertain End Restraint
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1522-1534
+VI - 116
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1990)116:6(1522) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281522%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281522%29
+SO - Journal of Structural Engineering 1990-06-01 116(6): 1522-1534
+AB - This paper develops exact and approximate probabilistic characteristics of the buckling strength of end‐restrained metal columns. The exact probability density function of the strength is developed from the transcendental equation that governs the buckling condition by nonlinear transformation of random variables. It can only be evaluated by numerics. On the other hand, closed‐form solutions can be obtained if the transcendental equation is approximated by a smooth and differentiable analytic function. A simple analysis procedure based on this approximation is proposed to predict the strength of metal columns with uncertain end restraints. The procedure uses the conventional effective length factor for columns and incorporates the mean and standard deviation of the end restraint in formulation. The end restraint is modeled with two identical rotational springs at the ends of the column. The spring constant for these springs is assumed to be a Weibull‐distributed random variable with known parameters. Results in this work show that the characteristics of the column strength, such as the mean and standard deviation, vary significantly with the degree of uncertainty of the end restraint. It is assumed in this work that the column is slender and free of imperfections and residual stresses.
+
+
+    
+        AU - Francis Tin‐Loi
+    
+        AU - Victor A. Pulmano
+    
+
+TI - Limit Analysis of Curved Grids
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1535-1546
+VI - 116
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1990)116:6(1535) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281535%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281535%29
+SO - Journal of Structural Engineering 1990-06-01 116(6): 1535-1546
+AB - The limit analysis of a class of grillages consisting of essentially two main circular arc girders connected by a number of straight cross beams is formulated as a mathematical programming problem using the static or lower bound theorem of plasticity. Discretization of both the structure into finite elements and of the nonlinear bending‐torsion yield surface into a piecewise linear polygon converts the formulation into an easy‐to‐solve linear programming problem. Sufficient details on how to enforce the necessary requirements of equilibrium and yield conformity are given to allow a direct computer implementation. The use of a mathematical programming based formulation is shown to overcome various shortcomings of existing methods to solve the same problem, the main ones being lack of generality, need for prior knowledge of collapse modes, and computational difficulty. Finally, an example is presented primarily to illustrate the application of method, and also to show how useful design‐oriented charts can be developed through parametric studies.
+
+
+    
+        AU - Nabil F. Grace
+    
+        AU - John B. Kennedy
+    
+
+TI - Dynamic Characteristics of Prestressed Waffle Slabs
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1547-1564
+VI - 116
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1990)116:6(1547) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281547%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281547%29
+SO - Journal of Structural Engineering 1990-06-01 116(6): 1547-1564
+AB - The dynamic response and fatigue behavior of rectangular and skew prestressed concrete waffle slabs are investigated. Such slabs have several advantages over the more conventional slabs when used as decks for concrete bridges and as process floors in semiconductor manufacturing plants. A solution for the dynamic response is derived based on the classical orthotropic plate theory. The theoretical results are verified and substantiated by experimental results obtained from tests on two prestressed concrete waffle slab models. A parametric study is also reported. It is shown that prestressing enhances the natural frequencies and increases the fatigue life of orthotropic slab structures, such as the waffle slab. This enables the designer to avoid resonance under low‐frequency excited sources of vibration, thus using a low dynamic load allowance and hence achieving economy in his design.
+
+
+    
+        AU - S. Madina Saheb
+    
+        AU - Prakash Desayi
+    
+
+TI - Ultimate Strength of RC Wall Panels with Openings
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1565-1577
+VI - 116
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1990)116:6(1565) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281565%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281565%29
+SO - Journal of Structural Engineering 1990-06-01 116(6): 1565-1577
+AB - Test results of 12 reinforced concrete (RC) wall panels with openings are presented. The panels have been subjected to in‐plane vertical loads applied at an eccentricity to represent possible accidental eccentricity that occurs in practice due to constructional imperfections. The 12 specimens consist of two identical groups of six panels each. One group of panels is tested in one‐way in‐plane action (i.e., supported at top and bottom edges against lateral displacement). The second group of panels is tested in two‐way in‐plane action (i.e., supported on all the four edges against lateral displacement). Openings in the panels represent typical door and window openings. Cracking loads, ultimate loads, crack patterns, and lateral deflections of the panels are studied. Empirical methods have been developed for the prediction of ultimate load. Also, lateral deflections, cracking loads, and ultimate loads of identical loads tested under one‐way and two‐way action are compared.
+
+
+    
+        AU - David Darwin
+    
+        AU - Warren K. Lucas
+    
+
+TI - LRFD for Steel and Composite Beams with Web Openings
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1579-1593
+VI - 116
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1990)116:6(1579) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281579%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281579%29
+SO - Journal of Structural Engineering 1990-06-01 116(6): 1579-1593
+AB - A unified approach to the design of steel and composite beams with reinforced or unreinforced web openings is presented. Techniques for calculating maximum shear and bending capacities are summarized. Interaction between shear and bending is used to determine strength at web openings under combined bending and shear. The techniques are compared with experimental results from 50 structural steel beams and 35 composite beams, and the comparisons are used to determine resistance factors for design. The procedure provides for a single equation to predict the maximum shear strength at web openings for all types of beams considered. The accuracy of the procedure is superior to existing design techniques. Resistance factors of 0.90 and 0.85 are recommended for steel and composite beams, respectively.
+
+
+    
+        AU - Mark A. Bradford
+    
+
+TI - Elastic Local Buckling of Trough Girders
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1594-1610
+VI - 116
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1990)116:6(1594) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281594%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281594%29
+SO - Journal of Structural Engineering 1990-06-01 116(6): 1594-1610
+AB - An elastic finite strip method of analysis is used to study the linear local buckling or bifurcation and the nonlinear post‐local buckling behavior of isolated trough girders in bending. The method assumes a constant stress in the longitudinal direction and so is applicable to the uniform bending case. This results in a solution that is efficient computationally. The nonlinear stiffness equations are presented, and the accuracy of these is demonstrated by a comparison to tests and independent theoretical solutions. The comparison between theory and experiment is good. The variation of the local buckling coefficient with the cross‐sectional parameters is demonstrated, and a design equation is proposed. It is shown that local buckling can be delayed by the provision of a longitudinal web stiffener, and a design equation is proposed. The postbuckling of a typical trough girder is then considered, with the moment‐curvature relationship, stress distribution, and deformations all being addressed in the study.
+
+
+    
+        AU - C. C. Weng
+    
+        AU - Teoman Pekoz
+    
+
+TI - Residual Stresses in Cold‐Formed Steel Members
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1611-1625
+VI - 116
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1990)116:6(1611) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281611%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281611%29
+SO - Journal of Structural Engineering 1990-06-01 116(6): 1611-1625
+AB - An extensive experimental investigation of the residual stresses in cold‐formed steel members is presented. The electrical discharge machining (EDM) technique is used to cut coupons for residual stress measurement. As compared to the conventional saw‐cutting method, the EDM technique greatly reduces the external disturbance during the machining of a thin‐walled section caused by heating, clamping, and vibration. The experimental results provide a further understanding of the magnitude and distribution of the residual stresses in cold‐formed steel sections, which are found to be quite different from the residual stresses in hot‐rolled steel shapes. Based on the experimental findings, an idealized distribution pattern of the residual stresses in a cold‐formed channel section is outlined. Finally, the yielding propagation in an axially compressed cold‐formed steel section is described, and an equation for predicting the extent of yielding is derived.
+
+
+    
+        AU - Weerapun Sriboonlue
+    
+        AU - John H. Matthys
+    
+
+TI - Torsional Behavior of Reinforced Brick Beams
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1626-1647
+VI - 116
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1990)116:6(1626) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281626%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281626%29
+SO - Journal of Structural Engineering 1990-06-01 116(6): 1626-1647
+AB - Laboratory tests of 21 reinforced brick masonry beams under pure torsion are described. Also, an ultimate torsional strength theory for brick masonry beams subjected to pure torsion is developed. The study described has been undertaken to obtain information about the behavior of reinforced brick masonry beams subjected to pure torsion. Beam specimens are rectangular in cross section and composed of two wythes of brick facings with a grout core reinforced with varying percentages of steel. Three types of brick are used with type S Portland cement lime mortar to provide different ranges of the ultimate compressive strength of masonry. Specimens are grouped into four series of tests in which the reinforcement patterns were different between each series. An ultimate strength theory is developed based on the failure mechanism using elastic bending theory and transformation of the cross section. Although comparison of the predicted ultimate strength theory of beams under pure torsion to actual beam test values show appreciable scatter, the results are predictable to an acceptable degree of confidence.
+
+
+    
+        AU - Ton‐Lo Wang
+    
+
+TI - Ramp/Bridge Interface in Railway Prestressed Concrete Bridge
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1648-1659
+VI - 116
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1990)116:6(1648) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281648%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281648%29
+SO - Journal of Structural Engineering 1990-06-01 116(6): 1648-1659
+AB - The purpose of this paper is to study the factors that contribute to the dynamic behavior of railway ramp/bridge interfaces. A nonlinear, 100‐ton, freight car vehicle model (gross weight 131.5 tons) and a 50‐ft (15.24‐m) long, ballasted prestressed concrete railway bridge were used to determine the approach of the ramp/bridge interface that creates the least dynamic response. The track irregularities on the approach of the ramp/bridge interface and the bridge were generated from power spectral density functions for Federal Railroad Administration (FRA) Class 4 track (maximum speed 60 mph). Impact percentages in the bridge due to a two 100‐ton freight car train operating at 50 mph (80.45 km/h) were calculated. The influences of ramp length and vertical track stiffness in the ramp/bridge interface were studied.
+
+
+    
+        AU - John B. Kennedy
+    
+        AU - Nabil F. Grace
+    
+
+TI - Prestressed Continuous Composite Bridges under Dynamic Load
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1660-1678
+VI - 116
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1990)116:6(1660) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281660%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281660%29
+SO - Journal of Structural Engineering 1990-06-01 116(6): 1660-1678
+AB - The dynamic and fatigue responses of continuous composite bridges with prestressed concrete deck slabs are investigated. The dynamic analysis of such continuous slab‐on‐steel girder bridges is based on the orthotropic plate theory using reliable estimates of the orthotropic rigidities of the bridge. Experimental results from tests on four 1/4‐scale models of continuous composite bridges verify and substantiate the analytical results. Two of the bridge models are tested under repeated loading at the resonance frequency of the structures. The dynamic strain variations due to repeated loading are determined for various components, such as the prestressing steel, the steel girders, the concrete deck slab, and the shear stud connectors. It is shown that prestressing the concrete deck slab in the vicinity of the pier supports eliminates transverse cracking of the slab, enhances the natural frequencies, and increases the fatigue life as well as the ultimate load‐carrying capacity.
+
+
+    
+        AU - Demir I. Karsan
+    
+        AU - Ashok Kumar
+    
+
+TI - Fatigue Failure Paths for Offshore Platform Inspection
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1679-1695
+VI - 116
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1990)116:6(1679) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281679%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281679%29
+SO - Journal of Structural Engineering 1990-06-01 116(6): 1679-1695
+AB - A closed‐form, reliability‐based, procedure is developed to identify fatigue failure paths of offshore structures and assess the notional probability of system failure through these paths. The procedure utilizes the Miners rule node fatigue failure reliability model developed by Wirsching. Effects of load redistribution following the fatigue failure of a node on the time to failure of remaining unfailed nodes is taken into consideration. Primary fatigue failure paths are identified through use of a branch and bound procedure. The components that fall in these paths are relatively critical to platform integrity. A platform inspection, therefore, needs to be planned around these components, as the failure of these would ultimately lead to system failure. The use of the procedure is demonstrated by application to a plane frame representation of a fixed shallow‐water offshore jacket. The procedure is general in nature and neither imposes any restrictions in terms of uniform strengths of members nor requires loads to confirm to a specific pattern or be shared equally among members.
+
+
+    
+        AU - Grzegorz Gajer
+    
+        AU - Peter F. Dux
+    
+
+TI - Crack Band Based Model for FEM Analysis of Concrete Structures
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1696-1714
+VI - 116
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1990)116:6(1696) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281696%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281696%29
+SO - Journal of Structural Engineering 1990-06-01 116(6): 1696-1714
+AB - The paper presents a theory for a fracture energy based finite element model for reinforced concrete capable of following strain‐softening process both in tension and compression. The element describing concrete behavior is based on a crack band concept with a crack band area parameter employed to maintain objectivity for irregular meshes. A variable shear reduction factor is used to account for shear stiffness changes due to the formation of crack bands. No restriction is placed on the number and direction of strain‐softening planes crossing an element. The implication of this feature is discussed in detail. Some existing crack‐band models with more restrictive features are shown to be particular cases of this more general formulation. A tension‐softening steel element that accounts for effects of local bond slip of reinforcement is described. The performance of the model is demonstrated via examples. These show good agreement between experimental behavior and theoretical prediction.
+
+
+    
+        AU - A. Ghani Razaqpur
+    
+        AU - Mostafa Nofal
+    
+
+TI - Analytical Modeling of Nonlinear Behavior of Composite Bridges
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1715-1733
+VI - 116
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1990)116:6(1715) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281715%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281715%29
+SO - Journal of Structural Engineering 1990-06-01 116(6): 1715-1733
+AB - Various aspects of a general finite‐element program for the nonlinear analysis of steel‐and‐concrete structures is described. The program accounts for the nonlinear behavior of concrete, steel, and shear connectors. Concrete is treated as an orthotropic nonlinear material. The concept of equivalent strain is used to establish independent stress‐strain relationships in the directions of orthotropy. Steel is modeled as an elastoplastic strain‐hardening material, and classical theory of plasticity together with the von Mises failure criterion is applied. For shear connectors, an empirical nonlinear shear force—slip relationship is used. The accuracy and reliability of the program are demonstrated by the analysis of two composite beams and a multigirder bridge over the entire loading range up to failure. The analytical results are compared with the corresponding experimental and/or field data with good agreement between the two. The reported results demonstrate the feasibility and reliability of the nonlinear finite‐element method as an expedient alternative to costly experimental work in some situations.
+
+
+    
+        AU - Kenneth W. Shushkewich
+    
+
+TI - Strengthening Concrete Box Girder Bridges
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1734-1742
+VI - 116
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1990)116:6(1734) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281734%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281734%29
+SO - Journal of Structural Engineering 1990-06-01 116(6): 1734-1742
+AB - There is, at a theoretical level, a direct relationship between the effects of prestressing, temperature, support settlement, and creep redistribution in concrete box girder bridges. At a more practical level, the net effect of thermal gradients or creep redistribution is to impose a positive secondary moment onto the structure, which can be balanced by internal prestressing (tendons inside the box that are anchored at the abutment diaphragms and pass freely through the pier diaphragms) or external prestressing (jacking the bearings upward). Although intuition tells us to put the prestressing at the bottom if there is a problem with tension at the bottom, the tendons should actually be at the top (just below the upper kern point) to counteract these secondary moments. Intuition also tells us to drape the tendons, but this practice is not particularly efficient. Of the infinite number of possibilities for bearing adjustment (a variation of support settlement), only raising the bearings upward to give the bridge a parabolic profile counteracts these secondary moments.
+
+
+    
+        AU - Alex Coull
+    
+        AU - Wong Yang Chee
+    
+
+TI - Cracked Coupling Slabs in Shear Wall Buildings
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1744-1748
+VI - 116
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1990)116:6(1744) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281744%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281744%29
+SO - Journal of Structural Engineering 1990-06-01 116(6): 1744-1748
+AB - A finite element analysis is performed on the effective coupling stiffness and bending stress distribution in a cracked slab coupling a pair of laterally loaded shear walls. Particular attention is focused on the effect of a transverse crack situated at the highly stressed inner edges of the walls. The influence of the length of crack on the effective stiffness and longitudinal bending stress distribution is examined for typical slab-wall configurations. It is shown that the presence of a transverse crack results in a substantial reduction in slab-coupling stiffness, especially when the wall-opening ratio is small. The distribution of longitudinal bending moments in the slab is not greatly affected by the presence of a crack, apart from the region close to the crack tip, where bending stress concentrations occur.
+
+
+TI - Erratum: “Debonding of Steel Plate‐Strengthened Concrete Beams” by S. A. Hamoush and S. H. Ahmad (February, 1990, Vol. 116, No. 2)
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1749-1749
+VI - 116
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1990)116:6(1749) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281749%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A6%281749%29
+SO - Journal of Structural Engineering 1990-06-01 116(6): 1749-1749
+
+

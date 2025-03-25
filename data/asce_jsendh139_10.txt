@@ -1,0 +1,369 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Babak Moaveni
+    
+        AU - Stefan Hurlebaus
+    
+        AU - Franklin Moon
+    
+
+TI - Special Issue on Real-World Applications of Structural Identification and Health Monitoring Methodologies
+PT - Journal Article
+DP - 2013
+TA - Journal of Structural Engineering
+PG - 1637-1638
+VI - 139
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000779 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000779
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000779
+SO - Journal of Structural Engineering 2013-10-01 139(10): 1637-1638
+
+
+    
+        AU - A. E. Aktan
+    
+        AU - J. M. W. Brownjohn
+    
+
+TI - Structural Identification: Opportunities and Challenges
+PT - Journal Article
+DP - 2013
+TA - Journal of Structural Engineering
+PG - 1639-1647
+VI - 139
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000723 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000723
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000723
+SO - Journal of Structural Engineering 2013-10-01 139(10): 1639-1647
+
+
+    
+        AU - F. Necati Catbas
+    
+        AU - Tracy Kijewski-Correa
+    
+
+TI - Structural Identification of Constructed Systems: Collective Effort toward an Integrated Approach That Reduces Barriers to Adoption
+PT - Journal Article
+DP - 2013
+TA - Journal of Structural Engineering
+PG - 1648-1652
+VI - 139
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000682 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000682
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000682
+SO - Journal of Structural Engineering 2013-10-01 139(10): 1648-1652
+
+
+    
+        AU - Seok Been Im
+    
+        AU - Stefan Hurlebaus
+    
+        AU - Young Jong Kang
+    
+
+TI - Summary Review of GPS Technology for Structural Health Monitoring
+PT - Journal Article
+DP - 2013
+TA - Journal of Structural Engineering
+PG - 1653-1664
+VI - 139
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000475 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000475
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000475
+SO - Journal of Structural Engineering 2013-10-01 139(10): 1653-1664
+AB - Over the last two decades, global positioning system (GPS) technology has been developed rapidly and recently applied to civil structures for appropriate monitoring of structural performance. Currently, the GPS technique can only be applied to flexible structures having lower modal frequency ranges, and it still has remaining issues when it comes to obtaining accurate measurements. However, the application of GPS is promising as a monitoring tool because it can measure dynamic characteristics and static displacements in real time, whereas the conventional monitoring system using accelerometers cannot measure static and quasi-static displacements. Furthermore, rapid advancements in GPS devices and algorithms can mitigate erroneous sources of GPS data, and integrated systems using GPS receivers with other supplement sensors are capable of providing accurate measurements. Therefore, GPS technology can provide accurate displacements of structures in real time, and stress and strain conditions of the structures can be computed using finite-element models and numerical analyses. It is also expected that damage localization and severity can be identified using the dynamic characteristics of structures obtained from GPS. This paper summarizes the use of GPS technology for structural health monitoring.
+
+
+    
+        AU - Babak Moaveni
+    
+        AU - Andreas Stavridis
+    
+        AU - Geert Lombaert
+    
+        AU - Joel P. Conte
+    
+        AU - P. Benson Shing
+    
+
+TI - Finite-Element Model Updating for Assessment of Progressive Damage in a 3-Story Infilled RC Frame
+PT - Journal Article
+DP - 2013
+TA - Journal of Structural Engineering
+PG - 1665-1674
+VI - 139
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000586 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000586
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000586
+SO - Journal of Structural Engineering 2013-10-01 139(10): 1665-1674
+AB - This paper presents a study on the identification of progressive damage, using an equivalent linear finite-element model updating strategy, in a masonry infilled RC frame that was tested on a shake table. A two-thirds-scale, 3-story, 2-bay, infilled RC frame was tested on the UCSD–NEES shake table to investigate the seismic performance of this type of construction. The shake table tests induced damage in the structure progressively through scaled historical earthquake records of increasing intensity. Between the earthquake tests and at various levels of damage, low-amplitude white-noise base excitations were applied to the infilled RC frame. In this study, the effective modal parameters of the damaged structure have been identified from the white-noise test data with the assumption that it responded in a quasi-linear manner. Modal identification has been performed using a deterministic-stochastic subspace identification method based on the measured input–output data. A sensitivity-based finite-element model updating strategy has been employed to detect, locate, and quantify damage (as a loss of effective local stiffness) based on the changes in the identified effective modal parameters. The results indicate that the method can reliably identify the location and severity of damage observed in the tests.
+
+
+    
+        AU - Tracy Kijewski-Correa
+    
+        AU - Dae Kun Kwon
+    
+        AU - Ahsan Kareem
+    
+        AU - Audrey Bentz
+    
+        AU - Yanlin Guo
+    
+        AU - Sarah Bobby
+    
+        AU - Ahmad Abdelrazaq
+    
+
+TI - SmartSync: An Integrated Real-Time Structural Health Monitoring and Structural Identification System for Tall Buildings
+PT - Journal Article
+DP - 2013
+TA - Journal of Structural Engineering
+PG - 1675-1687
+VI - 139
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000560 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000560
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000560
+SO - Journal of Structural Engineering 2013-10-01 139(10): 1675-1687
+AB - This study introduces a unique prototype system for structural health monitoring (SHM), SmartSync, which uses the building’s existing Internet backbone as a system of virtual instrumentation cables to permit modular and largely plug-and-play deployments. Within this framework, data streams from distributed heterogeneous sensors are pushed through network interfaces in real time and seamlessly synchronized and aggregated by a centralized server, which performs basic data acquisition, event triggering, and database management while also providing an interface for data visualization and analysis that can be securely accessed. The system enables a scalable approach to monitoring tall and complex structures that can readily interface a variety of sensors and data formats (analog and digital) and can even accommodate variable sampling rates. This study overviews the SmartSync system, its installation/operation in the world’s tallest building, Burj Khalifa, and proof-of-concept in triggering under dual excitations (wind and earthquake).
+
+
+    
+        AU - M. Kurata
+    
+        AU - J. Kim
+    
+        AU - J. P. Lynch
+    
+        AU - G. W. van der Linden
+    
+        AU - H. Sedarat
+    
+        AU - E. Thometz
+    
+        AU - P. Hipley
+    
+        AU - L.-H. Sheng
+    
+
+TI - Internet-Enabled Wireless Structural Monitoring Systems: Development and Permanent Deployment at the New Carquinez Suspension Bridge
+PT - Journal Article
+DP - 2013
+TA - Journal of Structural Engineering
+PG - 1688-1702
+VI - 139
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000609 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000609
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000609
+SO - Journal of Structural Engineering 2013-10-01 139(10): 1688-1702
+AB - Dense networks of low-cost wireless sensors have the potential to facilitate prolific data collection in large and complex infrastructure at costs lower than those historically associated with tethered counterparts. While wireless telemetry has been previously proposed for structural monitoring, comparatively less research has focused on the creation of a complete and scalable data management system that manages the storage and interrogation of wireless sensor data. This paper reports on the development of a novel wireless structural monitoring system specifically tailored for large-scale civil infrastructure systems by architecturally combining dense wireless sensor networks with a suite of information technologies remotely accessible by the Internet. The architectural overview of the proposed Internet-enabled wireless structural monitoring system is presented including a description of its functional elements (for example, wireless sensors, database server, and application programming interfaces). The monitoring-system architecture proposed is validated on the New Carquinez (Alfred Zampa Memorial) Bridge in Vallejo, California. A permanent wireless monitoring system is installed consisting of 28 wireless sensor nodes collecting data from over 80 channels. The bridge sensor data are transferred by a wireless cellular connection to a remote database server where it is stored and available for interrogation by software clients granted access to the data. To illustrate the ability to autonomously process the bridge response data, the stochastic subspace identification method is used to extract accurate modal characteristics of the bridge that are used to update high-fidelity finite-element models of the bridge. The Internet-enabled wireless structural monitoring system proved to be scalable to a large number of nodes and has thus far proven stable and reliable over long-term use.
+
+
+    
+        AU - Hasan Burak Gokce
+    
+        AU - F. Necati Catbas
+    
+        AU - Mustafa Gul
+    
+        AU - Dan M. Frangopol
+    
+
+TI - Structural Identification for Performance Prediction Considering Uncertainties: Case Study of a Movable Bridge
+PT - Journal Article
+DP - 2013
+TA - Journal of Structural Engineering
+PG - 1703-1715
+VI - 139
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000601 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000601
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000601
+SO - Journal of Structural Engineering 2013-10-01 139(10): 1703-1715
+AB - Structural identification (St-Id) can be described simply as estimating the properties of a structural system based on a correlation of inputs and outputs for decision making. For a complete St-Id process, establishing the decision-making needs, developing analytical and numerical models, and conducting field measurements, along with parameter identification using the experimental data for model calibration, are carried out. One important consideration is evaluation of the limitations and adequacy of using a single calibrated model before leveraging it for decision making, such as the reliability of the structural system for the remainder of its design life. The uncertainties in the data collected, determined by means of intermittent testing or monitoring; the limitations of the models; and the nonstationary nature of structural behavior need to be considered. These uncertainties can be incorporated by using of a family of parent and offspring models. The objective of this paper is to illustrate the use of a family of models that incorporates the uncertainties and makes predictions in terms of load rating and system-level reliability with the help of structural health monitoring (SHM) data. First, a finite-element (FE) model of a movable bridge is calibrated with SHM data, and parent FE models are created to best represent the measurements. At the same time, uncertainties in critical structural parameters such as boundary conditions are considered by offspring models. The family-of-models approach is employed to estimate load rating and system reliability by considering the probability of failure of the system with different correlations among the safety margins of the components. Finally, future performance of the movable bridge in the case of damage and deterioration is estimated for demonstration of structural identification for performance prediction by considering uncertainties. Such results are expected to provide a set of solutions for the performance of a structure for optimal decision making.
+
+
+    
+        AU - James A. Goulet
+    
+        AU - Ian F. C. Smith
+    
+
+TI - Predicting the Usefulness of Monitoring for Identifying the Behavior of Structures
+PT - Journal Article
+DP - 2013
+TA - Journal of Structural Engineering
+PG - 1716-1727
+VI - 139
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000577 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000577
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000577
+SO - Journal of Structural Engineering 2013-10-01 139(10): 1716-1727
+AB - Structures can be better understood when measurement data are used to improve the modeling of structural behavior. Our capacity to interpret data depends on aspects such as the choice of model class, model parameters (and their range of possible values), and the extent of uncertainties influencing models and measurements. The objective of this paper is to determine probabilistically to what degree measurements are useful for structural identification with respect to these aspects. A metric, expected identifiability, is proposed to be used prior to monitoring. The new methodology is based on three performance indexes: the expected number of candidate models, the expected prediction ranges, and a combination of the two. Because it does not require intervention on the structure, the method can be used as a tool to support prioritization of decisions related to full-scale testing. These features are illustrated through the study of the Langensand Bridge (Switzerland). In this example, the methodology shows that increases in modeling uncertainties significantly hinder the usefulness of measurements for identifying model parameter values. The predictive capability of the method proposed is verified by agreement with observations made during a recent structural identification exercise. Quantifying the expected identifiability provides a tool to support infrastructure decision making, such as determining to what extent certain structural monitoring plans are useful.
+
+
+    
+        AU - Mohamed Soliman
+    
+        AU - Dan M. Frangopol
+    
+        AU - Kihyon Kown
+    
+
+TI - Fatigue Assessment and Service Life Prediction of Existing Steel Bridges by Integrating SHM into a Probabilistic Bilinear S-N Approach
+PT - Journal Article
+DP - 2013
+TA - Journal of Structural Engineering
+PG - 1728-1740
+VI - 139
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000584 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000584
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000584
+SO - Journal of Structural Engineering 2013-10-01 139(10): 1728-1740
+AB - Fatigue assessment of several steel bridge details, having equivalent stress range below the constant amplitude fatigue threshold (CAFT), showed that many of these details are free of cracks, although the remaining life calculations predicted that they should have already been suffering from cracks. This shows that the current methods for predicting the fatigue remaining life of steel bridges can be conservative and may lead to unnecessary retrofit and rehabilitation actions. For a better fatigue life prediction, a bilinear S-N approach has been proposed. In this approach, the bilinear S-N lines have different slopes above and below the CAFT. This paper addresses fatigue assessment and service life prediction of existing fatigue-prone steel bridges by integrating structural health monitoring (SHM) data into a probabilistic bilinear S-N approach. The effect of changing the value of the slope of the AASHTO S-N lines below the CAFT on the fatigue life is investigated through a parametric study. In addition, an existing steel bridge is used to illustrate the proposed probabilistic approach.
+
+
+    
+        AU - Serdar Soyoz
+    
+        AU - Ertugrul Taciroglu
+    
+        AU - Kutay Orakcal
+    
+        AU - Robert Nigbor
+    
+        AU - Derek Skolnik
+    
+        AU - Hilmi Lus
+    
+        AU - Erdal Safak
+    
+
+TI - Ambient and Forced Vibration Testing of a Reinforced Concrete Building before and after Its Seismic Retrofitting
+PT - Journal Article
+DP - 2013
+TA - Journal of Structural Engineering
+PG - 1741-1752
+VI - 139
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000568 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000568
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000568
+SO - Journal of Structural Engineering 2013-10-01 139(10): 1741-1752
+AB - This paper investigates the effects of seismic retrofitting on the modal characteristics of a 6-story RC building located in Istanbul, Turkey. Ambient vibration surveys were carried out before, during, and after the retrofitting work, which took place between June and December 2010. The building was retrofitted via jacketing of columns, addition of structural walls, and construction of a mat foundation. These studies were complemented with data from forced vibration tests performed with an eccentric-mass shaker after the retrofitting work was completed. During retrofitting, partitions were demolished; as a result, the first modal frequency of the building decreased by 11%, based on the results of the ambient vibration survey. The ambient vibration survey also showed that the modal frequencies after the seismic retrofitting increased by almost 96%. During the forced vibration tests, the building was excited around its modal frequencies using an eccentric-mass shaker. It was found that the modal damping values increased with the amplitude of the excitation force.
+
+
+    
+        AU - Minwoo Chang
+    
+        AU - Shamim N. Pakzad
+    
+
+TI - Modified Natural Excitation Technique for Stochastic Modal Identification
+PT - Journal Article
+DP - 2013
+TA - Journal of Structural Engineering
+PG - 1753-1762
+VI - 139
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000559 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000559
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000559
+SO - Journal of Structural Engineering 2013-10-01 139(10): 1753-1762
+AB - This paper presents an improvement to the eigensystem realization algorithm (ERA) with natural excitation technique (NExT), which is called the ERA-NExT-AVG method. The method uses a coded average of row vectors in each Markov parameter for evaluating modal properties of a structure. The modification is important because, for the existing stochastic system identification methods, the state-space model, obtained from output sensor data, is usually overparameterized resulting in large systems. Solving such a problem can be computationally very intensive especially in the applications when using the computational capabilities of embedded sensor networks. As a way to improve the efficiency of the ERA-NExT method, the proposed method focuses on the number of components in a single Markov parameter, which can theoretically be minimized down to the number of structural modes. Applying the coded average column vectors as Markov parameters to the ERA, the computational cost of the algorithm is significantly reduced, whereas the accuracy of the estimates is maintained or improved. Numerical simulations are performed for a shear frame model subjected to Gaussian white noise ground excitation. The efficiency of the proposed method is evaluated by comparing the accuracy and computational cost of the estimated modal parameters using the proposed method, with several other stochastic modal identification methods including the ERA-observer Kalman filter identification, ERA-NExT, and autoregressive models. The performance of the method is then evaluated by applying it to ambient vibration data from the Golden Gate bridge, collected using a dense wireless sensor network, and its vertical and torsional modes are successfully and accurately identified.
+
+
+    
+        AU - Christopher J. Stull
+    
+        AU - Stuart G. Taylor
+    
+        AU - James Wren
+    
+        AU - David L. Mascareñas
+    
+        AU - Charles R. Farrar
+    
+
+TI - Real-Time Condition Assessment of RAPTOR Telescope Systems
+PT - Journal Article
+DP - 2013
+TA - Journal of Structural Engineering
+PG - 1763-1770
+VI - 139
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000567 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000567
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000567
+SO - Journal of Structural Engineering 2013-10-01 139(10): 1763-1770
+AB - The RAPid Telescopes for Optical Response (RAPTOR) observatory network consists of several ground-based, autonomous, robotic, astronomical observatories primarily designed to search for astrophysical transients called gamma-ray bursts. To make these observations, however, the RAPTOR telescopes must remain in peak operating condition at a high duty-cycle. Currently, the telescopes are maintained in an ad hoc manner, often in a run-to-failure mode. The required maintenance logistics are further complicated by the fact that many of the observatories are situated in remote locations. To ameliorate this situation, an effort has been initiated to develop a structural health monitoring (SHM) system capable of real-time, remote assessment of the RAPTOR telescopes. This paper summarizes the results from that effort. Common damage scenarios are identified to guide the instrumentation of the telescope system. A comprehensive analysis of the data acquired during experimental testing is then presented, highlighting the capability of the SHM system to discern between damaged and undamaged states. The paper concludes with a summary of future planned refinements for the RAPTOR SHM system.
+
+
+    
+        AU - Erin Santini Bell
+    
+        AU - Paul J. Lefebvre
+    
+        AU - Masoud Sanayei
+    
+        AU - Brian Brenner
+    
+        AU - Jesse D. Sipple
+    
+        AU - Jason Peddle
+    
+
+TI - Objective Load Rating of a Steel-Girder Bridge Using Structural Modeling and Health Monitoring
+PT - Journal Article
+DP - 2013
+TA - Journal of Structural Engineering
+PG - 1771-1779
+VI - 139
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000599 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000599
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000599
+SO - Journal of Structural Engineering 2013-10-01 139(10): 1771-1779
+AB - The future of highway infrastructure in the United States is at a critical junction. Nearly one-third of U.S. bridges are nearing the end of their design life, and one in ten bridges is categorized as structurally deficient. While the design and construction of the next generation of U.S. highway bridges is underway, existing bridges must be maintained through proper inspection and load rating. This paper proposes an objective load rating protocol that takes advantage of a shift in the bridge design, construction, and management paradigm to include structural modeling, instrumentation, and nondestructive testing. A baseline structural model is created and verified using structural health monitoring (SHM) data collected during a controlled static load test. The structural model is then used to calculate load rating factors of the bridge at both current and simulated damaged conditions. The resulting load rating factors are compared with the AASHTO load resistance factor rating method.
+
+
+    
+        AU - Yongchao Yang
+    
+        AU - Satish Nagarajaiah
+    
+
+TI - Time-Frequency Blind Source Separation Using Independent Component Analysis for Output-Only Modal Identification of Highly Damped Structures
+PT - Journal Article
+DP - 2013
+TA - Journal of Structural Engineering
+PG - 1780-1793
+VI - 139
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000621 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000621
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000621
+SO - Journal of Structural Engineering 2013-10-01 139(10): 1780-1793
+AB - Output-only algorithms are needed for modal identification when only structural responses are available. The recent years have witnessed the fast development of blind source separation (BSS) as a promising signal processing technique, pursuing to recover the sources using only the measured mixtures. As the most popular tool solving the BSS problem, independent component analysis (ICA) is able to directly extract the time-domain modal responses, which are viewed as virtual sources, from the observed system responses; however, it has been shown that ICA loses accuracy in the presence of higher-level damping. In this study, the modal identification issue, which is incorporated into the BSS formulation, is transformed into a time-frequency framework. The sparse time-frequency representations of the monotone modal responses are proposed as the targeted independent sources hidden in those of the system responses which have been short-time Fourier-transformed (STFT); they can then be efficiently extracted by ICA, whereby the time-domain modal responses are recovered such that the modal parameters are readily obtained. The simulation results of a multidegree-of-freedom system illustrate that the proposed output-only STFT-ICA method is capable of accurately identifying modal information of lightly and highly damped structures, even in the presence of heavy noise and nonstationary excitation. The laboratory experiment on a highly damped three-story frame and the analysis of the real measured seismic responses of the University of Southern California hospital building demonstrate the capability of the method to perform blind modal identification in practical applications.
+
+

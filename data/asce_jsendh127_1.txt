@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - C. Dale Buckner
+    
+
+TI - Editor's Note
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 1-2
+VI - 127
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2001)127:1(1) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A1%281%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A1%281%29
+SO - Journal of Structural Engineering 2001-01-01 127(1): 1-2
+
+
+    
+        AU - Gustavo Parra-Montesinos
+    
+        AU - James K. Wight
+    
+
+TI - Modeling Shear Behavior of Hybrid RCS Beam-Column Connections
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 3-11
+VI - 127
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2001)127:1(3) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A1%283%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A1%283%29
+SO - Journal of Structural Engineering 2001-01-01 127(1): 3-11
+AB - A model to predict the shear strength versus shear distortion response of hybrid connections between reinforced concrete columns and steel (RCS) beams is presented. Based on a preestablished maximum attainable joint shear deformation, design equations were developed for use in both interior and exterior RCS connections in buildings located in high seismic risk zones. The proposed model is based on the definition of the state of plane strain in the joint through the development of a ratio between the principal tensile and compression strains. The strength of the joints is given by contributions from the steel web panel and concrete diagonal struts. The joint model is capable of predicting the shear force, and stirrup and concrete strains at any level of joint shear distortion for exterior joints. In addition, the use of the proposed design equations led to excellent agreement between predicted and measured shear strength for both interior and exterior RCS joints.
+
+
+    
+        AU - F. J. Vecchio
+    
+
+TI - Disturbed Stress Field Model for Reinforced Concrete: Implementation
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 12-20
+VI - 127
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2001)127:1(12) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2812%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2812%29
+SO - Journal of Structural Engineering 2001-01-01 127(1): 12-20
+AB - The Disturbed Stress Field Model is a smeared delayed-rotating-crack model, proposed recently as an alternative to fully fixed or fully rotating crack models, for representing the behavior of cracked reinforced concrete. It is an extension of the modified compression field theory; advancements relate to the inclusion of crack shear slip in the element compatibility relations, the decoupling of principal stress and principal strain directions, and a revised look at compression softening and tension stiffening mechanisms. In this paper, a procedure is described for implementing the formulations of the Disturbed Stress Field Model into a nonlinear finite-element algorithm. The procedure is based on a total-load secant-stiffness approach, wherein the crack slip displacements are treated as offset strains. Computational aspects of the formulation are shown to be simple and numerically robust. The hybrid crack slip formulation used is found to accurately model the divergence of stress and strain directions, providing an improved representation of behavior. Predictions of shear strength and failure mode are significantly influenced in some cases.
+
+
+    
+        AU - W. Zhou
+    
+        AU - H. P. Hong
+    
+
+TI - Statistical Analyses of Strength of Slender RC Columns
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 21-27
+VI - 127
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2001)127:1(21) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2821%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2821%29
+SO - Journal of Structural Engineering 2001-01-01 127(1): 21-27
+AB - Probabilistic analyses of the modeling errors of several selected strength prediction models for slender reinforced concrete (RC) columns are carried out. The selected strength models include the moment magnifier methods that are recommended in the ACI and CSA design codes and the stability-based theoretical model. A relatively large amount of test data on slender RC columns is collected from the literature and the test results are compared with the ones obtained from different strength prediction models. Both normal- and high-strength concrete columns are included in this study. Probabilistic analyses of the modeling error include the use of pseudolikelihood estimation method. Analysis results suggest that the coefficient of variation of the modeling error for slender RC columns can be as high as 20%, which is considerably larger than those suggested and employed for reliability analysis in the literature. The results also suggest that the modeling error for slender RC columns depends on concrete compressive strength, the load eccentricity, and the slenderness ratio. However, the effect of the slenderness ratio on the modeling error is negligible. Sets of probabilistic models of the modeling errors by considering different strength models for slender RC columns are suggested.
+
+
+    
+        AU - Stephen J. Foster
+    
+        AU - Mario M. Attard
+    
+
+TI - Strength and Ductility of Fiber-Reinforced High-Strength Concrete Columns
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 28-34
+VI - 127
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2001)127:1(28) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2828%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2828%29
+SO - Journal of Structural Engineering 2001-01-01 127(1): 28-34
+AB - In this study 21 high-strength, fiber-reinforced columns were tested consisting of 9 155-mm square columns and 12 200-mm square columns. The concrete mix contained 2% (by weight) of end hooked steel fibers and with concrete strengths ranging from 67 to 88 MPa. The columns were tested in either concentric or eccentric compression with varying initial loading eccentricities. The study showed that the introduction of steel fibers into the mix design arrested the early spalling of the cover and increased the load capacity as well as the ductility of the columns over that of comparable nonfiber-reinforced specimens.
+
+
+    
+        AU - Stephen Kurtz
+    
+        AU - P. Balaguru
+    
+
+TI - Comparison of Inorganic and Organic Matrices for Strengthening of RC Beams with Carbon Sheets
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 35-42
+VI - 127
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2001)127:1(35) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2835%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2835%29
+SO - Journal of Structural Engineering 2001-01-01 127(1): 35-42
+AB - The performance of an inorganic matrix is compared to the performance of an organic matrix when used to externally strengthen reinforced concrete beams with carbon fiber sheets. The experimental study consisted of testing reinforced concrete beams after they were strengthened with carbon fiber sheets that were bonded with an inorganic matrix. This experimental study simulates an earlier study in which beams were strengthened in the same way using an organic matrix. Strength, stiffness, ductility, failure pattern, and cracking of beams strengthened with the two systems are compared. The results indicate that the inorganic matrix is as effective in increasing the strength and stiffness of reinforced concrete beams as the organic matrix, with a minor reduction in ductility. The failure mechanism changed from sheet delamination for the organic system to sheet rupture for the inorganic system. This change in mechanism is attributed to the brittleness of the inorganic matrix that results in crack formation in the composite and a minimum buildup of strain along the interface of the composite and concrete.
+
+
+    
+        AU - Shyh-Jiann Hwang
+    
+        AU - Wen-Hung Fang
+    
+        AU - Hung-Jen Lee
+    
+        AU - Hsin-Wan Yu
+    
+
+TI - Analytical Model for Predicting Shear Strengthof Squat Walls
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 43-50
+VI - 127
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2001)127:1(43) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2843%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2843%29
+SO - Journal of Structural Engineering 2001-01-01 127(1): 43-50
+AB - A softened strut-and-tie model for determining the shear strength of squat walls is proposed in this paper. The proposed model originates from the strut-and-tie concept and satisfies equilibrium, compatibility, and constitutive laws of cracked reinforced concrete. The shear capacities of 62 squat walls were calculated and compared with the available experimental results, and reasonable agreement was obtained. Based on the collected experimental data in this paper, the proposed physical model was used to study the effects of boundary elements, cyclic loading, and vertical loads on the wall shear strength. The softened strut-and-tie model can be further developed to improve the current shear wall design procedures by incorporating the actual shear resisting mechanisms in predicting shear strength of walls.
+
+
+    
+        AU - Xudong (David) Zhang
+    
+        AU - Shivas Singh
+    
+        AU - Desmond K. Bull
+    
+        AU - Nigel Cooke
+    
+
+TI - Out-of-Plane Performance of Reinforced Masonry Walls with Openings
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 51-57
+VI - 127
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2001)127:1(51) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2851%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2851%29
+SO - Journal of Structural Engineering 2001-01-01 127(1): 51-57
+AB - The out-of-plane performance of partially grouted, reinforced concrete masonry walls subjected to simulated seismic loading is investigated. The three full-scale walls, with and without openings, were constructed from 190-mm-thick concrete blocks and were 9.0-m long and 2.4-m high with two 2.5-m-long return walls. A minimum quantity of reinforcement permitted by New Zealand Standard 4229 was used, and additional diagonal bars were added to the corners of the bond beam at the top of the wall. The test results show that the specimens exhibited a ductile behavior with a “pinched” shape of hysteresis response and that the ultimate out-of-plane capacities of the walls were considerably greater than the demands calculated using the current New Zealand masonry and concrete codes. The location and size of the openings influenced the load capacities significantly. Yield line theory gives a safe, conservative prediction of the out-of-plane capacity of partially grouted, reinforced masonry walls. Lateral deflection criteria are more important than force criteria in the out-of-plane design of walls.
+
+
+    
+        AU - A. N. Dancygier
+    
+        AU - R. Eid
+    
+
+TI - Upper Limit to Compression Reinforcement Ratio in Flexural Elements
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 58-63
+VI - 127
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2001)127:1(58) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2858%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2858%29
+SO - Journal of Structural Engineering 2001-01-01 127(1): 58-63
+AB - The upper limit to the tension reinforcement ratio in flexural RC members is based on the requirement that tension failure as well as sufficient rotation capacity are ensured at ultimate limit state. However, the provisions for the total amount of longitudinal reinforcement ratio are not associated with any rational derivation. A quantitative measure to evaluate an upper limit to the compression reinforcement ratio ρ′max of flexural RC members is proposed. It is shown that a quantitative criterion to ρ′max can be derived from steel congestion and proficient-design considerations and from considerations that are related to the diagonal compression bearing capacity. Parameters that affect this limit include the concrete and steel strengths, the beam's geometry (L/d ratio, cross section's dimensions, and concrete cover), the steel bars' diameter, and the moment-to-shear loading ratio (or the loading type). When shear loading is dominant, the limit to ρ′ is set by the diagonal compression criterion, while in cases of dominant flexural loading (relative to the shear loading) ρ′max is determined by the congestion criterion.
+
+
+    
+        AU - Gintaris Kaklauskas
+    
+        AU - Jamshid Ghaboussi
+    
+
+TI - Stress-Strain Relations for Cracked Tensile Concrete from RC Beam Tests
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 64-73
+VI - 127
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2001)127:1(64) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2864%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2864%29
+SO - Journal of Structural Engineering 2001-01-01 127(1): 64-73
+AB - A method for determining the stress-strain relations for concrete form short-term flexural tests of reinforced concrete members is proposed. The method is based on the smeared crack approach. Average stress-strain relations for concrete in tension (including the descending branch) and in compression are computed from experimental moment-average strain and/or moment-curvature curves. Computation of stress-strain relations is performed incrementally for the extreme surface fibers, and is based on a novel idea of using the previously computed portions of the stress-strain relations at each load increment to compute the current increments of the stress-strain relations. The proposed method has been applied to some experimental data reported in the literature. Average stress-strain curves for concrete in tension, where cracking, bond, and shrinkage effects were taken into account in an integrated manner, have been computed for beams with various depths, reinforcement ratios, and rebar diameters. These and other parameters affecting the shape of the stress-strain curves (or tension stiffening effect) have been discussed.
+
+
+    
+        AU - Michael O'Rourke
+    
+        AU - Chris Downey
+    
+
+TI - Rain-on-Snow Surcharge for Roof Design
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 74-79
+VI - 127
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2001)127:1(74) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2874%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2874%29
+SO - Journal of Structural Engineering 2001-01-01 127(1): 74-79
+AB - A study of structural loading on gable roofs due to rain falling on an existing roof snowpack is presented. Rain-on-snow provisions in various existing standards are reviewed, and a summary of structural damage in the United States arguably related to rain-on-snow is presented. Three separate approaches are then used to quantify the intensity, duration, and return period for a rain-on-snow event. The first approach is case history information from a 1996/1997 rain-on-snow event (unknown return period). The second is a statistical approach in which the ground snow load plus daily rain with a 50-year return period is determined (unknown intensity and duration of the rain). The third is a two-year return period rain (unknown snow condition). Based upon the resulting roof surcharge loads, revised provisions for the ASCE 7 load standard are suggested. One possible revision is to only require a rain-on-snow surcharge for certain roofs with low slopes and short eave-to-ridge distances. An alternate revision is to simply eliminate the surcharge.
+
+
+    
+        AU - A. N. Dancygier
+    
+
+TI - Shear Carried by Transverse Reinforcement in Circular RC Elements
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 81-83
+VI - 127
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2001)127:1(81) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2881%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2881%29
+SO - Journal of Structural Engineering 2001-01-01 127(1): 81-83
+AB - The validity range of an integral averaging computation of the shear capacity that is carried by transverse reinforcement in circular RC elements is examined. A discrete computation of the shear capacity, which is based on a truss mechanism model, is presented. It is compared to the integral averaging computation proposed by Ang and his coworkers, and is based on the same model. The comparison shows that for relatively low values (less than 4) of the ratio between the circular reinforcement's diameter and its pitch, the integral computation yields results that are 10% to more than 50% nonconservative.
+
+
+    
+        AU - Edoardo Cosenza
+    
+        AU - Marisa Pecce
+    
+
+TI - Shear and Normal Stresses Interaction in Coupled Structural Systems
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 84-88
+VI - 127
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2001)127:1(84) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2884%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2884%29
+SO - Journal of Structural Engineering 2001-01-01 127(1): 84-88
+AB - A unified approach to evaluate the behavior of composite structural elements is proposed considering the interaction between the shear and normal stresses due to the connecting system. The model assumes linear behavior for the materials and connection and allows one to analyze different structural problems in the serviceability conditions. Numerical examples show that many classical coupled problems could be analyzed by a unified approach; in particular, the coupled shear walls subject to horizontal loads, steel-concrete composite beams with stud connectors, and reinforced beams strengthened with external plates are considered.
+
+
+    
+        AU - Wei Sha
+    
+
+TI - Heat Transfer in Fire across a Wall in Shallow Floor Structure
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 89-91
+VI - 127
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2001)127:1(89) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2889%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2889%29
+SO - Journal of Structural Engineering 2001-01-01 127(1): 89-91
+AB - Shallow floor structures have good inherent fire resistance. With no added protection to the steel section, their fire resistance rating is 1 h. However, when the bottom plate of such sections is exposed directly to fire, heat can be transferred along the steel to adjacent compartments. If the steel is also bare in the adjacent compartments, its temperature will increase. The extent of such a temperature increase is the subject of the present work. Computer modeling based on heat transfer theories has shown that without protection the temperature in bare steel sections in compartments adjacent to the fire may rise significantly to unacceptable levels. With some minimal fire protection for sections near the wall, any temperature rise is much reduced. Therefore, although shallow floor construction does not normally need fire protection, partial shielding at compartment corners is still required. The analysis is based on a previously developed heat transfer model.
+
+
+    
+        AU - J. Dario Aristizabal-Ochoa
+    
+
+TI - Nonlinear Large Deflection-Small Strain Elastic Analysis of Beam-Column with Semirigid Connections
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 92-96
+VI - 127
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2001)127:1(92) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2892%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2892%29
+SO - Journal of Structural Engineering 2001-01-01 127(1): 92-96
+AB - The nonlinear large deflection-small strain analysis of a slender beam-column of symmetrical cross section with semirigid connections under end loads (conservative and nonconservative), including the effects of axial load eccentricities and out-of-plumbness, is developed in a simplified manner. Timoshenko's stability functions are utilized in the proposed method which, although approximate, can be used in the stability and nonlinear large deflection-small strain elastic analyses of beam-columns with rigid, semirigid, and simple connections. The proposed method consisting of a single nonlinear equation can also be utilized in the large deflection-small strain inelastic analysis of beam-columns whose connections suffer from flexural degradation or, on the contrary, flexural stiffening. Load results from the proposed method are within 1.5% of the theoretical values up to very large transverse displacements (0.80 times the member span when the changes in the member cord length are taken into account, or 0.30 times the member span when its cord length is assumed to remain constant). The validity and effectiveness of the proposed method and equations are verified against available solutions of large deflection-small strain elastic analysis, including the solution of the classic problem of the “Elastica.”
+
+
+    
+        AU - Carla Freitas de Andrade
+    
+        AU - José Carneiro de Andrade Filho
+    
+        AU - José Carneiro de Andrade
+    
+        AU - Arshad A. Al-Foqaha'a
+    
+        AU - William F. Cofer
+    
+        AU - Kenneth J. Fridley
+    
+
+TI - Vibration Design Criterion for Wood Floors Exposed to Normal Human Activities
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 98-100
+VI - 127
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2001)127:1(98) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2898%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2898%29
+SO - Journal of Structural Engineering 2001-01-01 127(1): 98-100
+
+
+    
+        AU - Arshad A. Al‐Foqaha'a
+    
+        AU - William F. Cofer
+    
+        AU - Kenneth J. Fridley
+    
+
+TI - Closure to &#x201c;Vibration Design Criterion for Wood Floors Exposed to Normal Human Activities&#x201d; by Arshad A. Al&#x2010;Foqaha'a, William F. Cofer, and Kenneth J. Fridley
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 99-100
+VI - 127
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2001)127:1(99) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2899%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A1%2899%29
+SO - Journal of Structural Engineering 2001-01-01 127(1): 99-100
+
+
+    
+        AU - James T. P. Yao, P.E.
+    
+
+TI - Probability, Reliability and Statistical Methods in Engineering Design
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 101-101
+VI - 127
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2001)127:1(101) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A1%28101%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A1%28101%29
+SO - Journal of Structural Engineering 2001-01-01 127(1): 101-101
+
+

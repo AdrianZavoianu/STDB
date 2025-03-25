@@ -1,0 +1,402 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Leonard R. Herrmann
+    
+        AU - Ananth Ramaswamy
+    
+        AU - Ramin Hamidi
+    
+
+TI - Analytical Parameter Study for Class of Elastomeric Bearings
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 2415-2434
+VI - 115
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1989)115:10(2415) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282415%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282415%29
+SO - Journal of Structural Engineering 1989-10-01 115(10): 2415-2434
+AB - An analytical parameter study is conducted for a class of elastomeric bearings often used in base isolation systems and as bridge support bearings. The study is carried out using a recently developed nonlinear finite element analysis for such bearings. In order that the results be applicable to as wide a range of bearings as possible, a spectrum of sizes and properties is considered in the study and the results are presented in nondimensional form when possible. The loading conditions are compression, compression‐shear, compression‐bending and eccentric compression. Bearings of sufficient heights for buckling to occur are included in the study. Special attention is focused on the loss of shear and bending stiffness due to impending unstable behavior. End support conditions that do and do not allow for possible “lift‐off” of the loading surface from the bearing are both included. Considering the wide spectrum of bearing types and loading conditions that occur in practice, the parameter study cannot be considered to be in any sense exhaustive; however, sufficient data are given to be of value in many design situations. Lastly, a modification of the traditional definition of “shape factor” for elastomeric bearings is proposed and results are given that indicate its use will lead to an improvement in the correlation of behaviors for bearings of diverse shapes.
+
+
+    
+        AU - Ross B. Corotis
+    
+        AU - Avinash M. Nafday
+    
+
+TI - Structural System Reliability Using Linear Programming and Simulation
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 2435-2447
+VI - 115
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1989)115:10(2435) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282435%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282435%29
+SO - Journal of Structural Engineering 1989-10-01 115(10): 2435-2447
+AB - The assessment of structural system reliability for reasonably complex structures is addressed. The general case of random loads and resistances with arbitrary probability distributions is examined for failure caused by simple plastic mechanisms. A combined simulation/linear programming approach gains its efficiency from the fact that every simulation derives an associated failure condition and its probability. The advantage of the method, therefore, is for highly reliable systems for which traditional Monte Carlo simulation techniques are notoriously inefficient. Load and resistance proportionalities are determined by each simulation, and the associated failure mode is identified by linear programming as a vertex on the system polytope. Significant modes are found naturally by the procedure and, in general, the number of such modes will be much less than the number of simulations. A single numerical integration without variable transformation determines the modal reliabilities, which are then combined into a system reliability.
+
+
+    
+        AU - Mark G. Stewart
+    
+        AU - Robert E. Melchers
+    
+
+TI - Optimization of Structural Design Checking
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 2448-2460
+VI - 115
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1989)115:10(2448) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282448%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282448%29
+SO - Journal of Structural Engineering 1989-10-01 115(10): 2448-2460
+AB - It is generally acknowledged that design checking reduces the incidence of structural failure. Because checking is often seen as nonproductive and costs money, the optimal degree of design checking is of interest. In the present paper, a decision model is developed to determine the optimal level of design checking. It is applied to the design of a steel rafter for a portal frame building. The model incorporates the effect of either an insured or an uninsured designer. Optimization was achieved by maximizing the expected utility. Using the model, it was found that the use of thorough self‐checking and overview checking only is the optimal strategy, unless the consequences of failure are expected to be catastrophic, in which case one independent “design check” is also necessary.
+
+
+    
+        AU - Mark S. Darlow
+    
+        AU - Neal H. Bettigole
+    
+
+TI - Instrumentation and Testing of Bridge Rehabilitated with Exodermic Deck
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 2461-2480
+VI - 115
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1989)115:10(2461) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282461%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282461%29
+SO - Journal of Structural Engineering 1989-10-01 115(10): 2461-2480
+AB - Recently, an exodermic deck was used to replace a standard, full‐depth cast‐in‐place composite reinforced concrete deck on a bridge over the New York State Thruway. The exodermic deck, consisting of a layer of reinforced concrete poured over a steel grid in prefabricated panels, is much lighter and simpler to install than standard composite decking. Thus, it can be used for redecking existing bridges, or for decking new bridges, much more quickly, and at less expense, than current standard procedures. This particular exodermic deck is the first to be installed in New York State. In order to verify the load‐carrying capability of the exodermic deck, a series of live‐load tests were conducted on this bridge before and after redecking. The results of these tests compare favorably to analytical predictions. While the live‐load strain for the exodermic deck is somewhat higher than for the original deck, as expected, the dead‐load strain is considerably less and the overall strain is well within original design limits.
+
+
+    
+        AU - Charles D. Clift
+    
+        AU - Walter J. Austin
+    
+
+TI - Lateral Buckling in Curtain Wall Systems
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 2481-2495
+VI - 115
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1989)115:10(2481) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282481%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282481%29
+SO - Journal of Structural Engineering 1989-10-01 115(10): 2481-2495
+AB - Recent demand for increasingly complex exterior facades of commercial buildings has driven a need for more efficient high‐performance curtain wall designs. Current codes can be improved by formulations that more closely parallel required criteria. In this paper, formulas for the elastic lateral buckling strength of slender monosymmetrical beams that represent curtain wall mullions with practical loading and supporting conditions have been derived by approximate energy procedures for four different assumptions of possible glazing restraint. The equations have been constructed in a general manner so that a large variety of glazing (bracing) positions is accommodated. Analysis of a typical design situation indicates that the currently used allowable compressive stresses of the Aluminum Association Specifications for buildings are extremely conservative for this application. Also, a method to experimentally verify the assumed glazing restraint is presented via the Southwell plot method. Use of the more accurate analyses herein will result in significant design efficiencies on many curtain wall systems.
+
+
+    
+        AU - Robert E. Abendroth
+    
+        AU - Terry J. Wipf
+    
+
+TI - Cyclic Load Behavior of Bolted Timber Joint
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 2496-2510
+VI - 115
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1989)115:10(2496) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282496%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282496%29
+SO - Journal of Structural Engineering 1989-10-01 115(10): 2496-2510
+AB - Tests investigating the fatigue performance of a bolted timber buttsplice connection containing wood splits are presented. Relationships of compressive axial load to joint slip at the bolt nut and of load to average and relative joint slip relationships are studied to explain the fatigue failure of this type of joint when cyclic loads are involved. None of the three joint slips alone was sufficient to indicate when a particular joint would fail; however, considering the interaction between the joint slip at the bolt nut and the relative joint slip between the bolt nut and head allowed a failure hypothesis to be established. The test results indicate that the fatigue resistance of the connection is more adversely affected when a split is located near the bolt hole on the bolt‐head side of the connection than when a post has no splits or has splits located near the bolt hole on the nut side of the connection.
+
+
+    
+        AU - C. Santaputra
+    
+        AU - M. B. Parks
+    
+        AU - W. W. Yu
+    
+
+TI - Web Crippling Strength of Cold‐Formed Steel Beams
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 2511-2527
+VI - 115
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1989)115:10(2511) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282511%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282511%29
+SO - Journal of Structural Engineering 1989-10-01 115(10): 2511-2527
+AB - The structural behavior of high‐strength cold‐formed steel beams subjected primarily to web crippling is investigated analytically and experimentally. Hat sections and I‐beams, formed from five different types of high‐strength sheet steels, are investigated under various loading conditions. In addition to the test data gathered in this phase of study, the experimental results obtained from the beam tests conducted at various companies are carefully evaluated. The evaluation indicates that the present available design criteria are not suitable for high‐strength materials with yield strengths exceeding 80 ksi (552 MPa). New design formulas are derived for different types of loading conditions on the basis of available test data with material yield strengths ranging from 30 to 165 ksi (207 to 1,138 MPa). These empirical equations distinguish between web crippling failure caused by overstressing (bearing failure) and web buckling. Interaction formulas are derived for sections under combined web crippling and bending moment. The newly proposed design equations are verified by test results.
+
+
+    
+        AU - Zdeněk P. Bažant
+    
+        AU - Joong‐Koo Kim
+    
+
+TI - Segmental Box Girder: Deflection Probability and Bayesian Updating
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 2528-2547
+VI - 115
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1989)115:10(2528) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282528%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282528%29
+SO - Journal of Structural Engineering 1989-10-01 115(10): 2528-2547
+AB - Probabilistic prediction of the confidence limits on long‐time deflections and internal forces of prestressed concrete segmental box‐girder bridges is developed. The uncertainty of the predictions based on the existing models for concrete creep (the prior) is very large, but it can be greatly reduced by Bayesian updating on the basis of short‐time measurements of the deflections during construction or of short‐time creep and shrinkage strains of specimens made from the same concrete as the bridge. The updated (posterior) probabilities can be obtained by latin hypercube sampling, which reduces the problem to a series of deterministic creep structural analyses for randomly generated samples of random parameters of the creep and shrinkage prediction model. The method does not require linearization of the problem with regard to the random parameters, and a large number of the random parameters can be taken into account. Application to a typical boxgirder bridge with age differences between its segments and with a change of structural system from statically indeterminate to determinate is illustrated numerically. The results prove that design for extreme, rather than mean, long‐time deflections and internal forces is feasible. Adoption of such a design approach would improve long‐term serviceability of box‐girder bridges.
+
+
+    
+        AU - J. Francisco Millanes
+    
+        AU - Julio Martínez Calzón
+    
+
+TI - Automatic Evolutive Analysis of Complex Composite Bridges and Systems
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 2548-2565
+VI - 115
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1989)115:10(2548) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282548%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282548%29
+SO - Journal of Structural Engineering 1989-10-01 115(10): 2548-2565
+AB - A general method is proposed for the analysis of time‐dependent effects on composite highway bridges erected in stages. All relevant sequences of construction are accounted for and implemented into a general computer program. A long‐span composite bridge over the Ebro River in Spain is presented as a practical application of the proposed method.
+
+
+    
+        AU - Charis J. Gantes
+    
+        AU - George Kanellaidis
+    
+        AU - Dimitris Kallivokas
+    
+
+TI - Impact of Earthquakes on Cantilever Retaining Walls
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 2566-2578
+VI - 115
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1989)115:10(2566) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282566%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282566%29
+SO - Journal of Structural Engineering 1989-10-01 115(10): 2566-2578
+AB - Cantilever retaining walls are required to retain earth at a change in ground elevation. As the nonseismic design of cantilever retaining walls is well discussed elsewhere, this paper deals mainly with seismic considerations. In the present state of knowledge, the recommended method of obtaining seismic earth forces is that using equivalent static coefficients, which was proposed by Mononobe and Okabe, and is based on Coulomb's theory. This method has been implemented in an optimization computer program for the dimensioning of retaining walls. Graphs were prepared, which illustrate the influence of earthquakes on the minimum required wall dimensions and reinforcement, covering a broad spectrum of values of the parameters describing the backfill material and the seismic coefficient. Besides examining that influence, these graphs can also be used as an aid for the design of retaining walls, since they provide information about a wide range of cases that appear in practice.
+
+
+    
+        AU - T. S. Shih
+    
+        AU - G. C. Lee
+    
+        AU - K. C. Chang
+    
+
+TI - On Static Modulus of Elasticity of Normal‐Weight Concrete
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 2579-2587
+VI - 115
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1989)115:10(2579) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282579%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282579%29
+SO - Journal of Structural Engineering 1989-10-01 115(10): 2579-2587
+AB - The modulus of elasticity of concrete is a fundamental parameter in analysis and design of reinforced‐concrete structures. The present ACI approach for Young's modulus is based on normal strength concrete. It may not be appropriate for high‐strength concrete. Experimental studies were conducted on the static Young's modulus of normal‐strength concrete and high‐strength concrete. An empirical equation for Young's modulus of normal‐weight concrete determined by computer regression analysis, using the least square method, is described in this paper.
+
+
+    
+        AU - Zorislav Sorić
+    
+        AU - Leonard G. Tulin
+    
+
+TI - Bond Stress/Deformation in Pull‐Out Masonry Specimens
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 2588-2602
+VI - 115
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1989)115:10(2588) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282588%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282588%29
+SO - Journal of Structural Engineering 1989-10-01 115(10): 2588-2602
+AB - An experimental investigation to determine bond stress, free‐end slip, and relative deformation between a reference plane in the masonry and an originally coplanar point on the steel (slip) is conducted. Stack pull‐out specimens constructed of grouted nominal 6‐in. concrete or clay masonry units, reinforced with #4 or #7 bars, are subjected to monotonic or cyclic loadings. The method for evaluating slip incorporated slip‐wires connected to linear variable differential transformers (LVDTs). Strain gages provide strain in the steel bars from which stresses in the reinforcing bar and bond stresses can be calculated. Free‐end slip information is also collected. These data are useful in developing an understanding of the physical mechanism associated with bond, slip, and bond deterioration. The bond stress, which develops between the reinforcement and the surrounding grout, is a complex phenomenon dominated by the interlocking action of the reinforcing bar ribs embedded in the grout mass. To determine bond stresses and slip, six specimens are constructed and tested. Three specimens of 16‐in. length are reinforced with a #4 bar, and three, of 32 in. length, are reinforced with a #7 bar. The bond stress and slip distribution curves are evaluated from experimental data. In addition, short embedment specimens, consisting of prisms of 6‐in. concrete masonry units (nominal size of 6×8×8 in.) are tested. The embedment length is varied from 1 to 6 in. Ten specimen configurations were replicated three times. The nominal bond stress and free‐end slip are obtained.
+
+
+    
+        AU - Steven M. Cramer
+    
+        AU - Ronald W. Wolfe
+    
+
+TI - Load‐Distribution Model for Light‐Frame Wood Roof Assemblies
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 2603-2616
+VI - 115
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1989)115:10(2603) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282603%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282603%29
+SO - Journal of Structural Engineering 1989-10-01 115(10): 2603-2616
+AB - Design methods for light‐frame roof assemblies assume a weakestlink failure criterion. They provide little recognition of load‐sharing and compositeaction effects on redundant assemblies. A computer model that may be used to determine how loads are distributed in a trussed roof assembly was developed and verified on the basis of four light‐frame roof assembly tests. This model is embodied in a special‐purpose matrix frame analysis program called ROOFSYS. Simplifying assumptions made in this version of the model limit its application to the prediction of load distribution among trusses of varying stiffness, given the stiffness characteristics of individual truss elements. In addition to describing the model, behavior of light‐frame wood roof assemblies is discussed as it relates to model development and observations from the full‐scale assembly tests. If a reliable relationship between truss strength and stiffness can be established, the ROOFSYS model can be used to establish load‐sharing increase factors for light‐frame wood roof assembles.
+
+
+    
+        AU - S. Madina Saheb
+    
+        AU - Prakash Desayi
+    
+
+TI - Ultimate Strength of RC Wall Panels in One‐Way In‐Plane Action
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 2617-2630
+VI - 115
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1989)115:10(2617) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282617%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282617%29
+SO - Journal of Structural Engineering 1989-10-01 115(10): 2617-2630
+AB - Test results of 24 reinforced concrete wall panels in one‐way in‐plane action are presented. The panels were loaded at a small eccentricity to reflect possible eccentric loading in practice. Influences of slenderness ratio, aspect ratio, vertical steel, and horizontal steel on the ultimate load are studied. An empirical equation modifying two existing methods is proposed for the prediction of ultimate load. The modified equation includes the effects of slenderness ratio, amount of vertical steel, and aspect ratio. The results predicted by the proposed modified method and five other available equations are compared with 48 test data. The proposed modified equation is found to be satisfactory and, additionally, includes the effect of aspect ratio which is not present in other methods.
+
+
+    
+        AU - Krishna Naraine
+    
+        AU - Sachchidanand Sinha
+    
+
+TI - Loading and Unloading Stress‐Strain Curves for Brick Masonry
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 2631-2644
+VI - 115
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1989)115:10(2631) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282631%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282631%29
+SO - Journal of Structural Engineering 1989-10-01 115(10): 2631-2644
+AB - Reloading and unloading stress‐strain curves of brick masonry tested under uniaxial cyclic compressive loadings perpendicular and parallel to the bed joint are discussed. A simple mathematical model is proposed to predict these curves at different values of plastic strain. An exponential relationship involving the axial stress, the axial strain, and the plastic (residual) strain is found to be appropriate to represent the reloading and unloading curves. It is shown that the reloading curves can be mathematically represented by a family of parabolas and the unloading curves can be similarly represented by a family of straight lines. The equations of a parent parabola and a parent straight line are used to generate the family of parabolas and the family of straight lines respectively. The families of parabolas and straight lines can then be used to compute the reloading and unloading curves respectively. Comparisons of the model predictions with the experimental reloading and unloading curves show very good agreement.
+
+
+    
+        AU - S. L. Lee
+    
+        AU - M. A. Mansur
+    
+        AU - K. H. Tan
+    
+        AU - K. Kasiraju
+    
+
+TI - Crack Control in Beams Using Deformed Wire Fabric
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 2645-2660
+VI - 115
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1989)115:10(2645) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282645%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282645%29
+SO - Journal of Structural Engineering 1989-10-01 115(10): 2645-2660
+AB - In continuation of an investigation reported earlier on crack control afforded by deformed wire fabric in concrete tension members and one‐way slabs, this paper deals with prototype beams. Methods developed for predicting the spacing and width of cracks in tension members have been extended, and a test program was carried out on seven rectangular beams to provide supporting evidence. .The results of this study indicate that substantial crack control in beams can be achieved if the spacing of welded stirrups is limited to certain critical values. Test results of the spacing and width of flexural cracks are found to be in good agreement with theoretical predictions.
+
+
+    
+        AU - David R. Bohnhoff
+    
+        AU - Steven M. Cramer
+    
+        AU - Russell C. Moody
+    
+        AU - Calvin O. Cramer
+    
+
+TI - Modeling Vertically Mechanically Laminated Lumber
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 2661-2679
+VI - 115
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1989)115:10(2661) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282661%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282661%29
+SO - Journal of Structural Engineering 1989-10-01 115(10): 2661-2679
+AB - A nonlinear, two‐dimensional, finite element program for analyzing vertically mechanically laminated lumber is presented. Nodal load‐displacement relationships are formulated for a frame‐to‐frame connector element and a gap element. Frame‐to‐frame connector elements are used to model nails and/or any other discrete mechanical connector used to join individual layers. Each layer may be composed of one or more pieces of lumber butt‐jointed together. A gap element is used to control the transfer of forces across a butt joint once the members forming the joint make contact. Each individual piece of lumber within an assembly is modeled as a series of conventional‐plane frame elements. To determine the accuracy of the nonlinear finite element method of analysis, 10 laboratory‐tested assemblies were modeled. Computer‐predicted deflections were compared with deflections measured up to ultimate assembly loads. Overall good agreement was obtained between predicted and measured load‐point deflections.
+
+
+    
+        AU - Soon Ho Cho
+    
+
+TI - Discussion of &#x201c;<i>LRFB for Composite Beams with Unreinforced Web Openings</i>&#x201d; by David Darwin and Rex C. Donahey (March, 1988, Vol. 114, No. 3)
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 2683-2684
+VI - 115
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1989)115:10(2683) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282683%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282683%29
+SO - Journal of Structural Engineering 1989-10-01 115(10): 2683-2684
+
+
+    
+        AU - Rex C. Donahey
+    
+        AU - David Darwin
+    
+
+TI - Closure to &#x201c;<i>LRFB for Composite Beams with Unreinforced Web Openings</i>&#x201d; by David Darwin and Rex C. Donahey (March, 1988, Vol. 114, No. 3)
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 2684-2685
+VI - 115
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1989)115:10(2684) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282684%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A10%282684%29
+SO - Journal of Structural Engineering 1989-10-01 115(10): 2684-2685
+
+

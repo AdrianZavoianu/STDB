@@ -1,0 +1,505 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Ian J. Jordaan
+    
+        AU - George L. England
+    
+        AU - Magdi M. A. Khalifa
+    
+
+TI - Creep of Concrete: A Consistent Engineering Approach
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 475-491
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004576 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004576
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004576
+SO - Journal of the Structural Division 1977-03-01 103(3): 475-491
+AB - Test procedures and two forms of the linear creep laws of concrete are compared. The first form consists of a product of age and duration functions while in the second, the reversible and irreversible creep are treated separately. It is concluded that the latter method is preferable for the practical specification of creep and that this should be based on tests that include measurement of creep recovery following unloading since the best prediction for practical stress histories is achieved in this way. It is shown that if this approach is taken, creep at different temperatures and humidities can be treated from a common standpoint. The irreversible component is affected by temperature and humidity variation whereas the other two components are affected to a negligible extent. Based on a simplified form of the creep equation, in which the reversible creep is combined with the elastic strain, various problems are analyzed using viscoelastic theory.
+
+
+    
+        AU - Howard Wu
+    
+        AU - Mark W. Huggins
+    
+
+TI - Size and Sustained Load Effects in Concrete Columns
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 493-506
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004577 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004577
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004577
+SO - Journal of the Structural Division 1977-03-01 103(3): 493-506
+AB - Columns were tested with sizes ranging from 3-3/4-in. to 7-1/2-in. square. Slenderness ratio and percentage reinforcement were kept constant for all columns. Three levels of load were applied representing, respectively 55%, 65%, and 75% of short-term capacity. The age of concrete at initial application of sustained load was 14 days, 60 days, and 120 days. The sustained load test was conducted in an environmentally controlled space. The average duration of sustained loading was approximately 200 days. The volume/surface ratio effect is shown by column midheight moment amplification defined as the ratio of midheight moment under sustained to the same moment at initial loading. This effect varies with loading level and concrete age. The comparison with the ACI Code indicates that the Code approach is conservative for the columns tested.
+
+
+    
+        AU - Henry R. Grooms
+    
+        AU - James Rowe
+    
+
+TI - Substructuring and Conditioning
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 507-514
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004578 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004578
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004578
+SO - Journal of the Structural Division 1977-03-01 103(3): 507-514
+AB - In the numerical solution of any mathematical problem, the question of accuracy always arises. When a large system of equations is solved, no exact solution is usually available for making comparisons. Although various tests can be performed on the computed solution, these tests represent necessary rather than sufficient conditions. Thus, a computed solution can satisfy all the necessary conditions but be severely inaccurate. A problem that yields this type of solution is called ill-conditioned. Substructuring is a popular technique for solving certain types of structural problems. It has been suggested that by the judicious choice of substructures some conditioning problems might be alleviated. A numerical investigation was performed to evaluate this suggestion. The results indicate that substructuring does not significantly influence the solution accuracy of ill-conditioned systems.
+
+
+    
+        AU - Ake Vebo
+    
+        AU - Amin Ghali
+    
+
+TI - Moment-Curvature Relation of Reinforced Concrete Slabs
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 515-531
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004579 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004579
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004579
+SO - Journal of the Structural Division 1977-03-01 103(3): 515-531
+AB - An analytical method is presented to derive the moment-curvature relationship for a slab element orthotropically reinforced with top or bottom steel, or both, and subjected to bending moment in two directions as well as twisting. The relationships considered cover the whole range of loading up to ultimate strength and is intended for use in conjunction with computer methods of analysis. The method takes into account the orientation of reinforcement with respect to the principal moment directions. It can be used with the actual nonlinear stress-strain relationship for the concrete and the steel. Thus, the effect of steel strain hardening is included. The stiffening effect of the tensile stress resisted by the concrete between the cracks is also presented. The procedure is verified by comparison with published experimental results. The method developed is applied to study the effect of varying several parameters affecting reinforced concrete slab behavior.
+
+
+    
+        AU - John B. Kennedy
+    
+        AU - Pijush K. Chowdhury
+    
+
+TI - Plastic Analysis of Orthotropic Skew Metallic Decks
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 533-546
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004580 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004580
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004580
+SO - Journal of the Structural Division 1977-03-01 103(3): 533-546
+AB - A solution is developed to predict the structural response of orthotropic skew metallic decks undergoing large deflections into the elastoplastic range leading to their ultimate load-carrying capacity. The iterative solution is based on finite difference approximation of the two coupled fourth-order differential equations of equilibrium and compatibility; the method accounts for the reduction of stiffness after initiation of first yield. Influence of skew is examined. The solution is verified and substantiated by tests on model structures.
+
+
+    
+        AU - Mohamed Z. Khan
+    
+        AU - Kenneth C. Johns
+    
+        AU - Brian Hayman
+    
+
+TI - Buckling of Plates with Partially Loaded Edges
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 547-558
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004581 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004581
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004581
+SO - Journal of the Structural Division 1977-03-01 103(3): 547-558
+AB - The initial buckling of the flat plates subjected to loads applied over the edges is presented. The method of analysis is specially suited to deal with complex loadings such as partially distributed loads over the edges. It thus allows a simple procedure for the parametric study of plates acted upon by complicated loadings, and also furnishes the designer with a means of calculating the critical loads in individual cases. The method is applied to the calculation of the critical loads for the case when a partial symmetrical load acting over a part of one edge is supported by shear stresses on the two adjacent edges. The results presented are likely to be of relevance to the design of the webs of fabricated deep girders.
+
+
+    
+        AU - Samuel L. Lipson
+    
+
+TI - Single-Angle Welded-Bolted Connections
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 559-571
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004582 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004582
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004582
+SO - Journal of the Structural Division 1977-03-01 103(3): 559-571
+AB - Full-scale load tests, using combined shear and moment with rotation, of welded-bolted single-angle steel beam connections describe their behavior up to failure for 2-bolts-6-bolts, inclusive. Larger connections, up to 12-bolts in size, have been loaded to the capacity of available equipment but did not fail. In all cases, both the welds and bolts can carry CISC and CSA allowable design loads with factors of safety well in excess of those required by these codes. Curves are fitted to the observed data to predict the moment developed by the bolts for the full range of tested connections, both at maximum rotation and at the design loads. The observed rotation of the end of the connected beam takes place by slip of the beam with respect to the angle, rather than by the deformation of the angle itself.
+
+
+    
+        AU - Wai K. Tso
+    
+        AU - Adel A. Mahmoud
+    
+
+TI - Effective Width of Coupling Slabs in Shear Wall Buildings
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 573-586
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004583 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004583
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004583
+SO - Journal of the Structural Division 1977-03-01 103(3): 573-586
+AB - The stiffness of a coupling slab between two shear walls is computed by means of the finite element method. A number of common wall configurations are considered. The results are expressed in terms of the effective widths of the slab and are presented in design chart form. Comparisons to available experimental results are made. It is concluded that the theoretical calculations are sufficiently accurate for design purposes, provided a correction for local deformation of the walls is made when the wall opening is small.
+
+
+    
+        AU - Marco Menegotto
+    
+        AU - Paolo E. Pinto
+    
+
+TI - Slender RC Compressed Members in Biaxial Bending
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 587-605
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004584 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004584
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004584
+SO - Journal of the Structural Division 1977-03-01 103(3): 587-605
+AB - A method is presented for the exact nonlinear analysis of reinforced and prestressed concrete slender members subject to biaxial bending. The main feature of the method is the procedure that analyzes the stress-strain state of sections, under given axial force and biaxial moment. The outlined procedure, applied to a number of selected cross sections in the structure, allows an overall iterative procedure to find the solution of the structural problem for given loads. In fact, by integrating the deformabilities, the coefficients for the compatibility equations at the freed end are built up, while the integration of the curvatures yields the deflections, i.e., the right-hand side of the equations themselves. The analysis of a 165-m bridge pier (prestressed) under earthquake simulating forces is given as an example.
+
+
+    
+        AU - Hans R. Daniel
+    
+        AU - Arthur E. McMullen
+    
+
+TI - Torsion in Concrete Beams Containing an Opening
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 607-617
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004585 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004585
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004585
+SO - Journal of the Structural Division 1977-03-01 103(3): 607-617
+AB - An analysis is presented for predicting the strength of reinforced concrete beams that are subjected to torsion and have openings cast in them in order to provide for the passage of service ducts. The equations proposed are based on addition of stresses due to torsion and flexure in the longitudinal reinforcement and the addition of stresses due to torsion and transverse shear in the stirrups. Test results of 14 beams with openings are also presented. Correlation between the test results and the strength predicted by the analysis indicates that the equations conservatively but adequately predict the strength of the beams.
+
+
+    
+        AU - Wai F. Chen
+    
+        AU - David A. Ross
+    
+
+TI - Tests of Fabricated Tubular Columns
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 619-634
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004586 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004586
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004586
+SO - Journal of the Structural Division 1977-03-01 103(3): 619-634
+AB - Described herein are tests of 10 long fabricated tubular steel columns, of relatively large diameter, with essentially pin-ended conditions. In addition to the behavior, strength, and the manner of failure of the long columns, a number of stub column tests were also made along with the measurements of residual stresses. These residual stresses are both circumferential, due to formation of a flat plate into a cylindrical shape; and longitudinal, resulting from the welding of longitudinal seam needed to complete the fabricated cylinder. Measurement of these stresses is considered essential to any theoretical analysis of column behavior. The maximum strength of the 10 long columns tested (at diameter-to-thickness ratios of 48 and 70 and with a range of slenderness ratio between 39 to 83) is compared with the CRC column curve and good agreement is generally observed.
+
+
+    
+        AU - Robert Fawcett
+    
+        AU - Ronald L. Sack
+    
+
+TI - Evaluation of Shear Web Ply Orientation for Wood I-Beams
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 635-647
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004587 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004587
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004587
+SO - Journal of the Structural Division 1977-03-01 103(3): 635-647
+AB - Four arrangements for the web plies of a wood I-beam are evaluated to obtain the relative strengths of the alternative configurations. The finite element method is utilized for the analysis to allow the idealization of orthotropic material behavior and other details of the uniformly loaded beam with two equal spans. A closed-form solution for the I-beam is developed to check the finite element solution. This formulation is based on the theory developed by Von Karmen and Seewald for the analysis of beams with a rectangular cross section. The results are also compared with the engineering theory of bending. The stress contours obtained from the finite element analysis are utilized in conjunction with an adaptation of the Henkey-Von Mises failure criterion to predict gross section failure. The results indicate that increasing the number of web plies in which the longitudinal grain axis is perpendicular to the horizontal axis of the beam increases the mean relative strength of the I-beam.
+
+
+    
+        AU - Niels C. Lind
+    
+
+TI - Rationalizations of Section Properties Tables
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 649-662
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004588 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004588
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004588
+SO - Journal of the Structural Division 1977-03-01 103(3): 649-662
+AB - Round-off to nearest (and usually larger) available standard cross section involves a component of waste in design that, together with other relevant costs, should be minimum. Commonly available cross-sectional assortments do not appear optimal in this sense. A methodology to perform the optimization is outlined and some practical aspects are illustrated by an example (an assortment of beams in flexure). Two of many possible objectives are examined in some detail. One, based on the traditional deterministic view of structural safety, is a constant weighted average safety factor in service. The other, based on reliability theory, is to minimize expected socioeconomic costs. The results are different, but not markedly so for the example studied. A general procedure to produce an optimal world catalog of metric structural cross sections is suggested.
+
+
+    
+        AU - Max L. Porter
+    
+        AU - Carl E. Ekberg
+    
+
+TI - Behavior of Steel-Deck-Reinforced Slabs
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 663-677
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004589 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004589
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004589
+SO - Journal of the Structural Division 1977-03-01 103(3): 663-677
+AB - Results and behavioral characteristics are presented for five full-scale two-way slabs tested to ultimate. The concrete slabs were reinforced with composite corrugated cold-formed steel decking. Three slabs contained supplementary reinforcing in the form of welded wire fabric. Nominal out-to-out plan dimensions of the slabs were 16 ft by 12 ft (4.88 m by 3.66 m). Four slabs had a nominal thickness of 4-5/8 in. (118 mm) and one a thickness of 5-1/2 in. (140 mm). All slabs were subjected to four symmetrically placed concentrated loads (simulating a fork lift). Ultimate failure was a shear-bond action initiated by slippage between the steel deck and the concrete with the concrete moving outward parallel to the deck corrugations, resulting in end slip in the central regions of the slabs. The addition of the welded wire fabric influenced the behavioral characteristics and the ultimate load-carrying capacity. Near ultimate, the load-carrying action of the slabs was characteristic of a one-way slab.
+
+
+    
+        AU - Decio Leal de Zagottis
+    
+
+TI - Yield-Line Theory: A General Energy Formulation
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 679-694
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004590 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004590
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004590
+SO - Journal of the Structural Division 1977-03-01 103(3): 679-694
+AB - The aim of this paper is to present the general equations and properties for the study of isotropic slabs by the Energy Method of the Yield-Line Theory. These equations were already known only for the cases in which the middle surface of the mechanism being studied was plane or conical. Now they are generalized for ruled surfaces of any shape with the sole restriction, at the moment, that the surface characteristic be rectilineal. A number of examples is also presented.
+
+
+    
+        AU - Clarence D. Miller
+    
+
+TI - Buckling of Axially Compressed Cylinders
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 695-721
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004591 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004591
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004591
+SO - Journal of the Structural Division 1977-03-01 103(3): 695-721
+AB - The results of buckling tests on 41 small-scale ring stiffened steel cylinders and one large radius fabricated ring stiffened steel cylinder under axial compression are presented. These results are compared with those of many other investigators on both stiffened and unstiffened cylinders. Elastic buckling coefficients are determined for both small scale and fabricated cylinders. A plasticity factor is determined from test data on cylinders which failed inelastically. Design equations are recommended for fabricated metal cylinders.
+
+
+    
+        AU - Emil Simiu
+    
+        AU - Bruce Ellingwood
+    
+
+TI - Code Calibration of Extreme Wind Return Periods
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 725-729
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004592 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004592
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004592
+SO - Journal of the Structural Division 1977-03-01 103(3): 725-729
+AB - Design wind speeds upon which the Uniform Building Code provisions are based represent the highest gust speed recorded in a 39-yr period at most of the stations for which records were available. The question arises whether this highest wind speed can be related to some mean recurrence interval. It will be shown in this note that such is indeed the case.
+
+
+    
+        AU - Chang-Hua Yeh
+    
+        AU - William Y. J. Shieh
+    
+
+TI - Discussion of “Buckling of Cooling-Tower Shells: Bifurcation Results”
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 733-733
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004593 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004593
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004593
+SO - Journal of the Structural Division 1977-03-01 103(3): 733-733
+
+
+    
+        AU - David A. Nethercot
+    
+        AU - Nicholas S. Trahair
+    
+
+TI - Closure to “Design of Diaphragm-Braced I-Beams”
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 734-736
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004594 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004594
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004594
+SO - Journal of the Structural Division 1977-03-01 103(3): 734-736
+
+
+    
+        AU - James C. Anderson
+    
+
+TI - Closure to “Seismic Behavior of K-Braced Framing Systems”
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 737-738
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004595 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004595
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004595
+SO - Journal of the Structural Division 1977-03-01 103(3): 737-738
+
+
+    
+        AU - Mohammad Iqbal
+    
+        AU - David S. Hatcher
+    
+
+TI - Closure to “Post-Crushing Behavior of Unbound Concrete Beams”
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 738-739
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004596 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004596
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004596
+SO - Journal of the Structural Division 1977-03-01 103(3): 738-739
+
+
+    
+        AU - Clayford T. Grimm
+    
+
+TI - Closure to “Design for Differential Movement in Brick Walls”
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 739-739
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004597 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004597
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004597
+SO - Journal of the Structural Division 1977-03-01 103(3): 739-739
+
+
+    
+        AU - Richard G. Redwood
+    
+
+TI - Discussion of “Plastic Design of Web Openings in Steel Beams”
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 740-741
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004598 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004598
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004598
+SO - Journal of the Structural Division 1977-03-01 103(3): 740-741
+
+
+    
+        AU - Josef Kogan
+    
+
+TI - Discussion of “Approximate Analysis and Economics of Structures”
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 742-743
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004599 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004599
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004599
+SO - Journal of the Structural Division 1977-03-01 103(3): 742-743
+
+
+    
+        AU - Koladi M. Kripanarayanan
+    
+
+TI - Discussion of “Ferrocement Load-Bearing Wall Elements”
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 743-744
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004600 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004600
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004600
+SO - Journal of the Structural Division 1977-03-01 103(3): 743-744
+
+
+    
+        AU - Kenneth P. Buchert
+    
+
+TI - Discussion of “Buckling Stress States of Hyperboloidal Shells”
+PT - Journal Article
+DP - 1977
+TA - Journal of the Structural Division
+PG - 745-745
+VI - 103
+IP - 3
+AID - 10.1061/JSDEAG.0004601 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004601
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004601
+SO - Journal of the Structural Division 1977-03-01 103(3): 745-745
+
+

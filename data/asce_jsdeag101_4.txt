@@ -1,0 +1,440 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Fazlur R. Khan
+    
+
+TI - New Concepts–Byproducts of Computer Technology
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 627-634
+VI - 101
+IP - 4
+AID - 10.1061/JSDEAG.0004023 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004023
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004023
+SO - Journal of the Structural Division 1975-04-01 101(4): 627-634
+AB - The relationship of the growth of computer technology and the creation of new concepts in engineering, particularly structural engineering, is presented in this paper. Three examples of major structural innovations (100-story John Hancock Center; small roof structure for Baxter Laboratories, Deerfield, Ill., and 110-story Sears Tower) are used to illustrate this continuous relationship. It is noted that the future of new concepts will depend on how fast the computer technology moves foward.
+
+
+    
+        AU - George G. Goble
+    
+        AU - Fred Moses
+    
+
+TI - Practical Applications of Structural Optimization
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 635-648
+VI - 101
+IP - 4
+AID - 10.1061/JSDEAG.0004024 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004024
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004024
+SO - Journal of the Structural Division 1975-04-01 101(4): 635-648
+AB - Research in automated structural optimization has been actively conducted in the United States for two decades. This paper attempts a critical review of this activity and examines some examples of sucessful applications in civil engineering design. The question of fully stressed versus mathematical programming approach to proportioning the force distribution in a structure, which has received much research attention, is placed in proper perspective. The emphasis in this paper is on methods and programs applicable to the design of structural elements with a criterion that the program be economically attractive for use. Examples include welded box girders, wide-flange beams and columns, gabled frames, reinforced concrete beams, shear walls, continuous highway bridge girders, and pile foundations. A distinction is made between design problems for which mathematical programming tools are directly applicable and those for which heuristic or intuitive design schemes must be augmented.
+
+
+    
+        AU - Geoffrey M. J. Williams
+    
+
+TI - Experience with Computer-Aided Drafting System
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 649-660
+VI - 101
+IP - 4
+AID - 10.1061/JSDEAG.0004025 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004025
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004025
+SO - Journal of the Structural Division 1975-04-01 101(4): 649-660
+AB - The paper describes in general terms a system for mechanizing the production of detail drawings and schedules for reinforced concrete building structures, using a digitizer, a visual display unit, and an incremental plotter. Information is given for estimating the cost of a typical example of actual production work. It is possible to introduce a considerable degree of mechanization into the production of detailed drawings of buildings, and the costs can compare favorably with those of manual methods of drawing production. There are particular advantages when the production of a drawing is linked with the compilation of a schedule of components, such as the detailing of concrete reinforcement, and also when details prepared for one set of detail drawings can be used as the basis of subsequent sets of details - for instance when the concrete outline is used as the basis of the layouts of the nonstructural walls and partitions.
+
+
+    
+        AU - Leonard A. Lopez
+    
+
+TI - FILES: Automated Engineering Data Management System
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 661-676
+VI - 101
+IP - 4
+AID - 10.1061/JSDEAG.0004026 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004026
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004026
+SO - Journal of the Structural Division 1975-04-01 101(4): 661-676
+AB - One approach to engineering data base management has been presented herein. The problem is a complex one and has no apparent correct or incorrect solution. Various techniques have been tried by other investigators. Each generation brings new ideas and hopefully better approaches to engineering data management. FILES is a relatively new system that incorporates ideas from predecessor systems and includes features that were not present in the earlier systems. Among these are flexibility, a separate data definition language, a distinct data management compiler, data management execution system, and machine independence. Its use through POLO grammars is extremely simple. Grammar references to information which resides in data bases are very similar to FORTRAN data references. If one had to point to the one major advantage of using a system such as FILES, it would clearly be that the integration of independently developed modules is possible and apparently extremely effective as has been demonstrated in the development of the FINITE system.
+
+
+    
+        AU - Jimmy L. Noland
+    
+        AU - Chuan C. Feng
+    
+
+TI - ACI Building Code in Decision Logic Table Format
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 677-696
+VI - 101
+IP - 4
+AID - 10.1061/JSDEAG.0004027 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004027
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004027
+SO - Journal of the Structural Division 1975-04-01 101(4): 677-696
+AB - The ACI 318-71 reinforced concrete building code is seen as a complex logical system with requirements that may be expressed more precisely by reformatting the code using decision logic tables. The decision logic table version is complete, containing all requirements, definitions, etc., found in the traditional form of the code. The decision logic table form was done with the objective of being amenable to direct use by engineers. A representative portion of the ACI 318-71 code in decision logic table format is presented. Advances in the methods for predicting the maximum number of valid condition entry vectors related to dependent conditions are presented, as well as algorithms for formulating condition vectors and condition entry vectors. Two methods of reducing table size are presented, as well as a method of combining tables.
+
+
+    
+        AU - Douglas J. Nyman
+    
+        AU - Steven J. Fenves
+    
+
+TI - Organizational Model for Design Specifications
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 697-716
+VI - 101
+IP - 4
+AID - 10.1061/JSDEAG.0004028 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004028
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004028
+SO - Journal of the Structural Division 1975-04-01 101(4): 697-716
+AB - Design Specifications consist of sets of provisions or criteria based on analytical and experimental research and practical experience. In many cases, specifications are incorporated into building codes, thus serving as legal documents. The paper presents a model for more rational organization of the AISC Specification, and design specifications in general, both for written and computer-implementable form. The model requires that design or performance criteria be identified and classified according to a consistent set of bases. After such a classification is made, alternative organizations can be generated readily. The procedural steps needed to evaluate a criterion may be input to the model in the form of a set of decision tables. The model then allows the exploration of alternative ordering of the steps to be used as a guide for text-writing. Examples of the application of the model to segments of the AISC Specification are presented.
+
+
+    
+        AU - Senol Utku
+    
+
+TI - Systematic Substructuring
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 717-730
+VI - 101
+IP - 4
+AID - 10.1061/JSDEAG.0004029 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004029
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004029
+SO - Journal of the Structural Division 1975-04-01 101(4): 717-730
+AB - In many large structural analysis problems, due to the limitations in digital computer hardware, one is forced to partition the problem into smaller units to complete the analysis. When the partitioning is done by the analyst it is called substructuring. The paper is concerned with those partitionings that stem from the need of solving a large problem with a small computer. Considering only the displacement method of analysis, the important parameters of rational partitioning are displayed and the means of systematic partitioning are examined. Algorithms are given to improve present practice of partitioning from the standpoint of total computing cost.
+
+
+    
+        AU - Ahmed K. Noor
+    
+        AU - Robert E. Fulton
+    
+
+TI - Impact of CDC STAR-100 Computer on Finite Element Systems
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 731-750
+VI - 101
+IP - 4
+AID - 10.1061/JSDEAG.0004030 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004030
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004030
+SO - Journal of the Structural Division 1975-04-01 101(4): 731-750
+AB - A study is made of the impact of the projected major hardware and software features of the CDC STAR-100 computer on the overall organization and design of components of finite element structural analysis systems. The major features considered include virtual memory and the pipeline processing or streaming capability. The effective utilization of the STAR capabilities in finite element systems requires: (1) The consistent use of modular design concepts in all phases of the finite element system; and (2) the design of the different modules and processors to exploit the STAR pipeline processing capabilities. The paper concludes with two examples showing the anticipated gain in speed over the CDC 6600 to be obtained by using the STAR streaming capability. These examples are computation of element stiffness matrices and solution of banded symetric equations. In both cases order of magnitude gain in speed may be obtained.
+
+
+    
+        AU - Norman R. Mahan
+    
+
+TI - Automated Analysis of Standard Buildings
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 751-760
+VI - 101
+IP - 4
+AID - 10.1061/JSDEAG.0004031 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004031
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004031
+SO - Journal of the Structural Division 1975-04-01 101(4): 751-760
+AB - An integrated programming system for standard buildings produced by a prefabricated metal building manufacturer is described. This programming system includes the initial design, costing, plotting of shop details, producing of packing lists, and a final analysis compatible with the building shipped. The two key features of the system are: (1) Utilization of the same set of input data for initial design, costing, and plotting of shop details; and (2) utilization of the same set of input data for the generation of packing lists and the generation of calculations, if required, for building permit.
+
+
+    
+        AU - Robert C. Brown
+    
+        AU - Ned H. Burns
+    
+
+TI - Computer Analysis of Segmentally Erected Bridges
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 761-778
+VI - 101
+IP - 4
+AID - 10.1061/JSDEAG.0004032 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004032
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004032
+SO - Journal of the Structural Division 1975-04-01 101(4): 761-778
+AB - Prestressed box girder bridges erected by segmental cantilevering must be designed and analyzed for the conditions existing at each stage of erection. A computer oriented analysis technique for the determination of erection stresses and displacements of such bridge structures is presented. The box girder is analytically modeled as an assemblage of rectangular finite elements. Forces due to prestressing are modeled by use of an equivalent load concept wherein large tendon slopes are taken into consideration. The principle of superposition is utilized to account for the effects of stage erection. Selected results from the computer analysis of the first precast segmentally erected prestressed box girder bridge to be constructed in the United States are presented. Application of the analysis technique to this example demonstrates the practical applicability of the analysis.
+
+
+    
+        AU - Robert J. Cope
+    
+        AU - John H. Bungey
+    
+
+TI - Examples of Computer Usage in Bridge Design
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 779-793
+VI - 101
+IP - 4
+AID - 10.1061/JSDEAG.0004033 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004033
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004033
+SO - Journal of the Structural Division 1975-04-01 101(4): 779-793
+AB - Design procedures supported on an office based mini-computer with a display are described and illustrated by examples for concrete bridge design. To retain the engineers' sense of involvement in design and to maintain his flexibility of approach a data-based system is developed. Files are accessed by independent programs and graphical communication is used extensively to ensure fluid and meaningful man-machine interaction in real time. The techniques are illustrated by application to the overall design of a multispan varying section prestressed-concrete bridge and to design of structural elements. Emphasis is placed on visual communication and on the provision of design aids to accelerate the decision-making process. The approach provides an economic, efficient, and accurate method of performing complex operations which are not suited to fully automatic treatment. By condensing the time span of a design cycle more possible solutions can be investigated and thus the engineers' chances of producing the most appropriate design are increased.
+
+
+    
+        AU - Walter Stensch
+    
+        AU - G. Gerry
+    
+
+TI - Free-Form Arch Dam Design System
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 795-806
+VI - 101
+IP - 4
+AID - 10.1061/JSDEAG.0004034 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004034
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004034
+SO - Journal of the Structural Division 1975-04-01 101(4): 795-806
+AB - Instead of using curves, e.g. circles, parabolas, or three-centered arches, the new technique defines the upstream and downstream faces by designating coordinate locations of selected points on the surface of the dam. The geometry is generated by the computer and the actual shape is produced by the plotter for review and reshaping. Used in conjunction with stress analysis programs, the new method enables the designer to examine numerous shapes within a relatively short time because of the ease with which shapes can be defined and altered. The design procedure has been programmed for the 1130 computers and the total system includes definition, stress analysis, construction data, and plotter output modules. The paper describes the basic concept of free-form definition, the computer system, and experience with an actual arch dam design and automated design using graphic displays.
+
+
+    
+        AU - A. Murray Lount
+    
+        AU - Sidney H. Simmonds
+    
+
+TI - Integrated System for Production of Joists
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 807-820
+VI - 101
+IP - 4
+AID - 10.1061/JSDEAG.0004035 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004035
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004035
+SO - Journal of the Structural Division 1975-04-01 101(4): 807-820
+AB - An integrated system developed for the manufacture of open-web joists is described. This system links together all phases of the process from analysis through detailing to shop production and provides all output display and documentation required. Provision is made for differences in shop practices, section properties, and code requirements between plants. Substantial cost savings resulting from reduced design and detailing time and better inventory and shop control are possible.
+
+
+    
+        AU - John E. Goldberg
+    
+        AU - Yu-Kuang Tang
+    
+        AU - Mohammed H. Baluch
+    
+        AU - Divaker V. Pathak
+    
+
+TI - Analysis of Moderately Thick Shells of Revolution
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 821-838
+VI - 101
+IP - 4
+AID - 10.1061/JSDEAG.0004036 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004036
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004036
+SO - Journal of the Structural Division 1975-04-01 101(4): 821-838
+AB - Using plausible transverse distributions of stress and a functional distinction between the differential transverse shears, a new method is presented for analysis of moderately thick arbitrary shells of revolution. The equations, obtained by a variational procedure, are written as a mixed first-order system for numerical integration. Sample results from two examples are included in the paper.
+
+
+    
+        AU - Edwin C. Rossow
+    
+        AU - David L. C. Lo
+    
+        AU - Shih-Lung Chu
+    
+
+TI - Efficient Design-Analysis of Physically Nonlinear Trusses
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 839-853
+VI - 101
+IP - 4
+AID - 10.1061/JSDEAG.0004037 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004037
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004037
+SO - Journal of the Structural Division 1975-04-01 101(4): 839-853
+AB - A method of analysis of physically nonlinear structures is presented that uses an iteration procedure based on changes in the load vector for a given problem. The speed of convergence to the final solution of the method is increased by introducing a relaxation factor. The method is compared with a second method that is based on a modified stiffness matrix iteration procedure. The superiority of the first method is demonstrated as well as its suitability for an interactive design-analysis environment. A computer program, TRANTOWER, in which the method of analysis is used is described also. Several numerical examples illustrate the efficiency of the method of analysis and the design of general space trusses.
+
+
+    
+        AU - Wun-Chau Cheng
+    
+        AU - Cary K. Mak
+    
+
+TI - Computer Analysis of Steel Frame in Fire
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 855-867
+VI - 101
+IP - 4
+AID - 10.1061/JSDEAG.0004038 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004038
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004038
+SO - Journal of the Structural Division 1975-04-01 101(4): 855-867
+AB - Based on an incremental variational principle, a computer program is developed to investigate in detail the large displacement elasto plastic thermal creep deformation behavior of a steel frame in the vicinity of a localized fire in a multistory building. Based upon a set of assumed time-temperature curves for the structural members and the available empirical stress-strain relation of structural steel at elevated temperature, the nonlinear problem is solved numerically by a finite element method. By assuming that the temperature remains constant during a time increment, the nonisothermal problem is approximated by step-wise constant temperature incremental processes. Numerical solutions of a number of structures are compared with available fire test results.
+
+
+    
+        AU - Christian Meyer
+    
+
+TI - Special Problems Related to Linear Equation Solvers
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 869-890
+VI - 101
+IP - 4
+AID - 10.1061/JSDEAG.0004039 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004039
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004039
+SO - Journal of the Structural Division 1975-04-01 101(4): 869-890
+AB - The various solution methods are fairly well documented in the literature, and a survey of research on the special problems related to linear equation solvers is needed. It is the intent of this paper to describe and compare the various schemes developed for the solution of large sets of equations, with particular emphasis on file handling operations. The brief summary of the problems associated with boundary conditions and multiple-load cases is followed by a survey of research on reanalysis techniques, which have gained increased importance in recent years in the field of structural engineering. Problems associated with numerical error are examined, whereby the structural engineer's preference for physical interpretations of mathematical phenomena is respected. A comprehensive bibliography, divided into various categories covering the entire field of linear equation solvers, concludes the paper.
+
+
+    
+        AU - Chang-Kuei Sun
+    
+
+TI - Hybrid Techniques for Inelastic Dynamic Problems
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 891-919
+VI - 101
+IP - 4
+AID - 10.1061/JSDEAG.0004040 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004040
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004040
+SO - Journal of the Structural Division 1975-04-01 101(4): 891-919
+AB - Hybrid computation programming techniques are used to study the dynamic behavior of certain inelastic systems and its dynamic responses due to earthquake excitations. The methods of solution are examined in detail. Sources of error and cost comparison with digital computation results are presented. Computed results confirms the conclusions obtained from theoretical predication. It has been found that P-Δ effect parameters have significant influence on the dynamic behavior of inelastic systems. These parameters, which are in dimensionless forms, are related to the masses, the lateral stiffnesses, and the height of each story of the structure.
+
+
+    
+        AU - Kenneth F. Reinschmidt
+    
+        AU - Thanet Norabhoompipat
+    
+
+TI - Structural Optimization by Equilibrium Linear Programming
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 921-938
+VI - 101
+IP - 4
+AID - 10.1061/JSDEAG.0004041 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004041
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004041
+SO - Journal of the Structural Division 1975-04-01 101(4): 921-938
+AB - A technique for preliminary structural design is developed, based upon the logic used by practicing designers. By considering only the conditions of static equilibrium and stress admissibility, a linear problem results that can be solved by ordinary linear programming. The solution to this problem gives an initial design that is generally close to the final optimum solution. An exact elastic solution satisfying compatibility as well as equilibrium and stress admissibility can be found by subsequent nonlinear optimization based upon a flexibility approach. Computer results presented for steel grillage design problems with multiple local optimums indicate that the proposed design approach can increase significantly the likelihood of finding the global optimum solution, as opposed to other optimization methods.
+
+
+    
+        AU - Emil O. Frind
+    
+        AU - Peter M. Wright
+    
+
+TI - Gradient Methods in Optimum Structural Design
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 939-956
+VI - 101
+IP - 4
+AID - 10.1061/JSDEAG.0004042 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004042
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004042
+SO - Journal of the Structural Division 1975-04-01 101(4): 939-956
+AB - The paper presents two new gradient-based methods for the optimum design of skeletal structures. Both methods can accommodate stress, member size, and displacement constraints and can converge to an optimum that is either a vertex or a nonvertex of the feasible region. The Method of Incomplete Gradients uses the dominant terms of the active constraint gradients and converges rapidly for normal acting structures. The Method of Auxiliary Gradients augments active constraints with auxiliary constraints when necessary, uses the full gradients, and converges rapidily for structures with normal or hybrid action. The two methods, together with the Stress Ratio Method, are arranged into an efficient automatic design technique that can start at any initial design. The technique is applied to the design of two rigid frames having displacement constraints and multiple loadings.
+
+
+    
+        AU - Uri Kirsch
+    
+
+TI - Multilevel Approach to Optimum Structural Design
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 957-974
+VI - 101
+IP - 4
+AID - 10.1061/JSDEAG.0004043 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004043
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004043
+SO - Journal of the Structural Division 1975-04-01 101(4): 957-974
+AB - The general problem of optimizing and node coordinates in structural design is formulated in terms of mathematical programming. The proposed two-level approach consists in decomposition of the general problem into independent subproblems solved at the first level and coordinated at the second, with an iterative procedure used for both levels. Two treatment variants, model coordination and goal coordination, are presented and illustrated for comparative evaluation. The approach is intended mainly for large systems where integrated treatment may require excessive computer time or memory capacity, or both, but also may prove useful elsewhere.
+
+
+    
+        AU - James W. Gorzynski
+    
+        AU - William A. Thornton
+    
+
+TI - Variable Energy Ratio Method for Structural Design
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 975-990
+VI - 101
+IP - 4
+AID - 10.1061/JSDEAG.0004044 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004044
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004044
+SO - Journal of the Structural Division 1975-04-01 101(4): 975-990
+AB - Minimum weight design of trusses and frames by a method involving the maximization of the member energy ratios is treated. The energy ratio of a member is the ratio of the strain energy stored in a member when the structure is subjected to a particular load condition to that which could be stored in the member. A theorem which justifies the maximization of the energy ratios to minimize weight as well as heuristic algorithms to effect this maximization are presented. These algorithms have been tested using a number of truss and frame structures subjected to multiple static loads, simple harmonic dynamic loads, and considering stress, local buckling, and displacement constraints. The results indicate that the method is very effective in obtaining minimum weight designs of trusses and frames.
+
+

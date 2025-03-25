@@ -1,0 +1,334 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Zheng Tan
+    
+        AU - Wei-hui Zhong
+    
+        AU - Yao Gao
+    
+        AU - Bao Meng
+    
+        AU - Shi-chao Duan
+    
+        AU - Yu-hui Zheng
+    
+
+TI - Collapse Behavior of Unequal-Span Multistory Composite Frames under the Scenario of Removing an Internal Column
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024173
+VI - 150
+IP - 12
+AID - 10.1061/JSENDH.STENG-13563 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13563
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13563
+SO - Journal of Structural Engineering 2024-12-01 150(12): 04024173
+AB - To satisfy the requirements of architectural aesthetic and function demands, unequal-span composite frames are widely employed in practical engineering applications. However, there has been relatively limited investigation on the collapse-resistant performance of such frame structures. To elucidate the collapse behavior of the unequal-span multistory frame structures under the scenario of removing an internal column, two one-third scaled three-story planar frames with unequal (2/3:1) and equal (1:1) spans were subjected to static testing, and the anticollapse performance including the load-bearing capacities, failure modes, development of axial force, and load-transferring mechanisms was determined. The test results revealed that the unequal-span specimens reached their maximum load during the early stage of small deformation, whereas the equal-span specimens achieved their maximum load at the final failure position owing to the collaborate action of equal-span double-span beams. Subsequently, numerical modeling methods were validated using the tests results, and the influence of the axial compression ratios of adjacent columns on the structural collapse resistance was examined. Furthermore, the collapse behavior of unequal-span composite frames was further investigated using full-scale models, with a focus on three types unequal-span cases for double-span beams, and specific resistant contribution coefficients were proposed as an crucial design reference for unequal-span composite frames to mitigate progressive collapse.
+
+
+    
+        AU - Pengfei Men
+    
+        AU - Jin Di
+    
+        AU - Fengjiang Qin
+    
+        AU - Kunjiao Wang
+    
+        AU - Jie Wang
+    
+        AU - Xi Peng
+    
+
+TI - Bending Performance of Cold-Formed Thick-Walled Rectangular Steel Beams
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024174
+VI - 150
+IP - 12
+AID - 10.1061/JSENDH.STENG-13282 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13282
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13282
+SO - Journal of Structural Engineering 2024-12-01 150(12): 04024174
+AB - An increasing number of cold-formed thick-walled members are being employed in engineering structures. However, research on their bending performance is still lacking, and existing codes are primarily suitable for thin-walled steel members. Therefore, bending tests were conducted on 10 cold-formed thick-walled rectangular beams. The primary test parameters were the width, height, and thickness of the cross section. The material properties, initial geometric imperfections, failure modes, load–deflection curves, ultimate loads, rotation capacities, and load–strain curves of these beams were analyzed. Subsequently, a nonlinear finite-element (FE) model of cold-formed thick-walled rectangular beams was developed. After validating the numerical model with the test results, a parametric study was conducted. The results revealed that the height-to-width, radius-to-thickness, and width-to-thickness ratios significantly affected the plastic development ability of the cross section. With the increase in height-to-width and radius-to-thickness ratios, an existing Chinese design code yielded unsafe limits for the width-to-thickness ratio. Based on the parametric study results, width-to-thickness ratio limits suitable for cold-formed thick-walled cross sections were recommended. Finally, a simplified design method for the bending resistance of cold-formed thick-walled rectangular beams was proposed and validated using experimental and FE model results.
+
+
+    
+        AU - Ruijun Zhang
+    
+        AU - Tong Guo
+    
+        AU - Aiqun Li
+    
+        AU - T. Y. Yang
+    
+
+TI - Shaking Table Test and Numerical Analysis of a Precast Frame Structure with Replaceable Box Connectors
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024175
+VI - 150
+IP - 12
+AID - 10.1061/JSENDH.STENG-13398 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13398
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13398
+SO - Journal of Structural Engineering 2024-12-01 150(12): 04024175
+AB - In view of the construction difficulties and other problems faced by structure construction in areas with high-altitude, high-intensity seismic regions, a dry-connection fully precast concrete frame structure was proposed. The connections in this structure eliminate the need for templates or auxiliary supports, facilitating simultaneous component installation on multiple floors and at multiple locations. This significantly reduces construction labor intensity and enhances the construction efficiency. To investigate the seismic performance of the structure, a 3-story test structure with a scale ratio of 1/2 was designed, and shaking table tests were conducted to study the dynamic characteristics and damage progression of the test structure under various intensities of earthquakes. The test results show that the structure performs well as designed. Then, a finite-element model of the structure was established, and numerical simulations were performed to investigate the seismic response characteristics and seismic vulnerability. The numerical simulation results indicated that the seismic performance of the fully precast concrete frame structure is slightly lower than that of the cast-in-place concrete frame structure, but sufficient to survive rare earthquakes without collapsing even under the action of near-field earthquakes.
+
+
+    
+        AU - Javier Sánchez-Haro
+    
+        AU - Ignacio Lombillo
+    
+        AU - Guillermo Capellán
+    
+        AU - Begoña Fernández
+    
+        AU - Álvaro Gaute
+    
+
+TI - Simplified Model for Analyzing Soft Impacts on Structures: Validation on Steel Beams
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024176
+VI - 150
+IP - 12
+AID - 10.1061/JSENDH.STENG-13670 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13670
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13670
+SO - Journal of Structural Engineering 2024-12-01 150(12): 04024176
+AB - Traditionally, simplified methods have been used to try to solve and understand impacts. These simplified methods sometimes assume hypotheses that excessively limit their applicability or are not sufficiently simplified and require numerical solutions. To analyze the influence of projectile flexibility in the structural response to impacts, finite element (FE) models are commonly used due to the limitations of simplified methods. This article proposes a new simplified model that enables the calculation of both structural displacement and contact force during an impact on simple structures, which can be represented as a spring-mass system, such as beams. The model takes into account projectile deformation and the effect of gravitational force on the structural response, providing an analytical solution. The proposed formulation has been validated by means of experimental impact tests and with finite-element models of impacts on beams. The effect of gravity, multiple impacts, and the influence of projectile flexibility when defining soft or hard impact are discussed in depth in this article. This research enables the calculation of complex impacts in an easy way while also facilitating the understanding of the phenomenon and the key parameters for managing it.
+
+
+    
+        AU - Bida Zhao
+    
+        AU - Chao Sun
+    
+        AU - Shaoqi Zhong
+    
+
+TI - Strength Analysis of Eccentric Rectangular Hollow Section X-Joints Subjected to Axial Compression in the Brace
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024177
+VI - 150
+IP - 12
+AID - 10.1061/JSENDH.STENG-13595 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13595
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13595
+SO - Journal of Structural Engineering 2024-12-01 150(12): 04024177
+AB - This paper investigates the mechanics behavior of eccentric rectangular hollow section (ERHS) X-joints subjected to axial compression in the brace, based on which analytical formulas are established to predict the strength of the ERHS X-joints. Static testing is conducted on two ERHS X-joint and one RHS X-joint specimens under brace compression, and the corresponding finite element (FE) analysis is performed. It is found that the ultimate strength of the ERHS X-joints with a medium brace/chord width ratio (β) is 39% higher than that of the RHS X-joints. The strength and initial stiffness of the ERHS X-joints increase when β increases. Based on the load transferring mechanism, two analytical models and the corresponding equations are proposed to predict the strength of the ERHS X-joints with β≤0.925 and β=1.0. The proposed models are validated through experimental data and FE results.
+
+
+    
+        AU - Zhanhui Peng
+    
+        AU - Dongzhi Guan
+    
+        AU - Yuming Zhang
+    
+        AU - Yu Lin
+    
+        AU - Jiabin Liu
+    
+
+TI - Seismic Behavior of a Concrete Rocking Wall with Controllable SMA Dampers: Concept and Experimental Evaluation
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024178
+VI - 150
+IP - 12
+AID - 10.1061/JSENDH.STENG-13143 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13143
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13143
+SO - Journal of Structural Engineering 2024-12-01 150(12): 04024178
+AB - To reduce the structural damage in mainshocks–aftershocks and improve the repair speed after a mainshock, two types of controllable shape memory alloy (SMA) dampers (CSDs) with different configurations based on the specific thermomechanical properties of shape memory alloys and a novel rocking wall system with CSDs (RWCSD) were proposed in this paper. Five quasi-static tests were successively conducted on the rocking wall specimen to evaluate the seismic performance of RWCSD under multiple earthquakes. The test results showed that the specimen maintained relatively stable self-centering and deformation capacity. Simultaneously, the crystallin forms change of the SMA core in dampers effectively compensated for the performance degradation caused by mainshock, and the strengthening effect of CSDs on the structural strength was obvious. The RWCSD possessed the function of strengthening structural load-carrying capacity under aftershocks, which suggested the systematic design methodology was appropriate for further research.
+
+
+    
+        AU - Junqian Han
+    
+        AU - Qingli Wang
+    
+        AU - Kuan Peng
+    
+        AU - Xiaokang Liu
+    
+
+TI - Experimental Study of Hollow Concrete-Filled Circular Steel Tubular Beam Column Connected by Thread through Inside Lining Tube
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024179
+VI - 150
+IP - 12
+AID - 10.1061/JSENDH.STENG-13823 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13823
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13823
+SO - Journal of Structural Engineering 2024-12-01 150(12): 04024179
+AB - A type of hollow concrete-filled circular steel tube connected by thread through inside lining tube is proposed. Twelve hollow concrete-filled circular steel tubular beam columns connected by thread through inside lining tube are designed and fabricated using the length of the thread along the axial direction, the working height of the thread, and the position of the thread as parameters. In addition, one nonconnected specimen and two welded specimens also are designed and fabricated to conduct controlled experimental research. The experimental phenomena and specimen failure modes, axial compressive load-longitudinal compression curve, axial compressive load-lateral deflection curve at the mid-section, and axial compressive load-strain in the steel tube curve, as well as the bearing capacity, strength reserve, deflection curve shape, lateral stiffness, ductility, and plane section assumptions, are analyzed. The research results indicate that, within the parameter range studied, the experimental phenomenon of specimens connected by thread is basically consistent with that of contrast specimens and the thread connection through inside lining tube is reliable before tripping. The axial compressive load-longitudinal compression curve and axial compressive load–mid-section lateral deflection curve of all specimens can be approximately divided into elastic stage, elasto-plastic stage, and descending stage. The peak load of all specimens is relatively close, and although specimens have undergone almost the same stress process, the strength reserve of specimens connected by thread is insufficient. The shape of the deflection curve of all specimens is close to the sine half wave curve before the load drops to about 70% peak load, and the lateral stiffness and ductility of all specimens also are relatively close. During the entire loading process, the distribution of longitudinal strain in the steel tube at the mid-section along the height of section basically conforms to the plane section assumption. Finally, the calculation method for the hollow concrete-filled circular steel tubular beam column connected by thread through inside lining tube is suggested. Based on the behavior of the hollow concrete-filled circular steel tubular beam column and considering the comprehensive cost, the hollow concrete-filled circular steel tube connected by thread through the inside lining tube has certain research and application value.
+
+
+    
+        AU - Junhong Dong
+    
+        AU - Haomin Ding
+    
+        AU - Bo Yang
+    
+
+TI - Uncoupled Ductile Fracture Models for Grade 8.8S Steel Bolts Considering Different Stress States and Elevated Temperatures
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024180
+VI - 150
+IP - 12
+AID - 10.1061/JSENDH.STENG-13324 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13324
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13324
+SO - Journal of Structural Engineering 2024-12-01 150(12): 04024180
+AB - This paper presents the experimental results of Grade 8.8S high-strength steel coupons tensioned to fracture at room and elevated temperatures, followed by finite element analyses for investigating the ductile fracture behavior. Smooth round bars, notched round bars, flat shear sheets, and flat grooved sheets were tested at room temperature, which covered a wide range of stress states. The relationship between the ductility of the Grade 8.8S high-strength steel and the stress state was discussed. Extra smooth and notched round bars were also redesigned and tested at elevated temperatures. The nonlinear variations of material properties, including elastic modulus, yield strength, and tensile strength, were discussed. Different modeling strategies were used for the room and elevated temperatures. At room temperature, three uncoupled ductile fracture criteria were evaluated regarding their applications in the Grade 8.8S high-strength steel. Besides, in conjunction with a modified Johnson–Cook (JC) hardening model, the JC fracture criterion was improved and characterized by an exponential temperature function, as the original linear temperature function could not accurately describe the relationship between the fracture strain and temperatures. The developed finite element models closely traced most specimens’ load-displacement paths at the room and elevated temperatures.
+
+
+    
+        AU - Lu-Ming Ren
+    
+        AU - Kang Chen
+    
+        AU - Jie-Peng Liu
+    
+        AU - De-Yang Kong
+    
+        AU - Bo Yang
+    
+
+TI - Experimental Full-Scale Progressive Collapse Test of a 3D Steel-Frame Substructure with RC Slabs
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024181
+VI - 150
+IP - 12
+AID - 10.1061/JSENDH.STENG-13551 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13551
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13551
+SO - Journal of Structural Engineering 2024-12-01 150(12): 04024181
+AB - This paper presents an experimental study on the progressive collapse behavior of a full-scale three-dimensional (3D) steel frame substructure with cast-in-place reinforced concrete (RC) floor slabs. A full-scale specimen and relatively large-span RC floor slabs were the two main features of the experimental test. The alternate load path (ALP) method was chosen as the research approach, with one external column being removed before testing. A specially designed 12-point loading system was employed to load the specimen quasi-statically, allowing the acquisition of the load-displacement response and failure process of the test specimen from the initiation of loading to the final collapse. Additionally, based on the test, the deformations of structural members, contributions of various load-resisting mechanisms, load redistribution among the remaining parts of the structure, and dynamic response were analyzed. The ultimate collapse resistance of the structure was theoretically predicted based on the yield line and plastic hinge theories. The test and analysis results led to the following findings: One, the typical steel frame structure in this study, designed based on current steel structure codes, withstood the failure of an external column. Two, tensile membrane action (TMA) primarily developed in the floor slab parallel to the double-span beam above the removed column. Three, flexural action (FA) was the main contributor to resisting the vertical loads throughout the loading process. Its contribution reached up to 88% at the structural ultimate load-carrying capacity position. However, before the final failure of the structure, the loads resisted by catenary action (CA) in beams and TMA in floor slabs could not be ignored. The sum of the two accounted for one-third of the total vertical loads. Four, Columns C1 and C2, directly connected to the removed column through the double-span beam B1-B2, sustained the majority of the vertical loads. Five, for steel frame structures with rigid or semi-rigid connections characterized by good moment resistance but limited rotational capacity, strengthening the connection via additional measures to ensure full development of CA in beams at large deformation stage may be the key to enhancing structural resistance to progressive collapse.
+
+
+    
+        AU - Shangzhang Wang
+    
+        AU - Xu Huang
+    
+        AU - Oh-Sung Kwon
+    
+        AU - Bin Wu
+    
+        AU - Ge Yang
+    
+
+TI - Numerically Stable Integrated Simulation Method for Coupled Dynamic Systems
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024182
+VI - 150
+IP - 12
+AID - 10.1061/JSENDH.STENG-13653 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13653
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13653
+SO - Journal of Structural Engineering 2024-12-01 150(12): 04024182
+AB - Compared to monolithic simulation methods, integrated simulation methods allow decomposition of a large and complex system into several subsystems whose behavior can either be numerically or experimentally captured considering unique capabilities of existing analysis tools. Therefore, they have been applied to multi-physics problems and analysis of large-scale complex structural systems. However, there is still a lack of a robust integrated simulation method that can be easily implemented in existing analysis tools and also ensure numerical stability. In this study, a novel integrated simulation method is proposed that not only allows seamless data exchange based on standard input and output of subsystem programs but also can achieve unconditional stability by adjusting the time integration coefficients for the interface layers between the decomposed subsystems. The stability of the proposed method is mathematically evaluated through the energy approach. Numerical evaluations of the accuracy and stability limits of the proposed method are also presented. Two application examples are provided to demonstrate potential applications of the proposed approach.
+
+
+    
+        AU - Shiling Pei
+    
+        AU - Keri L. Ryan
+    
+        AU - Jeffrey W. Berman
+    
+        AU - John W. van de Lindt
+    
+        AU - Steve Pryor
+    
+        AU - Da Huang
+    
+        AU - Sarah Wichman
+    
+        AU - Aleesha Busch
+    
+        AU - William Roser
+    
+        AU - Sir Lathan Wynn
+    
+        AU - Yi-en Ji
+    
+        AU - Tara Hutchinson
+    
+        AU - Shokrullah Sorosh
+    
+        AU - Reid B. Zimmerman
+    
+        AU - James Dolan
+    
+
+TI - Shake-Table Testing of a Full-Scale 10-Story Resilient Mass Timber Building
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024183
+VI - 150
+IP - 12
+AID - 10.1061/JSENDH.STENG-13752 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13752
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13752
+SO - Journal of Structural Engineering 2024-12-01 150(12): 04024183
+AB - As part of a collaborative research effort (The NHERI TallWood Project), an extensive shake table test program was undertaken on a full-scale 10-story mass timber building with a resilient posttensioned mass timber rocking wall lateral system. Over a three-year period, academic and industry partners collaborated on the design, construction, and testing of a 34&nbsp;m (113&nbsp;ft) tall, 10-story mass timber building at the world’s largest outdoor shake table facility (NHERI@UC San Diego). The test building incorporated a resilient mass timber rocking wall lateral system, gravity connection details designed to remain damage-free under design level earthquakes as well as innovative nonstructural systems detailed to tolerate moderate building drifts without significant damage. A total of 88 earthquake tests at different intensity levels were conducted, including several at the risk targeted maximum considered earthquake intensity for the building’s design location. Experimental results indicate that a tall wood building with the systems and details employed in this study can withstand design basis and maximum considered earthquake level events repeatedly with no notable residual drift, no structural member or connection damage, while only experiencing moderate nonstructural damage that would be repairable, meeting the intended resilience goals. This paper provides a summary of the design, construction, testing, and primary results from this experimental program.
+
+
+    
+        AU - Tianyu Wu
+    
+        AU - Haorong Yang
+    
+        AU - Pan Wang
+    
+        AU - Cheng Zhang
+    
+        AU - Mingjie Zhang
+    
+
+TI - Data-Driven Fatigue Reliability Evaluation of Offshore Wind Turbines under Floating Ice Loading
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 05024004
+VI - 150
+IP - 12
+AID - 10.1061/JSENDH.STENG-13476 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13476
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13476
+SO - Journal of Structural Engineering 2024-12-01 150(12): 05024004
+AB - Floating ice loading is a severe natural hazard for offshore wind turbines (OWTs) operating in cold sea regions. The long-term ice-induced vibration resulting from winter drift ice presents a significant threat to the fatigue reliability of OWTs. Machine learning not only exhibits robust data-driven capabilities but also efficiently handles complex relationships among multiple factors. Through effective learning and utilization of diverse features, a comprehensive assessment of the fatigue reliability of structures becomes achievable, consequently resulting in increased efficiency, accuracy, and adaptability of the assessment. This study conducts ice-induced vibration simulations on a 5-MW monopile OWT. Employing orthogonal experimental methods, the study investigates the influence of three critical ice parameters, i.e.,&nbsp;ice thickness, ice velocity, and ice crushing strength, on the fatigue damage caused by ice loading on OWTs. Additionally, it explores the effects of ice loading exceedance probability on extreme fatigue damage values of OWTs under combined ice and wind loadings. Furthermore, a surrogate model based on support vector machine (SVM) is developed to effectively capture the intricate mapping relationship between fatigue damage and various random environmental parameters. By conducting a comprehensive evaluation that considers the probabilistic characteristics of ice loading, wind loading, and the S-N curve, this study assesses the fatigue reliability under combined ice and wind. Moreover, this study analyzes the impact of operational duration during winter drift ice on the fatigue reliability index of OWTs. The findings of this study can provide a theoretical basis for devising operational strategies for OWTs operating in icy sea regions.
+
+

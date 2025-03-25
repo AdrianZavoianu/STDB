@@ -1,0 +1,381 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - C. Dale Buckner
+    
+
+TI - Editor's Note
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 725-725
+VI - 127
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2001)127:7(725) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28725%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28725%29
+SO - Journal of Structural Engineering 2001-07-01 127(7): 725-725
+
+
+    
+        AU - Savita Maru
+    
+        AU - M. Asfaw
+    
+        AU - A. K. Nagpal
+    
+
+TI - Consistent Procedure for Creep and Shrinkage Effects in RC Frames
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 726-732
+VI - 127
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2001)127:7(726) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28726%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28726%29
+SO - Journal of Structural Engineering 2001-07-01 127(7): 726-732
+AB - This paper describes a consistent procedure for determining creep and shrinkage effects in RC building frames. The procedure takes into account the sequential nature of application of dead load and the simultaneous nature of application of live load. Shearing action of beams is considered for evaluation of elastic axial forces as well as redistribution of axial forces resulting from creep and shrinkage deformations. In addition to elastic axial forces, the effect of inelastic axial forces on creep deformations, which get generated progressively with time, is also take into account. This procedure overcomes serious shortcomings of the most commonly used procedure, which is recommended to be used for buildings having low beam stiffness. A 60-story example frame is chosen, and results from the proposed procedure are compared with those obtained from the procedure available in the literature. It is shown that errors in the available procedure in differential vertical deflections (between adjacent columns) and column axial forces increase with higher beam stiffness. These errors are quite large even for low beam stiffness values.
+
+
+    
+        AU - Prodromos D. Zararis
+    
+        AU - George Ch. Papadakis
+    
+
+TI - Diagonal Shear Failure and Size Effect in RC Beams without Web Reinforcement
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 733-742
+VI - 127
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2001)127:7(733) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28733%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28733%29
+SO - Journal of Structural Engineering 2001-07-01 127(7): 733-742
+AB - This paper describes a formal theory, which explains the mechanism of shear failure in reinforced concrete (RC) ordinary (slender) beams without web reinforcement. The theory determines the type of splitting of concrete responsible for the diagonal shear failure of beams under concentrated loads and the location along the shear span where this splitting occurs. A simple expression is derived for the shear stress at failure as the product of the ratio of the neutral axis depth to the effective depth of beam times the splitting tensile strength of concrete. It is also shown how the nominal shear strength can be adjusted to take into account the size effect. The derived formula from this analysis is verified by comparisons to extensive sets of experimental data from the literature, which have been obtained on slender beams with various strengths of concrete (low and high), steel ratios, shear span to depth (a/d) ratios, and geometrical sizes.
+
+
+    
+        AU - Beni Assa
+    
+        AU - Minehiro Nishiyama
+    
+        AU - Fumio Watanabe
+    
+
+TI - New Approach for Modeling Confined Concrete. I: Circular Columns
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 743-750
+VI - 127
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2001)127:7(743) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28743%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28743%29
+SO - Journal of Structural Engineering 2001-07-01 127(7): 743-750
+AB - An analytical stress-strain model for concrete confined by spiral steel was developed. The model is based on the concrete–spiral steel interaction. The deformational behavior of concrete under axial and lateral compression provided at discrete locations was studied experimentally, and the response characteristics of spiral to lateral expansion of concrete was determined theoretically. A total of 24 (145 × 300 mm) confined concrete cylinders were tested to failure under monotonic concentric compression. A criterion for maximum axial strength and a set of constitutive relations for estimating the characteristic points on the stress-strain curve of confined concrete were derived. A comparative study was performed on the response of concrete cylinders tested in the present study and of 15 large-size circular columns tested by other researchers. The proposed model gave good agreement with the test results.
+
+
+    
+        AU - Beni Assa
+    
+        AU - Minehiro Nishiyama
+    
+        AU - Fumio Watanabe
+    
+
+TI - New Approach for Modeling Confined Concrete. II: Rectangular Columns
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 751-757
+VI - 127
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2001)127:7(751) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28751%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28751%29
+SO - Journal of Structural Engineering 2001-07-01 127(7): 751-757
+AB - This is the second of two papers presenting the results of a research program aimed at studying the stress-strain response of confined concrete. A confinement model for spirally confined concrete has been developed and reported in the first paper. The model was extended for concrete confined by rectangular ties and is presented in this paper. The stress-strain curve of confined concrete was determined based on the compatibility in the lateral expansion between concrete and the rectangular ties. The results of the predictions from the proposed confinement model showed good agreement with the experimental results of reinforced concrete column specimens tested by several researchers. The comparisons indicated that the proposed method has the potential to be used for predicting the stress-strain curve of core concrete confined by rectangular ties, with sufficient accuracy.
+
+
+    
+        AU - H. P. Hong
+    
+
+TI - Strength of Slender Reinforced Concrete Columns under Biaxial Bending
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 758-762
+VI - 127
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2001)127:7(758) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28758%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28758%29
+SO - Journal of Structural Engineering 2001-07-01 127(7): 758-762
+AB - A simple approach is proposed in this paper for estimating the strength of a slender reinforced concrete column under biaxial bending and axial load. The model considers the nonlinear stress-strain relations of concrete and reinforcing steel, and can be used for slender reinforced concrete column with arbitrary cross section. The problem of finding the strength of the slender reinforced concrete column is formulated as a nonlinearly constrained optimization problem. The method is capable of predicting the slender column strength. Its use for design purposes is also outlined. The predicted results obtained from the proposed method compare well with experimental results found in the literature.
+
+
+    
+        AU - J. A. Rodriguez-Gutierrez
+    
+        AU - J. Dario Aristizabal-Ochoa
+    
+
+TI - <b><i>M</i></b>-<b><i>P</i></b>-&#x3d5; Diagrams for Reinforced, Partially, and Fully Prestressed Concrete Sections under Biaxial Bending and Axial Load
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 763-773
+VI - 127
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2001)127:7(763) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28763%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28763%29
+SO - Journal of Structural Engineering 2001-07-01 127(7): 763-773
+AB - An analytical model that determines the M-P-ϕ diagrams including the inelastic structural response, ultimate strength, and failure mode of reinforced concrete, partially prestressed concrete, and fully prestressed concrete sections of any cross shape under combined biaxial bending and axial load is presented. The proposed method uses (1) a nonlinear stress-strain relationship for the concrete; (2) a multilinear elastic-plastic relationship for the conventional reinforcement; (3) a modified Ramberg-Osgood function for the prestressed steel; and (4) Gauss's integral method for equilibrium at the sectional level. The proposed method can be utilized to study the effects of creep, confinement, and tension-stiffening of the concrete and relaxation of the prestressed steel on the behavior, strength, ductility, and failure mode of reinforced concrete, partially prestressed concrete, and fully prestressed concrete sections under biaxial bending and axial load. The biaxial bending behavior, ultimate strength, failure mode, and M-P-ϕ diagrams of any concrete section can be obtained using a minicomputer, and as expected, they depend on (1) cross-sectional characteristics and reinforcement layout; (2) the constitutive stress-strain characteristics of the concrete and reinforcements; and (3) the type and intensity of applied loads. Two numerical examples are presented in detail to verify and show the effectiveness of the proposed method.
+
+
+    
+        AU - J. A. Rodriguez-Gutierrez
+    
+        AU - J. Dario Aristizabal-Ochoa
+    
+
+TI - Reinforced, Partially, and Fully Prestressed Slender Concrete Columns under Biaxial Bending and Axial Load
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 774-783
+VI - 127
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2001)127:7(774) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28774%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28774%29
+SO - Journal of Structural Engineering 2001-07-01 127(7): 774-783
+AB - An analytical model that determines the inelastic structural response, ultimate strength, and failure mode of reinforced concrete, partially prestressed concrete, and prestressed concrete slender columns of any cross section under biaxial bending and axial load is presented. The effects of rotational and lateral restraints at the ends are included, but the effects of shear deformations and torsional moments along the member are neglected. The proposed method uses (1) a nonlinear stress-strain relationship for the concrete; (2) a multilinear elastic-plastic relationship for the conventional reinforcement; (3) a modified Ramberg-Osgood function for the prestressed steel; (4) Gauss's integral method for equilibrium at the sectional level to generate the moment-axial load-curvature characteristics (i.e., M-P-ϕ diagrams) along the member; and (5) the finite-element method to evaluate the transverse deflections and second-order moments (P-δ and P-Δ effects) along the member. The proposed method can be utilized (1) to study the effects of creep, confinement, and tension-stiffening in the concrete and relaxation in the prestressed steel on the behavior, strength, ductility, and failure mode of slender concrete columns; and (2) to analyze prismatic and nonprismatic slender concrete columns of an arbitrary cross section under different end supports and bracing conditions. The biaxial bending behavior, strength, ductility, and failure mode of slender concrete columns can be obtained using a minicomputer, and as expected, they depend on (1) bracing and support conditions; (2) cross section and reinforcement layout along its span; (3) the stress-strain characteristics of the concrete and different reinforcements; and (4) the type and intensity of the applied loads. Three numerical examples are presented in detail to verify and show the effectiveness of the proposed method.
+
+
+    
+        AU - J. F. Chen
+    
+        AU - J. G. Teng
+    
+
+TI - Anchorage Strength Models for FRP and Steel Plates Bonded to Concrete
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 784-791
+VI - 127
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2001)127:7(784) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28784%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28784%29
+SO - Journal of Structural Engineering 2001-07-01 127(7): 784-791
+AB - External bonding of steel plates has been used to strengthen deficient reinforced-concrete structures since the 1960s. In recent years, fiber-reinforced polymer (FRP) plates have been increasingly used to replace steel plates due to their superior properties. A key issue in the design of an effective retrofitting solution using externally bonded plates is the end anchorage strength. This paper first presents a review of current anchorage strength models for both FRP-to-concrete and steel-to-concrete bonded joints under shear. These models are then assessed with experimental data collected from the literature, revealing the deficiencies of all existing models. Finally, a new simple and rational model is proposed based on an existing fracture mechanics analysis and experimental observations. This new model not only matches experimental observations of bond strength closely, but also correctly predicts the effective bond length. The new model is thus suitable for practical application in the design of FRP-to-concrete as well as steel-to-concrete bonded joints.
+
+
+    
+        AU - Wendel M. Sebastian
+    
+
+TI - Significance of Midspan Debonding Failure in FRP-Plated Concrete Beams
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 792-798
+VI - 127
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2001)127:7(792) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28792%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28792%29
+SO - Journal of Structural Engineering 2001-07-01 127(7): 792-798
+AB - Reinforced concrete beams enhanced in flexure with adhesively-bonded fibre reinforced polymer plates are susceptible to a brittle form of failure, defined by delamination of the cover concrete attached to the adhesive that causes the plates to debond from the beam. This paper demonstrates that, while previous research has focused almost singularly on one debond mode in which concrete delamination progresses from the ends of the plates inwards, there exists another critical debond mode that initiates near flexural cracks in the midspan region of the plated beam and propagates out to the ends of the plates. Data from large-scale experimental work are presented to show that midspan debond action is triggered by high shear stresses transmitted from the plates through the adhesive to the cover concrete. These stresses arise initially from tension stiffening in the cracked concrete and corrosion of the embedded steel. It is shown that strain gauge data are required from both the bonded and exposed surfaces of the plate for accurate quantification of these shear stresses. The shear span of the external load and the stiffness of the plate are cited as parameters that may influence whether in practice end peel or midspan debond occur in plated beams. The paper concludes by describing compulsory features of any numerical modeling of the midspan debond phenomenon.
+
+
+    
+        AU - O. Rabinovitch
+    
+        AU - Y. Frostig
+    
+
+TI - High-Order Approach for the Control of Edge Stresses in RC Beams Strengthened with FRP Strips
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 799-809
+VI - 127
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2001)127:7(799) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28799%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28799%29
+SO - Journal of Structural Engineering 2001-07-01 127(7): 799-809
+AB - A closed-form high-order analytical model for the investigation of various methods that control and reduce the stress concentrations at the edges of reinforced concrete (RC) beams strengthened with externally bonded fiber-reinforced plastic (FRP) strips is presented. The model provides the means for the analysis of RC beams retrofitted with composite strips with a general variable width or thickness. Furthermore, it includes the effect of a “spew-fillet” and the influence of external anchoring devices such as vertical prestressed straps or clamps. The analysis includes the local and the overall response of the structure and focuses on the stress concentrations that arise at the edges of the bonded strip and in many cases lead to a brittle and premature failure of the strengthened member. The governing equations along with the boundary and continuity conditions are derived using the variational principle of virtual work and follow the high-order theory. Numerical solution via the multiple points shooting method is adopted when variable coefficients are involved and the concept of substructuring is introduced for reducing the required computational resources. Numerical investigation of various width and thickness profiles for the FRP strip and their influence on the stresses at the edge region is presented. In addition, the effects of the spew-fillet and the various anchoring devices are studied. The results reveal that proper use of such means can significantly reduce the edge stresses and thus prevent the brittle mode of failure. The paper is concluded with a summary and recommendations for the analysis and design of strengthened members.
+
+
+    
+        AU - Andrew Davol
+    
+        AU - Rigoberto Burgueño
+    
+        AU - Frieder Seible
+    
+
+TI - Flexural Behavior of Circular Concrete Filled FRP Shells
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 810-817
+VI - 127
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2001)127:7(810) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28810%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28810%29
+SO - Journal of Structural Engineering 2001-07-01 127(7): 810-817
+AB - A new structural system has been developed that combines a fiber-reinforced polymer (FRP) shell with a concrete core for use as bending members in civil structural applications. The external fiber-reinforced shell in this system replaces the functions of steel rebar in conventional reinforced concrete, namely, tension carrying capacity, shear resistance, and confinement of the concrete core. This paper attempts to characterize the response of such a hybrid composite concrete system under flexural loading. Compression behavior is discussed with emphasis on understanding the dilation behavior of the concrete core. Models are proposed to predict the longitudinal, hoop, and shear strains in the FRP shell. Large-scale experimental validation of the models is presented.
+
+
+    
+        AU - A. Sanad
+    
+        AU - M. P. Saka
+    
+
+TI - Prediction of Ultimate Shear Strength of Reinforced-Concrete Deep Beams Using Neural Networks
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 818-828
+VI - 127
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2001)127:7(818) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28818%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28818%29
+SO - Journal of Structural Engineering 2001-07-01 127(7): 818-828
+AB - This study explores the use of artificial neural networks in predicting the ultimate shear strength of reinforced-concrete deep beams. One hundred eleven experimental data collected from the literature cover the simple case of a simply supported beam with two point loads acting symmetrically with respect to the centerline of the span. The data are arranged in a format such that 10 input parameters cover the geometrical and material properties of the deep beam and the corresponding output value is the ultimate shear strength. Among the available methods in the literature, the American Concrete Institute, strut-and-tie, and Mau-Hsu methods were selected because of their accuracy and used to calculate the shear strength of each beam in the set. Later, an artificial neural network is developed using two different software programs and the ultimate shear strength of each beam is determined form these networks. It is found that the average ratio of actual and predicted shear strength was 0.99 for the neural network, 2.08 for the American Concrete Institute method, 0.85 for the strut-and-tie method, and 0.84 for the Mau-Hsu method. It is apparent that neural networks provide an efficient alternative method in predicting the shear strength capacity of reinforced-concrete deep beams where several equations exist, none of which produce an accurate result.
+
+
+    
+        AU - W. S. Toh
+    
+        AU - T. C. Fung
+    
+        AU - K. H. Tan
+    
+
+TI - Fire Resistance of Steel Frames Using Classical and Numerical Methods
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 829-838
+VI - 127
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2001)127:7(829) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28829%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28829%29
+SO - Journal of Structural Engineering 2001-07-01 127(7): 829-838
+AB - This paper presents a second-order elastic-plastic hinge method and a finite-element model for the analysis of plane frames in fire. Both methods are derived from the same two-node corotational beam element and are based on the plastic theorems. Hence, this paper first presents the extension of the three classical plastic theorems, viz, the Lower-Bound Theorem, Upper-Bound Theorem, and Uniqueness Theorem, to structural analysis incorporating thermal effects. The three plastic theorems are given new definitions, followed by original mathematical proofs. The basic formulations of the two analytical methods are then described. The proposed finite-element model has been validated against a series of published test and analytical results on different structure types. For comparison purposes, numerical examples are presented to examine the relative performance of the three methods investigated in this study. Discussions on the validity of the methods and their limitations are then addressed.
+
+
+    
+        AU - A. Fafitis
+    
+
+TI - Interaction Surfaces of Reinforced-Concrete Sections in Biaxial Bending
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 840-846
+VI - 127
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2001)127:7(840) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28840%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28840%29
+SO - Journal of Structural Engineering 2001-07-01 127(7): 840-846
+AB - A method for the computation of the interaction surface of reinforced-concrete sections subjected to axial load and biaxial bending is developed. The method is analytically exact and it is based on using Green's theorem to transform the double equilibrium integrals into line integrals along the compressive perimeter of the concrete section. For up to third-degree polynomial stress-strain relations for concrete, Gauss integration with only three sample integration points yields exact results. This is the reason the method is computationally efficient. Note that the concrete stress-strain relations recommended by the American Concrete Institute and by Eurocode 2 of the European Union both fall within the above limitation. The method is demonstrated by a numerical example.
+
+
+    
+        AU - S. V. Khonsari
+    
+        AU - J. Zhang
+    
+        AU - P. Dong
+    
+
+TI - Residual Stresses in Welded Moment Frames and Implications for Structural Performance
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 848-849
+VI - 127
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2001)127:7(848) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28848%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28848%29
+SO - Journal of Structural Engineering 2001-07-01 127(7): 848-849
+
+
+    
+        AU - J. Zhang
+    
+        AU - P. Dong
+    
+
+TI - Closure to “Residual Stresses in Welded Moment Frames and Implications for Structural Performance” by J. Zhang and P. Dong
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 848-849
+VI - 127
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2001)127:7(848.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28848.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28848.2%29
+SO - Journal of Structural Engineering 2001-07-01 127(7): 848-849
+
+
+    
+        AU - Walter Gerstle
+    
+
+TI - Theory of Adaptive Structures: Incorporating Intelligence into Engineered Products
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 850-850
+VI - 127
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2001)127:7(850) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28850%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28850%29
+SO - Journal of Structural Engineering 2001-07-01 127(7): 850-850
+
+
+TI - Comparative Study of Nonlinear Damage Accumulation Models in Stochastic Fatigue of FRP Laminates
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 851-851
+VI - 127
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2001)127:7(851) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28851%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A7%28851%29
+SO - Journal of Structural Engineering 2001-07-01 127(7): 851-851
+
+

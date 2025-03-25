@@ -1,0 +1,464 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Sashi K. Kunnath
+    
+
+TI - Editor’s note
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 1855-1857
+VI - 132
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2006)132:12(1855) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281855%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281855%29
+SO - Journal of Structural Engineering 2006-12-01 132(12): 1855-1857
+
+
+    
+        AU - Mohsen Kargahi
+    
+        AU - James C. Anderson
+    
+        AU - Maged M. Dessouky
+    
+
+TI - Structural Weight Optimization of Frames Using Tabu Search. I: Optimization Procedure
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 1858-1868
+VI - 132
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2006)132:12(1858) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281858%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281858%29
+SO - Journal of Structural Engineering 2006-12-01 132(12): 1858-1868
+AB - A class of search techniques, heuristic search methods, and their suitability for structural optimization are considered for discrete optimization problems. The tabu search method is selected for application to structural weight optimization of skeleton structures. The search method is first tested to find the minima of a function in a nonlinear nonconvex optimization mathematical problem, and an algorithm is developed. Further, a computer program is developed that uses tabu search for weight minimization of two-dimensional framed structures. The program, written in the FORTRAN computer language, performs search, structural analysis, and structural design in an iterative procedure. The program is used to optimize the weight of three previously designed frames including three-story/three-bay, nine-story/five-bay, and 20-story/five-bay steel moment resisting frames. The program demonstrated its capability of optimizing the weight of these medium size frames in a reasonable amount of time without requiring engineer interference during the search. The structural weights for the three frames are reduced by an average of 23.4% from their original design weight.
+
+
+    
+        AU - Mohsen Kargahi
+    
+        AU - James C. Anderson
+    
+
+TI - Structural Weight Optimization of Frames Using Tabu Search. II: Evaluation and Seismic Performance
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 1869-1879
+VI - 132
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2006)132:12(1869) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281869%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281869%29
+SO - Journal of Structural Engineering 2006-12-01 132(12): 1869-1879
+AB - In a companion paper, a structural optimization computer program based on tabu search (TS) was developed and used to optimize three two-dimensional moment resisting frames. All three frames were representative of current design practice for steel structures in the Los Angeles area and were part of an SAC program of study following the Northridge earthquake. The weight reduction obtained for the three-story/three-bay, the nine-story/five-bay, and the twenty-story/five-bay frames in the initial study were 26.4, 18.3, and 25.5%, respectively. In this paper, the seismic performance of the optimized structures is evaluated by calculating the rotation demands in the plastic hinges that form in the structural elements during nonlinear time history analyses. Twenty ground motion records having the return probability of 10% in 50 years are considered in the study. The frames were expected to achieve the Life Safety performance level as outlined in the FEMA-273 guidelines, and in general, they were able to achieve this level of performance. Next, the same frames are optimized using the optimization module of a commercially available program, with the same assumptions (starting point sections, loading, etc.). The TS optimization program was able to achieve a larger weight reduction than the commercially available program. The performance of the final commercial program designs is then briefly evaluated by one nonlinear time history analysis for each building using the ground motion record that produced the most severe responses for the TS designs. Performance of these frames was very similar to the TS design frames. Finally, the performance of the three TS designed frames is compared to that of the original design frames, which were designed under the same code lateral forces. The original frame designs are analyzed for the ground motion record (or records) that resulted in the largest plastic hinge rotations in the TS design frames. The values of the maximum story plastic hinge rotations, story displacements, and interstory drift ratios are compared. The response of the TS optimized frames was comparable to the original frames.
+
+
+    
+        AU - Qian Wang
+    
+        AU - Jasbir S. Arora
+    
+
+TI - Alternative Formulations for Structural Optimization: An Evaluation Using Frames
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 1880-1889
+VI - 132
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2006)132:12(1880) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281880%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281880%29
+SO - Journal of Structural Engineering 2006-12-01 132(12): 1880-1889
+AB - Two alternative formulations based on the concept of simultaneous analysis and design are presented and evaluated for optimal design of framed structures. Different behavior variables, such as nodal displacements and member forces, are also treated as optimization variables in addition to the actual design variables for the problem. With these formulations, the equilibrium equations become equality constraints in the optimization process. The objective and all constraints become explicit functions of the optimization variables. Therefore, their derivatives can be obtained quite easily compared to those for the conventional approach where special design sensitivity analysis procedures must be used to calculate derivatives. It is also easier to use existing analysis software for optimization with the alternative formulations because the sensitivity equations are not formed or solved. A sequential quadratic programming method that exploits sparsity of problem functions is used to solve sample problems and evaluate the formulations. Implementation of the alternative formulations with an existing analysis program is explained. Advantages and disadvantages of the formulations are discussed. It is concluded that the alternative formulations work quite well for optimization of framed structures and have potential for further development.
+
+
+    
+        AU - Hyo Seon Park
+    
+        AU - Yun Han Kwon
+    
+        AU - Ji Hyun Seo
+    
+        AU - Byung-Hun Woo
+    
+
+TI - Distributed Hybrid Genetic Algorithms for Structural Optimization on a PC Cluster
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 1890-1897
+VI - 132
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2006)132:12(1890) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281890%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281890%29
+SO - Journal of Structural Engineering 2006-12-01 132(12): 1890-1897
+AB - Even though several genetic algorithm (GA)-based optimization algorithms have been successfully applied to complex optimization problems in various engineering fields, such methods are computationally too expensive for practical use in the field of structural optimization, particularly for large-scale problems. Furthermore, the successful implementation of GA-based optimization algorithm requires a cumbersome routine through trial-and-error for tuning the GA parameters that are different depending on each problem. Therefore, to overcome these difficulties, a high-performance GA is developed in the form of a distributed hybrid genetic algorithm for structural optimization, implemented on a cluster of personal computers. The distributed hybrid genetic algorithm proposed in this paper consists of a 
+μ
+-GA running on a master computer and multiple simple GAs running on slave computers. The algorithm is implemented on a PC cluster and applied to the minimum weight design of steel structures. The results show that the computation time required for GA-based optimization can be drastically reduced and the problem-dependent parameter tuning process can be avoided.
+
+
+    
+        AU - Michel D. Thompson
+    
+        AU - Christopher D. Eamon
+    
+        AU - Masoud Rais-Rohani
+    
+
+TI - Reliability-Based Optimization of Fiber-Reinforced Polymer Composite Bridge Deck Panels
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 1898-1906
+VI - 132
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2006)132:12(1898) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281898%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281898%29
+SO - Journal of Structural Engineering 2006-12-01 132(12): 1898-1906
+AB - A reliability-based optimization procedure is developed and applied to minimize the weight of eight fiber-reinforced polymer composite bridge deck panel configurations. The method utilizes interlinked finite element, optimization, and reliability analysis procedures to solve the weight minimization problem with a deterministic strength constraint and two probabilistic deflection constraints. Panels are composed of an upper face plate, lower face plate, and a grid of interior stiffeners. Different panel depths and stiffener layouts are considered. Sensitivity analyses are conducted to identify significant design and random variables. Optimization design variables are panel component ply thicknesses, while random variables include load and material resistance parameters. It was found that panels were deflection governed, with the optimization algorithm yielding little improvement for shallow panels, but significant weight savings for deeper panels. The best design resulted in deep panels with close stiffener spacing to minimize local upper face plate deformations under the imposed traffic (wheel) loads.
+
+
+    
+        AU - A. M. Kanvinde
+    
+        AU - G. G. Deierlein
+    
+
+TI - The Void Growth Model and the Stress Modified Critical Strain Model to Predict Ductile Fracture in Structural Steels
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 1907-1918
+VI - 132
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2006)132:12(1907) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281907%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281907%29
+SO - Journal of Structural Engineering 2006-12-01 132(12): 1907-1918
+AB - Material tests and analyses are presented to investigate the accuracy of two micromechanics-based continuum criteria for predicting ductile crack initiation in low-carbon steels, which are representative of mild steels used in civil engineering construction. Referred to as the stress modified critical strain (SMCS) model and the void growth model (VGM), both criteria integrate plastic strains and triaxial stresses to predict crack initiation associated with the mechanisms of void initiation, growth and coalescence. The models are suitable for implementation through finite-element analyses to simulate fracture initiation in steel structures. Material tests and finite-element analyses of seven varieties of structural steels, including two new high-performance steels, are conducted to validate and calibrate the model parameters for practical structural engineering applications. Both models are shown to predict fracture accurately across the spectrum of steel samples and geometric configurations. However, application of the models to situations with high stress and strain gradients is shown to be quite sensitive to the characteristic length parameter of the models, which leads to large model variability in such cases. A strong empirical relationship between Charpy V-notch upper-shelf energy and the SMCS and VGM parameters is observed, which can be utilized to estimate the model parameters.
+
+
+    
+        AU - Diya Azzam
+    
+        AU - Craig C. Menzemer
+    
+
+TI - Fatigue Behavior of Welded Aluminum Light Pole Support Details
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 1919-1927
+VI - 132
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2006)132:12(1919) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281919%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281919%29
+SO - Journal of Structural Engineering 2006-12-01 132(12): 1919-1927
+AB - A study of the behavior of two types of welded aluminum light pole support details was conducted. Twenty nine full-scale samples were tested to determine fatigue life, and included 19 poles with cast shoe base socket connections along with 10 through plate socket connection details. The primary objective of this investigation was to compare the test results with current fatigue design provisions, and to determine the applicable design category or develop new lower bound stress-life (S-N) curve(s), as appropriate. To augment the tests, parametric studies of both detail types were conducted using the finite-element method. Parametric studies included the effect of the light pole tube radius to thickness ratio, base plate thickness, and fillet weld dimensions on the local stresses adjacent to the weld toe area. Residual stresses, determined through the application of the hole drilling technique, assisted in the understanding of the fatigue test results.
+
+
+    
+        AU - Francesca Giussani
+    
+        AU - Franco Mola
+    
+
+TI - Service-Stage Analysis of Curved Composite Steel-Concrete Bridge Beams
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 1928-1939
+VI - 132
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2006)132:12(1928) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281928%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281928%29
+SO - Journal of Structural Engineering 2006-12-01 132(12): 1928-1939
+AB - The long term behavior of composite steel-concrete bridge beams with a circular axis is discussed. The time evolution of strains and stresses arising in the composite section and the main aspects of the structural behavior are investigated, by assuming perfect bond between the steel beam and concrete slab and by considering the sections as thin-walled. The warping theory according to sectorial areas has been adopted for the analysis, extending it to the viscoelastic domain. The problem, governed by a set of sixth-order integro-differential equations, is solved in a general way recurring to a numerical algorithm carried out by the writers. A significant case study is finally worked out, allowing us to point out the most important prerequisites of the deferred behavior of composite steel-concrete curved bridges, in particular the interaction between the different components of internal actions due both to the curved geometry of the beam and to the delayed deformations of the concrete slab induced by creep.
+
+
+    
+        AU - Yoshiaki Goto
+    
+        AU - Naoki Kawanishi
+    
+
+TI - Change of Weld Residual Stresses due to Loss of Material
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 1940-1947
+VI - 132
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2006)132:12(1940) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281940%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281940%29
+SO - Journal of Structural Engineering 2006-12-01 132(12): 1940-1947
+AB - The loss of material due to corrosion sometimes has a large influence on the change of weld residual stresses and residual deflections of steel structures. A new finite-element method is proposed that can take into account the effects of the volume change of material. By the use of this new method, it is expected that the change of weld residual stresses and residual deflections due to loss of material can be evaluated, if only the distributions of the residual stresses and residual deflections at the initial state as well as the corrosion profiles are known in advance. In order to confirm the validity of the proposed method, an experiment is carried out to measure the change of weld residual stresses and residual deflections by mechanically forming a groove on the surface of a welded steel box column that mimics a local corrosion loss pattern. From the experiment, it is observed that the change of the weld residual stresses and residual deflections caused by the groove is well predicted by the proposed analysis method as long as the corresponding initial values of the box column without groove are known in advance.
+
+
+    
+        AU - Ju Chen
+    
+        AU - Ben Young
+    
+        AU - Brian Uy
+    
+
+TI - Behavior of High Strength Structural Steel at Elevated Temperatures
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 1948-1954
+VI - 132
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2006)132:12(1948) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281948%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281948%29
+SO - Journal of Structural Engineering 2006-12-01 132(12): 1948-1954
+AB - This paper presents the mechanical properties of high strength structural steel and mild structural steel at elevated temperatures. Mechanical properties of structural steel at elevated temperatures are important for fire resistant design of steel structures. However, current design standards for fire resistance of steel structures are mainly based on the investigation of hot-rolled carbon steel with normal strength, such as mild steel. The performance of high strength steel at elevated temperatures is unknown. Hence, an experimental program has been carried out to investigate the mechanical properties of both high strength steel and mild steel at elevated temperatures. The high strength steel BISPLATE 80 (approximately equivalent to ASTM A 514, EN 10137-2 Grade S690Q, and JIS G 3128) and the mild steel XLERPLATE Grade 350 (approximately equivalent to ASTM 573-450) were tested using steady and transient-state test methods. The elastic moduli and yield strengths were obtained at different strain levels, and the ultimate strength and thermal elongation were evaluated at different temperatures. It is shown that the reduction factors of yield strength and elastic modulus of high strength steel and mild steel are quite similar for the temperature ranging from 
+
+22
+to
+540°C
+
+. The test results were compared with the predictions obtained from the American, Australian, British, and European standards.
+
+
+    
+        AU - Ji-Hua Zhu
+    
+        AU - Ben Young
+    
+
+TI - Experimental Investigation of Aluminum Alloy Thin-Walled Tubular Members in Combined Compression and Bending
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 1955-1966
+VI - 132
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2006)132:12(1955) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281955%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281955%29
+SO - Journal of Structural Engineering 2006-12-01 132(12): 1955-1966
+AB - This paper presents a test program on aluminum alloy thin-walled square and rectangular hollow sections in combined axial compression and minor axis bending. A total of six series of tests was conducted that included 27 beam-column and 4 pure bending tests. The test specimens were manufactured by extrusion using 6061-T6 heat-treated aluminum alloy in three different cross sections having the clear width-to-thickness ratio ranged from 31.3 to 81.3. The beam-column specimens were compressed between pinned ends at different eccentricities in order to obtain an interaction curve for each series of tests. Pure bending tests were conducted for each test series to determine the bending capacities of the specimens. Local and overall initial geometric imperfections of the specimens were measured. Material properties were obtained from tensile coupon tests. The observed failure modes of the beam-column tests included local buckling, flexural buckling, interaction of local and flexural buckling, and material yielding in the heat-affected zone. The test strengths were compared with the design strengths calculated using the American, Australian/New Zealand, and European specifications for aluminum structures. Beam-column interaction curves were plotted for each test series. It is shown that the beam-column design strengths and bending capacities predicted by the three specifications are generally conservative.
+
+
+    
+        AU - Wei-Xin Ren
+    
+        AU - Sheng-En Fang
+    
+        AU - Ben Young
+    
+
+TI - Finite-Element Simulation and Design of Cold-Formed Steel Channels Subjected to Web Crippling
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 1967-1975
+VI - 132
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2006)132:12(1967) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281967%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281967%29
+SO - Journal of Structural Engineering 2006-12-01 132(12): 1967-1975
+AB - Web crippling may occur at the highly concentrated loading or reactions when there is no end stiffener or load stiffener in cold-formed, thin-walled steel members. A nonlinear finite-element analysis is carried out based on a series of laboratory tests on cold-formed steel channels subjected to web crippling under end-one-flange and interior-one-flange loading conditions as specified in the North American and Australian/New Zealand specifications for cold-formed steel structures. Geometric and material nonlinearities were included in the finite-element analysis. The finite-element results demonstrate that the ultimate load-carrying capacity (web crippling strength), web crippling failure modes, and web deformation curves agree well with the tests. The verified finite-element models are then used for an extensive parametric study of different channel dimensions. It is found that the design strengths calculated from the North American Specification are generally unconservative for channel sections with unstiffened flanges having web slenderness ranging from 7.8 to 108.5 subjected to web crippling under the end-one-flange and interior-one-flange loading conditions. Therefore, the updated coefficients of the design formula in the North American Specification and new design formulas are subsequently proposed in this paper. It is demonstrated that the verified finite-element models provide an effective and time efficient means to predict web crippling strengths of cold-formed steel members.
+
+
+    
+        AU - Erik Stefan Bernard
+    
+
+TI - Influence of Toughness on the Apparent Cracking Load of Fiber-Reinforced Concrete Slabs
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 1976-1983
+VI - 132
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2006)132:12(1976) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281976%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281976%29
+SO - Journal of Structural Engineering 2006-12-01 132(12): 1976-1983
+AB - It is widely believed that the onset of flexural cracking in a fiber-reinforced concrete (FRC) slab is governed by the modulus of rupture (MOR) of the concrete matrix and that the peak in load resistance associated with cracking of the concrete matrix in bending is independent of postcracking behavior. This model of flexural resistance underpins most methods of thickness design for concrete slabs-on-grade and other concrete plate elements subject to point loading. The present investigation has demonstrated that the peak in load resistance associated with cracking of a FRC slab in bending cannot be determined as a simple function of the MOR alone. Experimental results have indicated that plasticity in the immediate postcrack range can influence the peak in load resistance associated with cracking, even if the MOR is unchanged. The present results also suggest that the method of structural analysis used to design concrete slabs should be governed by the degree of strain softening or plasticity exhibited by the material in the immediate postcrack range.
+
+
+    
+        AU - Wael W. El-Dakhakhni
+    
+        AU - Robert G. Drysdale
+    
+        AU - Magdy M. Khattab
+    
+
+TI - Multilaminate Macromodel for Concrete Masonry: Formulation and Verification
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 1984-1996
+VI - 132
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2006)132:12(1984) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281984%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281984%29
+SO - Journal of Structural Engineering 2006-12-01 132(12): 1984-1996
+AB - A macromodel was developed to predict the in-plane behavior of concrete masonry. In this multilaminate model, the masonry assemblage is replaced by an equivalent material which consists of a homogenous medium intersected by two sets of planes of weakness along the head and bed joints. Additionally, two sets of reinforcement, normal and parallel to bed joints are used when modeling reinforced masonry. The macrobehavior of the equivalent material is determined by smearing the influence of these planes of weakness and reinforcement sets (when present) to determine the global behavior of the model. Different failure surfaces are defined for each masonry component. Based on the order in which different components reach their failure surface, redistribution of stresses occurs and different possible modes of failure are predicted. The proposed model’s prediction of the response of unreinforced and reinforced masonry is verified by comparison with the experimental results of masonry panels subjected to different biaxial stress conditions with different reinforcement ratios and loading angles.
+
+
+    
+        AU - Mehrdad Sasani
+    
+
+TI - New Measure for Severity of Near-Source Seismic Ground Motion
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 1997-2005
+VI - 132
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2006)132:12(1997) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281997%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A12%281997%29
+SO - Journal of Structural Engineering 2006-12-01 132(12): 1997-2005
+AB - In order to estimate seismic hazards, there is a need for measures that properly characterize the severity of ground motions. Such measures are used along with the fragility of structures to estimate the probability of failure. Structures subjected to severe seismic ground motions undergo inelastic response. Proper measures of ground motions are required to be well correlated with responses of interest. In this paper, it is shown that modeling a near-source ground motion, by a simple pulse form that matches well with the main velocity pulses of the ground motion, dose not lead to a reliable prediction of the inelastic response of structures having periods of less than about 
+
+1
+s
+
+. An equivalent rectangular acceleration pulse, called the significant peak ground acceleration (SPGA), is defined. Compared to other available measures, the SPGA correlates significantly better with the inelastic response of structures (having periods of less than about 
+
+1
+s
+
+ and displacement ductility of at least two). Subsequently, using the main characteristics of structures, a relationship between the SPGA and the response of reinforced concrete (RC) structures is developed. It is shown that the relationship reliably predicts the inelastic response of the structures to pulse-type ground motions. Finally, the efficiency of the SPGA in estimating the fragility of an RC structural wall is compared to that of elastic response spectrum. Given the fact that in the United States about 99.8% of office buildings are less than ten stories, the SPGA and the corresponding demand models for estimating the response of such structures can considerably improve the seismic design and assessment of structures.
+
+
+    
+        AU - Xinzhong Chen
+    
+
+TI - Analysis of Long Span Bridge Response to Winds: Building Nexus between Flutter and Buffeting
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 2006-2017
+VI - 132
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2006)132:12(2006) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A12%282006%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A12%282006%29
+SO - Journal of Structural Engineering 2006-12-01 132(12): 2006-2017
+AB - In current bridge aeroelastic analysis frameworks, predictions of flutter instability and buffeting response to wind fluctuations are treated as two separate procedures. The flutter instability is analyzed through the solution of a complex eigenvalue problem, offering information on how the self-excited forces influence bridge dynamics, especially the modal damping, and eventually drive the bridge to develop unstable flutter motion. On the other hand, the buffeting response is quantified through spectral analysis that involves the evaluation of a complex frequency response matrix/transfer matrix at discrete frequencies, offering prediction of the statistics of bridge response. The modal properties at varying wind velocities predicted through flutter analysis have not yet been explicitly employed in predicting and interpreting buffeting response. Furthermore, current buffeting analysis frameworks often regard the complex aerodynamic admittance functions as real-valued, neglecting the phase differences of buffeting force components with respect to wind fluctuations. In this paper, a unified analysis framework of integrating both flutter and buffeting analysis is presented. The buffeting response is explicitly expressed in terms of the bridge modal properties that are influenced by the self-excited forces and predicted through the flutter analysis. Closed-form formulations are provided for quantifying the variance/covariance of buffeting response. This framework not only is computationally more effective, but also sheds more physical insight into bridge aeroelastic response by explicitly linking the effects of self-excited and buffeting forces on bridge response. The effectiveness and accuracy of the proposed framework are illustrated through a long span suspension bridge example. The multimode coupled bridge aeroelastic response is discussed with an emphasis placed on the significance of complex aerodynamic admittance functions on buffeting response.
+
+
+    
+        AU - C. G. Koh
+    
+        AU - K. F. Tee
+    
+        AU - S. T. Quek
+    
+
+TI - Condensed Model Identification and Recovery for Structural Damage Assessment
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 2018-2026
+VI - 132
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2006)132:12(2018) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A12%282018%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A12%282018%29
+SO - Journal of Structural Engineering 2006-12-01 132(12): 2018-2026
+AB - This study aims to develop a system identification methodology for determining structural parameters of linear dynamic system, taking into consideration of practical constraints such as insufficient sensors. A new methodology called the condensed model identification and recovery method is presented for identification of full stiffness matrices for damage assessment based on incomplete measurement. With the proposed methodology, it is possible to obtain several condensed stiffness matrices, so as to identify individual stiffness coefficients for the structure. Three different model condensation methods, namely static condensation, dynamic condensation, and system equivalent reduction expansion process, are adopted. Having identified the condensed model, the stiffness parameters in the entire system are recovered by extracting sufficient information with either fixed sensor or repositioned sensor approach. The efficiency of the proposed technique is shown by numerical simulation study for multistory shear buildings subjected to random forces, accounting for effects of signal noise. In addition, laboratory experiments are carried out to illustrate the performance of the proposed method. It is shown both numerically and experimentally that the proposed methodology gives reasonably accurate identification in terms of locating and quantifying structural damage.
+
+
+    
+        AU - K. Goda
+    
+        AU - H. P. Hong
+    
+
+TI - Optimal Seismic Design Considering Risk Attitude, Societal Tolerable Risk Level, and Life Quality Criterion
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 2027-2035
+VI - 132
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2006)132:12(2027) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A12%282027%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A12%282027%29
+SO - Journal of Structural Engineering 2006-12-01 132(12): 2027-2035
+AB - The minimum expected life-cycle cost decision rule leads to an optimal design for a risk-neutral decision maker, but fails to incorporate the magnitude of uncertainty in the life-cycle cost and is incapable of coping with risk attitudes. The maximum expected utility decision rule results in a utility function dependent optimal decision that may not be accepted by a decision maker with a different utility function. This study develops a framework for selecting efficient or optimal seismic designs by considering the decision maker’s risk attitude, societal tolerable risk level, and societal life quality criterion. Analysis results suggest that use of the developed framework can identify different sets of optimal designs for different risk attitudes. The results also show that the societal life quality criterion, for the considered examples, could only lead to a lower bound on the seismic design level for risk-seeking decision makers, whereas a reasonable tolerable risk level could provide a lower bound on the seismic design level for risk-seeking or risk-averse decision makers, or deny any acceptable designs for risk-neutral and risk-seeking decision makers.
+
+
+    
+        AU - Shiming Chen
+    
+
+TI - Discussion of “Finite Element Model for Externally Prestressed Composite Beams with Deformable Connection” by Andrea Dall’Asta and Alessandro Zona
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 2036-2037
+VI - 132
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2006)132:12(2036) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A12%282036%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A12%282036%29
+SO - Journal of Structural Engineering 2006-12-01 132(12): 2036-2037
+
+
+    
+        AU - Andrea Dall’Asta
+    
+        AU - Alessandro Zona
+    
+
+TI - Closure to “Finite Element Model For Externally Prestressed Composite Beams with Deformable Connection” by Andrea Dall’Asta and Alessandro Zona
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 2037-2038
+VI - 132
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2006)132:12(2037) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A12%282037%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A12%282037%29
+SO - Journal of Structural Engineering 2006-12-01 132(12): 2037-2038
+
+
+TI - Reviewers
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 2039-2046
+VI - 132
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2006)132:12(2039) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A12%282039%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A12%282039%29
+SO - Journal of Structural Engineering 2006-12-01 132(12): 2039-2046
+
+

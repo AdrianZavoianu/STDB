@@ -1,0 +1,503 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Thomas A. Duffey
+    
+        AU - Howard L. Schreyer
+    
+
+TI - Simplified <i>N</i>-Dimensional Interaction Surfaces
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1291-1298
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004382 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004382
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004382
+SO - Journal of the Structural Division 1976-07-01 102(7): 1291-1298
+AB - A procedure for constructing approximate lower bound interaction surfaces for reinforced concrete beams and plates is developed. The procedure makes use of readily available two-dimensional interaction curves and a convexity argument to construct the higher dimensional lower bound interaction surface. Implementation of the procedure for checking for failure is simplified since construction of the entire interaction surface is not required. The method is illustrated graphically using a three-dimensional example. It is shown that the procedure can be extended to higher dimensions although in some cases certain difficulties arise.
+
+
+    
+        AU - Richard H. Gade
+    
+        AU - Harold R. Bosch
+    
+        AU - Walter Podolny
+    
+
+TI - Recent Aerodynamic Studies of Long-Span Bridges
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1299-1315
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004383 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004383
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004383
+SO - Journal of the Structural Division 1976-07-01 102(7): 1299-1315
+AB - Wind forces have taken on increased significance and can be a major problem in the design of cable-supported bridge systems. The determination of the response of long-span bridge structures due to wind action is obtained by field observations and wind tunnel testing of models, or both. Current cable-stay bridge designs are subject to the same fundamental wind excitation as the classical suspension bridge; however, the inherent increase in stiffness of the cable-stay box-girder does place it in a different realm of response. Preliminary data are presented relating angle of attack and wind velocity obtained at the Newport, R.I., Suspension Bridge over Naragansett Bay during Hurricane Doria; field observations of the vortex excitation of the pylons of the Sitka Harbor Cable-Stayed Bridge; and wind tunnel tests of the Luling, La., Cable-Stayed Bridge. Results of the wind tunnel tests of the Pasco-Kennewick concrete Cable-Stayed Bridge are also presented.
+
+
+    
+        AU - Anton Polensek
+    
+
+TI - Finite Element Analysis of Wood-Stud Walls
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1317-1335
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004384 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004384
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004384
+SO - Journal of the Structural Division 1976-07-01 102(7): 1317-1335
+AB - A theoretical procedure based on the finite element model and linear step-by-step analysis for evaluating the behavior of wood-stud walls under combined bending and compression loads was developed and verified. The procedure accounts for the variations in material properties, nonlinear material behavior of studs, partial composite action and slip among the components, and the load sharing among the studs of various strengths and stiffnesses. I-beam wall sections and full-size walls are tested to verify the procedure. Theoretical and experimental deflections and slips at service loads and overloads, and the ultimate load of the tested wall panels showed good agreement. Parameter study investigating the effect of the joint and wall covering stiffness on the ultimate load is included. The developed procedure can be used to obtain the information necessary for improved structural and economic design of wood-stud walls for residential and commercial buildings.
+
+
+    
+        AU - David J. Victor
+    
+        AU - Narayanan Lakshmanan
+    
+        AU - Narayanan Rajagopalan
+    
+
+TI - Ultimate Torque of Reinforced Concrete Beams
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1337-1352
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004385 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004385
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004385
+SO - Journal of the Structural Division 1976-07-01 102(7): 1337-1352
+AB - An analysis for predicting the torsional capacity of reinforced concrete beams has been developed based on consideration of deformations and equilibrium at failure. Three main factors are identified as contributing to the torque capacity of a section, the total capacity being the sum of the contributions due to stirrups, dowel forces, and shear strength of concrete in the compression zone. The capacity equation so obtained has been checked with the measured failure torque of 94 beams reported in the literature. These beams include variations in stirrup and longitudinal steels, stirrup dimensions, disposition of longitudinal steel, concrete strength, etc. The close agreement between the predicted and test values proves the validity of the analysis.
+
+
+    
+        AU - Howard B. Harrison
+    
+
+TI - Interactive Nonlinear Structural Analysis
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1353-1364
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004386 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004386
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004386
+SO - Journal of the Structural Division 1976-07-01 102(7): 1353-1364
+AB - Suspension cables have been analyzed under fixed, rolling, and distributed loads with allowance for temperature and finite support stiffnesses. Design and analysis problems, concerned with the determination of hoop shapes and stresses in long cylindrical inflatable dams, have also been solved. Elastic beam-column problems are suited to the method which can be programmed to carry out second-order analyses of beam columns or post-buckling analyses of centrally loaded struts. Elastically supported beams have been treated where the beam sections need not be uniform or the subgrade moduli constant. Data are entered by interrogation, guessed initial values initiate chain calculations as in transfer matrix techniques, and the initial variables are automatically improved by the Newton method, under the operator’s control.
+
+
+    
+        AU - Addison B. Higginbotham
+    
+        AU - Robert D. Hanson
+    
+
+TI - Axial Hysteretic Behavior of Steel Members
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1365-1381
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004387 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004387
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004387
+SO - Journal of the Structural Division 1976-07-01 102(7): 1365-1381
+AB - A procedure for predicting the force-deformation behavior of axially-loaded members with intermediate slenderness ratios is developed for use in computer-aided inelastic dynamic analyses of frame structures. While the analytical solutions predict the general cyclic force-deformation behavior of axially-loaded members, the quantitative behavior of actual members may not be predicted with a high level of accuracy. A rigorous formulation that permits zones of plastic behavior, or experimental results, could be used to develop empirical results. The elastic bending of a member exerts an appreciable influence on its post-buckling force-deformation behavior and increases in importance as the slenderness ratio increases. Complete second-degree equations afford an excellent representation of the cyclic force-deformation behavior emanating from the analytical solutions. With second-degree equations and computer analysis, computational time may become excessive.
+
+
+    
+        AU - Wallace W. Sanders
+    
+        AU - F. Wayne Klaiber
+    
+        AU - Hotten A. Elleby
+    
+        AU - Leonard W. Timm
+    
+
+TI - Ultimate Load Test of Truss Bridge Floor System
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1383-1398
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004388 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004388
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004388
+SO - Journal of the Structural Division 1976-07-01 102(7): 1383-1398
+AB - An old pin-connected high-truss single-lane bridge, located in an area which will be flooded due to the construction of the Saylorville Dam, was tested to failure. Only the portion of the testing program related to the ultimate load testing of the timber deck is examined herein. Each deck panel was tested to failure using simulated axle load which was applied by hydraulic jacks. One deck panel was tested with the loads centered and the other was tested with the loads eccentrically placed with respect to the center line of the bridge deck. The behavior of the deck, at loads up to failure of one of the stringers, compared quite well with that predicted by the AASHO Specifications. The deck was rated by three different agencies. Although there was some variation in the ratings, they compare favorably and are approx 32% of the test capacity.
+
+
+    
+        AU - R. Richard Avent
+    
+
+TI - Deflection and Ponding of Steel Joists
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1399-1410
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004389 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004389
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004389
+SO - Journal of the Structural Division 1976-07-01 102(7): 1399-1410
+AB - The techniques of discrete field analysis are utilized to investigate the response of steel joists (idealized as warren trusses) to various static loading conditions. Deflection formulas for arbitrary static loads are presented in finite Fourier series form. These formulas are specialized for the case of a uniformly distributed loading and a highly accurate approximate formula obtained for vertical deflections. The effect of web strain for both short and long spans is accurately reflected and generally will result in less than 2% error. Deflection formulas in the form of finite Fourier series are also obtained for the case of rainwater ponding loads combined with static live and dead loads. For ponding with a uniformly distributed live or dead loading, highly accurate equivalent beam approximate formulas are presented which should be quite useful to the practitioner. In addition to providing insight into the parameters affecting joint behavior, heretofore unavailable analysis techniques are presented to aid designers in steel joist construction.
+
+
+    
+        AU - J. Michael Davies
+    
+
+TI - Calculation of Steel Diaphragm Behavior
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1411-1430
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004390 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004390
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004390
+SO - Journal of the Structural Division 1976-07-01 102(7): 1411-1430
+AB - The available approaches to diaphragm design are reviewed and it is concluded that for panels that fall within its scope, the best available approach is the one proposed by Bryan in Constrado Monographs, but there are certain deficiencies in this method as presently formulated. A modified approach is presented for a wide range of diaphragm types which satisfy the following conditions: (1) The diaphragm is rectangular in plan; and (2) it is regular in construction, in particular there are no opening of significant size. It is proposed that diaphragms satisfying the preceding criteria be termed simple diaphragms and such diaphragms need not be investigated by the more expensive methods of testing or finite element analysis because the theory described in this paper is quite adequate. Diaphragms which fall outside the scope of the preceding definition should be termed complex diaphragms and require a more comprehensive investigation. The basic design expressions are summarized and these expressions form a basis for diaphragm design.
+
+
+
+    
+        AU - Wagih M. El-Dakhakhni
+    
+
+TI - Shear of Light-Gage Partitions in Tall Buildings
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1431-1445
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004391 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004391
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004391
+SO - Journal of the Structural Division 1976-07-01 102(7): 1431-1445
+AB - Connection details of wall panels fabricated of light-gage corrugated sheets are described. The difference between these panels and other panels used in practice as shear diaphragms are explained. A method for calculating the shear flexibility of the proposed wall panels is developed using a strain energy approach. The method is applied to a typical wall panel having different connection details. The prime effect of these details on the shear flexibility of the panel is pointed out. Strength criteria of wall panels are also examined.
+
+
+    
+        AU - Paul H. Wirsching
+    
+        AU - Peter H. Prasthofer
+    
+
+TI - Preliminary Dynamic Assessment of Deepwater Platforms
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1447-1462
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004392 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004392
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004392
+SO - Journal of the Structural Division 1976-07-01 102(7): 1447-1462
+AB - For purposes of preliminary analysis and design, a relatively simple form for estimating dynamic response of bottom founded deepwater structures is developed. The structural system is assumed to be linear and the seastate is assumed to be two dimensional. Structural motion is assumed to be small in computing wave loading. The simple response algorithm has the property of providing a mechanism for the efficient introduction of probabilistic design theory. Reliability estimates can be performed relative to each mode of structural failure. Statistical information on all design factors such as ocean wave heights and frequencies of occurence of seastates, wave forces on structures, soil strengths, and material and joint strengths, can easily be treated without resorting to Monte Carlo techniques.
+
+
+    
+        AU - Sumio Hamada
+    
+        AU - Jack Longworth
+    
+
+TI - Ultimate Strength of Continuous Composite Beams
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1463-1478
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004393 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004393
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004393
+SO - Journal of the Structural Division 1976-07-01 102(7): 1463-1478
+AB - Ultimate strength and failure modes of continuous composite beams are studied experimentally and theoretically. The theoretical analysis is based on a stress-strain relationship for steel including elastic, plastic, and strain-hardening regions and a stress-strain relation for concrete including ascending and descending portions. Behavioral studies were conducted for a series of beams in which steel sections, concrete slab thickness, and amounts of longitudinal slab reinforcement are varied. Three two-span continuous composite beams were tested. Theoretical values of ultimate load are in good agreement with test results. Based on experimental and theoretical results, design requirements are proposed for ultimate strength design of continuous composite beams.
+
+
+    
+        AU - Lewis C. Schmidt
+    
+        AU - Peter R. Morgan
+    
+        AU - John A. Clarkson
+    
+
+TI - Space Trusses with Brittle-Type Strut Buckling
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1479-1492
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004394 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004394
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004394
+SO - Journal of the Structural Division 1976-07-01 102(7): 1479-1492
+AB - Three experimental tests on nominally identical aluminum space trusses with constant section chords and webs have been compared with a simplified theoretical analysis. An idealized strut curve has been adopted to describe the brittle-type behavior of the compression chords. Collapse line patterns have been recognized for the type of truss considered; these patterns form the basis for the simple method of analysis proposed. The collapse line layout has a different form from that normally associated with slab collapse; the difference is attributed to the negligible torsional rigidity of the type of truss investigated. The analysis furnishes reasonable agreement with the experimental results, and draws attention to the importance of the strut characteristic in the post-ultimate range of behavior. The brittle-type strut characteristic leads to a situation where the theoretical estimate of the load at first yield may not be reached. Conventional elastic analyses may not be as safe as many designers assume for this type of truss.
+
+
+    
+        AU - Antoine E. Naaman
+    
+
+TI - Minimum Cost Versus Minimum Weight of Prestressed Slabs
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1493-1505
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004395 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004395
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004395
+SO - Journal of the Structural Division 1976-07-01 102(7): 1493-1505
+AB - It is found that for a wide range of unit costs of formwork both approaches lead to approximately similar results provided the unit cost ratio of concrete to steel is above 60 (where cost of concrete is per cubic yard and steel per pound). However, if a cost ratio much below 60 prevails, substantial savings can be achieved by using a minimum cost approach instead of the usual minimum weight approach, which is the aim of the hand design procedure. The minimum weight approach is extended one step further in this study by combining the conditions minimizing the section moduli and the practicality condition which constrains the prestressing force to remain inside the concrete section; this results in a simple algorithm which will systematically lead to the minimum weight feasible slab or rectangular beam. The direct search technique that was used in the computerized optimization algorithm for minimum cost gave satisfactory results.
+
+
+    
+        AU - Allen L. Mee
+    
+        AU - Michael A. Ward
+    
+        AU - Ian J. Jordaan
+    
+
+TI - Closure to “Wall-Beam Frames under Static Lateral Load”
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1509-1511
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004396 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004396
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004396
+SO - Journal of the Structural Division 1976-07-01 102(7): 1509-1511
+
+
+    
+        AU - Conrad P. Heins
+    
+        AU - John T. C. Kuo
+    
+
+TI - Closure to “Ultimate Live Load Distribution Factor for Bridges”
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1511-1511
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004397 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004397
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004397
+SO - Journal of the Structural Division 1976-07-01 102(7): 1511-1511
+
+
+    
+        AU - Victor Gioncu
+    
+
+TI - Discussion of “Stability of Hyperboloidal Shells”
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1512-1514
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004398 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004398
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004398
+SO - Journal of the Structural Division 1976-07-01 102(7): 1512-1514
+
+
+    
+        AU - George H. Alliy
+    
+
+TI - Discussion of “Thermal Calculations for Bridge Design”
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1515-1516
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004399 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004399
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004399
+SO - Journal of the Structural Division 1976-07-01 102(7): 1515-1516
+
+
+    
+        AU - Bin Chang
+    
+        AU - Ken P. Chong
+    
+
+TI - Discussion of “Rainwater Ponding on Beam-Girder Roof Systems”
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1517-1518
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004400 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004400
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004400
+SO - Journal of the Structural Division 1976-07-01 102(7): 1517-1518
+
+
+    
+        AU - Victor Gioncu
+    
+
+TI - Discussion of “Reinforced Concrete Hyperbolic Paraboloid Shells”
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1518-1520
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004401 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004401
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004401
+SO - Journal of the Structural Division 1976-07-01 102(7): 1518-1520
+
+
+    
+        AU - Krishnaiyengar Rajagopalan
+    
+
+TI - Discussion of “Physical Properties of Premixed Polymer Concrete”
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1520-1521
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004402 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004402
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004402
+SO - Journal of the Structural Division 1976-07-01 102(7): 1520-1521
+
+
+    
+        AU - David Allen
+    
+
+TI - Discussion of “Inelastic Strength of Cold-Formed Steel Beams”
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1521-1523
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004403 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004403
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004403
+SO - Journal of the Structural Division 1976-07-01 102(7): 1521-1523
+
+
+    
+        AU - David Allen
+    
+
+TI - Discussion of “Behavior of Cold-Rolled Stainless Steel Members”
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1523-1526
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004404 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004404
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004404
+SO - Journal of the Structural Division 1976-07-01 102(7): 1523-1526
+
+
+    
+        AU - Awadh B. Agrawal
+    
+        AU - Aftab A. Mufti
+    
+
+TI - Discussion of “Coupled Shear Wall Analysis by Lagrange Multipliers”
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1527-1528
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004405 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004405
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004405
+SO - Journal of the Structural Division 1976-07-01 102(7): 1527-1528
+
+
+    
+        AU - Ignacio Martin
+    
+
+TI - Discussion of “Minimum Cost Selection of One-Way Slab Thickness”
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1529-1529
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004406 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004406
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004406
+SO - Journal of the Structural Division 1976-07-01 102(7): 1529-1529
+
+
+    
+        AU - Kuang-Han Chu
+    
+
+TI - Discussion of “Nonlinear Analysis of Reticulated Space Trusses”
+PT - Journal Article
+DP - 1976
+TA - Journal of the Structural Division
+PG - 1530-1530
+VI - 102
+IP - 7
+AID - 10.1061/JSDEAG.0004407 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004407
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004407
+SO - Journal of the Structural Division 1976-07-01 102(7): 1530-1530
+
+

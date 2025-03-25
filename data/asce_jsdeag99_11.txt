@@ -1,0 +1,483 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Saleh B. Abdel-Baset
+    
+        AU - Donald E. Grierson
+    
+        AU - Niels C. Lind
+    
+
+TI - Second-Order Collapse Load Analysis: LP Approach
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2215-2228
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003636 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003636
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003636
+SO - Journal of the Structural Division 1973-11-01 99(11): 2215-2228
+AB - The paper presents an iterative procedure for the analysis of elastic-plastic building frames to determine the failure load accounting for second-order effects due to axial forces and member deformations. The analysis procedure is essentially the reverse of historical load-deformation analysis in that it starts from an upper-bound estimate to the failure load as given by that found for rigid plastic (i.e., first-order) analysis. Secondary moments as well as axial force influences on plastic moment capacities and member flexibilities are accounted for. The procedure involves the iterative performance of a series of strength and deformation analyses as linear programming (LP) problems. Single-bay frames having one, four, eight, and fifteen stories are analyzed to illustrate the features and scope of application of the approach. Solution convergence is shown to be very good.
+
+
+    
+        AU - Laurence H. Martin
+    
+        AU - Peter J. Wainwright
+    
+
+TI - Torsion and Bending of Prestressed Concrete Beams
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2229-2244
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003637 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003637
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003637
+SO - Journal of the Structural Division 1973-11-01 99(11): 2229-2244
+AB - Theories are presented for the ultimate strength in bending and torsion of prestressed concrete members reinforced with longitudinal steel only. The theories are based on equilibrium of forces, compatibility of strains, and linear stress strain relationship, and include a dowel force at right angles to the steel where applicable. The theories are compared with 125 experimental results from six investigators.
+
+
+    
+        AU - Wilfred W. C. Siu
+    
+        AU - Niels C. Lind
+    
+
+TI - Some Aspects of Office Design Live Loads
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2245-2258
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003638 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003638
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003638
+SO - Journal of the Structural Division 1973-11-01 99(11): 2245-2258
+AB - A scheme for subclassification of office live loads is analyzed by comparing the minimum excess costs of office buildings realizable by successively finer subclassifications. The effect of design life of a structure on the first two moments (mean and variance) of the lifetime maximum live load is studied by a distribution-free analysis. The results are used to derive a set of live load factors that, in a consistent way, account for the effects of the tributary area and design life of a structure.
+
+
+    
+        AU - William R. Hibbard
+    
+        AU - Peter F. Adams
+    
+
+TI - Subassemblage Technique for Asymmetric Structures
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2259-2268
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003639 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003639
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003639
+SO - Journal of the Structural Division 1973-11-01 99(11): 2259-2268
+AB - During the past decade methods have been developed to predict the complete load-deflection relationships for unbraced multistory frames. The subassemblage method consists of a story-by-story investigation of the frame, assuming that points of inflection occur in the columns at midheight. The subassemblage method is able to account for the gradual deterioration of the frame due to the formation of plastic hinges in the beams and columns and the secondary moments produced by the gravity loads acting on the deformed structure. If the floor diaphragms are relatively rigid in their planes, the subassemblage technique can be easily extended to assess the behavior of structures free to deform torsionally under the action of the applied loads. Rigid body motion of the floor diaphragm in each story is enforced on the frames composing the structure. The deformations are then adjusted at each stage so that equilibrium of forces and torsional moments are satisfied. By increasing the deformations, the complete load-deformation curve may be traced.
+
+
+    
+        AU - Roy Levy
+    
+        AU - Robert Melosh
+    
+
+TI - Computer Design of Antenna Reflectors
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2269-2285
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003640 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003640
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003640
+SO - Journal of the Structural Division 1973-11-01 99(11): 2269-2285
+AB - Performance of a paraboloidal antenna reflectors is adversely influenced by surface distortions from a perfect paraboloid, which causes path length variations of the RF energy beam. The structural design objective for the surface backup structure is to minimize the rms path length deviations for gravity loading. Two design approaches are illustrated and applied to sample antenna structure designs. These are a sectional search method and a virtual work/Lagrange multiplier method. Both are shown to provide useful performance improvements. The second method, however, seems to be more capable of rapid design execution and is more readily coded for design automation of large structures. A special purpose in-core version of this program is shown to complete all the design iterations for a moderate-size problem with computation times comparable to those required for single sets of statics loading analyses by general purpose computer programs.
+
+
+    
+        AU - Osman A. Marzouk
+    
+        AU - George Abdel-Sayed
+    
+
+TI - Linear Theory of Orthotropic Cylindrical Shells
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2287-2306
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003641 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003641
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003641
+SO - Journal of the Structural Division 1973-11-01 99(11): 2287-2306
+AB - Flugge's precise formulation for the linear theory of orthotropic cylindrical shell is represented together with the simplified formulations suggested by Donnell, Vlasov, and Schorer. The roots of the characteristic equation obtained for each of the simplified formulations are compared with those obtained from Flugge's formulation. This defines the ratio of length to radius of the shell for which the different approximation can be used without considerable error in the roots. The internal force components are also calculated showing that the accuracies of the approximate formulations are very limited for the case of shells supported along their four edges while better results are usually obtained in the case of shells with free longitudinal edges. The aforementioned study leads to alternative simplified formulation which improves the accuracy of the results without increasing the difficulty in obtaining a solution. Reliable analysis can be obtained using this proposed formulation.
+
+
+    
+        AU - Jitendra N. Kar
+    
+        AU - Anil K. Pal
+    
+
+TI - Closure to “Strength of Fiber-Reinforced Concrete”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2309-2309
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003642 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003642
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003642
+SO - Journal of the Structural Division 1973-11-01 99(11): 2309-2309
+
+
+    
+        AU - Norman A. Cyr
+    
+        AU - Roger D. Teter
+    
+        AU - Brian B. Stocks
+    
+
+TI - Closure to “Finite Element Thermoelastoplastic Analysis”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2310-2311
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003643 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003643
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003643
+SO - Journal of the Structural Division 1973-11-01 99(11): 2310-2311
+
+
+    
+        AU - Sebastine Selvaraj
+    
+
+TI - Discussion of “Approximate Inelastic Analysis of Shear Wall-Frame Structures”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2311-2312
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003644 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003644
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003644
+SO - Journal of the Structural Division 1973-11-01 99(11): 2311-2312
+
+
+    
+        AU - Robert Hutchings
+    
+
+TI - Discussion of “Finite Deformations of Biaxially Loaded Columns”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2313-2315
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003645 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003645
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003645
+SO - Journal of the Structural Division 1973-11-01 99(11): 2313-2315
+
+
+    
+        AU - Sundaramoorthy Rajasekaran
+    
+        AU - David W. Murray
+    
+
+TI - Discussion of “Finite Deformation of Biaxially Loaded Columns”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2315-2318
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003646 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003646
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003646
+SO - Journal of the Structural Division 1973-11-01 99(11): 2315-2318
+
+
+    
+        AU - Negussie Tebedge
+    
+
+TI - Discussion of “Large Deflection Buckling of Space Frames”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2318-2321
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003647 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003647
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003647
+SO - Journal of the Structural Division 1973-11-01 99(11): 2318-2321
+
+
+    
+        AU - Vasant S. Kelkar
+    
+
+TI - Discussion of “Symmetry in Structural Mechanics”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2322-2322
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003648 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003648
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003648
+SO - Journal of the Structural Division 1973-11-01 99(11): 2322-2322
+
+
+    
+        AU - Gregory Szuladzinski
+    
+
+TI - Discussion of “Symmetry in Structural Mechanics”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2322-2324
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003649 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003649
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003649
+SO - Journal of the Structural Division 1973-11-01 99(11): 2322-2324
+
+
+    
+        AU - Nirmalendu Maitra
+    
+
+TI - Discussion of “Practical Approach to Two-Way Slab Design”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2324-2325
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003650 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003650
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003650
+SO - Journal of the Structural Division 1973-11-01 99(11): 2324-2325
+
+
+    
+        AU - Alexander Coull
+    
+
+TI - Discussion of “Approximate Analysis of Tall Wall-Frame Structures”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2326-2326
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003652 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003652
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003652
+SO - Journal of the Structural Division 1973-11-01 99(11): 2326-2326
+
+
+    
+        AU - Anil K. Kar
+    
+
+TI - Discussion of “Large Displacement Analysis of Thin Plates”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2327-2327
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003653 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003653
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003653
+SO - Journal of the Structural Division 1973-11-01 99(11): 2327-2327
+
+
+    
+        AU - Semih S. Tezcan
+    
+
+TI - Discussion of “Large Displacement Analysis of Thin Plates”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2327-2328
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003654 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003654
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003654
+SO - Journal of the Structural Division 1973-11-01 99(11): 2327-2328
+
+
+    
+        AU - James W. Chai
+    
+
+TI - Discussion of “Prestressed Composite Steel Beam Design”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2328-2329
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003655 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003655
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003655
+SO - Journal of the Structural Division 1973-11-01 99(11): 2328-2329
+
+
+    
+        AU - Anil K. Kar
+    
+
+TI - Discussion of “Concrete T-Beams Subjected to Combined Loading”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2330-2330
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003656 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003656
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003656
+SO - Journal of the Structural Division 1973-11-01 99(11): 2330-2330
+
+
+    
+        AU - Kurt G. Asmis
+    
+
+TI - Discussion of “Stability of Guyed Towers”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2331-2331
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003657 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003657
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003657
+SO - Journal of the Structural Division 1973-11-01 99(11): 2331-2331
+
+
+    
+        AU - Anil K. Kar
+    
+
+TI - Discussion of “Stability of Guyed Towers”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2331-2332
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003658 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003658
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003658
+SO - Journal of the Structural Division 1973-11-01 99(11): 2331-2332
+
+
+    
+        AU - Joseph Vellozzi
+    
+
+TI - Discussion of “Gust Factors and Alongwind Pressure Correlations”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2332-2335
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003659 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003659
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003659
+SO - Journal of the Structural Division 1973-11-01 99(11): 2332-2335
+
+
+    
+        AU - Lawrence A. Twisdale
+    
+        AU - Narbey Khachaturian
+    
+
+TI - Absolute Minimum Weight Structures by Dynamic Programming
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2339-2344
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003661 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003661
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003661
+SO - Journal of the Structural Division 1973-11-01 99(11): 2339-2344
+AB - The structures considered herein are assumed to subject to fixed loads and design based on flexure. Furthermore, it is assumed that the cross-sectional area is proportional to the absolute value of the bending moment. The purpose of this note is to apply a sequential decision technique to minimize the area under the moment diagram directly and thereby considerably simplify the identification of the absolute minimum weight structure. The determination of the absolute minimum weight structure becomes an unconstrained minimization problem, and thus represents an entirely different approach from those that consider the kinematic or static criteria in a direct manner. Numerical solutions to a computationally difficult problem of the calculus of variations can be obtained by applying sequential decision theory. The selection of indeterminate forces as the state variables is an efficient means for describing the structural system. More general applications in absolute minimum weight design, including span length as a variable, can be formulated as dynamic programs.
+
+
+    
+        AU - Jan C. Jofriet
+    
+
+TI - Erratum for “Short Term Deflections of Concrete Flat Plates”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2325-2325
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003651 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003651
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003651
+SO - Journal of the Structural Division 1973-11-01 99(11): 2325-2325
+
+
+    
+        AU - J. Blair Reber
+    
+
+TI - Erratum for “Ultimate Strength Design of Tubular Joints”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2335-2335
+VI - 99
+IP - 11
+AID - 10.1061/JSDEAG.0003660 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003660
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003660
+SO - Journal of the Structural Division 1973-11-01 99(11): 2335-2335
+
+

@@ -1,0 +1,385 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Vladimír Křístek
+    
+        AU - Jiři Studnička
+    
+
+TI - Negative Shear Lag in Flanges of Plated Structures
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 3553-3569
+VI - 117
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1991)117:12(3553) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283553%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283553%29
+SO - Journal of Structural Engineering 1991-12-01 117(12): 3553-3569
+AB - Negative shear lag is not a particularly exceptional phenomenon but an effect that can occur at a wide variety of arrangements of plated structures with a considerable degree of significance. A description of features of the negative‐shear‐lag phenomenon is the main objective of this paper.
+
+
+    
+        AU - Bernardo Horowitz
+    
+
+TI - Two‐Level Approach to Design of Short Concrete Columns
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 3570-3586
+VI - 117
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1991)117:12(3570) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283570%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283570%29
+SO - Journal of Structural Engineering 1991-12-01 117(12): 3570-3586
+AB - A new strategy is presented to optimize the design of short concrete columns of general shape, subjected to multiple loading conditions. This strategy consists of decomposing the problem into two subproblems. In the lower‐level problem, the deformations are fixed and the reinforcement is optimized. The higher‐level problem finds the deformations that correspond to the minimum possible total steel area. This approach is particularly effective because the lower‐level problem is a linear programming problem involving most of the variables. The higher‐level problem is not continuously differentiable, and a solution is obtained through the application of a bundle method. The examples presented herein demonstrate the efficiency of the proposed approach, which reduces the computation time to less than one‐third of that required by the original, undecomposed problem.
+
+
+    
+        AU - Jin‐Guang Teng
+    
+        AU - J. Michael Rotter
+    
+
+TI - Collapse Behavior and Strength of Steel Silo Transition Junctions. Part I: Collapse Mechanics
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 3587-3604
+VI - 117
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1991)117:12(3587) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283587%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283587%29
+SO - Journal of Structural Engineering 1991-12-01 117(12): 3587-3604
+AB - Elevated steel silos commonly consist of a cylindrical shell, a conical hopper, and a skirt. At the intersection of these shell segments, a ring is often provided to sustain the high circumferential compressive stress developed. The cone/cylinder/skirt/ring junction, known as the transition, may fail by plastic collapse under the large circumferential compression. In this paper, an elastic‐plastic large‐deflection finite element analysis is employed to study the plastic collapse behavior of this junction. A typical structure is first examined to study the distribution of stresses, the effect of large deflections, the formation of a plastic collapse mechanism, and the collapse process. A simple theory proposed by Rotter, which is based on a reinterpretation of the classical limit analysis of ring‐loaded cylinders, is next outlined and its background further clarified. An improved version of Rotter's equation, which applies to a wider range of geometries, is then proposed for use in design.
+
+
+    
+        AU - Jin‐Guang Teng
+    
+        AU - J. Michael Rotter
+    
+
+TI - Collapse Behavior and Strength of Steel Silo Transition Junctions. Part II: Parametric Study
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 3605-3622
+VI - 117
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1991)117:12(3605) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283605%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283605%29
+SO - Journal of Structural Engineering 1991-12-01 117(12): 3605-3622
+AB - This paper presents the results of a major parametric study of the plastic collapse behavior and strength of the complex transition junctions in steel silos using an elastic‐plastic large‐deflection finite element analysis for axisymmetric shells. Both small‐deflection and large‐deflection theories are employed to obtain classical limit loads and to clarify the effect of changes in geometry. The collapse loads determined by the finite element analysis are compared with those predicted by a simple hand method derived by Rotter and an improved method developed in a companion paper. These comparisons show that Rotter's simple method is satisfactory only for junctions at which the shell segments are of similar thickness. The modified method gives a much closer overall approximation to the finite element results over the wide range of parameters studied. This paper also discusses the alternative possibilities of skirt or hopper collapse when a strong junction is used.
+
+
+    
+        AU - J. J. Connor
+    
+        AU - C. C. Pouangare
+    
+
+TI - Simple Model for Design of Framed‐Tube Structures
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 3623-3644
+VI - 117
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1991)117:12(3623) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283623%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283623%29
+SO - Journal of Structural Engineering 1991-12-01 117(12): 3623-3644
+AB - A very simple model for the analysis and design of framed‐tube structures subjected to lateral loads is presented here. The structure is modeled as a series of stringers and shear panels. The elegance of the method lies not only in the simplicity and the accuracy of the method but also in the fact that all the necessary parameters are kept in the model so that design sensitivities can be generated, parametric studies can be carried out, and reasonable first estimates for the member sizes can be made. The model is viewed as an efficient design tool. The analytical expressions for the stresses and displacements are, for preliminary design, accurate and very easy to handle, so that the designer can attain the desired results. The model can be used directly for the analysis of structures that incorporate different materials and different properties along the height of the structure. A transfer matrix formulation has been developed and is presented for this purpose.
+
+
+    
+        AU - H. C. Fu
+    
+        AU - M. A. Erki
+    
+        AU - M. Seckin
+    
+
+TI - Review of Effects of Loading Rate on Concrete in Compression
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 3645-3659
+VI - 117
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1991)117:12(3645) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283645%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283645%29
+SO - Journal of Structural Engineering 1991-12-01 117(12): 3645-3659
+AB - A survey of the behavior of concrete subjected to dynamic loading is presented. Since the mechanical properties of materials are functions of the rate of loading, they need to be determined with respect to straining rate in order to accurately predict the behavior of a reinforced concrete structure subjected to dynamic loads. Provisions for seismic design in current design codes are developed on the basis of results obtained from quasi‐static tests mainly because the test results available are insufficient and inconclusive. The response of concrete to high straining rates is reviewed and discussed. The strain‐rate effect is inversely proportional to the strength of concrete. As rate of loading increases, compressive strength, modulus of elasticity, and the slope of the descending portion of the stress‐strain curve of concrete increase.
+
+
+    
+        AU - H. C. Fu
+    
+        AU - M. A. Erki
+    
+        AU - M. Seckin
+    
+
+TI - Review of Effects of Loading Rate on Reinforced Concrete
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 3660-3679
+VI - 117
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1991)117:12(3660) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283660%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283660%29
+SO - Journal of Structural Engineering 1991-12-01 117(12): 3660-3679
+AB - A survey of the behavior of reinforced concrete subjected to dynamic loading is presented. Provisions for seismic design in current design codes have been developed on the basis of results obtained from static tests. Realistic methods of design should take into consideration the strain‐rate‐dependent properties of reinforced concrete in order to accurately predict the behavior of a reinforced concrete structure subjected to dynamic loads. The response of reinforced concrete materials and elements to different strain rates is reviewed and discussed. As rate of loading increases, concrete compressive strength, steel yield strength, and flexural capacity of reinforced concrete member also increase. The increase in flexural capacity of individual members as a result of high strain rates, if significant, may shift the failure mode of a structure from a preferred ductile manner to a less desirable brittle mode.
+
+
+    
+        AU - John F. Carney
+    
+        AU - Chiwang Yeh
+    
+
+TI - Viscoplastic Response of Clamped Beams under Impact Loading
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 3680-3697
+VI - 117
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1991)117:12(3680) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283680%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283680%29
+SO - Journal of Structural Engineering 1991-12-01 117(12): 3680-3697
+AB - A three‐stage analytical model for predicting the final midpoint deflections of viscoplastic, clamped beams under impact loading conditions is presented. The model includes traveling plastic hinges and accounts for strain rate sensitivity by continuously varying the dynamic yield stress parameter during the impact event. This new model is compared both with another impact model and with two different sets of experimental results for steel and aluminum beams. In addition, the finite element program, ABAQUS, is employed to provide a detailed history of the dynamic response of the system. The finite element results are used to assess the appropriateness of the simplifying assumptions contained in the three‐stage model. The model predictions are shown to be in good agreement with both sets of experimental results and the assumptions made in developing the model are in general agreement with the ABAQUS predictions.
+
+
+    
+        AU - Anil K. Chopra
+    
+        AU - Liping Zhang
+    
+
+TI - Earthquake‐Induced Base Sliding of Concrete Gravity Dams
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 3698-3719
+VI - 117
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1991)117:12(3698) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283698%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283698%29
+SO - Journal of Structural Engineering 1991-12-01 117(12): 3698-3719
+AB - Analytical procedures are developed considering hydrodynamic effects to determine the response history of earthquake‐induced sliding of a gravity dam monolith supported without bond on a horizontal, planar surface of rock. The results presented indicate that the permanent sliding displacements of dams induced by ground motions with peak acceleration of 0.5 g may range from a few inches to a couple of feet. Also examined in this work is the possibility of estimating the sliding displacement of a flexible dam due to ground acceleration by analyzing the sliding response of a rigid dam due to an average (over height) acceleration computed from linear analysis of the flexible dam without sliding at the base. The results presented indicate that this approximate procedure, which has been widely used in estimating the deformations of embankment dams, can provide an order‐of‐magnitude estimate of the concrete dam sliding displacement, which is conservative for most cases when this displacement is practically significant.
+
+
+    
+        AU - M. Elgaaly
+    
+        AU - H. Dagher
+    
+        AU - W. Davids
+    
+
+TI - Behavior of Single‐Angle‐Compression Members
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 3720-3741
+VI - 117
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1991)117:12(3720) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283720%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283720%29
+SO - Journal of Structural Engineering 1991-12-01 117(12): 3720-3741
+AB - Published research indicates a lack of test results for single‐angle‐compression members with low slenderness ratio. In order to bridge this gap, 50 stocky single‐angle struts were tested as part of a truss. The test procedure and the results from these tests are given and discussed. The behavior of these members varies depending on their end connection detail, their slenderness ratio, and the width/thickness ratio of the angle leg. Six possible modes of failure were identified. The design rules for single‐angle‐compression members given in the AISC Design Specification, and the ASCE Manual 52 for the Design of Steel Transmission Towers are evaluated.
+
+
+    
+        AU - A. E. Naaman
+    
+        AU - M. Founas
+    
+
+TI - Partially Prestressed Beams under Random‐Amplitude Fatigue Loading
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 3742-3761
+VI - 117
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1991)117:12(3742) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283742%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283742%29
+SO - Journal of Structural Engineering 1991-12-01 117(12): 3742-3761
+AB - The main objective of this investigation is to evaluate the behavior of partially prestressed concrete beams subjected to random‐amplitude fatigue loading and to better understand the parameters that control their fatigue life. The experimental portion of the program described here includes the testing of six control beams tested to failure under monotonically increasing load, and 10 beams tested in fatigue. The peak load in the fatigue tests was selected to simulate the frequency distribution of truck loadings on bridges. Test measurements included deflections, crack widths, curvatures, and strains in the reinforcing and prestressing steels, as well as the increases of these measures during cyclic loading to failure. It was found that random‐amplitude fatigue loading is more severe than constant‐amplitude fatigue loading and that the combination of stress range in the prestressing steel and crack width range in the concrete may be particularly damaging in fatigue. It is also observed that shear failure under random‐amplitude fatigue loading may need further investigation.
+
+
+    
+        AU - Anil K. Chopra
+    
+        AU - Rakesh K. Goel
+    
+
+TI - Evaluation of Torsional Provisions in Seismic Codes
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 3762-3782
+VI - 117
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1991)117:12(3762) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283762%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283762%29
+SO - Journal of Structural Engineering 1991-12-01 117(12): 3762-3782
+AB - The effects of plan asymmetry on the earthquake response of code‐designed, one‐story systems are identified with the objective of evaluating how well these effects are represented by torsional provisions in building codes. The earthquake‐induced deformations and ductility demands on resisting elements of asymmetric‐plan systems, designed according to several different codes, are compared with their values if the system plan were symmetric. The presented results demonstrate that the design eccentricity in building codes should be modified in order to achieve the desirable goal of similar ductility demands on asymmetric‐plan and symmetric‐plan systems. The design eccentricity should be defined differently for elastic and inelastic systems; in the latter case, it should vary with the design force level or anticipated degree of inelastic action. However, it does not appear possible to reduce the additional element deformations due to plan asymmetry by modifying the design eccentricity; these deformations should be provided for in building design.
+
+
+    
+        AU - Bruce F. Maison
+    
+        AU - Carlos E. Ventura
+    
+
+TI - Dynamic Analysis of Thirteen‐Story Building
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 3783-3803
+VI - 117
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1991)117:12(3783) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283783%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283783%29
+SO - Journal of Structural Engineering 1991-12-01 117(12): 3783-3803
+AB - The results from dynamic analyses by computer of an existing 13‐story steel moment resisting frame building are presented. The computed dynamic properties and response behaviors are compared to the true values as determined from the recorded motions in the building during two actual earthquakes. It is shown that state‐of‐practice design type analytical models can predict the actual dynamic properties. The influence of various modeling features on the computed seismic responses is demonstrated via sample response spectrum analyses using the SEAOC spectrum. The actual building time‐history seismic response exhibited amplitude modulation, which is shown to be caused by coupled modes having closely spaced periods. It is shown that design‐type analytical models can reasonably capture the true seismic response of the study building provided the excitation levels are such that the building responds primarily in a linear‐elastic manner.
+
+
+    
+        AU - T. Y. Torng
+    
+        AU - P. H. Wirsching
+    
+
+TI - Fatigue and Fracture Reliability and Maintainability Process
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 3804-3822
+VI - 117
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1991)117:12(3804) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283804%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283804%29
+SO - Journal of Structural Engineering 1991-12-01 117(12): 3804-3822
+AB - Structures dominated by dynamic tensile loads are vulnerable to failure by fatigue and/or fracture. Failure in one member of a redundant structure produces transient dynamic loads in the remaining intact members, with the possibility of progressive collapse. Design factors are subject to large variability, and reliability methods are relevant for analysis. Reliability, however, can also be improved by a maintenance program of periodic inspection and repair. The fatigue/fracture reliability and maintainability (FRM) process is defined. Analysis of the process focuses on estimating the statistical distribution of the time to system failure. Simulation methods are employed to construct this distribution. Examples of solutions of the FRM process are presented. The illustrations demonstrate: (1) Improvement in reliability with additional redundancy; (2) degradation in reliability by adding series elements; (3) impact of an inspection program on reliability; and (4) the “aging” process in a structure.
+
+
+    
+        AU - M. D. Davister
+    
+
+TI - Discussion of &#x201c;<i>Post&#x2010;Buckling Analysis of Steel Space Trusses</i>&#x201d; by Christopher D. Hill, George E. Blandford, and Shien T. Wang (April, 1989, Vol. 115, No. 4)
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 3824-3826
+VI - 117
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1991)117:12(3824) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283824%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283824%29
+SO - Journal of Structural Engineering 1991-12-01 117(12): 3824-3826
+
+
+    
+        AU - Liang‐Jenq Leu
+    
+        AU - Yeong‐Bin Yang
+    
+
+TI - Discussion of &#x201c;<i>Post&#x2010;Buckling Analysis of Steel Space Trusses</i>&#x201d; by Christopher D. Hill, George E. Blandford, and Shien T. Wang (April, 1989, Vol. 115, No. 4)
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 3826-3828
+VI - 117
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1991)117:12(3826.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283826.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283826.2%29
+SO - Journal of Structural Engineering 1991-12-01 117(12): 3826-3828
+
+
+    
+        AU - Erling Murtha‐Smith
+    
+
+TI - Discussion of &#x201c;<i>Post&#x2010;Buckling Analysis of Steel Space Trusses</i>&#x201d; by Christopher D. Hill, George E. Blandford, and Shien T. Wang (April, 1989, Vol. 115, No. 4)
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 3829-3829
+VI - 117
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1991)117:12(3829) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283829%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283829%29
+SO - Journal of Structural Engineering 1991-12-01 117(12): 3829-3829
+
+
+    
+        AU - Christopher D. Hill
+    
+        AU - George E. Blandford
+    
+        AU - Shien T. Wang
+    
+
+TI - Closure to &#x201c;<i>Post&#x2010;Buckling Analysis of Steel Space Trusses</i>&#x201d; by Christopher D. Hill, George E. Blandford, and Shien T. Wang (April, 1989, Vol. 115, No. 4)
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 3829-3830
+VI - 117
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1991)117:12(3829.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283829.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283829.2%29
+SO - Journal of Structural Engineering 1991-12-01 117(12): 3829-3830
+
+
+    
+        AU - R. A. LaBoube
+    
+
+TI - Discussion of &#x201c;<i>Cold&#x2010;Formed Steel Z&#x2010;Sections with Sloping Edge Stiffness under Axial Load</i>&#x201d; by Dimos Polyzois and Ashoka R. Sudharmapal (February, 1990, Vol. 116, No. 2)
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 3831-3832
+VI - 117
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1991)117:12(3831.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283831.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A12%283831.2%29
+SO - Journal of Structural Engineering 1991-12-01 117(12): 3831-3832
+
+

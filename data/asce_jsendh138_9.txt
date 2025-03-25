@@ -1,0 +1,218 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Ana M. Girão Coelho
+    
+        AU - Pedro D. Simão
+    
+        AU - Frans S. K. Bijlaard
+    
+
+TI - Guidance for the Design of Spliced Columns
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1079-1088
+VI - 138
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000546 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000546
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000546
+SO - Journal of Structural Engineering 2012-09-01 138(9): 1079-1088
+AB - Steel columns in sway and nonsway frames that are spliced along their length generally have a lower strength capacity in compression. This load capacity can be further reduced owing to the inevitable presence of small geometrical imperfections in the form of the out-of-straightness of the column and column segment misalignment. The current work examines the buckling behavior of a framed spliced column with initial imperfections and the possibility of a nonuniform cross section. A geometrically nonlinear model accounting for imperfect elastic buckling behavior is formulated using the differential equations of equilibrium. This is followed by a study of the imperfection sensitivity to the linearly evaluated critical load. A discussion on the variation of the load-carrying capacity with the level of imperfections on a practical spliced column is also presented. The findings suggest that a spliced column can be considered equivalent to a prismatic Euler column, with an appropriate effective length, for design purposes. In this context, some implications for design are deduced from the presented analysis.
+
+
+    
+        AU - Mark D. Denavit
+    
+        AU - Jerome F. Hajjar
+    
+
+TI - Nonlinear Seismic Analysis of Circular Concrete-Filled Steel Tube Members and Frames
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1089-1098
+VI - 138
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000544 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000544
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000544
+SO - Journal of Structural Engineering 2012-09-01 138(9): 1089-1098
+AB - Accurate nonlinear formulations are necessary for the assessment of structures under seismic and other extreme loading. In this work, a three-dimensional distributed plasticity beam element formulation for circular concrete-filled steel tubes has been developed for nonlinear static and dynamic analyses of composite seismic force resisting systems. A mixed basis for the element formulation was adopted to allow for accurate modeling of both material and geometric nonlinearities. The formulation utilizes uniaxial cyclic constitutive models for the concrete core and steel tube that account for the salient features of each material, as well as the interaction between the two, including concrete confinement and local buckling of the steel tube. The accuracy of the formulation was verified against a wide variety of experimental results. The verification confirms the capability of the formulation to accurately produce realistic simulations of element and frame behavior.
+
+
+    
+        AU - Steven J. Fulmer
+    
+        AU - Mervyn J. Kowalsky
+    
+        AU - James M. Nau
+    
+        AU - Tasnim Hassan
+    
+
+TI - Reversed Cyclic Flexural Behavior of Spiral DSAW and Single Seam ERW Steel Pipe Piles
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1099-1109
+VI - 138
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000553 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000553
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000553
+SO - Journal of Structural Engineering 2012-09-01 138(9): 1099-1109
+AB - This paper presents the findings of an investigation on the flexural performance of hollow steel pipe piles subjected to reversed cyclic loading. The testing evaluated both spirally double submerged arc welded (DSAW) and traditional longitudinal single seam electric resistance welded (ERW) pipe piles to determine the effects of the spiral welding manufacturing process on the structural performance of the pile. Some of the tests were conducted on previously driven piles to study the effects of driving stresses. The experimental results and observations indicated that the undesirable failure mode of spiral weld cracking did not control the ultimate limit state in any of the spirally welded specimens considered. Although weld fracture did occur in each spirally welded specimen, it did not develop until the specimen was subjected to large inelastic deformations and was ultimately the result of locally increased strains caused by local buckling. Each traditional single seam specimen failed in a similar manner with pile wall local buckling developing at inelastic deformation levels comparable to those of the spirally welded specimens.
+
+
+    
+        AU - Xiaobin Song
+    
+        AU - Frank Lam
+    
+
+TI - Stability Analysis of Metal-Plate-Connected Wood Truss Assemblies
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1110-1119
+VI - 138
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000502 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000502
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000502
+SO - Journal of Structural Engineering 2012-09-01 138(9): 1110-1119
+AB - This paper presents a study on the critical buckling load and lateral bracing force of metal-plate-connected (MPC) wood truss assemblies. A three-dimensional finite-element method (FEM) based computer program was developed, calibrated, and verified with test results. A preliminary reliability analysis was conducted based on the verified FEM model, with consideration of the variation in material properties and the initial out-of-plane deflection of compression webs. The out-of-plane rotational stiffness of MPC connections has a significant effect on the critical buckling load and lateral bracing force ratio of MPC trusses. The critical buckling load could almost be doubled on the basis of an ideally pinned compression web, and the lateral bracing force ratio was found to be generally less than 1% from the test results and numerical analysis. Consequently, the currently used 2% rule of thumb for lateral bracing design may be conservative, by overestimating the lateral bracing force, and may lead to oversized bracing members.
+
+
+    
+        AU - Jung-Pyo Hong
+    
+        AU - Chun Ni
+    
+        AU - Matt Vinson
+    
+
+TI - Midply Truss Wall System: High-Performance Shear Wall for Midrise Wood-Frame Buildings
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1120-1127
+VI - 138
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000536 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000536
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000536
+SO - Journal of Structural Engineering 2012-09-01 138(9): 1120-1127
+AB - A high-performance wood-frame shear wall system, named the MIDPLY truss wall (MTW), was developed for application to midrise wood-frame buildings. The basic MTW system consists of metal-plate–connected wood trusses, sheathing panels, and steel tie-downs. The sheathing panels of the MTW system are placed between the wood trusses and connected with mechanical fasteners. The main concept of the MTW system is to increase the lateral load resistance of a shear wall by reconfiguring the wall frame members into lateral load–resisting wood trusses. In this study, the feasibility of the MTW system was investigated. Eight 2,440×2,440 mm MTW walls were constructed and tested under monotonic and cyclic loading in accordance with ASTM test standards. Shear stiffness, strength properties, and ductility of the MTW walls were evaluated and compared with those of comparable MIDPLY walls. Overall, the MTW system shows significant improvements in shear stiffness, yield load, peak load, and ductility. This paper contains a discussion of the failure modes, the effect of the vertical load, the importance of truss design, and the further studies needed.
+
+
+    
+        AU - A. M. P. G. Dias
+    
+
+TI - Analysis of the Nonlinear Behavior of Timber-Concrete Connections
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1128-1137
+VI - 138
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000523 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000523
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000523
+SO - Journal of Structural Engineering 2012-09-01 138(9): 1128-1137
+AB - This paper discusses the nonlinear mechanical behavior of timber-concrete structures, mainly when dowel-type fasteners are used in the connections. These nonlinear phenomena result from the nonlinear mechanical behavior of the materials and connections. This paper deals with the connection aspect of the nonlinearity and goes on to present and discuss the causes of such phenomena as well as the approaches available to address them. Since these analyses require an adequate definition of the load-slip behavior of the connection, a numerical model is proposed to derive it, based on either results from experimental tests or numerical models. A calculation example is used to assess the influence of the nonlinear phenomena on the design of this type of structure. From the analysis undertaken, it is concluded that the nonlinear mechanical behavior of the connections may have a significant influence on the mechanical behavior of the composite structures. Moreover, the model proposed to describe the load-slip behavior of the connection is shown to be accurate and effective.
+
+
+    
+        AU - Jonathan B. Hurff
+    
+        AU - Lawrence F. Kahn
+    
+
+TI - Lateral-Torsional Buckling of Structural Concrete Beams: Experimental and Analytical Study
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1138-1148
+VI - 138
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000542 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000542
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000542
+SO - Journal of Structural Engineering 2012-09-01 138(9): 1138-1148
+AB - Precast structural concrete beams have become longer and more slender, increasing the likelihood of a stability failure. Although there are methods to determine the lateral-torsional buckling load for reinforced and prestressed concrete beams, there has been no conformity as to which is the more accurate method, nor do they account for initial imperfections. Six slender, rectangular pretensioned concrete beams were tested and showed that the lateral-torsional stability behavior was similar to that of reinforced concrete beams except for (1) changes in material properties owing to a different stress state and (2) the effects of prestressing on the cracking behavior of the cross section. The stability behavior proved to be sensitive to initial imperfections; therefore, both a geometric nonlinear stability analysis and a simplified equation were developed. The predictive methods were compared with the current and past results, and the analytical methods showed good correlation with all structural concrete experimental results. The results indicate that prestressed concrete beams are susceptible to lateral-torsional buckling and the initial imperfections serve to reduce the buckling load owing to nonlinear geometric behavior and a nonrectangular compression zone.
+
+
+    
+        AU - Maria Pia Repetto
+    
+        AU - Giovanni Solari
+    
+
+TI - Closed-Form Prediction of the Alongwind-Induced Fatigue of Structures
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1149-1160
+VI - 138
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000543 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000543
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000543
+SO - Journal of Structural Engineering 2012-09-01 138(9): 1149-1160
+AB - Wind-induced fatigue is a crucial topic in the design of wind-sensitive structures. Despite this, methods proposed in literature are mainly addressed to research, or they are too simplified for engineering applications. Thus, suitable engineering and standards procedures are almost totally lacking, which is a major shortcoming in structural and wind engineering. Starting from a closed-form solution (CFS) recently proposed by the authors, this paper develops a novel engineering approach to evaluate the alongwind-induced fatigue of structures and structural elements. This approach is based on a hierarchy of hypotheses that lead to a progressive simplification of the basic formulation. Two classes of formulas, referred to as Levels I and II CFSs, are obtained and critically discussed with special concern for input parameters. Level I CFS implies three further simplifications joined together by the common aim of providing refined approximations of the reference target solution. Level II CFS implies three different simplifications joined together by the common aim of providing easy solutions on the safe side. This set of CFSs is framed within a general procedure that any country, society, or engineer can easily personalize to a situation and requirement, ranging from numerical tools to manual engineering calculations and code provisions.
+
+
+    
+        AU - Siu-Kui Au
+    
+        AU - Ping To
+    
+
+TI - Full-Scale Validation of Dynamic Wind Load on a Super-Tall Building under Strong Wind
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1161-1172
+VI - 138
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000539 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000539
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000539
+SO - Journal of Structural Engineering 2012-09-01 138(9): 1161-1172
+AB - This paper presents work on validating the dynamic wind load predicted by a wind tunnel model with the values identified from full-scale field vibration data of a super-tall building in Hong Kong. Dynamic wind load in this work refers to the power spectral density (PSD) of the modal force near the natural frequency of a particular mode of the building, in the context of random vibration with stationary loading and response. This quantity reflects the turbulence characteristics integrated over the building body and is of importance in wind engineering design. This study presents a method to predict the modal PSD of wind load of the first two translational modes of a tall building. The method combines wind tunnel test information and mean wind data available in the free field; the latter taken to be at the Waglan Island station maintained by the Hong Kong Observatory. On the full-scale side, although the modal PSD is not directly observable, it is identified from field vibration data measured at the building top during strong wind events. A Bayesian modal identification method is used for determining the most probable value and the uncertainty of the modal parameters including the natural frequency, damping ratio, and the modal PSD. A number of recent strong wind events are analyzed. Reasonable agreement is observed between the wind tunnel model predictions and the values identified from field data. Factors that can potentially lead to discrepancy are discussed. As the same random vibration modeling consistent with conventional wind engineering design has been used in the wind tunnel prediction model and field identification model, the results are directly transferable among these three disciplines.
+
+
+    
+        AU - Y. Daniel
+    
+        AU - O. Lavan
+    
+        AU - R. Levy
+    
+
+TI - Multiple-Tuned Mass Dampers for Multimodal Control of Pedestrian Bridges
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1173-1178
+VI - 138
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0000527 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000527
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000527
+SO - Journal of Structural Engineering 2012-09-01 138(9): 1173-1178
+AB - This paper deals with the allocation and sizing of multiple-tuned mass dampers (MTMDs) in an attempt to retrofit footbridges with multiple critical modes resulting from the excitation of pedestrian traffic. The simple and practical methodology proposed herein includes the use of an iterative analysis/redesign type procedure that converges to a given allowable level of accelerations. An example that uses this methodology to retrofit an existing footbridge is presented.
+
+

@@ -1,0 +1,523 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Kazuo Hasegawa
+    
+        AU - Hiroshi Kojima
+    
+        AU - Michio Sasaki
+    
+        AU - Koei Takena
+    
+
+TI - Frictional Resistance between Cable and Saddle Equipped with Friction Plate
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 1-14
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(1) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%281%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%281%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 1-14
+AB - To increase the frictional resistance between a cable and saddle, a method using a horizontal friction plate is efficient. However, there is no precedent for its use on long suspension bridges. An experimental investigation is conducted using a test cable and saddle with a friction plate. The frictional behaviors under normal and seismic loads are considered. Even under such a violent variation of load resulting from an earthquake, the cable is no more liable to slip than under a normal load. Based on the experimental findings, an analytical model of the frictional mechanism is developed, and as an example, the model is used to analyze a suspension bridge. As a result, the mechanism is made clear, and a formula for the design overall frictional coefficient of the saddle with a friction plate and a seismic safety factor are proposed. They are adopted for the design of the Rainbow Bridge in Tokyo.
+
+
+    
+        AU - Paolo Foraboschi
+    
+
+TI - Modeling of Collapse Mechanisms of Thin Reinforced Concrete Shells
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 15-27
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(15) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%2815%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%2815%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 15-27
+AB - A numerical model based on an elasto-plastic–fracturing formulation is presented to predict the ultimate strength as well as the related mode of failure of thin reinforced concrete (RC) shells. The model defines a safe domain within which the shell would not collapse under the applied load. It predicts two possible modes of failure, which may be broadly classified into bending-type failure and buckling-type failure. Important issues are considered in the model: the effects of holes, reinforcing members, and concentrated loads; and shape deviations due to construction or modeling imperfections. By comparison with analytical solutions as well as experimental observations, the model is shown to lead to reasonably accurate predictions of the main events leading to the failure of RC shells, including the loading path relating the downward vertical displacement to the applied load. From detailed investigations, the relations between the actual mode of failure and the level of the bending force are explained. To provide a shell with the maximum ultimate strength can be dangerous if an inadequately safe domain results.
+
+
+    
+        AU - Hideo Takabatake
+    
+        AU - Takayuki Imaizumi
+    
+        AU - Kunihiro Okatomi
+    
+
+TI - Simplified Analysis of Rectangular Plates with Stepped Thickness
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 28-38
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(28) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%2828%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%2828%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 28-38
+AB - This paper presents a simplified analytical method for rectangular plates with arbitrarily and eccentrically stepped thickness, such as building slabs, under the validity of the Kirchhoff-Love hypotheses. The discontinuous variation in bending stiffness due to the variation of the thickness can be expressed continuously by the use of an extended Heaviside function, which is defined as a Dirac function existing continuously in a prescribed region. Since the bending stiffness used here is given exactly by the actual bending stiffness at each point, a modification of the bending stiffness used in an equivalent plate analogy is unnecessary. The governing equations are formulated by means of Hamilton's principle. Static and dynamic approximate but accurate solutions are obtained from the proposed governing equation by the use of the Galerkin method. The numerical results obtained from the proposed theory for simply supported and clamped plates with stepped thickness show good agreement with results obtained from the finite element method using the code NASTRAN.
+
+
+    
+        AU - J. G. Sanjayan
+    
+        AU - P. LeP. Darvall
+    
+
+TI - Singularities in RC Beam Elements with Finite-Length Hinges
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 39-47
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(39) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%2839%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%2839%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 39-47
+AB - Several models have been presented in the literature for reinforced concrete (RC) beam elements with finite-length hinges to facilitate analyses of the inelastic response of reinforced-concrete frame structures. Such models are considered an improvement on the conventional zero-length hinge (point hinge) model, which seems an unrealistic representation of RC elements undergoing inelastic deformations and is viewed as theoretically inconsistent. This paper identifies two singularities that could arise in the formulation of member models with finite-length hinges. The singularities are more likely to be encountered in frame analysis under cyclic loads (earthquake), than under monotonically increasing loads. Two singularity points are identified in the formulation of the model. One singularity point is due to the direction dependency of the stiffness, and can be avoided if an additional condition is imposed in the formulation to take care of this factor. The other singularity point has physical significance and corresponds to the critical softening parameter, beyond which a member cannot sustain equilibrium.
+
+
+    
+        AU - Jagmohan L. Humar
+    
+        AU - Ahmed H. Kashif
+    
+
+TI - Dynamic Response Analysis of Slab-Type Bridges
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 48-62
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(48) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%2848%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%2848%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 48-62
+AB - The response of a bridge under a moving vehicle is a complex phenomenon because of the interaction between the bridge and the vehicle. This complexity makes it difficult to identify the significant parameters that govern the response; yet a knowledge of such parameters is important for developing rational procedures for design. An earlier study by the writers used a beam model to identify the controlling parameters. In the present study, the bridge is idealized by a rectangular isotropic or orthotropic plate and the vehicle is represented by a single sprung mass moving along the deck. The plate is discretized by finite elements and the nonlinear equations of motion are solved in their incremental form by a process of numerical integration. The study shows that the governing parameters for an isotropic plate models are the aspect ratio, the speed parameter, the frequency ratio, and the mass ratio, while those for an orthotropic model are χ and θ, characteristics that depend on the geometry and the natural properties of the plate, as well as the speed parameter, the frequency ratio, and the mass ratio.
+
+
+    
+        AU - G. D. Hahn
+    
+
+TI - Effects of Sea-Surface Fluctuations on Response of Offshore Structures
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 63-74
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(63) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%2863%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%2863%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 63-74
+AB - The magnitudes of the effects of the sea-surface fluctuations on the response of wave-excited offshore structures are assessed. Such fluctuations are accounted for by using the linear wave theory in combination with two distinct approaches: “stretching” and “vertical extrapolation.” Structural responses are calculated for water-particle kinematics obtained by applications of the unmodified linear-wave theory, linear-wave theory in combination with the stretching approach, and linear-wave theory in combination with the vertical extrapolation technique. These responses are examined by separating the associated static and dynamic effects for wide ranges of natural frequencies. It is shown that responses obtained for the stretching approach are almost the same as those calculated for the unmodified wave-theory model. It is further shown that applications of the vertical-extrapolation technique lead to the evaluation of peak responses that are generally larger than those obtained for the unmodified wave model, particularly for drag-force dominated systems. These larger responses are primarily induced, under conditions of practical importance, by increases in the associated static effects. Additional relevant information is also reported that is responsive to the need that exists at the present time for improved appreciations of the dynamics of offshore platforms. The results of the study apply to offshore platforms operating in water depths in the approximate range of 300–1,000 m.
+
+
+    
+        AU - John W. Wallace
+    
+
+TI - Seismic Design of RC Structural Walls. Part I: New Code Format
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 75-87
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(75) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%2875%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%2875%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 75-87
+AB - A displacement-based analytical procedure is used to develop a new code format for the seismic design of reinforced concrete shear walls. The procedure, which can be applied to walls of various cross-sectional shapes, uses a computed strain distribution to determine requirements for transverse reinforcement at wall boundaries for concrete confinement and to restrain buckling of reinforcement. Based on the computed strain distribution, both detailed and simplified approaches are presented to determine the amount and distribution of required transverse reinforcement. Simplified approaches are developed for symmetrically reinforced walls with axial load less than 0.10 A wfc′ and for unsymmetrically reinforced walls with axial load less than 0.05 A wf′c. In addition, requirements for distribution of flexural strength over the height of the wall and limiting values for shear stress are also suggested. The proposed code format would increase design flexibility and could be incorporated into existing code formats.
+
+
+    
+        AU - John W. Wallace
+    
+        AU - John H. Thomsen IV
+    
+
+TI - Seismic Design of RC Structural Walls. Part II: Applications
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 88-101
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(88) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%2888%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%2888%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 88-101
+AB - Design calculations are presented for two shear-wall buildings using a new code format described in a companion paper. The lateral force resisting system for building 1 is comprised of two rectangular and two channel-shaped wall cross sections, and is typical of current U.S. practice of using relatively few walls for lateral load resistance. Based on the proposed code format, special transverse reinforcement is required at the boundaries of the rectangular wall; however, no special transverse reinforcement is required for the channel-shaped wall for loads parallel to the wall web. The lateral force resisting system for the second building is comprised of rectangular and T-shaped walls. Although no special transverse reinforcement is required for the rectangular walls, a moderate quantity of special transverse reinforcement is required for the web of the T-shaped wall. Wall design requirements for building 1 are also compared with UBC 1991 design requirements. The design information presented for the two buildings reveals the flexibility and versatility of the proposed design format described in the companion paper, and indicates that the proposed design format will reduce construction materials and costs for most applications compared with current design requirements.
+
+
+    
+        AU - Juan C. De la Llera
+    
+        AU - Anil K. Chopra
+    
+
+TI - Estimation of Accidental Torsion Effects for Seismic Design of Buildings
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 102-114
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(102) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28102%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28102%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 102-114
+AB - A procedure is developed for including the effects of accidental torsion in seismic design of buildings. It has four steps. First, the ratio between the fundamental frequencies of uncoupled torsional and lateral motions of the building is computed. This ratio and plan dimensions are then used to estimate the increase in displacements at the edge of the building resulting from all sources of accidental torsion. Third, from these edge displacements the increase in displacements at the location of interior resisting planes are estimated. Finally, the design forces in structural members are computed by amplifying the forces ignoring accidental torsion by the increase in building displacements determined previously. This procedure has several advantages over the code-specified static and dynamic analysis procedures to include accidental torsion, such as: (1) The elimination of cumbersome static or three-dimensional dynamic analyses to account for accidental torsion effects in building design; and (2) the inclusion of the effects of all sources of accidental torsion. Two building examples are presented to illustrate these advantages as well as the computational steps required to implement the new procedure.
+
+
+    
+        AU - Hoong-Leong Chow
+    
+        AU - Lawrence G. Selna
+    
+
+TI - Seismic Response of Nonductile Flat-Plate Buildings
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 115-123
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(115) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28115%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28115%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 115-123
+AB - A method for representing the seismic response of nonductile flat-plate buildings is developed. The nonductile buildings are represented by elements with interpolated nonlinear zones that are adapted to fit with the experimental data. The load-deflection relation obtained from near-full-scale tests of the column slab connections is nearly elastic until punching failure occurs in the slab. Thereafter, there is a branch representing descending resistance associated with the punching failure. A flat-plate building represented with these elements evinces the progression of punching failures in the building. It is found that if the columns are ductile, a building of this type can remain standing after a moderate seismic event, but the damage is so extensive that the building might not be repairable.
+
+
+    
+        AU - Amir Mirmiran
+    
+        AU - Amde M. Amde
+    
+
+TI - Effects of Fabrication Process on Prestressed Composite Arches
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 124-131
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(124) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28124%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28124%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 124-131
+AB - Previous studies suggest that intentional buckling of wide shallow members as a fabrication method for arches and domes could result in buckling loads much lower than the conventional rigid (i.e., nonprestressed) structures of the same shape and weight. A modified prestressing technique is discussed in which single-layer struts are separately but simultaneously buckled into arch shape, and then attached to each other and to the supports to form a sandwich composite section. A nonlinear finite-element model is developed to study the effects of this technique on the stability behavior of prestressed sandwich arches. Equivalent rigid arches of elastica shape are studied by initializing the residual stresses prior to loading. A prestressed homogeneous arch that is twice as thick as each face layer of the sandwich section is used for comparison. Prestressing forces that were known to reduce the buckling loads of homogeneous arches by as much as 25%, are shown to have negligible effect on the stability of sandwich arches. Those negative effects almost completely vanish as the thickness of the core layer is increased relative to the overall thickness of the sandwich section.
+
+
+    
+        AU - J. H. P. Quenneville
+    
+        AU - M.-A. Erki
+    
+
+TI - Effect of Posttensioning on Rotational Stiffness of Wood Joints
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 134-137
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(134) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28134%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28134%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 134-137
+AB - The moment-rotation behavior of full-size Warren truss timber connections, using posttensioning as a possible reinforcement scheme, was investigated and compared with the current method of using gusset plates. Four joint configurations were tested using three posttensioning levels. The stiffness of the joints was calculated and is presented in this technical note. Based on the results of posttensioned joints and earlier experimental investigations, it was found that the increase in joint rotational stiffness, due to transverse posttensioning is a function of the number of connector rods in the joint zone for both inner (compression) and outer (tension) web members, and the increase in joint rotational stiffness due to transverse posttensioning is a function of the posttension level for outer (tension) web members.
+
+
+    
+        AU - S. J. Chhabra
+    
+        AU - S.-J. Fang
+    
+        AU - Seshu Madhava Rao Adluri
+    
+        AU - Murty K. S. Madugula
+    
+
+TI - Ultimate Load Capacity of Single Steel Angles 
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 140-141
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(140) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28140%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28140%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 140-141
+
+
+    
+        AU - P. R. Natarajan
+    
+        AU - K. Muralidharan
+    
+
+TI - Discussion of “Ultimate Load Capacity of Single Steel Angles” by P. R. Natarajan and K. Muralidharan
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 141-142
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(141) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28141%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28141%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 141-142
+
+
+    
+        AU - Bruce R. Ellingwood
+    
+
+TI - Public Safety—Is It Compromised by New LRFD Design Standards? 
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 142-151
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(142) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28142%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28142%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 142-151
+
+
+    
+        AU - T. V. Galambos
+    
+
+TI - Discussion of “Public Safety—Is It Compromised by New LRFD Design Standards?” by T. V. Galambos
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 143-144
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(143) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28143%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28143%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 143-144
+
+
+    
+        AU - Nestor R. Iwankiw
+    
+
+TI - Discussion of “Public Safety—Is It Compromised by New LRFD Design Standards?” by Nestor R. Iwankiw
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 145-145
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(145) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28145%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28145%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 145-145
+
+
+    
+        AU - Roberto T. Leon
+    
+
+TI - Discussion of “Public Safety—Is It Compromised by New LRFD Design Standards?” by Roberto T. Leon
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 145-146
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(145.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28145.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28145.2%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 145-146
+
+
+    
+        AU - Pavel Marek
+    
+
+TI - Discussion of “Public Safety—Is It Compromised by New LRFD Design Standards?” by Pavel Marek
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 146-147
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(146) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28146%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28146%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 146-147
+
+
+    
+        AU - C. N. Srinivasan
+    
+        AU - C. R. Arvind
+    
+
+TI - Discussion of “Public Safety—Is It Compromised by New LRFD Design Standards?” by C. N. Srinivasan and C. R. Arvind
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 148-148
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(148) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28148%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28148%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 148-148
+
+
+    
+        AU - A. Roger Turk
+    
+
+TI - Discussion of “Public Safety—Is It Compromised by New LRFD Design Standards?” by A. Roger Turk
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 149-149
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(149) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28149%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28149%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 149-149
+
+
+    
+        AU - Frank J. Heger
+    
+
+TI - Closure to “Public Safety—Is It Compromised by New LRFD Design Standards?” by Frank J. Heger
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 149-151
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(149.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28149.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28149.2%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 149-151
+
+
+    
+        AU - Ravindra Gettu
+    
+        AU - Antonio Ariño
+    
+        AU - Mohammad T. Kazemi
+    
+
+TI - Fracture Mechanics and Size Effect of Concrete in Tension 
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 151-155
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(151) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28151%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28151%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 151-155
+
+
+    
+        AU - Tianxi Tang
+    
+        AU - Surendra P. Shah
+    
+        AU - Chengsheng Ouyang
+    
+
+TI - Closure to “Fracture Mechanics and Size Effect of Concrete in Tension” by Tianxi Tang, Surendra P. Shah, and Chengsheng Ouyang
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 153-155
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(153) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28153%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28153%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 153-155
+
+
+    
+        AU - Satinder P. S. Puri
+    
+
+TI - Theory and History of Suspension Bridge Design from 1823 to 1940 
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 155-157
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(155) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28155%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28155%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 155-157
+
+
+    
+        AU - Bernardo Deschapelles
+    
+
+TI - Mixed Finite Element Method for Analysis of Coupled Shear/Core Walls 
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 157-159
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(157) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28157%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28157%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 157-159
+
+
+    
+        AU - A. K. H. Kwan
+    
+
+TI - Closure to “Mixed Finite Element Method for Analysis of Coupled Shear/Core Walls” by A. K. H. Kwan
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 158-159
+VI - 121
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1995)121:1(158) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28158%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A1%28158%29
+SO - Journal of Structural Engineering 1995-01-01 121(1): 158-159
+
+

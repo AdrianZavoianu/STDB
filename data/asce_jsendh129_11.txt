@@ -1,0 +1,377 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Sashi K. Kunnath
+    
+
+TI - Editor's Note
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 1431-1432
+VI - 129
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(2003)129:11(1431) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281431%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281431%29
+SO - Journal of Structural Engineering 2003-11-01 129(11): 1431-1432
+
+
+    
+        AU - Paul Bezkorovainy
+    
+        AU - Tim Burns
+    
+        AU - Kim J. R. Rasmussen
+    
+
+TI - Strength Curves for Metal Plates in Compression
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 1433-1440
+VI - 129
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(2003)129:11(1433) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281433%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281433%29
+SO - Journal of Structural Engineering 2003-11-01 129(11): 1433-1440
+AB - The paper describes a generalized strength formulation for metal plates. The focus is on metallic alloys with nonlinear stress strain curves, such as aluminum and stainless steel. The formulation is based on a generalized Winter-curve featuring two material-dependent parameters. Analytic expressions are derived for these parameters so that they can be determined for given material properties assumed to be expressed in terms of the Ramberg-Osgood parameters (E0,σ0.2,n). Thus, the generalized formulation allows the plate strength equation to be determined for a given alloy, requiring only the Ramberg-Osgood parameters. The strength curves obtained using the generalized formulation are shown to compare well with finite element results. The strength equations apply to uniformly compressed plates simply supported along all four edges. The validity ranges for the material properties are 3⩽n⩽100 and 0.001⩽e⩽0.003 where e=σ0.2/E0. The plates are assumed to be free of residual stress. 
+
+
+    
+        AU - Yugang Xiao
+    
+        AU - Craig C. Menzemer
+    
+
+TI - Ultimate Compressive Strength of Aluminum Plate Elements
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 1441-1447
+VI - 129
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(2003)129:11(1441) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281441%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281441%29
+SO - Journal of Structural Engineering 2003-11-01 129(11): 1441-1447
+AB - In general, the elastic local buckling of a slender plate that is part of a cross section does not represent the limit of the load carrying capacity of the element or member. Aluminum alloy members may be cast, extruded, forged, or built up from plates joined together by any number of techniques, including welding. In order to study the ultimate strength of thin aluminum plates, finite element simulation of a series of stub columns was conducted. Slenderness of the plate elements that comprise the column varied in an effort to study the buckling behavior of plate elements with realistic boundary conditions. In some instances, parent metal stub columns were analyzed, and in other cases, simulations were conducted on stub columns joined together by welding including the effects of material softening in the heat-affected zones and residual stresses. Analytical results were compared to experimental data found in the literature and design recommendations found in the aluminum design manual. 
+
+
+    
+        AU - Jeffrey Berman
+    
+        AU - Michel Bruneau
+    
+
+TI - Plastic Analysis and Design of Steel Plate Shear Walls
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 1448-1456
+VI - 129
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(2003)129:11(1448) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281448%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281448%29
+SO - Journal of Structural Engineering 2003-11-01 129(11): 1448-1456
+AB - A revised procedure for the design of steel plate shear walls is proposed. In this procedure the thickness of the infill plate is found using equations that are derived from the plastic analysis of the strip model, which is an accepted model for the representation of steel plate shear walls. Comparisons of experimentally obtained ultimate strengths of steel plate shear walls and those predicted by plastic analysis are given and reasonable agreement is observed. Fundamental plastic collapse mechanisms for several, more complex, wall configurations are also given. Additionally, an existing codified procedure for the design of steel plate walls is reviewed and a section of this procedure which could lead to designs with less-than-expected ultimate strength is identified. It is shown that the proposed procedure eliminates this possibility without changing the other valid sections of the current procedure. 
+
+
+    
+        AU - Jong S. Park
+    
+        AU - J. Michael Stallings
+    
+
+TI - Lateral-Torsional Buckling of Stepped Beams
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 1457-1465
+VI - 129
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(2003)129:11(1457) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281457%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281457%29
+SO - Journal of Structural Engineering 2003-11-01 129(11): 1457-1465
+AB - Continuous multispan beams with stepped cross sections at the interior supports are common in construction of steel buildings and bridges. Design equations for lateral-torsional buckling (LTB) resistance in the American Institute of Steel Construction LRFD Specifications in 1998 account for only prismatic and web-tapered beams. A study of LTB capacity of stepped beams was performed and simple design equations are proposed. Finite-element method buckling analysis results for stepped beams under uniform moment were used to develop new design equations that account for the change in the cross section of stepped beams. Traditional moment gradient factors for prismatic beams were reviewed and were found to be sufficiently accurate for some stepped beam cases. A new moment gradient factor equation was developed from the finite-element analysis results and is proposed for the determination of the LTB resistance of stepped beams under general loading conditions. 
+
+
+    
+        AU - Scott A. Civjan
+    
+        AU - Prabhjeet Singh
+    
+
+TI - Behavior of Shear Studs Subjected to Fully Reversed Cyclic Loading
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 1466-1474
+VI - 129
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(2003)129:11(1466) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281466%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281466%29
+SO - Journal of Structural Engineering 2003-11-01 129(11): 1466-1474
+AB - A series of experimental and analytical tests on modified composite push-out specimens and bare steel shear studs were performed to investigate the behavior of shear studs subjected to fully reversed cyclic load. Of specific interest was the behavior under low-cycle fatigue. Such load would be applicable to composite or hybrid structures subjected to seismic events. An overview of previous research in the area of shear stud behavior is included. Reversed cyclic loading resulted in an almost 40% reduction in shear stud capacity compared to static capacities. This reduction occurs due to low-cycle fatigue of the stud/weld materials as well as concrete degradation. Existing relationships for concrete strength predicted the change in capacity under static and low-cycle fatigue loads. Initial bending of studs did not affect the shear stud load capacity. While shielded metal arc welding of shear studs provides a very different stud base condition, the percentage reduction in capacity was similar. Boundary conditions in push-out specimens did not significantly affect the initial bending and shear stresses, which appear to control failure modes. 
+
+
+    
+        AU - Hitoshi Kuwamura
+    
+        AU - Jun Iyama
+    
+        AU - Koji Matsui
+    
+
+TI - Effects of Material Toughness and Plate Thickness on Brittle Fracture of Steel Members
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 1475-1483
+VI - 129
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(2003)129:11(1475) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281475%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281475%29
+SO - Journal of Structural Engineering 2003-11-01 129(11): 1475-1483
+AB - Extensive research efforts have been devoted to clarifying the causes and their physical relationships of the brittle fracture of steel structures which were observed at the disasters of 1994 Northridge Earthquake and 1995 Hyogoken–Nanbu Earthquake. This paper reports the results of a full-scale fracture test to identify the effects of material toughness and plate thickness on the plastic deformation capacity governed by brittle fracture. Two innovative methods, which are called the artificial hot spot method and multiple critical point method, were employed for the experiment in order to simulate brittle fracture in steel members undergoing plastic deformation and to obtain reliable data from a small number of specimens. The artificial hot spot method was found with absolutely certainty to originate brittle fracture at an intended location, and the multiple critical point method provided a satisfactory consistency in the statistical estimation of prefracture ductility. The test results demonstrated that material toughness in terms of Charpy impact energy has a substantial influence on the ductility governed by brittle fracture, while the plate thickness is of less importance within the test range greater than an inch. It is suggested from this fact that Charpy values of structural steels, which are not specified or specified only to be greater than a single low level in current material standards, should be classified into multiple grades in accordance with the necessary performance levels of ductility required in earthquake resistant design. 
+
+
+    
+        AU - Robert E. Melchers
+    
+
+TI - Probabilistic Model for Marine Corrosion of Steel for Structural Reliability Assessment
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 1484-1493
+VI - 129
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(2003)129:11(1484) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281484%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281484%29
+SO - Journal of Structural Engineering 2003-11-01 129(11): 1484-1493
+AB - The assessment of the remaining safe and serviceable life of deteriorating structures using structural reliability theory requires realistic models for corrosion. Using existing data it is shown that corrosion is a nonlinear function of time. A probabilistic model for “at-sea” immersion corrosion of mild and low alloy steels based on fundamental physiochemical corrosion mechanics is presented. The mean-value part of the model is made operational by calibrating its parameters to existing and new field data. A simple model for corrosion uncertainty is presented and its initial calibration discussed. More refined calibration awaits field data over practically significant seawater temperature ranges but particularly for lower temperature regimes. Extensions to the model and its application to other exposure regimes are outlined briefly. 
+
+
+    
+        AU - Steven Van Dessel
+    
+        AU - Achille Messac
+    
+        AU - Anoop A. Mullur
+    
+        AU - Amy A. Farina
+    
+
+TI - Feasibility and Optimization of Rigidified Inflatable Structures for Housing
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 1494-1502
+VI - 129
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(2003)129:11(1494) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281494%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281494%29
+SO - Journal of Structural Engineering 2003-11-01 129(11): 1494-1502
+AB - Rigidified inflatable structures (RIS), previously used and tested in space technology applications, are of potential interest to residential construction. RIS technology is examined and the case of a single, exterior wall subjected to wind and roof load is considered. A design approach for RIS technology in residential construction is presented. Models based on three different materials and three different loading conditions are analyzed and optimized. The optimization problem statement minimizes material volume subject to: permissible stresses, maximum allowable deflection, and minimum membrane thickness. Design criteria include yield stress, deflection, and buckling. Optimum range of membrane thicknesses and number of bays are determined for each load and material case. Practical issues involving manufacturing and packaging are considered as additional design considerations. Additional suggested research involving reinforcing membranes and cavity filling is discussed. The work presented makes a significant step in establishing the feasibility of RIS for housing applications. 
+
+
+    
+        AU - László P. Kollár
+    
+
+TI - Local Buckling of Fiber Reinforced Plastic Composite Structural Members with Open and Closed Cross Sections
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 1503-1513
+VI - 129
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(2003)129:11(1503) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281503%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281503%29
+SO - Journal of Structural Engineering 2003-11-01 129(11): 1503-1513
+AB - The local buckling analysis of fiber reinforced plastic (FRP) composite open and closed thin-walled section beams and columns is presented. Explicit expressions are developed for axially loaded and for bent box-, I-, C-, Z-, and L-members. These simple, explicit formulas contain the width and the bending stiffnesses (D11, D22, D12, D66) of each wall segment. The utility of the method is demonstrated by numerical examples. 
+
+
+    
+        AU - G. Chen
+    
+        AU - G. Baker
+    
+
+TI - Influence of Bond Slip on Crack Spacing in Numerical Modeling of Reinforced Concrete
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 1514-1521
+VI - 129
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(2003)129:11(1514) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281514%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281514%29
+SO - Journal of Structural Engineering 2003-11-01 129(11): 1514-1521
+AB - This paper investigates the influence of bond slip on crack spacing in reinforced concrete. A bond-link element is used to account for the influence of the bond slip between the concrete and the reinforcing steel. Following a previous work, the writers treat crack spacing as a strain localization problem. A new numerical model for prediction of crack spacing in reinforced concrete is applied. It is assumed that the deformation pattern of crack spacing consumes the least energy among all kinematically admissible deformations, and the energy minimization approach is applied to predict crack spacing. To simplify the problem, a lattice model is used, in which the cracking process is represented by the damage of the concrete bar elements. The influence of the bond slip on the cracking patterns have been studied through three numerical examples. The results show that without considering bond slip, the damage near the reinforcement is distributed rather than localized, whereas considering bond slip, the damage near the reinforcement is localized. The influence of bond slip on crack spacing is significant. 
+
+
+    
+        AU - Y. Sakumoto
+    
+        AU - T. Hirakawa
+    
+        AU - H. Masuda
+    
+        AU - K. Nakamura
+    
+
+TI - Fire Resistance of Walls and Floors Using Light-Gauge Steel Shapes
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 1522-1530
+VI - 129
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(2003)129:11(1522) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281522%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281522%29
+SO - Journal of Structural Engineering 2003-11-01 129(11): 1522-1530
+AB - This paper reports on the results of experimental studies on the fire resistance of walls (partition walls and exterior walls) and floor–ceiling systems manufactured using galvanized light-gauge steel shapes. Galvanized light-gauge steel shapes with thickness up to 1.6 mm are used in place of the wooden structural frames of wood-frame type construction. The fire resistance of walls and floor–ceiling systems made by attaching plywood, gypsum boards, and other materials to these steel shapes, depends mainly on the thermal shielding performance of the attached gypsum boards. Loaded heat tests were conducted and it has been clarified that the prevention of gypsum boards from falling off is important for improving their fire resistance, that the increase in the number and thickness of gypsum board to be applied and the use of reinforced gypsum board are effective and that the practical fire rating (up to 60 min) can be obtained without direct fire protection for shapes. 
+
+
+    
+        AU - Z. F. Huang
+    
+        AU - K. H. Tan
+    
+
+TI - Analytical Fire Resistance of Axially Restrained Steel Columns
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 1531-1537
+VI - 129
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(2003)129:11(1531) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281531%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281531%29
+SO - Journal of Structural Engineering 2003-11-01 129(11): 1531-1537
+AB - Using the standard fire resistance test to predict the fire resistance of a steel column is expensive and time consuming as well. On the other hand, numerical approximation using the finite element method assumes the availability of a nonlinear elastoplastic analysis software. This approach is not necessarily accurate as it does not explicitly take creep into account. As an alternative, theoretical analysis that can be performed manually is a convenient tool for engineers to quickly assess the column fire resistance. This study extends the traditional Rankine formula to the critical temperature prediction of an axially restrained steel column. A linear spring attached to the column top end accounts for the axial restraint of upper-story structure on the isolated heated column. The proposed Rankine approach incorporates both the axial restraint and creep strain. Comparison of test and numerical results using self-developed viscoelastoplastic analysis shows that the proposed Rankine formula yields very good column critical temperatures. Most importantly, it shows that axial restraint can significantly reduce the fire resistance of a column based on the adopted failure criterion. 
+
+
+    
+        AU - Eric Steinberg
+    
+        AU - Ricky Selle
+    
+        AU - Thorsten Faust
+    
+
+TI - Connectors for Timber–Lightweight Concrete Composite Structures
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 1538-1545
+VI - 129
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(2003)129:11(1538) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281538%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281538%29
+SO - Journal of Structural Engineering 2003-11-01 129(11): 1538-1545
+AB - In timber–concrete composite structures (TCCSs), a timber member is connected to a concrete slab so that the timber primarily resists tensile forces and the concrete resists compressive forces generated from flexure. In Europe, renovating historical timber floors to TCCS has become the most prevalent market for the usage of this technology. The addition of a concrete slab to a timber floor makes the system performance competitive to reinforced concrete floors. The horizontal timber–concrete interface is the challenge of the TCCS. Various connectors are on the market with a wide range of stiffnesses and load capacities which are crucial design parameters for TCCSs and empirically determined by tests. The results of push-out tests with five different connectors are presented. A lightweight concrete (LC) with a density of 1.6 kN/m3 (100 lb/ft3) was used as the concrete floor in the samples. The application of LC provides an interesting variation in TCCS technology to minimize the dead load on the timber floors. Results show that the combination of stiffness and capacity are crucial in choosing an economical connector. 
+
+
+    
+        AU - Kathleen A. Wills Rittenburg
+    
+        AU - Sashi K. Kunnath
+    
+
+TI - Deflection of Metal Plate Connected Wood Trusses with Nontriangulated Openings
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 1546-1558
+VI - 129
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(2003)129:11(1546) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281546%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281546%29
+SO - Journal of Structural Engineering 2003-11-01 129(11): 1546-1558
+AB - The behavior of metal plate connected wood truss joints surrounding the open area of attic type trusses under the action of dead and live loads is investigated through experimental tests of full-scale trusses and analytical simulation studies involving predictive stiffness models of the metal plate connections. An existing model to simulate partial rigidity for specific member connections at a joint is implemented into an analog system and analyzed with software designed specifically for use with metal plate connected wood trusses. The analysis of metal plate connected wood trusses in typical engineering design has typically assumed that non-heel joints are either fully pinned or rigid. This type of assumption greatly simplifies the truss analysis and design process, but as research shows, may not accurately reflect the deflection and distribution of internal forces. The axial and rotational deformations of the joint from the convergence of member forces directly effect the truss deflection as well as the distribution of internal forces. The effect of eccentricities at nontriangulated openings, where the configuration of the webbing is similar to a frame is of significant interest. Results suggest that modeling the joints of metal plate connected wood trusses with nontriangulated openings as partially rigid is necessary for estimating the overall maximum deflection. 
+
+
+    
+        AU - D. R. Phatak
+    
+        AU - H. B. Dhonde
+    
+
+TI - Dimensional Analysis of Reinforced Concrete Beams Subjected to Pure Torsion
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 1559-1563
+VI - 129
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(2003)129:11(1559) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281559%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281559%29
+SO - Journal of Structural Engineering 2003-11-01 129(11): 1559-1563
+AB - A dimensional analysis method for predicting the ultimate torsional strength of reinforced concrete beams is presented in this paper. This method incorporates the modified Buckingham-Pi theorem to formulate a general equation using only two experimental results. Dimensional analysis does not base itself on any assumption or hypothesis, but relies on the systematic grouping of relevant variables involved in the physical phenomenon, to form dimensionless groups. A unique trial and error procedure is demonstrated that generates the universal dimensional analysis formulation, wherein one of the experimental data set called the control point, generates the dimensional analysis equation, while the other data set, the check point, is used to validate the already formed dimensional analysis equation. The results of dimensional analysis are then compared with the available experimental results and limit analysis method. Dimensional analysis can be used to predict results reasonably well and show to be an easy and sufficiently accurate method of analysis.  
+
+
+    
+        AU - Emil Simiu
+    
+        AU - Fahim Sadek
+    
+        AU - Michael A. Riley
+    
+
+TI - Discussion of “Definition of Wind Profiles in ASCE 7” by Yin Zhou and Ahsan Kareem
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 1564-1565
+VI - 129
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(2003)129:11(1564) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281564%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281564%29
+SO - Journal of Structural Engineering 2003-11-01 129(11): 1564-1565
+
+
+    
+        AU - Yin Zhou
+    
+        AU - Ahsan Kareem
+    
+
+TI - Closure to “Definition of Wind Profiles in ASCE 7” by Yin Zhou and Ahsan Kareem
+PT - Journal Article
+DP - 2003
+TA - Journal of Structural Engineering
+PG - 1565-1566
+VI - 129
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(2003)129:11(1565) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281565%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282003%29129%3A11%281565%29
+SO - Journal of Structural Engineering 2003-11-01 129(11): 1565-1566
+
+

@@ -1,0 +1,326 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Yildirim Serhat Erdogan
+    
+        AU - Mustafa Gul
+    
+        AU - F. Necati Catbas
+    
+        AU - Pelin Gundes Bakir
+    
+
+TI - Investigation of Uncertainty Changes in Model Outputs for Finite-Element Model Updating Using Structural Health Monitoring Data
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014078
+VI - 140
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001002 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001002
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001002
+SO - Journal of Structural Engineering 2014-11-01 140(11): 04014078
+AB - This article aims to investigate the effect of uncertainties on the predicted response of structures using updated finite-element models (FEMs). Modeling uncertainties are quantified by fuzzy numbers and are incorporated into the fuzzy FEM updating procedure. The impact of the amount and types of data used on the performance of the updated model is investigated. In order to perform the complex FEM updating calculations, which generally take too much time for complex models, a Gaussian process (GP) is used as a surrogate model. The central composite design (CCD) method is used to sample the input parameter space for more accurate GP models. Genetic algorithms (GA) are employed to solve the inverse fuzzy model updating problem. Additional constraints are presented to capture the variation space of the uncertain response parameters. The University of Central Florida benchmark test structure, which is designed to represent short-span to medium-span bridges, is used in the scope of uncertainty quantification study. Static and dynamic experimental test data obtained from the benchmark structure under different loadings and conditions are used for the demonstration. A damage case, in which the stiffness reduction in boundaries is simulated by using flexible pads, is considered. The results show that appropriate data sets, which contain the least uncertainty, should be generated instead of involving the entire set of measurements obtained from different tests. Nevertheless, uncertainty quantification should be employed to find the variation range of uncertain responses predicted by simplified FEM models.
+
+
+    
+        AU - P. Mahrenholtz
+    
+        AU - T. C. Hutchinson
+    
+        AU - R. Eligehausen
+    
+
+TI - Shake Table Tests on Suspended Nonstructural Components Anchored in Cyclically Cracked Concrete
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014079
+VI - 140
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000979 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000979
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000979
+SO - Journal of Structural Engineering 2014-11-01 140(11): 04014079
+AB - Insufficient anchorage of nonstructural components is a substantial cause of earthquake damage. To investigate this issue, shake table tests were conducted on model nonstructural components suspended and supported via anchors cast in cyclically cracked concrete. Concrete slabs supporting the anchored model component were subjected to seismic floor accelerations and corresponding floor-level cyclic crack width histories to simulate the anchor boundary conditions found in concrete structures during an earthquake. For these tests, post-installed anchors, namely, undercut and expansion types, were tested at various seismic demand levels. This paper presents this unique test data and illustrates important seismic anchor performance characteristics. For the investigated case, the measured correlation between anchor load and crack width indicated a low average anchor load level. In addition, the cumulative anchor displacements and achieved ultimate load capacities showed conservatism when compared with results of simulated seismic tests on isolated anchors.
+
+
+    
+        AU - Hossein Agha Beigi
+    
+        AU - Constantin Christopoulos
+    
+        AU - Timothy Sullivan
+    
+        AU - Gian Michele Calvi
+    
+
+TI - Gapped-Inclined Braces for Seismic Retrofit of Soft-Story Buildings
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014080
+VI - 140
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001006 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001006
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001006
+SO - Journal of Structural Engineering 2014-11-01 140(11): 04014080
+AB - Although soft-story mechanisms are generally undesirable for the seismic response of building structures, they provide potential benefits caused by the isolating effect they produce for the stories located above. In this paper, an approach for enhancing the seismic response of soft-story structures is proposed that takes advantage of the positive aspects of their response while mitigating the negative ones. To this end, an additional gapped-inclined brace (GIB) is introduced to reduce the impact of P-Delta effects on the displacement demands and to increase the deformation capacity of existing columns in soft stories without significantly increasing their lateral resistance. The mechanics of the proposed system are first defined, and theoretical relations and numerical models are then derived to verify the response. The cyclic behavior of a single-degree-of-freedom single-bay RC frame is then investigated numerically to illustrate the effect of the retrofitted system on the global response of a structure. The analytical results indicate that the hysteretic response of the retrofitted system is highly improved in terms of the energy dissipation and the residual deformation while not significantly increasing the overall strength of the structure. Although the equations governing the response of the system are derived for a single story, the concept is primarily intended to be applicable to multistory buildings.
+
+
+    
+        AU - Yi-Wei Lin
+    
+        AU - David Biggs
+    
+        AU - Liam Wotherspoon
+    
+        AU - Jason M. Ingham
+    
+
+TI - In-Plane Strengthening of Unreinforced Concrete Masonry Wallettes Using ECC Shotcrete
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014081
+VI - 140
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001004 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001004
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001004
+SO - Journal of Structural Engineering 2014-11-01 140(11): 04014081
+AB - An experimental program was conducted to investigate the viability of using engineered cementitious composite (ECC) shotcrete as in-plane shear reinforcement for concrete masonry wallettes. Twenty-six mortared or dry-stacked ungrouted and unreinforced concrete masonry wallettes were strengthened through the application of an ECC shotcrete mix, applied either by spraying with a shotcrete machine or by hand trowelling. To determine the effect of applicator experience, ECC was applied by both a professional plasterer and amateur plasterers, with and without supervision. The in-plane shear strength of the strengthened wallettes increased between 340 and 3,471%, depending on the ECC application method. The variability of the strength increase was smaller for wallettes that had mortared joints and an ECC overlay trowelled by a professional plasterer. A set of design equations was also developed to determine the shear strength of a strengthened wallette. The design displacement ductility can be conservatively set equal to 1.9 because of the high variability in the experimentally obtained ductility values.
+
+
+    
+        AU - Matthew R. Eatherton
+    
+        AU - Xiang Ma
+    
+        AU - Helmut Krawinkler
+    
+        AU - David Mar
+    
+        AU - Sarah Billington
+    
+        AU - Jerome F. Hajjar
+    
+        AU - Gregory G. Deierlein
+    
+
+TI - Design Concepts for Controlled Rocking of Self-Centering Steel-Braced Frames
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014082
+VI - 140
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001047 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001047
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001047
+SO - Journal of Structural Engineering 2014-11-01 140(11): 04014082
+AB - The self-centering rocking steel-braced frame is a high-performance system that can prevent major structural damage and minimize residual drifts during large earthquakes. It consists of braced steel frames that are designed to remain elastic and allowed to rock off their foundation. Overturning resistance is provided by elastic post-tensioning, which provides a reliable self-centering restoring force, and replaceable structural fuses that dissipate energy. The design concepts of this system are examined and contrasted with other conventional and self-centering seismic force resisting systems. Equations to predict the load-deformation behavior of the rocking system are developed. Key limit states are investigated including desired sequence of limit states and methods to help ensure reliable performance. Generalized design methods for controlling the limit states are developed. The design concepts are then applied to a six-story prototype structure to illustrate application of the rocking steel frame system and provide the framework for a coordinated research program to further develop and validate the concepts.
+
+
+    
+        AU - Matthew R. Eatherton
+    
+        AU - Xiang Ma
+    
+        AU - Helmut Krawinkler
+    
+        AU - Gregory G. Deierlein
+    
+        AU - Jerome F. Hajjar
+    
+
+TI - Quasi-Static Cyclic Behavior of Controlled Rocking Steel Frames
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014083
+VI - 140
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001005 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001005
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001005
+SO - Journal of Structural Engineering 2014-11-01 140(11): 04014083
+AB - Controlled rocking braced steel frames are seismic lateral-force resisting systems that utilize column-uplifting mechanisms, high-strength post-tensioning, and replaceable energy-dissipating fuses to enhance seismic performance. This paper describes seven quasi-static cyclic tests of half-scale rocking frames that were conducted to investigate the behavior of the system and its components, validate analysis models, establish seismic performance limit states, and develop and evaluate construction details. Design parameters investigated include alternate frame configurations, fuse characteristics, capacity for self-centering, overturning moment resistance, and initial post-tensioning stress. The tests demonstrate that the controlled rocking system can satisfy the performance goals of (1)&nbsp;maintaining elastic response of the rocking braced frame and post-tensioning up to drift ratios of 2.5%, (2)&nbsp;confining inelastic response to replaceable shear fuses, and (3)&nbsp;achieving near-zero residual drift when the lateral forces are removed.
+
+
+    
+        AU - George Vasdravellis
+    
+        AU - Brian Uy
+    
+
+TI - Shear Strength and Moment-Shear Interaction in Steel-Concrete Composite Beams
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014084
+VI - 140
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001008 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001008
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001008
+SO - Journal of Structural Engineering 2014-11-01 140(11): 04014084
+AB - Steel-concrete composite beams are currently designed against shear by neglecting the contributions of the concrete slab and composite action, while the moment-shear interaction is not addressed in current structural codes of practice. This paper presents an experimental and numerical study on the shear strength and moment-shear interaction in simply-supported steel-concrete composite beams. Fourteen composite beams and one steel beam were tested under combined bending and shear. The effects of partial shear connection and shear reinforcement in the slab were also studied. A nonlinear finite element model was developed and found capable of accurately predicting the behavior of the composite beams. Extensive parametric studies were then conducted using the validated numerical model. The results allowed for the derivation of a moment-shear interaction law for composite beams and highlighted the high degree of conservatism in current structural specifications. It is shown that both the concrete slab and the composite action contribute significantly to the shear strength of a composite section and that the main factors that influence the shear capacity of a composite beam are the slab thickness and the degree of shear connection. Based on the experimental and numerical results, a design model is proposed for a more efficient design of compact composite beams in regions where the acting shear is high.
+
+
+    
+        AU - F. Y. Xu
+    
+        AU - X. Y. Ying
+    
+        AU - Z. Zhang
+    
+
+TI - Three-Degree-of-Freedom Coupled Numerical Technique for Extracting 18 Aerodynamic Derivatives of Bridge Decks
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014085
+VI - 140
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001009 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001009
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001009
+SO - Journal of Structural Engineering 2014-11-01 140(11): 04014085
+AB - A three-degrees of freedom (3-DOF) coupled numerical simulation technique for synchronously extracting 18 aerodynamic derivatives of bridge decks is proposed and evaluated in this study. Computations are performed with a finite volume unstructured computational flow dynamics (CFD) solver using two-dimensional (2D) hybrid meshes with fine near-wall resolution. The accuracy of the numerical model is verified by identifying the aerodynamic derivatives of one thin plate section with theoretical solutions. Further, for two typical deck sections (streamlined and bluff) of two long-span bridges, the extracted 18 aerodynamic derivatives from both coupled and uncoupled techniques are compared. The results showed good agreement with the experimental results. The proposed 3-DOF coupled method can provide almost the same level of accuracy as the 1-DOF method and saves about 67% of the computation time. The appropriateness of the linear superposition theorem for the aeroelastic forces generated by different motions (single and coupled mode) is examined, and found that there are significant differences in both aerostatic and aeroelastic forces. Various high-order aeroelastic force components are successfully captured by the newly presented coupled numerical simulation, and the aerodynamic derivatives are proved to be immune to the high-order components mathematically. This knowledge is essential for a thorough evaluation of aerodynamic derivatives identification accuracy. The proposed technique and the analytical viewpoints presented in this paper may serve as the building block for developing new numerical tools and analytical frameworks for rapid and accurate evaluation of aerodynamic derivatives, and the response of long-span flexible bridges to wind excitation.
+
+
+    
+        AU - Yue Wang
+    
+        AU - David V. Rosowsky
+    
+
+TI - Effects of Earthquake Ground Motion Selection and Scaling Method on Performance-Based Engineering of Wood-Frame Structures
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014086
+VI - 140
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001016 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001016
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001016
+SO - Journal of Structural Engineering 2014-11-01 140(11): 04014086
+AB - This paper examines the effects of procedures for both ground motion record selection and scaling on performance-based engineering tools underlying emerging seismic design procedures for engineered wood-frame structures. Specifically, the effects of record selection and scaling on the distribution of peak interstory drift and seismic fragilities are investigated analytically considering three midrise archetype structures that were considered as part of two seismic performance projects. The results provide important information on the sensitivity of response distributions and fragilities to choices of record selection and scaling procedures that can inform evolving performance-based engineering procedures for both seismic design and assessment of wood-frame structures.
+
+
+    
+        AU - George Vasdravellis
+    
+        AU - Theodore L. Karavasilis
+    
+        AU - Brian Uy
+    
+
+TI - Design Rules, Experimental Evaluation, and Fracture Models for High-Strength and Stainless-Steel Hourglass Shape Energy Dissipation Devices
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014087
+VI - 140
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001014 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001014
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001014
+SO - Journal of Structural Engineering 2014-11-01 140(11): 04014087
+AB - Steel yielding hysteretic devices provide a reliable way to increase the energy dissipation capacity of structures under seismic loading. Steel cylindrical pins with hourglass shape bending parts (called web hourglass shape pins—WHPs) have been recently used as the energy dissipation system of posttensioned connections for self-centering steel moment-resisting frames. This work evaluates the cyclic behavior of WHPs made of high-strength steel and two grades of stainless steel, i.e.,&nbsp;austenitic grade 304 and duplex. Design rules for WHPs are established using principles of mechanics. Twenty-six tests using different cyclic loading protocols and different WHP geometries were conducted. The tests showed that the WHPs have stable hysteretic behavior and high fracture capacity. WHPs made of duplex stainless steel have the most favorable and predictable performance for seismic applications. Two micromechanics-based fracture models, i.e.,&nbsp;the void growth model and the stress-modified critical strain model, were calibrated and their parameters are provided for high-strength steel and the two types of stainless steel. The ability of the cyclic void growth model to predict fracture in WHPs under cyclic loading is also evaluated.
+
+
+    
+        AU - Bin Cheng
+    
+        AU - Qin Qian
+    
+        AU - Xiao-Ling Zhao
+    
+
+TI - Tests to Determine Stress Concentration Factors for Square Bird-Beak SHS Joints under Chord and Brace Axial Forces
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014088
+VI - 140
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001095 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001095
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001095
+SO - Journal of Structural Engineering 2014-11-01 140(11): 04014088
+AB - Bird-beak joints are a type of welded square hollow section (SHS) joint, the static strength of which is higher than that of conventional joints. Experimental analyses were conducted on the stress concentration factors (SCFs) of square bird-beak joints to obtain more information regarding their fatigue behavior. Twelve specimens, i.e.,&nbsp;three conventional joints and nine square bird-beak joints, are separately tested by considering chord and brace axial force load cases. Both conventional and square bird-beak joints tested have a T-shape and are simply supported at their chord ends. Elastic strain distributions near the crown and saddle areas are measured, and strain concentration factors (SNCFs) at potential hot spots are calculated using an extrapolation approach. Quadratic extrapolation is suggested for the square bird-beak joints because linear extrapolation may underestimate SNCFs by up to 35%. Furthermore, critical locations are identified for square bird-beak joints subjected to chord and brace axial forces. A comparison indicates that the square bird-beak joints can produce lower stress concentration factors than the conventional or the diamond bird-beak joints with identical nondimensional parameters, especially when brace-to-chord width ratios are relatively small.
+
+
+    
+        AU - Zhao-Qiang Wang
+    
+        AU - Jin-Cheng Zhao
+    
+
+TI - Restrained Torsion of Thin-Walled Beams
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014089
+VI - 140
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001010 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001010
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001010
+SO - Journal of Structural Engineering 2014-11-01 140(11): 04014089
+AB - A first-order torsion formulation for closed thin-walled (CTW) beam subjected to restrained torsion is developed to consider the warping deformation and restrained shear stresses on cross section and their effect on the behavior of thin-walled (TW) beam. The total torque on closed cross section in the current formulation consists of four component torques. The expressions of various torques and corresponding shear stresses are given. To account for the distribution of true restrained shear stress due to restrained shear rotation in TW cross section, torsion shear coefficient is proposed for CTW beam. Like the transverse shear coefficient in Timoshenko beam theory, the torsion shear coefficient lies at the heart of the first-order torsion theory. The new governing equations of restrained torsion of CTW beam are obtained, which have obvious physical meaning and is easy to be used in engineering and can also be used to solve the torsion problem of open thin-walled beam. The initial parameter method is developed so as to obtain the analytical solution effectively. To demonstrate the accuracy and applicability of the present theory, numerical and closed-form results are compared with those of some other available method. The effects of restrained shear stress on the behavior of open and CTW beams are investigated and verified.
+
+
+    
+        AU - V. Valamanesh
+    
+        AU - A. T. Myers
+    
+
+TI - Aerodynamic Damping and Seismic Response of Horizontal Axis Wind Turbine Towers
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014090
+VI - 140
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001018 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001018
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001018
+SO - Journal of Structural Engineering 2014-11-01 140(11): 04014090
+AB - Aerodynamic damping has an important effect on the seismic response of horizontal axis wind turbines (HAWTs). Some researchers have estimated that aerodynamic damping in operational HAWTs is ∼5% of critical in the fore-aft direction (i.e.,&nbsp;perpendicular to the rotor and parallel to the prevailing wind). In most recent studies, dynamic analyses of HAWT towers under seismic loads have neglected aerodynamic damping, and this assumption has significant implications in the predicted seismic response. This paper presents a closed-form solution for the aerodynamic damping of HAWTs responding dynamically in the fore-aft and side-to-side directions. The formulation is intended as a convenient method for structural earthquake engineers to include the effect of aerodynamic damping in the seismic analysis of HAWTs. The formulation is based on blade element momentum theory and is simplified by assuming a rigid rotor subjected to a steady and uniform wind oriented perpendicular to the rotor plane. This paper examines the impact of these simplifying assumptions with an analysis of the 1.5-MW baseline HAWT developed by the National Renewable Energy Laboratory (NREL). The analysis compares predictions from this formulation with those from FAST, an open-source program developed by NREL, and the comparison shows a reasonable correlation. Finally, the influence of aerodynamic damping on the seismic response of a HAWT is demonstrated for a dynamic model, and the practical implications of the results are discussed.
+
+
+    
+        AU - Dae Kun Kwon
+    
+        AU - Ahsan Kareem
+    
+
+TI - Revisiting Gust Averaging Time and Gust Effect Factor in ASCE 7
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 06014004
+VI - 140
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001102 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001102
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001102
+SO - Journal of Structural Engineering 2014-11-01 140(11): 06014004
+AB - A peak gust–based wind map was first introduced in ASCE 7-95 to replace the fastest mile wind speed used in earlier versions of the ASCE 7 standard based on wind records using the National Weather Service (NWS) F420C cup anemometer/chart recording system. The peak gust in ASCE 7-95 was considered to be of 2–3&nbsp;s duration and was referred to as a 3-s gust in the standard. This may imply that an instantaneous gust speed is recorded during the referenced time period, and thus it is not equivalent to the commonly used moving average time. The formulation of the gust-effect factor in ASCE 7 has implicitly utilized a 3-s moving average assumption, which may introduce an inconsistency in gust averaging time between the basic wind speed and the gust-effect factor. This calls for a careful examination in this context of the relationship between gust duration and moving average time to seek consistency and transparency in the formulation of the ASCE 7 standard. In an effort to clarify the gust averaging time, this study firstly investigates the response characteristics of the NWS F420C anemometer/recording system and then identifies an equivalent moving average time. Since the gust effect factor formulation is closely related to the gust averaging time, which is also tied to the gust velocity factor associated with the relationship between the peak and mean wind velocities, the formulation is revisited to evaluate the effect of average time. A modified gust effect factor corresponding to the established equivalent moving average time is established. In addition, the potential impact on the wind profile corresponding to the equivalent averaging time is discussed. Finally, the effects of the gust averaging time on the alongwind response of tall buildings are examined from survivability and serviceability design perspectives.
+
+

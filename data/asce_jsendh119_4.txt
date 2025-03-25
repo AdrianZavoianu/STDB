@@ -1,0 +1,410 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Kazuhiko Kawashima
+    
+        AU - Shigeki Unjoh
+    
+        AU - Meguru Tunomoto
+    
+
+TI - Estimation of Damping Ratio of Cable‐Stayed Bridges for Seismic Design
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1015-1031
+VI - 119
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1993)119:4(1015) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281015%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281015%29
+SO - Journal of Structural Engineering 1993-04-01 119(4): 1015-1031
+AB - This paper proposes a method to evaluate the structural damping ratio of cable‐stayed bridges, based on energy dissipation. As demonstrated by many field forced‐excitation tests, the damping ratio of cable‐stayed bridges varies from bridge to bridge. This is due to the fact that the energy mechanisms predominant in the bridges studied are different. Therefore an analytical approach capable of evaluating the damping ratio from structural components is desirable. By dividing a cable‐stayed bridge into several substructures in which the energy dissipation mechanism can be regarded as the same, it is proposed for each substructure to evaluate the energy dissipation function, which relates the amount of energy dissipation, with either the strain energy or the displacement at specific points in the substructures. By evaluating the overall energy dissipation and strain energy in the whole bridge, the damping ratio for the desired mode shape can be obtained. The proposed method is applied to a cable‐stayed bridge model. Dependence of the damping ratio on oscillation amplitude and cable type of the bridge model is predicted with reasonable accuracy by the proposed method.
+
+
+    
+        AU - Alex Coull
+    
+        AU - A. F. Abdul Wahab
+    
+
+TI - Lateral Load Distribution in Asymmetrical Tall Building Structures
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1032-1047
+VI - 119
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1993)119:4(1032) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281032%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281032%29
+SO - Journal of Structural Engineering 1993-04-01 119(4): 1032-1047
+AB - An approximate method is presented for the analysis of the distribution of lateral forces among the components of a three‐dimensional tall building structure that consists of assemblies of shear walls, coupled walls, and rigidly jointed frames, subjected to both bending and torsion. The load distribution on each element is assumed to be represented sufficiently accurately by a polynomial in the height coordinate, together with a concentrated interactive force at the top. The presence of the latter is essential for obtaining accurate results as simply as possible. A set of flexibility influence coefficients, relating the deflection at any level to any particular load component, is established for each element using continuum techniques. Use of the equilibrium and compatibility equations at any desired set of reference levels enables the load distribution on each element to be determined. Good results appear to be achieved for regular structures by using no more than about four reference levels, requiring the use of matrices of no more than order 4 in the analysis.
+
+
+    
+        AU - Chee‐Kiong Chin
+    
+        AU - Faris G. A. Al‐Bermani
+    
+        AU - Sritawat Kitipornchai
+    
+
+TI - Finite Element Method for Buckling Analysis of Plate Structures
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1048-1068
+VI - 119
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1993)119:4(1048) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281048%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281048%29
+SO - Journal of Structural Engineering 1993-04-01 119(4): 1048-1068
+AB - A finite element method using thin‐plate elements is presented. The method is capable of predicting the buckling capacity of arbitrarily shaped thin‐walled structural members under any general load and boundary conditions. The linear and geometric stiffness matrices for the thin‐plate element are derived explicitly based on the principle of minimum total potential energy, thereby eliminating the need for numerical integration. The proposed plate element contains 30 degrees of freedom (dof): 14 dof for the in‐plane (membrane) action and 16 dof for the out‐of‐plane (bending) action. Several numerical examples of thin‐walled structural members involving local, distortional, and flexural‐torsional buckling failure modes are presented to demonstrate the accuracy, efficiency, and versatility of the method.
+
+
+    
+        AU - Ib Enevoldsen
+    
+        AU - John D. Sørensen
+    
+
+TI - Reliability‐Based Optimization of Series Systems of Parallel Systems
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1069-1084
+VI - 119
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1993)119:4(1069) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281069%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281069%29
+SO - Journal of Structural Engineering 1993-04-01 119(4): 1069-1084
+AB - Reliability‐based design of structural systems is considered. In particular, systems where the reliability model is a series system of parallel systems are treated. A sensitivity analysis for this class of problems is presented. Optimization problems with series systems of parallel systems are formulated. Direct and sequential optimization procedures to solve the optimization problems are developed. Four solution approaches are suggested and tested. The approaches include: (1) A direct approach including semianalytical sensitivities; (2) a direct approach including approximate sensitivities; (3) a sequential formulation based on optimality criteria; and (4) a sequential formulation including a new so‐called bounds iteration method (BIM). Numerical tests indicate that the sequential technique including the BIM is particularly fast and stable. The BIM is not only effective in reliability‐based optimization of series systems of parallel systems, but it is also efficient in reliability‐based optimization of series systems in general.
+
+
+    
+        AU - Deric John Oehlers
+    
+
+TI - Composite Profiled Beams
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1085-1100
+VI - 119
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1993)119:4(1085) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281085%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281085%29
+SO - Journal of Structural Engineering 1993-04-01 119(4): 1085-1100
+AB - It is now common practice to use cold‐formed steel decks consisting of profiled sheets both as permanent formwork for the support of the soffits of reinforced concrete slabs and also as part of the tension steel in the composite profiled slab that is formed after the concrete has hardened. The behavior of steel profiled sheets as permanent formwork to the sides of reinforced concrete beams is described in this paper. Experimental tests on large‐scale beams show that the addition of profiled steel sheets to the sides of reinforced concrete beams can substantially increase both their flexural and shear strengths without loss of ductility and that this system is not prone to shear bond failure at the profiled‐sheet/concrete‐beam interface. Furthermore, theoretical studies suggest that the addition of side profiled sheets will substantially reduce long‐term deflections due to creep and shrinkage of the concrete and allow increases in the span/depth ratio of about 20%.
+
+
+    
+        AU - Zdeněk P. Bažant
+    
+        AU - Luigi Cedolin
+    
+
+TI - Why Direct Tension Test Specimens Break Flexing to the Side
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1101-1113
+VI - 119
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1993)119:4(1101) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281101%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281101%29
+SO - Journal of Structural Engineering 1993-04-01 119(4): 1101-1113
+AB - Contrary to the traditional view, unnotched direct tension test specimens of quasi‐brittle materials that exhibit post‐peak strain softening do not deform symmetrically. After passing the peak load, the equilibrium path bifurcates and the secondary postbifurcation branch represents flexing to the side. The bifurcation is shown to be analogous to Shanley's bifurcation in elastoplastic columns. According to the thermodynamic criterion of stable path, the flexing to one side must occur even if the geometry is perfect and if the straightening effect of the moment of the axial force about the centroid of the deflected cross section is taken into account. The lateral flexing favors failure of the specimen at midlength. The phenomenon (which is similar to the recently discovered behavior of notched tensile fracture specimens) is first illustrated using a simple model in which the specimen consists of two rigid bars of unequal lengths, joined by a strain‐softening link. It is shown that flexing to the side is retarded if the attachments to the loading machine exert a sufficient restraint against rotation. The analysis is then extended to a specimen consisting of two unloading elastic beams joined by a short strain‐softening segment, and similar conclusions are reached. The maximum load in the unnotched direct‐tension test gives the material strength limit, but the postpeak load‐deflection response cannot yield the strain‐softening material properties and energy‐absorption capability except when sophisticated stability analysis is made and the size of the strain‐softening zone is known a priori.
+
+
+    
+        AU - Anibal A. Manzelli
+    
+        AU - Issam E. Harik
+    
+
+TI - Approximate Moment‐Curvature Relationships for Slender Columns
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1114-1132
+VI - 119
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1993)119:4(1114) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281114%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281114%29
+SO - Journal of Structural Engineering 1993-04-01 119(4): 1114-1132
+AB - This paper presents the derivation of an approximate second‐order method for the analysis and design of slender cantilever compression members. The method is based on the generation of equivalent linear representations for the nonlinear moment‐curvature (M‐Φ) relationships for the column cross section. The linear M‐Φ equations are derived in such a way that they closely predict the nominal strength of the slender column for a prescribed axial load. The derivation is based on the guidelines of the German Code and Heft 220—which, unlike the moment magnifier method, takes into account the influence of the axial load on the stiffness of the column. The results of the proposed method are in excellent agreement with experimental data and predictions from sophisticated computer programs.
+
+
+    
+        AU - Anibal A. Manzelli
+    
+        AU - I. E. Harik
+    
+
+TI - Prismatic and Nonprismatic Slender Columns and Bridge Piers
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1133-1149
+VI - 119
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1993)119:4(1133) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281133%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281133%29
+SO - Journal of Structural Engineering 1993-04-01 119(4): 1133-1149
+AB - An approximate second‐order hand‐calculation technique is presented for the analysis and design of cantilever compression members. Prismatic members with constant or nonconstant reinforcement, and nonprismatic members can be treated by this method. A linear approximation of the nonlinear moment‐curvature relationship is derived. The approximation accounts for the influence of the axial load on the stiffness of the column. Analysis and design equations are generated, and their formulation takes into account the effects of creep, foundation rotation, and out‐of‐plumbness. Design tables for different cross‐section and material properties are presented. Analysis and design examples are presented for prismatic and nonprismatic columns.
+
+
+    
+        AU - Kinh H. Ha
+    
+
+TI - Stiffness Matrix for Exact Solution of Sandwich Beam and Frame Systems
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1150-1167
+VI - 119
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1993)119:4(1150) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281150%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281150%29
+SO - Journal of Structural Engineering 1993-04-01 119(4): 1150-1167
+AB - This paper formulates the stiffness matrix and a procedure for the analysis of a general class of sandwich beam and frame structures subjected to arbitrary loading and boundary conditions. The computed solutions for both deflections and stresses are exact in the sense that they satisfy the governing differential equation, all boundary conditions, and interelement compatibility. Explicit expressions are given for the formulation of the stiffness matrix, and of the fixedend forces for common loading conditions. The theory is applicable to sandwich construction of both thick and thin facings, with or without edge reinforcement. Preliminary study of the behavior of sandwich beams using the developed theory shows that the Saint Venant principle may not apply to sandwich beams regarding the effects of applied end moments. Restraint against shear deformations will generally reduce deflections and shear stresses in the core, but tend to increase stresses in the facings. Quantitative assessment of these and other factors can be easily carried out with the present theory.
+
+
+    
+        AU - Yoshiaki Goto
+    
+        AU - Makoto Obata
+    
+        AU - Hirofumi Maeno
+    
+        AU - Yoichi Kobayashi
+    
+
+TI - Failure Mechanism of New Bond‐Type Anchor Bolt Subject to Tension
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1168-1187
+VI - 119
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1993)119:4(1168) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281168%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281168%29
+SO - Journal of Structural Engineering 1993-04-01 119(4): 1168-1187
+AB - The objective of this study is to investigate the failure mechanism of a new bond‐type anchor bolt under tensile force so that a design method may be established. A conventional headed anchor bolt embedded in a concrete footing normally fails by pulling out a stress cone; however, the bond‐type anchor bolt exhibits a complex failure mode, here referred to as a mixed bond‐cone failure. To date, the theoretical aspects of this failure mechanism have not been established. With the needs of design application in mind, an analytical model to predict the ultimate strength of the bond‐type anchor bolt is presented. Experimental data confirm that this model can be used with acceptable accuracy to assess the ultimate strength and the failure mode of the bond‐type anchorage system.
+
+
+    
+        AU - Mehmet Çelebi
+    
+
+TI - Seismic Response of Eccentrically Braced Tall Building
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1188-1205
+VI - 119
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1993)119:4(1188) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281188%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281188%29
+SO - Journal of Structural Engineering 1993-04-01 119(4): 1188-1205
+AB - Spectral analyses and system identification techniques are used to analyze a set of acceleration response records obtained during the October 17, 1989, Loma Prieta earthquake (Ms=7.1) from the 47‐story, moment‐resisting framed and eccentrically braced Embarcadero Building (EMB), located in San Francisco. The EMB was constructed in 1979 based on the 1976 Uniform Building Code requirements and a design response spectra defined by two levels of earthquake  performances. The EMB is in the Lower Market area of San Francisco, which is of great interest to the engineering community because of the area's soft‐soil  characteristics that amplify ground motions originating at long distances, and because the Embarcadero Freeway (within 100 m of the building) suffered extensive damage during the earthquake and was razed in 1991. The first modal frequencies of the building at approximately 0.19 Hz (north‐south) and 0.16 Hz (east‐west) are identified. The torsional response and rocking motions of the building are insignificant.  Discontinuity of stiffness and mass at the 40th‐floor level causes significant response issues above that floor such as excessive drift ratios.
+
+
+    
+        AU - A. Najmi
+    
+        AU - A. Tayem
+    
+
+TI - Uniaxial Bending of Columns
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1206-1221
+VI - 119
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1993)119:4(1206) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281206%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281206%29
+SO - Journal of Structural Engineering 1993-04-01 119(4): 1206-1221
+AB - An alternative technique is presented for the design and analysis of uniaxially loaded, reinforced‐concrete columns. The technique is based on a simple transformation concept in which the components of the cross section are transformed  into an equivalent homogeneous elastic material. The modulus of elasticity of concrete as defined by the ACI code is used as the base for transformation. The pertinent elastic properties of the transformed cross section are evaluated and thereafter the classical bending theory is applied. Furthermore, an interaction formula  that could be used to assess the performance of uniaxially loaded column is presented. Also, the strength‐reduction factor is reevaluated with reference to the available ductility expressed by the neutral‐axis‐to‐depth ratio. The results obtained  using the proposed technique are in total agreement with those obtained using the conventional ACI code approach. A flowchart showing the iterative process is presented.
+
+
+    
+        AU - C. S. Tsai
+    
+        AU - H. H. Lee
+    
+
+TI - Applications of Viscoelastic Dampers to High‐Rise Buildings
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1222-1233
+VI - 119
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1993)119:4(1222) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281222%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281222%29
+SO - Journal of Structural Engineering 1993-04-01 119(4): 1222-1233
+AB - In this paper, the features of energy‐absorbing capacities of the viscoelastic damper and its effect on the structure during earthquakes are investigated. To clarify the behavior of the structure with added viscoelastic dampers, a new analytical model for the viscoelastic damper taking into consideration the earthquakelike loading and the temperature effect, in good agreement with experimental results, and an advanced finite element formulation for the viscoelastic damper are developed. The proposed method could be implemented easily in the finite element program. In this study the behavior of a 10‐story building equipped with viscoelastic dampers is examined while it is subjected to earthquake ground motions. Both analytical and experimental results show that the energy‐absorbing capacity of the viscoelastic damper decreases with increasing the ambient temperature. Numerical examples show that the responses, including displacements and stresses, of the high‐rise building to earthquake loadings are significantly reduced while viscoelastic dampers are added to it.
+
+
+    
+        AU - Jane L. Tiedeman
+    
+        AU - Pedro Albrecht
+    
+        AU - Lloyd R. Cayes
+    
+
+TI - Behavior of Two‐Span Continuous Bridge under Truck Axle Loading
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1234-1250
+VI - 119
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1993)119:4(1234) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281234%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281234%29
+SO - Journal of Structural Engineering 1993-04-01 119(4): 1234-1250
+AB - Reactions, moments, displacements, and rotations due to axle loading in a two‐span continuous, composite‐steel girder test bridge were analyzed and compared with those calculated by finite element, American Association of State Highway and Transportation Officials (AASHTO), and the National Cooperative Highway Research Program (NCHRP) analysis methods. The simulated truck axle loads were applied on the test bridge on one, two, and three lanes to maximize positive moment at 0.4 L and negative moment at 1.0 L. The results of the study show that finite element analysis most accurately predicted the bridge behavior under the truck axle loading. The AASHTO and NCHRP analysis methods gave inaccurate results, since the loads were applied away from the supports.
+
+
+    
+        AU - Frank J. Heger
+    
+
+TI - Public Safety—Is It Compromised by New LRFD Design Standards?
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1251-1264
+VI - 119
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1993)119:4(1251) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281251%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281251%29
+SO - Journal of Structural Engineering 1993-04-01 119(4): 1251-1264
+AB - Factors of safety for flexural members designed using the ASCE 7‐88 and American Institute of Steel Construction (AISC) LRFD 1986 standards are investigated and found to represent a significant reduction in reliability compared to previous AISC allowable stress methods for typical flexural members. This contradicts statements in the commentary of AISC LRFD 1986, which states that the reliability index for typical members has not been reduced. Also, experience from structural failure investigations and peer reviews shows that actual dead‐load variations are not consistent with the 1.2 dead‐load factor used in these standards. Further development of consistent load and resistance factors by a joint committee of practicing structural engineers under auspices of ASCE, AISC, American Concrete Institute (ACI), and American Institute of Timber Construction (AITC) is recommended. Suggestions are also made for interim load and resistance factors that maintain the reliability level inherent in current working stress design in steel.
+
+
+    
+        AU - Ulf Arne Girhammar
+    
+        AU - Vijaya K. A. Gopu
+    
+
+TI - Composite Beam‐Columns with Interlayer Slip—Exact Analysis
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1265-1282
+VI - 119
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1993)119:4(1265) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281265%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281265%29
+SO - Journal of Structural Engineering 1993-04-01 119(4): 1265-1282
+AB - Exact first‐ and second‐order analyses for composite beam‐columns with partial interaction and subjected to transverse and axial loading are presented. General closed‐form solutions for the displacement functions and the various actions in the composite element are presented for the first‐ and second‐order cases. In this paper, the axial loads acting on the composite elements are assumed to be proportioned in accordance with their relative axial stiffnesses so that their resultant acts at the centroid of the transformed cross‐sectional area of the fully composite member. Resultant axial loads active at the centroid ensure that, in the first‐order analysis, the composite elements are subjected to uniform axial strain through the depth of the member and that no bending is induced by the resultant axial load. The analysis procedures are applied to simply supported beam‐columns subjected to an axial force and a uniformly distributed transverse load to obtain closed‐form solutions for the internal actions and displacements. The difference in the first‐ and second‐order analysis approaches is illustrated by applying the solutions to a given beam‐column problem.
+
+
+    
+        AU - H. C. Foo
+    
+
+TI - Experimental Study of Timber Trusses and Joints
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1283-1296
+VI - 119
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1993)119:4(1283) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281283%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281283%29
+SO - Journal of Structural Engineering 1993-04-01 119(4): 1283-1296
+AB - In situ testing of a timber Warren truss building and laboratory testing of four truss joints typical of those found in a Warren truss building are carried out over a span of five years. The overall objective of this research program is to investigate the behavior of many aging and deteriorating timber Warren truss buildings built in early 1940. Field testing involve loading 16 full size timber trusses to failure to determine their load‐carrying capacities and the effects of joint reinforcement on the behavior of the trusses. Laboratory testings are performed on the four biggest joints of a Warren truss in several conditions: cut from an existing truss, manufactured with new wood, unreinforced condition, reinforced condition using gusset plates, and reinforced condition by means of prestressing. This paper presents an overview of the research program and some of the findings regarding the effectiveness of the joint strengthening schemes considered.
+
+
+    
+        AU - Mitsuru Ito
+    
+        AU - Theodore V. Galambos
+    
+
+TI - Minimum‐Weight Design of Continuous Composite Girders
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1297-1311
+VI - 119
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1993)119:4(1297) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281297%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281297%29
+SO - Journal of Structural Engineering 1993-04-01 119(4): 1297-1311
+AB - Minimum‐weight plastic design of continuous composite girders with braced compact sections, as allowed in the autostress design procedure, was investigated according to American Association of State Highway and Transportation Officials (AASHTO) specifications. The required plastic‐moment distribution of continuous symmetrical two‐span composite girders is determined for AASHTO HS20–44 truck and dead loading. The required ratio of positive‐ to negative‐plastic‐moment capacity leading to girders with minimum structural weight is developed. The optimum I‐shaped sections that lead to minimum structural weight for the given required plastic moments are presented for both the positive‐ and negative‐moment regions of the composite girders. An elastic‐plastic‐softening type of moment‐curvature relationship is proposed for the negative‐moment region of continuous composite girders with compact sections. This curve is compared with experimental results of composite girders with various web and flange slenderness ratios. A numerical example is worked out for a given design condition. The structural weights were compared with composite girders consisting of uniform sections.
+
+
+    
+        AU - H. B. Day
+    
+        AU - G. S. Stranaghan
+    
+
+TI - Discussion of &#x201c;<i>Shaking&#x2010;Table Study of Base Isolation for Masonry Buildings</i>&#x201d; by T. J. Paulson, D. P. Abrams, and R. L. Mayes (November, 1991, Vol. 117, No. 11)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1314-1316
+VI - 119
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1993)119:4(1314) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281314%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281314%29
+SO - Journal of Structural Engineering 1993-04-01 119(4): 1314-1316
+
+
+    
+        AU - T. J. Paulson
+    
+        AU - D. P. Abrams
+    
+        AU - R. L. Mayes
+    
+
+TI - Closure to &#x201c;<i>Shaking&#x2010;Table Study of Base Isolation for Masonry Buildings</i>&#x201d; by T. J. Paulson, D. P. Abrams, and R. L. Mayes (November, 1991, Vol. 117, No. 11)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1316-1317
+VI - 119
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1993)119:4(1316) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281316%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A4%281316%29
+SO - Journal of Structural Engineering 1993-04-01 119(4): 1316-1317
+
+

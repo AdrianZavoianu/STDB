@@ -1,0 +1,450 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Kyoungyeon Lee
+    
+        AU - Georgios Tsampras
+    
+        AU - C. Franco Mayorga
+    
+
+TI - Reinforced Concrete Core Wall Buildings with Modified Friction-Based Force-Limiting Connections: Connection Design Considerations and 3D Response to Bidirectional Ground Motions
+PT - Journal Article
+DP - 2025
+TA - Journal of Structural Engineering
+PG - 04024203
+VI - 151
+IP - 2
+AID - 10.1061/JSENDH.STENG-13609 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13609
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13609
+SO - Journal of Structural Engineering 2025-02-01 151(2): 04024203
+AB - This paper discusses the seismic response of a three-dimensional (3D) 18-story reinforced concrete core wall building model with modified friction-based force-limiting connections (Modified FDs) between the floors and reinforced concrete core wall. One set of design parameters that define the predetermined discrete variable friction force-displacement response of the Modified FDs was determined using Pareto front analysis. The Pareto front analysis utilized results from systematic parametric numerical earthquake simulations of two-dimensional (2D) building models and results from a practical force-based design method for force-limiting connections. A 3D model of an 18-story reinforced concrete core wall building was developed with experimentally calibrated wall piers and the Modified FDs considering the determined set of design parameters. Thirteen design-level far-field bidirectional ground motions were considered as seismic excitations. The use of the Modified FDs demonstrates a reduction in the peak torsional moment and base strain responses in the wall piers. A statistical analysis indicates a reasonable range of relative displacement between the floors and the wall piers. The use of the Modified FDs does not increase the expected postearthquake residual drift responses in the building system. The peak floor acceleration and base shear responses are limited, attributed to the controlled inelastic shear-dominant higher-mode responses enabled by the Modified FDs.
+
+
+    
+        AU - Amin Iranpour
+    
+        AU - Magdi Mohareb
+    
+
+TI - Finite-Element Formulation for Lateral Torsional Buckling of Monosymmetric Beams Strengthened with Cover Plates
+PT - Journal Article
+DP - 2025
+TA - Journal of Structural Engineering
+PG - 04024204
+VI - 151
+IP - 2
+AID - 10.1061/JSENDH.STENG-13255 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13255
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13255
+SO - Journal of Structural Engineering 2025-02-01 151(2): 04024204
+AB - The present study develops a finite element (FE) formulation based on the kinematics of thin-walled beam theory to determine the elastic lateral torsional buckling capacity of singly symmetric beams strengthened with cover plate(s) while under loading. The formulation captures the effects of prestrengthening load and prebuckling curvature. Comparative analyses with shell models revealed that the proposed solutions reliably predict the poststrengthening critical moments when cross-section distortion is suppressed. Practical recommendations for suppressing distortion are provided. The FE model developed is then used to develop a systematic parametric study to assess the effects of load height, magnitude of prestrengthening loads, flange dimensions, strengthening cover plate dimensions, beam unbraced length, loading patterns, and boundary conditions on the total elastic critical moment capacity. This study examines the loading conditions under which the magnitude of prestrengthening loads significantly influences the predicted total critical moments.
+
+
+    
+        AU - Wenkang Zuo
+    
+        AU - Man-Tai Chen
+    
+        AU - Ou Zhao
+    
+        AU - Leroy Gardner
+    
+
+TI - Testing of Wire Arc Additively Manufactured Duplex Stainless Steel Double-Lap Shear Bolted Connections
+PT - Journal Article
+DP - 2025
+TA - Journal of Structural Engineering
+PG - 04024205
+VI - 151
+IP - 2
+AID - 10.1061/JSENDH.STENG-13999 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13999
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13999
+SO - Journal of Structural Engineering 2025-02-01 151(2): 04024205
+AB - The behavior and design of duplex stainless steel double-lap shear bolted connections produced by wire arc additive manufacturing (WAAM) are explored in this paper. A thorough experimental study carried out on 45 WAAM duplex stainless steel bolted connections with different bolt hole positions, surface conditions (milled or unmilled), and loading orientations relative to the printing direction is first presented. Details are described of the manufacturing process, which featured ER2209 feedstock wire, specimen geometries, which were determined via three-dimensional (3D) laser scanning, and testing of the bolted connection specimens. The failure modes, load-displacement responses, as well as strengths with and without consideration of the bolt hole deformation, are reported. The bolt hole position, rather than the loading orientation or surface condition, was found to have the strongest influence on the behavior of the tested WAAM duplex stainless steel double shear bolted connections. Given the lack of specific design rules for bolted connections between WAAM sheets, the applicability of existing design methods for conventional steel and stainless steel connections has been assessed. The connection test capacities were compared against the strengths predicted using the design expressions set out in three American specifications—AISC 360-22, AISC 370-21, and ASCE 8-22—and in the literature. It was found that existing design methods were generally able to predict the strengths of WAAM duplex stainless steel double shear bolted connections well, both with and without consideration of bolt hole deformation.
+
+
+    
+        AU - Ahmed Akl
+    
+        AU - Mohamed Ezzeldin
+    
+
+TI - Seismic Hybrid Testing of Two-Story Low Aspect Ratio RC Shear Walls with Different Configurations in Nuclear Facilities
+PT - Journal Article
+DP - 2025
+TA - Journal of Structural Engineering
+PG - 04024206
+VI - 151
+IP - 2
+AID - 10.1061/JSENDH.STENG-13588 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13588
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13588
+SO - Journal of Structural Engineering 2025-02-01 151(2): 04024206
+AB - Low-aspect-ratio reinforced concrete (RC) shear walls are widely used as a seismic force-resisting system in containment and safety-related nuclear facilities. However, there has been limited research to date that experimentally quantified the performance of such nuclear RC shear walls when subjected to different ground motion levels. This lack of study is mainly attributed to the significant challenges that most laboratories encounter when such walls are tested, especially in a multistory setting, such as specimen sizes, actuator capacities, space limitations, and the ability to simulate the large mass associated with nuclear facilities. To address this, the current study experimentally investigates the seismic performance of two two-story low-aspect-ratio nuclear RC shear walls with different configurations (i.e.,&nbsp;namely, walls W1-R and W2-B) using the hybrid simulation testing technique. Wall W1-R was designed to have a rectangular cross-section, while wall W2-B has boundary elements with increased thicknesses at the wall ends. Both walls were designed to have similar shear and flexural capacities to allow for direct comparisons. The walls were then tested under different ground motion levels, ranging from operational to design and beyond-design earthquake levels using a developed hybrid simulation framework. The experimental results of the test walls are presented in terms of their force-displacement responses, lateral and rotational stiffnesses, ductility capacities, rebar strains, crack patterns, and damage sequences. The results show that both walls exhibited similar force and moment capacities, crack patterns, and stiffness degradation trends. However, W2-B showed lower displacements and interstory drifts than those of W1-R during their design basis earthquake levels. The former wall had also higher ultimate lateral and rotational displacements than the latter wall at their beyond-design basis earthquake levels, which indicated enhanced ductility capacities when boundary elements were used in W2-B. In addition, the results show discrepancies between the theoretical and experimental lateral and rotational stiffness values, thus highlighting the need for distinct rigidity reduction factors for low-aspect-ratio RC shear walls in future editions of relevant nuclear design standards. The current study enlarges the experimental database pertaining to the seismic performance of low-aspect-ratio RC shear walls with boundary elements to facilitate their wide practical adoption in nuclear facilities.
+
+
+    
+        AU - Ernesto Hernández
+    
+        AU - Ali Amin
+    
+        AU - Alessandro Palermo
+    
+
+TI - Shear Strength of Prestressed Steel Fiber–Reinforced Hollow Core Slabs
+PT - Journal Article
+DP - 2025
+TA - Journal of Structural Engineering
+PG - 04024207
+VI - 151
+IP - 2
+AID - 10.1061/JSENDH.STENG-12783 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12783
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12783
+SO - Journal of Structural Engineering 2025-02-01 151(2): 04024207
+AB - Steel fibers are increasingly recognized for their potential to enhance the shear capacity of prestressed hollow core slabs. However, practical design procedures are necessary to quantify their effectiveness. This study introduces a novel design method that accounts for the interaction between concrete and fiber contributions, considering the failure mode. The methodology adapts shear design provisions from ACI 318-19 and EC2 standards and proposes a simplified approach based on the modified compression field theory (MCFT) for practical application. Moreover, the paper presents a method for estimating the postcracking shear strength of the concrete component. The efficacy and reliability of the proposed methods were assessed using a data set of 193 entries, analyzed through seven statistical metrics. The findings indicate improvements in safety and accuracy. Notably, reductions in demerit point classifications of up to 30% were measured.
+
+
+    
+        AU - Zerun Li
+    
+        AU - Zhengwen Jiang
+    
+        AU - Zhi Fang
+    
+        AU - Quanhao Li
+    
+        AU - Zhiwei Wang
+    
+
+TI - Fire Resistance Performance of the Bond-Type Anchorage System for CFRP Cables
+PT - Journal Article
+DP - 2025
+TA - Journal of Structural Engineering
+PG - 04024208
+VI - 151
+IP - 2
+AID - 10.1061/JSENDH.STENG-13746 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13746
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13746
+SO - Journal of Structural Engineering 2025-02-01 151(2): 04024208
+AB - This study conducted fire resistance tests on bond-type anchorage systems using ultrahigh-performance concrete (UHPC) as a bonding medium for two types of carbon fiber–reinforced polymer (CFRP) cables. The study assessed the impact of the initial pullout load, effective bond length, and temperature–load path on the fire resistance of the CFRP cable–UHPC interface. Based on maximum slippage and the rate of slippage, the criteria for failure were established along with a practical model to predict the fire resistance duration for this interface under fire conditions. Subsequently, the fire resistance of the CFRP cable–UHPC interface was compared with that of the CFRP cable alone to evaluate the performance of the bond-type anchorage system. The results indicated that slip failure at the CFRP cable–UHPC interface was the predominant mode of failure across all tested anchorages. The fire resistance duration and the failure temperature of the CFRP cable–UHPC interface ranged from 8.1 to 40.7&nbsp;min and 136°C to 251°C, respectively, as the initial pullout load ratio decreased from 0.6 to 0.2. The fire resistance performance of the CFRP strand cable–UHPC interface was superior to that of the ribbed CFRP cable–UHPC interface when the initial pullout load ratio varied between 0.4 and 0.6. However, the opposite result was observed when the initial pullout load ratio was 0.2. Introducing an initial pullout load before heating exacerbated the reduction in the load-bearing capacity of the CFRP cable–UHPC interface under fire conditions. The performance of the bond-type anchorage system under fire depended more on the CFRP cable than on the CFRP cable–UHPC interface when the pre-tension load ratio of the cable exceeded 0.15.
+
+
+    
+        AU - David C. Weggel
+    
+        AU - Matthew J. Whelan
+    
+        AU - Jonathan Moss
+    
+        AU - Nabil Rahman
+    
+        AU - Ahmed Khalil
+    
+
+TI - Blast Testing of a Cold-Formed Steel-Framed Building with a Roof Truss System: I. Design, Characterization of Blast Pressures, and System-Level Response
+PT - Journal Article
+DP - 2025
+TA - Journal of Structural Engineering
+PG - 04024209
+VI - 151
+IP - 2
+AID - 10.1061/JSENDH.STENG-13519 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13519
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13519
+SO - Journal of Structural Engineering 2025-02-01 151(2): 04024209
+AB - This paper presents the design and measured response of an instrumented 5.49-m×4.88-m single-story cold-formed steel (CFS)-framed building with CFS gabled roof trusses subjected to open-arena blast testing. Although extensive experimental and numerical research has been conducted on the behavior of CFS stud walls and some limited work has been performed on CFS roof trusses under blast loading, all research conducted to date has been performed on individual components. The experiments described herein document the first tests of a complete CFS-framed building subjected to blast loads. This paper presents the configuration and design of both conventional and hardened aspects of the building specimen, instrumentation for measuring the blast pressure and system-level building responses, and the general test program. System identification results are obtained from experimental modal analysis to document the linear elastic dynamic properties of the constructed building specimen. The response of the building specimen is presented for a blast load with large scaled distance to examine the elastic response and subsequently for a blast load with a small enough scaled distance to cause significant damage to the building. Blast pressures measured across the building walls and windward and leeward sides of the roof, as well as those measured in the free field, are presented to document the blast loading and contribute toward addressing the lack of full-scale experimental blast pressure measurements on gable roofs in the published literature. An established semiempirical procedure is employed to investigate the accuracy of predicting blast pressures across the building using simplified methods and to quantify discrepancies between the measured and predicted blast wave parameters on the leeward side of the roof. The system-level response of the building is then examined and the damage observed following the blast test is documented. The measured response exhibited coupled system-level dynamics that have not been considered in prior studies of CFS components under blast loading. The experiment also highlights the importance of considering the negative phase of the blast pressure when evaluating the response of CFS buildings. Observed damage offers unique insight into various limit states encountered in the building system, including the development of web crippling at the end of studs, which has been previously identified as a potential connection failure mode, but has not been well characterized for CFS stud walls subjected to blast.
+
+
+    
+        AU - Matthew J. Whelan
+    
+        AU - David C. Weggel
+    
+        AU - Jonathan Moss
+    
+        AU - Nabil Rahman
+    
+        AU - Ahmed Khalil
+    
+
+TI - Blast Testing of a Cold-Formed Steel-Framed Building with a Roof Truss System: II. Component-Level Response
+PT - Journal Article
+DP - 2025
+TA - Journal of Structural Engineering
+PG - 04024210
+VI - 151
+IP - 2
+AID - 10.1061/JSENDH.STENG-13520 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13520
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13520
+SO - Journal of Structural Engineering 2025-02-01 151(2): 04024210
+AB - This paper presents the measured responses of components—blast wall, shear walls, deep beam and bottom chord bracing, and a roof truss—of an instrumented full-scale cold-formed steel (CFS)-framed building subjected to open-arena blast testing. The objective of this test program is to provide a rich data set to inform future research, analysis, and design of these building components for structures that may be subjected to blast loads. A companion paper presents the blast loading, system-level responses, and observed damage, while this paper focuses on component-level responses. The behavior of the blast wall was examined through instrumentation of the central stud with linear variable differential transformers (LVDTs), shock accelerometers, and strain gauges. Additionally, load cells installed at several anchors connecting the bottom track of the blast wall to the foundation recorded hold-down forces along the wall developed during the test. In-plane displacement vectors and time histories for points on one of the shear walls were obtained from high-speed video, while a load cell positioned at an anchor at the bottom track of the shear wall was used to investigate hold-down forces at the shear wall. Forces in the bottom chord bracing of the roof diaphragm were studied through strain measurements. Lastly, the behavior of the roof truss was studied using measurements obtained from an array of LVDTs, shock accelerometers, and strain gauges mounted on the central truss. The results and single-degree-of-freedom (SDOF) analyses serve to provide greater insight into component-level responses, interactions between building components and subcomponents, and evidence of component and connection behaviors that have not been previously documented in the published literature for CFS-framed buildings subjected to blast loads. The performance of the building components and supporting SDOF analyses demonstrate significant energy absorbing capacity of conventionally constructed CFS stud walls that exceed established performance criteria in current design standards and offer experimental observations to support future development of performance criteria for CFS shear walls and roof trusses, which currently do not exist.
+
+
+    
+        AU - Zeqiao Luo
+    
+        AU - Yu Shi
+    
+        AU - Xuanyi Xue
+    
+        AU - Honglong Li
+    
+
+TI - Design Recommendations for Web-Opened Titanium-Clad Bimetallic Steel Plate Girders under Patch Loading
+PT - Journal Article
+DP - 2025
+TA - Journal of Structural Engineering
+PG - 04024211
+VI - 151
+IP - 2
+AID - 10.1061/JSENDH.STENG-13901 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13901
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13901
+SO - Journal of Structural Engineering 2025-02-01 151(2): 04024211
+AB - Titanium-clad bimetallic steel (TCBS) is an innovative bimetallic structural steel with excellent corrosion resistance. The ultimate and critical buckling capacities of web-opened TCBS plate girders subjected to patch loading were numerically and experimentally investigated, and design suggestions were derived. An experimental study was carried out to examine the nonlinear resistance of web-opened TCBS plate girders. Because the experimental database of web-opened TCBS plate girders is considerably limited, a rigorously validated finite-element analysis (FEA) approach was proposed to expand the structural response database. A parametric investigation including 400 FEA models was performed to systematically study the influences of the loading length, web slenderness, web opening size, and web aspect ratio on the ultimate and critical buckling capacities of web-opened TCBS plate girders. A predictive equation was presented to compute the critical buckling factors of the web-opened TCBS plate girders. Subsequently, two modified resistance reduction functions for web-opened TCBS plate girders in accordance with the European standard were proposed. The comparison results indicated that the modified design methods for calculating the critical buckling and ultimate capacities of web-opened TCBS plate girders exhibited satisfactory accuracy, providing basic design suggestions for engineering applications of TCBS.
+
+
+    
+        AU - Yecheng Dai
+    
+        AU - Gary M. Raftery
+    
+        AU - Krishanu Roy
+    
+        AU - Iman Hajirasouliha
+    
+        AU - Zhiyuan Fang
+    
+        AU - Boshan Chen
+    
+        AU - James B. P. Lim
+    
+
+TI - Experimental and Numerical Investigation on Flexural Behavior of Novel Unsymmetrical Cold-Formed Steel Built-Up Stiffened Box Sections
+PT - Journal Article
+DP - 2025
+TA - Journal of Structural Engineering
+PG - 04024212
+VI - 151
+IP - 2
+AID - 10.1061/JSENDH.STENG-13833 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13833
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13833
+SO - Journal of Structural Engineering 2025-02-01 151(2): 04024212
+AB - The use of cold-formed steel (CFS) built-up sections for portal frames is gaining popularity due to their ability to provide sustainable solutions and more optimized section design opportunities. This paper presents an experimental and numerical investigation conducted on a novel unsymmetrical CFS built-up stiffened box beam. The sections are manufactured with a complex arrangement of stiffeners and have an overall web depth of up to 550&nbsp;mm. In the literature, to our best knowledge, no large-scale bending testing has been conducted on CFS beams of such dimensions. A total of 12 full-scale four-point bending tests are reported. Nonlinear elasto-plastic finite element (FE) models were developed and validated against the experimental test results. A comprehensive parametric study involving 200 FE models was conducted to investigate the effects of key design parameters on the flexural capacity performance. The parameters included section thickness, screw spacing, and unrestrained beam length. It was found that, for the sections investigated, lateral-torsional buckling was not observed when the unrestrained length was less than 4&nbsp;m. The results were then compared against the design flexural capacities determined by the American Iron and Steel Institute (AISI S100) and Australian and New Zealand Standards (AS/NZS 4600). The current design flexural capacities were conservative by 7% on average compared with the experimental and FE results. Finally, new design equations were proposed, and a reliability analysis was conducted to assess the feasibility of the proposed equations.
+
+
+    
+        AU - Vaibhav Mittal
+    
+        AU - Manojit Samanta
+    
+
+TI - Influence of Spacing and Slenderness Ratio of End-Socketed Pile Foundation on Seismic Response of Building Considering Soil–Pile–Structure Interaction: An Experimental Approach
+PT - Journal Article
+DP - 2025
+TA - Journal of Structural Engineering
+PG - 04024213
+VI - 151
+IP - 2
+AID - 10.1061/JSENDH.STENG-13724 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13724
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13724
+SO - Journal of Structural Engineering 2025-02-01 151(2): 04024213
+AB - Pile foundations transfer the structural loads from areas with low bearing capacity and stiffness to deeper soil or rocky strata possessing greater bearing capacity and stiffness. The end-fixity conditions, slenderness ratio (length to diameter, or L/D), and spacing (spacing to diameter, S/D) of the piles significantly influence the response of the mid-to-high-rise buildings during any seismic disturbance. The present study aims to investigate the influence of slenderness ratio, spacing, and end-fixity conditions (fixed) of the piles on the seismic response of the buildings through scaled-down model tests. This study uses scaled-down structures with different aspect ratios and pile foundations with varying slenderness ratios and spacing. The super-structure responses are presented in natural frequency, peak spectral acceleration, frequency response, lateral displacement, and interstory drift. The foundation responses are expressed in terms of the rocking, bending moment, and lateral load sharing of the piles. The lateral displacement of the building supported on the pile foundation (L/D=30) has increased by 45.84% for the end-socketed pile foundation compared to fixed-base conditions. It is observed that the interstory drift of the structure supported on a pile (L/D=50) has reduced by 22.19% in comparison to the pile (L/D=30). It is also found that the rocking of the foundation associated with the pile (L/D=50) has reduced in the range of 18.91%–41.39% in comparison to the pile (L/D=30). Similarly, the rocking of the foundation has been reduced by increasing the spacing between the piles from S/D=6 to S/D=3 in the range of 5.75% to 14.93%. Experimental research on the impact of spacing and the slenderness ratio of end-socketed pile foundations on seismic response has practical implications in structural and geotechnical engineering. The findings help to optimize foundation designs for better seismic performance, reducing the risk of pile failure and excessive building displacement during earthquakes. The data from these experiments contribute to the better understanding of the pile foundation and building behavior subjected to seismic events. Overall, this research improves the seismic resilience and safety of buildings supported by end-socketed pile foundations based on experimental insights.
+
+
+    
+        AU - Erfan Maliji
+    
+        AU - Hossein Yousefpour
+    
+
+TI - Revisiting the Ambient and Postfire Strength of Channel-Type Shear Connectors
+PT - Journal Article
+DP - 2025
+TA - Journal of Structural Engineering
+PG - 04024214
+VI - 151
+IP - 2
+AID - 10.1061/JSENDH.STENG-14090 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-14090
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-14090
+SO - Journal of Structural Engineering 2025-02-01 151(2): 04024214
+AB - The ability of steel-concrete composite floor systems to withstand loads relies on shear connectors, which prevent or limit slip between the two materials. This paper presents an experimentally validated numerical investigation along with parametric studies aimed at evaluating the behavior of channel-type shear connectors in ambient and postfire conditions. A three-dimensional finite-element model of a push-out test was developed, which incorporated the nonlinear material properties of steel and concrete in ambient conditions as well as their thermomechanical properties to simulate heating and cooling and the effects of fire exposure. The model was validated using experimental data obtained by the authors and those from previous studies. Subsequently, a parametric study assessed the load-slip behavior of the channel-type connectors assuming different compressive strengths of concrete, slab thicknesses, connector dimensions, and maximum temperatures experienced. The failure mode in ambient and postfire conditions was observed to be affected by the length, web thickness, and height of the channel, but not by its flange thickness. The numerical results, combined with an analytical investigation of failure mechanisms, were then used to develop an improved design equation for channel-type shear connectors, which performs noticeably better than current design provisions in comparison with experimental data.
+
+
+    
+        AU - Jake D. Dunn
+    
+        AU - Chris P. Pantelides
+    
+
+TI - Reinforced Concrete Buckling-Restrained Braced Frame with Structural Fuse Detailed for Seismic Loading
+PT - Journal Article
+DP - 2025
+TA - Journal of Structural Engineering
+PG - 04024215
+VI - 151
+IP - 2
+AID - 10.1061/JSENDH.STENG-13922 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13922
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13922
+SO - Journal of Structural Engineering 2025-02-01 151(2): 04024215
+AB - Buckling-restrained braces (BRBs) increase the strength of a system while dissipating a significant amount of hysteretic energy. This research presents a concept for a lateral force resisting system using a reinforced concrete buckling-restrained braced frame (RCBRB) as a structural fuse for the design of new buildings in seismic regions. Experimental and numerical analysis results are presented for a single-story subassembly. The experiment was performed on a reduced scale prototype reinforced concrete (RC) frame designed and constructed with modern seismic details and supplemented with a BRB as a structural fuse to examine the structural performance of the RCBRB frame under quasi-static cyclic loads. The BRB fractured in tension at approximately 3.5% drift ratio with minor repairable damage observed in the RC frame members. A numerical analysis model was developed in OpenSees with various material types and elements to model the nonlinear behavior of the proposed system compared with the numerical analysis model of the undamaged RC frame; the global and local experimental response of the RC frame and BRB was used to validate the numerical model. When compared to the numerical analysis results of the RC frame, the resulting RCBRB frame increased both the lateral load capacity and stiffness of the RC frame by approximately 250%. The resulting lateral force resisting system would be capable of resisting strong earthquake ground motions that can yield or even fracture the BRB without damaging the RC frame beyond a state of repair. The BRB was attached to the RC frame utilizing steel embed plates cast into the concrete that were designed using the uniform force method. A numerical model was developed and validated using the experimental results and showed that the RCBRB frame more than doubled the lateral strength and nearly tripled the total hysteretic energy dissipation when compared to the numerical analysis model results of an undamaged RC frame alone.
+
+
+    
+        AU - Hai-Chao Zhou
+    
+        AU - Hong-Nan Li
+    
+        AU - Ting-Hua Yi
+    
+        AU - Dong-Hui Yang
+    
+
+TI - Virtual Constant Load Method for Moving Force Identification on Simply Supported Beam
+PT - Journal Article
+DP - 2025
+TA - Journal of Structural Engineering
+PG - 04024216
+VI - 151
+IP - 2
+AID - 10.1061/JSENDH.STENG-13736 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13736
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13736
+SO - Journal of Structural Engineering 2025-02-01 151(2): 04024216
+AB - During operation of a simply supported beam bridge, moving forces are a primary load on the bridge. Therefore, moving force identification (MFI) is essential for ensuring bridge safety. Nevertheless, current theories for identifying moving forces present shortcomings. To ascertain the force through the bridge beam response, it is essential to know the beam’s bending stiffness. Practical or laboratory measurements of this bending stiffness are difficult to record, limiting practical implementations of MFI theory. Therefore, a virtual constant load (VCL) method is developed to achieve MFI when the beam bending stiffness is unknown. The proposed method uses a vehicle with a known axle load to efficiently traverse a simply supported beam. Upon establishing a correlation between the dynamic responses and the MFI model under the influence of the known axle load, a correction coefficient is derived for characterizing the strain response of the MFI model. This coefficient includes bending stiffness information, eliminating the need to explicitly solve for the beam bending stiffness. The updated model effectively achieves force identification when the bridge bending stiffness is unknown. To validate this method, MFI was conducted using numerical and laboratory analyses. The results demonstrate that the proposed method can accurately identify moving forces acting on beams with unknown bending stiffness.
+
+
+    
+        AU - Li Xu
+    
+        AU - Zi-Xiong Guo
+    
+        AU - Hong-Song Hu
+    
+
+TI - Structural Performance of Concrete-Filled Funnel-Shaped Profiled Steel Sheet Composite Shear Walls Subjected to Lateral Cyclic Loading
+PT - Journal Article
+DP - 2025
+TA - Journal of Structural Engineering
+PG - 04024217
+VI - 151
+IP - 2
+AID - 10.1061/JSENDH.STENG-13485 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13485
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13485
+SO - Journal of Structural Engineering 2025-02-01 151(2): 04024217
+AB - A concrete-filled funnel-shaped profiled steel sheet (CFFPSS) composite shear wall is proposed, taking advantage of the funnel-shaped ribs as natural shear connectors. A total of eight CFFPSS wall specimens were tested under combined axial and lateral loading, with varying test variables such as the shear span ratio, axial load ratio, concrete strength, steel sheet thickness, and additional connection configurations. Three-dimensional digital image correlation (3D-DIC) technology was used to capture the development of the local buckling and the full-field strain of the steel sheets. The test results showed that the funnel-shaped ribs considerably improved the cooperative performance between the steel sheets and the concrete infill, eliminating the need for further connection strengthening. All the test walls, including the squat walls failing in shear, exhibited stable hysteresis behavior and satisfactory deformation capacity. The ultimate drift ratios of the test walls ranged from 1.9% to 3.3%. The 3D-DIC results demonstrated that a uniform tension field was formed after the shear buckling of the steel sheets, which provided considerable postbuckling strength reserve. Formulas for calculating the shear and flexural strengths of the CFFPSS walls were also developed, which gave reasonably accurate predictions.
+
+
+    
+        AU - Lei Xie
+    
+        AU - Naiyu Wang
+    
+        AU - Peihui Lin
+    
+        AU - Hussam Mahmoud
+    
+
+TI - Spatiotemporal Forecasting of Functionality States of Community Building Portfolios under Flood Evolution
+PT - Journal Article
+DP - 2025
+TA - Journal of Structural Engineering
+PG - 04024218
+VI - 151
+IP - 2
+AID - 10.1061/JSENDH.STENG-13672 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13672
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13672
+SO - Journal of Structural Engineering 2025-02-01 151(2): 04024218
+AB - Severe flooding induced by heavy rainfall presents a significant challenge in metropolitan areas worldwide. Despite the imperative for effective preflood emergency management, existing early warning systems rely primarily on meteorological or hydrological factors. These factors are often mapped with coarse spatial-temporal resolution and lack direct correlations to the immediate consequences of hazards, thus hindering fine-grained estimation of evacuation demand to support proactive preflood evacuation planning. To address this gap, our study makes a twofold contribution: (1)&nbsp;introduction of a flood-specific, evacuation-oriented, and multilayered building functionality metric (BFM-Flooding); this metric assesses building functionality states under flooding by aggregating building damage conditions at three distinct layers of granularity while accounting for disruptions in supporting utilities. (2)&nbsp;Establishment of a comprehensive building functionality state forecasting framework (BFS-Forecasting); the framework delves into the temporal transition dynamics between different functionality states for different building archetypes; it predicts the spatiotemporal progression of functionality states for building portfolios and the resulting evacuation demand within a community during flood evolution. Finally, an illustration using Suzhou Industrial Park (SIP) in Jiangsu Province, China, under severe rainstorm conditions demonstrates that the twofold solution can provide valuable support to policymakers in making well-informed preflood evacuation decisions at a fine spatiotemporal resolution.
+
+
+    
+        AU - Yu Liu
+    
+        AU - Xiangyou Huang
+    
+        AU - Tugang Xiao
+    
+        AU - Yu Hong
+    
+        AU - Qianhui Pu
+    
+        AU - Xuguang Wen
+    
+
+TI - Machine Vision Method for Crack Detection and Pattern Recognition in UHPC Prestressed Beams
+PT - Journal Article
+DP - 2025
+TA - Journal of Structural Engineering
+PG - 04024219
+VI - 151
+IP - 2
+AID - 10.1061/JSENDH.STENG-13396 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13396
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13396
+SO - Journal of Structural Engineering 2025-02-01 151(2): 04024219
+AB - Although ultra-high-performance concrete (UHPC) is known for its exceptional durability and crack resistance, UHPC bridges in harsh environments can still develop cracks. Detecting cracks in concrete structures, analyzing crack patterns, and determining the types of cracks that lead to structural failure have always posed significant challenges for the industry. Cracks in UHPC structures are typically finer and more densely distributed compared to those in normal concrete. Manual visual observation is susceptible to subjective errors and often requires considerable time and professional expertise, which hinders swift postdisaster rescue efforts. Machine vision technology offers a promising solution for visualizing cracks and identifying faults in concrete structures. This study conducted material and structural experiments on a UHPC prestressed beam, varying the shear span ratio, stirrup ratio, and external prestress arrangement. Through an analysis of the crack initiation trend, development process, and failure mode of the test beam, a method is proposed to achieve higher precision in extracting fine cracks using image preprocessing techniques. Subsequently, a new stacking-algorithm automatic crack classifier was used to identify crack fault patterns. Its performance was compared with five traditional machine learning classifiers based on accuracy, precision, recall, F1 score, and confusion matrix. The results demonstrated that among the six classifiers, the proposed stacking classifier for automatic crack inspection achieved the highest accuracy at 98.33%. Finally, integrating these technologies into a smartphone terminal enables convenient offline detection and classification of cracks in UHPC beams.
+
+
+    
+        AU - D. Valdivieso
+    
+        AU - D. Lopez-Garcia
+    
+        AU - A. Liel
+    
+        AU - P. Guindos
+    
+
+TI - Reinforcement Effects and Parametric Study of the Lateral Response of Multilayered Wood-Frame Shear Walls: An Experimental and Numerical Investigation
+PT - Journal Article
+DP - 2025
+TA - Journal of Structural Engineering
+PG - 04024220
+VI - 151
+IP - 2
+AID - 10.1061/JSENDH.STENG-12885 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12885
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12885
+SO - Journal of Structural Engineering 2025-02-01 151(2): 04024220
+AB - In the seismic design of light-frame timber buildings (LFTBs), the use of strong shear walls (SSWs) is crucial for providing lateral resistance. While the contribution of finish layers, such as Type X gypsum wallboard (GWB), has generally been conservatively ignored, recent experimental and numerical studies have demonstrated that these finish layers can significantly enhance the cyclic lateral performance of SSWs, leading to the concept of multilayered strong shear walls (MLSSWs). The effect of the finish layers cannot be solely attributed to additional layers and fasteners. There is also an additional reinforcement effect from deeply screwed Type X GWB that prevents nails from pulling out during hysteresis cycles that has not been previously investigated. The primary objective of this study is to explore the reinforcement effect and evaluate MLSSWs across a broad range of configurations. The research combines experimental tests (monotonic and cyclic) and numerical simulations, with connection-level tests used to calibrate the numerical models. The simulations interrogate the influence of the reinforcement effect and investigate the effects of various parameters, including wall aspect ratio, number of Type X GWB layers, multilayered connection type (screwed or stapled), and overturning anchorage systems. The findings demonstrate the positive effect of finish layers on strength and stiffness. The reinforcement effect of screws and Type X GWB layers is shown to modify the response of nailed OSB-to-frame connections, preventing nail pullout and improving fatigue resistance and deformation capacity. The study shows that the other important parameters that control the strength, stiffness and deformation capacity of MLSSW are multilayered connection type and number of Type X GWB layers. This research enhances the understanding of the role of Type X GWB finish layers on the lateral response of MLSSWs for improved design and construction. This study provides essential insights for the seismic design of light-frame timber buildings. It demonstrates that finish layers such as Type X gypsum wallboard, typically used for fire protection, can significantly improve the strength and stiffness of wood-frame shear walls. This finding challenges traditional design practices that overlook the structural role of finish layers, and indicates that there is a need for updated design approaches. Our research also shows that these fire protection layers can be strategically used in multistory buildings to enhance structural efficiency under seismic conditions. This advancement has the potential to make light-frame timber buildings a more viable option than prevalent concrete structures in many countries. Additionally, it offers a comparable alternative to mass timber-based solutions, contributing to more resilient and sustainable building infrastructure.
+
+
+    
+        AU - Ibrahim Oz
+    
+
+TI - Seismic Pounding Effects of Typical Midrise Reinforced Concrete Structures Subjected to Soil–Structure Interaction Effects
+PT - Journal Article
+DP - 2025
+TA - Journal of Structural Engineering
+PG - 05024005
+VI - 151
+IP - 2
+AID - 10.1061/JSENDH.STENG-13659 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13659
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13659
+SO - Journal of Structural Engineering 2025-02-01 151(2): 05024005
+AB - In densely populated urban areas, construction spaces are often limited, resulting in insufficient separation between adjacent structures. This issue is compounded by soil–structure interaction (SSI), which significantly alters the dynamic response of buildings. Inadequate separation gaps can lead to increased seismic forces and interstory drift ratios (IDRs), potentially causing significant structural damage and resulting in the loss of life and property. Using inelastic time-history analyses with scaled ground motion records, this research investigated the rapid calculation of seismic gaps between adjacent structures, as well as the impact of SSI on seismic pounding forces and IDRs across different soil conditions, with comparisons made via fixed base. Nonlinear models of 8- and 10-story reinforced concrete (RC) structures, representative of the Turkish building stock, were analyzed in both standalone and adjacent scenarios. Ground motion records were scaled to match the seismic characteristics of Istanbul, a highly earthquake-prone region, and nonlinear time-history analyses were conducted in both horizontal directions simultaneously. This study primarily examined two scenarios. The first scenario involved a rapid assessment based on building height and soil conditions, which can be utilized during the design phase to prevent pounding between adjacent buildings and compared with gap separations calculated using more-complex formulas recommended by regulations. The second scenario addressed the additional shear forces resulting from pounding effects, which must be considered if pounding cannot be avoided. This study proposes a simplified method for determining seismic gaps, aiding practical application for field engineers. This study found that simultaneously considering both SSI and pounding significantly alters dynamic behavior in terms of maximum IDRs and acceleration demands, especially in shorter and lighter structures.
+
+

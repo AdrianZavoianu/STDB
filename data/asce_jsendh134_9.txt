@@ -1,0 +1,400 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Sherif El-Tawil
+    
+
+TI - Editor’s Note
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1403-1404
+VI - 134
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2008)134:9(1403) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281403%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281403%29
+SO - Journal of Structural Engineering 2008-09-01 134(9): 1403-1404
+
+
+    
+        AU - Donald W. White
+    
+
+TI - Unified Flexural Resistance Equations for Stability Design of Steel I-Section Members: Overview
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1405-1424
+VI - 134
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2008)134:9(1405) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281405%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281405%29
+SO - Journal of Structural Engineering 2008-09-01 134(9): 1405-1424
+AB - The 2004 AASHTO and 2005 AISC provisions for flexural design of steel I-section members have been revised in their entirety relative to previous specifications to simplify their logic, organization, and application, simultaneously improving their accuracy and generality. This paper provides an overview of these comprehensive developments with respect to the stability limit states. The updated AISC and AASHTO flexural resistances are, with minor exceptions, fundamentally the same. However, the organization in AASHTO facilitates the streamlined design of typical welded I girders. These members are often singly symmetric, have relatively thin webs, may utilize material with smaller yield strengths for the top flange and/or web, and are typically composite in their final constructed condition. Conversely, AISC emphasizes the streamlined stability design of noncomposite nonhybrid compact doubly-symmetric I-section members. This paper highlights the overall continuity of and the fundamental background to the new AISC and AASHTO provisions. The combined AISC-AASHTO rules are presented as a single set of flowcharts applicable for all types of steel I-section members. This comprehensive approach to the design equation developments leads to numerous improvements in the consistency and accuracy of the various specific provisions.
+
+
+    
+        AU - Donald W. White
+    
+        AU - Michael G. Barker
+    
+
+TI - Shear Resistance of Transversely Stiffened Steel I-Girders
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1425-1436
+VI - 134
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2008)134:9(1425) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281425%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281425%29
+SO - Journal of Structural Engineering 2008-09-01 134(9): 1425-1436
+AB - This paper evaluates the accuracy and ease of use of 12 of the most promising models for the shear resistance of transversely stiffened steel I-girders. Several models that are well established in civil engineering practice as well as a number of other recently proposed models are considered. As the model developed in Basler’s seminal research is the method of choice in current American practice, the paper focuses on the merits and limitations of the alternative models relative to Basler’s. Statistical analyses are conducted on the predictions by the various models using an updated data set from 129 experimental shear tests, including 30 hybrid and 11 horizontally curved I-girders. The results support the conclusion that the form of Basler’s model implemented in 2004 AASHTO LRFD Bridge Design Specifications and 2005 AISC Specification for Structural Steel Buildings gives the best combination of accuracy and simplicity for calculation of the shear resistance of transversely stiffened steel I-girders.
+
+
+    
+        AU - Donald W. White
+    
+        AU - Michael G. Barker
+    
+        AU - Atorod Azizinamini
+    
+
+TI - Shear Strength and Moment-Shear Interaction in Transversely Stiffened Steel I-Girders
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1437-1449
+VI - 134
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2008)134:9(1437) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281437%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281437%29
+SO - Journal of Structural Engineering 2008-09-01 134(9): 1437-1449
+AB - With the advent of HPS495W steel, hybrid I-girders have again become advantageous in bridge design. Unfortunately, the use of tension field action is not permitted in determining the shear resistance of hybrid girders in prior AISC and AASHTO specifications. This is a significant penalty on the strength of these member types. Also, the checking of moment–shear 
+
+(M–V)
+
+ strength interaction is a significant complicating factor in the design and capacity rating of I-girders that use tension field action. The requirements for the shear strength design and the equations for 
+
+M–V
+
+ strength interaction in the 1999 AISC and 1998 AASHTO specifications were developed originally without the benefit of a large body of experimental tests and refined finite-element simulations. This paper presents the results from the collection and analysis of data from a total of 186 high-shear low-moment, high-shear high-moment, and high-moment high-shear experimental I-girder tests. References to corroborating refined finite element studies are provided. Particular emphasis is placed on the extent to which web shear postbuckling (tension-field) strength is developed in hybrid I-girders, as well as on the interaction between the flexural and shear resistances in hybrid and nonhybrid I-section members. The results of the study indicate that, within certain constraints that address the influence of small flange size, Basler’s shear resistance model can be used with the flexural resistance provisions of the 2004 AASHTO and 2005 AISC specifications without the need for consideration of 
+
+M–V
+
+ strength interaction. Also, the research shows that a form of the Cardiff model can be used with these flexural resistance provisions without the need to consider 
+
+M–V
+
+ strength interaction. These conclusions apply to both nonhybrid and hybrid I-girder designs.
+
+
+    
+        AU - Donald W. White
+    
+        AU - Se-Kwon Jung
+    
+
+TI - Unified Flexural Resistance Equations for Stability Design of Steel I-Section Members: Uniform Bending Tests
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1450-1470
+VI - 134
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2008)134:9(1450) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281450%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281450%29
+SO - Journal of Structural Engineering 2008-09-01 134(9): 1450-1470
+AB - The 2004 AASHTO and 2005 AISC provisions for flexural design of steel I-section members have been revised in their entirety relative to previous specifications to simplify their logic, organization, and application, while also improving their accuracy and generality. This paper evaluates the lateral-torsional and flange local buckling (LTB and FLB) predictions from these and previous specifications versus uniform bending experimental test results. A total of 154 rolled and 123 welded I-section member LTB tests, and 11 rolled and 36 welded I-section member FLB tests are considered. Reliability indices are estimated for load and resistance factor design (LRFD) of buildings based on the test statistics combined with established statistics for material and fabrication bias factors and the ASCE 7 load model. The notional reliability for LTB is found to be reasonably constant and consistent with the targeted level in the first AISC LRFD specification of 1986. The unified equations, combined with a design-oriented procedure for calculation of elastic LTB 
+
+K
+
+ factors, are shown to capture the test results accurately throughout the inelastic and elastic LTB ranges, leading to substantial liberalization of the calculated resistances in certain cases. The mean resistances for inelastic LTB and FLB are captured accurately by a linear equation in the corresponding slenderness parameters. The reliability for FLB is found to be slightly higher than that for LTB.
+
+
+    
+        AU - Donald W. White
+    
+        AU - Yoon Duk Kim
+    
+
+TI - Unified Flexural Resistance Equations for Stability Design of Steel I-Section Members: Moment Gradient Tests
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1471-1486
+VI - 134
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2008)134:9(1471) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281471%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281471%29
+SO - Journal of Structural Engineering 2008-09-01 134(9): 1471-1486
+AB - The 2004 AASHTO and 2005 AISC provisions for flexural design of steel I-section members have been revised in their entirety relative to previous specifications to simplify their logic, organization, and application, simultaneously improving their accuracy and generality. This paper evaluates the lateral-torsional and flange local buckling (LTB and FLB) resistance predictions from these specifications versus the results from moment gradient experimental tests. Two types of moment gradient tests are considered: (1) “end-loaded” tests in which the moment varies linearly within the critical unbraced length and (2) “internally loaded” tests in which the member is subjected to concentrated transverse load, resulting in a multilinear moment diagram within the critical unbraced length. A total of 27 welded and 10 rolled I-section end-loaded FLB tests, 73 rolled and 93 welded end-loaded LTB tests, and 129 rolled and 111 welded internally loaded LTB tests are considered. Reliability indices are estimated for load and resistance factor design of buildings based on the statistics from these tests combined with established statistics for material and fabrication bias factors and the ASCE 7 load model.
+
+
+    
+        AU - Joseph Yura
+    
+        AU - Todd Helwig
+    
+        AU - Reagan Herman
+    
+        AU - Chong Zhou
+    
+
+TI - Global Lateral Buckling of I-Shaped Girder Systems
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1487-1494
+VI - 134
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2008)134:9(1487) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281487%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281487%29
+SO - Journal of Structural Engineering 2008-09-01 134(9): 1487-1494
+AB - A closed form solution for elastic global buckling of twin girder systems interconnected with cross frames is derived. Current design specifications for such systems only consider individual girder buckling between cross frames. The solution, which is suitable for design specifications, was developed for a uniform moment loading condition. Finite-element analyses (FEAs) were used to verify the closed form solution and extend it to more practical loading conditions. FEA showed that the load height condition had only a minor effect for twin girders compared to the published effects on single girders. Both singly and doubly symmetric sections were studied and showed that the girder spacing and the in-plane moment of inertia of the girders are the principal variables controlling global buckling of twin girders. The number and size of the intermediate cross frames had little effect. A method for improving the global buckling capacity through the use of a partial top flange lateral bracing system is presented along with a design example.
+
+
+    
+        AU - In-Rak Choi
+    
+        AU - Hong-Gun Park
+    
+
+TI - Ductility and Energy Dissipation Capacity of Shear-Dominated Steel Plate Walls
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1495-1507
+VI - 134
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2008)134:9(1495) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281495%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281495%29
+SO - Journal of Structural Engineering 2008-09-01 134(9): 1495-1507
+AB - An experimental study was performed to investigate the potential maximum ductility and energy dissipation capacity of steel plate walls with thin infill plates. Three specimens of a three-story steel plate wall were tested. A concentrically braced frame (CBF) and a moment-resisting frame (MRF) were also tested for comparison. To maximize the ductility and energy dissipation capacity of the steel plate walls, ductile details were used. The test parameters were the aspect ratio of the infill plate and the shear strength of the column. The steel plate walls exhibited much better ductility and energy dissipation capacity as compared to the CBF and MRF. This result indicates that unlike conventional reinforced concrete walls and CBFs, shear-dominated steel plate walls with thin infill plates possess excellent ductility capacity as well as high strength and stiffness. Based on the results of previous studies and the present study, the variations in the ductility and the energy dissipation capacity of the steel plate walls according to the design parameters were investigated.
+
+
+    
+        AU - Murat Eröz
+    
+        AU - Donald W. White
+    
+        AU - Reginald DesRoches
+    
+
+TI - Direct Analysis and Design of Steel Frames Accounting for Partially Restrained Column Base Conditions
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1508-1517
+VI - 134
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2008)134:9(1508) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281508%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281508%29
+SO - Journal of Structural Engineering 2008-09-01 134(9): 1508-1517
+AB - The 2005 AISC specification provides a new method for stability design of steel frame structures termed the direct analysis method (DM). This paper addresses the consideration of partial base fixity using the DM. A refined model of the column base moment-rotation response is developed using an adaptation of the component method (CM) of Eurocode 3 plus a representation of the foundation stiffness. The paper also summarizes and applies an extension of the DM for frames containing web-tapered members. An example clear-span gable frame is checked using several models of its nominally simple four-bolt base detail: ideally pinned, elastic based on 
+
+G=10
+
+ from the AISC sidesway-uninhibited alignment chart, and elastic-perfectly plastic using the CM. It is demonstrated that the member strength unity checks and the frame deflections obtained by modeling of the column bases as elastic based on 
+
+G=10
+
+ are accurate to slightly optimistic compared to the refined base model. It is found that the contribution of the significant initial stiffness of typical bases to the overall frame response is limited by the connection strength.
+
+
+    
+        AU - W. M. Quach
+    
+        AU - J. G. Teng
+    
+        AU - K. F. Chung
+    
+
+TI - Three-Stage Full-Range Stress-Strain Model for Stainless Steels
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1518-1527
+VI - 134
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2008)134:9(1518) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281518%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281518%29
+SO - Journal of Structural Engineering 2008-09-01 134(9): 1518-1527
+AB - Advanced numerical modeling of cold-formed stainless steel members, from manufacturing to full-range response under applied loading, requires knowledge of the stress-strain relationship of the material over a wide range of tensile and compressive strains. Although a number of stress-strain models have been developed for stainless steels, they are only capable of accurate predictions either over a limited strain range or for the tensile stress-strain behavior only. This paper presents a three-stage stress-strain model for stainless steels, which is capable of accurate predictions over the full ranges of both tensile and compressive strains. The new stress-strain model is defined using the three basic Ramberg-Osgood parameters and is based on a careful interpretation of existing experimental data. The accuracy of the proposed model is demonstrated by comparing its predictions with experimental stress-strain curves. These comparisons also clearly demonstrate the advantage of the proposed model over the only existing full-range stress-strain model.
+
+
+    
+        AU - A. M. Kanvinde
+    
+        AU - G. G. Deierlein
+    
+
+TI - Validation of Cyclic Void Growth Model for Fracture Initiation in Blunt Notch and Dogbone Steel Specimens
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1528-1537
+VI - 134
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2008)134:9(1528) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281528%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281528%29
+SO - Journal of Structural Engineering 2008-09-01 134(9): 1528-1537
+AB - Tests and finite-element analyses of blunt notch and dogbone specimens are presented to demonstrate the application and validation of the cyclic void growth model (CVGM) to evaluate the initiation of ductile fracture under cyclic loading in steel structures. Modeling concepts and procedures for characterizing the CVGM material parameters using notched bar tests are described. Accuracy of the model is validated through a series of cyclic tests of 14 blunt notch compact fracture specimens and four dogbone specimens. Four types of moderate to high strength structural steels are investigated (two types of A572-Grade 50, A514-Grade 110, HPS70W). The test specimens reflect stress and strain conditions encountered in structural steel components and provide sufficiently strong stress and strain gradients to validate the characteristic length assumptions in the model. Detailed finite-element analyses that employ the CVGM criterion are shown to predict fracture with good accuracy across the specimen geometries, steel types, and loading histories.
+
+
+    
+        AU - H. Mostafaei
+    
+        AU - F. J. Vecchio
+    
+
+TI - Uniaxial Shear-Flexure Model for Reinforced Concrete Elements
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1538-1547
+VI - 134
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2008)134:9(1538) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281538%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281538%29
+SO - Journal of Structural Engineering 2008-09-01 134(9): 1538-1547
+AB - A simple approach was developed for performance-based analysis of reinforced concrete columns subjected to shear, flexure and axial loads. This method is based on a simplification of a consistent but relatively more complex approach known as the axial-shear-flexure interaction (ASFI) method, which is able to predict the full load-deformation relationships of reinforced concrete columns subjected to axial, flexure and shear force. The uniaxial shear-flexure model (USFM), presented herein, can also predict comparable full load-deformation responses. In it, however, the computation-intensive iteration process for shear modeling used within the ASFI approach is eliminated and the formulation is simplified. This paper describes the formulation, implementation and verification of the USFM approach.
+
+
+    
+        AU - John W. Wallace
+    
+        AU - Kenneth J. Elwood
+    
+        AU - Leonardo M. Massone
+    
+
+TI - Investigation of the Axial Load Capacity for Lightly Reinforced Wall Piers
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1548-1557
+VI - 134
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2008)134:9(1548) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281548%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281548%29
+SO - Journal of Structural Engineering 2008-09-01 134(9): 1548-1557
+AB - A large number of reinforced concrete buildings constructed prior to the mid-1970s in western North America rely on lightly reinforced, perforated, perimeter shear walls to resist earthquake-induced lateral forces. Although a substantial number of piers may exist, deformation demands can significantly exceed acceptable levels for plastic deformations published in common acceptance criteria such as FEMA 356. A shear-friction model is used to establish the ability of wall piers to support vertical loads after substantial loss of pier lateral-load capacity. The model results indicate that typical wall piers are capable of sustaining relatively large lateral drift ratios prior to loss of vertical load-carrying capacity, which is consistent with postearthquake observations. However, preliminary test results indicate that the drift capacity may be substantially less for poorly detailed walls, where axial failure occurred at a lateral drift ratio of approximately one percent.
+
+
+    
+        AU - Eric Puntel
+    
+        AU - Victor E. Saouma
+    
+
+TI - Experimental Behavior of Concrete Joint Interfaces under Reversed Cyclic Loading
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1558-1568
+VI - 134
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2008)134:9(1558) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281558%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281558%29
+SO - Journal of Structural Engineering 2008-09-01 134(9): 1558-1568
+AB - A large scale test on concrete joints subjected to constant compressive confinement and reverse cyclic shear load is performed. Shear strength, dilatancy degradation, and overall response are reported. A description of roughness as composed by two orders of asperities with different sizes is used to analyze the results and prompts the extension of an existing generalized joint model. The validity of the interpretation and the role of the proposed extension are pointed out by means of comparisons between numerical simulations and experimental results.
+
+
+    
+        AU - Alok Madan
+    
+        AU - Arshad K. Hashmi
+    
+
+TI - Analytical Prediction of the Seismic Performance of Masonry Infilled Reinforced Concrete Frames Subjected to Near-Field Earthquakes
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1569-1581
+VI - 134
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2008)134:9(1569) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281569%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281569%29
+SO - Journal of Structural Engineering 2008-09-01 134(9): 1569-1581
+AB - In the recent past, a number of ground motions with large velocity pulses have been recorded in the near-field regions of earthquakes. A ground motion recorded in the near-field region of a strike-slip earthquake (i.e., near the fault rupture of the earthquake) exhibits distinctive long-period velocity pulses that are characteristic of near-field earthquakes and are not found in far-field ground motion records. The present study is based on analytical evaluation of the effect of distribution of masonry infill panels over the elevation of planar masonry-infilled RC frames on the seismic response of the frame subjected to near-field earthquakes implementing rational seismic analysis methods within the performance-based framework such as nonlinear dynamic time-history analysis and nonlinear static force-displacement (push-over) analysis using realistic and efficient computational models. Despite intense worldwide research in the area of masonry infilled frame structures during the past few decades, displacement-based nonlinear analyses of masonry infilled frames with explicit consideration of infill panels as structural elements is far from common practice, mostly due to the analytical complexity in modeling the infill panel realistically. The displacements are of particular interest from the viewpoint of performance-based design (PBD), the emerging model for the next generation of standard codes of practice for earthquake-resistant design. One of the objectives of the study is to demonstrate rational displacement-based analysis methodologies within the performance-based framework for accurately and efficiently predicting the global and local seismic demands and related intensity of seismic damage in practical masonry infilled multistory RC framed construction with seismically undesirable vertical layouts of masonry panels under the influence of near-field earthquakes.
+
+
+    
+        AU - William L. Gamble
+    
+
+TI - Discussion of “Experiments on Distortional Buckling of I-Beams” by Tadeh Zirakian and Hossein Showkati
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1582-1582
+VI - 134
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2008)134:9(1582) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281582%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281582%29
+SO - Journal of Structural Engineering 2008-09-01 134(9): 1582-1582
+
+
+    
+        AU - Anil K. Chopra
+    
+
+TI - Discussion of “Observations on the Reliability of Alternative Multiple-Mode Pushover Analysis Methods” by T. Tjhin, M. Aschheim, and E. Hernandes-Montes
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1582-1585
+VI - 134
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2008)134:9(1582.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281582.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281582.2%29
+SO - Journal of Structural Engineering 2008-09-01 134(9): 1582-1585
+
+
+    
+        AU - Mark A. Aschheim
+    
+        AU - Enrique Hernández-Montes
+    
+        AU - Tjen Tjhin
+    
+
+TI - Closure to “Observations on the Reliability of Alternative Multiple-Mode Pushover Analysis Methods” by T. Tjhin, M. Aschheim, and E. Hernández-Montes
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1585-1586
+VI - 134
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2008)134:9(1585) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281585%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A9%281585%29
+SO - Journal of Structural Engineering 2008-09-01 134(9): 1585-1586
+
+

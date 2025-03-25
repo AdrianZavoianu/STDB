@@ -1,0 +1,413 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Fred W. Beaufait
+    
+
+TI - Analysis of Continuous Folded Plate Surface
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 117-140
+VI - 91
+IP - 6
+AID - 10.1061/JSDEAG.0001350 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001350
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001350
+SO - Journal of the Structural Division 1965-12-01 91(6): 117-140
+AB - A general method of analysis of single or continuous span folded plate surfaces, with general end conditions, for any loading condition is developed. Within the limitations of the assumptions, this method yields an exact solution of the structural behavior of the folded plate based on a difference technique in which the surface is divided in segments: Compatibility of the surface is assured at the center of each finite segment and at the line of transverse supports. In addition, a computer program for the analysis of simply supported or continuous folded plate surfaces, with or without cantilevered ends, for three load conditions is described. A comparison is made between this general method of analysis and presently accepted techniques for analyzing the simply supported, single-span surface; and the final solution for a continuous folded plate surface is presented.
+
+
+    
+        AU - Graham H. Powell
+    
+
+TI - Comparison of Simplified Theories for Folded Plates
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 1-31
+VI - 91
+IP - 6
+AID - 10.1061/JSDEAG.0001351 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001351
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001351
+SO - Journal of the Structural Division 1965-12-01 91(6): 1-31
+AB - The fundamental principles underlying several simplified theories for prismatic folded plates (ignoring torsional moments, longitudinal bending moments, and shear deformations) are examined, and the close relationships existing among them are demonstrated. The theories are classified into groups, and in the process three new methods of analysis are developed.
+
+
+    
+        AU - Billy J. Hartz
+    
+
+TI - Matrix Formulation of Structural Stability Problems
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 141-157
+VI - 91
+IP - 6
+AID - 10.1061/JSDEAG.0001352 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001352
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001352
+SO - Journal of the Structural Division 1965-12-01 91(6): 141-157
+AB - A stability coefficient matrix is derived for use with the stiffness matrix in the deformation analysis of structures. This matrix allows the easy modification of the conventional beam stiffness matrix to include the effects of axial loads in the members and therefore gives a simple and rapid formulation of stability problems for columns and general frame structures. The matrix presented is approximate and the method gives an upper bound to the critical loading. However, the examples presented indicated excellent agreement with known exact results for both column and rigid frame critical loads, and the accuracy may be improved by a finer subdivision of the structure. The method is ideally suited for computers.
+
+
+    
+        AU - German Gurfinkel
+    
+        AU - Arthur R. Robinson
+    
+
+TI - Buckling of Elastically Restrained Columns
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 159-183
+VI - 91
+IP - 6
+AID - 10.1061/JSDEAG.0001353 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001353
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001353
+SO - Journal of the Structural Division 1965-12-01 91(6): 159-183
+AB - The problem of increasing the buckling load of a 114-ft long reinforced concrete column by introducing various elastic restraints is studied. General expressions are derived and graphs are presented applicable to any elastic column covering the full range of variation of the parameters. In addition, the effect of the weight of the column in the reduction of the critical load is shown to be substantial depending on the conditions of end support. A general method is presented to account for this effect. Graphs are also presented to facilitate the determination of the net critical load for the most practical cases. Two illustrative examples are examined at length to show the application of the methods.
+
+
+    
+        AU - Le-Wu Lu
+    
+
+TI - Inelastic Buckling of Steel Frames
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 185-214
+VI - 91
+IP - 6
+AID - 10.1061/JSDEAG.0001354 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001354
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001354
+SO - Journal of the Structural Division 1965-12-01 91(6): 185-214
+AB - A building frame that is not braced to prevent lateral displacement may buckle into a sidesway configuration when the critical condition is reached. For frames of practical proportions, this phenomenon usually occurs after the applied load has caused yielding in some part of the members. Thus, the maximum load-carrying capacity of such structures is determined by the inelastic buckling strength. A numerical procedure for determining the buckling load of partially yielded frames is developed and its use is illustrated with reference to a simple portal frame. The study represents the first attempt to determine theoretically the inelastic buckling strength of unbraced frames. Tests on steel models fabricated from a small wide-flange shape were conducted and the results show satisfactory agreement with the theoretical solutions. Based on the results of the theoretical and experimental studies, the validity of a currently (1965) used column design rule is examined and a new method is proposed.
+
+
+    
+        AU - Victor A. Pulmano
+    
+        AU - Seng-Lip Lee
+    
+
+TI - Prismatic Shells with Intermediate Columns
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 215-237
+VI - 91
+IP - 6
+AID - 10.1061/JSDEAG.0001355 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001355
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001355
+SO - Journal of the Structural Division 1965-12-01 91(6): 215-237
+AB - Simply supported prismatic shells with intermediate columns located along longitudinal edges are analyzed. The shell is assumed to be simply supported along the two transverse edges and the intermediate column supports are taken as uniform line loads throughout the longitudinal width of the columns. The magnitude of the column reactions is determined by flexibility influence coefficients assuming that the vertical displacements of the shell at the column supports are zero. A comparison of the magnitude and distribution of the stress resultants and displacements of simply supported prismatic shells with two and four equally spaced intermediate columns resulting from dead load or uniform live load with the results obtained for a shell without intermediate columns is given.
+
+
+    
+        AU - Tekal Vishwanath
+    
+        AU - Ramkrishna P. Mhatre
+    
+        AU - Kaveti Seetharamulu
+    
+
+TI - Test of a Ferro-Cemento Precast Folded Plate
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 239-249
+VI - 91
+IP - 6
+AID - 10.1061/JSDEAG.0001356 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001356
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001356
+SO - Journal of the Structural Division 1965-12-01 91(6): 239-249
+AB - The fabrication and testing of a ferro-cemento folded plate is described. Joints, transverse and longitudinal, were obtained by welding reinforcement bars at discrete points. Such a structure can carry its load at this stage of construction. Partial monolithicity is achieved by placing mortar at the joints. With the partial monolithicity, the structure can carry live loads in addition to its dead load. Deflections were not excessive. The major contribution to deflection was caused by flexure. The deflections of the test unit resulting from transverse slip and shear were found to be 2% and 3.5%, respectively. The test unit failed in shear along the fold line joints at the diaphragms.
+
+
+    
+        AU - Avinadav Siev
+    
+
+TI - Geometry of Suspended Cloth Roofs
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 251-263
+VI - 91
+IP - 6
+AID - 10.1061/JSDEAG.0001357 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001357
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001357
+SO - Journal of the Structural Division 1965-12-01 91(6): 251-263
+AB - A numerical analysis is presented for determining the shape of strips, which, when assembled, form a hyperbolic surface. The boundary lines of the strips are geodesics, which coincide with cables of constant tension in the surface. The procedure is iterative and is easily programmed. Two numerical examples are given.
+
+
+    
+        AU - John W. Fisher
+    
+
+TI - Behavior of Fasteners and Plates with Holes
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 265-286
+VI - 91
+IP - 6
+AID - 10.1061/JSDEAG.0001358 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001358
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001358
+SO - Journal of the Structural Division 1965-12-01 91(6): 265-286
+AB - The behavior of the individual components of bolted or riveted joints is analyzed and evaluated. The results of plate calibration tests of A7 steel and tests of A440 steel are presented. General stress-strain relationships are developed for a plate with holes in the elastic range and beyond. The relationships are shown to be valid for carbon steels such as A7 and A36, high-strength steel such as A440, and high-strength low-alloy steels such as A242 and A441. Also, the relationships account for changes in specimen geometry. In addition, a load-deformation relationship is developed for mechanical fasteners in shear. The shape of the curve was observed to be governed by the ultimate shear strength and two empirical parameters. The analytical model was compared with test data for A502-grade 1 steel rivets and A502-grade 2 steel rivets and A325 and A490 high-strength bolts. The model was in good agreement with the test data.
+
+
+    
+        AU - Richard N. Wright
+    
+        AU - William J. Hall
+    
+
+TI - Closure to “Loading Rate Effects in Structural Steel Design”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 289-289
+VI - 91
+IP - 6
+AID - 10.1061/JSDEAG.0001359 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001359
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001359
+SO - Journal of the Structural Division 1965-12-01 91(6): 289-289
+
+
+    
+        AU - A. Mehmel
+    
+
+TI - Discussion of “Analysis Comparison for Single Curved Shell Roofs”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 290-291
+VI - 91
+IP - 6
+AID - 10.1061/JSDEAG.0001360 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001360
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001360
+SO - Journal of the Structural Division 1965-12-01 91(6): 290-291
+
+
+    
+        AU - Gerald M. Sturman
+    
+        AU - A. Robert Raab
+    
+
+TI - Discussion of “Tri-Diagonal Matrix Method for Complex Structures”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 291-292
+VI - 91
+IP - 6
+AID - 10.1061/JSDEAG.0001361 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001361
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001361
+SO - Journal of the Structural Division 1965-12-01 91(6): 291-292
+
+
+    
+        AU - Robert E. Loov
+    
+
+TI - Discussion of “Flexural Strength of Steel-Concrete Composite Beams”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 293-296
+VI - 91
+IP - 6
+AID - 10.1061/JSDEAG.0001362 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001362
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001362
+SO - Journal of the Structural Division 1965-12-01 91(6): 293-296
+
+
+    
+        AU - Anatol A. Eremin
+    
+
+TI - Discussion of “Analysis of Truss-Plate Structures”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 297-297
+VI - 91
+IP - 6
+AID - 10.1061/JSDEAG.0001363 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001363
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001363
+SO - Journal of the Structural Division 1965-12-01 91(6): 297-297
+
+
+    
+        AU - Lancelot A. Fekete
+    
+
+TI - Discussion of “Influence Lines for Beams on Elastic Foundations”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 297-300
+VI - 91
+IP - 6
+AID - 10.1061/JSDEAG.0001364 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001364
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001364
+SO - Journal of the Structural Division 1965-12-01 91(6): 297-300
+
+
+    
+        AU - Charles G. Culver
+    
+
+TI - Discussion of “Torsional-Flexural Buckling of Thin-Walled Members”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 300-302
+VI - 91
+IP - 6
+AID - 10.1061/JSDEAG.0001365 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001365
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001365
+SO - Journal of the Structural Division 1965-12-01 91(6): 300-302
+
+
+    
+        AU -  
+    
+
+TI - Discussion of “Survey of Current Structural Research”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 302-305
+VI - 91
+IP - 6
+AID - 10.1061/JSDEAG.0001366 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001366
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001366
+SO - Journal of the Structural Division 1965-12-01 91(6): 302-305
+
+
+    
+        AU - Ralph M. Richard
+    
+        AU - John E. Goldberg
+    
+
+TI - Analysis of Nonlinear Structures: Force Method
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 33-48
+VI - 91
+IP - 6
+AID - 10.1061/JSDEAG.0001367 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001367
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001367
+SO - Journal of the Structural Division 1965-12-01 91(6): 33-48
+AB - A method for analyzing nonlinear structural systems using the force (flexibility) method is presented herein. Using a differential point of view, the analysis of a nonlinear system is treated as an initial value problem. The equations developed for structural systems are a set of simultaneous nonlinear first-order ordinary differential equations in which the indeterminate quantities are the dependent variables and the applied loading is the independent variable. Integration of these equations for a given set of initial conditions (forces) yields the internal force distribution in the structure. With the force distribution known, the complete displacement pattern of the structure may be easily determined. The method is illustrated through the solution of several problems to demonstrate its feasibility and applicability to systems of practical size and interest. The numerical integration scheme of Runge-Kutta was used to solve the nonlinear equations. The results are compared with those obtained using the displacement method of analysis.
+
+
+    
+        AU -  
+    
+
+TI - Discussion of “Effect of Large Alternating Strains of Steel Beams”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 356-359
+VI - 91
+IP - 6
+AID - 10.1061/JSDEAG.0001368 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001368
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001368
+SO - Journal of the Structural Division 1965-12-01 91(6): 356-359
+
+
+    
+        AU - Maxwell G. Lay
+    
+
+TI - Yielding of Uniformly Loaded Steel Members
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 49-66
+VI - 91
+IP - 6
+AID - 10.1061/JSDEAG.0001369 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001369
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001369
+SO - Journal of the Structural Division 1965-12-01 91(6): 49-66
+AB - Expressions are developed for the stiffness of a uniformly yielded steel member. Flexural stiffness is shown to be non-zero for all yielded configurations of the member, and thus non-zero buckling loads may be obtained. The stiffness expressions are developed by considering the discontinuous nature of the yielding of structural steel, and they are presented for later use in a buckling analysis of members in plastically designed steel frames.
+
+
+    
+        AU - Maxwell G. Lay
+    
+        AU - Theodore V. Galambos
+    
+
+TI - Inelastic Steel Beams Under Uniform Moment
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 67-93
+VI - 91
+IP - 6
+AID - 10.1061/JSDEAG.0001370 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001370
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001370
+SO - Journal of the Structural Division 1965-12-01 91(6): 67-93
+AB - The out-of-plane behavior of closely braced steel wide-flange beams is examined. Unloading (failure) of such beams terminates their rotation capacity and thus their usefulness in plastic design. A theory of discontinuous yielding is used to estimate the out-of-plane behavior in the inelastic range and to provide an analytical prediction of the rotation capacity of beams under uniform moment. The lateral support spacing is found to be a function of the quantity of rotation which the beam is required to deliver. It is shown that the condition of the spans adjacent to the one under consideration has a marked influence on the behavior of the beam. The effective length concept is used to account for this effect.
+
+
+    
+        AU - Maxwell G. Lay
+    
+
+TI - Flange Local Buckling in Wide-Flange Shapes
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 95-116
+VI - 91
+IP - 6
+AID - 10.1061/JSDEAG.0001371 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001371
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001371
+SO - Journal of the Structural Division 1965-12-01 91(6): 95-116
+AB - A requirement for a steel beam loaded into the inelastic range is that it be able to attain a fully yielded condition without prior local buckling. A beam will buckle locally if its fully yielded region just meets certain dimensional criteria. These dimensional requirements (width-thickness ratio and length-depth ratios) are derived analytically, and the solution is applicable to both structural carbon and high-strength steels. The dependence of inelastic local buckling on the strain-hardening stiffness is emphasized, and it is shown that the variations of the limiting ratios between various types of steel is not only a function of the yield stress variations. The inelastic material properties of the member are assessed by a method based on the metallurgical behavior of the steel. In particular, a value of the inelastic shear modulus was obtained which showed good agreement with test results.
+
+

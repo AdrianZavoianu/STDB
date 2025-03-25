@@ -1,0 +1,491 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Tian Gao
+    
+        AU - Cristopher D. Moen
+    
+
+TI - Extending the Direct Strength Method for Cold-Formed Steel Design to Through-Fastened Simple Span Girts and Purlins with Laterally Unbraced Compression Flanges
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014010
+VI - 140
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0000860 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000860
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000860
+SO - Journal of Structural Engineering 2014-06-01 140(6): 04014010
+AB - A direct-strength method (DSM) prediction approach is introduced and validated for metal building wall and roof systems that are constructed with steel panels through-fastened with screws to girts or purlins. The focus is capacity prediction for simple spans under wind uplift or suction; however, the DSM framework is generally formulated to accommodate gravity loads, continuous spans, standing-seam roofs, and insulated roof and wall systems in the future. System flexural capacity is calculated with the usual DSM approach; global buckling, local-global buckling interaction, and distortional buckling strengths are determined with a finite-strip Eigen-buckling analysis, including a rotational spring that simulates restraint provided by the through-fastened steel panel. The DSM flexural capacity is then reduced with a code-friendly equation consistent with existing standard provisions to account for the additional stress at the intersection of the web and free flange that occurs as the girt or purlin rotates with respect to a suction (uplift) load. A database of 62 simple-span tests was assembled to evaluate the strength prediction accuracy of the proposed DSM approach alongside existing standard provisions. The proposed DSM approach is confirmed to be viable and accurate for simple spans. Modifications to a standard approach are proposed that could improve its accuracy. The R-factor prediction method is accurate for c-section simple spans, unconservative for z-section simple spans, and overall lacks the generality of the other two approaches reported in this paper.
+
+
+    
+        AU - David J. Webster
+    
+        AU - Jeffrey W. Berman
+    
+        AU - Laura N. Lowes
+    
+
+TI - Experimental Investigation of SPSW Web Plate Stress Field Development and Vertical Boundary Element Demand
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014011
+VI - 140
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0000989 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000989
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000989
+SO - Journal of Structural Engineering 2014-06-01 140(6): 04014011
+AB - Steel plate shear walls (SPSW) are an efficient but largely underutilized building lateral force resisting system. The system consists of a moment frame (the boundary frame) with slender steel web plates that are welded or bolted inside the boundary frame, forming a diaphragm. The resulting structure resembles a vertical plate girder. The system resists lateral load primarily through tension field action of the postbuckled web plate. The magnitude and orientation of this tension field is governed by the relative stiffness of the web plate and boundary frame. The 2010 Seismic Provisions currently require that the tension field inclination angle be either 40° or computed using a closed-form equation derived from elastic analysis. It is demonstrated through experimentation and finite-element analyses that the tension field inclination may migrate, from an initially low angle under an elastic postbuckled state, toward 45° as the plate is loaded plastically. The resulting flexural demand on the vertical boundary elements is consistent with this change for both monotonic and cyclic loading. Through a series of small-scale experiments, slender A1008 steel web plates were loaded inside a square reusable pin-connected frame. The aim of this study was to examine the interaction of the web plate with the boundary frame members and the development and change in the web plate tension field orientation. This paper presents the results of the experiments and some of the numerical simulations that were used to study the migration of the tension field orientation angle, and extend the results to a variety of SPSW configurations.
+
+
+    
+        AU - Talayeh Noshiravani
+    
+        AU - Eugen Brühwiler
+    
+
+TI - Analytical Model for Predicting Response and Flexure-Shear Resistance of Composite Beams Combining Reinforced Ultrahigh Performance Fiber-Reinforced Concrete and Reinforced Concrete
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014012
+VI - 140
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0000902 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000902
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000902
+SO - Journal of Structural Engineering 2014-06-01 140(6): 04014012
+AB - The addition of an external layer of reinforced ultrahigh performance fiber-reinforced concrete (R-UHPFRC) on top of reinforced concrete (RC) floor slabs and bridge decks is an emerging technique for strengthening RC structures. As an additional reinforcement, a layer of R-UHPFRC significantly increases the maximum resistance and deformation capacity of RC elements, thus creating a composite element that herein is referred to as RU-RC elements. This paper presents an elastic-plastic fictitious RU-RC composite hinge model for the damage caused by flexural and flexure-shear cracks in the RC element of the composite members. The model accounts for the nonlinear interaction of the two elements due to intermediate-crack-induced debonding (ICD) zone in the near-interface concrete. The model determines the force-deflection response and force in the RU-RC composite tension chord. Furthermore, the contribution of the R-UHPFRC element and the shear resistance envelope of the member are calculated. Comparison with available experimental results shows that the model can accurately predict the member response, resistance and failure mode. A simplified formulation for the shear resistance of the composite members is proposed. The models in this paper are needed for the design of the structural behavior of RC beams strengthened with R-UHPFRC.
+
+
+    
+        AU - Max Stephens
+    
+        AU - Peter Dusicka
+    
+
+TI - Analytical and Numerical Evaluation of Continuously Stiffened Composite Web Shear Links
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014013
+VI - 140
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0001029 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001029
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001029
+SO - Journal of Structural Engineering 2014-06-01 140(6): 04014013
+AB - A concept for providing continuous out-of-plane web stiffness in shear-dominated links subjected to cyclic loading was investigated as an alternative to using discrete web stiffeners. The continuously stiffened web consisted of an elastic core bonded to two steel face plates. An analytical relationship was developed for determining the core thickness to achieve stiffness equivalent to discrete stiffeners. A parametric numerical study using experimentally validated nonlinear finite-element models was also conducted for two different web aspect ratios in order to investigate the influence of the core elastic modulus and the core thickness on the hysteretic performance. The overall web behavior and the hysteretic response of the links improved as the core elastic modulus and the core thickness increased. The analytically derived core thickness values were found to be conservative as long as a minimum core elastic modulus of 69&nbsp;MPa (10&nbsp;ksi) was provided to alleviate localized plastic deformations in the web. The core contribution to the overall link stiffness and plastic shear capacity was negligible. The outcomes demonstrated the concept of utilizing continuously stiffened webs for cyclically deforming shear links.
+
+
+    
+        AU - Jun Yu
+    
+        AU - Tassilo Rinder
+    
+        AU - Alexander Stolz
+    
+        AU - Kang-Hai Tan
+    
+        AU - Werner Riedel
+    
+
+TI - Dynamic Progressive Collapse of an RC Assemblage Induced by Contact Detonation
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014014
+VI - 140
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0000959 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000959
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000959
+SO - Journal of Structural Engineering 2014-06-01 140(6): 04014014
+AB - The nature of progressive collapse is a dynamic event caused by accidental or intentional extraordinary loading. Most published experimental programs are conducted statically, without any consideration of the accidental loading and treating progressive collapse as threat independent. This paper demonstrates the more realistic process of progressive collapse in an experimental program on reinforced concrete subassemblages collapsed by a combination of dead weight loading and contact detonation. The dynamic results are represented systematically at different aspects and compared with previous published quasi-static experiments in terms of structural mechanisms, crack patterns and local failure modes. Moreover, the dynamic increase factor (DIF) of reinforcing bars and the dynamic load amplification factor (DLAF) are investigated and discussed. Following the above comparisons and the findings in the dynamic tests, previous quasi-static test results can be linked to actual progressive collapse behavior more convincingly. Finally, the dynamic tests also highlight the effect of contact detonation on structures, which are often not considered in quasi-static tests and design guidelines. The test results indicate that contact detonation causes uplift and out-of-plane actions to the subassemblage before their downward movement under gravity load, in which the strain rate of reinforcement is between 10−2 and 10−1/s. Moreover, the structural mechanisms are similar in both quasi-static and dynamic tests.
+
+
+    
+        AU - Raul D. Bertero
+    
+
+TI - Reliability-Based Analysis and Design of Wide-Span Structures under Stochastic Wind Loads
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014015
+VI - 140
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0001012 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001012
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001012
+SO - Journal of Structural Engineering 2014-06-01 140(6): 04014015
+AB - The objective of this paper is to present a reliability-based method for structural analysis and design under stochastic wind loads so that nominal wind pressure coefficients p′* (associated with the covariance matrix Cp′) can be defined for use in the context of the load and resistance factor design (LRFD) method. The novelty of the formulation presented in this paper is based on the approach used to solve the problem of considering simultaneously the wind load as random variables (the maximum mean wind pressure outside the influence of the structure on the life cycle of the facility) and the wind load as a space and time random process defined by the covariance matrix Cp′ (i.e.,&nbsp;a second moment approximation for the non-Gaussian process) and the peak factor q. The nominal wind pressure coefficients p′, associated with the covariance matrix Cp′, are defined so that the three sources of wind randomness can be independently considered: (1)&nbsp;the randomness in the peak factor q (which depends on the mean zero-crossing rate, the skewness, and excess kurtosis of the random process and the duration of the wind storm); (2)&nbsp;the randomness in the maximum storm wind mean pressure in the life cycle of the facility, w; and (3)&nbsp;the randomness in the wind-load pressure distribution represented by the covariance matrix Cp′. It is shown that by introducing the nominal wind pressure coefficients p′ and the other random variables in the failure equation, it is possible to (1)&nbsp;obtain a general and objective criterion for selecting the specific response ri on which the wind-load distribution should be based; and (2)&nbsp;consider the different failure modes, capacity of the members, and target reliability in the definition of the design load pattern and design load factors. Some important results previously obtained by Kaspersky in the load-response-correlation (LRC) method are used and presented in a more general approach. The proposed method (particularly useful for consideration of the stochastic wind loads on wide-span structures such as tall buildings, long-span roofs, towers, and bridges) is applied to didactic examples and to the design of the roof of the Braga Stadium in Portugal.
+
+
+    
+        AU - Manuel Santarsiero
+    
+        AU - Maurizio Froli
+    
+        AU - Christian Louter
+    
+
+TI - Equivalent-Design Crack Model for Structural Glass Elements
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014016
+VI - 140
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0001026 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001026
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001026
+SO - Journal of Structural Engineering 2014-06-01 140(6): 04014016
+AB - Analytical determination of safety in glass structures often uses oversimplified resistance criteria or fully probabilistic models which require special software to numerically solve the complex equations. Due to computation cost and remaining uncertainty in these different analytical methods, engineers are often required to perform expensive experimental tests to reliably determine glass-structure safety. As a compromise between the need to accurately model the complex mechanical behavior of glass failure and the need to reduce analytical complexity in calculations, this paper proposes a simple semiprobabilistic failure prediction model for glass structures, called the equivalent-design crack model (EDCM). The EDCM is defined using the basis of linear elastic-fracture mechanics, characterized by a mathematical expression that depends on the probability of failure and the level of surface damage. The proposed model considers the influence of surface area, load time-history and complex stress fields within the structural elements. Experimental results from four-point bending and coaxial double-ring tests show good agreement with analytical results using the proposed EDCM method. Application ofthe EDCM in structural design is also presented.
+
+
+    
+        AU - DongHun Yeo
+    
+        AU - Ning Lin
+    
+        AU - Emil Simiu
+    
+
+TI - Estimation of Hurricane Wind Speed Probabilities: Application to New York City and Other Coastal Locations
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014017
+VI - 140
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0000892 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000892
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000892
+SO - Journal of Structural Engineering 2014-06-01 140(6): 04014017
+AB - A procedure is presented for estimating parametric probabilistic models of hurricane wind speeds from existing information on state-of-the-art estimates of wind speeds with various mean recurrence intervals (MRIs). Such models may be needed, for example, for the estimation of hurricane wind speeds with long MRIs required for the performance-based design of structures susceptible of experiencing nonlinear behavior. First, the procedure is applied to the case where that information is obtained from ASCE 7-10 wind maps, and examples are provided of its application to a number of coastal mileposts on the Gulf and Atlantic coasts. Next, the procedure is applied by using, in addition to the ASCE 7-10 information, hurricane wind speeds with 1,000,000- and 10,000,000-year MRIs estimated in a 2011 Nuclear Regulatory Commission (NRC) report. It is then argued that ASCE 7-10 Standard basic wind speeds for New York City are not conservative with respect to their counterparts specified in the standard for other U.S. hurricane-prone locations. Finally, it is shown that, for the randomly selected cases examined here, best-fitting extreme value distributions of hurricane wind speeds typically have finite upper tails of the reverse Weibull type, rather than infinite upper tails of the Gumbel type. This result, if confirmed by additional studies, may help to change the still widely held belief that extreme wind speeds are modeled appropriately only by the Gumbel distribution.
+
+
+    
+        AU - Ravi Kiran
+    
+        AU - Kapil Khandelwal
+    
+
+TI - Fast-to-Compute Weakly Coupled Ductile Fracture Model for Structural Steels
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014018
+VI - 140
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0001025 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001025
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001025
+SO - Journal of Structural Engineering 2014-06-01 140(6): 04014018
+AB - Ductile fracture in metals can be simulated either by coupled or by uncoupled fracture models. Although the coupled models simulate the gradual loss of strength resulting from the initiation of the damage attributable to microvoid nucleation, growth and coalescence, the uncoupled models can describe critical the conditions under which ductile fracture initiates. Even though the coupled models can completely characterize the ductile damage process, calibration of these models is difficult and their computational implementation is expensive when compared with the uncoupled fracture models. This study is concerned with development of a fracture model that can simulate the ductile fracture process in steels like coupled models with the computational efficiency of the uncoupled models. To this end, a weakly coupled fracture model that can efficiently simulate the ductile fracture process is introduced. The weakly coupled model is proposed based on a micromechanical void growth model and is calibrated using the experimental data from notched steel specimens. The weakly coupled fracture model is successfully used to simulate failure resulting from ductile fracture in specimens made up of different batches of ASTM A992 steels and in specimens made up of ASTM A572 steels.
+
+
+    
+        AU - Togay Ozbakkaloglu
+    
+        AU - Yunita Idris
+    
+
+TI - Seismic Behavior of FRP-High-Strength Concrete–Steel Double-Skin Tubular Columns
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014019
+VI - 140
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0000981 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000981
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000981
+SO - Journal of Structural Engineering 2014-06-01 140(6): 04014019
+AB - This paper reports on an experimental study on the seismic behavior of fiber-reinforced polymer (FRP)–concrete–steel double-skin tubular (DST) columns. Nine DST and one concrete-filled FRP-tube (CFFT) columns that were made of high-strength concrete were tested under constant axial compression and reversed-cyclic lateral loading. The main parameters of the experimental study were axial load level, amount and type of FRP confinement, concrete strength, sectional shape and thickness of the inner steel tube, and provision (or absence) of a concrete filling inside the steel tube. Of primary importance, the results indicate that DST columns are capable of developing very high inelastic deformation capacities under simulated seismic loading. The results also indicate that the presence of a concrete filling inside the inner steel tube significantly and positively influences the seismic behavior of DST columns. It is found that the performance of the void-filled DST column is superior to that of a companion CFFT column having identical geometric and material properties apart from the main internal steel reinforcing bars. These early observations suggest that DST columns may provide an attractive alternative to CFFT columns in the construction of new earthquake-resistant columns. No detrimental effect of the increased concrete strength on the displacement capacity of the DST columns is observed, provided that the amount of confinement is increased proportionally with the concrete strength. The influence of the cross-sectional geometry of the inner steel tube is found to be significant, whereas the thickness of the steel tube is found to have only a minor influence on the behavior of DST columns. It is observed that the FRP-tube material has some influence on the lateral displacement capacity of DST columns, with the specimens confined by FRP tubes manufactured using fibers with higher ultimate tensile strains developing slightly higher displacement capacities. Examination of the test results has led to a number of significant conclusions with regard to the influence of the important column parameters on the performance of DST columns. These results are presented together with a discussion of the influence of the main parameters on the seismic behavior of DST columns.
+
+
+    
+        AU - Pouria Bahmani
+    
+        AU - John W. van de Lindt
+    
+        AU - Thang N. Dao
+    
+
+TI - Displacement-Based Design of Buildings with Torsion: Theory and Verification
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014020
+VI - 140
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0000896 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000896
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000896
+SO - Journal of Structural Engineering 2014-06-01 140(6): 04014020
+AB - Direct displacement design (DDD) is a procedure that allows one to distribute the forces induced by an earthquake to the levels of a multistory building to ensure that the desired level of interstory drift is not exceeded. To date, DDD has only been applied to buildings that do not exhibit significant torsional response. This paper presents a methodology to perform displacement-based design (DBD) on multistory buildings with in-plane torsional irregularities, thereby generalizing DBD for buildings with torsion. The procedure includes decoupling the contribution of the deformation that results from translation and torsion by using an existing approximation technique. The approach is validated by using detailed finite-element models of asymmetric buildings; it is found to accurately reproduce the desired dynamic structural properties. Both linear and nonlinear (elastic-perfectly plastic) systems are demonstrated and the accuracy is verified. The method is shown to be very accurate for linear systems and slightly conservative for nonlinear systems.
+
+
+    
+        AU - Arnaud Castel
+    
+        AU - Raymond Ian Gilbert
+    
+        AU - Gianluca Ranzi
+    
+
+TI - Instantaneous Stiffness of Cracked Reinforced Concrete Including Steel-Concrete Interface Damage and Long-Term Effects
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014021
+VI - 140
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0000954 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000954
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000954
+SO - Journal of Structural Engineering 2014-06-01 140(6): 04014021
+AB - In reinforced concrete construction, deflection control is an important performance criterion for its serviceability and sustainability. In this paper, an experimental program aimed at modeling the effects of both short-term and sustained loading on the instantaneous stiffness of reinforced concrete flexural members is described. In the first part of the paper, experimental results are discussed showing that both steel-concrete interface damage (i.e.,&nbsp;cover-controlled cracking) attributable to excessive live loading and time-dependent effects such as creep and shrinkage have a major influence on the instantaneous stiffness of beams. In the second part of the paper, a finite-element model that accounts for the influence of cover-controlled cracking on the instantaneous stiffness is proposed. Only the short-term response to load is modeled in this paper. The effect of cover-controlled cracking is taken into account by implementing a damage variable to reduce the bond at the steel-concrete interface as loading is increased or during a period of sustained loading and shrinkage. In addition, a criterion for the initiation of cover-control cracks based on a peak value of the steel stress at the crack location is also defined.
+
+
+    
+        AU - Hossein Derakhshan
+    
+        AU - Dmytro Dizhur
+    
+        AU - Michael C. Griffith
+    
+        AU - Jason M. Ingham
+    
+
+TI - In Situ Out-of-Plane Testing of As-Built and Retrofitted Unreinforced Masonry Walls
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014022
+VI - 140
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0000960 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000960
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000960
+SO - Journal of Structural Engineering 2014-06-01 140(6): 04014022
+AB - The out-of-plane behavior of as-built and retrofitted unreinforced masonry (URM) walls was investigated by conducting in situ static airbag tests in four buildings. The age of the buildings varied from 80 to 130&nbsp;years, and all but one were constructed using clay brick masonry with timber floor and roof diaphragms. The fourth building was a reinforced concrete frame structure with precracked clay block partition walls in addition to partition walls that appeared undamaged. The test program was composed of testing five one-way vertically spanning solid URM walls from the group of three URM buildings and testing four two-way spanning URM partition walls from the reinforced concrete frame building. All walls were tested with their original support conditions, but three one-way spanning walls were additionally retested with modified support conditions. These additional tests allowed the effects of wall support type to be investigated, including the influence of a concrete ring beam used at the floor levels and the influence of wall-to-timber diaphragm anchorage by means of grouted steel rods. Several walls were next retrofitted by adding either near-surface mounted (NSM) carbon fiber–reinforced polymer (CFRP) strips or NSM twisted steel bars (TSBs) and were then retested. A comparison between the results of the tests on as-built walls and the tests conducted on retrofitted walls suggests that the simple retrofit techniques that were used are suitable for URM wall strengthening to ultimate limit state (ULS) design. The test results in two buildings highlighted significant inherent variability in masonry material properties and construction quality, and recommendations were made for the seismic assessment and retrofit of URM walls. An analytical trilinear elastic model especially useful when assessing the dynamic stability of cracked one-way spanning walls proved to satisfactorily predict the maximum wall strength, excluding those walls that developed arching action.
+
+
+    
+        AU - Richard L. Wood
+    
+        AU - Tara C. Hutchinson
+    
+
+TI - Design-Oriented Model for Capturing the In-Plane Seismic Response of Partition Walls
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014023
+VI - 140
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0000899 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000899
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000899
+SO - Journal of Structural Engineering 2014-06-01 140(6): 04014023
+AB - Using data generated from experiments, a numerical model is developed for capturing the in-plane seismic response of full-height cold-formed steel framed partition walls. The behavior of the partition wall is captured using a lumped nonlinear material model localized within a zero-length spring. The lumped material is developed with a pinching material used in a parallel configuration within the Open System for Earthquake Engineering Simulation (OpenSees) modeling platform. A simple, lumped model is utilized to facilitate ease of implementation in beam-column type finite element analyses commonly adopted in design of building structures. Importantly, its characteristics are determined by analyzing a large suite of experimental data on institutional and commercial type metal stud walls. Two error metrics based on calculation of the maximum force and half-cycle hysteretic energy are introduced to assess the model’s robustness. The model’s predictive capabilities are demonstrated via simulation of individual walls. In particular, for a fully-connected partition wall, a normalized mean model is shown to capture the experimental hysteretic behavior with a high level of accuracy.
+
+
+    
+        AU - Caihua Chen
+    
+        AU - Cuikun Wang
+    
+        AU - Huizhong Sun
+    
+
+TI - Experimental Study on Seismic Behavior of Full Encased Steel-Concrete Composite Columns
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014024
+VI - 140
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0000951 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000951
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000951
+SO - Journal of Structural Engineering 2014-06-01 140(6): 04014024
+AB - With the rapid development of high-rise buildings in China, the steel-concrete composite structure is widely used because of its excellent seismic performance. So far, all of the high-rise buildings that rise more than 300&nbsp;m in China are of a steel-concrete composite structure, which are designed based on Chinese codes. During the construction process, two main problems are encountered, as follows: (1)&nbsp;minimum stirrup ratio, and (2)&nbsp;embedded depth ratio for steel-concrete composite columns, which are strictly limited by Chinese codes. To solve those problems, 26 steel-concrete composite columns were tested under low cyclic reversed loading to simulate an earthquake load. By analyzing the failure patterns, hysteresis loops, skeleton curves, energy-dissipation capacity, and ductility of such specimens, the influence of the axial compression ratio, stirrup ratio, steel section shape, and steel embedded depth ratio on the seismic behavior of steel-concrete composite members are discussed. In accordance with the test results, the minimum stirrup ratio and embedded depth ratio for steel-concrete composite columns can be reduced relative to the limiting value given by Chinese codes. A formula for minimum stirrup ratio and a minimum embedded depth ratio for steel-concrete composite columns are recommended in accordance with an analysis of the test results.
+
+
+    
+        AU - Petros Sideris
+    
+        AU - Amjad J. Aref
+    
+        AU - Andre Filiatrault
+    
+
+TI - Large-Scale Seismic Testing of a Hybrid Sliding-Rocking Posttensioned Segmental Bridge System
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014025
+VI - 140
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0000961 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000961
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000961
+SO - Journal of Structural Engineering 2014-06-01 140(6): 04014025
+AB - In this paper, a novel precast concrete segmental bridge system is introduced and experimentally investigated. The system consists of segmental members incorporating hybrid sliding-rocking (HSR) joints and internal unbonded posttensioning (PT). The HSR joints are plane interfaces that are oriented normal to the member axis and do not include shear keys or epoxy adhesives. The HSR joints are designed to exhibit sliding (slip-dominant, SD) or rocking (rocking-dominant, RD) to mitigate the applied seismic loading and reduce damage. The joint response is affected by the PT system, which can include straight or curved tendons. Two types of HSR members are developed and investigated: (1)&nbsp;members with SD joints and straight tendons, intended for substructure columns (HSR-SD columns), and (2)&nbsp;members with RD joints and curved tendons, intended for superstructure girders (HSR-RD girders). The SD joints are shown to offer energy dissipation with low damage through sliding in addition to moderate self-centering. The RD joints, albeit offering low energy dissipation, are shown to provide high self-centering. A series of shake table tests on a large-scale bridge specimen demonstrates the successful integrated response of the HSR-SD substructure and the HSR-RD superstructure for intense horizontal and vertical seismic excitations.
+
+
+    
+        AU - Ihab M. El Aghoury
+    
+        AU - Khaled Galal
+    
+
+TI - Corrosion-Fatigue Strain-Life Model for Steel Bridge Girders under Various Weathering Conditions
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014026
+VI - 140
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0000992 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000992
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000992
+SO - Journal of Structural Engineering 2014-06-01 140(6): 04014026
+AB - Corrosion of existing infrastructure, such as steel bridges, would significantly reduce its anticipated fatigue life. There are very few corrosion-fatigue models that address civil engineering applications. To account for corrosion in the fatigue life prediction of steel bridges, a new fatigue strain-life model based on the Smith-Watson-Topper model is proposed. The proposed model provides the fatigue life predictions in the form of ranges with a minimum and a maximum value. The model takes into account the corrosivity of the environment, the stress level, and the corrosive behavior of the material used. The resulting fatigue life predictions using the proposed model matched well with the experimental results reported in the literature for 24 steel beams that were subjected to various fatigue and weathering conditions. The analytical predictions show that the proposed model is accurate, simple, and practical and can be easily calibrated for different materials.
+
+
+    
+        AU - Nicholas E. Wierschem
+    
+        AU - Jie Luo
+    
+        AU - Mohammad AL-Shudeifat
+    
+        AU - Sean Hubbard
+    
+        AU - Richard Ott
+    
+        AU - Larry A. Fahnestock
+    
+        AU - D. Dane Quinn
+    
+        AU - D. Michael McFarland
+    
+        AU - B. F. Spencer
+    
+        AU - Alexander Vakakis
+    
+        AU - Lawrence A. Bergman
+    
+
+TI - Experimental Testing and Numerical Simulation of a Six-Story Structure Incorporating Two-Degree-of-Freedom Nonlinear Energy Sink
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014027
+VI - 140
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0000978 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000978
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000978
+SO - Journal of Structural Engineering 2014-06-01 140(6): 04014027
+AB - The nonlinear energy sink (NES) is a fully passive attachment used to rapidly dissipate a significant portion of energy induced in a linear primary structure to which it is attached. In this study, the performance of a Type III NES in reducing the response of a large primary structure when subjected to a shock-type loading is evaluated experimentally. The Type III NES is a two-degree-of-freedom device comprising two relatively lightweight masses in series coupled together and to the primary structure through essentially nonlinear (i.e.,&nbsp;nonlinearizable) stiffness elements. The essential stiffness nonlinearity of the NES and the corresponding lack of preferential resonance frequencies enable it to resonantly interact with multiple structural modes over broad frequency and energy ranges. Hence a local NES can induce global effects in the dynamics of the structure to which it is attached. In this study, and for the first time, specially shaped polyurethane bumpers are employed for realizing these essentially nonlinear stiffness elements of the Type III NES. Measures calculated from the experiments in this study, such as the effective damping of the primary structure, indicate the ability of the NES to dissipate energy and reduce the response of the primary structure over a wide range of magnitudes of a shock loading. Good agreement between numerical predictions and experimental observations validates the identified model of the NES.
+
+
+    
+        AU - Pramin Norachan
+    
+        AU - Ki-Du Kim
+    
+        AU - Eugenio Oñate
+    
+
+TI - Analysis of Segmentally Constructed Prestressed Concrete Bridges Using Hexahedral Elements with Realistic Tendon Profiles
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014028
+VI - 140
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0000923 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000923
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000923
+SO - Journal of Structural Engineering 2014-06-01 140(6): 04014028
+AB - The paper presents a systematically numerical procedure based on the finite-element method for three-dimensional analysis of segmentally constructed prestressed concrete bridges using hexahedral elements including realistic tendon profiles. The enhanced assumed strain (EAS) is used in the formulation of the hexahedral element in order to improve the element performances. Both the geometric nonlinearity and time-dependent effects due to creep, shrinkage, and aging of the concrete and relaxation of the prestress are taken into account, while variations of the structural configuration due to changes of the structural geometry and boundary conditions during the construction process are also incorporated. To include realistic tendon profiles, the idealized prestressing tendon is represented by a system of piecewise linear prestressing segments. Several numerical examples in a wide range of prestressed concrete structures are presented to demonstrate the validity and efficiency of the proposed procedure. Finally, application to the erection of a segmentally erected prestressed concrete bridge is discussed at the end of the paper.
+
+
+    
+        AU - Minjuan He
+    
+        AU - Zheng Li
+    
+        AU - Frank Lam
+    
+        AU - Renle Ma
+    
+        AU - Zhong Ma
+    
+
+TI - Experimental Investigation on Lateral Performance of Timber-Steel Hybrid Shear Wall Systems
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04014029
+VI - 140
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0000855 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000855
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000855
+SO - Journal of Structural Engineering 2014-06-01 140(6): 04014029
+AB - This paper presents the results of an experimental study on the lateral performance of timber-steel hybrid shear wall systems. Such systems are composed of steel moment-resisting frames and infill wood-frame shear walls. Monotonic and reversed cyclic tests of two full-scale timber-steel hybrid structures were conducted. There were three timber-steel hybrid shear wall systems in each structure. The lateral stiffness, lateral load capacities and hysteretic characteristics of the timber-steel hybrid shear wall systems with single- and double-sheathed infill wood-frame shear walls were investigated. The load sharing effect between the timber and the steel subsystems was studied. The test results showed that the installation of the infill wood-frame shear wall produced a significant increase in the initial lateral stiffness of the bare steel moment-resisting frame. The infill wood-frame shear walls were very effective in the initial stages of loading and absorbed a substantial part of the lateral load. However, once damage developed in the infill wood-frame shear walls, the lateral load was essentially resisted by the steel moment-resisting frames.
+
+
+    
+        AU - Lip H. Teh
+    
+        AU - Benoit P. Gilbert
+    
+
+TI - Net Section Tension Capacity of Equal Angle Braces Bolted at Different Legs
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 06014002
+VI - 140
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0000964 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000964
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000964
+SO - Journal of Structural Engineering 2014-06-01 140(6): 06014002
+AB - This paper points out that, in practice, the two connected ends of an angle brace or bracket may be bolted at different legs due to constructional constraints. However, no design equation for determining the net section tension capacity of such a connection exists, and neither do published laboratory test results. This paper presents a series of laboratory tensile test results involving equal angle braces bolted at different legs, with legs ranging from 50 to 75&nbsp;mm and tension distances ranging from 100 to 300&nbsp;mm. The specimens were composed of 3.0-mm G450 sheet steel, which is among those that have the lowest ductility for which the nominal tensile strength is permitted to be fully utilized in structural design calculations by cold-formed steel design codes. Based on a modification to the equation derived for angle braces bolted at one leg, a design equation is presented for determining the net section tension capacity of a cold-formed steel angle bracket bolted at different legs.
+
+
+TI - Reviewers
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 09014001
+VI - 140
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0001061 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001061
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001061
+SO - Journal of Structural Engineering 2014-06-01 140(6): 09014001
+
+

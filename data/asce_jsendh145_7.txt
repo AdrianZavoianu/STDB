@@ -1,0 +1,454 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Ali Davaran
+    
+        AU - Thierry Béland
+    
+        AU - Robert Tremblay
+    
+
+TI - Elastic-Plastic Analysis of Bolted Angles Usable in Steel Frame Connections
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019048
+VI - 145
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0002320 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002320
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002320
+SO - Journal of Structural Engineering 2019-07-01 145(7): 04019048
+AB - An analytical model was proposed to predict the monotonic load-deformation behavior of bolted angles used in semirigid steel frame connections. This model was validated using the results of 30 pull tests performed on bolted angle specimens with 10 different geometrical configurations. The model employed elastic-plastic analysis to follow the behavior upon formation of up to four plastic hinges involved in the entire yielding mechanism. The presented model is capable of handling slip in the column-leg bolts, which occurs when the developed shear force exceeds the frictional resistance. It was shown that the inclusion of slip in the column leg affects the elastic-plastic response, especially for stocky angles, and should be taken into account. The method also included strain hardening and geometrical nonlinearity (truss action). The ultimate deformation of the angle at fracture was also predicted through the kinematics of the mechanism using the ultimate strain criteria. The comparison of the test and analytical results showed the proposed method provides a reasonable backbone curve for the angle behavior, which is usable to make nonlinear spring element models for semirigid connections composed of flange angles.
+
+
+    
+        AU - Jinwon Shin
+    
+        AU - Andrew S. Whittaker
+    
+
+TI - Blast-Wave Clearing for Detonations of High Explosives
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019049
+VI - 145
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0002327 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002327
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002327
+SO - Journal of Structural Engineering 2019-07-01 145(7): 04019049
+AB - When a blast wave impinges on the front face of a structure, rarefaction waves are formed along its free edges and propagate toward the center of the front face, and reduce the reflected overpressure: an effect known as clearing. Standards, guidelines and textbooks provide empirical equations to account for the effect of clearing. The clearing time is that instant at which the reflected overpressure decreases to the stagnation pressure. These empirical equations were used to calculate the reflected impulse for the design of a building loaded by a far-field detonation of a nuclear weapon. For such a detonation and a low-rise building, the incident shock front can be assumed to be vertical. This assumption is inappropriate for near-field detonations of high explosives because the reflected overpressure across the front face of a target varies with arrival time, standoff distance, and angle of incidence. There is little information on the effect of clearing in the literature for near-field (small-scaled distance) detonations. This paper presents the results of a computational fluid dynamics analysis of a validated numerical model that examines blast-wave clearing with an emphasis on near-field detonations. The widely used empirical equations for calculating clearing time are incorrect for near-field detonations and should not be used in design practice. Clearing in the near field is negligible and should be ignored for the purpose of design. Clearing in the far field will only be important for structural components of a width that is too narrow to be of practical importance. The physical experiments of two previous studies were simulated to gain insight into the development of the empirical equations that characterize the effects of clearing.
+
+
+    
+        AU - Weiding Zhuo
+    
+        AU - Teng Tong
+    
+        AU - Zhao Liu
+    
+
+TI - Analytical Pushover Method and Hysteretic Modeling of Precast Segmental Bridge Piers with High-Strength Bars Based on Cyclic Loading Test
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019050
+VI - 145
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0002318 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002318
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002318
+SO - Journal of Structural Engineering 2019-07-01 145(7): 04019050
+AB - Compared to cast-in-place bridge piers, precast piers can accelerate bridge construction, but their use in seismic systems is challenging. High-strength bars (≥500  MPa) incorporated with precast piers can further expedite joint connection through reducing the quantity of conventional bars. Four large-scale pier column specimens with either high-strength (HRB600) or conventional (HRB400) bars were experimentally studied under cyclic loading. Test results showed that the precast pier with high-strength rebar shows greater lateral strength, self-centering capacity, and total energy dissipation (ED) than the one with conventional rebar. An analytical method was proposed to accurately predict the monotonic pushover behavior. The derivation of the moment-opening angle (M-θ) relationship was presented, considering the slippage between the ED bar and cementitious grout. Furthermore, a fiber-element model was established within the framework of OpenSees. Through modifying the constitutive law of unbonded ED bars near the joint interface, the bond-slip behavior can be realistically simulated. Hysteretic behaviors of precast segmental piers can be accurately captured in terms of maximum lateral force, residual drift, and energy dissipation, among others. The research can promote the application of high-strength reinforcements in the precast segmental pier.
+
+
+    
+        AU - Canhui Zhao
+    
+        AU - Kangkang Wang
+    
+        AU - Rongyao Xu
+    
+        AU - Kailai Deng
+    
+        AU - Bing Cui
+    
+
+TI - Development of Fully Prefabricated Steel-UHPC Composite Deck System
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019051
+VI - 145
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0002338 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002338
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002338
+SO - Journal of Structural Engineering 2019-07-01 145(7): 04019051
+AB - This paper proposes a novel fully prefabricated composite deck system to achieve green and accelerated construction in bridge engineering. Ultra-high-performance concrete (UHPC), which has excellent mechanical properties, was employed as the main material of the prefabricated deck. Special connecting configurations, that is, steel plates with studs or pretensioned rebar, were used for enhancing the crack resistance of the steel-UHPC interface and facilitating convenient on-site assembly. Two sets of specimens featuring passive and active crack resistance were tested for investigation of the behavior of the composite deck under negative moment. The tests showed that the fully prefabricated composite deck provided satisfactory crack resistance compared with a traditional cast-in-place construction composite deck. On the basis of physical testing, a numerical model was built with Abaqus for further parametric analysis. Several design parameters were evaluated through supplementary analyses and recommendations were made for rebar pretension force and beam stiffener height.
+
+
+    
+        AU - Yike Zhang
+    
+        AU - Gary M. Raftery
+    
+        AU - Pierre Quenneville
+    
+
+TI - Experimental and Analytical Investigations of a Timber–Concrete Composite Beam Using a Hardwood Interface Layer
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019052
+VI - 145
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0002336 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002336
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002336
+SO - Journal of Structural Engineering 2019-07-01 145(7): 04019052
+AB - This paper presents a study that examined the use of a new connection system in a prefabricated timber–concrete composite (TCC) beam in which a hardwood layer was glued to the top of a timber web to reinforce a dowel-type connection. Embedment tests highlighted the mechanical advantages associated with the use of Eucalyptus sideroxylon, which had a mean density of 1,080  kg/m3. The slip modulus of the proposed connection determined from double shear tests outperformed a prefabricated connection involving dowel connectors and no hardwood layer by 75%. Full-scale testing was undertaken on six beams, with two configurations of shear connectors studied. For each beam, the load-deflection behavior, relative slip between the concrete and timber at each connector, and strain profile at the midspan were measured. A simulation model was developed from which a parametric analysis was undertaken. Composite action of 81.9% was achieved when the minimum spacing was used. Using the γ-method as a design guideline is recommended. This connection system avoided the additional labor associated with using notches or adhesive at the interface and was easily fabricated.
+
+
+    
+        AU - Chatchai Jiansinlapadamrong
+    
+        AU - KyoungSub Park
+    
+        AU - John Hooper
+    
+        AU - Shih-Ho Chao
+    
+
+TI - Seismic Design and Performance Evaluation of Long-Span Special Truss Moment Frames
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019053
+VI - 145
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0002340 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002340
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002340
+SO - Journal of Structural Engineering 2019-07-01 145(7): 04019053
+AB - The need for a very-long-span structure in sporting and industrial venues puts steel moment frames and braced frames at a disadvantage. In this regard, special truss moment frames (STMFs) can accommodate a large span by utilizing truss girders to provide high lateral stiffness. However, current seismic provisions for structural steel buildings do not allow STMFs’ span and truss depth to exceed 20 and 1.8&nbsp;m, respectively. Moreover, when a very long span is used, the high axial forces induced by the gravity load could cause considerable ductility reduction of the chord members in the special segment. This paper presents a study on seismic behavior of long-span STMFs with double-channel truss members, a span length of 27.4&nbsp;m, and a truss depth of 3.05&nbsp;m. Plastic hinge models of double-channel sections considering the effect of high axial forces were developed based on experimental and nonlinear finite-element analysis (FEA) for both design basis earthquakes (DBEs) and near-collapse earthquakes or maximum considered earthquakes (MCEs). A design procedure for long-span STMFs using nonlinear pushover analysis is presented. The seismic performance of long-span STMFs was verified using the developed plastic hinge models as well as DBE and MCE ground motions through nonlinear time-history (NTH) analyses. According to the FEA results, a modification to the axial load limit in current seismic provisions for the chord members is recommended.
+
+
+    
+        AU - Jungil Seo
+    
+        AU - Amit H. Varma
+    
+
+TI - Steel-Plate Composite Wall-to-Wall T-Joints: Joint Shear Strength
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019054
+VI - 145
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0002317 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002317
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002317
+SO - Journal of Structural Engineering 2019-07-01 145(7): 04019054
+AB - Steel-plate composite (SC) walls are used in the containment internal structures (CIS) of safety-related nuclear facilities. CIS are typically composed of multiple SC walls intersecting each other and forming SC wall-to-wall joints. These joints should preferably be designed to be stronger than the connected SC walls so that the walls develop flexural yielding prior to joint failure. To ensure that flexural yielding of the connected SC walls occurs first, it is important to estimate the shear strength of the SC wall-to-wall joints. This paper presents the results of an experimental investigation on the fundamental behavior and the strength of SC wall-to-wall T-joints. The test parameters included in the investigation were the detailing of the joint region, which they included the presence and number of tie bars and distribution of stud anchors. The results from the investigation suggest that the structural behavior of SC wall T-joints is remarkably similar to the behavior of reinforced concrete beam-column joints. In addition, it appeared that the effects of detailing the joint region on the behavior and strength are not significant. The measured joint shear strength compared favorably with the design equations for reinforced concrete beam-column joints.
+
+
+    
+        AU - Machel L. Morrison
+    
+        AU - Doug Q. Schweizer
+    
+        AU - Shahriar Quayyum
+    
+        AU - Tasnim Hassan
+    
+
+TI - An Unstiffened Eight-Bolt Extended End-Plate Moment Connection for Special and Intermediate Moment Frames
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019055
+VI - 145
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0002332 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002332
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002332
+SO - Journal of Structural Engineering 2019-07-01 145(7): 04019055
+AB - Bolted extended end-plate (BEEP) moment-resisting connections are prequalified for use in special and intermediate moment frames. The current limits of this prequalification dictate that rolled wide-flange sections with a depth greater than 601&nbsp;mm (24&nbsp;in.) necessitate the use of the stiffened eight-bolt extended end-plate connection. The study reported herein experimentally evaluates an unstiffened eight-bolt extended end-plate connection for seismic applications. The connection features a modified bolt arrangement designed to promote uniform distribution of forces across the bolt group. Plastic hinging of the beam is relocated away from the connection joint by heat-treating selected regions of the beam flanges to reduce the strength of steel. Finally, the beam web is reinforced in the expected plastic hinge region to delay strength degradation due to local buckling. The pilot test specimen exceeded the qualifying 4% interstory drift angle. Failure occurred from buckling-induced fracture in the plastic hinge during loading cycles at 6% interstory drift. In this article, details of experimental development and test results are presented and the connection performance is further analyzed through posttest finite-element simulations.
+
+
+    
+        AU - Yancheng Cai
+    
+        AU - Ben Young
+    
+
+TI - Cold-Formed Lean Duplex Stainless Steel Tubular Members under Concentrated Interior Bearing Loads
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019056
+VI - 145
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0002343 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002343
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002343
+SO - Journal of Structural Engineering 2019-07-01 145(7): 04019056
+AB - In this study, a total of 58 tests were performed on cold-formed lean duplex stainless steel (LDSS) tubular members under three different loading conditions of concentrated interior bearing forces. The loading conditions included interior-one-flange (IOF), interior-two-flange (ITF), and interior loading (IL). The loading conditions of IOF and ITF are specified in the US and Australian/New Zealand cold-formed stainless steel design specifications, and the loading condition of IL simulated the floor joist members positioned on a solid foundation subjected to concentrated bearing load. The cold-formed LDSS specimens were failed by web crippling. The test strengths were compared with the nominal strengths predicted by the international specifications for stainless steel structures. In addition, the strengths predicted by the North American specification for cold-formed carbon steel structures and those from the design equations proposed in the literature for cold-formed duplex stainless steel members were also compared with the test strengths. It was found that the nominal strengths predicted by the international specifications for stainless steel structures are conservative and reliable for cold-formed LDSS members under concentrated interior bearing loads. The predictions by the North American specification were generally unconservative and not reliable, whereas the predictions from the literature were generally less conservative and reliable compared with those predicted by the stainless steel design specifications.
+
+
+    
+        AU - Kevin N. Hanks
+    
+        AU - Paul W. Richards
+    
+
+TI - Experimental Performance of Block-Out Connections at the Base of Steel Moment Frames
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019057
+VI - 145
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0002333 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002333
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002333
+SO - Journal of Structural Engineering 2019-07-01 145(7): 04019057
+AB - In a block-out connection, a steel column is connected to a footing through an opening (block-out) in a slab-on-grade that is later filled with unreinforced concrete. In design, engineers generally neglect any beneficial effects of the block-out concrete. The objective of this study is to experimentally quantify the effect of block-out concrete on the lower-bound flexural strength and stiffness of block-out connections at the base of steel moment frames. Eight specimens were tested with varying column shape, block-out depth, and baseplate/anchor rod designs. The block-out concrete increased the connection flexural strengths by 69%–91% for block-out depths that were 1.2–1.5 times the column depth. A strength model proposed in previous work was found to reasonably predict the flexural strength, accounting for the effects of block-out concrete. With regard to stiffness, specimens with block-out concrete depths at least 1.15 times the column depth could be accurately modeled as fixed at the top-of-footing elevation.
+
+
+    
+        AU - Adel Mashayekh
+    
+        AU - Chia-Ming Uang
+    
+
+TI - Cyclic Response of Sloped Steel Moment Connections
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019058
+VI - 145
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0002339 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002339
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002339
+SO - Journal of Structural Engineering 2019-07-01 145(7): 04019058
+AB - For seismic applications in special and intermediate steel moment frames, the design standard provides a number of prequalified connections. This assumes that the beam frames orthogonally into the column in the elevation and plan of the frame. To provide insight into the sloping effect, two one-sided, full-scale reduced beam section (RBS) moment connection specimens with a 25° slope angle were tested. The specimens had a W36×150 beam connected to a W14×257 column. The RBS dimensions were identical for both specimens, except that the RBS configuration was oriented parallel to the column centerline in one specimen and orthogonal to the beam span in the other. One orthogonal connection specimen was also tested. Defining the heel location as that where the outer face of the beam flange and column flange form an acute angle, testing showed that force concentration there caused brittle fracture. Fracture started from the end of the beam web complete joint penetration weld and the weld access hole. Design recommendations are made based on results from both testing and the associated finite-element simulation. A remedy that aims to reduce force concentration is also recommended.
+
+
+    
+        AU - Omid Esmaili
+    
+        AU - Farzin Zareian
+    
+
+TI - Preliminary Design of Moment-Resisting Frame Buildings for Tolerable Financial Loss
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019059
+VI - 145
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0002331 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002331
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002331
+SO - Journal of Structural Engineering 2019-07-01 145(7): 04019059
+AB - This paper aims to transfer the current performance-based seismic assessment (PBSA) methodology to engineering practice by providing a preliminary design procedure denoted herein as the preliminary performance-based seismic design (PPBSD). PPBSD aims at guiding a conceptual design given the tolerable expected loss and target hazard level. The suggested preliminary design procedure implicitly incorporates the main sources of variability in the seismic performance assessment of building structures including the variability associated with seismic excitation. PPBSD can help stakeholders make informed decisions on how to handle potential seismic risk at the preliminary design level with minimal computational effort. The process for development of design tools required for implementation of PPBSD are described and such development is illustrated for a 4-story reinforced concrete special moment-resisting frame (RC-SMRF) building located in Los Angeles for a 475-year ground motion return period. A design example is offered to demonstrate how PPBSD can be implemented in practice.
+
+
+    
+        AU - Mohammed Abdellatef
+    
+        AU - Jan Vorel
+    
+        AU - Roman Wan-Wendner
+    
+        AU - Mohammed Alnaggar
+    
+
+TI - Predicting Time-Dependent Behavior of Post-Tensioned Concrete Beams: Discrete Multiscale Multiphysics Formulation
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019060
+VI - 145
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0002345 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002345
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002345
+SO - Journal of Structural Engineering 2019-07-01 145(7): 04019060
+AB - Time-dependent deformations, including creep and shrinkage, are essential factors that govern multiple design aspects of prestressed/post-tensioned concrete structures. These include (but are not limited to) time to initial post-tensioning, prestressing losses, time to shoring removal, and serviceability in general. Excessive creep and shrinkage deformations can render a structure unusable aesthetically or even lead to eventual collapse. This is becoming more and more important because many of the recently developed advanced cementitious materials are characterized by larger and more evident long-term deformations (e.g.,&nbsp;prolonged self-desiccation in high-strength concrete). This paper presents the prediction of long-term deformations of post-tensioned concrete beams due to creep, shrinkage, and steel relaxation under sustained loading and varying environmental conditions. This is achieved by using the lattice discrete particle model (LDPM) framework, in which time-dependent deformations are imposed at the coarse aggregate level following an explicit solidification-microprestress formulation and a code-based model for steel relaxation. Time-dependent deformations are formulated as functions of spatial and temporal evolutions of temperature, humidity, and cementitious materials’ hydration within the concrete mesostructure, which are modeled by using a semidiscrete multiphysics hygro-thermo-chemical (HTC) model. The coupling between the different models allows for capturing the time-dependent deformations relevant to the different design stages of post-tensioned concrete beams. To show the predictive capabilities of the proposed multiscale physics-based framework, all model parameters are calibrated by simulating the response of companion specimens (lab scale) only, then used to predict blindly the behavior of full-scale post-tensioned beams. The predictions show very good agreement with experimental data.
+
+
+    
+        AU - Jawad Fayaz
+    
+        AU - Farzin Zareian
+    
+
+TI - Reliability Analysis of Steel SMRF and SCBF Structures Considering the Vertical Component of Near-Fault Ground Motions
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019061
+VI - 145
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0002330 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002330
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002330
+SO - Journal of Structural Engineering 2019-07-01 145(7): 04019061
+AB - This paper assesses the effects of the vertical component of ground motions on steel structures and evaluates the current seismic design provisions of ASCE 7 on the basis of a structural reliability outlook. Eight special moment-resisting frame (SMRF) and special concentrically braced frame braced frame (SCBF) steel structures were analyzed under two groups of near-fault (i.e.,&nbsp;strike slip and reverse fault) ground motions. Detailed methodology for calculating the reliability index (β) of structural components is explained; β is computed for structural component actions including moment and shear in beams, axial load in braces, and axial load and moment in columns. Seismic provisions of ASCE 7 were developed with an intention of achieving target β of 1.75 for earthquake-resistant structural members. Results indicated that the implementation of current seismic load combinations, in which a load factor equal to 20% of design level short-period spectral acceleration on structural dead load is used to account for the effects of the vertical component of ground motions, results in β∼1.3 for most structural members. Application of structural system drift limits, however, resulted in increased member sizes in SMRFs by which β values larger than 1.75 were achieved. It is concluded that current seismic load combinations in ASCE 7 are inadequate to account for the effects of the vertical component of near-fault ground motions. Nevertheless, performance-based design provisions can provide a reasonable and adequate margin of safety against structural member failure.
+
+
+    
+        AU - Vedhus Hoskere
+    
+        AU - Jong-Woong Park
+    
+        AU - Hyungchul Yoon
+    
+        AU - Billie F. Spencer
+    
+
+TI - Vision-Based Modal Survey of Civil Infrastructure Using Unmanned Aerial Vehicles
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019062
+VI - 145
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0002321 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002321
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002321
+SO - Journal of Structural Engineering 2019-07-01 145(7): 04019062
+AB - Computer vision techniques for extracting dynamic structural displacements from videos are gaining increasing acceptance for the purposes of system identification and structural health monitoring. However, the application of video-based techniques for modal analysis of full-scale civil infrastructure has been limited, because obtaining measurements of all points on a large structure with a single video frame with sufficient resolution is seldom feasible. In this study, a new approach is presented to facilitate the extraction of frequencies and mode shapes of full-scale civil infrastructure from video obtained by an unmanned aerial vehicle (UAV). This approach addresses directly a number of difficulties associated with modal analysis of full-scale infrastructure using vision-based methods. The proposed approach is evaluated using a story-story shear-building model excited on a shaking table in a laboratory environment, and on a full-scale pedestrian suspension bridge. The results demonstrate the efficacy of the proposed approach.
+
+
+    
+        AU - Matteo Peruch
+    
+        AU - Enrico Spacone
+    
+        AU - P. Benson Shing
+    
+
+TI - Cyclic Analyses of Reinforced Concrete Masonry Panels Using a Force-Based Frame Element
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019063
+VI - 145
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0002335 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002335
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002335
+SO - Journal of Structural Engineering 2019-07-01 145(7): 04019063
+AB - This paper presents the calibration of a frame element that can be used to model the flexural as well as the shear behavior of reinforced masonry panels subjected to monotonic and cyclic loads. The element can be used in the equivalent frame method to analyze masonry wall systems, and is based on a force-based Timoshenko beam element formulation that combines a fiber-section model with a phenomenological nonlinear shear law. The element was originally applied to the analysis of reinforced concrete frames, and has been recently extended to unreinforced masonry structures. Well-established constitutive laws are used for masonry and steel reinforcement. The constitutive law for shear requires special attention in order to correctly predict the shear force-deformation response of masonry walls, accounting for the presence of shear reinforcement. A procedure to calibrate the parameters of the shear law is presented. The effectiveness, accuracy, and simplicity of the force-based Timoshenko frame element and the calibration method are validated by results of experimental tests. Even though the element is general and can model any reinforced masonry panel, the applications of this paper focus on panels made of hollow concrete blocks.
+
+
+    
+        AU - Jun Ye
+    
+        AU - Francisco J. Meza
+    
+        AU - Iman Hajirasouliha
+    
+        AU - Jurgen Becque
+    
+        AU - Paul Shepherd
+    
+        AU - Kypros Pilakoutas
+    
+
+TI - Experimental Investigation of Cross-Sectional Bending Capacity of Cold-Formed Steel Channels Subject to Local-Distortional Buckling Interaction
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019064
+VI - 145
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0002344 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002344
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002344
+SO - Journal of Structural Engineering 2019-07-01 145(7): 04019064
+AB - This paper describes an experimental program carried out at the University of Sheffield to investigate the interaction of local and distortional buckling in cold-formed steel lipped channel beams. The channels were arranged in a back-to-back configuration and a total of six tests, including three different cross-sectional geometries, were completed. The specimens were tested in a four-point bending configuration with simply supported boundary conditions while being laterally braced at the loading points. The beams failed in the constant moment span by interaction of local and distortional buckling. The geometric imperfections of the channels were recorded before the test using a specially designed measuring rig employing laser sensors. Tensile coupons were also extracted from the flat portions and the corner regions of the cross sections in order to determine the material properties. Comparisons showed good agreement between the experimental results and the predictions of European design guidelines and current North American provisions, whereas other DSM formulations based on the NLD and NDL concepts resulted in rather conservative predictions.
+
+
+    
+        AU - Po-Chien Hsiao
+    
+        AU - Wei-Chieh Liao
+    
+
+TI - Effects of Hysteretic Properties of Stud-Type Dampers on Seismic Performance of Steel Moment-Resisting Frame Buildings
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019065
+VI - 145
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0002346 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002346
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002346
+SO - Journal of Structural Engineering 2019-07-01 145(7): 04019065
+AB - Stud-type damper devices (SDs), which are arranged vertically in frames by solely connecting beams in spans, are increasingly used in special moment-resisting frame (SMRF) systems in practice. The SDs are typically used to increase structural stiffness and energy dissipation for achieving better seismic performance of the systems when remaining a good architectural versatility in buildings. The dual system combining SDs in SMRFs is referred to as stud-type damper frames (SDFs) in this study. Various details of SDs forming different hysteric characteristics are available; however, how they affect the seismic performance of the systems is still unclear. This study presents an analytical investigation to clarify the advantages of adopting SDFs compared with their counterpart SMRFs, and the effect of each hysteretic property of SDs on the seismic performance at various seismic hazard levels. Three- and nine-story prototype buildings, representing low-rise and midrise buildings, respectively, with various hysteretic properties of SDs were analytically examined through nonlinear time-history analysis. A set of hysteretic properties of SDs was proposed, and was verified to significantly improve overall seismic performance of the buildings under small and frequent earthquakes and to effectively limit the residual interstory drifts under moderate-to-large earthquakes. A method was also developed to estimate the possible residual story drifts of the SDFs according to the ductility of the story.
+
+
+    
+        AU - Qiwang Su
+    
+        AU - Gaochuang Cai
+    
+        AU - Amir Si Larbi
+    
+
+TI - Seismic Damage Assessment Indexes for Masonry Structures
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019066
+VI - 145
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0002347 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002347
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002347
+SO - Journal of Structural Engineering 2019-07-01 145(7): 04019066
+AB - This paper proposes a new model to quantify the enhancement effect of confinement elements on the seismic behavior of confined masonry (CM) structures. Using this model, a combined assessment index considering the effects of material strength and the confinement elements on the seismic performance of masonry structures is developed to assess the potential damage of the structures subjected to seismic loads. A field survey of the Wenchuan earthquake is used to calibrate the proposed index and traditional wall density index. The relationship between the two indexes and the damage categories of unreinforced masonry (URM) and CM structures at different seismic intensity zones is discussed. Results show that the two indexes both predict the damage of CM and URM structures well, while the proposed combined index is verified with a better prediction accuracy. Using the two indexes, a complete assessment procedure is proposed for predicting the damage of the URM and CM structures at VIII to X seismic intensity zones. Case studies of two CM buildings at different seismic intensity zones are conducted to explain how to use the proposed assessment procedure and verify its feasibility.
+
+
+    
+        AU - Wouter van Beerschoten
+    
+        AU - Gabriele Granello
+    
+        AU - Alessandro Palermo
+    
+        AU - David Carradine
+    
+
+TI - Determining the Flexural Capacity of Long-Span Post-Tensioned LVL Timber Beams
+PT - Journal Article
+DP - 2019
+TA - Journal of Structural Engineering
+PG - 04019067
+VI - 145
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0002354 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002354
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002354
+SO - Journal of Structural Engineering 2019-07-01 145(7): 04019067
+AB - Post-tensioning can be used to introduce a precamber in timber beams, similar to concrete applications, resulting in decreased deflections and, hence, optimizing material usage. However, the amount of tendon post-tensioning or eccentricity can be significantly higher than in concrete applications because of the higher tensile strength of timber. Therefore, the secondary forces (generated by the tendon elongation) can increase the ultimate capacity of the post-tensioned member. To investigate these potential benefits, experimental testing to failure was carried out on four full-scale laminated veneer lumber (LVL) beam specimens, three of which were post-tensioned with unbonded tendons. A three-dimensional finite-element-model approach was proposed to simulate the behavior of the specimens. An analytical model was also developed to calculate the static response of the beams for a preliminary design by hand. Both modeling approaches, i.e.,&nbsp;numerical and analytical, provided good results compared with the experimental data. Results indicated that post-tensioning can increase the load-carrying capacity of timber beams at the ultimate limit state up to 56%, especially if draped tendon profiles are used and the top flange of the beam is properly dimensioned to resist combined compression stresses from post-tensioning and bending moments.
+
+

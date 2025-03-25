@@ -1,0 +1,382 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Sherif El-Tawil
+    
+        AU - Kent A. Harries
+    
+        AU - Patrick J. Fortney
+    
+        AU - Bahram M. Shahrooz
+    
+        AU - Yahya Kurama
+    
+
+TI - Seismic Design of Hybrid Coupled Wall Systems: State of the Art
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 755-769
+VI - 136
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000186 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000186
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000186
+SO - Journal of Structural Engineering 2010-07-01 136(7): 755-769
+AB - Hybrid coupled walls (HCWs) are comprised of two or more reinforced concrete wall piers connected with steel coupling beams distributed over the height of the structure. Extensive research over the past several decades suggests that such systems are particularly well suited for use in regions of moderate to high seismic risk. This paper reviews the state of the art in seismic modeling, analysis, and design of HCW systems. Design methodologies are presented in both prescriptive and performance-based design formats and a discussion of alterative types of hybrid wall systems is provided.
+
+
+    
+        AU - H. P. Hong
+    
+        AU - A. D. García-Soto
+    
+        AU - R. Gómez
+    
+
+TI - Impact of Different Earthquake Types on the Statistics of Ductility Demand
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 770-780
+VI - 136
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000177 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000177
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000177
+SO - Journal of Structural Engineering 2010-07-01 136(7): 770-780
+AB - Probabilistic assessments of the seismic ductility demand for hysteretic bilinear single-degree-of-freedom systems have been reported in the literature. However, a systematic assessment of possible differences in the estimated ductility demand for different earthquake types using recorded ground motions is not available, although ground motion prediction equations for different earthquake types are developed. The assessment of the differences can be important for estimating structural reliability and expected damage cost under seismic excitations since partial damage and collapse could be related to the ductility demand. Therefore, if the differences are significant one must use consistent sets of ground motion prediction equation and ductility demand relation for each earthquake type affecting a site of interest to evaluate the seismic hazard and risk. To assess the differences of the ductility demand, 413 records for Mexican interplate earthquakes, 275 records for Mexican inslab earthquakes, and 592 records for California earthquakes are employed. The evaluation considers ranges of values of natural vibration periods and ratios of initial to postyield stiffness. The obtained results indicate that the statistics of displacement ductility demand differs for different earthquake types. The results are used to develop empirical relations for predicting the expected displacement ductility demand.
+
+
+    
+        AU - Dziugas Reneckis
+    
+        AU - James M. LaFave
+    
+
+TI - Out-of-Plane Seismic Performance and Detailing of Brick Veneer Walls
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 781-794
+VI - 136
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000169 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000169
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000169
+SO - Journal of Structural Engineering 2010-07-01 136(7): 781-794
+AB - The out-of-plane seismic performance of residential brick veneer walls built over wood-frame backup was evaluated as a function of construction detailing. Shake table tests were conducted on a full-scale brick veneer wall panel, with a window opening, representing the gable-end wall of a typical home structure; the structural performance of corrugated sheet metal veneer-to-wood tie connections was also characterized by separate laboratory testing. The wall panel test specimen was prepared following typical construction practice for brick veneer wall systems, in general conformance with current specified prescriptive design and construction requirements. The shake table tests captured the performance of the brick veneer wall system, including interaction and load-sharing between the brick veneer, corrugated sheet metal ties, and wood-frame backup. Detailed three-dimensional finite-element (FE) models were also developed representing the full-scale brick veneer wall panel specimen, including nonlinear inelastic properties for the tie connections. After calibration based on test results, the FE wall panel model effectively captured static and dynamic experimental brick veneer wall behavior at different response levels, up to and including tie damage and even instability/collapse of the wall panel. Parametric studies were then carried out using FE wall panel models to evaluate the effects of certain types and layouts of tie connections, as well as geometric variations in brick veneer wall construction. Overall seismic performance of brick veneer walls was closely related to the individual tie connection deformation limits, especially for damage in tension. The grid spacing of tie connections, as well as tie installation along the edges and in upper regions of the walls, controlled the ultimate behavior of the brick veneer wall panels. Design guides, codes, and current construction practices have been evaluated in light of the overall findings from these experimental and analytical studies.
+
+
+    
+        AU - N. H. Hamid
+    
+        AU - John B. Mander
+    
+
+TI - Lateral Seismic Performance of Multipanel Precast Hollowcore Walls
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 795-804
+VI - 136
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000183 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000183
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000183
+SO - Journal of Structural Engineering 2010-07-01 136(7): 795-804
+AB - The seismic resistance of full-scale superassemblage of precast hollow core wall units is investigated. The superassemblage consists of six prestressed concrete 1.2 m wide hollow core units. Two load-bearing of the units are tied to the foundation via unbonded vertical tendons while the other four units primarily act as “nonstructural” cladding. The longitudinal unbonded prestressing tendons consist of regular thread-bars with an in-series portion of those bars possessing a reduced diameter to act as “fuses.” The multipanel wall system is tested under several different conditions: in-plane quasi-static reverse cyclic loading with different sizes of fuse bars and with and without rubber block spacers and sealant between units. No structural damage occurs up to the experimental ±4% drift limit and only minor nonstructural distress is observed at 3% drift. The overall good performance of the multipanel wall system well satisfies the requirements of an emerging seismic damage avoidance design philosophy.
+
+
+    
+        AU - Chen Songlai
+    
+        AU - Fan Chengmou
+    
+        AU - Pan Jinglong
+    
+
+TI - Experimental Study on Full-Scale Light Frame Wood House under Lateral Load
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 805-812
+VI - 136
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000178 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000178
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000178
+SO - Journal of Structural Engineering 2010-07-01 136(7): 805-812
+AB - This paper explains an experimental study on a full-scale L-shape single story light frame wood house under the uniform lateral load simulated using a gasbag. The study verifies that shear walls are staggered to each other and the 1.0-m offset between them behave as a continuous shear wall, floor diaphragm with a reentrant corner up to 1.0 m that does not need a continuous end chord. Degradation in racking stiffness of light frame wood construction after continuously repeated cyclic lateral loads is not observable, while intermittent and larger amplitude cycling can cause observable settling of residual deformation and degradation in racking stiffness. The rigidity performance and high racking resistance of the floor diaphragm enables the light frame wood building to remain intact under ultimate lateral load, and recommends interstory percent drift restrictions for the lateral wind load design of the structures and the way to properly calculate racking capacity of gypsum sheathings. The conclusion of this paper can benefit the engineering practice of the light frame wood structures in hazard lateral load regions.
+
+
+    
+        AU - Weichiang Pang
+    
+        AU - David V. Rosowsky
+    
+        AU - Shiling Pei
+    
+        AU - John W. van de Lindt
+    
+
+TI - Simplified Direct Displacement Design of Six-Story Woodframe Building and Pretest Seismic Performance Assessment
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 813-825
+VI - 136
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000181 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000181
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000181
+SO - Journal of Structural Engineering 2010-07-01 136(7): 813-825
+AB - This paper presents a simplified direct displacement design (DDD) procedure which was used to design the shear walls for a six-story woodframe structure. The building was tested in the final phase of a Network for Earthquake Engineering Simulation (NEES) project. Specifically, NEESWood Capstone Building was designed to meet four performance expectations: damage limitation, life safety, far-field collapse prevention (CP), and near-fault CP. The performance expectations are defined in terms of combinations of interstory drift limits and prescribed seismic hazard levels associated with predefined nonexceedance probabilities. To verify that design requirements were met, a series of nonlinear time-history analyses (NLTHAs) was performed using suits of both far-field and near-fault ground motion records. The distributions of interstory drifts obtained from the NLTHA confirm that the Capstone Building designed using DDD meets all four target performance expectations, thereby validating the DDD procedure. Additionally, collapse analysis in accordance with the recently proposed Applied Technology Council project 63 (ATC-63) methodology was performed. The results of incremental dynamic analyses confirmed that the Capstone Building designed using the DDD procedure has adequate capacity margin against collapse, as dictated by the ATC-63 methodology.
+
+
+    
+        AU - Michael Winkel
+    
+        AU - Ian Smith
+    
+
+TI - Structural Behavior of Wood Light-Frame Wall Segments Subjected to In-Plane and Out-of-Plane Forces
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 826-836
+VI - 136
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000170 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000170
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000170
+SO - Journal of Structural Engineering 2010-07-01 136(7): 826-836
+AB - The tests were performed on 2.44 m by 2.44 m light-frame wall segments, having oriented strand-board sheathing nailed to sawn lumber framing, to determine their structural response to in-plane and out-of-plane forces applied separately or in combination. There was no evidence that simultaneous application of in-plane and out-of-plane forces negatively affects the strength of walls. However, it was found that interaction of different in-plane force components can substantially reduce strength capabilities of walls relative to when only one in-plane force component exists. Applying both in-plane tension and racking force in the ratio of 1:1 reduced the capacities of walls by 25 to 40%, with how lumber studs are connected to lumber base plates strongly influencing the absolute capacity of any wall.
+
+
+    
+        AU - Mauro Schulz
+    
+        AU - Maria Paola Santisi d’Avila
+    
+
+TI - Analysis of Reinforced Concrete Shells with Transverse Shear Forces
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 837-848
+VI - 136
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000171 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000171
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000171
+SO - Journal of Structural Engineering 2010-07-01 136(7): 837-848
+AB - This research investigates the simultaneous effect of in-plane and transverse loads in reinforced concrete shells. The infinitesimal shell element is divided into layers (with triaxial behavior) that are analyzed according to the smeared rotating crack approach. The set of internal forces includes the derivatives of the in-plane components. The corresponding generalized strains are determined using an extension of the equivalent section method valid for shells. The formulation yields through-the-thickness distributions of stresses and strains and the spatial orientation of the concrete struts. Although some simplifications are necessary to establish a practical first-order approximation, higher-order solutions could be developed. Despite the fact that constitutive matrices are not symmetric because of the tension-softening formulation, the equilibrium and compatibility conditions are satisfied, the stiffness derivatives are explicitly calculated, and the algorithms show good convergence. The formulation predicts results that agree with experimental data obtained by other researchers. Although comparative analysis with additional experimental data is still necessary, the proposed theory provides a promising solution for the design of reinforced concrete shells.
+
+
+    
+        AU - Jiansheng Fan
+    
+        AU - Jianguo Nie
+    
+        AU - Quanwang Li
+    
+        AU - Hao Wang
+    
+
+TI - Long-Term Behavior of Composite Beams under Positive and Negative Bending. I: Experimental Study
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 849-857
+VI - 136
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000175 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000175
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000175
+SO - Journal of Structural Engineering 2010-07-01 136(7): 849-857
+AB - This paper presents an experimental program designed to examine the long-term behavior of composite steel-concrete beams under sustained loads. The test program consisted of two simply supported beams under positive bending moments and two cantilever beams under negative bending moments. Long-term deflections, strains, and the cracking behaviors of the specimen beams were monitored over a period of 3 years. The primary observations are: (1) the deflection of the simply supported beam under positive bending moment increased quite significantly over the time due to creep and shrinkage, with the midspan deflections after 3 years of loading reached 2.5 times of the initial deflections, and (2) the cracking of concrete occurred in hogging moment regions for cantilever beams due to the combined effects of concrete shrinkage and sustained negative bending moments. Current design codes were evaluated through a comparison between the calculations and testing results. It was found that the effective modulus method provides a satisfactory prediction on deflections and strains for beams under positive bending moments. But for beams under negative bending moment, the stiffness reduction due to cracking effect should be considered in calculation.
+
+
+    
+        AU - Jiansheng Fan
+    
+        AU - Xin Nie
+    
+        AU - Quan Li
+    
+        AU - Quanwang Li
+    
+
+TI - Long-Term Behavior of Composite Beams under Positive and Negative Bending. II: Analytical Study
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 858-865
+VI - 136
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000176 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000176
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000176
+SO - Journal of Structural Engineering 2010-07-01 136(7): 858-865
+AB - The creep, shrinkage, and cracking of concrete may induce time-dependent changes in the stresses, internal forces, and deflections of steel-concrete composite beams. This paper presents an analytical model to consider these effects in analyzing the long-term behavior of composite beams under service loads using the step-by-step procedure. Under negative moments, the model accounts for the cracking, stress relaxing, tension stiffening, creep, and shrinkage of concrete. Meanwhile, a method is proposed to calculate the maximum crack width of the concrete slab by considering the shrinkage and creep effects. Four composite beams continuously loaded for about 3 years were analyzed using the proposed model. A good agreement is observed between the experimental results and the calculations by the proposed model. A discussion is also made about the aging coefficients in the age-adjusted effective modulus method under different loading conditions.
+
+
+    
+        AU - Cao Hung Pham
+    
+        AU - Gregory J. Hancock
+    
+
+TI - Experimental Investigation of High Strength Cold-Formed 
+C
+-Sections in Combined Bending and Shear
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 866-878
+VI - 136
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000172 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000172
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000172
+SO - Journal of Structural Engineering 2010-07-01 136(7): 866-878
+AB - In roof systems, a high strength steel profiled sheeting fastened to high strength steel cold-formed purlins of a lipped 
+C
+- or 
+Z
+-section is commonly used throughout the world. The design of such systems is performed according to the provisions of the limit states Australia/New Zealand Standard for Cold-Formed Steel Structures in Australia and the North American Specification for the Design of Cold-Formed Steel Structural Members in the United States. In both standards, which include the newly developed direct strength method of design (DSM), the method presented is limited to pure compression and pure bending. The situations of pure shear and combined bending and shear as occurs in a continuous purlin system are not considered. In order to extend the DSM to purlin systems, three different test series on high strength cold-formed 
+C
+-section purlins have been performed at the University of Sydney. The test series include predominantly shear, combined bending and shear, and bending only test series. Two different section depths and three different thicknesses of the lipped channel section were tested in this study. Further, tests with and without torsion/distortion restraint straps screwed on the top flanges adjacent to the loading points were also considered. This paper summarizes the test results and formulas developed from the effective width method and the DSM. Proposals for design are included in this paper. Comparisons with the Australian Steel Structures Standard are also included to take account of the tension field action.
+
+
+    
+        AU - M. V. Anil Kumar
+    
+        AU - V. Kalyanaraman
+    
+
+TI - Evaluation of Direct Strength Method for CFS Compression Members without Stiffeners
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 879-885
+VI - 136
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000185 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000185
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000185
+SO - Journal of Structural Engineering 2010-07-01 136(7): 879-885
+AB - The axial compressive strength of the cold-formed steel (CFS) members with edge or intermediate stiffener is affected by interaction of local, distortional and overall buckling. In order to overcome the tedious and time consuming nature of the traditional Effective Section method of evaluating strength of such members, direct strength method (DSM) has been advanced recently. However, the DSM has not been adequately evaluated for calculating the strength of compression members (such as tubular, plain channel, and I-sections) consisting of only stiffened and unstiffened elements, without either lip stiffener or intermediate stiffener. These members experience interaction of only local and overall buckling before failure. In this paper, results of a study on the suitability of DSM to evaluate the compressive strength of plain channel, I and rectangular tubular members is presented. Extensive experimental data in literature and additional data generated using currently accepted effective width method (based on better estimate of local buckling stress evaluated considering element interaction), are used in this study. It is found that DSM can be used to evaluate strength of such members also.
+
+
+    
+        AU - K. Magnucki
+    
+        AU - P. Paczos
+    
+        AU - J. Kasprzak
+    
+
+TI - Elastic Buckling of Cold-Formed Thin-Walled Channel Beams with Drop Flanges
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 886-896
+VI - 136
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000184 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000184
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000184
+SO - Journal of Structural Engineering 2010-07-01 136(7): 886-896
+AB - The subject of the paper is cold-formed thin-walled channel beams with open or closed profile of drop flanges. The geometric properties of two C-sections are described including warping functions and warping inertia moments. The analytical solutions of problems of global and local stability of thin-walled beams are presented. The theoretical solutions of elastic buckling problems of these beams are numerically found using FEM and are experimentally verified. The results of analytical and numerical investigations are compared and presented in the tables and figures.
+
+
+    
+        AU - Maria E. Garlock
+    
+        AU - Serdar Selamet
+    
+
+TI - Modeling and Behavior of Steel Plate Connections Subject to Various Fire Scenarios
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 897-906
+VI - 136
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000179 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000179
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000179
+SO - Journal of Structural Engineering 2010-07-01 136(7): 897-906
+AB - Shear connections are common connection types and they are designed to resist only shear loads. In a fire event, the axial restraint provided by adjacent structure creates unanticipated compressive and tensile forces in the beam and thus the connection. Using finite-element models, this study examines single-plate shear connections that are bolted to the beam and welded to the supporting girder. A floor subassembly, which includes the beam, girder, slab, and connection, is modeled so that appropriate forces are applied to the connection. The model is validated with the experiments of bolted lap splice plates at elevated temperatures, as well as full-scale experiments. This paper (1) illustrates efficient modeling methods for these floor subassemblies; (2) evaluates the importance of the slab in the connection response; and (3) examines the effects of the rate of heating and cooling on the connection. The results show that care needs to be taken as to how the concrete slab is represented in the model. The heating and cooling rates affect the beam stress distribution, peak temperatures, and peak displacements, but not the peak beam axial force. Also, the cooling phase creates large tensile forces in the connection which can lead to failure.
+
+
+    
+        AU - D. C. Pham
+    
+        AU - C. M. Wang
+    
+
+TI - Optimal Layout of Gill Cells for Very Large Floating Structures
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 907-916
+VI - 136
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000182 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000182
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000182
+SO - Journal of Structural Engineering 2010-07-01 136(7): 907-916
+AB - A pontoon-type, very large floating structure (VLFS) undergoes uneven deformation when loaded unevenly. The resulting differential deflection may lead to a cessation of equipment operation, and even compromising the structural integrity of the VLFS. One cost effective solution for reducing the differential deflection is by introducing the innovative gill cells at appropriate locations in the VLFS. Gill cells are compartments in VLFS with holes or slits at their bottom surfaces to allow water to enter or leave freely. At these gill cell locations, the buoyancy forces are eliminated and this allows uneven buoyancy forces acting at the bottom hull of the VLFS to somewhat counterbalance the applied nonuniform loading. In this paper, we investigate the effectiveness of gill cells in pontoon-type VLFS in reducing the differential deflection and von Mises stresses as well as the optimal layout (i.e., the number and locations) of gill cells that minimizes the differential deflection subject to a draft constraint. As the decision variables, objective functions and the constraints are not continuous and differentiable, genetic algorithms are adopted as an optimization tool. The optimal layouts for gill cells are determined for various VLFS shapes such as square, rectangular and I-shape and loading configurations.
+
+
+    
+        AU - Edoardo Cosenza
+    
+        AU - Fiorenzo De Cicco
+    
+        AU - Andrea Prota
+    
+
+TI - Discussion of “Nonlinear Uniaxial Material Model for Reinforcing Steel Bars” by Sashi K. Kunnath, YeongAe Heo, and Jon F. Mohle
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 917-918
+VI - 136
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000119 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000119
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000119
+SO - Journal of Structural Engineering 2010-07-01 136(7): 917-918
+
+
+    
+        AU - Sashi Kunnath
+    
+        AU - YeongAe Heo
+    
+
+TI - Closure to “Nonlinear Uniaxial Material Model for Reinforcing Steel Bars” by Sashi K. Kunnath, YeongAe Heo, and Jon F. Mohle
+PT - Journal Article
+DP - 2010
+TA - Journal of Structural Engineering
+PG - 918-920
+VI - 136
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0000197 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000197
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000197
+SO - Journal of Structural Engineering 2010-07-01 136(7): 918-920
+
+

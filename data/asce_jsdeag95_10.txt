@@ -1,0 +1,442 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Peter C. Birkemoe
+    
+        AU - Donald F. Meinheit
+    
+        AU - William H. Munse
+    
+
+TI - Fatigue of A514 Steel in Bolted Connections
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2011-2030
+VI - 95
+IP - 10
+AID - 10.1061/JSDEAG.0002369 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002369
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002369
+SO - Journal of the Structural Division 1969-10-01 95(10): 2011-2030
+AB - Fatigue tests were conducted on bolted connections in high strength, quenched and tempered (A514) steel at the University of Illinois to provide data that can be used as a basis for the development of design specifications for high strength structural steels. Parameters related to joint proportioning were investigated; these included the bolt type, the relative proportions of tensile, shear, and bearing areas, and the ratio of the transverse fastener spacing to the fastener diameters. Several variations in joint assembly techniques which were also studied for their effect on fatigue performance, included additional tightening of bolts, bolt tensioning while joints were in bearing, and grit blasting of the joint faying surfaces. Constant amplitude fatigue tests were conducted at several ratios of minimum to maximum stress, with particular emphasis on zero-to-tension testing. An analysis of the fatigue data shows that extensions of present design specifications should permit higher allowable design stresses for bolted connections in quenched and tempered steels than for lower strength steels.
+
+
+    
+        AU - Warren R. Walpole
+    
+        AU - Robin Shepherd
+    
+
+TI - Elasto-Plastic Seismic Response of Reinforced Concrete Frame
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2031-2056
+VI - 95
+IP - 10
+AID - 10.1061/JSDEAG.0002370 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002370
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002370
+SO - Journal of the Structural Division 1969-10-01 95(10): 2031-2056
+AB - Step-by-step numerical integration method developed and applied to determination of response to digitized record of N-S component of the 1940 El Centro earthquake of a typical New Zealand 6-story single-bay reinforced concrete rigid frame, assuming idealized elasto-plastic moment-rotation properties for beam and column members. Elasto-plastic responses are compared with extended elastic behavior. It is shown that although character of elasto-plastic responses is similar to extended elastic predictions, magnitudes of maximum displacements are significantly greater in extended elastic cases. Plastic deformations are found to concentrate in weakest members. It is shown to be possible to restrict yielding to beams and base of bottom columns by having relatively low yield moments at these sections. Member ductility requirements are shown to be quite small, only barely exceeding 6 in one case.
+
+
+    
+        AU - Noel J. Gardner
+    
+
+TI - Response of Cooling Tower to Turbulent Wind
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2057-2076
+VI - 95
+IP - 10
+AID - 10.1061/JSDEAG.0002371 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002371
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002371
+SO - Journal of the Structural Division 1969-10-01 95(10): 2057-2076
+AB - Existing knowledge on the behavior of cooling towers is summarized. The natural frequencies of a cooling tower are obtained from the equilibrium equations, in finite difference form, by assuming the vibration to be the sum of uncoupled circular modes. The numerical results are compared to published results for the natural frequencies of full-sized cooling towers. An experimental study of an aeroelastic model cooling tower in a turbulent boundary layer wind tunnel is reported. The experimental peak deflections were found to be about 2-1/2 times the generally accepted pseudo-static or mean deflections.
+
+
+    
+        AU - William D. Whetstone
+    
+        AU - Charles E. Jones
+    
+
+TI - Vibrational Characteristics of Linear Space Frames
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2077-2092
+VI - 95
+IP - 10
+AID - 10.1061/JSDEAG.0002372 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002372
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002372
+SO - Journal of the Structural Division 1969-10-01 95(10): 2077-2092
+AB - A digital computer program for computing the modes of frequencies of large arbitrary linear space frames is presented. The computational procedure used deals exclusively with nonzero submatrices of the system mass and stiffness matrices thus avoiding both trivial arithmetic and wasted data storage space. The solution technique is a generalization of the well-known Stodola method of beam vibration analysis. Beginning with an initial approximation of a system mode (computed by the program on the basis of a static loading condition specified in the input data), an equivalent inertia loading acting over the entire structure is evaluated. The static deformation of the structure corresponding to the equivalent inertia loading is computed, providing an improved approximation of the system mode. This procedure is executed repeatedly until convergence is attained. In computing higher modes, a procedure based on orthogonality relations is used to sweep out previously-computed lower modes. Examples are presented of solutions computed by the program, including computer-generated plots of mode shapes.
+
+
+    
+        AU - Chiyyarath V. Girijavallabhan
+    
+
+TI - Analysis of Shear Walls with Openings
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2093-2104
+VI - 95
+IP - 10
+AID - 10.1061/JSDEAG.0002373 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002373
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002373
+SO - Journal of the Structural Division 1969-10-01 95(10): 2093-2104
+AB - Openings are often introduced into shear walls in multistoried buildings for either architectural or environmental reasons. These openings reduce the efficiency and change the deformation characteristics of the shear walls, depending on the distribution of the loads and the geometry of the walls with openings. Variations of the material properties also affect the stress distribution. The use of the finite-element method in analyzing these problems is found to be convenient and more accurate than conventional approximate methods. A model shear wall problem is selected and analyzed by the finite-element method and the results are presented. It was observed that local distortions occurred at the junctions of the lintel beams and the shear walls due to the bending moments, shear forces, and axial loads carried by the lintel beams. Because of these distortions, the bending moments on the lintel beams were found to be much less than the bending moments obtained from other approximate methods of analysis.
+
+
+    
+        AU - Michael W. Dobbs
+    
+        AU - Lewis P. Felton
+    
+
+TI - Optimization of Truss Geometry
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2105-2118
+VI - 95
+IP - 10
+AID - 10.1061/JSDEAG.0002374 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002374
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002374
+SO - Journal of the Structural Division 1969-10-01 95(10): 2105-2118
+AB - The effect of multiple (independent) load conditions on the optimum geometrical configurations of planar trusses is investigated. A general configuration is established by considering all truss components connecting the nodal points of a rectangular gridwork of possible joint locations. This general design is modified through use of a steepest descent nonlinear programming algorithm. Unnecessary components are dropped from the configuration until a truss of minimum weight is obtained. Modifications of joint locations through changes in the nodal pattern are also considered. For the particular design examples investigated, statically determinate trusses were found to exist which are lighter in weight than indeterminate trusses.
+
+
+    
+        AU - Christos C. Chamis
+    
+
+TI - Buckling of Anisotropic Composite Plates
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2119-2140
+VI - 95
+IP - 10
+AID - 10.1061/JSDEAG.0002375 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002375
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002375
+SO - Journal of the Structural Division 1969-10-01 95(10): 2119-2140
+AB - The Galerkin method is utilized to formulate the buckling problem of anisotropic composite plates. The plates are made from either particulate or fiber reinforced homogeneous or laminated composite material. The plates are simply supported and are subjected to combined uniform membrane loads. The effects of the various coupling responses on the plate's buckling load and the range of application of the buckling interaction equation are investigated. Verification results of this formulation with other theories and with available experimental data are presented. Design data is presented for various anisotropic plates with several aspect ratios and subjected to various loading conditions. Coupling responses have severe effects on the buckling loads when the magnitude of the coupling terms in the plate's constitutive equations is comparable to that of the uncoupling terms. Anisotropic plates can be oriented to provide maximum buckling resistance for specific applications. Laminated plates exhibit greater buckling resistance than homogeneous. The layer arrangement affects the buckling load. The buckling interaction equation predicts conservative results when the plate aspect ratio is near unity.
+
+
+    
+        AU - William H. Ailor
+    
+
+TI - Aluminum Corrosion at Urban and Industrial Locations
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2141-2160
+VI - 95
+IP - 10
+AID - 10.1061/JSDEAG.0002376 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002376
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002376
+SO - Journal of the Structural Division 1969-10-01 95(10): 2141-2160
+AB - Seven-year exposures of several aluminum alloys, mild steel and zinc demonstrate the excellent corrosion resistance of aluminum in urban and industrial environments. Panels of aluminum-manganese alloys (3000 series) of the types used for siding, roofing and flashing along with the structural aluminum-magnesium silicide alloys (6000 series) showed seven-year corrosion rates which never exceeded 0.151 mpy (mils per year) in even the very severe environment at Widnes, England. In the Chicago area the same alloys had rates less than 0.067 mpy. The atmospheres at Richmond, Virginia, and Manila, Philippine Islands, were relatively mild toward aluminum while that at Phoenix, Arizona, had almost no effect on any aluminum material. By comparison, the corrosion rates of mild steel and zinc were greater than those for aluminum at all locations. The corrosion of the aluminum alloys was predominantly of the pitting type (generally pits were deepest on the skyward side at Manila, Phoenix, and Widnes). Changes in mechanical properties were, in most cases, of a magnitude not to affect the structural strength of the aluminum. Pitting depths never penetrated the panels to a depth greater than 14 mils.
+
+
+    
+        AU - Alexander M. Turitzin
+    
+
+TI - Grain Storage Structures for Food Deficient Areas
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2161-2182
+VI - 95
+IP - 10
+AID - 10.1061/JSDEAG.0002377 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002377
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002377
+SO - Journal of the Structural Division 1969-10-01 95(10): 2161-2182
+AB - Proposed low-cost bulk grain storage structures and their design criteria and construction features are presented. Criteria for safe storage of grain and their effect on the design of storage structures are outlined. Grain storage facilities are subdivided into granaries and country elevators. Typical designs are shown and their special features presented. Granaries or flat storage structures are intended for long-term storage of large harvest surpluses to provide for years of smaller yields. Country elevators or upright bins serve as collection centers for farmer's grain and are used for short-term storage. Typical designs of timber, concrete, and steel are intended to save time and effort in planning the most economical storage arrangement. Structures are chosen for their suitability to low-cost labor areas commonly found in countries with developing modern economies.
+
+
+    
+        AU - George Abdel-Sayed
+    
+
+TI - Effective Width of Thin Plates in Compression
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2183-2204
+VI - 95
+IP - 10
+AID - 10.1061/JSDEAG.0002378 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002378
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002378
+SO - Journal of the Structural Division 1969-10-01 95(10): 2183-2204
+AB - The effective width is examined theoretically for ideally flat plates and for plates with small deviation from flatness. The edges parallel to the direction of forces are considered free to move or restrained to remain straight in the plane of the plate. The Von Karman's governing differential equations are satisfied with an approximate solution based on assuming that, the deflection form at the instant of buckling is preserved after the loading exceeds the buckling limit. This assumption limits the validity of the analysis to structural problems in which the load exceeds the buckling limit by relatively little magnitude. Formulas are obtained which show the effective width of the plate to be reduced when there is a small deviation from flatness and/or the edges parallel to loading are free to move in the plane of the plate. Comparison shows good agreement between a theoretically obtained formula and the equivalent Winter-formula which is based on experimental data and has been adopted by the American Iron and Steel Institute for their manual.
+
+
+    
+        AU - Edward C. Holt
+    
+        AU - Gary L. Heithecker
+    
+
+TI - Minimum Weight Proportion for Steel Girders
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2205-2218
+VI - 95
+IP - 10
+AID - 10.1061/JSDEAG.0002379 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002379
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002379
+SO - Journal of the Structural Division 1969-10-01 95(10): 2205-2218
+AB - Formulas are derived for the optimum proportions for minimum weight for laterally supported plate girders without web stiffeners designed under the working stress provisions of the specifications of the American Institute of Steel Construction. The results are presented in dimensionless form, and apply to any type of steel and any transverse loading. Example designs illustrate the use of the formulas. It is shown that for very short deep girders compact sections are lighter, while noncompact sections are lighter for girders of more usual proportions. The use of higher strength steels reduces the optimum weight of a girder more than in inverse proportion to the square root of the yield stress. Standard rolled sections are shallower and heavier than optimum sections. Girders of conventional proportions are usually shallower than optimum girders. In some cases, however, an optimum section is not only lighter, but also shallower than a conventional section.
+
+
+    
+        AU - Phillip S. Carskaddan
+    
+
+TI - Bending of Deep Girders with A514 Steel Flanges
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2219-2242
+VI - 95
+IP - 10
+AID - 10.1061/JSDEAG.0002380 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002380
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002380
+SO - Journal of the Structural Division 1969-10-01 95(10): 2219-2242
+AB - An investigation was conducted to determine the maximum web slenderness that could be safely used in homogeneous and hybrid girders with A514 steel flanges. An experimental study included tests of four 39-in-deep girders: two pairs of girders in which each pair consisted of a hybrid and a homogeneous girder. The tests showed that the present design formula for a reduced flange stress due to a nonlinear web stress can be applied to homogeneous A514 steel girders, whereas for hybrid girders with A514 steel flanges and A36 steel webs this reduction is not required provided that the effect of web yielding is considered. A theoretical model of the vertical-buckling phenomenon treats the compression flange and a portion of the web as a column elastically supported by the web and subjected to vertical buckling between transverse stiffeners. Design criteria are suggested, for transversely stiffened girders with A514 steel flanges subjected to pure bending, to insure that the flange-yield moment can be reached without vertical buckling.
+
+
+    
+        AU - Joseph A. Yura
+    
+        AU - Le-Wu Lu
+    
+
+TI - Ultimate Load Tests on Braced Multi-Story Frames
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2243-2264
+VI - 95
+IP - 10
+AID - 10.1061/JSDEAG.0002381 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002381
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002381
+SO - Journal of the Structural Division 1969-10-01 95(10): 2243-2264
+AB - Four tests were conducted to ultimate load on three-story, two bay fully welded frames fabricated from ASTM A36 steel. The frames were full size and were proportioned by the plastic design methods. Gravity, checkerboard and lateral loads were applied to the frames up to failure. The frames were braced against sidesway by diagonal bracing. The tests were conducted to study the behavior and strength of braced multistory steel frames and to evaluate plastic design methods for predicting frame behavior at maximum load. Theory is compared with experimental behavior in both the elastic and inelastic range. The experimental ultimate load reached or exceeded the maximum load predicted by plastic theory with an average discrepancy of 4%. The tests indicate that plastic design methods can be applied to braced multistory frames.
+
+
+    
+        AU - George Pincus
+    
+
+TI - Bonded Wood-Concrete T-Beams
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2265-2280
+VI - 95
+IP - 10
+AID - 10.1061/JSDEAG.0002382 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002382
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002382
+SO - Journal of the Structural Division 1969-10-01 95(10): 2265-2280
+AB - Timber-concrete composite T-beams were fabricated and tested to destruction. Unreinforced precast concrete slabs were glued to timber beams using an epoxy compound resulting in a T-section with the concrete serving as the flange and the timber serving as the web. Using an equivalent all wood transformed section gave good experimental agreement for the neutral axis position and curvature in the test beams but poor agreement for deflection. Four beams failed in sliding shear at the high shear region while one beam reached the full flexural strength of the composite section. It was shown that wood-concrete bonded T-beams may carry substantial loads and function as true composite beams.
+
+
+    
+        AU - James F. Costello
+    
+        AU - Kuang-Han Chu
+    
+
+TI - Failure Probabilities of Reinforced Concrete Beams
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2281-2304
+VI - 95
+IP - 10
+AID - 10.1061/JSDEAG.0002383 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002383
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002383
+SO - Journal of the Structural Division 1969-10-01 95(10): 2281-2304
+AB - The purpose of this study was a rigorous investigation of the probabilistic relationships between the resistance of a reinforced concrete member and the strength of its constituent materials. Attention was centered on the flexural resistance of singly and doubly reinforced beam sections. An assessment of the recommendations of the American Concrete Institute Building Code with respect to variability in material strengths was made. Methodology rather than specific results were stressed in this paper.
+
+
+    
+        AU - Morris Ojalvo
+    
+        AU - Edvins Demuts
+    
+        AU - Frank Tokarz
+    
+
+TI - Out-Of-Plane Buckling of Curved Members
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2305-2318
+VI - 95
+IP - 10
+AID - 10.1061/JSDEAG.0002384 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002384
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002384
+SO - Journal of the Structural Division 1969-10-01 95(10): 2305-2318
+AB - Two governing equations for out-of-plane flexural-torsional buckling of curved planar rods are derived. The equations are used to obtain lateral-torsional bucking loads and mode shapes of ring segments subjected to thrust or pull directed along the chord. The buckled shape for pull loads is antisymmetrical about the center of the ring segment while for thrust loads the buckled shape is symmetrical. The torsional stiffness of the ring's cross section strongly influences pull buckling loads but it has a negligible effect on thrust buckling.
+
+
+    
+        AU - Takeo Fukuda
+    
+
+TI - Closure to “Analysis of longitudinally Loaded Suspension Bridges”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2319-2320
+VI - 95
+IP - 10
+AID - 10.1061/JSDEAG.0002385 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002385
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002385
+SO - Journal of the Structural Division 1969-10-01 95(10): 2319-2320
+
+
+    
+        AU - Roy R. Russell
+    
+        AU - Kurt H. Gerstle
+    
+
+TI - Closure to “Hyperbolic Paraboloid Structures on Four Supports”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2320-2321
+VI - 95
+IP - 10
+AID - 10.1061/JSDEAG.0002386 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002386
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002386
+SO - Journal of the Structural Division 1969-10-01 95(10): 2320-2321
+
+
+    
+        AU - Jack R. Benjamin
+    
+
+TI - Closure to “Probabilistic Models for Seismic Force Design”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2322-2322
+VI - 95
+IP - 10
+AID - 10.1061/JSDEAG.0002387 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002387
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002387
+SO - Journal of the Structural Division 1969-10-01 95(10): 2322-2322
+
+
+    
+        AU - D. J. Ashby
+    
+        AU - F. Sherratt
+    
+
+TI - Discussion of “Cumulative Damage Theories and Application”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2322-2323
+VI - 95
+IP - 10
+AID - 10.1061/JSDEAG.0002388 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002388
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002388
+SO - Journal of the Structural Division 1969-10-01 95(10): 2322-2323
+
+
+    
+        AU - A. Hrennikoff
+    
+
+TI - Discussion of “New Rectangular Finite Element for Shear Wall Analysis”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2323-2325
+VI - 95
+IP - 10
+AID - 10.1061/JSDEAG.0002389 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002389
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002389
+SO - Journal of the Structural Division 1969-10-01 95(10): 2323-2325
+
+
+    
+        AU - Robert H. Scanlan
+    
+
+TI - Discussion of “Field Observation of Tagus River Suspension Bridge”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2325-2326
+VI - 95
+IP - 10
+AID - 10.1061/JSDEAG.0002390 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002390
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002390
+SO - Journal of the Structural Division 1969-10-01 95(10): 2325-2326
+
+
+    
+        AU - Mrinmay Biswas
+    
+
+TI - Influence Lines for Thermal Loads in Structures
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2329-2329
+VI - 95
+IP - 10
+AID - 10.1061/JSDEAG.0002391 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002391
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002391
+SO - Journal of the Structural Division 1969-10-01 95(10): 2329-2329
+AB - Certain reciprocal relations are found to exist and consequently a new principle for obtaining lines for thermal loads has been discovered and is stated in this note.
+
+

@@ -1,0 +1,448 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Shing‐Sham Lai
+    
+        AU - George T. Will
+    
+        AU - Shunsuke Otani
+    
+
+TI - Model for Inelastic Biaxial Bending of Concrete Members
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 2563-2584
+VI - 110
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1984)110:11(2563) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282563%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282563%29
+SO - Journal of Structural Engineering 1984-11-01 110(11): 2563-2584
+AB - An analytical model is developed to simulate the hysteretic and stiffness degrading behavior of reinforced concrete members subjected to axial load and biaxial bending interaction. The model separates the member into two inelastic elements. Each inelastic element, composed of individual spring elements, simulates the inelastic effects of the member as well as the cumulative slip of the anchored bars in the beam‐column joint. The proposed model, by its simplistic nature, is not claimed to be precise, but rather, tries to bridge the gap between the sophisticated finite element approach and the very crude discrete models with constant axial load assumptions. The construction of neither a skeleton curve nor a three‐dimensional yield surface is necessary. The present model should be a practical tool for three‐dimensional inelastic analysis and design of reinforced concrete structures.
+
+
+    
+        AU - Loren D. Lutes
+    
+        AU - Miguel Corazao
+    
+        AU - Sau‐lon James Hu
+    
+        AU - James Zimmerman
+    
+
+TI - Stochastic Fatigue Damage Accumulation
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 2585-2601
+VI - 110
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1984)110:11(2585) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282585%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282585%29
+SO - Journal of Structural Engineering 1984-11-01 110(11): 2585-2601
+AB - A study is made of several aspects of the problem of predicting fatigue failure by using the Palmgren‐Miner (PM) approximation, with cycles defined by the rainflow procedure. The stress time history is considered to be a stationary stochastic process, and the term fatigue is considered to refer to crack initiation or crack propagation, or both. It is first shown that PM analysis is consistent with a fairly broad class of theoretical models that give nonlinear growth of damage. Next, simulation results are presented for a bandwidth correction factor, relating damage predicted from rainflow cycles to that predicted from narrowband analysis. It appears that there may be a need to use some bandwidth parameter other than the irregularity factor in order to obtain consistent results for this correction factor. Results are also presented regarding the effect of nonnormality of the stress process. Both analytical and simulation studies show that this effect may be quite significant.
+
+
+    
+        AU - Mohamamad A. Mansur
+    
+        AU - Kiang Hwee Tan
+    
+        AU - Seng‐Lip Lee
+    
+
+TI - Collapse Loads of R/C Beams with Large Openings
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 2602-2618
+VI - 110
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1984)110:11(2602) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282602%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282602%29
+SO - Journal of Structural Engineering 1984-11-01 110(11): 2602-2618
+AB - Based on the “collapse load” analysis, a method is developed to predict the ultimate strength of a reinforced concrete beam that contains a large rectangular opening and is subjected to a point load. According to the method, the distribution of external shear between the chord members and the collapse load of the beam depends not only on the cross‐sectional properties, but also on the size and location of the opening. Test results available in the literature are compared with the theoretical predictions. A good agreement between the theory and experimental results is obtained.
+
+
+    
+        AU - Jack P. Moehle
+    
+
+TI - Seismic Analysis of R/C Frame‐Wall Structures
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 2619-2634
+VI - 110
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1984)110:11(2619) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282619%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282619%29
+SO - Journal of Structural Engineering 1984-11-01 110(11): 2619-2634
+AB - Inelastic responses of four irregular multistory reinforced concrete frame‐wall structures to strong base motions are analyzed using response spectrum methods, which account explicitly for effects of inelastic response. The structures have been constructed in small scale, and responses during experimental earthquake simulations are reported. Maximum measured responses are compared with responses calculated using concepts of inelastic response spectra and using elastic response spectra for a substitute structure. Both analysis procedures are found to produce substantially accurate estimates of maximum responses if initial stiffnesses and ultimate capacities are correctly estimated. Implications of the analyses concerning irregularities in structural systems and concerning code‐implied drifts are presented.
+
+
+    
+        AU - Gale P. Mulligan
+    
+        AU - Teoman Pekoz
+    
+
+TI - Locally Buckled Thin‐Walled Columns
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 2635-2654
+VI - 110
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1984)110:11(2635) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282635%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282635%29
+SO - Journal of Structural Engineering 1984-11-01 110(11): 2635-2654
+AB - An effective section method is presented for analyzing the effects of local buckling on the overall modes of behavior of singly symmetric, thinwalled columns and beam‐columns. The post‐local buckling strength of the component plate elements is recognized through effective width concepts. A single effective width equation is developed to represent the subultimate behavior under service loads and the ultimate strength of uniformly compressed stiffened elements. Also, an effective width approach is.proposed for predicting the response of eccentrically compressed stiffened elements. An experimental investigation is reported on cold‐formed, lipped channel, steel columns with concentric or eccentric loading. Predictions obtained with the presented analysis method are in good correspondence with experimental subultimate deflections and ultimate strength. In contrast to this, current design methods are shown to be inadequate for predicting the experimental results. In certain cases, laterally unbraced (edge) stiffened elements are prone to an elastic local torsional failure mode. A limiting stress approach is proposed for this situation, which provides fair agreement with limited experimental data.
+
+
+    
+        AU - B. Stafford Smith
+    
+        AU - Amal Girgis
+    
+
+TI - Simple Analogous Frames for Shear Wall Analysis
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 2655-2666
+VI - 110
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1984)110:11(2655) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282655%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282655%29
+SO - Journal of Structural Engineering 1984-11-01 110(11): 2655-2666
+AB - Two types of analogous frames have been developed for the stress analysis of shear walls. They provide an alternative to the finite element technique for shear walls that can be subdivided into a mesh of rectangular modules. One analogous frame is similar to the widely used wide‐column analogous frame, except for the addition of diagonal braces in each module. The diagonal braces prevent the interference of the bending and shear stiffnesses, which occur in the ordinary wide‐column analogy, and therefore allow the more accurate representation of shear walls with a high shear to moment ratio. The second analogous frame also includes horizontally rigid arms and braces, but the central column of the previous frame is omitted and replaced by a column on one vertical edge and a hinged link on the other. A standard frame analysis program is used to analyze the analogous frames. The results compare in accuracy with simple rectangular plane stress finite elements.
+
+
+    
+        AU - Luis A. Godoy
+    
+        AU - Carlos A. Prato
+    
+
+TI - Buckling of Thin Walled Beams Under Water Loading
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 2667-2676
+VI - 110
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1984)110:11(2667) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282667%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282667%29
+SO - Journal of Structural Engineering 1984-11-01 110(11): 2667-2676
+AB - An approximate analysis of end supported, thin‐walled prismatic members of open profile section to predict buckling loads under dead weight and water loading is presented. When the critical buckling mode involves considerable torsional component, the water loading may lead to a significant reduction in the buckling load due to the shift of the centroid of the water weight with respect to the undeformed configuration. A finite element displacement model has been adopted to formulate the discrete critical equilibrium equations. Numerical examples show considerable reductions in critical loads for the water loading case.
+
+
+    
+        AU - Murray C. Temple
+    
+        AU - M. V. Prakash
+    
+        AU - John S. Ellis
+    
+
+TI - Failure Criteria for Stayed Columns
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 2677-2689
+VI - 110
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1984)110:11(2677) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282677%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282677%29
+SO - Journal of Structural Engineering 1984-11-01 110(11): 2677-2689
+AB - The experimental failure load of a stayed column has previously been defined, rather arbitrarily, as the load at which the tension in the stays on the concave side goes to zero. Experimental results obtained have necessitated a reevaluation of this definition. It has been found that experimental failure loads for stayed columns with initial pretension less than the optimum pretension have experimental failure loads which are much greater than the predicted loads. It has been shown theoretically and verified experimentally that the failure load can be much greater than the load at which the tension in the stays on the concave side goes to zero. The theoretical load was predicted using a finite element method in conjunction with an iterative‐incremental procedure. Good agreement between experimental and theoretical results was obtained when the initial pretension was less than the optimum pretension.
+
+
+    
+        AU - Steven R. Winterstein
+    
+        AU - C. Allin Cornell
+    
+
+TI - Load Combinations and Clustering Effects
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 2690-2708
+VI - 110
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1984)110:11(2690) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282690%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282690%29
+SO - Journal of Structural Engineering 1984-11-01 110(11): 2690-2708
+AB - The probability of a first‐excursion failure under individual and combined loading is estimated. First‐order results and upper bounds are constructed from the probability density and mean upcrossing rate functions of each response. Nonergodic and nonstationary effects within load events are included. Second‐order reliability estimates are also presented, accounting for the tendency of threshold crossings to occur in clusters. Various sources of such clustering are identified, and their effects on the failure rate quantified. Extensions to the cases of dependent loads and fatigue‐related failures are examined briefly.
+
+
+    
+        AU - James S. Notch
+    
+
+TI - Tree Beam Continuum Element: Two Case Histories
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 2709-2721
+VI - 110
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1984)110:11(2709) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282709%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282709%29
+SO - Journal of Structural Engineering 1984-11-01 110(11): 2709-2721
+AB - The development of a unique lateral load resistant system for two tall and slender office towers is described. System design development is documented for a 52‐level downtown office tower with a frame aspect ratio (height/least width) in excess of 6.85 and a 45‐level suburban office tower with a frame aspect ratio in excess of 5.50. Due to limitations imposed by the buildings' configuration, conventional structural systems proved ineffective in resisting the applied hurricane loading. The tree beam continuum element was developed whereby a rigid girder with intermediate vertical cross arms above or below, or both, was connected between the braced core and the perimeter columns. The cross arms introduced a point of reverse bending in the wind girders, thus greatly augmenting their strength and stiffness. The tree beam system and a variation known as the staggered tree beam system provided a continuum element that elastically constrained the perimeter columns to resist overturning forces. The tree beam concept common to the two structures is explained in detail. Critical design aspects to be considered in the detailing of the “tree beam modules” are presented.
+
+
+    
+        AU - Mehdi Saiidi
+    
+        AU - Bruce M. Douglas
+    
+
+TI - Effect of Design Seismic Loads on a Highway Bridge
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 2723-2737
+VI - 110
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1984)110:11(2723) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282723%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282723%29
+SO - Journal of Structural Engineering 1984-11-01 110(11): 2723-2737
+AB - The measured and calculated response of a five‐span reinforced concrete highway bridge subjected to static lateral loads is presented. The experimental studies included nondestructive static tests of the bridge loaded by hydraulic jacks at the intersection of piers and the deck, as well as quick‐release dynamic tests. The lateral deflection of the bridge deck was measured at the abutments and at the intersection of piers and the deck. The bridge was loaded to approximately 50% above the seismic design loads. No sign of distress was observed even though these very large loads were used. The analytical studies included several static elastic and inelastic analyses of the bridge for the test loads, the loads used in the design of the bridge, and the loads based on the current Applied Technology Council (ATC) guidelines for seismic design of highway bridges. An inelastic model was developed that accounted for the nonlinear action at the pier to foundation connections. In this model, the loads are applied monotonically in small load increments and the internal forces and deformations are determined for each increment. Comparison of the experimental and analytical results showed that, by ignoring the foundation flexibility (an assumption made in design of the bridge), the lateral displacement at the deck center was underestimated by approximately 50%.
+
+
+    
+        AU - Iqbal S. Sbhal
+    
+        AU - Wai F. Chan
+    
+
+TI - Moment‐Curvature Expressions for Fabricated Tubes
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 2738-2757
+VI - 110
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1984)110:11(2738) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282738%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282738%29
+SO - Journal of Structural Engineering 1984-11-01 110(11): 2738-2757
+AB - The behavior of fabricated tubes is far more complicated than that of hot‐rolled tubes because of out‐of‐roundness and residual stresses introduced during the process of fabrication. In deepwater platforms, the capacity of fabricated tubular members may be reduced significantly by external hydrostatic pressure. A rigorous numerical analysis of even an individual member requires considerable computer time, which can be reduced significantly by using closed‐form curve‐fitting expressions for the moment‐curvature relationship. In this paper, the results of rigorous numerical analysis are used to develop closed‐form moment‐curvature expressions for a fabricated tubular crosssection subjected to a given value of axial force and external pressure. As an example, these closed‐form expressions, combined with similar expressions for axial stiffness, are used to analyze a fabricated tubular cantilever beam at a depth of 800 ft of water. The finite element approach, coupled with the tangent stiffness procedure, is employed in the analysis. Due to external pressure, the capacity of the beam is reduced by 15%.
+
+
+    
+        AU - Alain H. Peyrot
+    
+        AU - Habib J. Dagher
+    
+
+TI - Reliability‐Based Design of Transmission Lines
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 2758-2777
+VI - 110
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1984)110:11(2758) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282758%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282758%29
+SO - Journal of Structural Engineering 1984-11-01 110(11): 2758-2777
+AB - The structural design of high voltage electric transmission lines in the U.S. is most often governed by the National Electrical Safety Code (NESC). A simple Load and Resistance Factor Design (LRFD) format is proposed as an alternative to the NESC. The important steps needed to produce a design according to either the NESC or the LRFD are discussed and compared. It is shown that, with the proposed numerical values for the LRFD strength and load factors, accurate levels of relative reliabilities among different transmission lines, or among different structures of the same line, or among different components of the same structure, are achieved. A computer program, DESCAL, was developed to evaluate the reliability of a transmission line component designed according to any criterin, and, in particular, to the NESC or LRFD criteria. Results of reliability calibrations conducted over a wide variety of components and structure types indicate that, unlike the NESC, the LRFD produces reliability‐consistent designs.
+
+
+    
+        AU - Ahmet E. Aktan
+    
+        AU - Vitelmo V. Bertero
+    
+
+TI - Conceptual Seismic Design of Frame‐Wall Structures
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 2778-2797
+VI - 110
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1984)110:11(2778) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282778%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282778%29
+SO - Journal of Structural Engineering 1984-11-01 110(11): 2778-2797
+AB - The states of the practice and art in seismic design of reinforced concrete dual frame‐wall structural systems are reviewed. The review leads to the need to emphasize the use of conceptual seismic design principles to overcome the high level of uncertainties involved in present numerical analyses of such systems. Therefore, the main issues and decisions confronted by the designer in achieving a conceptual seismic design are reviewed and exemplified by the results obtained in analytical and experimental studies of seismic responses of a 15‐story frame‐coupled wall structure and of a 7‐story frame‐wall structure. Observed shortcomings of the state‐of‐the‐practice, as represented by the seismic design building codes used in the U.S., are identified. Suggestions are offered to improve the states of the practice and art in the seismic design of this dual structural system.
+
+
+    
+        AU - T. S. Nagaraj
+    
+        AU - H. V. Dwarakanath
+    
+
+TI - Structural Response of Partially Fibrous Concrete Beams
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 2798-2812
+VI - 110
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1984)110:11(2798) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282798%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282798%29
+SO - Journal of Structural Engineering 1984-11-01 110(11): 2798-2812
+AB - The inclusion of fibers into a matrix over only a partial thickness of the beam is regarded as partially fiber reinforcing a beam. This concept is fully invoked in the present investigation. A tensile strain enhancement factor, t, as determined by a direct tension test, forms a convenient engineering parameter that takes care of the influence of the aspect ratio and volume fraction of the given type of fiber. The appropriate thickness of the beam section to be reinforced with fibers is computed using the above parameter. Necessary analytical expressions were developed to compute the moment enhancement factor associated with different values of the parameter, t. The validity of the approach was experimentally demonstrated. Practically similar deflection patterns for fully and partially fibrous sections were observed. The applicability of the method developed in practical situations, such as the design of airfield and highway pavements with fiber concretes, is cited.
+
+
+    
+        AU - John F. Silva
+    
+
+TI - Discussion of &#x201c;<i>Ductile Anchor Bolts for Tall Chimneys</i>&#x201d; by Stephen J. Powell and Anthony H. Bryant (September, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 2815-2816
+VI - 110
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1984)110:11(2815) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282815%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282815%29
+SO - Journal of Structural Engineering 1984-11-01 110(11): 2815-2816
+
+
+    
+        AU - Stephen J. Powell
+    
+        AU - Anthony H. Bryant
+    
+
+TI - Closure to &#x201c;<i>Ductile Anchor Bolts for Tall Chimneys</i>&#x201d; by Stephen J. Powell and Anthony H. Bryant(September, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 2816-2817
+VI - 110
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1984)110:11(2816) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282816%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282816%29
+SO - Journal of Structural Engineering 1984-11-01 110(11): 2816-2817
+
+
+    
+        AU - P. W. Marshall
+    
+
+TI - Discussion of &#x201c;<i>Load Interaction in T&#x2010;Joints of Steel Circular Hollow Sections</i>&#x201d; by Alex Stamenkovic and Keith D. Sparrow (September, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 2817-2818
+VI - 110
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1984)110:11(2817) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282817%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282817%29
+SO - Journal of Structural Engineering 1984-11-01 110(11): 2817-2818
+
+
+    
+        AU - Alex Stamenkovic
+    
+        AU - Keith D. Sparrow
+    
+
+TI - Closure to &#x201c;<i>Load Interaction in T&#x2010;Joints of Steel Circular Hollow Sections</i>&#x201d;by Alex Stamenkovic and Keith D. Sparrow(September, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 2819-2819
+VI - 110
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1984)110:11(2819) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282819%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282819%29
+SO - Journal of Structural Engineering 1984-11-01 110(11): 2819-2819
+
+
+    
+        AU - Ivan M. Viest
+    
+
+TI - Discussion of &#x201c;<i>Column Rules of ACI, SSLC, and LRFD Compared</i>&#x201d; by Richard W. Furlong (October, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 2819-2819
+VI - 110
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1984)110:11(2819.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282819.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282819.2%29
+SO - Journal of Structural Engineering 1984-11-01 110(11): 2819-2819
+
+
+    
+        AU - Richard W. Furlong
+    
+
+TI - Closure to &#x201c;<i>Column Rules of ACI, SSLC, and LRFD Compared</i>&#x201d; by Richard W. Furlong (October, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 2820-2823
+VI - 110
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1984)110:11(2820) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282820%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282820%29
+SO - Journal of Structural Engineering 1984-11-01 110(11): 2820-2823
+
+
+TI - Erratum: “Ultimate Possibility in Long Span Bridging” by Prodyot Kumar Mallick (November, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 2823-2823
+VI - 110
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1984)110:11(2823) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282823%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282823%29
+SO - Journal of Structural Engineering 1984-11-01 110(11): 2823-2823
+
+
+TI - Erratum: “Response to Wind Action of 265‐M Mount is a Stack” by William H. Melbourne, John C. K. Cheung, and Charles (November, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 2824-2824
+VI - 110
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1984)110:11(2824) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282824%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A11%282824%29
+SO - Journal of Structural Engineering 1984-11-01 110(11): 2824-2824
+
+

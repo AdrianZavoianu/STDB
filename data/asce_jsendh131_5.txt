@@ -1,0 +1,450 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Sashi K. Kunnath
+    
+
+TI - Editor’s Note
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 699-700
+VI - 131
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(2005)131:5(699) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28699%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28699%29
+SO - Journal of Structural Engineering 2005-05-01 131(5): 699-700
+
+
+    
+        AU - A. Fafitis
+    
+
+TI - Nonlinear Truss Analysis by One Matrix Inversion
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 701-705
+VI - 131
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(2005)131:5(701) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28701%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28701%29
+SO - Journal of Structural Engineering 2005-05-01 131(5): 701-705
+AB - A new method for nonlinear structural analysis has been developed. The novelty of the method is that only one stiffness matrix inversion is required without the need for updating and reinverting the matrix at every load increment. This stiffness matrix is not necessarily the real stiffness matrix of the structure. Instead any stiffness matrix compatible with the geometry and the constraints of the truss can be used. The advantage of this option is that if the design of some members is revised the already inverted and stored matrix is used for the analysis of the revised structure. Nonlinearities due to strain hardening, strain softening, buckling, breaking, and stiffness degradation are handled by iterations involving only multiplications of the banded matrix with a transformed force vector. The inversion of the half-banded original stiffness matrix is done using Gauss elimination performed on the half-banded matrix without destroying the bandedness, and the inverted matrix replaces the original without the need for additional storage. The coefficients for the transformation of the force vector are stored permanently in a new matrix of size equal to the size of the half-banded original. Thus, the total storage needed is equal to the storage for the banded original stiffness. Because, after the Gauss elimination, only multiplications of a matrix with a vector are involved, the method is computationally efficient. The method is not a step-by-step procedure. Any load increment can be applied, therefore, proportional, nonproportional, and cyclic loads are treated in a unified way. The energy dissipation and the residual stresses and strains after one or more cycles are readily available, and thus the method can be used in quasi-dynamic analysis (e.g. pushover) for an evaluation of the dynamic parameters of the structure.
+
+
+    
+        AU - Andrea Dall’Asta
+    
+        AU - Alessandro Zona
+    
+
+TI - Finite Element Model for Externally Prestressed Composite Beams with Deformable Connection
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 706-714
+VI - 131
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(2005)131:5(706) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28706%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28706%29
+SO - Journal of Structural Engineering 2005-05-01 131(5): 706-714
+AB - This paper presents a finite element model for the nonlinear analysis of beams prestressed by external slipping cables. The formulation involves composite beams with deformable shear connection; the simpler kinematical model of reinforced concrete beams can be analyzed as a special case. Cables can have general paths and can slip with no friction at the deviators. General nonlinear constitutive laws can be used for the materials, i.e., concrete, reinforcements, beam steel, shear connectors, and tendons. The proposed approach can be implemented in existing nonlinear finite element programs with no additional iterative procedures. Results of some applications are shown in order to illustrate the potential of the proposed approach in the analysis of steel–concrete continuous composite beams up to failure. Comparisons with experimental tests are performed to validate the numerical results.
+
+
+    
+        AU - Kee-Dong Kim
+    
+        AU - Michael D. Engelhardt
+    
+
+TI - Composite Beam Element for Nonlinear Seismic Analysis of Steel Frames
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 715-724
+VI - 131
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(2005)131:5(715) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28715%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28715%29
+SO - Journal of Structural Engineering 2005-05-01 131(5): 715-724
+AB - This paper presents the development of a composite beam element intended to model the inelastic behavior of beams with composite slabs in steel moment frames under earthquake loading. The element can be considered as a one-component series hinge-type model. The capabilities and accuracy of the element are examined by a series of comparisons with experimental data on cyclically loaded subassemblages. The element is then used for an inelastic time-history analysis of a steel moment frame to illustrate the effects of modeling composite beam behavior on predictions of local and overall frame response.
+
+
+    
+        AU - A. M. Sweedan
+    
+        AU - A A. El Damatty
+    
+
+TI - Equivalent Models of Pure Conical Tanks under Vertical Ground Excitation
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 725-733
+VI - 131
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(2005)131:5(725) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28725%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28725%29
+SO - Journal of Structural Engineering 2005-05-01 131(5): 725-733
+AB - Elevated water tanks are commonly built with superstructure vessels that have a truncated conical shape. As a result of the inclination of the vessel’s walls, the axisymmetric hydrodynamic pressure that is associated with vertical ground accelerations develops hoop and axial meridional stresses. The purpose of the current study is to establish a simple procedure that can be used to estimate the seismic forces acting on a conical tank subjected to vertical ground accelerations. The study is conducted using a numerical model that is based on a coupled finite-boundary element formulation previously developed for the analysis of this fluid-structure interaction problem. First, the numerical model is used to develop charts that can be used to identify the fundamental frequency of the axisymmetric vibrations of conical tanks. Then, an equivalent mechanical model in which the fluid mass is simulated as rigid and flexible mass components is developed. The parameters of the mechanical model are presented in chart form. An example that estimates the forces acting on a conical tank subjected to the vertical component of real prerecorded earthquake motion is presented to illustrate the procedure.
+
+
+    
+        AU - Osamu Yoshida
+    
+        AU - Shirley J. Dyke
+    
+
+TI - Response Control of Full-Scale Irregular Buildings Using Magnetorheological Dampers
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 734-742
+VI - 131
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(2005)131:5(734) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28734%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28734%29
+SO - Journal of Structural Engineering 2005-05-01 131(5): 734-742
+AB - This paper considers the capabilities of semiactive control systems using magnetorheological dampers when applied to numerical models of full scale asymmetric buildings. Two full scale building models exhibiting coupled lateral and torsional motions are studied. The first case considered is a nine-story building with an asymmetric structural plan. The footprint of this building is rectangular, but the asymmetry is due to the distribution of shear walls. The second case considered is an L-shaped, eight-story building with additional vertical irregularity due to setbacks. Linear, lumped-parameter models of the buildings are employed herein to evaluate the potential of the control system to effectively reduce the responses of the buildings. In each case a device placement scheme based on genetic algorithms is used to place the control devices effectively. The proposed control systems are evaluated by simulating the responses of the models due to the El Centro 1940 and the Kobe 1995 earthquakes. In the second case, simulations are conducted using two-dimensional ground motions. The performance of the proposed semiactive control systems are compared to that of both ideal active control systems and passive control systems.
+
+
+    
+        AU - Yanming Liu
+    
+        AU - Faramarz Gordaninejad
+    
+        AU - Cahit A. Evrensel
+    
+        AU - Xiaojie Wang
+    
+        AU - Gregory Hitchcock
+    
+
+TI - Comparative Study on Vibration Control of a Scaled Bridge Using Fail-Safe Magneto-Rheological Fluid Dampers
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 743-751
+VI - 131
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(2005)131:5(743) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28743%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28743%29
+SO - Journal of Structural Engineering 2005-05-01 131(5): 743-751
+AB - This work presents vibration control of a scaled bridge using fail-safe magneto-rheological fluid (MRF) dampers. A fail-safe MRF damper refers to a device that retains a minimum required damping capacity in the event of a power or electronic system failure. Energy minimization, Lyapunov, fuzzy logic, and variable structure system (VSS) fuzzy logic control strategies are employed to study the performance of this system under a random base excitation. To better understand the overall system behavior, a theoretical frequency response analysis is also presented. It is experimentally demonstrated that semiactive control systems utilizing MRF dampers can reduce the relative deck displacement while the absolute deck acceleration is relatively unaffected. In addition, it is shown that the fuzzy logic and VSS fuzzy logic methods are simple to implement, effective and require far less input energy than other control cases.
+
+
+    
+        AU - Peter H. Bischoff
+    
+
+TI - Reevaluation of Deflection Prediction for Concrete Beams Reinforced with Steel and Fiber Reinforced Polymer Bars
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 752-767
+VI - 131
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(2005)131:5(752) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28752%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28752%29
+SO - Journal of Structural Engineering 2005-05-01 131(5): 752-767
+AB - This paper provides a critical evaluation of equations commonly used to compute short-term deflection for steel and fiber reinforced polymer (FRP) reinforced concrete beams. Numerous proposals have been made for FRP in particular, and the different approaches are linked together by comparing the tension-stiffening component of each method. Tension stiffening reflects the participation of concrete between cracks in stiffening the member response. The Branson equation used in North America and other parts of the world is based on an empirically derived effective moment of inertia to calculate deflection. The tension-stiffening component with this method is highly dependent on the applied level of loading relative to the cracking load as well as the ratio of uncracked-to-cracked transformed moment of inertia 
+
+(
+Ig
+∕
+Icr
+)
+
+ for the beam section. Tension stiffening is overestimated for the high 
+
+
+Ig
+∕
+Icr
+
+
+ ratios typical with FRP concrete, leading to a much stiffer response and underprediction of member deflection. Deflection of steel reinforced concrete with reinforcing ratios less than 1% is also likely to be underestimated because of higher 
+
+
+Ig
+∕
+Icr
+
+
+ ratios at these lower reinforcement levels, but not to the same extent. In both cases, service loads are less than twice the cracking load where tension stiffening is most significant. Modifications to Branson’s equation for deflection prediction of FRP concrete soften the member response by reducing the tension-stiffening component, mostly by introducing empirical factors that effectively decrease the 
+
+
+Ig
+∕
+Icr
+
+
+ ratio. An alternative expression for calculating beam deflection is developed with a rational approach that incorporates a tension-stiffening model adopted in Europe. The proposed equation gives an effective moment of inertia that is independent of 
+
+
+Ig
+∕
+Icr
+
+
+ and works equally well for either steel or FRP reinforced concrete.
+
+
+    
+        AU - X. D. Qian
+    
+        AU - Y. S. Choo
+    
+        AU - J. Y. Liew
+    
+        AU - J. Wardenier
+    
+
+TI - Simulation of Ductile Fracture of Circular Hollow Section Joints Using the Gurson Model
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 768-780
+VI - 131
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(2005)131:5(768) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28768%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28768%29
+SO - Journal of Structural Engineering 2005-05-01 131(5): 768-780
+AB - Numerical modeling of the fracture effects on the strength of steel circular hollow section joints has not been sufficiently addressed historically. The Gurson model simulates the plastic yield behavior of material with microvoids. It is found in the current study that we can offer an alternative approach in modeling the ductile fracture for the strength analysis of tubular joints. Two loading conditions are investigated on tubular bars with the Gurson model. The effects of void growth and nucleation are observed to be more prominent in the axial tensile mode than the shear mode. Two types of tubular joints are investigated: precracked tubular joints and intact tubular joints. The effect of ductile fracture is reflected by softening of material, which leads to reductions in load–deformation curves which are consistent with test observations. Due to the lack of material data, a sensitivity study is carried out on the Gurson’s material properties.
+
+
+    
+        AU - William M. Bulleit
+    
+        AU - Wei-Chiang Pang
+    
+        AU - David V. Rosowsky
+    
+
+TI - Modeling Wood Walls Subjected to Combined Transverse and Axial Loads
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 781-793
+VI - 131
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(2005)131:5(781) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28781%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28781%29
+SO - Journal of Structural Engineering 2005-05-01 131(5): 781-793
+AB - Repetitive-member wall systems are among the most essential structural systems in conventional light-frame construction. Wood stud walls serve a variety of structural functions, particularly in regions of high natural-hazard risk, carrying axial forces, in-plane shear forces, and out-of-plane forces. This paper describes a structural analysis model for wood walls under transverse wind loads combined with either axial tension from wind uplift or axial compression from snow and live load suitable for reliability studies. The average model results compared well to available wall test data. Monte Carlo simulation was used in sensitivity studies of the transverse ramp-load behavior of walls under various levels of axial load. These simulations show that the model captures the range of possible behaviors of stud walls under various levels of axial load, both compression and tension. The model is accurate and simple enough to be used in reliability analyses, which will be described in a later paper.
+
+
+    
+        AU - G. Doudak
+    
+        AU - G. McClure
+    
+        AU - I. Smith
+    
+        AU - L. Hu
+    
+        AU - T. Stathopoulos
+    
+
+TI - Monitoring Structural Response of a Wooden Light-Frame Industrial Shed Building to Environmental Loads
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 794-805
+VI - 131
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(2005)131:5(794) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28794%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28794%29
+SO - Journal of Structural Engineering 2005-05-01 131(5): 794-805
+AB - Light-frame wooden buildings are highly complex and redundant structural systems that behave as assemblies of folded and interlocked rib-stiffened plate systems. This paper describes structural monitoring experiments on one such structure. A single storey industrial shed building located in Québec City, Canada, was monitored to determine its displacement response to wind and snow loads. Displacements were correlated with real-time estimates of these environmental loads. Observations encompassed deformations of a continuous strip of the wall and roof. Artificial (static) distributed and point loads were also applied to the structure to enhance understanding of how structural components interact. Limited finite element analysis was conducted for the rib stiffened roof system and the overall assembly, with agreement between predicted deformations and those observed under environmental or artificial loads. Measured response under snow loads confirmed theoretical expectations that composite action and load sharing are important mechanisms for light-frame buildings. The general trends for the main wind effects with steady wind direction were set, but simplified pressure coefficients had to be used for this study. A more detailed description of the wind load is needed, which can be obtained with measurements of the pressure distribution on the envelope of the building in full scale, supplemented with a wind-tunnel study. This project proved the feasibility of real-time monitoring and was the precursor for a larger monitoring project currently in progress at the University of New Brunswick.
+
+
+    
+        AU - Alexander Porteous
+    
+        AU - Abdy Kermani
+    
+
+TI - Fully Overlapping Nailed Joints with Steel Gussets in Timber Structures
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 806-815
+VI - 131
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(2005)131:5(806) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28806%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28806%29
+SO - Journal of Structural Engineering 2005-05-01 131(5): 806-815
+AB - This paper presents an experimental investigation into the translational behavior of timber joints formed with steel gusset plates and connected by fully overlapping nails. Over 1,200 joints have been tested and their load–displacement characteristics studied, incorporating all of the factors that have influence on the strength and stiffness behavior of the joints. Using an empirical approach, a load–displacement model enveloping all displacement states up to failure is developed. The model incorporating characteristic properties is compared with the behavior of equivalent joints designed in accordance with Eurocode 5 rules. The comparison gives variable results and raises questions over the validity of the function being proposed in the code to allow for the effect of nail row spacing on joint strength.
+
+
+    
+        AU - F. Yue
+    
+        AU - Y. Yuan
+    
+        AU - G. Q. Li
+    
+        AU - K. M. Ye
+    
+        AU - Zh. M. Chen
+    
+        AU - Zh. P. Wang
+    
+
+TI - Wind Load on Integral-Lift Scaffolds for Tall Building Construction
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 816-824
+VI - 131
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(2005)131:5(816) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28816%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28816%29
+SO - Journal of Structural Engineering 2005-05-01 131(5): 816-824
+AB - The integral-lift scaffolds are widely used in construction of tall buildings in Asia. However, the wind load on scaffolds may be much greater than dead load and be the dominant effect as the scaffolds climb over 
+
+150
+m
+
+ in height. The shape coefficient and vibration coefficient are important factors in calculation of wind load. However, there is no available approach at present for determining the two coefficients for calculating the wind load on this temporary structure. In order to determine the shape coefficient of wind pressure on the typical scaffolds, wind tunnel tests have been conducted. The drag coefficients have been measured, which are proved to be identical to the wind shape coefficients. By using random vibration theory, formulae are obtained for predicting the wind vibration coefficients of the scaffolds at the two stages of climbing up and down. The useful guidelines for the safe design of integral-lift scaffolds against winds are proposed in this paper.
+
+
+    
+        AU - Peter J. Vickery
+    
+        AU - Peter F. Skerlj
+    
+
+TI - Hurricane Gust Factors Revisited
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 825-832
+VI - 131
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(2005)131:5(825) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28825%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28825%29
+SO - Journal of Structural Engineering 2005-05-01 131(5): 825-832
+AB - This paper describes a re-examination of gust factors associated with hurricanes. The hurricane gust factors for the over-land and over-water cases are examined separately, with the observed gust factors compared to those determined using theoretically based models derived for extratropical storm winds. The results of the study suggest that in most cases hurricane gust factors can be described using models developed for standard neutral boundary layer flow conditions. Large, anomalous gust factors associated with convective gusts were found; however, these high gust factors were all observed well away from the hurricane eyewall in all cases.
+
+
+    
+        AU - Min Liu
+    
+        AU - Dan M. Frangopol
+    
+
+TI - Multiobjective Maintenance Planning Optimization for Deteriorating Bridges Considering Condition, Safety, and Life-Cycle Cost
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 833-842
+VI - 131
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(2005)131:5(833) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28833%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28833%29
+SO - Journal of Structural Engineering 2005-05-01 131(5): 833-842
+AB - Many of the currently available bridge management system tools focus on minimizing life-cycle maintenance cost of deteriorating bridges while imposing constraints on structural performance. The computed single optimal maintenance planning solution, however, may not necessarily meet a bridge manager’s specific requirements on lifetime bridge performance. In this paper the life-cycle maintenance planning of deteriorating bridges is formulated as a multiobjective optimization problem that treats the lifetime condition and safety levels as well as life-cycle maintenance cost as separate objective functions. A multiobjective genetic algorithm is used as the search engine to automatically locate a large pool of different maintenance scenarios that exhibits an optimized tradeoff among conflicting objectives. This tradeoff provides improved opportunity for bridge managers to actively select the final maintenance scenario that most desirably balances life-cycle maintenance cost, condition, and safety levels of deteriorating bridges.
+
+
+    
+        AU - Allen C. Estes
+    
+        AU - Dan M. Frangopol
+    
+
+TI - Load Rating versus Reliability Analysis
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 843-847
+VI - 131
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(2005)131:5(843) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28843%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28843%29
+SO - Journal of Structural Engineering 2005-05-01 131(5): 843-847
+AB - The most common approach to assess the safety of a bridge is load rating. However, this approach cannot quantify the bridge safety in probabilistic terms or fully quantify the structural risk to the bridge. Reliability methods have become an increasingly popular and gradually accepted approach to assess the safety of structures. These methods account for the randomness and correlation of all relevant variables and failure modes in the analysis. This study performs both a load rating analysis and a reliability analysis on the same highway bridge, compares the results, and discusses the strengths and limitations of each approach.
+
+
+    
+        AU - Aaron S. Brown
+    
+        AU - Henry T. Yang
+    
+        AU - Michael S. Wrobleski
+    
+
+TI - Improvement and Assessment of Neural Networks for Structural Response Prediction and Control
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 848-850
+VI - 131
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(2005)131:5(848) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28848%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28848%29
+SO - Journal of Structural Engineering 2005-05-01 131(5): 848-850
+AB - In an extension of a previous paper, prediction accuracy is improved for neural networks to be used as part of an adaptive structural control system. This improvement will enable reliable predictions of performance variables such as displacements and control forces further into the future. This allows more lead time for controller adjustment should a performance variable be predicted to violate a prescribed constraint. The improved prediction accuracy is due to the use of the Levenberg–Marquardt algorithm in training the neural network and the use of a single neural network for more than one performance variable simultaneously. With these improvements, far fewer iterations (and more importantly less computer processor time) are used in the neural network training, and most importantly the prediction accuracy is greatly improved. These improved neural network predictions are then compared to other prediction methods: a polynomial fit of past data and the use of the state transition matrix.
+
+
+    
+        AU - J. T. Mottram
+    
+
+TI - Discussion of “Local Buckling of Fiber Reinforced Plastic Composite Structural Members with Open and Closed Cross Sections” by Làszlò P. Kollàr
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 851-853
+VI - 131
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(2005)131:5(851) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28851%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28851%29
+SO - Journal of Structural Engineering 2005-05-01 131(5): 851-853
+
+
+    
+        AU - László P. Kollár
+    
+
+TI - Closure to “Local Buckling of Fiber Reinforced Plastic Composite Structural Members with Open and Closed Cross Sections” by László P. Kollár
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 853-853
+VI - 131
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(2005)131:5(853) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28853%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A5%28853%29
+SO - Journal of Structural Engineering 2005-05-01 131(5): 853-853
+
+

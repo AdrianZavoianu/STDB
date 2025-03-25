@@ -1,0 +1,332 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Wai-Fah Chen
+    
+        AU - Tse-Yung P. Chang
+    
+        AU - Hiroyuki Suzuki
+    
+
+TI - End Effects of Pressure-Resistant Concrete Shells
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 751-771
+VI - 106
+IP - 4
+AID - 10.1061/JSDEAG.0005396 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005396
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005396
+SO - Journal of the Structural Division 1980-04-01 106(4): 751-771
+AB - A study was made to establish the influence of end restraint on the strength and structural response of concrete cylindrical shells subjected to external pressure. To this end, five three-dimensional analysis cases were performed, using a finite element program called NFAP with a work-hardening plasticity-based constitutive relation subroutine for the concrete material. The program is capable of performing parametric studies on the influence of variably restrained end supports, geometrical imperfections, nonlinear nature of stress-strain-fracture response, and the nonconservative nature of hydrostatic loading. The study concluded that for cylinders not failed by structural instability, the introduction of radial springs at the ends coupled with some restraint on the axial movement of cylinder can result in a significant increase in the implosion strength. However, simply introducing only radial springs without imposing an axial restraint at the ends of the cylinder can not affect the implosion strength significantly.
+
+
+    
+        AU - John W. Fisher
+    
+        AU - Alan W. Pense
+    
+        AU - Hans Hausammann
+    
+        AU - George R. Irwin
+    
+
+TI - Quinnipiac River Bridge Cracking
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 773-789
+VI - 106
+IP - 4
+AID - 10.1061/JSDEAG.0005397 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005397
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005397
+SO - Journal of the Structural Division 1980-04-01 106(4): 773-789
+AB - A large crack was discovered in November l973 in a fascia girder of the suspended span of the Quinnipiac River Bridge near New Haven, Conn. Crack propagation was found to occur in different stages. Fatigue cracks were found to originate at lack of fusion areas in horizontal stiffener splices. After the crack penetrated the web thickness it resulted in brittle fracture of the web. Rapid crack growth was arrested in the flange. On basis of evidence available, brittle fracture occurred at temperatures between 10° F (-12° C) and -10° F (-23° C). Crack instability developed when the stress intensity at the crack tip reached the material fracture toughness. The fracture toughness was estimated from J-integral measurements and from Charpy V-notch test data. An increase in fracture toughness would not have appreciably affected the behavior of the girder. Random truck loading would have continued to grow the web crack in a stable manner until a critical crack length was eventually reached.
+
+
+    
+        AU - Le-Chung Shiau
+    
+        AU - Henry T.Y. Yang
+    
+
+TI - Elastic-Plastic Seismic Response of Chimney
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 791-807
+VI - 106
+IP - 4
+AID - 10.1061/JSDEAG.0005398 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005398
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005398
+SO - Journal of the Structural Division 1980-04-01 106(4): 791-807
+AB - An analytic investigation of the elastic and inelastic response behaviors of an 823-ft (251-m) chimney to a realistic earthquake record is conducted. The chimney is modeled by using eight pipe-type beam finite elements. Equations of motion are solved numerically by direct integration method. For the pure elastic analysis, cracks developed in the chimney are considered. Several assumed percentages of the critical damping are also considered. For the inelastic analysis, the material of the chimney is assumed to be an idealized equivalent homogeneous material with the same Young's modulus, mass density, and elastic limit as concrete. Equations for the determination of the depths of elastic-plastic boundaries in the finite elements are derived. The time-history response results obtained from the inelastic analysis are compared with those obtained from the purely elastic analysis. The present method may be applied to the analysis of practical designs of slender reinforced concrete chimneys.
+
+
+    
+        AU - Emil Simiu
+    
+        AU - Michael J. Changery
+    
+        AU - James J. Filliben
+    
+
+TI - Extreme Wind Speeds at 129 Airport Stations
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 809-817
+VI - 106
+IP - 4
+AID - 10.1061/JSDEAG.0005399 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005399
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005399
+SO - Journal of the Structural Division 1980-04-01 106(4): 809-817
+AB - Information is presented on extreme wind speeds at 129 airport stations in the contiguous United States at which reliable records are available over a number of consecutive years. This information is provided to serve as basic documentation from which appropriate decisions can be made on values of design wind speeds to be specified: (1) In building codes and standards; and (2)on projects that warrant special consideration from the wind loading standpoint.
+
+
+    
+        AU - Zdeněk P. Bažant
+    
+        AU - Pietro Gambarova
+    
+
+TI - Rough Cracks in Reinforced Concrete
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 819-842
+VI - 106
+IP - 4
+AID - 10.1061/JSDEAG.0005400 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005400
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005400
+SO - Journal of the Structural Division 1980-04-01 106(4): 819-842
+AB - Equations derived are which relate the normal and shear stresses transmitted across a crack due to aggregate interlock to the opening and slip displacements. Average strains due to a system of parallel continuous cracks are superimposed on the strains due to the solid concrete between the cracks. The response of cracked concrete reinforced by a regular net of bars is then calculated using an incremental loading procedure. The stress-displacement relations exhibit a singularity at the initial state of zero displacements and the initial crack opening must begin at zero slip. Responses to various types of loading are calculated and the variation of the secant friction coefficient, crack dilatancy due to slip and the effect of crack opening are studied. The theory allows designing for a maximum crack width if the crack spacing is known. The previously proposed slip-free concept yields limit loads which are found to correspond to the states just before the start of a rapid increase in crack opening, while the classical frictional approach yields limit loads that are achieved only after very wide cracks develop.
+
+
+    
+        AU - Ashok K. Jain
+    
+        AU - Subhash C. Goel
+    
+
+TI - Seismic Response of Eccentrically Braced Frames
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 843-860
+VI - 106
+IP - 4
+AID - 10.1061/JSDEAG.0005401 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005401
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005401
+SO - Journal of the Structural Division 1980-04-01 106(4): 843-860
+AB - This study deals with eccentrically braced frames with a view: (1)To define situations in which end moments in the bracing members dominate over axial forces and vice versa; and (2)to study their seismic response with different member proportions. It is concluded that in eccentrically braced frames, end moments dominate over axial forces for bracing members of slenderness ratio of the order of 50 or less, end moments and axial forces are equally important between 50 to 120, and buckling dominates for slenderness ratio more than 120. There is a need to develop a hysteresis model that would account for axial as well as flexural inelasticity in steel members. It is also noted that strong-girder/weak-column combination produces significant flexural inelastic activity in the columns whereas with weak girders the inelastic activity can be confined to girders alone or distributed among girders and bracing members.
+
+
+    
+        AU - Charles F. Scribner
+    
+        AU - James K. Wight
+    
+
+TI - Strength Decay in R/C Beams under Load Reversals
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 861-876
+VI - 106
+IP - 4
+AID - 10.1061/JSDEAG.0005402 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005402
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005402
+SO - Journal of the Structural Division 1980-04-01 106(4): 861-876
+AB - An experimental investigation to determine the effectiveness of intermediate longitudinal reinforcement in limiting shear strength decay of reinforced concrete members is presented. Test specimens consisted of fourteen exterior beam-column subassemblies. Variables included shear stress, percentage of beam transverse reinforcement, percentage of longitudinal reinforcement and shear span to depth ratio in addition to the presence of two layers of intermediate longitudinal reinforcement in half the specimens. Test results indicated that intermediate longitudinal reinforcement provided significant and useable improvement in shear strength retention for members with maximum shear stresses between three and six times the square root of the specified compression strength of concrete.
+
+
+    
+        AU - Paul Millman
+    
+        AU - Robert Kilcup
+    
+        AU - C. Allin Cornell
+    
+
+TI - Design Temperature for Structural Elements
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 877-895
+VI - 106
+IP - 4
+AID - 10.1061/JSDEAG.0005403 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005403
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005403
+SO - Journal of the Structural Division 1980-04-01 106(4): 877-895
+AB - Following a review of different methods of analysis of temperature effects, a simplified method is proposed for probabilistic analysis. Using a simple one-dimensional element for illustration, it is shown that the transfer functions for unrestrained curvature or strain are similar to the transfer function of a time averaging filter. The analysis for extremes of structural effects can be replaced by simply applying a moving average to a temperature history. The appropriate averaging time is obtained by matching the shape of the structural effect transfer function and the time averaging transfer function. Graphs showing the mean upcrossing rate of the time averaged temperature history can be prepared for a region. The designer then needs to know only the appropriate averaging time for a building element and solves a steady state problem to find the design value of strain or curvature.
+
+
+    
+        AU - Levon Minnetyan
+    
+        AU - Richard B. Nelson
+    
+        AU - D. Lewis Mingori
+    
+
+TI - Dynamics and Optimal Design of AGT System
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 897-914
+VI - 106
+IP - 4
+AID - 10.1061/JSDEAG.0005404 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005404
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005404
+SO - Journal of the Structural Division 1980-04-01 106(4): 897-914
+AB - The results of a combined analysis and design of an AGT (Automated Guideway Transit) system are presented. The system is idealized by one or more rigid mass vehicles supported on linear primary suspension systems traveling at a constant forward velocity over a series of simply supported elevated elastic guideways. Least cost system designs are obtained via mathematical programming by assigning comparative cost factors to individual design parameters such as the vehicle suspension properties, guideway cross sectional dimensions, span length and guideway surface irregularities. System resonances and unusual design features such as soft vehicle suspension and low damping are discussed with underlying reasons particular to vehicles designed to run on flexible guideways.
+
+
+    
+        AU - Peter Graham Buckland
+    
+        AU - Frank P.D. Navin
+    
+        AU - Jim V. Zidek
+    
+        AU - John P. McBryde
+    
+
+TI - Proposed Vehicle Loading of Long-Span Bridges
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 915-932
+VI - 106
+IP - 4
+AID - 10.1061/JSDEAG.0005405 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005405
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005405
+SO - Journal of the Structural Division 1980-04-01 106(4): 915-932
+AB - Two completely different methods have been derived for predicting the loading on a long-span bridge, given a knowledge of the average mix of traffic. Both methods are in good agreement. It is shown that the load can be represented as a uniform load and a concentrated load to give maximum moments and shears with a reasonable degree of accuracy. Unlike the findings of previous authors, the concentrated load is found to increase with the length of bridge that is loaded, whereas the uniform component decreases with length as would be expected. Examples are given for four levels of traffic ranging from very light to very heavy and comparisons show that the loading is not unduly sensitive to the percentage of trucks in the traffic stream.
+
+
+    
+        AU - Adrian W. Page
+    
+
+TI - Closure to “Finite Element Model for Masonry”
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 935-935
+VI - 106
+IP - 4
+AID - 10.1061/JSDEAG.0005406 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005406
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005406
+SO - Journal of the Structural Division 1980-04-01 106(4): 935-935
+
+
+    
+        AU - Lawrence A. Twisdale
+    
+
+TI - Closure to “Tornado Data Characterization and Windspeed Risk”
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 935-936
+VI - 106
+IP - 4
+AID - 10.1061/JSDEAG.0005407 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005407
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005407
+SO - Journal of the Structural Division 1980-04-01 106(4): 935-936
+
+
+    
+        AU - Benjamin Koo
+    
+
+TI - Discussion of “Reliability Based Criteria for Reinforced Concrete Design”
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 936-937
+VI - 106
+IP - 4
+AID - 10.1061/JSDEAG.0005408 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005408
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005408
+SO - Journal of the Structural Division 1980-04-01 106(4): 936-937
+
+
+    
+        AU - Erling A. Smith
+    
+
+TI - Discussion of “Force Limiting Devices in Space Trusses”
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 937-938
+VI - 106
+IP - 4
+AID - 10.1061/JSDEAG.0005409 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005409
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005409
+SO - Journal of the Structural Division 1980-04-01 106(4): 937-938
+
+
+    
+        AU - Morris Ojalvo
+    
+
+TI - Discussion of “Torsional Stiffening of I-Girder Webs”
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 939-939
+VI - 106
+IP - 4
+AID - 10.1061/JSDEAG.0005410 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005410
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005410
+SO - Journal of the Structural Division 1980-04-01 106(4): 939-939
+
+
+    
+        AU - Kuang-Han Chu
+    
+        AU - Vijay K. Garg
+    
+        AU - Chaman L. Dhar
+    
+
+TI - Erratum for “Railway-Bridge Impact: Simplified Train and Bridge Model”
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 940-940
+VI - 106
+IP - 4
+AID - 10.1061/JSDEAG.0005411 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005411
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005411
+SO - Journal of the Structural Division 1980-04-01 106(4): 940-940
+
+

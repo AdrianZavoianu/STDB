@@ -1,0 +1,685 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Alexander Coull
+    
+
+TI - Direct Stress Analysis of Orthotropic Bridge Slabs
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 1-12
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001049 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001049
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001049
+SO - Journal of the Structural Division 1964-04-01 90(2): 1-12
+AB - An approximate method of analysis of orthotropic bridge slabs is presented, enabling stresses to be obtained directly without the usual need for intermediate deflection calculation. The method uses the principle of least work, in conjunction with the assumption that the bending and twisting moments and shear forces in the plate may be represented by power series in the chordwise coordinate, the coefficients of the series being functions of the spanwise position only. The series are chosen to satisfy both the free-edge boundary conditions and the equilibrium equations for the slab, enabling the moments and shears to be expressed in terms of chosen redundant functional coefficients. By expressing the strain energy in terms of these redundant functions and minimizing the energy integral by the calculus of variations, a set of linear differential equations in the required functions is obtained, together with a complete set of boundary conditions for solution of the problem.
+
+
+    
+        AU - Stanton E. Huey
+    
+
+TI - Design of Haunched Beams by Fixed Points
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 13-30
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001051 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001051
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001051
+SO - Journal of the Structural Division 1964-04-01 90(2): 13-30
+AB - Haunched beams and beams with cover plates for negative moment can affect marked economy in continuous beams and frames. The increase in end moments caused by haunches or cover plates can be estimated quickly by the fixed point method of moment design, and the final analysis is shortened by this same method. A brief review of the fixed point method is given.
+
+
+    
+        AU - Stanley H. Fistedis
+    
+
+TI - Pressure Testing of Thick Reinforced Concrete Cell
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 31-54
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001059 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001059
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001059
+SO - Journal of the Structural Division 1964-04-01 90(2): 31-54
+AB - The structural response to internal pressure (to 10 psig) of a thick reinforced concrete containment cell was tested. The experimental strains were measured with SR-4 strain gages and compared with analytical strains. The analytical strains were calculated by analyzing a longitudinal frame bent, a transverse frame bent, and a horizontal box frame. Satisfactory agreement was obtained. Apparent disagreement at re-entrant corners and openings is alleviated by the proper application of stress concentration factors. The frames and the whole cell behave elastically. The analysis based on the moment distribution method and on uncracked concrete sections is valid. Construction joints, if carefully made, can sustain tensile stresses at least as high as 1/3 of the concrete tensile strength.
+
+
+    
+        AU - Tseng Huang
+    
+
+TI - Response of Structures to Triangular Pulse Loading
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 55-76
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001080 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001080
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001080
+SO - Journal of the Structural Division 1964-04-01 90(2): 55-76
+AB - Two nomographic charts were presented for obtaining the response of a single-degree-of-freedom linear system subjected to an initial-peak, triangular force-pulse. The instantaneous amplification factors, the maximum response, and the time that the maximum response occurs can be obtained directly. The charts also can be used conveniently for analyzing a multi-degree-of-freedom system by model analysis. Two examples were illustrated: A circular ring was considered as a single-degree-of-freedom system, and a cantilever beam was treated as a multi-degree-of-freedom system.
+
+
+    
+        AU - Jack G. Bouwkamp
+    
+
+TI - Concept of Tubular-Join Design
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 77-102
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001081 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001081
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001081
+SO - Journal of the Structural Division 1964-04-01 90(2): 77-102
+AB - The radial flexibility of the chord tube, the relative outside dimensions of the connecting members, and the relative position of the web members in the joint are major influences on the elastic and ultimate strength of tubular connections. The fully interwelded joint with profiled web members appears to be superior in the elastic-load range. The elastic range can be increased by interwelding the incoming web members. This arrangement consequently results in a direct load transfer between these members and subsequently prevents the development of high bending stresses in the chord tube wall. The ultimate load capacity of such a joint also will be increased considerably. For statically loaded joints, gusset plates and small diameter tubes with cropped ends can be used successfully, provided that the static load intensity is moderate. For severe static load applications and particularly for dynamic load conditions, joints with directly interwelded web members can be expected to be most efficient structurally.
+
+
+    
+        AU - Niels C. Lind
+    
+
+TI - Iterative Limit Analysis for Tall Frames
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 103-130
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001048 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001048
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001048
+SO - Journal of the Structural Division 1964-04-01 90(2): 103-130
+AB - Practical plastic design can be extended to cover tall frames and beam columns by an iterative analysis that takes force-deflection interaction into account. The state of deformation is used herein as the independent variable. The design load is achieved by a trial-and-error method. This approach is most advantageous because it automatically satisfies deformation constraints, and because it involves a new and more simple formulation of the beam-column elements of the structure. A short cut analysis for tall frames also is derived. Application is illustrated by examples of simple and continuous beam columns and a four story frame. The theory is confirmed by a few experimental results and comparison with a computer solution.
+
+
+    
+        AU - W. Daniel Reneker
+    
+        AU - Carl E. Ekberg
+    
+
+TI - Flexural Fatigue Tests of Prestressed Steel I-Beams
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 131-152
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001050 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001050
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001050
+SO - Journal of the Structural Division 1964-04-01 90(2): 131-152
+AB - An experimental study is presented of the fatigue behavior of two prestressed steel I-beams with welded full length cover plates. Both beams were subjected to flexural repeated stresses that finally caused each beam to fail. The study was extended to determine the state of stress in the specimens. This was done by a sectioning method revealing that the welds were areas of high tensile stresses, probably near yield stress. Superimposing the repeated stress range on the observed residuals and comparing this with a modified Goodman diagram for as-received materials, showed that a substantial portion of the reduction in fatigue life could be due to the high residual stresses.
+
+
+    
+        AU - Chuan Chung Feng
+    
+        AU - Richard D. Benton
+    
+
+TI - Flow Graph of Moment Distribution
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 153-178
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001052 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001052
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001052
+SO - Journal of the Structural Division 1964-04-01 90(2): 153-178
+AB - Moment distribution operations are transformed into flowgraph representation. All initial joint residuals are independent sources feeding into the graph; the moments at the member ends are dependent variables. The solution of moment-flow graph is an exact algebraic form developed from single-flow graph of feedback theory. Each unknown can be solved individually by the inspection of graph paths and independent of the remainder. Three general equations are developed to determine the moment influence coefficients without recourse to the original derivatives and the graph. These equations provide the exact solutions without solving sets of simultaneous equations, or involving iterative computations, enabling use of a small digital computer or desk calculator independent of the redundancy of the system.
+
+
+    
+        AU - Sang-Lip Lee
+    
+        AU - George F. Hauck
+    
+
+TI - Buckling of Steel Columns Under Arbitrary End Loads
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 179-200
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001053 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001053
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001053
+SO - Journal of the Structural Division 1964-04-01 90(2): 179-200
+AB - The differential equations of the inelastic bending of cantilever columns are solved by a numerical marching procedure. The curvature functions are derived for an elastic-perfectly plastic material and wide-flange or box sections. The critical load-slenderness ratio relationships are determined numerically and are approximated by semiemperical equations. These interaction equations are applied to the analysis of columns of various support and loading conditions. Numerical examples are given and, where appropriate, the results are compared with those obtained by other methods.
+
+
+    
+        AU - John W. Harvey
+    
+
+TI - Buckling Loads for Stepped Columns
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 201-222
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001054 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001054
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001054
+SO - Journal of the Structural Division 1964-04-01 90(2): 201-222
+AB - The formulation of exact characteristic buckling load equations for ideal stepped columns is shown. The method is based on the three-step moment equation. This expression, analogous to the well-known three-moment equation, relates the bending moments at three adjacent steps of a slightly buckled column. Modified moment equations are developed for various types of supports. The string polygon method and known load-slope relationships for simply supported struts are used in the development. The bounds of the buckling load are established by inspection of the poles of the characteristic equation. The characteristic equation is solved by trial and error. The solution is expedited by algebraic approximations for the transcendental functions (end slope magnification factors).
+
+
+    
+        AU - Ralph C. van Kuren
+    
+        AU - Theodore V. Galambos
+    
+
+TI - Beam Column Experiments
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 223-256
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001055 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001055
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001055
+SO - Journal of the Structural Division 1964-04-01 90(2): 223-256
+AB - Tests on thirty-seven, full-scale, wide-flange, beam-columns are described and the results are evaluated. Bending was about the strong axis for all but one of the tests, with the slenderness ratio varying from 20 to 112. Axial load and end moment were applied independently of each other, and the moments were applied to produce to types of loading. Twenty-seven of the tests were laterally unbraced, and ten were tested with lateral bracing. Failure of the members resulted from yielding, lateral-buckling, or local buckling. Comparison of the ultimate test loads with theoretical values obtained from numerical integration and with values obtained from an emperical interaction equation showed good correlation.
+
+
+    
+        AU - Charles G. Salmon
+    
+        AU - Donald R. Buettner
+    
+        AU - Thomas C. O’Sheridan
+    
+
+TI - Laboratory Investigation of Unstiffened Triangular Bracket Plates
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 257-278
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001056 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001056
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001056
+SO - Journal of the Structural Division 1964-04-01 90(2): 257-278
+AB - The behavior of triangular bracket plates that are unstiffened along the diagonal edge has been investigated by a series of laboratory tests. The results of these tests on welded steel brackets are reported and compared with results predicted by closely allied theory. Because of the large number of variables and deviations from ideal conditions, the eighteen specimen tests may appear to be somewhat exploratory. However, several important conclusions seem proper: (1) Plates of aspect ratios normally used in industrial buildings are unlikely to fail due to elastic buckling; (2) plates can be made thinner than usual empirical procedures would dictate; and (3) after loading to ultimate, the brackets can be reloaded several times to nearly the same load. A suggested procedure for design and an illustrative example are presented.
+
+
+    
+        AU - John H. Wiggins
+    
+
+TI - Effect of Site Conditions on Earthquake Intensity
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 279-314
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001057 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001057
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001057
+SO - Journal of the Structural Division 1964-04-01 90(2): 279-314
+AB - A study is reported of over 100 strong motion earthquake accelerograms at seven sites based on interpretation of integrated and balanced strong motion acceleration records and 5% damped pseudo-velocity response spectra from these records; pertinent site properties computed from reported relationships; epicentral distances and earthquake magnitudes; and wave theory applied to bounded elastic media having constant or linearly variant properties. It is concluded that no strong preferential site period was amplified on a maximum pseudo-velocity response spectrum during strong motion earthquake; spectra velocities at soft layer sites average twice the base spectrum values; normal amplification near the earthquake mechanism period is approximately 3.2 times that of the base spectrum; an equation for the maximum velocity of the Helena earthquake is not recommended for design use because of the large number of unknowns. Further study is recommended into the influence of foundation rigidity and structural mass and stiffness related to base motion of the structures and the effective depth of impedence measurement; correlation, from standard soil mechanics methods, of shear strength to shear impedences; and transient random disturbances propagating up through energy absorbent elastic materials.
+
+
+    
+        AU - Arthur C. Heidebrecht
+    
+        AU - Seng-Lip Lee
+    
+        AU - John F. Flemming
+    
+
+TI - Dynamic Analysis of Elastic-Plastic Frames
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 315-346
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001058 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001058
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001058
+SO - Journal of the Structural Division 1964-04-01 90(2): 315-346
+AB - A method is presented for the computation of the dynamic response of multi-story elastic-perfectly plastic frames. The development is based on a model in which the mass of the frame is assumed to be concentrated at the floor levels. The flexibility of the model is the same, member for member, as the actual structure. The equations of motion are written in terms of the deflections at the floor levels and are solved by means of a single-step forward-integration procedure. In these equations, the structural resistance to deformation may be expressed explicitly in terms of the floor deflections for any state of elastic-plastic behavior occurring during the dynamic response. In this formulation of the structural resistance, combined yielding of beams and columns is taken into account, and dynamic response curves are shown for several examples. The application of the method is extended to the analysis of statically loaded elastic-plastic frames. The latter application of the method is shown in several examples, and the results are compared with exact static analyses.
+
+
+    
+        AU - D. Yitzhaki
+    
+        AU - M. Reiss
+    
+
+TI - Closure to “Analysis of Folded Plates”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 347-347
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001060 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001060
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001060
+SO - Journal of the Structural Division 1964-04-01 90(2): 347-347
+
+
+    
+        AU - B. S. Smith
+    
+
+TI - Closure to “Lateral Stiffness of Infilled Frames”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 349-350
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001061 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001061
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001061
+SO - Journal of the Structural Division 1964-04-01 90(2): 349-350
+
+
+    
+        AU - Eugene Chesson
+    
+        AU - William H. Munse
+    
+
+TI - Closure to “Riveted and Bolted Joints: Truss-Type Tensile Connections”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 351-352
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001062 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001062
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001062
+SO - Journal of the Structural Division 1964-04-01 90(2): 351-352
+
+
+    
+        AU - Kuang-Han Chu
+    
+        AU - Sigmon S. Berge.
+    
+
+TI - Closure to “Analysis and Design of Struts with Tension Ties”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 355-356
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0006155 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006155
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006155
+SO - Journal of the Structural Division 1964-04-01 90(2): 355-356
+
+
+    
+        AU - Alexander M. Turitzin
+    
+
+TI - Closure to “Dynamic Pressure of Granular Material in Deep Bins”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 357-360
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0006156 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006156
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006156
+SO - Journal of the Structural Division 1964-04-01 90(2): 357-360
+
+
+    
+        AU - Charles Birnstiel
+    
+        AU - James Michalos
+    
+
+TI - Discussion of “Ultimate Load of H-Columns Under Biaxial Bending”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 361-363
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001063 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001063
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001063
+SO - Journal of the Structural Division 1964-04-01 90(2): 361-363
+
+
+    
+        AU - Semih S. Tezcan
+    
+
+TI - Discussion of “Plane Stress Analysis”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 365-366
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001064 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001064
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001064
+SO - Journal of the Structural Division 1964-04-01 90(2): 365-366
+
+
+    
+        AU - W. C. Lennox
+    
+
+TI - Discussion of “Numerical Methods in Bending and Buckling of Plates”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 367-368
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001065 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001065
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001065
+SO - Journal of the Structural Division 1964-04-01 90(2): 367-368
+
+
+    
+        AU - Semih S. Tezcan
+    
+
+TI - Discussion of “Large Capacity Multistory Frame Analysis Programs”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 369-370
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001066 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001066
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001066
+SO - Journal of the Structural Division 1964-04-01 90(2): 369-370
+
+
+    
+        AU - A. S. Hall
+    
+
+TI - Discussion of “Creep Buckling of Reinforced Concrete Columns”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 371-379
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001067 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001067
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001067
+SO - Journal of the Structural Division 1964-04-01 90(2): 371-379
+
+
+    
+        AU - D. M. Brotton
+    
+
+TI - Discussion of “Nonlinear Behavior of Structural Plane Frames”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 381-382
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001068 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001068
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001068
+SO - Journal of the Structural Division 1964-04-01 90(2): 381-382
+
+
+    
+        AU - Semih S. Tezcan
+    
+
+TI - Discussion of “Limit Analysis of Grid Frameworks”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 383-386
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001069 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001069
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001069
+SO - Journal of the Structural Division 1964-04-01 90(2): 383-386
+
+
+    
+        AU - A. A. Eremin
+    
+
+TI - Discussion of “Analysis of Arch Frames”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 387-387
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001070 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001070
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001070
+SO - Journal of the Structural Division 1964-04-01 90(2): 387-387
+
+
+    
+        AU - Peter F. Adams
+    
+
+TI - Discussion of “The Zero Sidesway Axis of Rigid Frames”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 389-391
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001071 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001071
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001071
+SO - Journal of the Structural Division 1964-04-01 90(2): 389-391
+
+
+    
+        AU - Richard C. Elstner
+    
+        AU - Peter D. Courtois
+    
+
+TI - Discussion of “Galvanic Corrosion in Concrete Containing Calcium Chloride”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 393-394
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001072 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001072
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001072
+SO - Journal of the Structural Division 1964-04-01 90(2): 393-394
+
+
+    
+        AU - Kuang-Han Chu
+    
+        AU - G. Krishnamoorthy
+    
+
+TI - Discussion of “Analysis of Orthotropic Plate Bridges”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 395-399
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001073 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001073
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001073
+SO - Journal of the Structural Division 1964-04-01 90(2): 395-399
+
+
+    
+        AU - K. T. Sundara Raja Iyengar
+    
+
+TI - Discussion of “Eigen-Matrix Method for Beams and Plates”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 401-401
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001074 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001074
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001074
+SO - Journal of the Structural Division 1964-04-01 90(2): 401-401
+
+
+    
+        AU - Allen E. Crenshaw
+    
+
+TI - Discussion of “Moment Coefficients for Frame Analysis”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 403-405
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001075 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001075
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001075
+SO - Journal of the Structural Division 1964-04-01 90(2): 403-405
+
+
+    
+        AU - F. P. Wiesinger
+    
+
+TI - Discussion of “Matrix Analysis of Semi-Rigidly Connected Frames”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 407-413
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001076 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001076
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001076
+SO - Journal of the Structural Division 1964-04-01 90(2): 407-413
+
+
+    
+        AU - Ping-Chun Wang
+    
+
+TI - Discussion of “General Computer Program for Limit Analysis”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 415-418
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001077 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001077
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001077
+SO - Journal of the Structural Division 1964-04-01 90(2): 415-418
+
+
+    
+        AU - M. G. Lay
+    
+        AU - T. V. Galambos
+    
+
+TI - Discussion of “Stability of Elasto-Plastic Wide-Flange Columns”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 419-420
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001078 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001078
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001078
+SO - Journal of the Structural Division 1964-04-01 90(2): 419-420
+
+
+    
+        AU - Eivald M. Q. Roren
+    
+
+TI - Discussion of “Phase I Report of the Task Committee on Folded Plate Construction”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 421-426
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0001079 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001079
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001079
+SO - Journal of the Structural Division 1964-04-01 90(2): 421-426
+
+
+    
+        AU - William H. Munse
+    
+        AU - Eugene Chesson
+    
+
+TI - Erratum for “Riveted and Bolted Joints: Net Section Design”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 353-353
+VI - 90
+IP - 2
+AID - 10.1061/JSDEAG.0006157 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006157
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006157
+SO - Journal of the Structural Division 1964-04-01 90(2): 353-353
+
+

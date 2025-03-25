@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Samanaidu Balakrishnan
+    
+        AU - David W. Murray
+    
+
+TI - Concrete Constitutive Model for NLEE Analysis of Structures
+PT - Journal Article
+DP - 1988
+TA - Journal of Structural Engineering
+PG - 1449-1466
+VI - 114
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1988)114:7(1449) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281449%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281449%29
+SO - Journal of Structural Engineering 1988-07-01 114(7): 1449-1466
+AB - A simple constitutive model for ‘smeared cracking’ nonlinear finite element analysis of reinforced concrete structures is described. The model divides the uniaxial response curve for concrete into fivedamage regions, described as linear elastic; compressive strain hardening; compressive strain softening; tensile strain softening; and tensile stiffening regions. Recommendations for incorporating strain localization effects into homogenized material properties in the softening regions are given. The effect of biaxial stress conditions on peak strengths is represented by a variation of the Kupfer‐Hilsdorf failure curve in stress space, in which the compressive and tensile envelopes are separately specified. Recommendations for the effects of tensile cracking and confinement on the shear modulus and the compressivesoftening modulus, respectively, are included. The central thrust of the paper is to incorporate those attributes of the constitutive model which affect the prediction of structural failure modes as the nature of thestructures varies.
+
+
+    
+        AU - Samanaidu Balakrishnan
+    
+        AU - Alaa E. Elwi
+    
+        AU - David W. Murray
+    
+
+TI - Effect of Modeling on NLFE Analysis of Concrete Structures
+PT - Journal Article
+DP - 1988
+TA - Journal of Structural Engineering
+PG - 1467-1487
+VI - 114
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1988)114:7(1467) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281467%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281467%29
+SO - Journal of Structural Engineering 1988-07-01 114(7): 1467-1487
+AB - This paper describes a technique of modeling concrete material properties for use in smeared cracking nonlinear finite element analysis of two‐dimensional reinforced concrete structures. The technique is applied to, and the predicted results are compared with, experimental results of 11 concrete beams which include examples both with and without web reinforcement, and for which the shear‐span‐to‐depth ratio varies from 0.5–7. Reasonable correspondence with test results is obtained for all of the six different failure modes exhibited by the test beams. The effect of varying the material parameters on the finite element prediction is examined, and a limited study of the effect of mesh refinement and variation of fracture energy parameters is included. It is concluded that nonlinear finite element analysis has developed to the point where reliable ultimate load analyses of two‐dimensional concrete structures can be carried out.
+
+
+    
+        AU - Zhiyuan Liu
+    
+        AU - Subhash C. Goel
+    
+
+TI - Cyclic Load Behavior of Concrete‐Filled Tubular Braces
+PT - Journal Article
+DP - 1988
+TA - Journal of Structural Engineering
+PG - 1488-1506
+VI - 114
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1988)114:7(1488) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281488%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281488%29
+SO - Journal of Structural Engineering 1988-07-01 114(7): 1488-1506
+AB - Cyclic load behavior of concrete‐filled rectangular steel tubular bracing members is investigated. Nine full‐scale specimens made from A500 Grade B cold‐formed steel tubes were tested under quasi‐static cyclic loading. The main prameters of the study are: 1) Presence of concrete; 2) strength of concrete; 3) effective slenderness ratio; and 4) width‐thickness ratio. General cyclic behavior and modes of failure of the specimens are presented. Based on the observations of the behavior of test specimens, two procedures are given to compute the first buckling load for such bracing members.
+
+
+    
+        AU - S. J. Pantazopoulou
+    
+        AU - J. P. Moehle
+    
+        AU - B. M. Shahrooz
+    
+
+TI - Simple Analytical Model for T‐Beams in Flexure
+PT - Journal Article
+DP - 1988
+TA - Journal of Structural Engineering
+PG - 1507-1523
+VI - 114
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1988)114:7(1507) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281507%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281507%29
+SO - Journal of Structural Engineering 1988-07-01 114(7): 1507-1523
+AB - A simple model to account for the contribution of slabs to the strength and stiffness of beams under negative bending at a beamcolumn connection is proposed. In the model, the slab is assumed to act as a tensile membrane that reinforces the tension region of the beam. The extent to which the slab contributes to the beam is determined from the geometry of the connection and the mechanical properties of the slab reinforcement. Closed‐form expressions are derived for the equivalent width of slab that should be taken into account in the flexural analysis of T or L beams.
+
+
+    
+        AU - Franklin Y. Cheng
+    
+        AU - Chris P. Pantelides
+    
+
+TI - Dynamic Timoshenko Beam‐Columns on Elastic Media
+PT - Journal Article
+DP - 1988
+TA - Journal of Structural Engineering
+PG - 1524-1550
+VI - 114
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1988)114:7(1524) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281524%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281524%29
+SO - Journal of Structural Engineering 1988-07-01 114(7): 1524-1550
+AB - Differential equations, stiffness coefficients, and fixed‐end forces are formulated for a Timoshenko beam‐column on an elastic foundation subjected to lateral time‐dependent excitations and static axial loads. The theoretical formulation includes shear and bending deformations as well as rotatory inertia, with emphasis on two approaches. The two approaches differ in terms of the assumed shear component of the static axial load on the cross section. The first approach is based on the assumption that the shear component of the axial load is calculated from the total slope; in the second approach, the shear component of the axial load is calculated only from the bending slope. The dynamic stiffness coefficients and fixed‐end forces are expressed in terms of nondimensional parameters associated with the effects of transverse and rotatory inertia, axial force, elastic media, and shear and bending deformations. When the individual effect is not considered, then the associated parameter can be dropped. The significance of the individual parameters on natural frequencies and dynamic response of typical beams is then extensively examined. The two approaches are also studied by comparing the response behavior and it is found that they differ appreciably with increasing axial loads and decreasing slenderness ratios. Comparison of the natural frequencies shows that the second approach gives higher values than the first.
+
+
+    
+        AU - Baidar Bakht
+    
+
+TI - Load Distribution in Laminated Timber Decks
+PT - Journal Article
+DP - 1988
+TA - Journal of Structural Engineering
+PG - 1551-1570
+VI - 114
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1988)114:7(1551) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281551%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281551%29
+SO - Journal of Structural Engineering 1988-07-01 114(7): 1551-1570
+AB - A load‐distribution analysis of transverse laminated timber decks of highway bridges is discussed. The decks may be nailed, glued, or prestressed and may be supported on closely or widely spaced girders. Using data from field testing, it is demonstrated that the load‐distribution characteristics of nailed laminated decks deteriorate with time and that the current AASHTO and Ontario methods for analyzing these decks are valid. It is also shown that the current AASHTO methods for analyzing glued laminated decks need revision. New simplified methods are presented to analyze glued or prestressed decks on widely spaced girders, and nailed decks on closely spaced girders.
+
+
+    
+        AU - Cedric Marsh
+    
+        AU - Wafik Ajam
+    
+        AU - Huy‐Kinh Ha
+    
+
+TI - Finite Element Analysis of Postbuckled Shear Webs
+PT - Journal Article
+DP - 1988
+TA - Journal of Structural Engineering
+PG - 1571-1587
+VI - 114
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1988)114:7(1571) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281571%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281571%29
+SO - Journal of Structural Engineering 1988-07-01 114(7): 1571-1587
+AB - An isolated panel subjected to shear distortion is capable of carrying a shear force well in excess of that causing initial shear buckling, even when the boundary flanges have no bending strength. A finite element method (FEM) analysis confirms the view that the postbuckling strength is attributable to a nonuniform shear‐stress distribution along the boundaries, varying from the critical stress in one corner up to the shear‐yield stress in the tension corner with no need for any diagonal tension. The presence of flanges with bending strength does permit the development of diagonal tension. However, light flanges give no increase in shear resistance. Impractically heavy flanges are shown to be capable of developing true diagonal tension, giving an increase in total shear capacity. The FEM analysis is applied to plate girders for which test results are known and is shown to provide reliable predictions.
+
+
+    
+        AU - Michael E. Barenberg
+    
+        AU - Douglas A. Foutch
+    
+
+TI - Evaluation of Seismic Design Procedures for Highway Bridges
+PT - Journal Article
+DP - 1988
+TA - Journal of Structural Engineering
+PG - 1588-1605
+VI - 114
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1988)114:7(1588) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281588%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281588%29
+SO - Journal of Structural Engineering 1988-07-01 114(7): 1588-1605
+AB - The seismic response of highway bridges designed by Cal‐Trans specifications in use before and after the 1971 San Fernando earthquake and hypothetical bridges designed by the latest American Association of State Highway Transportation Officials (AASHTO) specifications are evaluated. A computer code to analyze the dynamic response of bridges to a uniform base acceleration is developed with particular emphasis on modeling the overall nonlinear behavior of the piers. A spectrum‐compatible, artificial accelerogram is derived as a base input for the bridges. The degree of damage expected for the piers is evaluated by the use of a damage index derived from tests on reinforced concrete specimens. The results found that for bridges designed prior to 1971, the piers are in danger of collapse if the moments exceed the yield moments due to the limited amount of transverse reinforcing used. The bridges designed after 1971 and by the current specifications showed good calculated behavior of the piers. The method currently used for calculating the design force on the abutment, however, was unconservative in many cases.
+
+
+    
+        AU - P. Goltermann
+    
+        AU - S. E. Svensson
+    
+
+TI - Lateral Distortional Buckling: Predicting Elastic Critical Stress
+PT - Journal Article
+DP - 1988
+TA - Journal of Structural Engineering
+PG - 1606-1625
+VI - 114
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1988)114:7(1606) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281606%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281606%29
+SO - Journal of Structural Engineering 1988-07-01 114(7): 1606-1625
+AB - The problem of restrained lateral beam buckling is being treated in this paper. The restraint represents complete lateral and arbitrary continuous rotational restraint of one flange, the latter is represented by the spring stiffness C0. A simple theory, in which the problem is transformed into an ordinary fourth order differential eigenvalue problem is presented and design‐tables are given. It refines a method previously developed by Svensson. The results obtained are compared with exact results for C0=0 (the classical theory) and C0=∞ the latter based on results given in the published literature. For C0=0 a maximum deviation of 1% and for C0= deviations in the range of 1% to 4% were found. The results also confirm that a method proposed by other researchers yields similar good results. It is concluded that the method developed in the present paper, due to its generality and simplicity, provides an accurate and quick method for solving complex lateral distortional buckling problems.
+
+
+    
+        AU - Abul Hasnat
+    
+        AU - Faisal F. Wafa
+    
+        AU - Ali A. Akhtaruzzaman
+    
+
+TI - Prestressed Concrete Beams with Small Opening Under Torsion
+PT - Journal Article
+DP - 1988
+TA - Journal of Structural Engineering
+PG - 1626-1643
+VI - 114
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1988)114:7(1626) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281626%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281626%29
+SO - Journal of Structural Engineering 1988-07-01 114(7): 1626-1643
+AB - Based on the familiar skew‐bending model, strength equations are developed to predict the torsional strength of prestressed concrete beams containing a small circular transverse opening and subjected to torsion. Test results of fourteen axially and eccentrically prestressed concrete beams with and without web reinforcements are presented. Close agreement is observed between the experimental and the predicted values. Introduction of web reinforcement in prestressed beams changes its brittle failure characteristic to a ductile one and improves torsional strength. Torsional strength and stiffness of prestressed beams, however, decrease with the increase of opening size. Tension crack inclinations in prestressed members under torsion are considerably less than 45°; spacing of stirrups is, therefore, larger than that for non‐prestressed members. Comparison of test results of axially and eccentrically prestressed beams shows that eccentric prestressing is more economical than axial prestressing.
+
+
+    
+        AU - Kenneth W. Shushkewich
+    
+
+TI - Approximate Analysis of Concrete Box Girder Bridges
+PT - Journal Article
+DP - 1988
+TA - Journal of Structural Engineering
+PG - 1644-1657
+VI - 114
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1988)114:7(1644) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281644%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281644%29
+SO - Journal of Structural Engineering 1988-07-01 114(7): 1644-1657
+AB - The purpose of this paper is to show that the actual threedimensional behavior of a box girder bridge as predicted by a folded plate, finite strip, or finite element analysis can be approximated by using some simple membrane equations in conjunction with a plane frame analysis. This is a useful method since virtually all structural engineers have access to a plane frame computer program, while many have neither the access nor the inclination to use more sophisticated programs. In particular, the method allows the reinforcing and prestressing to be proportioned for transverse flexure, as well as the stirrups to be proportioned for longitudinal shear and torsion in single‐celled precast concrete segmental box girder bridges. Three numerical examples illustrate how the method may be applied to practical problems.
+
+
+    
+        AU - Paul Weidlinger
+    
+        AU - Eve Hinman
+    
+
+TI - Analysis of Underground Protective Structures
+PT - Journal Article
+DP - 1988
+TA - Journal of Structural Engineering
+PG - 1658-1673
+VI - 114
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1988)114:7(1658) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281658%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281658%29
+SO - Journal of Structural Engineering 1988-07-01 114(7): 1658-1673
+AB - A procedure is presented for analyzing underground protective structures subject to conventional weapons effects. A radiation damping term is added to a simple mass‐resistance system to include structure‐medium interaction effects. This methodology, which is based on a decoupling procedure for finite element computations, is applied to the deformation and the rigid body response of a single‐degree‐offreedom model. Numerical examples are given for both applications. The deformation response is shown to be in good agreement with finite element computations that have been previously shown to compare well with experimental data.
+
+
+    
+        AU - Philip A. Thayaparan
+    
+        AU - Karen C. Chou
+    
+
+TI - Stochastic Load Exceedances with General Material Nonlinearity
+PT - Journal Article
+DP - 1988
+TA - Journal of Structural Engineering
+PG - 1674-1686
+VI - 114
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1988)114:7(1674) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281674%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281674%29
+SO - Journal of Structural Engineering 1988-07-01 114(7): 1674-1686
+AB - Reliability of a structural member with nonlinear material property subjected to floor live‐load processes is investigated. Earlier studies have assumed a bilinear load‐deformation relationship. However, the actual force‐deformation relationship exhibits a nonlinear curve, even for a very simple system. In this study, a multilinear load‐deformation model that can better approximate the actual material behavior is utilized. The first‐moment statistics are derived for the number of load exceedances and damage duration for a structural member due to sustained and combined load processes. It is found that the derived results using a trilinear material model agree very well with the results obtained from simulated data. The differences are usually within 3% for sustained load processes and somewhat higher, about 10%, for combined processes.
+
+
+    
+        AU - Tung‐Ming Wang
+    
+        AU - Theodore F. Merrill
+    
+
+TI - Stiffness Coefficients of Noncircular Curved Beams
+PT - Journal Article
+DP - 1988
+TA - Journal of Structural Engineering
+PG - 1689-1699
+VI - 114
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1988)114:7(1689) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281689%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281988%29114%3A7%281689%29
+SO - Journal of Structural Engineering 1988-07-01 114(7): 1689-1699
+AB - The stiffness coefficient matrix for a curved member of constant cross section considering the effect of flexural deformation is presented. This matrix relates the member-end rotations, vertical deflections, and horizontal translations to the internal bending moments, vertical shears, and horizontal thrusts. Expressions of the stiffness coefficients have been derived for noncircular curved beams of cycloidal, catenary, elliptic, and sine shapes. For curved beams of circular and parabolic shapes, expressions can be found from the writers' previous work. For a given curbed beam with the beam-height-to-span ratio known, the stiffness coefficients can be obtained from the derived expressions. Finally, with some modifications, this matrix can be applied to curved beams of variable moment of inertia.
+
+

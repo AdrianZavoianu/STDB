@@ -1,0 +1,356 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Jason C. Stith
+    
+        AU - Todd A. Helwig
+    
+        AU - Eric B. Williamson
+    
+        AU - Karl H. Frank
+    
+        AU - Michael D. Engelhardt
+    
+        AU - Andrew C. Schuh
+    
+        AU - Jamie F. Farris
+    
+
+TI - Comparisons of the Computed and Measured Behavior of Curved Steel I-Girders during Lifting
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1-10
+VI - 138
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000417 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000417
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000417
+SO - Journal of Structural Engineering 2012-01-01 138(1): 1-10
+AB - The stability of I-girders during erection can be difficult to assess because of the limited presence of bracing and uncertainty in the support conditions of the girders. The behavior of curved girders during the early stages of construction is complicated because the curved geometry can lead to significant torsion. This paper highlights results from a research study that included both field monitoring and parametric finite-element investigations. Curved I-shaped girders were instrumented and monitored during lifting to provide data to validate finite-element models. Both rotational displacements and stress were measured during the lifting process. In this paper, the writers compare data collected from field tests with results computed from detailed finite-element simulations. A prismatic and a nonprismatic girder (with two different cross sections) were considered in the investigation. The I-girders experienced both rigid body rotation and cross-sectional twist. Additionally, the torsional warping stresses were observed to be of the same order of magnitude as the strong-axis bending stresses. However, it should be noted that the total stresses were well below yielding. The fact that the stresses are low during lifting should not be confused with a noncritical stage in the safety of the girders. Although the applied stresses are low, the stresses necessary to buckle the girder or to cause large deformations are also relatively low because usually no bracing exists and limited restraint is provided to the girders during lifting. The finite-element models were able to capture the measured behavior accurately, providing insight into appropriate assumptions and critical features for modeling curved I-girders during lifting.
+
+
+    
+        AU - Daniel M. Dowden
+    
+        AU - Ronny Purba
+    
+        AU - Michel Bruneau
+    
+
+TI - Behavior of Self-Centering Steel Plate Shear Walls and Design Considerations
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 11-21
+VI - 138
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000424 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000424
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000424
+SO - Journal of Structural Engineering 2012-01-01 138(1): 11-21
+AB - This paper presents insights on the combined contribution of posttensioning and beam-to-column joint rocking connection in self-centering steel plate shear walls (SC-SPSWs). Moment, shear, and axial force diagrams along the boundary beam are developed based on capacity design principles and are compared with nonlinear cyclic push-over analysis results. These closed-form solutions are integrated into a design procedure to select cross-sectional areas of the posttension reinforcement and beam sizes: (1)&nbsp;to prevent in-span plastic hinges; (2)&nbsp;to ensure that posttension reinforcement remains elastic to maintain self-centering capability of the system; (3)&nbsp;to impose sufficient initial posttensioning to overcome wind and gravity loads; (4)&nbsp;to provide adequate beam plastic strength considering reduced moment capacity due to the presence of axial and shear forces; and (5)&nbsp;to consider posttension losses due to axial beam shortening. Using this fundamental behavior knowledge, and adding response-based performance objectives to the design procedure, a companion paper investigates the seismic response of SC-SPSW using time-history nonlinear analyses.
+
+
+    
+        AU - Patricia M. Clayton
+    
+        AU - Jeffrey W. Berman
+    
+        AU - Laura N. Lowes
+    
+
+TI - Seismic Design and Performance of Self-Centering Steel Plate Shear Walls
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 22-30
+VI - 138
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000421 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000421
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000421
+SO - Journal of Structural Engineering 2012-01-01 138(1): 22-30
+AB - The self-centering steel plate shear wall (SC-SPSW) is a new seismic load-resisting system that combines the strength and stiffness properties of the SPSW with the recentering capabilities of posttensioned (PT) beam-to-column connections. This paper outlines a proposed seismic design procedure aimed at achieving specified structural performance targets and analytical methods for modeling such a system. A series of 3-and 9-story prototype buildings located in a high seismic zone in California was designed using the procedure, and nonlinear, dynamic analyses were performed for these prototype buildings using ground motions representing three seismic hazard levels. The analysis results show that the systems achieved the desired performance objectives, including recentering of the lateral system.
+
+
+    
+        AU - Efe Gokce Kurt
+    
+        AU - Ozgur Kurc
+    
+        AU - Baris Binici
+    
+        AU - Erdem Canbay
+    
+        AU - Guney Ozcebe
+    
+
+TI - Performance Examination of Two Seismic Strengthening Procedures by Pseudodynamic Testing
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 31-41
+VI - 138
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000434 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000434
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000434
+SO - Journal of Structural Engineering 2012-01-01 138(1): 31-41
+AB - Pseudodynamic testing was employed to observe the seismic performance of two retrofit methods on two-story, three-bay frame structures. The test frames had hollow clay tile (HCT) infill in the central bay and incorporated the seismic deficiencies of Turkish construction practice, such as use of plain reinforcing bars, low-strength concrete, and insufficient confining steel. Two noninvasive and occupant-friendly retrofit schemes suggested in the Turkish Earthquake Code, namely, use of fiber-reinforced polymers (FRPs) and precast concrete panels integrated on the HCT infill, were employed. The specimens were subjected to three different scale levels of ground motion from the 1999 Duzce earthquake. The control specimen experienced severe damage at the 100% scale level and reached the collapse stage due to the loss of integrity of the infill wall and significant damage on the boundary columns. The retrofitted test structures were able to survive the highest level 140% Duzce ground motion. Test results confirmed the success of the two previously developed retrofit methods for simulated earthquake loads.
+
+
+    
+        AU - Ramesh Kumar
+    
+        AU - Paolo Gardoni
+    
+
+TI - Modeling Structural Degradation of RC Bridge Columns Subjected to Earthquakes and Their Fragility Estimates
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 42-51
+VI - 138
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000450 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000450
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000450
+SO - Journal of Structural Engineering 2012-01-01 138(1): 42-51
+AB - Current seismic design of bridges is based on “one-time” performance of the bridges during the design seismic event. However, there might be a considerable probability of observing more than one damaging earthquakes in a bridge’s service life. Bridge components are known to accumulate seismic damage and deterioration in their structural properties. In such a scenario, design criteria that account for the cumulative seismic damage of bridges over time and performance objectives that span more than one seismic event are needed. This paper computes the probability of occurrence of more than one damaging earthquake during a bridge’s service life. Furthermore, it investigates the importance of accounting for cumulative seismic damage in seismic design. This paper develops a probabilistic model to compute the degraded deformation capacity of flexural reinforced concrete (RC) bridge columns as a function of cumulative low-cycle fatigue damage incurred in the past earthquakes. The model is developed for flexural RC columns because low-cycle fatigue is most significant for such columns. The proposed model accounts for the degradation in the ultimate curvature capacity and deformation capacity of RC columns associated to low-cycle fatigue. The proposed model is calibrated by using data from cyclic-load analyses of RC columns performed by using the finite element method (FEM). The FEM model accounts for the cracking and pinching of RC sections to properly simulate the degradation process. Finally, the proposed model is used to assess the fragilities of RC bridge columns conditioning on the values of low-cycle fatigue damage and deformation demand. It is found that in seismically active regions there is a significant probability of observing more than one damaging earthquake in a bridge’s service life. Therefore, accounting for the cumulative seismic damage in the seismic design is important. It is also found that the cumulative seismic damage can significantly affect the reliability of bridge columns. The developed models are useful for a seismic design that properly accounts for long-term safety and reliability of bridges.
+
+
+    
+        AU - Clay Naito
+    
+        AU - John Hoemann
+    
+        AU - Mark Beacraft
+    
+        AU - Bryan Bewick
+    
+
+TI - Performance and Characterization of Shear Ties for Use in Insulated Precast Concrete Sandwich Wall Panels
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 52-61
+VI - 138
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000430 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000430
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000430
+SO - Journal of Structural Engineering 2012-01-01 138(1): 52-61
+AB - Insulated precast concrete sandwich wall panels are commonly used for exterior cladding on building structures. The insulation is sandwiched between exterior and interior concrete layers to reduce the heating and cooling costs for the structure. The panels can be designed as composite, partially composite, or noncomposite. Shear ties are used to achieve these varying degrees of composite action between the interior and exterior concrete layers. A variety of shear ties are available for domestic construction. An experimental study was conducted to assess the relative strength and response of these commercially available ties. Fourteen different shear tie types were examined, the failure modes and responses were quantified, and simplified engineer level multilinear strength curves were developed for each connection. The test results indicate that shear ties used in sandwich wall construction have considerable variation in strength, stiffness, and deformability. The maximum shear strength of the discrete ties averaged 9.3&nbsp;kN (2,100&nbsp;lbf) with a minimum of 3.2&nbsp;kN (730&nbsp;lbf) and maximum of 18.4&nbsp;kN (4,138&nbsp;lbf). The ties exhibited elastic-brittle, elastic-plastic, and plastic-hardening responses. The results were used to develop trilinear constitutive relationships, which were used to approximate the flexural response of sandwich wall panels.
+
+
+    
+        AU - Christopher R. Urmson
+    
+        AU - John B. Mander
+    
+
+TI - Local Buckling Analysis of Longitudinal Reinforcing Bars
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 62-71
+VI - 138
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000414 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000414
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000414
+SO - Journal of Structural Engineering 2012-01-01 138(1): 62-71
+AB - The local buckling behavior of longitudinal reinforcing steel, which occurs between two transverse hoops, is examined using rational mechanics, taking into account the full plastic behavior of the steel and the effects of true stress and strain. A computational fiber element analysis is used to compute the coupled effect of axial compression and lateral buckling. The results of the computational analysis are then used to develop a simple model for the compressive behavior of longitudinal reinforcing steel in engineering stress-strain coordinates. Although several models exist that are capable of predicting compressive behavior with a moderate degree of precision, these models are generally computationally intensive and therefore of little practical use to structural designers. Other existing simple models either have a high degree of built-in empiricism or are based on overly simplified assumptions about the plastic behavior of the steel. The minimalist model developed in this study is compared with available experimental results. A statistical study shows favorable correlation between the proposed analytical model and experimental results.
+
+
+    
+        AU - Michael H. Scott
+    
+
+TI - Evaluation of Force-Based Frame Element Response Sensitivity Formulations
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 72-80
+VI - 138
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000447 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000447
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000447
+SO - Journal of Structural Engineering 2012-01-01 138(1): 72-80
+AB - The direct differentiation method (DDM) has been shown to be an accurate and efficient approach to computing the sensitivity of structural response to uncertain parameters of constitutive models and finite-element formulations. Although it is well-known that the DDM should be consistent with the numerical time stepping procedure at the structural level, it is possible for element-level numerical instabilities to arise when the response sensitivity equations are inconsistent with the equations that govern the element response. Two existing formulations of DDM force-based element response sensitivity are shown to be mathematically equivalent in exact arithmetic; however, only one is consistent with the force-based response equations and possesses a low condition number for finite arithmetic. On the other hand, the inconsistent formulation has a high condition number that is equal to the product of the largest singular values of the section and element stiffness matrices. Representative examples show that the high condition number of the inconsistent formulation is innocuous for sensitivity with respect to section-level parameters but can lead to round off errors for sensitivity with respect to element-level geometric parameters.
+
+
+    
+        AU - Tonatiuh Rodriguez-Nikl
+    
+        AU - Chung-Sheng Lee
+    
+        AU - Gilbert A. Hegemier
+    
+        AU - Frieder Seible
+    
+
+TI - Experimental Performance of Concrete Columns with Composite Jackets under Blast Loading
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 81-89
+VI - 138
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000444 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000444
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000444
+SO - Journal of Structural Engineering 2012-01-01 138(1): 81-89
+AB - Measures to prevent progressive collapse of structures include protection of critical elements such as columns. In support of this goal, nine tests were conducted to assess the as-built performance of typical columns and the effectiveness of carbon fiber jackets in improving their performance. A quasi-static load protocol was developed to replicate in the laboratory the damage patterns observed in blast testing in the field. Load-deflection curves (resistance functions) and jacket strain were measured. Jackets were observed to change the failure mode from brittle shear to ductile flexure and to increase the load and displacement capacities of the column. Variations in jacket strain are discussed and experimental results are used to assess predictive models for shear capacity and resistance functions. The data support the use of these models for design but identify some limitations in the resistance functions.
+
+
+    
+        AU - Weiping Zhang
+    
+        AU - Xiaobin Song
+    
+        AU - Xianglin Gu
+    
+        AU - Hongyong Tang
+    
+
+TI - Compressive Behavior of Longitudinally Cracked Timber Columns Retrofitted Using FRP Sheets
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 90-98
+VI - 138
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000423 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000423
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000423
+SO - Journal of Structural Engineering 2012-01-01 138(1): 90-98
+AB - This paper presents the results of a study on the compressive behavior of timber columns with longitudinal cracks. Material property tests and full-scale compression tests were conducted to investigate the failure modes and the recovery in the load-carrying capacity of cracked timber columns with the use of fiber-reinforced polymer (FRP) sheet wrapping. Different combinations of column geometries, crack dimensions, and types and spacing of FRP sheets were considered. A finite-element method (FEM)-based model was developed and verified on the basis of the test results. A parametric study was also conducted by using the verified model to further quantify the influences of crack dimensions and types and spacing of the FRP sheets. It was found that wrapping FRP sheets around cracked timber columns can recover their load-carrying capacity by up to 20%.
+
+
+    
+        AU - Minghao Li
+    
+        AU - Ricardo O. Foschi
+    
+        AU - Frank Lam
+    
+
+TI - Modeling Hysteretic Behavior of Wood Shear Walls with a Protocol-Independent Nail Connection Algorithm
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 99-108
+VI - 138
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000438 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000438
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000438
+SO - Journal of Structural Engineering 2012-01-01 138(1): 99-108
+AB - This paper presents an extension to an algorithm called HYST to develop the hysteresis characteristics of a nail connection. The paper also discusses the implementation of the algorithm in a finite-element model of a wood shear wall, called WALL2D, to study the hysteretic wall response. The HYST algorithm is a protocol-independent and mechanics-based procedure that considers the nail shank as steel beam elements and the wood embedment medium as compression-only spring elements smeared along the nail shank. By accounting for the stiffness degradation of the wood embedment medium under cyclic loading, HYST can fully address strength/stiffness degradation and the pinching effect in the hysteresis of typical nail connections. HYST was verified by the load-slip hystereses from nail connections tested with two different loading protocols. The WALL2D application model consists of linear elastic beam elements for framing members, orthotropic plate elements for sheathing panels, linear springs for framing connections, and oriented nonlinear springs for panel-frame nail connections. The hysteretic behavior of the nonlinear springs is represented by the HYST algorithm. The wall model was verified by reversed cyclic test results of two types of shear walls.
+
+
+    
+        AU - Therese McAllister
+    
+        AU - Robert MacNeill
+    
+        AU - Omer Erbay
+    
+        AU - Andrew Sarawit
+    
+        AU - Mehdi Zarghamee
+    
+        AU - Steven Kirkpatrick
+    
+        AU - John Gross
+    
+
+TI - Analysis of Structural Response of WTC 7 to Fire and Sequential Failures Leading to Collapse
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 109-117
+VI - 138
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000398 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000398
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000398
+SO - Journal of Structural Engineering 2012-01-01 138(1): 109-117
+AB - This paper presents the structural analysis approach used and results obtained during the investigation conducted by the National Institute of Standards and Technology (NIST) to model the sequence of fire-induced damage and failures leading to the global collapse of World Trade Center 7 (WTC 7). The structural analysis required a two-phased approach to address both the gradual response of the structure to fire before collapse initiation (approximately 4&nbsp;h) and the rapid response of the structure during the collapse process (approximately 15&nbsp;s). This paper emphasizes the first phase, a pseudostatic (implicit) analysis that simulated the response of structural elements to fires that spread and grew over several hours and presents key aspects of the second phase, a dynamic (explicit) analysis that used the first-phase damage as initial conditions and simulated the progression of structural failures that resulted in global collapse. The analyses accounted for (1)&nbsp;geometric nonlinearities; (2)&nbsp;temperature-dependent nonlinear materials behavior for both members and connections (including thermal expansion, degradation of stiffness, yield and ultimate strength, and creep); and (3)&nbsp;sequential failure of structural framing and connections. Analysis uncertainty was addressed by determining rational bounds on the complex set of input conditions and by running several multiphase analyses within those bounds. The structural response from each analysis was compared to the observed collapse behavior. This approach allowed evaluation of fire-induced damage, sequential component failures, and progression of component and subsystem failures through global collapse of WTC 7.
+
+
+    
+        AU - Aaron J. Wang
+    
+
+TI - Numerical Investigation into Headed Shear Connectors under Fire
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 118-122
+VI - 138
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000428 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000428
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000428
+SO - Journal of Structural Engineering 2012-01-01 138(1): 118-122
+AB - Three-dimensional thermal and mechanical coupled finite-element models are proposed to study the structural behaviors of shear connectors under fire. Thermal, mechanical, and geometrical nonlinearities are incorporated into the models. With the proper incorporation of thermal and mechanical contacts among steel beams, shear connectors, steel deckings, and concrete slabs, both models are verified as accurate after the validation against a series of push-out tests at room temperature or under standard fire. Various thermal and mechanical responses are also extracted and observed in detail from the results of the numerical analyses, which give a better understanding of the structural behavior of headed shear connectors under fire.
+
+
+    
+        AU - Jun-Mo Yang
+    
+        AU - Joo-Ha Lee
+    
+        AU - Young-Soo Yoon
+    
+        AU - William D. Cook
+    
+        AU - Denis Mitchell
+    
+
+TI - Influence of Steel Fibers and Headed Bars on the Serviceability of High-Strength Concrete Corbels
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 123-129
+VI - 138
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000427 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000427
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000427
+SO - Journal of Structural Engineering 2012-01-01 138(1): 123-129
+AB - Vertical loading tests are reported for six double-sided, high-strength concrete corbel specimens. The primary variables of the investigation were the percentage of steel fibers and the anchorage method of the main tension tie. The test results indicated that performance in terms of load-carrying capacities, stiffness, ductility, and crack width was improved, as the steel fibers were added and the percentage of steel fibers was increased. The corbel specimens with headed bars used as the main tension-tie reinforcement showed superior load-carrying capacities, stiffness, and ductility compared with the corbel specimens in which the main tension ties were anchored by welding to the transverse bars. From the test results, it is expected that the load-carrying capacities, serviceability, and durability of high-strength concrete corbels would be improved by using steel fibers and headed bars. Experimental results presented were also compared with various prediction models.
+
+
+    
+        AU - Steve P. Verrill
+    
+        AU - David E. Kretschmann
+    
+
+TI - Sources of Confusion in the Determination of ASTM Repetitive Member Factors for the Allowable Properties of Wood Products
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 130-133
+VI - 138
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000413 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000413
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000413
+SO - Journal of Structural Engineering 2012-01-01 138(1): 130-133
+AB - Confusion in the literature about the definition and calculation of repetitive member factors is identified. This confusion casts some doubt on the validity of the 1.15 repetitive member factor permitted in ASTM standards D245 and D1990.
+
+

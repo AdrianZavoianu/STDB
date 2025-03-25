@@ -1,0 +1,362 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Jeena R. Jayamon
+    
+        AU - Philip Line
+    
+        AU - Finley A. Charney
+    
+
+TI - State-of-the-Art Review on Damping in Wood-Frame Shear Wall
+                    Structures
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 03118003
+VI - 144
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0002212 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002212
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002212
+SO - Journal of Structural Engineering 2018-12-01 144(12): 03118003
+AB - Wood-frame shear wall structures are commonly used for residential and
+                    nonresidential buildings. Extensive research has been performed on these
+                    structures to accurately model their behavior due to dynamic loads. Among the
+                    various system parameters that affect the response, damping has been identified
+                    as a complex energy-dissipation phenomenon that varies from the wood material
+                    level to the wood-frame shear wall and diaphragm assembly level to the full
+                    structural system level. Connections and nonstructural components and finishes
+                    also influence the damping characteristics. Although it is known from physical
+                    testing that damping behavior is highly nonlinear and dependent on the amplitude
+                    of deformation, it is almost universally represented mathematically with linear
+                    viscous models that are amplitude-independent. Given that the viscous damping
+                    model is not consistent with observed behavior, it is necessary to develop
+                    improved analytical models. A first step in developing such models is to review
+                    the available literature on the physical testing of wood-frame shear wall
+                    structures and learn how damping is manifested at all levels of the system
+                    hierarchy. To this end, a comprehensive review has been completed using
+                    literature available over the last several decades. The purpose of this paper is
+                    to provide a summary of the review, with the desired result that the paper can
+                    serve as a reference for the development of rational damping models and improved
+                    procedures for the analysis of wood-frame shear wall structures.
+
+
+    
+        AU - Zheng Lu
+    
+        AU - Biao Huang
+    
+        AU - Zixin Wang
+    
+        AU - Ying Zhou
+    
+
+TI - Experimental Comparison of Dynamic Behavior of Structures with a Particle Damper and a Tuned Mass Damper
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018211
+VI - 144
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0002213 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002213
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002213
+SO - Journal of Structural Engineering 2018-12-01 144(12): 04018211
+AB - This paper investigates the dynamic behavior of structures with a particle damper (PD) and a tuned mass damper (TMD) by shaking table tests and aeroelastic wind tunnel tests. The influence of parameters including seismic waves, peak ground accelerations, damping ratios, mass ratios, and wind angles of attack are analyzed. A systematic comparison between the PD and TMD shows that the vibration-control effects of the PD are generally better than those of the TMD under both earthquake and wind loads. The reason lies in the fact that the PD can dissipate the input energy not only by tuning frequency (similar to TMD) but also by the impact and friction between particles and between the particles and the wall of the container. Moreover, a theoretical analysis of a single-degree-of-freedom (SDOF) system with optimum PD and TMD was also carried out by numerical simulations, and the hidden vibration-control mechanism is discussed. The results indicate that the optimum vibration-control effects of both dampers are comparable, but the swing amplitude of the additional mass of the PD is much smaller than that of the TMD. Through a series of experiments with various parameters, the results demonstrate that the characteristics of the seismic input and the wind angle of attack have a larger influence on the damping performance of the TMD compared with the PD, indicating that the PD is less sensitive to the changing parameters.
+
+
+    
+        AU - Wenguang Liu
+    
+        AU - Hao Xu
+    
+        AU - Wenfu He
+    
+        AU - Qiaorong Yang
+    
+
+TI - Static Test and Seismic Dynamic Response of an Innovative 3D Seismic Isolation System
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018212
+VI - 144
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0002195 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002195
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002195
+SO - Journal of Structural Engineering 2018-12-01 144(12): 04018212
+AB - Seismic isolation is an efficient strategy to protect structures from the effects of moderate to severe earthquake shaking. Conventional isolation devices can reduce the structural response in horizontal directions only; however, three-dimensional (3D) ground motions have been observed in earthquake records. In this paper, an innovative 3D seismic isolator is proposed. A new kind of asymmetric oblique hysteretic model is illustrated, and a quasistatic compression test of a model device using three lead rubber bearings (LRBs) is conducted. The test results and theoretical model results match well. A significant asymmetric property is observed in the hysteretic curves. The proposed hysteretic model can efficiently simulate the vertical mechanical behavior of a 3D seismic isolation system. The effects of different parameters are highlighted based on the theoretical mechanical model. The inclination angle, friction coefficient, and second shape factor of the inclined LRBs strongly influence the vertical behavior of the proposed device. A dynamic response analysis of the substructure of a nuclear power plant (NPP) is conducted. The hysteretic curves have the shape of an asymmetric quadrangle; this shape is similar to that observed in the test results. The vertical acceleration response of the vertical isolation structure is reduced by 33% compared with that of a fixed-base structure and reduced by 58% compared with that of a horizontal isolation structure. The proposed 3D isolator can sufficiently isolate the seismic input.
+
+
+    
+        AU - Hua-Peng Chen
+    
+
+TI - Residual Flexural Capacity and Performance Assessment of Corroded Reinforced Concrete Beams
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018213
+VI - 144
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0002144 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002144
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002144
+SO - Journal of Structural Engineering 2018-12-01 144(12): 04018213
+AB - This paper presents an approach for evaluating concrete cracking growth and structural resistance deterioration due to reinforcement corrosion and for predicting future structural performance during the service life of the corroded concrete beams. The evolution of corrosion-induced concrete cracking is analytically predicted and then adopted for estimating the residual bond strength of the corroded steel rebar. The flexural capacity deterioration of a corroded concrete beam is accurately determined with consideration of rebar cross-section loss, yielding strength reduction and bond strength degradation caused by reinforcement corrosion. The concrete cracking growth and flexural capacity deterioration rates are chosen as random variables for modeling structural performance deterioration over time during the life cycle. The gamma process is then used for time-dependent stochastic deterioration modeling and the remaining life estimate of the corroded concrete beams. The results for the worked example show that the proposed approach can provide reliable predictions for concrete crack development and structural strength deterioration, and also give an effective method for lifetime performance assessment of the corroded concrete structures.
+
+
+    
+        AU - Antroula V. Georgiou
+    
+        AU - Stavroula J. Pantazopoulou
+    
+
+TI - Flexural Capacity of Reinforced Strain-Hardening Cementitious Composite Beams: Experimental Results and Analysis
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018214
+VI - 144
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0002215 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002215
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002215
+SO - Journal of Structural Engineering 2018-12-01 144(12): 04018214
+AB - The results of an experimental investigation of steel-reinforced beams comprising fiber-reinforced strain-hardening cementitious composites are presented. Polyvinyl alcohol fibers were used in the cementitious mix to achieve significant tensile deformation capacity, which contributed significantly to the flexural resistance. A total of 18 specimens were tested under four-point bending with shear span ratios of 2 and 3.5 to ensure flexural failure. The fiber-reinforced composite’s behavior in tension was marked by the formation of multiple cracks that resulted in strain-hardening postcracking behavior and sustained tensile strength up to large tensile strain magnitudes. Variables of the experimental program were the amount of tension and compression steel reinforcement, the availability of confinement (stirrups), and the shear span aspect ratio. Test results illustrated the beneficial action of the fibers in the tensile zone of the beam through bridging of cracks and transferring loads, while in the compressive zone of the beams, fibers restrained lateral expansion and led to ductile compressive response. Analytical expressions to estimate the flexural strength of steel-reinforced, strain-hardening cementitious composite beams were also derived and correlated with the experimental results.
+
+
+    
+        AU - Fei Peng
+    
+        AU - Weichen Xue
+    
+        AU - Yuan Tan
+    
+
+TI - Design Approach for Flexural Capacity of Prestressed Concrete Beams with External Tendons
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018215
+VI - 144
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0002208 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002208
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002208
+SO - Journal of Structural Engineering 2018-12-01 144(12): 04018215
+AB - Due to a lack of bonds between external tendons and adjacent concrete and the potential variation in the eccentricities of the tendons (second-order effect), the analysis of the ultimate strength behavior of externally prestressed concrete (PC) beams is rather complicated. In this paper, a new design approach is proposed to calculate the flexural capacity of simply supported PC beams with external steel or fiber-reinforced polymer (FRP) tendons. First, an assumed deflected shape of a beam, which is supported by a comparison of experimental and analytical results, is incorporated into a beam–tendon structural deformation model to implement global deformation compatibility. In conjunction with sectional equilibrium and compatibility, simplified yet rational design equations are then developed to predict the ultimate stress increase in external tendons. Finally, a design approach that takes into account the second-order effect is proposed to calculate the flexural capacity of the beams. It is found, by comparing their predictions with available experimental results on 96 beams, that the proposed approach is more consistent and accurate than existing guidelines or models.
+
+
+    
+        AU - Lele Zhang
+    
+        AU - Zhuangning Xie
+    
+        AU - Xianfeng Yu
+    
+
+TI - Method for Decoupling and Correction of Dynamical Signals in High-Frequency Force Balance Tests
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018216
+VI - 144
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0002205 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002205
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002205
+SO - Journal of Structural Engineering 2018-12-01 144(12): 04018216
+AB - High-frequency force balance (HFFB) technology is a popular experimental method for investigating dynamic wind loading and wind-induced response of high-rise buildings. A decoupling matrix obtained from static calibration is provided along with HFFB when leaving a factory. This matrix is used to achieve the conversion from voltage to measured signals. The static component can actually be decoupled but the dynamic component generated by the balance-model system (BMS) cannot be decoupled fully. Thus, the dynamic distortion signals caused by the dynamic amplification of BMS cannot be corrected effectively. A general approach is proposed to decouple and correct the coupled dynamical signals in HFFB tests. The measured signals are initially decoupled by the complex blind modal identification (CBMID) technique. Subsequently, the modified Bayesian spectrum density approach is adopted to identify modal parameters effectively, and the distortion components of modal signals are corrected according to the identified parameters. Finally, the base aerodynamic signals of BMS, whose dynamic amplification effect is eliminated, are synthesized by the mode shape obtained by using the CBMID method. The proposed method can automatically adapt to complicated test conditions, such as nonproportional damping or inhomogeneous material distribution and wind–structure interaction. Lastly, the HFFB wind tunnel test of a 528-m superhigh-rise building is taken as an example to indicate the validity and superiority of the proposed method.
+
+
+    
+        AU - Maha Kenawy
+    
+        AU - Sashi Kunnath
+    
+        AU - Subodh Kolwankar
+    
+        AU - Amit Kanvinde
+    
+
+TI - Fiber-Based Nonlocal Formulation for Simulating Softening in Reinforced Concrete Beam-Columns
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018217
+VI - 144
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0002218 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002218
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002218
+SO - Journal of Structural Engineering 2018-12-01 144(12): 04018217
+AB - A nonlocal formulation framework is presented to address mesh-dependent strain localization in displacement-based frame element models in the presence of constitutive softening. The framework consists of a nonlocal displacement-based frame element and a nonlocal fiber-based plasticity model, and is used to simulate the postpeak response of RC structural members. The algorithmic implementation of the framework is discussed, and its performance is thoroughly investigated. Mesh sensitivity studies reveal that the proposed approach eliminates mesh-dependent strain localization and leads to objective global (i.e.,&nbsp;load displacement) and local (i.e.,&nbsp;curvature profile) response in the presence of concrete softening. Comparison with historical test data from 24 column specimens shows that the postpeak response of RC beam-columns is predicted with reasonable accuracy. The limitations of the presented framework are discussed along with areas for further development.
+
+
+    
+        AU - Jin Guo
+    
+        AU - Weigang Zhao
+    
+        AU - Yanliang Du
+    
+        AU - Yuzhou Cao
+    
+        AU - Guan Wang
+    
+        AU - Mengxuan Zhang
+    
+
+TI - New Method for Real-Time Hybrid Testing with a Global Iteration Strategy
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018218
+VI - 144
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0002207 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002207
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002207
+SO - Journal of Structural Engineering 2018-12-01 144(12): 04018218
+AB - In current real-time hybrid testing (RTHT), command displacement is applied to the experimental substructure and a restoring force is fed back to the integration algorithm at each time step between the numerical and physical substructures, during which synchronization must be maintained to achieve the real-time effect. These inherent characteristics in RTHT raise its requirements for the numerical integration method and make it sensitive to servohydraulic time delay. This paper proposes a new method of RTHT, GI-RTHT, in which the numerical and experimental substructures are independent without any data exchange during the duration of seismic action. This feature enables GI-RTHT to use existing advanced integration algorithms, many of which have superior stability and accuracy, just like when they are used in pure numerical simulations. Furthermore, the effect of actuator time delay on numerical integration algorithm disappears. To achieve compatibility and equilibrium at the interfaces between the substructures, an iteration is involved within the time scale of the duration of the earthquake, which is similar to the iteration solution algorithm for the equation. The stability of GI-RTHT is analyzed theoretically. The applicability and stability of GI-RTHT are evaluated based on tests on a cable-stayed bridge with 5,090&nbsp;degrees of freedom and 24 nonlinear links, which is considerably larger and more complex than published models of RTHT. Excellent results are achieved in the testing. Approximate convergent solutions are reached after five iterations. This work presents a novel procedure for RTHT that is particularly suitable for systems with reusable devices/components selected as the experimental substructure.
+
+
+    
+        AU - You-Fu Yang
+    
+        AU - Chao Hou
+    
+        AU - Min Liu
+    
+
+TI - Experimental Study and Numerical Analysis of CFSST Columns Subjected to Lateral Cyclic Loading
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018219
+VI - 144
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0002225 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002225
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002225
+SO - Journal of Structural Engineering 2018-12-01 144(12): 04018219
+AB - An experimental study and numerical modeling were carried out to investigate the behavior of concrete-filled stainless-steel tube (CFSST) columns subjected to constant axial compression combined with lateral cyclic loading. Eighteen specimens with varied cross-sectional configuration, steel ratio, and axial compression ratio were tested. The failure pattern, load versus deformation curve, bearing capacity, stiffness degradation, accumulated energy dissipation, and ductility were comprehensively investigated. The experimental results revealed that the failure pattern of the stainless-steel tube is mainly a lantern-shape local buckling beside the rigid fixture along with crushing of core concrete at the buckling position. CFSST specimens under lateral cyclic loading generally possessed stable fusiform hysteretic curves, with their initial loading and unloading stiffness increased with increasing cross-sectional steel ratio and axial compression ratio. The axial compression ratio has a more evident influence on the mechanical response of the specimens than the steel ratio, whereas an increase of the bearing capacity, energy dissipation, and ductility index was detected when increasing the steel ratio or decreasing the axial compression ratio. Square specimens have lower ductility and more rapid stiffness degradation compared with circular ones. A finite-element analysis (FEA) model was also established to simulate the behavior of CFSST columns subjected to constant axial compression combined with lateral cyclic loading. Good accuracy was achieved when comparing the predicted response and experimental observations.
+
+
+    
+        AU - Ronald D. Ziemian
+    
+        AU - Jean C. Batista Abreu
+    
+        AU - Mark D. Denavit
+    
+        AU - Tsu-Jung L. Denavit
+    
+
+TI - Three-Dimensional Benchmark Problems for Design by Advanced Analysis: Impact of Twist
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018220
+VI - 144
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0002224 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002224
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002224
+SO - Journal of Structural Engineering 2018-12-01 144(12): 04018220
+AB - Design codes for steel structures continue to provide additional opportunities for the use of more advanced methods of nonlinear analysis. As the complexity of the analysis increases, it becomes more important for the designer to validate the capabilities of their analysis software and, just as importantly, their ability to properly utilize it. Many benchmark problems can be found in the literature; however, few include three-dimensional behavior and fewer include I-shaped sections, which are torsionally flexible and where warping restraint can be significant. This paper introduces a new set of benchmark problems that contribute to a much needed database of examples in which the accurate modeling of three-dimensional or spatial behavior is essential. A secondary goal of the paper is to illustrate new steel design provisions and the type of comparisons that were part of their development.
+
+
+    
+        AU - Baiping Dong
+    
+        AU - Richard Sause
+    
+        AU - James M. Ricles
+    
+
+TI - Seismic Response and Damage of Reduced-Strength Steel MRF Structures with Nonlinear Viscous Dampers
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018221
+VI - 144
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0002226 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002226
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002226
+SO - Journal of Structural Engineering 2018-12-01 144(12): 04018221
+AB - An experimental investigation of the seismic response and damage of steel moment resisting frame (MRF) building structures with nonlinear viscous dampers was conducted using ground motions up to and beyond the maximum considered earthquake (MCE) level. The objective was to assess the response of MRFs designed with reduced strength (relative to current practice) but with added damping to achieve enhanced seismic performance. The MRFs were designed for 100%, 75%, and 60%, respectively, of the base shear strength required by the current standard. The experiments used a real-time hybrid simulation (RTHS) approach in which an MRF, together with a frame with nonlinear viscous dampers and associated bracing (called the DBF), was in the laboratory, and the seismic mass and gravity system associated with the MRF and DBF and the inherent damping of the building were numerically modeled. Experimental results, including inelastic energy dissipation, development of damage, and local response of the reduced-strength MRFs (focusing on the MRF with 60% base shear strength) to ground motions from the frequently occurring earthquake (FOE) level up to 1.4 times the MCE level are presented. The results show that steel MRF structures designed with reduced strength and added nonlinear viscous dampers have excellent performance for ground motions beyond the MCE level.
+
+
+    
+        AU - Lavan Sundararajah
+    
+        AU - Mahen Mahendran
+    
+        AU - Poologanathan Keerthan
+    
+
+TI - Design of SupaCee Sections Subject to Web Crippling under One-Flange Load Cases
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018222
+VI - 144
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0002206 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002206
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002206
+SO - Journal of Structural Engineering 2018-12-01 144(12): 04018222
+AB - Cold-formed steel sections are generally used as flexural members in lightweight steel construction. The SupaCee section is an innovative section introduced recently to the Australian building sector. It provides superior flexural strength than the traditional channel sections due to unique ribbed web and curved lip elements. However, the web crippling behavior and strength of the high strength SupaCee sections has not been investigated yet. Current web crippling design methods given in cold-formed steel design standards do not include any provision for SupaCee sections. Hence, detailed experimental and finite element studies were conducted to investigate the web crippling behavior and strengths of SupaCee sections under one-flange load cases with their flanges unfastened from the supports. Experimental and finite element analysis results showed that the web crippling capacities of SupaCee sections are reduced relative to lipped channel sections. Therefore, the current web crippling design equations in the American and Australian/New Zealand cold-formed steel design standards were modified by including suitable web crippling coefficients for SupaCee sections. Finite element models of tested SupaCee sections were also developed and validated using the experimental results. This paper presents the details of experimental and numerical web crippling studies of SupaCee sections under one-flange load cases and the results. It also presents the details of direct strength method-based design equations developed in this research.
+
+
+    
+        AU - Lip H. Teh
+    
+        AU - Gregory G. Deierlein
+    
+
+TI - Discussion of “Experimental Evaluation of Single-Bolted Lap Joints at Elevated Temperatures” by Erica C. Fischer, Amit H. Varma, and Qiaqia Zhu
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 07018010
+VI - 144
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0002231 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002231
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002231
+SO - Journal of Structural Engineering 2018-12-01 144(12): 07018010
+
+
+    
+        AU - Erica C. Fischer
+    
+        AU - Amit H. Varma
+    
+
+TI - Closure to “Experimental Evaluation of Single-Bolted Lap Joints at Elevated Temperatures” by Erica C. Fischer, Amit H. Varma, and Qiaqia Zhu
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 07018011
+VI - 144
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0002232 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002232
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002232
+SO - Journal of Structural Engineering 2018-12-01 144(12): 07018011
+
+

@@ -1,0 +1,656 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Brad Davis
+    
+        AU - Onur Avci
+    
+
+TI - Simplified Vibration Serviceability Evaluation of Slender Monumental Stairs
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015017
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001256 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001256
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001256
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015017
+AB - Slender monumental stairs are major architectural features in many high-end building structures. Architectural requirements for these are usually very aggressive, with long spans and slender stringers being the norm. The resulting low natural frequencies are often within reach of the lower harmonics (which have high amplitudes) of the vertical force caused by a person descending the stair. Also, some configurations with very low frequency lateral vibration modes might allow high lateral accelerations. Because the potential for annoying vibrations is high, it is critical that stair designers have access to evaluation methods. Current evaluation methods rely on finite-element analysis-based response prediction methods that are outside the reach of many structural engineering firms. This paper presents a simplified vertical acceleration prediction method, based on the fundamental natural mode of the stair, which is suitable for manual calculations. Response predictions are compared to experimental measurements to calibrate the prediction method for design use. Lateral vibrations are discussed, and an evaluation method is proposed. Finally, a numerical example is provided.
+
+
+    
+        AU - Cao Hung Pham
+    
+        AU - Luciano A. Bruneau
+    
+        AU - Gregory J. Hancock
+    
+
+TI - Experimental Study of Longitudinally Stiffened Web Channels Subjected to Combined Bending and Shear
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015018
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001259 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001259
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001259
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015018
+AB - The direct strength method (DSM) of design of cold-formed sections has been recently extended in the North American Specification for Cold-Formed Steel Structural Members NAS S100:2012 to include shear. The two new features of the DSM rules for shear researched are the effect of full-section shear buckling as opposed to web-only shear buckling and tension field action (TFA). The prequalified sections in the rules include sections with flat webs and webs with small intermediate longitudinal stiffeners. In order to extend the range to larger intermediate stiffeners as occurs in practice, a series of fourteen shear tests have been performed at the University of Sydney for C-sections with rectangular stiffeners of varying sizes. Six different types of stiffeners were tested with an additional preferred plain section. Each type of section was tested twice to ensure accuracy. As the web stiffener sizes increase, the shear buckling and strength of the sections are expected to improve accordingly. However, the tests show that the shear ultimate strengths only increase slightly in association with the respective increases of stiffener sizes. The test results are compared with the DSM design rules for shear and found to be lower than those predicted by the DSM curve for shear with TFA. The test failures were observed mainly due to the combined bending and shear modes. The effect of the bending is therefore significant and starts to govern when the shear capacity is significantly strengthened by adding the large longitudinal web stiffener. The test results are subsequently plotted against the DSM interaction curves between bending and shear, where the interaction is found to be significant. Recommendations for prequalified sections with longitudinally stiffened web channels in combined bending and shear are validated in the paper.
+
+
+    
+        AU - Mohammad Taghi Nikoukalam
+    
+        AU - Seyed Rasoul Mirghaderi
+    
+        AU - Kiarash M. Dolatshahi
+    
+
+TI - Analytical Study of Moment-Resisting Frames Retrofitted with Shear Slotted Bolted Connection
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015019
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001244 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001244
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001244
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015019
+AB - Slotted bolted connection (SBC) and rotational slotted bolted connection (RSBC) are two types of friction dampers that have been developed and studied over the years. However, the applications of SBC and RSBC are limited mainly to members with axial- or flexural-dominated behavior. In this paper, a new type of friction damper, namely, shear slotted bolted connection (SSBC), is proposed to extend the application of SBC in members with shear-dominated behavior. First, the details and applications of SSBC in various lateral load resisting systems are described. Finite-element models are then developed to investigate the behavior of SSBC in moment-resisting frames (MRFs). A nine-story prototype MRF is retrofitted by SSBC based on two proposed design philosophies and the performance of the structures is assessed using nonlinear static procedure (NSP). A practical optimization method is then utilized to improve the behavior of the frames. Finally, the effectiveness of SSBC in improving the performance of the optimized structures is verified through nonlinear dynamic procedure (NDP).
+
+
+    
+        AU - Hyeon-Jong Hwang
+    
+        AU - Tae-Sung Eom
+    
+        AU - Hong-Gun Park
+    
+        AU - Seung-Hwan Lee
+    
+        AU - Hyoung-Seop Kim
+    
+
+TI - Cyclic Loading Test for Beam-Column Connections of Concrete-Filled U-Shaped Steel Beams and Concrete-Encased Steel Angle Columns
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015020
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001242 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001242
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001242
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015020
+AB - Prefabricated steel–reinforced concrete angle columns and concrete-filled U-shaped steel beams were recently developed for efficient steel-concrete composite construction. In the present study, seismic details of TSC beam–PSRC column connections were developed, taking into consideration constructability and cost efficiency. A cyclic loading test was performed on the beam-column connections to investigate load-carrying capacity, deformation capacity, failure mode, and energy dissipation capacity. For the test parameters, the connection type (interior or exterior) and the depth of the TSC beams were considered. The test results showed that the deformation and energy dissipation capacities of the specimens satisfied the requirements for intermediate moment frames specified in the AISC standard. Further, the moment-carrying capacities predicted using plastic stress distribution were found to be in agreement with the test results. The joint shear capacities of the specimens were evaluated according to ASCE design guidelines.
+
+
+    
+        AU - Nicolas Veuve
+    
+        AU - Seif Dalil Safaei
+    
+        AU - Ian F. C. Smith
+    
+
+TI - Deployment of a Tensegrity Footbridge
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015021
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001260 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001260
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001260
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015021
+AB - Deployable structures are structures that transform their shape from a compact state to an extended in-service position. Structures composed of tension elements that surround compression elements in equilibrium are called tensegrity structures. Tensegrities are good candidates for deployable structures since shape transformations occur by changing lengths of elements at low energy costs. Although the tensegrity concept was first introduced in 1948, few full-scale tensegrity-based structures have been built. Previous work has demonstrated that a tensegrity ring topology is potentially a viable system for a deployable footbridge. This paper describes a study of a near-full-scale deployable tensegrity footbridge. The study has been carried out both numerically and experimentally. The deployment of two modules (one half of the footbridge) is achieved through changing the length of five active cables. Deployment is aided by energy stored in low stiffness spring elements. Self-weight significantly influences deployment, and deployment is not reproducible using the same sequence of cable-length changes. Active control is thus required for accurate positioning of front nodes in order to complete deployment through joining both sides at center span. Additionally, testing and numerical analyses have revealed that the deployment behavior of the structure is nonlinear with respect to cable-length changes. Finally, modeling the behavior of the structure cannot be done accurately using friction-free and dimensionless joints. Similar deployable tensegrity structures of class two and higher are expected to require simulation models that include joint dimensions for accurate prediction of nodal positions.
+
+
+    
+        AU - Poologanathan Keerthan
+    
+        AU - Mahen Mahendran
+    
+
+TI - Improving the Shear Capacities of Lipped Channel Beams with Web Openings Using Plate Stiffeners
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015022
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001199 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001199
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001199
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015022
+AB - Cold-formed steel lipped channel beams (LCBs) are used extensively in residential, industrial, and commercial buildings as load-bearing structural elements. Their shear capacities are considerably reduced when the web openings are included for the purpose of locating building services. Past research has shown that the shear capacities of LCBs were reduced by up to 70% due to the inclusion of these web openings. Hence there is a need to improve the shear capacities of LCBs with web openings. A cost-effective way of eliminating the detrimental effects of large web openings is to attach suitable stiffeners around the web openings and restore the original shear strength and stiffness of LCBs. Hence detailed experimental studies were undertaken to investigate the behavior and strength of LCBs with stiffened web openings subject to shear, and combined bending and shear actions. Both plate and stud stiffeners, with varying sizes and thicknesses, were attached to the web elements of LCBs using different screw-fastening arrangements. Simply supported test specimens of LCBs with aspect ratios of 1.0 and 1.5 were loaded at midspan until failure. Numerical studies were also undertaken to investigate the strength of LCBs with stiffened web openings. Finite-element models of LCBs with stiffened web openings under shear, and combined bending and shear actions, were developed to simulate the behavior of the tested LCBs. The developed models were then validated by comparing their results with experimental results and were used in further studies. Both experimental and finite-element analysis results showed that the stiffening arrangements recommended by past research and available design guidelines are not adequate to restore the original shear strengths of LCBs. Therefore, new stiffener arrangements were proposed based on screw fastened plate stiffeners. The details of the research reported in this paper are presented.
+
+
+    
+        AU - Lufeng Yang
+    
+        AU - Bo Yu
+    
+        AU - J. Woody Ju
+    
+
+TI - Incorporated Strength Capacity Technique for Limit Load Evaluation of Trusses and Framed Structures under Constant Loading
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015023
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001252 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001252
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001252
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015023
+AB - To overcome the difficulties encountered by the elastic modulus adjustment procedures applied to the ultimate bearing capacity analysis of framed structures under combined action of both constant and varying live loads, an efficient incorporated strength capacity technique is proposed in this work. A new structural analysis model is developed with totally different distributions of loads and resistance from the original model by incorporating the constant load effects into the sectional strength capacity of components in framed structures. The element bearing ratio (EBR) is defined according to the modified structural model on the basis of the generalized yield function of spatial beam element. The uniformity of the EBR is presented in terms of the EBR distribution characteristics, on the basis of which the reference EBR (REBR) is defined as a dynamic threshold to identify the highly stressed elements with the EBR greater than the REBR. Subsequently, an adaptive strategy of elastic modulus adjustment is presented for the ultimate bearing capacity analysis of framed structures under combined action of constant and live loading by means of the principle of deformation energy conservation. Three numerical examples including both trusses and framed structures are presented to demonstrate the applicability and accuracy of the proposed methodology.
+
+
+    
+        AU - Jianguo Nie
+    
+        AU - Xiaowei Ma
+    
+        AU - Lingyan Wen
+    
+
+TI - Experimental and Numerical Investigation of Steel-Concrete Composite Waffle Slab Behavior
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015024
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001268 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001268
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001268
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015024
+AB - This paper proposes a new kind of composite waffle slab that consists of orthogonal steel girders and flat RC slab. The steel beams help decrease the cracking that occurs with concrete, and using prefabricated RC slabs reduces the framework and speeds up the construction. An experimental investigation of steel-concrete composite waffle slabs is conducted, and the specimens are proved to have excellent ductility and load-bearing capacity. Then a mixed ﬁnite-element (FE) model combining the beam elements and shell elements is proposed to predict the behavior of composite waffle slab. Based on the numerical model, a series of parameter analyses are conducted, and the influences of different parameters on the mechanical behavior of the composite waffle slab are intensively investigated. Simplified formulas for the ultimate capacity of the composite waffle slab are derived based on the test observations and numerical analysis. Reasonable recommendations are proposed to help engineers design the composite waffle slab effectively.
+
+
+    
+        AU - X. H. Dai
+    
+        AU - D. Lam
+    
+        AU - E. Saveri
+    
+
+TI - Effect of Concrete Strength and Stud Collar Size to Shear Capacity of Demountable Shear Connectors
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015025
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001267 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001267
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001267
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015025
+AB - In this paper, a group of demountable shear connectors have been developed and tested to assess their potential and suitability in terms of replacing welded shear studs. The experiments showed that these demountable shear connectors can be easily demounted after testing and have similar capacity and behavior to those of welded shear connectors. After the numerical simulation method had been validated against experimental observation, a parametric study was carried out to understand the effect of concrete grades and stud collar sizes on the shear resistance of demountable shear connections. Simple design calculation methods for welded shear connections or anchoring connections provided in European and American standards were checked to the suitability for assessment of this headed demountable shear connector.
+
+
+    
+        AU - O. Lavan
+    
+
+TI - Optimal Design of Viscous Dampers and Their Supporting Members for the Seismic Retrofitting of 3D Irregular Frame Structures
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015026
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001261 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001261
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001261
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015026
+AB - This paper presents a formal optimization methodology for the design of seismic retrofitting of three-dimensional irregular buildings. The damping coefficients of viscous dampers potentially allocated in given feasible locations as well as the stiffness of their supporting braces are adopted as design variables. The objective function minimizes a cost function of the dampers while constraints are added to limit various responses of interest to allowable values under a filtered white noise excitation (e.g.,&nbsp;interstory drift at each location separately, total acceleration at each location separately, force of each damper, stress in each supporting brace, force/forces of each structural member, base shear, overturning moment at the base, side constraints on dampers’ forces and braces’ cross sections, etc.). A first-order optimization method is adopted for that purpose. The constraints on various normalized responses are condensed to a single constraint on their maximum value and the gradient required is efficiently derived analytically using the adjoint analytical method. Thus, a computational effort at the order of a single additional analysis is required for the evaluation of the gradient of the constraint regardless of the number of design variables considered or responses to be constrained. This efficient scheme enables a study on the effect of limiting the brace size with and without a limit on its stresses.
+
+
+    
+        AU - Matthew T. Yarnold
+    
+        AU - Franklin L. Moon
+    
+        AU - A. Emin Aktan
+    
+
+TI - Temperature-Based Structural Identification of Long-Span Bridges
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015027
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001270 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001270
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001270
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015027
+AB - Temperature-based structural identification (TBSI) is a quantitative structural evaluation approach that relies on responses resulting from temperature fluctuations. Through this approach, the transfer function that defines how thermal induced strains give rise to global displacements and restrained member forces can be captured. This input-output relationship is highly sensitive to mechanisms that pose modeling challenges, such as boundary and continuity conditions, and thus is quite valuable within the model updating process. The method follows the traditional structural identification (St-Id) framework with a priori modeling, experimentation, and model calibration steps appropriately modified to allow for the measurement and simulation of temperature-induced responses. TBSI was evaluated through the use of simulations and laboratory experiments and then implemented to identify an arch bridge. In addition, a comparative study was performed with an independent evaluation of the same bridge using ambient vibration structural identification (AVSI). The results indicate that TBSI and AVSI are synergistic providing complementary information related to a diverse range of structural performances. In addition, the results illustrate several TBSI strong points, including (1)&nbsp;the ability to identify both linear and nonlinear behaviors, (2)&nbsp;the ability to efficiently capture response patterns with long periods, and (3)&nbsp;a strong correlation between the captured transfer function and the behavior of boundary and continuity conditions.
+
+
+    
+        AU - Eric Jacques
+    
+        AU - Alan Lloyd
+    
+        AU - Paul Imbeau
+    
+        AU - Dan Palermo
+    
+        AU - Jeslin Quek
+    
+
+TI - GFRP-Retrofitted Reinforced Concrete Columns Subjected to Simulated Blast Loading
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015028
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001251 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001251
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001251
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015028
+AB - This paper presents experimental results of one as-built and three glass-fiber-reinforced polymer (GFRP)-retrofitted reinforced concrete columns subjected to simulated blast loading. Retrofitting involved various configurations of longitudinal and transverse GFRP layers to enhance flexural and shear capacity. The objective was to study the performance and level of protection of the retrofitted columns to mitigate blast effects. The results demonstrated that retrofitting can significantly increase the strength and stiffness of reinforced concrete flexural members and greatly improve blast response. Furthermore, the addition of transverse GFRP wraps can lead to enhancements in the debonding strain and behavior of longitudinal GFRP, as well as an increase in postpeak ductility of concrete. A complementary analytical study based on the single-degree-of-freedom (SDOF) dynamic analysis method was conducted to predict the displacement response of the columns. The load–deformation relationships of the columns were computed using a lumped inelasticity analytical model. In addition, modifications to a standard degrading stiffness hysteretic model were proposed to account for accumulated damage due to repeated testing. Satisfactory agreement between the SDOF-predicted and experimentally recorded maximum displacements, time to maximum displacements, and residual displacements were obtained.
+
+
+    
+        AU - Pedro Gil Girão dos Santos
+    
+        AU - Carlos Eduardo de Jesus Martins
+    
+        AU - Jonathan Skinner
+    
+        AU - Richard Harris
+    
+        AU - Alfredo Manuel Pereira Geraldes Dias
+    
+        AU - Luís Manuel Cortesão Godinho
+    
+
+TI - Modal Frequencies of a Reinforced Timber-Concrete Composite Floor: Testing and Modeling
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015029
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001275 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001275
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001275
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015029
+AB - The reinforcement of a timber floor with a concrete layer properly connected to produce a composite system represents not only an improvement in the stiffness but also a foreseeable change in the modal frequencies of the floor. In order to assess that change, a typical timber floor, which was subsequently reinforced with a concrete layer to produce a composite, was tested at both stages in the research reported in this paper. Additionally, composite beams taken from the original floor were also tested. The results showed a significant decrease (44%) in the fundamental frequency after the reinforcement. In order to obtain the mode shapes and frequencies of the floor, finite-element (FE) models of the floors and beams were created. The FE models accurately matched the experimental results. Having validated the model, a parametric study was carried out to compare the results provided by the proposed FE model with a numerical model from the bibliography and to understand the influence of the most relevant structural parameters on the fundamental frequency of the composite floor.
+
+
+    
+        AU - Leila Keyvani
+    
+        AU - Mehrdad Sasani
+    
+
+TI - Analytical and Experimental Evaluation of Progressive Collapse Resistance of a Flat-Slab Posttensioned Parking Garage
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015030
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001279 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001279
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001279
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015030
+AB - Despite the popularity of posttensioned (PT) floors for parking garages and the likelihood of a column loss, due to blast or vehicle impact, there is a lack of research on the progressive collapse potential of this structural system subsequent to initial damage. In this paper, progressive collapse resistance of an actual posttensioned parking garage is evaluated experimentally and analytically. An interior column was removed by explosion and the structure resisted progressive collapse with a permanent maximum vertical displacement of about 61&nbsp;mm (2.4&nbsp;in.). Analytical models of the garage are developed using computer software and nonlinear dynamic analyses are performed. The interaction between the tendon and the slab is modeled explicitly. The analytical results show that despite the fact that the slab around the removed column had no bottom reinforcement and the tendons were placed close to the top of the slab, pushing the slab down, the compressive membrane forces developed in the slab helped increase the flexural strength of the slab sections. The gravity load redistribution is discussed and characterized.
+
+
+    
+        AU - Ran Feng
+    
+        AU - Ben Young
+    
+
+TI - Experimental Investigation of Aluminum Alloy Stub Columns with Circular Openings
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015031
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001265 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001265
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001265
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015031
+AB - This paper describes a test program on a wide range of aluminum alloy square hollow section stub columns containing central circular openings. A total of 28 compression tests was conducted by applying uniform axial load to the specimens, which were fabricated by extrusion of square hollow sections using 6061-T6 heat-treated aluminum alloys. The column strengths; failure modes (including local buckling failure and material yielding failure); strain distribution along the quarter of square hollow sections at midheight of the columns; and load versus axial shortening curves of test specimens were obtained from the experimental investigation. The test results were compared with the design strengths calculated by using the current design rules given in the design specifications and design rules proposed by other researchers for perforated carbon steel structural members. It is shown that most of the current design rules for perforated carbon steel structural members are generally inappropriate, with comparatively high scatter of predictions for the design of perforated aluminum alloy stub columns.
+
+
+    
+        AU - Paul Heerema
+    
+        AU - Ahmed Ashour
+    
+        AU - Marwan Shedid
+    
+        AU - Wael El-Dakhakhni
+    
+
+TI - System-Level Displacement- and Performance-Based Seismic Design Parameter Quantifications for an Asymmetrical Reinforced Concrete Masonry Building
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015032
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001258 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001258
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001258
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015032
+AB - This paper focuses on analyzing the performance of structural walls comprising the seismic force resisting system (SFRS) in a scaled asymmetrical fully grouted reinforced masonry (RM) building tested under quasi-static loading. The in-plane tensile and compressive strains calculated at the wall toes and the curvature profile along the wall height as well as the contributions of the flexural and the shear deformations to the overall wall displacements were quantified. The component-level (when the walls were tested individually) responses were compared with those at the system level (in a building). In addition, key input parameters for displacement-based seismic design approaches, including stiffness degradation and the trend of the building’s effective period increase as well as the variation of hysteretic damping, were quantified. Moreover, the building energy dissipation levels were compared with those generated during the individual wall tests to quantify the contribution of each component to the overall system-level performance. Finally, within the context of performance-based seismic design, the damage states of the building walls at different loading stages were identified and the damage levels, correlated to the maximum developed crack widths in the walls, were quantified utilizing a digital image correlation-based technique. Based on the analyses conducted, it was observed that wall curvatures and the extent of plasticity from the building test were not consistent with those based on the individual wall tests. In addition, the current test results showed that the total energy dissipation of the building does not only result from the walls aligned along the loading direction, but also from orthogonal walls engaged through the floor slabs as a result of the building twist. Finally, the study is expected to contribute to understanding the system-level performance of RM SFRS in order to facilitate their adoption in the next generation of performance-based seismic design codes in North America.
+
+
+    
+        AU - Wenjuan Lou
+    
+        AU - Ligang Zhang
+    
+        AU - M. F. Huang
+    
+        AU - Q. S. Li
+    
+
+TI - Multiobjective Equivalent Static Wind Loads on Complex Tall Buildings Using Non-Gaussian Peak Factors
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015033
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001277 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001277
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001277
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015033
+AB - Equivalent static wind loads (ESWLs) play an important role in the wind-resistant design of tall buildings. Traditionally, ESWLs of a tall building are derived based on the equivalence of the top deflection or the base force along the principal direction, which is easy to identify for a regular tall building. For flexible tall buildings with simple or complex shapes, wind-induced dynamic responses are three-dimensional, which often complicates the application of the ESWLs. Based on the time-domain dynamic analysis method, a new scheme is developed in this paper to model multiobjective equivalent static wind loads (M-ESWLs) on complex tall buildings. The possible non-Gaussian properties of wind-induced response processes have been taken into account in M-ESWLs by using non-Gaussian peak factors. Furthermore, a joint action reduction factor is carefully defined to reflect the partial correlations among multiple component responses. Finally, the new scheme is applied to a practical 43-story tall building with irregular geometric shapes to illustrate the application and effectiveness of the new method. In this work it was assumed that wind speeds do not depend on direction. Future research should include complementing this work by accounting for the effects of wind speed directionality.
+
+
+    
+        AU - Igor Gavric
+    
+        AU - Massimo Fragiacomo
+    
+        AU - Ario Ceccotti
+    
+
+TI - Cyclic Behavior of CLT Wall Systems: Experimental Tests and Analytical Prediction Models
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015034
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001246 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001246
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001246
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015034
+AB - An experimental program was performed at IVALSA Trees and Timber Institute on single and coupled cross-laminated (CLT) wall panels with different anchoring systems and different types of joints between adjacent panels. The mechanical properties of CLT walls were assessed and are critically discussed in the paper. The connector layout and the design of the screwed vertical joints were found to markedly affect the overall behavior of the structural system. The in-plane deformations of CLT panels were almost negligible, whereas concentration of forces and deformations mainly occurred in the connections. Advanced analytical models for nonlinear pushover analysis of CLT wall systems were developed and verified against test results. The models take into account all stiffness and strength components of connectors, as well as the bending and shear deformation of the panels. A parametric study of CLT wall systems with different aspect ratios and wall segmentation was performed, showing that segmentation of CLT walls decreases their stiffness and strength but significantly improves their deformation capacity.
+
+
+    
+        AU - N. Nazari
+    
+        AU - J. W. van de Lindt
+    
+        AU - Y. Li
+    
+
+TI - Quantifying Changes in Structural Design Needed to Account for Aftershock Hazard
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015035
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001280 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001280
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001280
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015035
+AB - Aftershocks have the potential to cause severe damage to buildings and threaten life following a major earthquake. However, their effect on seismic hazards is not explicitly accounted for in modern building design codes, nor in emerging methodologies such as performance-based seismic design. The objective of this study was to develop a methodology that can quantify the changes that would be needed in the structural design of a building to account for aftershock (AS) hazards and illustrate it using a basic nonlinear model of a building. In other words, what changes to a structural design would be needed such that the building has the same collapse probability for the combined mainshock and aftershock (MS + AS) hazard as the collapse probability for the original building, subjected to the mainshock (MS) only? The total collapse probability is computed using a combination of seismic fragility results convolved with the two types of hazard curves, namely, a typical hazard curve and an AS hazard curve. An illustrative example is presented for a two-story woodframe building and the change in structural design needed for this scenario is found to be an approximately 10% increase in both stiffness and strength for the first and second stories. Although this is illustrated on only one building, it demonstrates that further work related to consideration of AS hazards may be justified.
+
+
+    
+        AU - Claudio Bernuzzi
+    
+        AU - Armando Gobetti
+    
+        AU - Giammaria Gabbianelli
+    
+        AU - Marco Simoncelli
+    
+
+TI - Simplified Approaches to Design Medium-Rise Unbraced Steel Storage Pallet Racks. I: Elastic Buckling Analysis
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015036
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001271 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001271
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001271
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015036
+AB - The design of steel storage pallet racks is quite complex, despite the fact that these structures are built with economical components and manufactured from thin coils or sheets. The most advanced approaches for rack design recommend the use of simplified methods to estimate the key parameters governing both static and seismic design. In the first case, which is the core of this first part of a two-part paper, an evaluation of the elastic critical load multiplier for the sway buckling mode (αcr) is required to select the method of analysis and check member instability. The term αcr can be predicted through simplified approaches, which have been adequately calibrated for traditional steel structures constructed with members having a double-symmetric cross section. Rack uprights (columns) have, in general, an open cross section, with one axis of symmetry, and thus the overall frame response and member behavior is significantly influenced by Wagner’s coefficients, warping torsion, and shear-center eccentricity. Currently, these effects are neglected in routine rack design, owing to the absence of clear indications in standard provisions and the limited availability and knowledge of appropriate software tools supporting this complex design approach. This paper addresses the applicability of simplified approaches for the static design of medium-rise unbraced pallet racks, whereas the second part companion paper considers seismic approaches. A numerical analysis of several racks composed of different geometries, components, and degrees of stiffness of both beam-to-column and base-plate joints has been completed by using an open source finite-element analysis program for academic use, which is characterized by a refined beam formulation accounting for warping effects. Furthermore, the application to model racks of a traditional beam formulation on the basis of the coincidence between the shear center and the cross section centroid allows a direct appraisal of the warping influence on the prediction methods. Finally, to improve the accuracy of the critical load multiplier prediction, a suitable safety factor has been proposed to be used when beam formulations, including warping, are not available for structural analysis.
+
+
+    
+        AU - Claudio Bernuzzi
+    
+        AU - Armando Gobetti
+    
+        AU - Giammaria Gabbianelli
+    
+        AU - Marco Simoncelli
+    
+
+TI - Simplified Approaches to Design Medium-Rise Unbraced Steel Storage Pallet Racks. II: Fundamental Period Estimates
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015037
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001278 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001278
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001278
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015037
+AB -  This paper concludes a two-part paper, which addresses the reliability of simplified approaches for rack design. The first part presents a parametric study on medium-rise, unbraced racks differing for components, geometry, and flexural stiffness degree of beam-to-column joints and base-plate connections. The evaluation of the elastic critical load multiplier, which is required to select the analysis method and check member instability, is considered through a simplified approach that is adequately calibrated for the more traditional steel structures. This second part focuses on seismic design, which is governed by the value of the fundamental period of vibrations (T1). Simplified approaches from the literature on typical steel frames and recommendations to predict period T1 are applied to two beam formulations differing in the absence or presence of warping. Research outcomes are discussed, considering the limits of the simplified approaches, and improvements to increase the accuracy of fundamental period prediction are proposed. For reproduction purposes, this paper details the data used in the application of the considered simplified approaches and the previously discussed approaches.
+
+
+    
+        AU - Reza Hassanli
+    
+        AU - Mohamed A. ElGawady
+    
+        AU - Julie E. Mills
+    
+
+TI - Strength and Seismic Performance Factors of Posttensioned Masonry Walls
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015038
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001272 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001272
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001272
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015038
+AB - In this study, the behavior of posttensioned masonry walls is investigated using a database of 31 tested walls. The accuracy of the current Masonry Standards Joint Committee (MSJC) in evaluating the strength of posttensioned masonry walls is studied using the available test results. Moreover, using the experimental results, the seismic performance factors including ductility, response modification factor, and displacement amplification factor are determined for different types of walls including fully grouted, partially grouted, ungrouted walls, walls with confinement plates, walls with supplemental mild steel, and walls with an opening. As a result of this study, it was determined that the MSJC underestimates the strength of fully grouted unbonded posttensioned walls by about 20%. Using the strain compatibility method to determine the flexural capacity of bonded masonry walls resulted in reasonable predictions of strength. Moreover, an average response modification factor of 4.27 to 7.76 and displacement amplification factor of 3.5 are estimated for posttensioned fully grouted masonry walls. The ductility and response modification factor for ungrouted and partially grouted walls and walls with an opening were much lower than those of fully grouted walls. It was found that the R-factor of partially grouted walls can be estimated by linear interpolation between the R-factors of ungrouted and fully grouted walls. This study also concluded that the axial stress ratio has a prominent effect on the ductility of posttensioned masonry walls. To provide a ductile response, based on the findings, it is recommended to limit the axial stress ratio to a value of 0.15.
+
+
+    
+        AU - Chin-Long Lee
+    
+        AU - Filip C. Filippou
+    
+
+TI - Frame Element with Mixed Formulations for Composite and RC Members with Bond Slip. I: Theory and Fixed-End Rotation
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015039
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001273 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001273
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001273
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015039
+AB - This paper proposes a composite frame element for the simulation of the inelastic response of structural members made up of two or more components with different materials, such as reinforced concrete (RC), steel-concrete composite members, prestressed members, and members with fiber-reinforced polymer (FRP) reinforcement. The element accounts for the relative slip at the interface between the components. Nonlinear geometry effects are accounted for through the corotational formulation, which permits the response simulation of composite frame elements under large displacements. The element formulation enhances the standard Hu-Washizu variational principle with fields describing the bond-slip behavior between components. Three alternatives for the mixed formulation of the element are derived in this paper, which focuses on theory and implementation: mixed-displacement, mixed-force, and mixed-mixed. The paper presents the benefits and shortcomings of the formulation alternatives for modeling the pullout failure of reinforcing bars and the fixed-end rotation of RC members and discusses the numerical ramifications of each alternative. A companion paper discusses the convergence performance of the different mixed formulations and validates the proposed element through correlation studies with available experimental results.
+
+
+    
+        AU - Chin-Long Lee
+    
+        AU - Filip C. Filippou
+    
+
+TI - Frame Element with Mixed Formulations for Composite and RC Members with Bond Slip. II: Correlation Studies
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015040
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001274 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001274
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001274
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015040
+AB - This paper discusses the convergence and accuracy of the three mixed formulations in the companion paper for a new composite frame element that is suitable for the large-scale, large-displacement inelastic analysis of structures. The convergence is assessed with the inelastic response of a steel-concrete composite substructure under uniaxial loading. The accuracy of the formulations is assessed by correlating the numerical results with experimental data from a steel-concrete composite substructure under uniaxial loading and from the biaxial response of two reinforced concrete (RC) cantilever columns. The correlation studies confirm the accuracy and numerical robustness of the mixed formulations for global response measures such as the force-displacement relation and for local response measures such as the strain and relative slip distributions in the composite member. Special emphasis in the numerical studies is placed on the challenging cyclic, biaxial response of the RC cantilever columns that previous models are unable to capture. The paper concludes with an evaluation of the significance of the bond-slip interaction in RC and composite elements on the local and global response of structural members.
+
+
+    
+        AU - Farzin Zareian
+    
+        AU - Peyman Kaviani
+    
+        AU - Ertugrul Taciroglu
+    
+
+TI - Multiphase Performance Assessment of Structural Response to Seismic Excitations
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015041
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001224 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001224
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001224
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015041
+AB -  An alternative approach to the traditional method for performance assessment of structural systems is proposed. Denoted herein as the M-PARS method, this new approach is capable of tackling clusters of structural behavior under seismic excitations from one hazard level to another due to, for example, variations in the nature of excitation characteristics. The method’s ability to recognize and process different clusters (i.e.,&nbsp;phases) separately enables it to yield performance estimates with higher accuracy and less variability. The proposed M-PARS methodology is a step up compared to existing state-of-the-art (albeit conventional monophase) approaches. In the present study, M-PARS is first formulated in general terms, and then applied to a specific case study involving bridges with skew-angled seat-type abutments to demonstrate its salient features. In this study, the sensitivities of the median estimates of seismic response to variations in bridge geometry parameters and ground motion characteristics are investigated, and direct comparisons are made with a conventional monophase method to quantify the advantages afforded by the proposed method.
+
+
+    
+        AU - N. C. Dubbs
+    
+        AU - F. L. Moon
+    
+
+TI - Comparison and Implementation of Multiple Model Structural Identification Methods
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015042
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001284 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001284
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001284
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015042
+AB - Although multiple-model structural identification (MM ST-ID) approaches appear to offer clear, conceptual benefits over single-model approaches, they have not yet been employed within a transparent scenario that will allow quantitative comparison, critique, and refinement. To fill this gap, the research reported in this paper aimed to (1)&nbsp;implement and compare current MM ST-ID approaches on a physical laboratory model to establish their accuracy and identify their merits and shortcomings, and (2)&nbsp;identify the ability to refine MM ST-ID methods by weighing observations based on their correlation with the desired predictions. The scenario implemented used modal parameters as the observations, and static displacements and strains as the desired predictions. The various MM ST-ID methods were evaluated based on how their prediction distributions agreed with the actual responses of the physical model. The results indicated that while all methods were successful in bounding the actual responses, the Bayesian updating approach proved to be the most efficient in terms of required number of simulations, and was able to produce prediction distributions with the smallest bounds (while still incorporating all measured responses). In addition, the mean of the MM ST-ID prediction distributions did not coincide with the model that had the largest weight (i.e.,&nbsp;the highest likelihood), which indicates that single model approaches not only are unable to provide estimates of variability, but may produce biased predictions. Finally, through a second set of scenarios, the research reported in this paper showed how prediction distributions may be improved by weighing observations based on their correlation with the desired predictions.
+
+
+    
+        AU - Mostafa ElSayed
+    
+        AU - Wael El-Dakhakhni
+    
+        AU - Michael Tait
+    
+
+TI - Response Evaluation of Reinforced Concrete Block Structural Walls Subjected to Blast Loading
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015043
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001239 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001239
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001239
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015043
+AB - With the introduction of the new American and Canadian standards for blast resistant design, there is a need to evaluate the response of different structural components under such extreme loads. This paper focuses on experimentally evaluating the damage levels and the out-of-plane response of fully grouted reinforced concrete block structural walls under blast loading—a load that they are typically not designed to resist. The scaled walls reported in this paper cover a range of design parameters and charge weights that reflect different vulnerabilities and threat levels. Three different reinforcement ratios and three different charge weights have been used, with scaled distances as low as 1.61  m/kg1/3 and two different boundary conditions, to evaluate the walls’ response. In general, the results show that the walls are capable of withstanding substantial blast load levels with different extents of damage depending on their vertical reinforcement ratio and scaled distance. However, brittle behavior was observed in the walls with a reinforcement ratio higher than 0.6%. This is attributed to the fact that seismically detailed (concrete or masonry) structural walls designed to respond in a ductile manner under in-plane loads might develop brittle failure under out-of-plane loads. This is a consequence of the increased concrete block wall reinforcement ratio in the out-of-plane direction compared with the same in the in-plane direction. The maximum experimental support rotation values were compared with the corresponding values predicted using an available nonlinear single-degree-of-freedom (SDOF) model presented in the Unified Facilities Criteria document. In general, the comparison between the experimentally obtained and the analytically predicted support rotation values indicated reasonable agreement. The test results are expected to contribute to the growing masonry blast performance database of experimental results and to the future development of reinforced concrete block wall design provisions under blast loading in North America, in which a balance between the wall strength and ductility might be necessary to remain below the different damage classifications specified by the performance-based design oriented ASCE and Canadian Standards Association (CSA) standards.
+
+
+    
+        AU - Lauren Toikka
+    
+        AU - Abass Braimah
+    
+        AU - Ghani Razaqpur
+    
+        AU - Simon Foo
+    
+
+TI - Strain Rate Effect on Development Length of Steel Reinforcement
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015044
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001288 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001288
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001288
+SO - Journal of Structural Engineering 2015-11-01 141(11): 04015044
+AB - Accidental or premeditated explosions have detrimental effects on the infrastructure near the center of explosion and pose major threats to human life. Thus, research is currently underway to study the effects of explosions on infrastructure systems with the ultimate goal of minimizing infrastructure damage and saving lives. Because reinforced concrete is the most common building material used in blast-resistant infrastructure design and construction, understanding the effect of blast loads on reinforced concrete components is essential to reaching this goal. The prevailing design philosophy for blast-resistant structures is energy dissipation through reinforcement yielding (ductility) and large bending deformations without the incidence of nonductile failure modes such as shear and bond. However, information regarding the bond behavior and strength of steel reinforcement–concrete bonds under blast loads is rather scant; therefore, this paper reports on an experimental program designed to investigate the strain rate effect on steel reinforcement–concrete bond. Reinforced concrete beams longitudinally reinforced with 15M, 20M, or 25M were tested in a shock tube under simulated blast loading. The test results show that high strain rate increases the steel reinforcement–concrete bond strength and thus, that the static load development lengths of these bars are adequate for developing their dynamic yield strengths at high strain rate. The dynamic increase factor for bond stress is determined to be 1.11 for 15M, 2.24 for 20M, and 3.68 for 25M bar.
+
+
+    
+        AU - Tao Liu
+    
+        AU - Tobia Zordan
+    
+        AU - Qilin Zhang
+    
+        AU - Bruno Briseghella
+    
+
+TI - Equivalent Viscous Damping of Bilinear Hysteretic Oscillators
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 06015002
+VI - 141
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001262 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001262
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001262
+SO - Journal of Structural Engineering 2015-11-01 141(11): 06015002
+AB - An improved formula to determine the equivalent viscous damping ratio of a single-degree-of-freedom (SDOF) bilinear oscillator is proposed in this paper, which simultaneously considers the influence of the initial period, ductility ratio, and strain hardening ratio. A large number of parameters are considered in order to present comprehensive results. Based on the assumption of secant stiffness, several equivalent linearization approaches are evaluated through parametric analyses. Then, optimization analyses are performed using a genetic algorithm to identify the variation trend of optimal damping ratios. A new formula of an equivalent viscous damping ratio is proposed by nonlinear regression analyses of the optimal damping ratios. Finally, the proposed approach is validated and the results show that the proposed approach leads to better estimates of maximum inelastic displacement response in the entire parameter space considered in this study when compared with other equivalent linearization approaches.
+
+

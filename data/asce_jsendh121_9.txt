@@ -1,0 +1,379 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - C. M. Wang
+    
+        AU - K. Padmanaban
+    
+        AU - N. E. Shanmugam
+    
+
+TI - Ultimate Strength Analysis of Stub Girders
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 1259-1264
+VI - 121
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1995)121:9(1259) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281259%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281259%29
+SO - Journal of Structural Engineering 1995-09-01 121(9): 1259-1264
+AB - This paper is on the determination of the ultimate load-carrying capacity of stub girders. Two different methods are presented for this purpose. In the first method, the stub girder is modeled as a vierendeel truss girder. Based on an assumed collapse mechanism, shear force distribution between the top and bottom chords proportioned according to the shear and flexural stiffnesses and point of contraflexure at the midlength of opening, an explicit expression to calculate the ultimate load is derived. The second method uses the finite-element software package ABAQUS for the nonlinear analyses of idealized two-dimensional stub girder models. The methods furnish results that are in reasonable agreement with experimental results, for girders in which the premature failure of shear connectors, local buckling of stubs and the main girder, and the longitudinal shear failure are prevented.
+
+
+    
+        AU - Metin Aydoğan
+    
+
+TI - Stiffness-Matrix Formulation of Beams with Shear Effect on Elastic Foundation
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 1265-1270
+VI - 121
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1995)121:9(1265) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281265%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281265%29
+SO - Journal of Structural Engineering 1995-09-01 121(9): 1265-1270
+AB - A stiffness matrix for a beam element with shear effect on an elastic foundation is developed using the differential-equation approach for plane-frame analysis. Small-displacement theory and linear-elastic material are assumed. The contribution of the shear stresses to the deflection of the beam in addition to the bending stresses is considered. Shear effect is represented by a second-order term of the derivative of beam deflection in the differential equation. This fact is also taken into account in the boundary conditions of the beam element. The complex variables are used in the solution of the differential equation. Stiffness and loading matrices for a beam element resting on Winkler foundation are derived by means of a computer program coded in FORTRAN language. Using this element, the effects of the shear forces on deflections and internal forces in the beams on an elastic foundation are investigated. The results of this finite-element analysis are exact for the Winkler assumption. It is shown that the deflections due to shear effect are influenced particularly with the modulus of the foundation and for the beams that have small span to height ratio. Also, numerical examples are given to demonstrate this fact.
+
+
+    
+        AU - D. J. Oehlers
+    
+        AU - A. Ghosh
+    
+        AU - M. Wahab
+    
+
+TI - Residual Strength Approach to Fatigue Design and Analysis
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 1271-1279
+VI - 121
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1995)121:9(1271) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281271%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281271%29
+SO - Journal of Structural Engineering 1995-09-01 121(9): 1271-1279
+AB - Standard fatigue design procedures are often simply based on the endurance of a component, that is the number of cycles to cause the component to fracture at the peak of the cyclic load. Therefore, these procedures are of little value in assessing the effect of overloads on the strength of structures that have been subjected to fatigue loads, or in assessing the performance of an existing structure prior to fracture through fatigue. A fatigue methodology is developed that is based on the residual strength of a component during cyclic loading and not on the endurance. Hence, this procedure can be used to assess the remaining strength and endurance of a structure that has been subjected to cyclic loads, the effect of remedial work on the structure, as well as provide a more accurate design procedure based on the true performance of the structure.
+
+
+    
+        AU - Faisal F. Wafa
+    
+        AU - Sabri A. Shihata
+    
+        AU - Samir A. Ashour
+    
+        AU - Ali A. Akhtaruzzaman
+    
+
+TI - Prestressed High-Strength Concrete Beams under Torsion
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 1280-1286
+VI - 121
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1995)121:9(1280) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281280%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281280%29
+SO - Journal of Structural Engineering 1995-09-01 121(9): 1280-1286
+AB - Fourteen prestressed high-strength concrete beams were tested to study their torsional behavior. The major variables were the concrete compressive strength, the aspect ratio of the beam cross section, the prestressing level, and the amount of torsional reinforcement. Keeping the area constant, three different cross-sectional dimensions, 240 × 240 mm, 170 × 340 mm, and 140 × 420 mm, were used to give aspect ratios of 1, 2, and 3, respectively. The concrete compressive strengths were 70 and 90 MPa (10,000 and 13,000 psi), and the beams were subjected to two levels of prestressing, corresponding to 0.05  f
+′c and 0.10  f
+′c. Test results showed that the torque-twist relations for the tested beams were approximately linear up to cracking, and thereafter they were nonlinear. The aspect ratio and the concrete compressive strength influence both the torsional strength and the torsional stiffnesses at all stages of loading. Several theoretical methods available in the literature and developed for normal-strength concrete were used to predict the torsional behavior of the test beams. The space truss theory with softening of concrete gave the best prediction of the torsional strength of the test beams.
+
+
+    
+        AU - Mario E. Rodriguez
+    
+        AU - Sergio Santiago
+    
+        AU - Roberto Meli
+    
+
+TI - Seismic Load Tests on Two-Story Waffle–Flat-Plate Structure
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 1287-1293
+VI - 121
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1995)121:9(1287) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281287%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281287%29
+SO - Journal of Structural Engineering 1995-09-01 121(9): 1287-1293
+AB - A two-story waffle–flat-plate reinforced-concrete model structure was subjected to cyclic loading simulating a severe earthquake. The test structure was a one-third-scale model that represented a structural system that is common in Mexico City and that had a high rate of damage during the 1985 Mexico earthquake. The structure was designed with widely spaced column transverse reinforcement and with closed stirrups in the slab solid heads around the columns. At failure, the specimen showed severe flexural and shear damage in columns, and large flexural distress in waffle slabs. The structure had a low lateral stiffness, which is overestimated by current building code provisions. Results also demonstrated that the specimen had relatively low energy-dissipation and displacement-ductility capacities, which are commonly associated with poor seismic behavior during strong earthquakes. It is considered that a satisfactory seismic behavior in terms of lateral stiffness and strength can only be attained by the addition of bracing or structural walls.
+
+
+    
+        AU - R. E. Kalkert
+    
+        AU - J. D. Dolan
+    
+        AU - F. E. Woeste
+    
+
+TI - Wood-Floor Vibration Design Criteria
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 1294-1297
+VI - 121
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1995)121:9(1294) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281294%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281294%29
+SO - Journal of Structural Engineering 1995-09-01 121(9): 1294-1297
+AB - In the United States, floors in wood buildings are currently designed according to strength and deflection criteria under static uniformly distributed loads. With the introduction of engineered joist products such as I-joists (I-J) and parallel-chord trusses, spans used to construct modern wood floors have increased significantly. It has become evident that the static deflection criteria for the design of SPAN/360 may not guarantee the acceptable vibrational performance of long-span lightweight floors. Accompanying serviceability concerns have led to an increase in complaints that have yet to be addressed by the U.S. building codes. In recent years, several dynamic design criteria have been proposed to address vibrational serviceability. This paper will evaluate six criteria proposed by other researchers in two different ways. First, a design-deflection factor will be determined based on specific floor dimensions and average material properties. Second, the design results of the individual criteria will be used to determine the acceptability of selected experimental floors that were part of a larger study on floor vibrations.
+
+
+    
+        AU - Sudip S. Bhattacharjee
+    
+        AU - Pierre Léger
+    
+
+TI - Fracture Response of Gravity Dams due to Rise of Reservoir Elevation
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 1298-1305
+VI - 121
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1995)121:9(1298) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281298%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281298%29
+SO - Journal of Structural Engineering 1995-09-01 121(9): 1298-1305
+AB - A rotating smeared-crack finite-element model based on the energy conservation principle has been considered to predict the static fracture behavior of concrete gravity dams. Water penetration and uplift pressure inside the smeared crack bands have been modeled using the effective-porosity concept. The classical load-control technique and an indirect displacement-control algorithm have been considered in the nonlinear finite-element analyses, with an incremental rise of the reservoir water level. The consideration of water pressure inside cracks has been found to reduce the ultimate resistance of the structure significantly. Structural responses predicted using the traditional “no-tension” gravity method and the finite-element technique are compared to identify the advantages of applying the finite-element method in a practical dam-safety evaluation. The gravity-method analysis of concrete dams may not always provide a conservative response. Sate-of-the-art fracture-analysis models should be considered with a nonlinear incremental structural-analysis technique to evaluate the safety margin of concrete gravity dams against an inflow-design flood.
+
+
+    
+        AU - S. J. Shelley
+    
+        AU - K. L. Lee
+    
+        AU - T. Aksel
+    
+        AU - A. E. Aktan
+    
+
+TI - Active-Control and Forced-Vibration Studies on Highway Bridge
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 1306-1312
+VI - 121
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1995)121:9(1306) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281306%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281306%29
+SO - Journal of Structural Engineering 1995-09-01 121(9): 1306-1312
+AB - A full-scale, active, structural vibration-control system was successfully implemented and tested on an 80-m (250 ft) span, steel-truss highway bridge. More than 90% reduction in global mode response was achieved during testing using random, sinusoidal, and step-release disturbance excitations. Control performance was maintained in the presence of large changes in the dynamic characteristics of the structure due to environmental effects. This study demonstrated the feasibility and reliability of a new approach to active structural vibration-control–adaptive modal filter (AMF) based independent modal space control (IMSC). This work identified and explored many of the practical problems that must be addressed for commercial control installations on civil facilities to be viable.
+
+
+    
+        AU - Yong-Lin Pi
+    
+        AU - J. P. Papangelis
+    
+        AU - N. S. Trahair
+    
+
+TI - Prebuckling Deformations and Flexural-Torsional Buckling of Arches
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 1313-1322
+VI - 121
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1995)121:9(1313) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281313%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281313%29
+SO - Journal of Structural Engineering 1995-09-01 121(9): 1313-1322
+AB - When the ratio of the minor axis flexural stiffness to the major axis flexural stiffness is not small, classical analysis may lead to an inaccurate prediction of the flexural-torsional buckling loads of an arch, because prebuckling in-plane deformations change the curvature of the arch. A systematic treatment of the effects of prebuckling in-plane deformations on the elastic buckling of monosymmetric arches is presented in this paper. Nonlinear relationships between the displacements and the strains are obtained using position vectors. Energy equations are formulated for the elastic flexural-torsional buckling of monosymmetric arches, which include the effects of prebuckling in-plane deformations, and closed-form solutions are obtained for arches in uniform bending. The effect of the arch slenderness on flexural-torsional buckling is investigated. Comparisons with the existing theoretical solutions are made.
+
+
+    
+        AU - Xiao-Ling Zhao
+    
+        AU - Gregory J. Hancock
+    
+
+TI - Square and Rectangular Hollow Sections under Transverse End-Bearing Force
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 1323-1329
+VI - 121
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1995)121:9(1323) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281323%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281323%29
+SO - Journal of Structural Engineering 1995-09-01 121(9): 1323-1329
+AB - This paper describes tests on a range of cold-formed square and rectangular hollow section members subject to end-bearing force. The concentrated force was applied by means of a bearing plate, which acted across the full flange width of the section. The parameters varied in the tests included (1) the bearing length; (2) the slenderness of the member; and (3) the shape of the section [rectangular hollow sections (RHS) or square hollow sections (SHS)]. The results are compared with existing American, Australian, Canadian, and European design formulas. The results are also compared with the formulas given by the writers, which were based on tests of SHS and RHS sections under interior bearing force. A design model is proposed for SHS and RHS sections under end-bearing force. The reliability analysis method is used to calibrate the existing and proposed design formulas.
+
+
+    
+        AU - Dongzhou Huang
+    
+        AU - Ton-Lo Wang
+    
+        AU - Mohsen Shahawy
+    
+
+TI - Vibration of Thin-Walled Box-Girder Bridges Excited by Vehicles
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 1330-1337
+VI - 121
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1995)121:9(1330) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281330%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281330%29
+SO - Journal of Structural Engineering 1995-09-01 121(9): 1330-1337
+AB - This paper presents a procedure for obtaining the dynamic response of thin-walled box-girder bridges due to truck loading. The box-girder bridge is divided into a number of thin-walled beam elements. Both warping torsion and distortion are considered in the study. The analytical vehicle is the American Association of State Highway Transportation Officials (AASHTO) HS20-44 truck simulated as a nonlinear vehicle model with 11 independent degrees of freedom. Four different classes of road-surface roughness generated from power spectral density function for very good, good, average, and poor roads are used in the analysis. The proposed procedure has been checked against the folded-plate method studied by former investigators. The comparison between these two methods is very good. The analytical results show that the dynamic response of vertical bending moment is caused mainly by several vibration modes, and that of torsion and distortion is greatly affected by the higher modes.
+
+
+    
+        AU - James A. Kankam
+    
+        AU - Habib J. Dagher
+    
+
+TI - Nonlinear FE Analyses of RC Skewed Slab Bridges
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 1338-1345
+VI - 121
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1995)121:9(1338) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281338%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281338%29
+SO - Journal of Structural Engineering 1995-09-01 121(9): 1338-1345
+AB - Development of a program (NARCOS) for the nonlinear finite-element analysis of RC skewed slab bridges is outlined. The program is based on a layering formulation in which the cross section is divided into steel and concrete layers, with nonlinear material properties. Concrete layers are simulated with four-node plane stress and Mindlin plate elements; steel layers are modeled with plane stress elements. Transverse shear deformations are considered. Interlayer compatibility is satisfied by constraining in-plane displacements along common interfaces to be the same for adjacent layers. An efficient algorithm is used for assembly of the stiffness matrix and solution of the equilibrium equations. Comparison with experimental and other analytical results indicates the efficiency of procedures embodied in the program. The program is used to analyze different models of skewed slab bridges in order to assess the relative merits of two different methods of designing such bridges. Bridges designed with increased reinforcement at the obtuse corner have a higher crack-initiation load and a higher ultimate strength than bridges designed with uniform reinforcement in the slab.
+
+
+    
+        AU - Jozsef Bodig
+    
+        AU - Kevin C. K. Cheung
+    
+        AU - Thomas P. Cunningham
+    
+
+TI - Engineered Wood Construction: Structural Properties for LRFD
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 1346-1351
+VI - 121
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1995)121:9(1346) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281346%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281346%29
+SO - Journal of Structural Engineering 1995-09-01 121(9): 1346-1351
+AB - This paper addresses the procedures established for the derivation of design properties for use in load and resistance factor design (LRFD) of structural wood products. It covers derivation of reference strength (stress) and reference resistance (force or moment) values using either a format conversion or a reliability-based conversion process. Reference design properties will be used with the first edition of the  LRFD Specification for Engineered Wood Construction
+. The majority of the reference design properties were derived through format conversion. Derivation examples are provided for glued laminated timber, structural panels, dimension lumber, and timber piles. Development of end-use condition adjustment factors is reviewed. Impacts of the transition from allowable stress design to LRFD are discussed.
+
+
+    
+        AU - F. E. Griggs
+    
+        AU - A. J. DeLuzio
+    
+
+TI - Stephen H. Long and Squire Whipple: The First American Structural Engineers
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 1352-1361
+VI - 121
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1995)121:9(1352) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281352%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281352%29
+SO - Journal of Structural Engineering 1995-09-01 121(9): 1352-1361
+AB - Structural engineering as a profession dates from the second quarter of the 19th century. This paper traces the careers of Steven H. Long and Squire Whipple, who by their writings and construction of bridges between 1830 and 1860 changed bridge building and design from an art to a science. Prior to these two men, bridge builders were carpenters, millwrights, or architects who designed their bridge structures using rules of thumb. Long, with his series of pamphlets and articles in the  Journal of the Franklin Institute
+, and Whipple, with his  Treatise on Bridge Building
+, in 1847, placed in front of their fellow engineers methods for actually designing the members of their trusses, beams, and columns. A knowledge of the origins of their profession will enable the structural engineers of the last decade of the 20th century to better appreciate the contributions made by Whipple and Long.
+
+
+    
+        AU - R. E. Abendroth
+    
+        AU - F. W. Klaiber
+    
+        AU - M. W. Shafer
+    
+
+TI - Diaphragm Effectiveness in Prestressed-Concrete Girder Bridges
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 1362-1369
+VI - 121
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1995)121:9(1362) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281362%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281362%29
+SO - Journal of Structural Engineering 1995-09-01 121(9): 1362-1369
+AB - Each year many prestressed-concrete (P/C) girder bridges are damaged by overheight vehicles or vehicles transporting overheight loads. The effects of this type of loading on P/C bridge behavior was investigated for various types and locations of intermediate diaphragms. The research included a comprehensive literature review; a survey of design agencies; the testing of a full-scale, simple-span, P/C girder-bridge model with eight intermediate diaphragm configurations, as well as a model without diaphragms; and the finite-element analyses of the bridge model assuming both pinned- and fixed-end conditions. The vertical load distribution was determined to be essentially independent of the type and location of the intermediate diaphragms, while the horizontal load distribution was a function of the intermediate diaphragm type and location. Construction details at the girder supports produced significant rotational-end restraint for both vertical and horizontal loading. Both the vertical and horizontal load distributions were found to be affected by the girder-end restraint. A fabricated intermediate structural steel diaphragm was determined to provide essentially the same type of response to lateral and vertical loads that was provided by the reinforced-concrete intermediate diaphragms presently used by the Iowa Department of Transportation.
+
+
+    
+        AU - Karim S. Rebeiz
+    
+        AU - Sleiman P. Serhal
+    
+        AU - David W. Fowler
+    
+
+TI - Shear Strength of Reinforced Polyester Concrete Using Recycled PET
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 1370-1375
+VI - 121
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1995)121:9(1370) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281370%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281370%29
+SO - Journal of Structural Engineering 1995-09-01 121(9): 1370-1375
+AB - Polymer concrete is a composite material that consists of inorganic aggregates bonded together by a resin binder. The material can be used effectively in a variety of structural applications such as transportation, utility, marine, and building components. However, previous research on the shear behavior of steel-reinforced polymer concrete beams is limited, and no efficient design procedures have been proposed. In all the previous studies, it was generally assumed that the shear behavior of steel-reinforced polymer concrete is similar to the shear behavior of steel-reinforced portland cement concrete because both are composite materials consisting of a binder and inorganic aggregates. The objective of this paper is to study the behavior and to develop a design procedure in shear for steel-reinforced polymer concrete beams using unsaturated polyester resins based on recycled poly(ethylene terephthalate). Resins based on recycled poly(ethylene terephthalate) was chosen because it can be used in the production of very good quality polymer concrete at a relatively low cost.
+
+
+    
+        AU - M. R. Chowdhury
+    
+        AU - J. C. Ray
+    
+
+TI - Further Considerations for Nonlinear Finite-Element Analysis
+PT - Journal Article
+DP - 1995
+TA - Journal of Structural Engineering
+PG - 1377-1379
+VI - 121
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1995)121:9(1377) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281377%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281995%29121%3A9%281377%29
+SO - Journal of Structural Engineering 1995-09-01 121(9): 1377-1379
+AB - The results from a nonlinear finite-element analysis (NLFEA) of a reinforced concrete (RC) slab bridge are presented and discussed. The analytical results are compared with those obtained in 1993 by Huria, Lee and Aktan and their differences are discussed. The analytical results are also compared in general to experimental results on a similar structure, as presented by Aktan, Zwick, Miller and Sharooz in 1992. The analyses predicted approximately the same ultimate failure load as that experienced by the bridge, but the failure mechanisms differed. All of the differences mentioned are used as the basis for additional recommendations to practicing engineers for conducting NLFEA of RC structures.
+
+

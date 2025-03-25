@@ -1,0 +1,370 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Marco Zurru
+    
+
+TI - Nonlinear Model for Cable Trusses Based on Polynomial Shape Functions and Energy Approach
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04016029
+VI - 142
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0001480 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001480
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001480
+SO - Journal of Structural Engineering 2016-07-01 142(7): 04016029
+AB - Biconcave cable trusses are widely utilized in engineering applications, representing an economical solution for large span roofs. The most common modeling approach is via the finite-element method (FEM). Analytical approaches have been proposed for biconcave cable trusses to provide good approximations while reducing the number of variables of the problem, but most of them do not take into account the slackening of cables. The approach proposed in this paper is based on the classical Ritz approach, using polynomial functions to approximate the deformed shape of the cable truss. The equilibrium configuration is found via minimization of total potential energy. The approach is suitable for most load conditions (distributed and concentrated). The model takes into account the nonlinearities attributable to the slackening of both vertical harnesses and bracing cables. The number of variables is reduced compared to a FEM approach, while the results show a good agreement with the FEM solution. This general approach provides a consistent frame from which previously presented closed-form solutions can be derived as particular cases. A previously studied, 60-m-span plane structure is simulated under different load conditions. The results are compared to previous works and to the results of the FEM approach, showing good consistency.
+
+
+    
+        AU - Qing Hua Han
+    
+        AU - Ming Jie Liu
+    
+        AU - Yan Lu
+    
+        AU - Si Si Zhao
+    
+
+TI - Experimental and Simulation Study on Seismic Behavior of Beam-Column Joints with Cast Steel Stiffener
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04016030
+VI - 142
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0001487 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001487
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001487
+SO - Journal of Structural Engineering 2016-07-01 142(7): 04016030
+AB - A series of six full-scale cruciform H-shaped beam to square tube column joint with cast steel stiffener specimens was tested under cyclic loading to study the seismic behavior of the new joints. A parametric numerical analysis based on the test results was also conducted. The hysteretic curves of specimens not filled with concrete were full, and the ones of specimens filled with concrete were pinched. The maximum moment resistance of the joints filled with concrete in the column increased from 10 to 30% compared with that of the joints not filled with concrete. The energy dissipation coefficient of the joints not filled with concrete in the column varied from 2.681 to 3.585, whereas it changed from 1.892 to 1.711 for the joints filled with concrete when the width of the square tube column ranged from 300 to 500&nbsp;mm. The results demonstrate that the joints with cast steel stiffeners have excellent moment capacity, deformation performance, and energy dissipation coefficients. The new joints could potentially be applied in a seismic region.
+
+
+    
+        AU - Bing Xue
+    
+        AU - Jia-Liang Le
+    
+
+TI - Stochastic Computational Model for Progressive Collapse of Reinforced Concrete Buildings
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04016031
+VI - 142
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0001485 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001485
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001485
+SO - Journal of Structural Engineering 2016-07-01 142(7): 04016031
+AB - A two-scale numerical model is developed to investigate the probabilistic collapse behavior of reinforced concrete (RC) buildings subjected to local structural damage. In this model, a set of coarse-scale cohesive elements is used to model the failure of potential damage zones in various RC structural members. The constitutive properties of the cohesive elements and their probability distributions are determined from detailed stochastic finite element simulations of the potential damage zones by taking into account the uncertainties in various material properties. The two-scale model is validated both experimentally and numerically for different structural subassemblages. The model is then applied to study the collapse behavior of a prototype 10-story RC building subjected to sudden column removal using both deterministic and probabilistic analysis frameworks. The deterministic calculation uses the mean material properties and the factored gravity loads according to the Unified Facilities Criteria (UFC) guidelines. The stochastic calculation considers uncertainties in both gravity loads and material properties, from which the occurrence probabilities of different collapse extents are determined. The results of the present probabilistic analysis are discussed in comparison with the existing deterministic approach, which reveals the important role of probabilistic methods in the analysis of progressive collapse.
+
+
+    
+        AU - Ran Ding
+    
+        AU - Mu-Xuan Tao
+    
+        AU - Jian-Guo Nie
+    
+        AU - Y. L. Mo
+    
+
+TI - Shear Deformation and Sliding-Based Fiber Beam-Column Model for Seismic Analysis of Reinforced Concrete Coupling Beams
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04016032
+VI - 142
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0001478 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001478
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001478
+SO - Journal of Structural Engineering 2016-07-01 142(7): 04016032
+AB - Conventional RC coupling beams have been widely used as key energy-dissipation components in frame-core tube structural systems for high-rise buildings. A model with sufficient efficiency, accuracy, and practicality is urgently needed for the seismic analysis of high-rise structures. According to test results, both the shear deformation and shear sliding mechanisms are critical to assessing the seismic performance of coupling beams. However, available shear models for beams and columns cannot give satisfactory results in modeling both mechanisms in finite-element analysis (FEA). To address this problem, this study takes into account the section shear force–shear strain and shear sliding laws in the traditional displacement-based fiber beam-column element, which is implemented into a general FEA package. A new section shear force–shear strain law, which can consider the pinching effect, strength and stiffness deterioration, shear capacity degradation, and arbitrary complex loading path is first proposed. In addition, a new section shear force–shear sliding strain law is developed to model the special shear sliding phenomenon. Then, shear sliding and shear compression limit formulas are given to determine different failure modes. Two beam-column elements, named the shear element and sliding element, are finally developed and combined to model the coupling beam. To verify the proposed model, 47 test specimens are collected and summarized. The formulas for the shear strength, cracked shear stiffness, and shear displacement limit are proposed and verified. Then, the model is applied to 16 test specimens. It is indicated that the model has sufficient accuracy, high efficiency, and convenient modeling procedure, which offers a reliable and powerful tool for seismic analysis of conventional RC coupling beams and high-rise structures.
+
+
+    
+        AU - Stanislav Kmet
+    
+        AU - Marek Mojdis
+    
+
+TI - Time-Dependent Analysis of Prestressed Cable Nets
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04016033
+VI - 142
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0001465 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001465
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001465
+SO - Journal of Structural Engineering 2016-07-01 142(7): 04016033
+AB - In this paper, time-dependent nonlinear numerical and analytical computational models suitable for rheological analysis of prestressed cable nets subjected to creep effects are presented. The principal aim of this contribution is to describe a developed design computational tool for a theoretical simulation of the time-dependent behavior of cable nets and predict their rheological characteristics. For this purpose, a modified finite-element method for the time-dependent analysis of materially linear and geometrically nonlinear cable nets is proposed. Creep constitutive equations in the logarithmic form are incorporated into the finite-element model to express the current lengths of cables as the functions of creep strain increments. As an extension of the Irvine approach, a geometrically nonlinear time-dependent analytical static solution of taut flat cable nets over an orthogonal square plan is presented. The cable net is replaced by an equivalent membrane. Creep strain is incorporated into the compatibility equation of the structure. Examples are presented. Results of time-dependent analyses of cable nets confirmed the required functionality and performance of the developed numerical and analytical computational models.
+
+
+    
+        AU - Sung-Chul Chun
+    
+        AU - Taehun Ha
+    
+
+TI - Safety and Serviceability of Reinforced Concrete Beam-Column Joints Supported by Shores and Reshores during Construction
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04016034
+VI - 142
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0001494 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001494
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001494
+SO - Journal of Structural Engineering 2016-07-01 142(7): 04016034
+AB - Reshoring makes a floor support its own weight and decreases the construction load in the lower levels. However, a significant concern regarding reshoring lies in its safety and serviceability when shores are replaced while the construction load of the upper levels is applied. To investigate this concern and compare the construction load in shores and reshores, reinforced concrete (RC) beam-column joints at early ages were tested in the laboratory and were also monitored at a construction site. The specimens at ages of 2 and 3&nbsp;days showed a shear-compression failure, and the specimens at ages of 7 or more days showed sufficient flexural behaviors. The test also found that the beam-column joints have sufficient stiffness even at the earliest ages that the joint can be safely assumed to be fully restrained regardless of the concrete age. Analysis of the test results showed that reshoring at 5&nbsp;days of concrete age is 55% safer than keeping the shores until the age of 28&nbsp;days, and no serviceability problems were identified, such as deflection, deformation, or cracks under the expected construction loads. The safety and serviceability concerns were also addressed by the field monitoring of beam deflections and the strain of the longitudinal rebar in the beams. The maximum beam deflection was only L/5,000, and the maximum rebar strain was only 3.6% of the yield strain. Field monitoring of the construction load showed that the load on the shores decreased by 50% after reshoring and was also 35% lower than the load on shores that have been kept. This result coincides well with the predicted values based on the simplified analysis recommended by code provisions.
+
+
+    
+        AU - Guangzhong Ba
+    
+        AU - Jijun Miao
+    
+        AU - Weiping Zhang
+    
+        AU - Caiwei Liu
+    
+
+TI - Influence of Cracking on Heat Propagation in Reinforced Concrete Structures
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04016035
+VI - 142
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0001483 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001483
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001483
+SO - Journal of Structural Engineering 2016-07-01 142(7): 04016035
+AB - Seven beams, four columns, and two single-bay one-story frames have been recently designed in order to create different crack patterns and to investigate heat propagation in cracked reinforced concrete structures. Commercially available finite-element software is adopted to describe the thermal behavior of precracked reinforced concrete structures in fire, and to evaluate the effect of cracking. Both the experimental and numerical results showed that heat propagation tended to increase in the cracked regions compared with undamaged regions. The ultimate bearing capacity of structures in question in fire was calculated by means of engineering-oriented methods, by introducing or neglecting the effects that cracking has on the thermal field. In the former case, the agreement between the calculated bearing capacities and the test results was better. In the analysis of cracked reinforced concrete structures in fire, therefore, assuming a uniform temperature distribution in each longitudinal fiber and the same thermal field in all sections is not correct and safe, as the temperature increase in the cracked regions is not taken care of.
+
+
+    
+        AU - Ehab Hamed
+    
+
+TI - Modeling, Analysis, and Behavior of Load-Carrying Precast Concrete Sandwich Panels
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04016036
+VI - 142
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0001490 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001490
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001490
+SO - Journal of Structural Engineering 2016-07-01 142(7): 04016036
+AB - This paper investigates the behavior of precast concrete sandwich panels (PCSPs) made with truss shear connectors, which accounts for partial shear interaction. A theoretical model is developed based on variational principles and equations of equilibrium that account for the axial and bending rigidities of reinforced concrete (RC) layers and their potential cracking, the shear and normal rigidities of the insulation layer, and the elastic flexibility of the diagonal truss connectors. This layered modeling approach is general and can be used to describe the structural behavior under various loading patterns and boundary conditions, with the influence of the partial shear interaction as an automatic outcome of the analysis. As such, it provides a better and a more reliable tool than other existing simplified models in the literature for describing the complex structural behavior of PCSPs. A parametric study is presented, which investigates key parameters in the design of concrete sandwich panels, such as the diameter of the diagonal bars of the truss connectors, their inclination angle, and the thicknesses of the different layers of the panel. The results shed light on the structural behavior and provide insight into the main parameters that control the composite action of the panel. A comparison of the theoretical model with test results from the literature is also presented.
+
+
+    
+        AU - Lisa Choe
+    
+        AU - Anil Agarwal
+    
+        AU - Amit H. Varma
+    
+
+TI - Steel Columns Subjected to Thermal Gradients from Fire Loading: Experimental Evaluation
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04016037
+VI - 142
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0001500 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001500
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001500
+SO - Journal of Structural Engineering 2016-07-01 142(7): 04016037
+AB - This paper presents the behavior of axially loaded steel columns subjected to thermal gradients through their cross sections. Experimental tests were conducted on full-scale wide-flange steel columns with W8×35 and W14×53 sections made from standard grade 50 steel. The experimental investigations confirmed that variations in fire protection thickness had significant influence on the thermal gradient developing through the steel cross section. Thermal gradient along the flanges caused bowing of column specimens toward the hotter side. Thermal bowing introduced second-order moments and adversely affected stability, leading to failure of column specimens by inelastic flexural column buckling. The experimental behavior and results were compared with those obtained from detailed nonlinear finite-element analyses of the tested specimens. These nonlinear finite-element models utilized standard (temperature-dependent) material properties, and reasonably predicted the axial load-temperature-deformation behavior and failure temperature of column specimens subjected to nonuniform heating.
+
+
+    
+        AU - Giuseppe Campione
+    
+        AU - Liborio Cavaleri
+    
+        AU - Maurizio Papia
+    
+
+TI - Stainless Steel Grids for Confinement of Clay Brick Masonry Columns
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04016038
+VI - 142
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0001510 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001510
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001510
+SO - Journal of Structural Engineering 2016-07-01 142(7): 04016038
+AB - This work presents the results of an experimental investigation on the behavior of 21 solid clay brick columns internally strengthened by stainless steel grids placed in the horizontal joints of mortar. This reinforcing technique can be applied as a constructive technique for new construction or as a retrofitting technique for existing structures (old structures to be reconstructed by original constructive method and internal reinforcement). Monotonic compressive loading tests were carried out under concentric and eccentric load. The effects of different numbers of steel grids and eccentricity of the external load were examined. Also, a detailed characterization of the constituent materials was made experimentally. The compression tests show the effectiveness of the proposed strengthening technique, which proves to be able to produce the increases in strength and energy required to collapse brick columns under both concentric and eccentric loads. To provide an analysis method for practical applications, an analytical expression is proposed that gives the strength value of confined brick columns by considering that the biaxial strength domain of the bricks is modified due to the tensile contribution offered by the presence of steel grids. Moreover, moment-axial force domains, derived using the plane cross section theory, are calibrated on the basis of the compressive strength values experimentally detected.
+
+
+    
+        AU - Mohammadreza Moharrami
+    
+        AU - Ioannis Koutromanos
+    
+
+TI - Triaxial Constitutive Model for Concrete under Cyclic Loading
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04016039
+VI - 142
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0001491 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001491
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001491
+SO - Journal of Structural Engineering 2016-07-01 142(7): 04016039
+AB - This paper presents a material model for the analysis of concrete under multiaxial, cyclic loading conditions. An elastoplastic formulation, having a nonassociative flow rule to capture compression-dominated behavior, is combined with a rotating smeared-crack model to capture the tension-dominated behavior. The proposed formulation resolves the issues that exist in many available concrete material models related to properly capturing the crack opening and closing behavior and accounting for the effect of confinement on the strength and ductility under compression-dominated stress states. The accuracy of the model is validated through analyses for reinforced concrete components. A parametric study demonstrates the importance of accounting for the increase in ductility due to the confinement effect. Additional analyses elucidate the impact of using different yield surfaces for the elastoplastic model on the simulation results.
+
+
+    
+        AU - Cheng Yu
+    
+        AU - Mohamad Yousof
+    
+        AU - Mahsa Mahdavian
+    
+        AU - Wenying Zhang
+    
+
+TI - Behavior and Design of Thin-Walled Cold-Formed Steel Clip Angles Subjected to Shear Load
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04016040
+VI - 142
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0001493 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001493
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001493
+SO - Journal of Structural Engineering 2016-07-01 142(7): 04016040
+AB - Thin-walled cold-formed steel (CFS) clip angles are commonly used to connect CFS framing members or attach CFS members to the main building structure. The design provisions for CFS clip angle connectors have not been included in the AISI design specifications and standards. This paper presents a research project aimed at developing a design method for the thin-walled cold-formed steel load bearing clip angles subjected to shear forces. An extensive test program was conducted to investigate the behavior and shear capacity of clip angles with various dimensions and thicknesses. It was found that the local buckling and the distortional buckling could dominate the failure mechanism dependent on the plate slenderness ratio. Based on the test results, two design methods were developed for determining the nominal shear strength of load bearing clip angles with and without consideration of the clip deformation, respectively. The ASD safety factors and the LRFD resistance factor were also produced to support the proposed design provisions.
+
+
+    
+        AU - Boyan I. Mihaylov
+    
+        AU - Pia Hannewald
+    
+        AU - Katrin Beyer
+    
+
+TI - Three-Parameter Kinematic Theory for Shear-Dominated Reinforced Concrete Walls
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04016041
+VI - 142
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0001489 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001489
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001489
+SO - Journal of Structural Engineering 2016-07-01 142(7): 04016041
+AB - This paper is aimed at addressing the need for physically accurate and computationally effective models for predicting the response of shear-dominated reinforced concrete walls. The presented theory is based on a three-degree-of-freedom kinematic model for the deformation patterns in walls with aspect ratios smaller than approximately 3. In the kinematic model, the wall is divided into two parts—a rigid block and a fan of struts—by a diagonal crack. The mechanisms of shear resistance across this crack are modeled with nonlinear springs to capture the prepeak and postpeak shear behavior of the member. The base section of the wall is also modeled to account for yielding of the reinforcement and crushing of the concrete. It is shown that this approach captures well the global and local deformations measured in a test specimen with detailed instrumentation. A more comprehensive validation of the theory is performed with 34 wall tests from the literature. The obtained peak load experimental-to-predicted ratios have an average of 1.03 with a coefficient of variation of 11.6%, while these values for the drift capacity are 0.99 and 16.4%.
+
+
+    
+        AU - Joseph A. Diekfuss
+    
+        AU - Christopher M. Foley
+    
+
+TI - Modeling Error Uncertainty Characterization for Reliability-Based Fatigue Assessment in Sign Support Structures
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04016042
+VI - 142
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0001283 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001283
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001283
+SO - Journal of Structural Engineering 2016-07-01 142(7): 04016042
+AB - Sign and luminaire support structures are prevalent throughout the transportation infrastructure network. Collapse and inspection of these signs pose hazards to the motoring public and the inspection personnel charged with their maintenance. There is a need to develop inspection protocols and understand variability in their performance to ensure public safety and to rationally disperse limited fiscal and personnel resources. This paper outlines a methodology that enables simulated and easured time histories of wind speed and resulting bending stress to be used in establishing parameters defining lognormal statistical models for modeling error that can be included in reliability-based assessment of structures subject to the tendency toward fatigue-induced crack initiation. Rainflow cycle counting is used to generate expected stress ranges from simulated and measured bending stress signals. The ratio of simulated expected stress range to measured expected stress range is defined as the modeling error bias factor. Statistical analysis of this factor at various magnitudes of wind speed is then used to formulate lognormal modeling error parameters suitable for implementation into a reliability-based assessment of fatigue-induced crack initiation risk for sign support structures.
+
+
+    
+        AU - Joseph A. Diekfuss
+    
+        AU - Christopher M. Foley
+    
+
+TI - Detail Categories for Reliability-Based Fatigue Evaluation of Mast-Arm Sign Support Structures
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04016044
+VI - 142
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0001498 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001498
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001498
+SO - Journal of Structural Engineering 2016-07-01 142(7): 04016044
+AB - Sign and luminaire support structures are prevalent throughout the transportation infrastructure network. Collapse and inspection of these pose hazards to the motoring public and the inspection personnel charged with their maintenance. There is a need to understand variability in their performance and to develop inspection protocols consistent with this expected performance to ensure public safety and to rationally disperse limited fiscal and personnel resources. Because mast-arm sign support structures are most often decommissioned when cracks are found, these protocols will focus on detecting crack initiation. Inspection protocols for assessing service life and the limit state of fatigue-induced crack initiation are most effectively developed using reliability-based procedures. The objective of this manuscript is to present two methods for synthesizing archival fatigue test data into a form suitable for implementation in reliability-based procedures for fatigue-induced crack initiation assessment of mast-arm sign support structures. The methods culminate in statistical parameters suitable for lognormal models of fatigue life for connection details. The two methods presented suggest that it is likely more appropriate to classify connection details according to stress concentration factors rather than visual appearance.
+
+
+    
+        AU - Christopher M. Foley
+    
+        AU - Joseph A. Diekfuss
+    
+
+TI - Reliability-Based Inspection Protocols for Mast-Arm Sign Support Structures
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04016043
+VI - 142
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0001497 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001497
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001497
+SO - Journal of Structural Engineering 2016-07-01 142(7): 04016043
+AB - There have been numerous examples of poor in-service performance of welded, tube-to-transverse plate connections within mast-arm sign support structures in the last several decades. A considerable amount of research has been devoted to identifying structural response characteristics of these sign support systems and identifying how these connections may be repaired, retrofitted, or designed to facilitate longer service lives. Little attention has been given to using a systematic reliability-based approach to assess the probability of fatigue-induced crack initiation for in-service structures. The present research effort focuses on quantifying sources of uncertainty and formulating a reliability-based approach for prescribing inspection intervals corresponding to user-specified levels of probability of fatigue-induced crack initiation. The results indicate that implementation of reliability-based assessment procedures can be used to assign inspection intervals based on this probability, and the engineering community can use the results to establish inspection intervals that better align inspection needs with limited fiscal and human resources.
+
+
+    
+        AU - Tomas Plesnik
+    
+        AU - Jeffrey Erochko
+    
+        AU - Ghasan Doudak
+    
+
+TI - Nailed Connection Behavior in Light-Frame Wood Shear Walls with an Intermediate Layer of Insulation
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04016045
+VI - 142
+IP - 7
+AID - 10.1061/(ASCE)ST.1943-541X.0001506 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001506
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001506
+SO - Journal of Structural Engineering 2016-07-01 142(7): 04016045
+AB - The shear strength and stiffness of light-frame wood shear walls is highly dependent on the behavior of their individual nailed connections. Eighty-four nailed connection specimens were tested under shear loading to determine the effect of including rigid insulation as an intermediate material between the sheathing and framing elements in a light-frame wood shear wall. Each specimen contained common 10d or 16d nails, 15.9&nbsp;mm oriented strandboard sheathing, spruce-pine-fir lumber, and rigid insulation in varied thicknesses between 0 and 38.1&nbsp;mm. From the load-deformation results, maximum load, yield load, and stiffness were assessed using curve-fitting and yield-point determination methods. The results indicate that, as the insulation thickness increases, the connection strength and stiffness both exhibit a steep reduction. In addition, nonlinear two-dimensional (2D) finite-element models of the same nailed connections were developed. These models showed good correlation with experimental data and served to confirm that the decline in strength and stiffness observed in the tests is due to the introduction of the insulation.
+
+

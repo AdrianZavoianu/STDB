@@ -1,0 +1,343 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Y. Singh
+    
+        AU - A. K. Nagpal
+    
+
+TI - Negative Shear Lag in Framed‐Tube Buildings
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 3105-3121
+VI - 120
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1994)120:11(3105) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283105%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283105%29
+SO - Journal of Structural Engineering 1994-11-01 120(11): 3105-3121
+AB - Occurrence of negative shear lag in framed‐tube buildings under lateral loading is reported in the literature, but explanation of its origin and comprehensive studies of it are lacking. The present paper separates column axial‐force distribution in a story into two modes; one contributing to the positive shear lag and the other to the negative shear lag. The net shear lag, positive or negative, is the resultant of the axial‐force distributions in these modes. Further, an analogy between shear‐lag behavior of a uniform box girder and uniform framed‐tube building is established by interpreting structural parameters occurring in the closed‐form solution of a box girder in terms of those of the framed‐tube building. Adequacy of the proposed analogy is demonstrated. Structural parameters governing the shear‐lag behavior are identified, and their effect and of different loading types is studied.
+
+
+    
+        AU - Archibald N. Sherbourne
+    
+        AU - Mohammed R. Bahaari
+    
+
+TI - 3D Simulation of End‐Plate Bolted Connections
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 3122-3136
+VI - 120
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1994)120:11(3122) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283122%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283122%29
+SO - Journal of Structural Engineering 1994-11-01 120(11): 3122-3136
+AB - A methodology based on finite‐element modeling is developed to analytically evaluate the moment‐rotation relationships for steel bolted end‐plate connections. ANSYS, version 4.4, a large‐scale general‐purpose finite‐element code is selected for equivalent three dimensional (3D) analysis. The end plate, beam and column flanges, webs, and column stiffeners are represented as plate elements. Each bolt shank is modeled using six spar elements. Three‐dimensional interface elements are used to model the boundary between column flange and back of the end plate that may make or break contact. Besides the overall behavior of the connection, the contribution of bolts, end‐plate and column flange flexibility to the behavior is singled out. The distribution and variation of prying forces is shown graphically. The methodology is demonstrated for an extended end‐plate connection, and the results are compared against experimental data to verify the feasibility of the modeling and associated computer analyses.
+
+
+    
+        AU - Hamid Reza Ronagh
+    
+        AU - Mark Andrew Bradford
+    
+
+TI - Parameters Affecting Distortional Buckling of Tapered Steel Members
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 3137-3155
+VI - 120
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1994)120:11(3137) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283137%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283137%29
+SO - Journal of Structural Engineering 1994-11-01 120(11): 3137-3155
+AB - A finite‐element method of analysis for the elastic distortional buckling of doubly symmetric tapered I‐section beam‐columns has been modified to consider the effects of off‐shear center loading and discrete elastic restraints applied anywhere in the cross section or along the length of the beam‐column. The accuracy of the finite‐element method is demonstrated for prismatic members by a comparison with closed‐form solutions, or numerical solutions for which no closed‐form solution exists. Discrepancies in some other well‐cited formulations are discussed with reference to this model. The method is then used to investigate the significance of distortion in the buckling of I‐section plate girders typical of those comprising fabricated industrial roofs, considering the restraining effects of the purlins and the loading being remote from the shear center.
+
+
+    
+        AU - Ali S. Al‐Harthy
+    
+        AU - Dan M. Frangopol
+    
+
+TI - Reliability‐Based Design of Prestressed Concrete Beams
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 3156-3177
+VI - 120
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1994)120:11(3156) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283156%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283156%29
+SO - Journal of Structural Engineering 1994-11-01 120(11): 3156-3177
+AB - A reliability‐based procedure for the design of prestressed concrete (PC) beams is presented. Loading, material properties, prrestressing force levels, as well as the models used to predict structural behavior at initial, final, and ultimate stages are all treated as random variables. System reliability methods are used to compute the probabilities of unsatisfactory performance of PC beams at initial and final stages. The design of PC beams is solved by integrating second‐moment reliability methods for components and systems with an automated design optimization package using the feasible directions method. A number of reliability‐based design examples of PC beams commonly used in the United States construction industry for offices and retail buildings are presented to illustrate the proposed approach. Additionally, design charts are provided to make easier the implementation of the proposed approach.
+
+
+    
+        AU - J. I. Restrepo‐Posada
+    
+        AU - L. L. Dodd
+    
+        AU - R. Park
+    
+        AU - N. Cooke
+    
+
+TI - Variables Affecting Cyclic Behavior of Reinforcing Steel
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 3178-3196
+VI - 120
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1994)120:11(3178) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283178%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283178%29
+SO - Journal of Structural Engineering 1994-11-01 120(11): 3178-3196
+AB - A reasonable understanding of the cyclic behavior of reinforcing steel is required to accurately estimate the performance of reinforced concrete members subjected to cyclic deformations beyond the elastic range such as those expected from large earthquakes. Although the cyclic behavior of reinforcing steel has been extensively studied, very little is known about the effects that factors such as the bar deformations, strain rate, and strain aging have on the cyclic behavior. The effects of strain aging on the cyclic behavior of reinforcing steel can be very relevant when considering postearthquake retrofitting of reinforced concrete structures. A series of cyclic uniaxial tests were conducted at the University of Canterbury on the two commercially available grades of New Zealand reinforcing steel, where the effects of cyclic loading, bar deformations, strain rate, and strain aging on the stress‐strain behavior of reinforcing steel were investigated. The emphasis of the tests was to observe the material behavior, and hence buckling was restricted. The present paper describes the test setup and discusses the results of the investigation.
+
+
+    
+        AU - John Matteo
+    
+        AU - George Deodatis
+    
+        AU - David P. Billington
+    
+
+TI - Safety Analysis of Suspension‐Bridge Cables: Williamsburg Bridge
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 3197-3211
+VI - 120
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1994)120:11(3197) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283197%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283197%29
+SO - Journal of Structural Engineering 1994-11-01 120(11): 3197-3211
+AB - The Williamsburg Bridge crossing New York City's East River has been attacked both by engineering critics who consider it a clumsily oversized design and by the harsh salt‐air environment around the island of Manhattan, which has infiltrated and corroded its steel main suspension cables. At one point in 1988, the bridge was judged to be irreparably damaged by corrosion and in need of full replacement. This paper presents a methodology to estimate the current safety factor of the main suspension cable, based on wire samples extracted from the cable and tested in a laboratory for tensile strength and elongation. The methodology estimates the cable safety factor using the ductile wire and the ductile‐brittle wire models, following two different approaches within each one model: a Monte Carlo simulation approach and an extreme‐value‐distribution approach. It is concluded that the ductile wire model in conjunction with the extreme‐value‐distribution method provide the best estimate for the cable safety factor with the least computational effort. This estimate for the safety factor is in the range 4.19–4.23.
+
+
+    
+        AU - J. Dario Aristizabal‐Ochoa
+    
+
+TI - Stability of Columns under Uniform Axial Load with Semirigid Connections
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 3212-3222
+VI - 120
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1994)120:11(3212) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283212%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283212%29
+SO - Journal of Structural Engineering 1994-11-01 120(11): 3212-3222
+AB - Two simple formulas are presented that evaluate the stability K‐factor of columns with semirigid connections and with side sway uninhibited or partially inhibited including the effects of a uniformly distributed axial load q in addition to a concentrated end load P. The proposed formulas can also be applied to frame stability (unbraced and partially braced) with rigid, semirigid, and simple connections.  The proposed formulas are more general and simpler to apply than the well‐known  alignment chart. A verification study indicates that their results are within 1.4% of the theoretical values. The effects of a uniformly distributed compressive axial load q on the overall stability of a column become significant when qh/P&gt;0.1 and when q is negative, i.e., q becomes a tensile force. Also, when the end fixities are approaching those of construction type 1 (rigid), the effects of q become more significant than in the case of construction type 3 (semirigid). Examples of steel frames using load and resistance factor design are included that demonstrate their use.
+
+
+    
+        AU - Robert E. Abendroth
+    
+
+TI - Deformations in Composite Prestressed Concrete Bridge Deck Panels
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 3223-3242
+VI - 120
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1994)120:11(3223) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283223%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283223%29
+SO - Journal of Structural Engineering 1994-11-01 120(11): 3223-3242
+AB - Prestressed concrete (PC) panels have been periodically used as permanent  formwork in bridge deck construction for over 35 years. To investigate the behavior of this composite slab system at locations adjacent to abutment and pier diaphragms in skewed bridges, five full‐scale composite slab specimens were constructed  and tested. Slab performance was evaluated by investigating the initial strand transfer length, monitoring the prestressing strands for slippage at the ends of the PC panels, detecting degradation of the composite behavior between PC panels and a reinforced concrete topping slab within and at the end of a span, and establishing the distribution of the bending strains along the specimen lengths. The experimental results revealed that the initial strand transfer length for bare (uncoated),  9.52‐mm (,3/8‐in.) diameter, seven‐wire, low‐relaxation prestressing strands was about 724 mm (28.5 in.) and that slippage of the prestressing strands and degradation of full‐composite behavior did not occur during the service or factored level load tests. Each composite slab specimen had a substantial amount of reserve strength remaining after initial strand slippage and initial breakdown of full‐composite  behavior were detected. The measured PC panel compressive strains, induced  during prestressing, and the monitored slab bending strains, caused by wheel footprint loads, compared well with the result predicted by simplified finite‐element analyses of the specimens.
+
+
+    
+        AU - M. R. Banan
+    
+        AU - M. R. Banan
+    
+        AU - K. D. Hjelmstad
+    
+
+TI - Parameter Estimation of Structures from Static Response. I. Computational Aspects
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 3243-3258
+VI - 120
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1994)120:11(3243) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283243%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283243%29
+SO - Journal of Structural Engineering 1994-11-01 120(11): 3243-3258
+AB - Two algorithms are proposed for estimating member constitutive properties of a finite‐element model with known geometry and topology from measured displacements under a known static loading. The proposed algorithms are based on the concept of minimizing an index of discrepancy between the model and the measurements, the first using the error in nodal forces and the second using the error in displacements at the measurement sites. The problem is set up as a constrained least‐squares minimization and is solved with the recursive quadratic  programming method. Both estimators are capable of making estimates with spatially incomplete measurements, and both are amenable to the modeling of complex structures.
+
+
+    
+        AU - M. R. Banan
+    
+        AU - M. R. Banan
+    
+        AU - K. D. Hjelmstad
+    
+
+TI - Parameter Estimation of Structures from Static Response. II: Numerical Simulation Studies
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 3259-3283
+VI - 120
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1994)120:11(3259) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283259%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283259%29
+SO - Journal of Structural Engineering 1994-11-01 120(11): 3259-3283
+AB - The behavior is studied of a force‐error estimator and a displacement‐error estimator using Monte Carlo simulation and a bowstring truss as the model problem. The most important factors governing the performance of any parameter‐estimation algorithm are the quality and quantity of measured data. To assess the performance of the force‐error estimator and the displacement‐error estimator, we examine their behavior with respect to the amount of noise in the measurements, the spatial distribution of measurements, the number of spatial measurements, the number of load cases, and the character of load cases (specifically, loading patterns). In addition to the extensive study of the effects of the physical character of the data and the experiment, we examine the effects of different starting values of the unknown parameters used to initiate the iteration.
+
+
+    
+        AU - A. Azizinamini
+    
+        AU - T. E. Boothby
+    
+        AU - Y. Shekar
+    
+        AU - G. Barnhill
+    
+
+TI - Old Concrete Slab Bridges. I: Experimental Investigation
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 3284-3304
+VI - 120
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1994)120:11(3284) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283284%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283284%29
+SO - Journal of Structural Engineering 1994-11-01 120(11): 3284-3304
+AB - Old reinforced concrete slab bridges designed for smaller truck loads are called on to carry the modern, heavier, loads. These bridges, when rated according to the current American Association of State Highway and Transportation Officials procedures, are found to be structurally deficient. The present paper reports the experimental part of the investigation carried out to understand the behavior of this category of bridges, both at service and ultimate load levels in order to rate them more realistically. A five‐span reinforced concrete slab bridge, built in 1938 and decommissioned since 1972, was tested destructively. The destructive test was performed by applying loads that simulated the presence of two trucks side‐by‐side on the bridge. Also, six three‐span reinforced concrete slab bridges were subjected to service load tests. Two dump trucks, each weighing approximately 222.5 kN, were used to carry out the service load tests. Experimental results indicate that reinforced concrete slab bridges possess much higher strength than that indicated by current rating procedures.
+
+
+    
+        AU - A. Azizinamini
+    
+        AU - Y. Shekar
+    
+        AU - T. E. Boothby
+    
+        AU - G. Barnhill
+    
+
+TI - Old Concrete Slab Bridges. II: Analysis
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 3305-3319
+VI - 120
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1994)120:11(3305) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283305%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283305%29
+SO - Journal of Structural Engineering 1994-11-01 120(11): 3305-3319
+AB - Old reinforced concrete slab bridges designed for smaller truck loads are called on to carry modern, heavier loads. These bridges, when rated according to current American Association of State Highway and Transportation Officials procedures are found to be structurally deficient. Therefore, it is important to rate these bridges more realistically. The experimental part of the investigation to understand the behavior of slab bridges is given in a companion paper. The present paper provides the analysis of the experimental data. The reasons for the conservatism of the current rating procedures observed during the experimental investigation stemmed from the facts that the actual material properties were much higher than the assumed design values, and the curbs participated to a considerable extent in carrying the applied loads. Also, a simple three‐dimensional finite‐element model to analyze these bridges under service loads is presented.
+
+
+    
+        AU - Paolo Bazzurro
+    
+        AU - C. Allin Cornell
+    
+
+TI - Seismic Hazard Analysis of Nonlinear Structures. I: Methodology
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 3320-3344
+VI - 120
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1994)120:11(3320) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283320%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283320%29
+SO - Journal of Structural Engineering 1994-11-01 120(11): 3320-3344
+AB - Conventional seismic hazard analysis methodology is generalized to estimate directly the annual seismic risk of exceeding a specified level of postelastic damage in real structures. The procedure makes use of empirical statistics of the nonlinear‐response‐based factor FDM that is a measure of the damage potential of ground motions to multi‐degree‐of‐freedom structures. Using a two‐dimensional model of a jacket‐type offshore platform and a large sample of observed time histories, it is confirmed that (as for single DOF systems): (1) There is no significant dependence of the average of FDM on magnitude and distance; and (2) its coefficient of variation is relatively small. These two facts make the method practical. They were confirmed for both local (member‐level) damage measures and global collapse, for variations in structure and foundation modeling, and for various durations. A companion paper presents applications to two large three‐dimensional, multi‐degree‐of‐freedom, nonlinear models of actual structures.
+
+
+    
+        AU - Paolo Bazzurro
+    
+        AU - C. Allin Cornell
+    
+
+TI - Seismic Hazard Analysis of Nonlinear Structures. II: Applications
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 3345-3365
+VI - 120
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1994)120:11(3345) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283345%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283345%29
+SO - Journal of Structural Engineering 1994-11-01 120(11): 3345-3365
+AB - In a companion paper, a methodology for the direct computation of the annual seismic risk of postelastic damage in realistic, nonlinear, multi‐degree‐of‐freedom structures was developed. This methodology makes use of the (random) response factor FDM to characterize the damage potential of future ground motions coupled with conventional spectral‐acceleration probabilistic seismic hazard analysis. The present paper provides the detailed procedure for the empirical estimation of the (mean) nonlinear response factor E[FDM] for real, complex structures. Seismic hazard curves of several types and multiple levels of postelastic damage for these two structures are also displayed. The two illustrations (large 3D steel‐jacket offshore linearities: steel and soil material non‐linearity, and softening geometric nonlinearity, both locally (buckling diagonal braces) and globally (the P‐Δ effect). The application is made practical by the relatively few nonlinear dynamic analyses necessary. Improved software and computational efficiency has brought such analyses within the same general accessibility and cost range as linear dynamic analyses.
+
+
+    
+        AU - S. T. Mau
+    
+        AU - V. Aruna
+    
+
+TI - Story‐Drift, Shear, and OTM Estimation from Building Seismic Records
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 3366-3385
+VI - 120
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1994)120:11(3366) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283366%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283366%29
+SO - Journal of Structural Engineering 1994-11-01 120(11): 3366-3385
+AB - A method of determining story drift, shear, and overturning moment (OTM) from building seismic records is presented. A system‐identification technique  based on modal synthesis is used first to obtain parameters of dominant modes in the building response. Mode shapes are then constructed for the determination  of story drift, shear, and overturning moment. The method is a refinement over an evolving procedure used by engineers and researchers in analyzing recent building seismic records. There are two new features in this method: (1) Mode shape determination based on shear and flexural modes and orthogonality conditions;  and (2) story shear and overturning‐moment estimation based on displacement  modal responses. Verification and error assessment are conducted using data generated from a model building over a wide range of parameters. It is found that story shear and overturning moment may be estimated accurately while certain error is associated with story‐drift estimates. Results of the error assessment may be used as guidelines for the selection of floor locations for the deployment of accelerometers. The method is also demonstrated over the actual seismic record of two buildings.
+
+
+    
+        AU - C. C. Fu
+    
+        AU - Yao T. Hsu
+    
+
+TI - Bridge Diaphragm Elements with Partial Warping Restraint
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 3388-3395
+VI - 120
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1994)120:11(3388) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283388%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A11%283388%29
+SO - Journal of Structural Engineering 1994-11-01 120(11): 3388-3395
+
+

@@ -1,0 +1,542 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Elwyn H. King
+    
+
+TI - Electronic Computation: Past, Present, Potential
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 3-24
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001558 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001558
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001558
+SO - Journal of the Structural Division 1966-12-01 92(6): 3-24
+AB - A short history of electronic computation is given, with particular attention paid to the ASCE Structural Division's three previous Conferences on Electronic Computation. The extent and type of usage now (1966) prevalent are examined in detail. It is shown that the great majority of the larger design firms now use computers, that the procedural languages are universally used, and that many firms limit activity to purchasing results of service bureau programs. A list of the most widely used programs is given. Specific examples of practice by various firms are provided. These include staff size design programs, use of hardcopy in contract plans, optimization, and effect on personnel requirements of growing firms. There is an examination of problem-oriented languages and optimization routines. The potential of the near future also is examined, with emphasis on the changes brought about by reliable long distance data transmission and multiprogramming facilities. The use of graphic display and the economy, availability, and usefulness of time-sharing for all sizes of firms is investigated.
+
+
+    
+        AU - George G. Goble
+    
+        AU - Philip V. DeSantis
+    
+
+TI - Optimum Design of Mixed Steel Composite Girders
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 25-43
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001554 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001554
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001554
+SO - Journal of the Structural Division 1966-12-01 92(6): 25-43
+AB - Steels having a variety of yield points are now available to the construction industry, allowing the designer to choose strength as well as size to meet design requirements. This work is concerned with the use of a variety of steel strengths in continuous, welded, composite plate girder bridges to produce minimum cost structures. The solution which is reported obtains the optimum design of a girder subject to the standard specifications of the American Association of State Highway Officials. Span lengths, material properties, concrete deck dimensions, and cost information on steel types and on splicing operations must be given. The capability selects the optimum combination of web height, flange width, plate thicknesses, and the arrangement of steel types for a continuous girder of constant depth. An iterative scheme is used between the material and splice location selection and the determination of the best web depth and flange width. Results are given for example problems considering seven available steels for the design of a composite plate girder.
+
+
+    
+        AU - G. Neil Harper
+    
+
+TI - Autospec: Automated Preparation of Specifications
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 45-53
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001565 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001565
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001565
+SO - Journal of the Structural Division 1966-12-01 92(6): 45-53
+AB - A problem of almost daily concern and expense in many engineering offices is that of preparing specifications to accompany the design drawings. The AUTOSPEC system is presented to furnish a much closer control to the engineer than is offered by standard specifications, but at a small fraction of the cost of a custom-written document. The engineer works with a guide specification and makes selections, omissions, additions, and corrections to custom-fit his particular job. The computer then assembles these modifications, and cuts stencils on a high speed printer. As all stencils for the complete job can be cut automatically in a matter of minutes, this final operation can be delayed until the design is virtually complete, thus eliminating errors and changes associated with simultaneous preparation of drawings and specifications. Perhaps even more important, the specification writer's time can now be devoted to researching new materials and better construction techniques, rather than to repetitive editorial work.
+
+
+    
+        AU - Fazlur R. Khan
+    
+        AU - Srinivasa H. Iyengar
+    
+        AU - Joseph P. Colaco
+    
+
+TI - Computer Design of 100-Story John Hancock Center
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 55-73
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001570 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001570
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001570
+SO - Journal of the Structural Division 1966-12-01 92(6): 55-73
+AB - The 100-story John Hancock Center in Chicago, Ill., with a total of about 2,800,000 sq ft of floor area had to be completely designed within one year. Because of the unique structural system and the tapered shape of the building, a large volume of analysis and design work was anticipated. Therefore, because of the extremely short schedule, a detailed program of coordinated usage of large and small computers was developed. Although the writers' firm had a small computer (IBM 1620) at that time, it was immediately recognized that the complexity of the structure would require special use of large computers. The various phases of small-to-large computer coordination that led to the successful completion of the design of this unusual and complicated structure, are described in detail.
+
+
+    
+        AU - Richard E. Taylor
+    
+
+TI - Computers and the Design of the World Trade Center
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 75-91
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001571 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001571
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001571
+SO - Journal of the Structural Division 1966-12-01 92(6): 75-91
+AB - The problems encountered in the design of the structure of The World Trade Center buildings are examined and the solution of some of these problems are found in the application of computer techniques. The reasons for selecting an in-house computer instead of relying on the services of a service bureau are outlined. The computer selected is described and an outline of the computer department procedures is given. Programming techniques as they affect the interaction of several programs or systems such as a subroutine data management system are examined. Documentation of programs and record keeping is outlined. Three applications to design are covered in detail.
+
+
+    
+        AU - Albert M. Lount
+    
+        AU - W. F. Smyth
+    
+
+TI - Computer Analysis of Underground Frames
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 93-116
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001572 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001572
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001572
+SO - Journal of the Structural Division 1966-12-01 92(6): 93-116
+AB - A special purpose computer program developed for the design of plane concrete frames as are commonly encountered in underground structures such as subways is described. A number of special features enable it to cope readily with problems associated with such structures. Developed for design on sections of the Toronto subway it was later expanded and modified for use on the San Francisco subway, and now represents a general tool for the mass production of elements of such structures. The program is an analysis and design program which determines the minimum member sizes to satisfy given stress restraints should the initial selection be over-stressed. No attempt is made to optimize, though the program is designed to permit simple data modifications by the user in search for such optimums.
+
+
+    
+        AU - Winfield O. Salter
+    
+
+TI - Two Computer Approaches to Subway Design
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 117-139
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001546 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001546
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001546
+SO - Journal of the Structural Division 1966-12-01 92(6): 117-139
+AB - In the design of subway structures for the San Francisco Bay Area Rapid Transit System, two different approaches to computer usage have been followed. STRESS, and a new program FRAME, developed by the San Francisco project, were both used. The circumstances leading to the development of FRAME and the features and capabilities of both programs in use in the design of subway structures are outlined for use in judging the comparative merits and appropriateness of a problem-oriented computer language system and a special purpose computer program.
+
+
+    
+        AU - Gerald M. Sturman
+    
+        AU - Leland C. Albertson
+    
+        AU - C. Allin Cornell
+    
+        AU - Jose M. Roesset
+    
+
+TI - Computer-Aided Bridge Design
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 141-165
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001547 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001547
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001547
+SO - Journal of the Structural Division 1966-12-01 92(6): 141-165
+AB - A computer system to aid highway bridge designers is described. The system integrates data manipulation, analysis, and partly-to-fully automated design routines for short-span bridges. The system is characterized by the flexibility it allows the engineer in specifying the parameters associated with design. Depending on the amount and type of input specified, the design process ranges from completely automatic design for the structure that has been completely specified. All design processes are requested by the designer using simple commands written in a language normally used by the engineer. Present capabilities include highway geometry definition, design and analysis of concrete decks, and the design and analysis of simple and continuous steel, plate girder, or rolled section (with or without cover plates) composite or noncomposite bridges.
+
+
+    
+        AU - Edward L. Murphee
+    
+        AU - John W. Melin
+    
+        AU - Steven J. Fenves
+    
+
+TI - Environment for Problem-Oriented Languages
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 167-178
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001548 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001548
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001548
+SO - Journal of the Structural Division 1966-12-01 92(6): 167-178
+AB - Current interest and activity in linking the engineer and the computer into an effective design team are considerable. The necessity that the engineer have close, personal contact with the computer has led to the development of problem-oriented languages (POLs) such as COGO and STRESS. These languages let the engineer describe his problem in a vocabulary he would use to describe it to a professional colleague. Despite the advantages of the languages themselves, the processors for these languages leave much to be desired. The languages cannot be easily modified, and new processors for different machines must be written by hand. Both disadvantages can be eliminated if a POL is defined in its entirety before programming of the processor begins, and the processor is programmed in a procedural, essentially machine-independent, language. The paper describes a system for the POLs of the COGO and STRESS type. The emphasis is on providing a system for the development and modification of POLs by users themselves, to be applicable to whatever computers are available.
+
+
+    
+        AU - John W. Melin
+    
+
+TI - Post: Problem-Oriented Subroutine Translator
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 179-190
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001549 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001549
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001549
+SO - Journal of the Structural Division 1966-12-01 92(6): 179-190
+AB - A language called POST (Problem Oriented Subroutine Translator) has been developed and is presented herein. The use of POST simplifies the programming of the subroutines necessary to accomplish the commands of the problem-oriented system. This language is similar to FORTRAN but features implied matrix operations, automatic storage allocation, and indirect addressing. With POST, civil engineers with some programming experience, i.e., knowledge of FORTRAN, should be able to develop quickly and easily the subroutines necessary for their own problem-oriented system, or for the extension or modification of existing systems. The use of POST is illustrated with an example program.
+
+
+    
+        AU - Robert D. Logcher
+    
+        AU - Gerald M. Struman
+    
+
+TI - STRUDL—A Computer System for Structural Design
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 191-211
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001550 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001550
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001550
+SO - Journal of the Structural Division 1966-12-01 92(6): 191-211
+AB - STRUDL (STRUctural Design Language) is a computer system for application to the structural design process. The system is designed to relieve the engineer of tedious clerical and computational tasks and to permit the more rapid implementation of engineering decisions. Some of the analytic and clerical user capabilities in the initial version of STRUDL are described. The system capabilities include data manipulation, a wide range of analysis and design operations, accounting procedures, and process control functions. In addition, some of the system requirements for implementing decisions are outlined, including data structuring with dynamic memory allocation, a data dictionary, and a command interpreter. On-line interaction through time-sharing is evaluated in terms of the need for sensitive control over interaction. The capabilities described represent the first stage of a dynamically developing system, oriented towards generating design information.
+
+
+    
+        AU - Kenneth F. Reinschmidt
+    
+
+TI - DATALINK: A Structural Laboratory On-Line Language
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 213-221
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001551 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001551
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001551
+SO - Journal of the Structural Division 1966-12-01 92(6): 213-221
+AB - The M.I.T. DATALINK system is a complete computerized system for structural laboratory measurements. The system acquires the data, stores them, reduces them, and outputs them. It consists of special-purpose data acquisition hardware plus a general-purpose digital computer. The software provides a problem-oriented command structure in which the experimenter can express his instructions to the system without being restricted by a fixed data format. It was designed to be used by students and experienced experimenters with no background in computer programming. The user's on-line command in the English-like language is compiled into a compact internal code. The system executive interprets this code and calls into core from disk the appropriate subroutine to perform such functions as allocating files, assembling lists, setting up macros, printing, punching, calibrating transducers, reading and reducing data, computing principal strains and stresses, and any other desired computations. All computations and output are completed in real-time, that is, while the experiment is still in progress.
+
+
+    
+        AU - Moshe F. Rubinstein
+    
+        AU - John Karagozian
+    
+
+TI - Building Design Using Linear Programming
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 223-245
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001552 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001552
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001552
+SO - Journal of the Structural Division 1966-12-01 92(6): 223-245
+AB - An approach for the preliminary minimum weight design of tall framed steel buildings is presented. The design criteria are safety against collapse and a limitation on lateral deflections under service loads in the elastic range. The method of linear programming is used to generate the solution to the preliminary design. Plastic hinge theory is used to generate the equations of constraint on the moment carrying capacity of the members. The equations of constraint are compatible with the design criteria. To simplify the solution effort in the preliminary design, a building model is used in which the design requires that plastic hinges form only in the beams. This reduces substantially the number of collapse mechanisms which must be considered. A simple linear equation of constraint on the deflection under service loads is developed by separating the contributions of the columns and beams to the flexibility of a frame, and establishing a conservative ratio between these contributions. The proposed approach is illustrated by a numerical example in which the preliminary design of a 26-story building is generated.
+
+
+    
+        AU - Louis A. Hill
+    
+
+TI - Automated Optimum Cost Building Design
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 247-263
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001553 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001553
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001553
+SO - Journal of the Structural Division 1966-12-01 92(6): 247-263
+AB - A computer program that automatically designs and details an optimum-cost, one-way solid slab, reinforced concrete building is presented. Skip-loading, lateral loads (including consideration of torsional stiffness of the building frame), and live-load reductions are all considered. The program is completely automatic, and no preliminary member sizing or dead-load estimates are required. Special attention is paid to simplicity and minimization of input data. Output is selective and in a readily understood format. Problem formulation is presented in relation to the basic considerations of synthesis i.e., requirements, technology, and criterion. Attention is paid to important aspects of decentralization of, and iteration through, various parts of the program such as gravity frame, lateral-load frame, detailing, costing, etc. All analysis and design is in accordance with the Uniform Building Code and the ACI Building Code. Detailing is in accordance with the Manual of Standard Practice for Detailing Reinforced Concrete Structures. The inherent advantages include moderate cost, practical flexibility, improved design, complete details, reduced errors, and readily checked output.
+
+
+    
+        AU - Thomas P. Kicher
+    
+
+TI - Optimum Design—Minimum Weight Versus Fully Stressed
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 265-279
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001555 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001555
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001555
+SO - Journal of the Structural Division 1966-12-01 92(6): 265-279
+AB - The substitute problem of fully stressed design or simultaneous failure modes design is often solved in place of the minimum weight design. A method is presented which can be used to determine the validity of the substitute problem of fully stressed or simultaneous failure modes design. The equivalence of these two solutions can be demonstrated for a large class of discrete and continuous structures subjected to a single load condition. This equivalence can also be extended to a stress limited determinate truss subjected to several independent mechanical loads. However, it can also be shown that the simultaneous failure modes is not necessarily the minimum weight design for waffle plates subjected to a multiplicity of biaxial loads.
+
+
+    
+        AU - Kenneth F. Reinschmidt
+    
+        AU - C. Allin Cornell
+    
+        AU - John F. Brotchie
+    
+
+TI - Iterative Design and Structural Optimization
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 281-318
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001556 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001556
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001556
+SO - Journal of the Structural Division 1966-12-01 92(6): 281-318
+AB - Methods of automatic design of structures are viewed, proposed, and evaluated by a numerical example. Sensitivity coefficients are introduced to help predict the consequences of design changes. Simultaneous linear equations are used to suggest new designs. Linear programming is introduced to generate optimum designs. Non-fully stressed designs and non-convex design spaces are examined. The effect of the choice of the design variables is demonstrated. A number of illustrative examples are included.
+
+
+    
+        AU - Daniel M. Brown
+    
+        AU - Alfredo H.-S. Ang
+    
+
+TI - Structural Optimization by Nonlinear Programming
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 319-340
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001557 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001557
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001557
+SO - Journal of the Structural Division 1966-12-01 92(6): 319-340
+AB - Optimum structural design is formulated as a problem in nonlinear mathematical programming, i.e., a problem of selecting n design variables subject to m &gt; n constraints such that an objective function is minimized. The design variables correspond to the geometrical or mechanical properties of the structural system, the constraints correspond to safety requirements such as limitations on stresses and deflections, and the objective function corresponds to weight or cost. The gradient projection method of nonlinear programming is described and an algorithm is presented for high-speed computation. Examples are presented in which the method is used to obtain least-weight designs of typical indeterminate rigid frames made of standard steel wide flange shapes. The examples illustrate that the programming approach affords a sound mathematical basis on which to develop rational methods of structural design.
+
+
+    
+        AU - Robert A. Williamson
+    
+        AU - Herman F. Stevenson
+    
+        AU - Peter W. Van der Pas
+    
+
+TI - Computer Design of a Tower and Cable System
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 341-360
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001559 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001559
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001559
+SO - Journal of the Structural Division 1966-12-01 92(6): 341-360
+AB - Three computer programs were developed and used in the design of a large very-low-frequency (VLF) antenna system consisting of a network of cables supported on the tops of an array of thirteen tall guyed towers ranging in height from 996 ft to 1271 ft. One program provided guy data in support of a second program used for analysis of the towers. The third program determined tensions and displacements in the cables of the supported network and the reactions at each tower. All three were programmed in FORTRAN language. The first two were programmed for the IBM-7074 computer. The third, because of greater need for operator participation, was programmed for the IBM-1620. A physical description of the vacility is given, special features of each program are described and the technical basis is presented and illustrated with conceptual flow charts. Information is given relative to estimated running times and the scope of the applications of each program.
+
+
+    
+        AU - Charles F. Beck
+    
+        AU - Max Zar
+    
+
+TI - Computer Analysis of Tower Verified by Testing
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 361-384
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001560 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001560
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001560
+SO - Journal of the Structural Division 1966-12-01 92(6): 361-384
+AB - The application of the STAIR (STructural Analysis Interpretive Routine) Computer program to the analysis of transmission towers results in a more exact stress analysis than can be accomplished by manual methods. This is particularly true because of the highly indeterminate tower configurations and the multiplicity of loading conditions. An illustration of the application of the STAIR program to the analysis of a 500 kv single circuit tangent tower is presented. Input data preparation, the STAIR system, and the interpretation of the results are treated. A description of the full-scale test facilities, tower loading, testing arrangements and procedure are given. The measured deflections are compared with the computed deflections obtained from the analysis and the discrepancies are resolved. A full-scale tower test afforded one of those rare opportunities to compare the mathematical analysis of an idealized structure with the test results for the actual physical structure.
+
+
+    
+        AU - William Weaver
+    
+        AU - Mark F. Nelson
+    
+
+TI - Three-Dimensional Analysis of Tier Buildings
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 385-404
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001561 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001561
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001561
+SO - Journal of the Structural Division 1966-12-01 92(6): 385-404
+AB - Three-dimensional analysis of tier buildings using a digital computer is feasible and perhaps mandatory in some cases. It is no longer necessary to simplify the problem by resorting to the notion of analyzing the building as a system of parallel and perpendicular plane frames. Errors inherent in the two-dimensional approach may be significant, whereas the three-dimensional analysis contains no theoretical discrepancies. The analytical model of the structure is examined in detail, and individual member stiffnesses are enumerated. Pertinent geometric transformations for displacements, actions, and stiffnesses are also formulated. The stiffness method of solution is described, followed by a brief outline of the computer program. Results for an example 20-story building show that the effect of axial strains in columns is substantial, whereas the influence of torsional rigidities is small.
+
+
+    
+        AU - Joseph Antebi
+    
+        AU - Edwin C. Rossow
+    
+        AU - Indravadan K. Shah
+    
+        AU - Jayant M. Shah
+    
+
+TI - Computer Analysis of the F-111 Wing Assembly
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 405-424
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001562 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001562
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001562
+SO - Journal of the Structural Division 1966-12-01 92(6): 405-424
+AB - A new computer program, developed by modifying and extending an existing space-frame analysis program (STAIR) is described. This program, designated MAST, is designed to analyze structures which are represented as assemblages of pin-ended bars and quadrilateral and triangular idealized membrane elements. The finite-element idealizations of the solution of three types of problems are described. These are (1) internal force analysis of stressed-skin structures; (2) stress analysis of plates and shells subjected to extensional and flexural deformations; and (3) stress analysis of structural components in three-dimensional stress states. Application of the technique is illustrated by describing the analyses performed on the F-111 wing and wing pivot assembly. These involved an internal load analysis of the entire wing assembly, followed by stress analyses of components of special interest within the pivot fitting. The results of the stress analyses are compared with those from a three-dimensional photo-elastic investigation and from full-scale model tests.
+
+
+    
+        AU - J. William Young
+    
+        AU - Henry N. Christiansen
+    
+
+TI - Synthesis of A Space Truss Based on Dynamic Criteria
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 425-442
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001563 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001563
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001563
+SO - Journal of the Structural Division 1966-12-01 92(6): 425-442
+AB - The development of a computer program for the automated design of hyperstatic truss structures subject to alternative resonant frequency requirements is described. The program is based on extending the full-stressed design concept to include resonant frequency requirements. The procedure involves an iterative process of analysis and automated redesign to select optimum member sizes. The use of the program in the design of hyperstatic truss structures for a current space program is described. Rapid convergence of the process is experienced. Graphical results are presented depicting the behavior of various structural parameters during the design process. Computer times of 5 min per design are typical. The program was used repeatedly to investigate alternative truss configurations and design restraints. This experience demonstrates the practicality of using the fully-stressed process for the automated design of truss structures.
+
+
+    
+        AU - Jayant M. Shah
+    
+
+TI - Ill-Conditioned Stiffness Matrices
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 443-457
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001564 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001564
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001564
+SO - Journal of the Structural Division 1966-12-01 92(6): 443-457
+AB - In practical applications of the stiffness matrix method to structural analysis problems, erroneous solutions are frequently obtained due to ill-conditioning of the stiffness matrix. In this study, a mathematical formulation is obtained to relate the modal distribution of truncation errors to the conditioning of the matrix and to the type of loading on the structure. Truncation errors involved in the solution by Gaussian elimination can be interpreted as modifying the structure by introduction of additional elastic restraints and modification of the stiffnesses of the internal elastic couplings. It is found also that when the deformed configuration of the structure corresponds substantially to its low natural mode of vibration, the error in the calculated stresses is likely to be more significant than the error in the calculated deflections. The converse is true if the deformation corresponds to a very high mode of vibration.
+
+
+    
+        AU - Nancy Jane Cyrus
+    
+        AU - Robert E. Fulton
+    
+
+TI - Finite Difference Accuracy in Structural Analysis
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 459-471
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001566 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001566
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001566
+SO - Journal of the Structural Division 1966-12-01 92(6): 459-471
+AB - An accuracy study is made of central finite difference methods for solving boundary value problems in structural analysis which are governed by equations with variable coefficients leading to odd order derivatives. Two methods are studied through application to beam-columns with nonuniform inplane loads and nonuniform stiffness. Definitive expressions for the error in each method are obtained by using Taylor series to derive the differential equations which exactly represent the finite difference approximations. The resulting differential equations are accurately solved by a perturbation technique which yields the error directly. A half station method, which corresponds to making finite difference approximations before expanding derivatives of function production in the beam-column differential equations, is found clearly superior to a whole station method which corresponds to expanding such products first.
+
+
+    
+        AU - Steven J. Fenves
+    
+
+TI - Tabular Decision Logic for Structural Design
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 473-490
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001567 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001567
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001567
+SO - Journal of the Structural Division 1966-12-01 92(6): 473-490
+AB - As computer applications shift from analysis to design, increased attention must be given to algorithms which are primarily logical in character. The common approach to the programming through involved flow-charts has been generally found unsatisfactory. The technique of tabular decision logic provides one means of formulating complex logical decisions. The technique is described and illustrated. It is shown that the technique eliminated most of the shortcomings of conventional flow-charting. The application of the technique is contingent on the availability of clear, precise rules defining engineering decisions. The paper concludes with a brief description of the conversion of decision tables into conventional flow diagrams and of some processors which convert decision tables directly into execution programs.
+
+
+    
+        AU - William R. Spillers
+    
+
+TI - Artificial Intelligence and Structural Design
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 491-497
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001568 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001568
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001568
+SO - Journal of the Structural Division 1966-12-01 92(6): 491-497
+AB - A review of some of the literature concerned with questions of artificial intelligence is presented and particular attention is paid to work which may be applied to problems of structural design. The possibility of an adaptive structural design system is examined and a simple design problem is used to illustrate some aspects of learning behavior.
+
+
+    
+        AU - Tung Au
+    
+
+TI - Heuristic Games for Structural Design
+PT - Journal Article
+DP - 1966
+TA - Journal of the Structural Division
+PG - 499-509
+VI - 92
+IP - 6
+AID - 10.1061/JSDEAG.0001569 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001569
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001569
+SO - Journal of the Structural Division 1966-12-01 92(6): 499-509
+AB - The concept of heuristic games for stimulating innovation, for studying system interaction, and for forecasting consequences in structural design under computer-stimulated environment is presented. These games are aimed primarily at the development of sound engineering judgment of structural designers. The general features of structural design games and the basic considerations in their construction are described and explained. An example of practical interest is given in detail to illustrate the application of heuristic games to a structural design situation. The role of computer in gaming is studied. Finally, the merits and pitfalls in the use of structural design games are examined.
+
+

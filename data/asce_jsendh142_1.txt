@@ -1,0 +1,734 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Christoph Mahrenholtz
+    
+        AU - Rolf Eligehausen
+    
+
+TI - Simulation of Tests on Cast-In and Postinstalled Column-to-Foundation Connections to Quantify the Effect of Cyclic Loading
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015073
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001330 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001330
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001330
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015073
+AB - Additional columns are often used as a retrofitting solution for reinforced concrete structures, particularly in seismic regions. These columns require postinstalled starter bars that inhibit the detailing of the anchorage with hooks. Often, the anchorage length of straight starter bars cannot be accommodated in foundations, which are generally short. For this reason, reductions of the large anchorage length, which are required according to the design codes, are desirable. The aim of the study presented in this paper was to quantify the adverse effect of cyclic loading on the capacity of connections with reduced starter bar anchorage lengths. To this end, finite-element analysis employing bond elements was realistically carried out to simulate seismic tests on column-to-foundation connections. The analysis allowed the study of the effect of cyclic loading on global performance and local behavior in terms of tensile and bond stresses along the starter bar. An equation to take into account the effect of cyclic loading was developed, which is the prerequisite to use a new design methodology on the basis of concrete anchor design provisions for seismic design cases.
+
+
+    
+        AU - Chang Liu
+    
+        AU - Tat Ching Fung
+    
+        AU - Kang Hai Tan
+    
+
+TI - Dynamic Performance of Flush End-Plate Beam-Column Connections and Design Applications in Progressive Collapse
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015074
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001329 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001329
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001329
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015074
+AB - An experimental program was conducted in this study to investigate the dynamic behavior of flush end plate steel beam-column cruciform connections following instantaneous removal of a central supporting column. The dynamic tests were performed by using a quick-release mechanism to simulate sudden column-removal scenarios. In the test program, the geometries of the flush end-plate connections remained unchanged but subjected to five different magnitudes of uniformly distributed load. Another five quasi-static tests were also carried out for comparison with the dynamic response and investigation of the dynamic increase factors (DIF). Test results showed that the release-time durations of the column support force were approximately 30&nbsp;ms for all five dynamic tests. For the same initial applied dead loads, the maximum dynamic displacement was significantly increased compared to the corresponding quasi-static displacement. In order to observe the full dynamic performance of the tested connection until final failure, a general-purpose finite-element software was used to conduct the three-dimensional numerical simulations. Comparison results showed that the numerical model could accurately simulate the monotonic quasi-static test results and the dynamic test results under sudden column removal. Subsequently, a series of parametric studies was conducted to investigate the connection behavior considering the load-release time, different loading methods, and the magnitude of uniform distributed load. By comparing the full dynamic response of the flush end-plate connection with its corresponding quasi-static response, both the displacement-based DIF and force-based DIF could be respectively determined. The paper also addresses which DIF is more appropriate for the design of structures to resist progressive collapse.
+
+
+    
+        AU - Saber Moradi
+    
+        AU - M. Shahria Alam
+    
+
+TI - Finite-Element Simulation of Posttensioned Steel Connections with Bolted Angles under Cyclic Loading
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015075
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001336 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001336
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001336
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015075
+AB - Steel beam-column connections with posttensioned (PT) elements are proven systems that can provide adequate stiffness, strength, and ductility, while eliminating permanent deformations in a moment-resisting frame subjected to seismic loading. In this study, detailed three-dimensional finite-element (FE) models of steel beam-column connections with PT strands are developed and analyzed under cyclic loading. Efforts are made to overcome challenges in performing the nonlinear FE analysis of large-scale PT connections, which involves gap opening and closing behavior as well as contact and sliding phenomena. Geometric and material nonlinearities, preloaded bolts and strands are also considered in the modeling. Through a verification study, the results from the FE models are validated against prior experiments on interior PT connections with top-and-seat angles. Parametric studies are also conducted to investigate the effects of three factors on the cyclic performance of PT connections. The factors investigated in this study are: the presence of beam flange reinforcing plates, the yield strength and strain hardening of steel angles, and the amount of initial posttensioning force in the strands.
+
+
+    
+        AU - Hussam Mahmoud
+    
+        AU - Bruce Ellingwood
+    
+        AU - Collin Turbert
+    
+        AU - Mehrdad Memari
+    
+
+TI - Response of Steel Reduced Beam Section Connections Exposed to Fire
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015076
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001340 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001340
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001340
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015076
+AB - Steel structures may be vulnerable to fires; therefore, work is underway in several quarters to advance performance-based engineering (PBE) of steel frames for fire conditions. Both experimentation and finite-element simulations are necessary tools in PBE for assessing the behavior of structures under elevated temperatures. Numerical modeling of the overall structural system using line-element models fails to capture the localized behavior of connections due to the simplistic nature of such models. With advances in computation, attention is shifting to three-dimensional (3D) models, which are better able to capture the behavior of connections. Accurate predictions of structural response require the inclusion of realistic boundary conditions such that the interaction between the connections and the surrounding structure is properly captured. The study reported herein evaluates the response of steel frames with reduced beam section (RBS) connections under a typical compartment fire, with temperature-varying boundary conditions that represent the constraints provided by the remainder of the frame. The results of the study highlight the significance of including realistic boundary conditions during fire simulations. In addition, the results quantify the demand on such connections and contribute to the advancement of performance-based fire engineering.
+
+
+    
+        AU - Po-Chien Hsiao
+    
+        AU - Kazuhiro Hayashi
+    
+        AU - Hiroyuki Inamasu
+    
+        AU - Yun-Biao Luo
+    
+        AU - Masayoshi Nakashima
+    
+
+TI - Development and Testing of Naturally Buckling Steel Braces
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015077
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001319 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001319
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001319
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015077
+AB - Steel concentrically braced frames inherently provide great strength and stiffness, and are widely used for seismic resisting systems in buildings. These include conventional buckling braced frames and buckling restrained braced frames. Although the latter can prevent brace buckling and provide ductile behavior, both types of braces provide no hysteretic damping at small drift levels and offer very limited post-yielding stiffness. This study proposes a new type of steel brace with a novel mechanism—the naturally buckling brace (NBB). The design combines high-strength and low-yield steels arranged in parallel with a specified initial eccentricity along the brace length, providing ductile seismic behavior. Six tests of various NBB models subjected to cyclic loading were conducted to examine the seismic performance of the proposed NBB. Two specimens out of the six achieved the characteristics intended for NBB. The test results showed that the NBB specimens with appropriate design parameters could achieve early yielding, or hysteretic damping, from around 0.11% story drift and prevent local buckling as well as deformation concentration up to a very large story drift (greater than 3%). A single NBB would provide an asymmetric hysteretic behavior, a large post-yielding stiffness in tension, and a ductile performance with stable energy dissipation. Further systematic studies of NBBs are needed to comprehensively evaluate the capacities and limitations of the NBBs, including the reliability of performance with repeated tests.
+
+
+    
+        AU - J. Borzouie
+    
+        AU - G. A. MacRae
+    
+        AU - J. G. Chase
+    
+        AU - G. W. Rodgers
+    
+        AU - G. C. Clifton
+    
+
+TI - Experimental Studies on Cyclic Performance of Column Base Strong Axis–Aligned Asymmetric Friction Connections
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015078
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001327 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001327
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001327
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015078
+AB - This paper describes experimental testing of an asymmetric friction connection (AFC) at the base of a steel column such as may be used in a moment-frame. Friction/sliding surfaces were parallel to the column-strong axis. In-plane, out-of-plane and 2D clover leaf–cyclic tests were conducted of columns both with and without applied axial force. Tests were conducted both with and without bolts passing through the plates to provide compression on the sliding/friction interface. It was found that this type of rocking base–friction connection can tolerate high levels of drift without significant strength degradation, although some stiffness degradation occurred, especially after the cycles in the weak-axis direction. A simple procedure proposed to estimate the moment resistance is verified. The friction-base connections, having similar cost to conventional connections and exhibiting low-damage performance, have the potential to become widely used in aseismic construction.
+
+
+    
+        AU - Isaac Y. Kwon
+    
+        AU - Henry T. Yang
+    
+        AU - Paul K. Hansma
+    
+        AU - Connor J. Randall
+    
+
+TI - Implementable Bio-Inspired Passive Negative Spring Actuator for Full-Scale Structural Control under Seismic Excitation
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015079
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001323 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001323
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001323
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015079
+AB - A bio-inspired passive negative spring actuator inspired by an energy-dissipating mechanism called sacrificial bonds and hidden length is designed, fabricated and implemented in a test case of a three-story structural model for testing its performance and demonstrating the effectiveness as a passive controller. Specifically, a unique design of a negative spring actuator is developed and combined with a viscous damper to exhibit aspects of the force-displacement relation of negative sacrificial bonds and hidden length. This novel actuator can output a unique force-displacement profile, capable of large control forces, making the bio-inspired passive actuator practical for implementation in real structures. Results obtained from numerical simulation were validated experimentally on a model structure. The results showed that the bio-inspired passive negative spring actuator has comparable structural control performance to state-of-the-art semiactive actuators. Therefore, the actuator could be a practical, low-cost, and effective passive-control device for use in civil, mechanical, aerospace, and other structures.
+
+
+    
+        AU - M. A. Bezabeh
+    
+        AU - S. Tesfamariam
+    
+        AU - S. F. Stiemer
+    
+
+TI - Equivalent Viscous Damping for Steel Moment-Resisting Frames with Cross-Laminated Timber Infill Walls
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015080
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001316 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001316
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001316
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015080
+AB - In the direct displacement-based design method, energy dissipative capacity of structures can be represented by an equivalent viscous damping (EVD). A number of studies have been reported in the formulation of EVD for different structural systems and hysteretic models. In this paper, an EVD model is developed and calibrated for steel-timber hybrid structures, where cross-laminated timber (CLT) shear panels are used as an infill in steel moment-resisting frames (SMRFs). To develop the EVD model, 243 single-story, single-bay CLT-infilled SMRFs analytical models are subject to semi-static cyclic analysis. Different model parameters of the hybrid structure are varied: gap between CLT panel and steel frame, bracket (connection) spacing, CLT panel thickness and strength, and postyield stiffness ratio of steel members. The EVD of each model was computed from the hysteretic responses based on an area-based approach. The design of computer experiments and response surface methodology were utilized to formulate the desired relationship between coefficients of EVD-ductility law and the model parameters. In order to create displacement compatibility between the equivalent linear system and time history, an iterative nonlinear time history procedure is adopted to calibrate the EVD-ductility law of the models. As a result, a new EVD-ductility law is presented that can be used in a displacement-based design of the steel-timber hybrid structure.
+
+
+    
+        AU - T. Y. Yang
+    
+        AU - Yuanjie Li
+    
+        AU - Subhash C. Goel
+    
+
+TI - Seismic Performance Evaluation of Long-Span Conventional Moment Frames and Buckling-Restrained Knee-Braced Truss Moment Frames
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015081
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001333 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001333
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001333
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015081
+AB - Steel moment frame (MF) is one of the most prevalent and well researched steel seismic force resisting systems worldwide. However, efficiency and feasibility of using MF diminishes for large spans. In this paper, a recently developed steel seismic force resisting system, named buckling-restrained knee-braced truss moment frame (BRKBTMF), is suggested as a better alternative system. The BRKBTMF uses buckling-restrained knee-braces with open web trusses. In this paper, a four-story prototype office building was designed using both MF and BRKBTMF systems. Performance of the prototype building with different span lengths was systematically studied. The results show that BRKBTMF uses less structural steel, yet it performs better with lower structural damage, repair costs, and probability of collapse as compared with the MF for all span lengths and under all earthquake intensities considered. Hence, it is concluded that BRKBTMF is a viable and effective alternative seismic force resisting system for long-span applications.
+
+
+    
+        AU - Ronald L. Sack
+    
+
+TI - Ground Snow Loads for the Western United States: State of the Art
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015082
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001343 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001343
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001343
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015082
+AB - A standard defines ground snow loads for much of the nation, with the exception of an 11-state area of the West where the terrain and complex weather patterns require local, regional, and statewide studies. Hence, many western states have published their own standards, which use data from the Natural Resources Conservation Service and the National Weather Service. The data are analyzed using a variety of snow densities, various probability density functions, and several mapping strategies. This paper presents a summary and information, along with unique features, for 11 western U.S. state reports. Many individual state studies do not agree at state borders, and frequently the standard specifies that case studies are required. Future study is suggested to (1)&nbsp;determine the effects of combining values from different probability density functions, (2)&nbsp;reconcile differing values at state borders, and (3)&nbsp;determine the return period that yields a reliability index of 3, with a load factor of unity so the risk level for snow loads equals that for wind and earthquake loads.
+
+
+    
+        AU - Yongchao Yang
+    
+        AU - Shunlong Li
+    
+        AU - Satish Nagarajaiah
+    
+        AU - Hui Li
+    
+        AU - Peng Zhou
+    
+
+TI - Real-Time Output-Only Identification of Time-Varying Cable Tension from Accelerations via Complexity Pursuit
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015083
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001337 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001337
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001337
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015083
+AB - In-service cables of structures, such as those in cable-supported buildings and cable bridges (e.g.,&nbsp;stay cables and suspenders), suffer from cumulative fatigue damage caused by dynamic loads (e.g.,&nbsp;the cyclic traffic loads on cable bridges) and wind excitation (on the cable-supported buildings and bridges). Monitoring the time history of time-varying cable tension for assessing their fatigue damage is thus essential to diagnose their health condition and predict their future performance. Currently, embedded measurement devices such as anchor load cells, elastomagnetic (EM) sensors, and optical fiber Bragg grating (OFBG) sensors are able to directly record the time-varying cable tension time history; however, poor durability, high costs, and intensive labor of installation significantly hinder their applicability in practice. On the other hand, a vibration-based technique manifests itself as a convenient, cost-effective, and reliable approach to determine the cable tension, and is widely used; it is based on an established formula (taut-string theory) between the cable tension and its frequency, which can be identified through the measured cable vibration responses. Existing research based on this approach, nevertheless, assume that the cable tension is time-invariant over a long time segment; real-time (online) identification of the time-varying cable tension has not yet been addressed. This paper develops a new computational framework to identify the time-varying cable tension time history through an unsupervised learning algorithm termed complexity pursuit (CP), which is capable of online tracking of the time-varying cable frequency, using as little information as the measured cable accelerations from only two accelerometers. The CP learning rule is especially exploited; it is found that CP can blindly separate the constituent modal responses of the cable even within a dramatically short duration such that the time-varying cable frequency can be identified, thereby computing the time-varying cable tension according to the taut-string theory. A hybrid example combining the simulated and real-measured data from an actual cable-stayed bridge and a laboratory experimental study of a scaled stay cable demonstrates that the proposed CP-based method performs accurate real-time identification of the time-varying cable tension. The proposed method is shown to be straightforward and efficient, with the potential to be an automated, economic, and convenient approach for health monitoring and assessing in situ or new cables of cable-supported structures.
+
+
+    
+        AU - Ann E. Jeffers
+    
+
+TI - Triangular Shell Heat Transfer Element for the Thermal Analysis of Nonuniformly Heated Structures
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015084
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001335 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001335
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001335
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015084
+AB - This paper presents a triangular shell heat transfer element that is used to simulate the thermal response of nonuniformly heated structures. The formulation uses a combination of finite-element and control volume techniques to arrive at a layered shell element that is used to solve the 3D conduction heat transfer problem in a highly efficient manner. This paper considers a 3-node linear element and a 6-node quadratic element. The element formulation is verified against a converged continuum heat transfer model for a thick steel plate exposed to a concentrated heat flux, a thick steel pipe exposed to a concentrated heat flux, and a concrete slab exposed to a localized fire. The verification studies demonstrate that the linear and quadratic elements consistently converge to the continuum model and require a fraction of the computational cost. The verification study involving the concrete slab exposed to a localized fire demonstrates that the formulation can readily handle steep temperature gradients as well as temperature-dependent material properties.
+
+
+    
+        AU - Hugo Rodrigues
+    
+        AU - André Furtado
+    
+        AU - António Arêde
+    
+
+TI - Behavior of Rectangular Reinforced-Concrete Columns under Biaxial Cyclic Loading and Variable Axial Loads
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015085
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001345 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001345
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001345
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015085
+AB - The behavior of reinforced-concrete (RC) elements subjected to axial loading variation in conjunction with cyclic biaxial bending is recognized as a very important research topic with a reduced number of experimental results available. Six full-scale RC rectangular columns were tested and analyzed to study the effects of variable axial load on the hysteretic behavior of RC building columns under biaxial horizontal loading. The experimental results are presented and discussed in terms of damage evolution, global hysteretic behavior, stiffness degradation, columns’ capacity, and energy dissipation. The global findings revealed the significant effects of the axial load variation on the hysteretic behavior of RC columns.
+
+
+    
+        AU - Maikol Del Carpio Ramos
+    
+        AU - Gilberto Mosqueda
+    
+        AU - M. Javad Hashemi
+    
+
+TI - Large-Scale Hybrid Simulation of a Steel Moment Frame Building Structure through Collapse
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015086
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001328 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001328
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001328
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015086
+AB - The implementation of two series of hybrid simulations that aim to trace the system-level seismic response of a four-story steel moment frame building structure through collapse is presented. In the first series of tests, a half-scale 1½-bay by 1½-story physical substructure of a special steel moment-resisting frame is considered, while in the second series the physical substructure corresponds to the gravity framing system with a similar-sized specimen. An objective of these tests is to demonstrate the potential of hybrid simulation with substructuring as a cost-effective alternative to earthquake simulators for large-scale system-level testing of structural frame subassemblies. The performance of a recently developed substructuring technique and time-stepping integration method for hybrid simulation are evaluated when employed with large and complex numerical substructures exhibiting large levels of nonlinear response. The substructuring technique simplifies the experimental setup by reducing the number of required actuators while adequately approximating the boundary conditions including lateral displacements and axial loads on columns. The test method was found to be reliable with capabilities to provide insight into experimental behavior of structural subassemblies under realistic seismic loading and boundary conditions.
+
+
+    
+        AU - Bahman Ghiassi
+    
+        AU - Paulo B. Lourenço
+    
+        AU - Daniel V. Oliveira
+    
+
+TI - Effect of Environmental Aging on the Numerical Response of FRP-Strengthened Masonry Walls
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015087
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001358 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001358
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001358
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015087
+AB - Recent durability studies have shown the susceptibility of bond in fiber-reinforced polymer (FRP) strengthened masonry components to hygrothermal exposures. However, it is not clear how this local material degradation affects the global behavior of FRP-strengthened masonry structures. This study addresses this issue by numerically investigating the nonlinear behavior of FRP-masonry walls after aging in two different environmental conditions. A numerical modeling strategy is adopted and validated with existing experimental tests on FRP-strengthened masonry panels. The model, once validated, is used for modeling of four hypothetical FRP-strengthened masonry walls with different boundary conditions, strengthening schemes, and reinforcement ratios. The nonlinear behavior of the walls is then simulated before and after aging in two different environmental conditions. The degradation data are taken from previous accelerated aging tests. The changes in the failure mode and nonlinear response of the walls after aging are presented and discussed.
+
+
+    
+        AU - Tong Guo
+    
+        AU - Zhiliang Cao
+    
+        AU - Zhenkuan Xu
+    
+        AU - Shuo Lu
+    
+
+TI - Cyclic Load Tests on Self-Centering Concrete Pier with External Dissipators and Enhanced Durability
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015088
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001357 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001357
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001357
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015088
+AB - A precast segmental pier using posttensioning technique has become a desirable candidate to realize rapid, environment-friendly bridge construction and minimal residual deformation. To avoid structural corrosion and to facilitate the replacement of energy dissipators (EDs), a self-centering precast concrete (SCPC) pier with external EDs and enhanced durability is proposed and experimentally evaluated. In this study, the self-centering capacity is provided through posttensioned basalt fiber–reinforced polymer (BFRP) tendons, and the bottom of the pier is encased in a glass fiber–reinforced polymer (GFRP) jacket so as to mitigate concrete spalling or crushing as the pier rocks. Aluminum bars with modified material properties are used as external EDs, in which the weakened part is filled in a confining tube with epoxy. Fifteen cyclic load tests with the maximum drift of 4% were conducted on three SCPC piers and one monolithic pier, and the influence of various design parameters on the pier behavior is discussed.
+
+
+    
+        AU - Keri L. Ryan
+    
+        AU - Nhan D. Dao
+    
+
+TI - Influence of Vertical Ground Shaking on Horizontal Response of Seismically Isolated Buildings with Friction Bearings
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015089
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001352 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001352
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001352
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015089
+AB - This paper focuses on a horizontal-vertical coupling effect observed in a full-scale shake table experiment of a 5-story moment frame building isolated with triple pendulum bearings. A significant increase or amplification of the horizontal floor accelerations was observed during three-dimensional (3D) shaking compared to XY (horizontal only) shaking with comparable input motions. The coupling phenomenon is explained by analytical and numerical simulation of a single degree-of-freedom (rigid mass) structure and multistory cantilever structure subjected to simplified sinusoidal motions, both isolated with triple pendulum bearings. The results of the simplified numerical study are extended to explain the horizontal-vertical coupling in the full-scale experiment, which are also validated by numerical modeling of the test structure. The vertical component of ground acceleration is shown to introduce a high-frequency component into the base shear that can excite higher modes of the base-isolated structure. The phenomenon is possible in any multistory structure isolated with friction bearings, and should be evaluated on a case-by-case basis.
+
+
+    
+        AU - Tim Francisco
+    
+        AU - Judy Liu
+    
+
+TI - Experimental Characterization of a Composite Slab Subjected to Simulated Column Removal Loading
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015090
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001351 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001351
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001351
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015090
+AB - Steel gravity frames are inherently simple systems, which has led to questions regarding their structural integrity or robustness. The concept of structural integrity is often tied to column removal scenarios in which the structure must develop alternate load paths. The mobilization of the composite slab with ribbed metal decking as a part of this behavior, theorized to be via membrane action, shifts the loading in the slab from bending to primarily tension. This study consists of composite slab component tests that include uniaxial tests in both orthogonal directions with respect to the deck corrugations, and shear and tension tests of the side lap splices. Also included are transverse uniaxial slab tests with additional reinforcement, and tension tests of the support fastener connections between the metal deck and beams and girders. The test results show the composite slab to be weak in the transverse direction regardless of side lap engagement and strong but susceptible to debonding in the longitudinal direction. They also cast doubt on the ability of the support fasteners to develop the longitudinal strength.
+
+
+    
+        AU - J. Fogarty
+    
+        AU - S. El-Tawil
+    
+
+TI - Collapse Resistance of Steel Columns under Combined Axial and Lateral Loading
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015091
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001350 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001350
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001350
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015091
+AB - The collapse resistance of steel columns subjected to combined axial and reversed lateral loading is investigated computationally. Detailed finite-element models that are validated using available experimental data are presented. Simulation results using these models suggest that local buckling as well as lateral torsional buckling in deep, slender sections under combined axial and lateral loading can lead to a substantial reduction in column ductility. The results of an extensive parametric study suggest that the current design guidelines are potentially unconservative and are used to develop a simple-to-use design aid.
+
+
+    
+        AU - Stephen Wu
+    
+        AU - Ming Hei Cheng
+    
+        AU - James L. Beck
+    
+        AU - Thomas H. Heaton
+    
+
+TI - An Engineering Application of Earthquake Early Warning: ePAD-Based Decision Framework for Elevator Control
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015092
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001356 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001356
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001356
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015092
+AB - In a medium-to-large earthquake, there are often reports of people being trapped or injured in elevators. This study investigates using an earthquake early warning (EEW) system, which provides seconds to tens of seconds warning before seismic waves arrive at a site, to help people escape from the elevators before a strong shaking arrives. However, such an application remains as a major engineering challenge due to the uncertainty of the EEW information and the short lead time available. A recent study presented an earthquake probability-based automated decision-making (ePAD) framework to address these issues. This paper focuses on studying the influence of two commonly ignored factors, uncertainty of warning and lead time, on the decision of stopping the elevators and opening the doors when an EEW message is received. Application of the ePAD framework requires using the performance-based earthquake engineering methodology for elevator damage prediction, making decision based on a cost-benefit model and reducing computational time with a surrogate model. The authors’ results show that ePAD can provide rational decisions for elevator control based on EEW information under different amounts of lead time and uncertainty level of the warning.
+
+
+    
+        AU - Amin Ahmadi
+    
+        AU - Sashi K. Kunnath
+    
+        AU - Norman Abrahamson
+    
+
+TI - Influence of Dominant Response Modes on Structural Seismic Demand Modeling
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015093
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001354 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001354
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001354
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015093
+AB - A seismic demand model attempts to describe the behavior of a structure in terms of a set of predictor variables that represents the loading. For buildings, the most frequently used demand parameter and predictor variables are the maximum interstory drift ratio (MIDR) and the spectral accelerations of the ground motion at various modal periods, respectively. An adequate and optimal demand model should be independent of the suite of records that is used to calibrate it. It is shown that this is not the case with currently used demand models and that the dominant dynamic modes imposed by the ground motion suite have a significant effect on the model predictions. In this study, this influence is quantified in terms of the coefficient of partial determination. It is shown that the marginal contribution of the included variables in the demand model is dependent on the response mode that yields the MIDR. An alternative method of estimating the regression coefficients via Ridge estimation is discussed as an approach that minimizes the influence of the dominant mode on the demand model. The performance of the Ridge estimation is compared with the least squares (unbiased) counterpart using the cross-validation method. These findings have a major impact on the selection of ground motions for seismic assessment of structures.
+
+
+    
+        AU - Hao Zhang
+    
+        AU - James Reynolds
+    
+        AU - Kim J. R. Rasmussen
+    
+        AU - Bruce R. Ellingwood
+    
+
+TI - Reliability-Based Load Requirements for Formwork Shores during Concrete Placement
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015094
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001362 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001362
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001362
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015094
+AB - One challenge in assessing the safety of concrete formwork supporting structures is the difficulty in predicting the loads on shores. Very limited studies on shore loads are available in the literature. This paper presents the results of a shore load investigation undertaken at three construction sites in Sydney. The study is focused on the vertical loads on shores during and following concrete placement. The statistical characteristics of the dead load effect and live load effect are determined. Structural reliability analyses are conducted to evaluate the reliability implications of the allowable stress design and limit state design approaches for shoring structures. An optimal load combination is derived considering the probabilistic characteristics of shore loads.
+
+
+    
+        AU - Gary S. Prinz
+    
+        AU - Paul W. Richards
+    
+
+TI - Demands on Reduced Beam Section Connections with Out-of-Plane Skew
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015095
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001360 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001360
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001360
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015095
+AB - Some architectural designs for steel buildings require skew at moment frame connections. Reduced beam section (RBS) moment connections with out-of-plane skew have not been tested experimentally, and it is unclear how much skew, if any, should be permitted. In this study, finite-element models were used to investigate the effect of out-of-plane skew on RBS moment connection rotation capacity. The parameters investigated were the column depth, amount of skew, and model configurations (boundary conditions). The models simulated inelastic buckling in the RBS and corresponding strength degradation under cyclic loading. A low-cycle fatigue damage model was used to evaluate the results to determine if out-of-plane skew made the RBS or weld regions more susceptible to fracture. It was found that out-of-plane skew resulted in increased column twisting and minor yielding at the column flange tips, but not lower connection rotation capacity or increased susceptibility to fracture.
+
+
+    
+        AU - A. J. Roffel
+    
+        AU - S. Narasimhan
+    
+
+TI - Results from a Full-Scale Study on the Condition Assessment of Pendulum Tuned Mass Dampers
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015096
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001339 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001339
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001339
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015096
+AB - Pendulum tuned mass dampers (PTMDs) are one of the most popular vibration control devices in use today for flexible towers, bridges, and buildings. Their most attractive feature is the design simplicity; the natural period can be controlled simply by adjusting the suspended length and viscous dampers can be easily integrated into the design. While this simplicity has resulted in their widespread adoption, the installed performance of PTMDs has not been investigated in much detail. This paper presents a methodology for conducting condition assessment of in-service PTMDs. Results from a full-scale study of a PTMD-equipped structure is used as a test bed to demonstrate the approach. The condition of an in-service PTMD is assessed using two criteria: the frequency and damping tuning ratios, and equivalent damping provided by the PTMD. These criteria are estimated while the PTMD is in service, without arresting the PTMD motion, using an extended Kalman filter. Practical considerations typical in full-scale structures arising from model reduction, measurements at limited degrees of freedom, and limited modes of interest are addressed in this assessment framework.
+
+
+    
+        AU - Zhichao Lai
+    
+        AU - Amit H. Varma
+    
+        AU - Lawrence G. Griffis
+    
+
+TI - Analysis and Design of Noncompact and Slender CFT Beam-Columns
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015097
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001349 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001349
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001349
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015097
+AB - Concrete-filled steel tube (CFT) beam-columns are categorized as compact, noncompact, or slender depending on the governing slenderness ratio (width-to-thickness b/t or D/t ratio, λ) of the steel-tube wall. The current AISC specification recommends the bilinear axial force-bending moment (P−M) interaction curve for bare steel members for the design of noncompact and slender CFT beam-columns. This paper compiles the experimental database of tests conducted on noncompact and slender CFT beam-columns, and demonstrates the overconservatism of the AISC P−M interaction curve. This paper also presents the development and benchmarking of detailed 3D finite-element models for predicting the behavior and strength of noncompact and slender CFT members. The benchmarked models are then used to evaluate the fundamental P−M interaction behavior of CFT beam-columns, and the influence of material and geometric parameters such as the tube slenderness ratio (λ), material strength ratio (Fy/fc′), member length-to-section depth ratio (L/D), and axial load ratio (P/Po). The parametric analyses indicate that for L/D ratios up to 20, the P−M interaction curves are governed by the relative strength ratio (csr=AsFy/Acfc′). The parametric analysis results are used to propose revisions to the current standard’s interaction equations for designing noncompact and slender CFT beam-columns.
+
+
+    
+        AU - Bilal S. Hamad
+    
+        AU - Elias Y. Abou Haidar
+    
+
+TI - Bond Studies of High-Strength Concrete Joints Confined with Stirrups, Steel Fibers, or Fiber-Reinforced Polymer Sheets
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015098
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001347 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001347
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001347
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015098
+AB - The paper presents a correlation study of the results of three research programs conducted on hooked bars anchored in high-strength concrete (HSC) beam-column joints at the American University of Beirut (AUB). The specimen simulated the rigid connection of a cantilever beam to a column. In two previous programs, the beam-column joint was confined either externally with carbon fiber–reinforced polymer (CFRP) sheets or internally by steel fibers incorporated in the concrete mix. Although stirrups were included in the beam and column elements of the specimens of the two programs, the column stirrups were not extended in the beam-column joint. It was necessary to conduct a third program where confinement of the joint was provided internally by stirrups crossing the critical hooked bars region. Results of the three programs indicated positive effect of the different confining modes on bond strength of the anchored bars and ductility of the load-deflection history. Comparison of the results of the three programs is presented.
+
+
+    
+        AU - Christine D. Standohar-Alfano
+    
+        AU - John W. van de Lindt
+    
+
+TI - Tornado Risk Analysis for Residential Wood-Frame Roof Damage across the United States
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015099
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001353 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001353
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001353
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015099
+AB - Approximately 1,200 tornadoes impact the United States every year with a percentage of these resulting in significant damage, injuries, and fatalities. Initially, a probabilistic tornado hazard analysis was performed in order to develop tornado hazard curves at select locations across the United States. This analysis resulted in the annual probability of experiencing a tornado of any strength at the specific locations, which varied as a function of location-specific occurrence rates. Five different residential wood-frame building archetypes were designed at each of the locations based on current residential building code and/or practice. Fragilities for the roof sheathing and truss to wall top-plate connections were developed for each archetype. Because fragilities are independent of location, they were then convolved with the tornado hazard curves to compute annual failure probabilities for select roof components. This represents the first time absolute risk of roof failure due to tornadoes has been computed since the tornado hazard curve is convolved with the fragility curves. These probabilities quantify failure probabilities of residential wood-frame roofs to tornado winds. While this value is quite small for an individual home, applying this method to an individual city block or neighborhood can quantify a location’s vulnerability to tornado wind damage. The Florida state building code is applied to other locations in the United States, fragilities are developed and convolved, and failure probabilities for these modified buildings are computed. The comparison of failure probabilities between local building code and the stricter Florida residential building code allowed for a quantitative assessment of strengthened construction practices for structures subjected to tornadic wind loads. Results indicate that stricter building codes may be beneficial in areas with a high annual tornado risk, such as Tornado Alley.
+
+
+    
+        AU - Daniel M. Dowden
+    
+        AU - Patricia M. Clayton
+    
+        AU - Chao-Hsien Li
+    
+        AU - Jeffrey W. Berman
+    
+        AU - Michel Bruneau
+    
+        AU - Laura N. Lowes
+    
+        AU - Keh-Chyuan Tsai
+    
+
+TI - Full-Scale Pseudodynamic Testing of Self-Centering Steel Plate Shear Walls
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015100
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001367 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001367
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001367
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015100
+AB - This paper presents the first full-scale experimental investigation of the self-centering steel plate shear wall (SC-SPSW) system. The SC-SPSW system is a lateral force-resisting system developed to provide system recentering and limit structural damage to easily replaceable energy dissipating fuses (i.e.,&nbsp;thin steel web plates). Recentering is provided by posttensioned (PT) beam-to-column connections. This test program is composed of two two-story SC-SPSW specimens, each with a different PT beam-to-column connection. For one specimen, connections rock about both beam flanges; for the other, connections rock about the top beam flange only. Both specimens incorporated a posttensioned column base detail to further promote recentering and damage mitigation. The specimens were tested pseudodynamically using excitations representing three different seismic hazard levels. Results show that the SC-SPSW system is capable of meeting and exceeding the specified performance objectives.
+
+
+    
+        AU - Diogo Figueira
+    
+        AU - Carlos Sousa
+    
+        AU - Rui Calçada
+    
+        AU - Afonso Serra Neves
+    
+
+TI - Push-Off Tests in the Study of Cyclic Behavior of Interfaces between Concretes Cast at Different Times
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015101
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001364 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001364
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001364
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015101
+AB - The knowledge about the cyclic behavior and effects of fatigue on interfaces between concrete cast at different times, subjected to shear stress, is still very limited. This aspect is particularly relevant in structures subjected to important cyclic loads, such as railway bridges. In this context, first, a brief state of the art on the monotonic and cyclic behavior of interfaces between concretes cast at different times is presented. Then, the test campaign, which was aimed at obtaining experimental support for modeling the behavior of such interfaces, subjected to a high number of load cycles, is described, and the corresponding results are discussed and analyzed in terms of slip and crack opening, stress variations in the monotonic tests, failure mode, and number of resisting load cycles. It was further observed that the number of resisting load cycles increases as the maximum load level decreases. On the basis of this evidence, an experimental S-N curve was set for this type of interface.
+
+
+    
+        AU - Manoochehr Ardalany
+    
+        AU - Massimo Fragiacomo
+    
+        AU - Peter Moss
+    
+
+TI - Modeling of Laminated Veneer Lumber Beams with Holes Using Cohesive Elements
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015102
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001338 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001338
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001338
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015102
+AB - Openings are usually required in timber beams to allow services like plumbing, sewage pipes, and electrical wiring to run through. These openings can cause significant stresses perpendicular to the grain direction, which may create cracks in the timber due to the low tensile strength perpendicular to grain. Initiation and propagation of cracks markedly decrease the load-carrying capacity of a beam with a hole with respect to a beam without a hole. The use of plywood or screw reinforcement can recover the full capacity of the beam. Crack initiation and propagation in timber is a challenging issue that requires a good numerical model for an accurate prediction. Analysis methods such as linear elastic fracture mechanics (LEFM) have previously been used to predict the failure load of beams with holes with initial and iteratively extended crack length. In this paper, cohesive elements with traction-separation behavior are used for the modeling of the fracture layer in laminated veneer lumber (LVL) beams with holes. In this case, the crack can propagate in the timber as the applied load increases. The model was calibrated on experimental tests carried out at the University of Canterbury, New Zealand, on LVL beams with holes, with and without plywood and screw reinforcement. The model shows great potential for predicting the load-carrying capacity of the timber beams with holes. Cohesive elements can be effectively used to investigate timber members with notches where crack propagation can govern the failure of the member.
+
+
+    
+        AU - Yong Chul Kim
+    
+        AU - Yukio Tamura
+    
+        AU - Sangdae Kim
+    
+
+TI - Wind Load Combinations of Atypical Supertall Buildings
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015103
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001359 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001359
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001359
+SO - Journal of Structural Engineering 2016-01-01 142(1): 04015103
+AB - Wind loads are generally divided into along-wind, across-wind, and torsional loads, but in reality they occur simultaneously in time and space. Furthermore, because they do not show their maximums at the same instant, they need to be combined appropriately. In this study, pressure measurements were conducted on atypical supertall buildings to investigate wind load combinations. Using a simplified reference model with four columns, analyses in the time domain were conducted, and this paper proposes combination rules based on the concept of combination factor that can be applied to atypical supertall buildings. The combination factor for a square model is approximately 0.5, and those for atypical models differ depending on building shape. Two methods are discussed in the determination of combination factors, and comparisons between peak normal stresses by analysis and combination factor show relatively good agreement, ranging mostly within ±5%.
+
+
+    
+        AU - Izuru Takewaki
+    
+
+TI - Discussion of “Novel Sensor Clustering–Based Approach for Simultaneous Detection of Stiffness and Mass Changes Using Output-Only Data” by Qipei Mei and Mustafa Gül
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 07015007
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001419 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001419
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001419
+SO - Journal of Structural Engineering 2016-01-01 142(1): 07015007
+
+
+    
+        AU - Qipei Mei
+    
+        AU - Mustafa Gül
+    
+
+TI - Closure to “Novel Sensor Clustering–Based Approach for Simultaneous Detection of Stiffness and Mass Changes Using Output-Only Data” by Qipei Mei and Mustafa Gül
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 07015008
+VI - 142
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0001420 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001420
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001420
+SO - Journal of Structural Engineering 2016-01-01 142(1): 07015008
+
+

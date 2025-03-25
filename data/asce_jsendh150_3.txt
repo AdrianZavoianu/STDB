@@ -1,0 +1,638 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Ali Imanpour
+    
+
+TI - Seismic Response and Design of Steel Multitiered Concentrically Braced Frames Not Specifically Detailed for Seismic Resistance
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04023232
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-12182 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12182
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12182
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04023232
+AB - Steel multitiered concentrically braced frames (MT-CBFs) not specifically detailed for seismic resistance with a response modification factor of R=3 are permitted in moderate seismic regions. Past research studies, however, have raised concerns regarding the seismic performance of MT-CBFs and CBFs designed using R=3 provisions, namely the stability of columns in MT-CBFs and connection limit states in R=3 CBFs. This paper examines the seismic response of R=3 MT-CBFs and proposes a design method to improve their seismic performance. A set of 16 prototype R=3 MT-CBFs, ranging from 8 to 20&nbsp;m tall with two to five tiers and located in a moderate seismic area, was selected and designed in accordance with 2016 US design guidelines. Nonlinear response-history analyses were then performed to examine the seismic response of these frames using fiber-based numerical models. R=3 MT-CBFs designed to 2016 design guidelines are shown to experience premature fracture in brace-to-beam/column connections in a single tier, which imposes high in-plane bending demands on columns and in some cases, leads to column instability or a tier-sway mechanism. New seismic design recommendations, including requirements for intermediate struts, columns, and tier drift, are proposed. The design method aims to prevent column instability or a tier-sway mechanism and protect brace connections from excessive deformation.
+
+
+    
+        AU - R. Ghorbani
+    
+        AU - A. Suselo
+    
+        AU - A. Matamoros
+    
+        AU - W. Ghannoum
+    
+
+TI - New Multiaxial Concrete Column Element with Adaptive Calibrated Constitutive Models
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04023233
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-11824 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11824
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11824
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04023233
+AB - A new calibrated multiaxial material model coupled to a multiaxial zero-length element is proposed for simulating the seismic behavior of concrete columns. The simulation tools are intended for use within a two-dimensional lumped-plasticity framework and are aimed at capturing the lateral cyclic behavior of nonretrofitted and retrofitted reinforced concrete columns subjected to seismic motions, up to complete loss of lateral strength. The material model was calibrated using a newly compiled database of 689 cyclic column test and only requires the input of column geometric and material properties to define envelope and cyclic behaviors, including identifying the appropriate strength-degradation modes, and the rate of strength loss due to cyclic loading. The proposed multiaxial material model houses several capacity models to capture salient lateral strength-degradation modes including flexure, shear, flexure-shear, splice, and flexure-splice modes. The proposed multiaxial material model allows each degree-of-freedom (DOF) to have seamless access to information such as force and deformation from other DOFs. Furthermore, it is capable of dynamically changing the sequence of execution of axial/shear/rotation DOFs based on their dependencies on other DOFs during the analysis. Such features allow the implemented capacity models to be adaptive in that they adjust their parameters during analysis to varying boundary conditions. Moreover, they make the proposed tools capable of further accounting for coupling between axial/shear/flexure actions and automatically adjusting the limit surfaces during analyses. The model takes a different approach to simulating cyclic behavior from existing models by utilizing an energy dissipation term as the central parameter to adjust the level of pinching in a cyclic response. A cubic spline curve is implemented to simulate the gradual stiffness changes and pinching effects during cycling, while cyclic damage functions capture the stiffness and strength damage rate observed in test data, even due to nonsymmetric cyclic loading. The performance of the proposed computational tools is compared with results from shake table tests. The coupled multiaxial material and element were implemented in the open-source simulation platform OpenSees as CMAC2D and CMAZ2D respectively.
+
+
+    
+        AU - Yeongsoo Shin
+    
+        AU - Hee-Sun Kim
+    
+        AU - Chul-Goo Kim
+    
+
+TI - Cyclic Behavior of Reinforced Concrete Columns with L-Shaped Ties
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04023234
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-12557 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12557
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12557
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04023234
+AB - In reinforced concrete columns, both constructability and structural safety should be considered in selecting the anchorage details of transverse reinforcement. For the simple installation of peripheral hoops, in this study, L-shaped ties were proposed to replace the conventional closed hoops with 135° hook anchorages. The L-ties can be easily installed from the side of columns by temporarily moving a longitudinal bar. Cyclic lateral loading tests were performed on five reinforced concrete columns to verify the effect of the L-ties on the shear resistance and buckling resistance of longitudinal bars after concrete cover spalling. The main test parameters included the types of transverse reinforcement, aspect ratio of columns, and straight extension of hooks. The test results demonstrated that the strength, deformation capacity, and energy dissipation of the columns using L-ties were comparable to those of columns using the conventional closed hoops because 135° hooks at both ends in the L-ties were anchored in the core concrete. The straight extension of the 135° hook anchorages with 6db provided a sufficient anchorage performance despite following concrete cover spalling. Furthermore, nonlinear behaviors of the columns were discussed by comparing the nonlinear modeling parameters specfied in current standards to evaluate postyield deformation capacities.
+
+
+    
+        AU - Arash Rayegani
+    
+        AU - Omid Karimzade Soureshjani
+    
+        AU - Seyed Ali Moayed Alaee
+    
+        AU - Imad H. Mualla
+    
+        AU - Fariba Nemati
+    
+
+TI - Seismic Performance of Buildings Equipped with Four-Joint Rotational Friction Dampers in Mainshock–Aftershock Sequences
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04023235
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-12980 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12980
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12980
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04023235
+AB - This study assesses the effectiveness of retrofitting a steel moment frame structure with four-joint rotational friction (4J-RF) dampers to enhance seismic behavior during mainshock–aftershock sequences. Experimental tests were conducted on 4J-RF dampers with capacities of 500, 300, and 200&nbsp;kN to evaluate the velocity dependency and validate the finite-element models. The experimental results demonstrated the cyclic responses of the dampers, affirming their stable performance over multiple cycles, which is a crucial factor for consecutive seismic events. A detailed numerical model was developed to simulate the behavior of 4J-RF dampers, and its accuracy was confirmed by comparing the experimental and numerical results. The finite-element models of the dampers were integrated into structural models, and nonlinear finite-element analysis was employed to investigate the response of the structures equipped with dampers during seven actual mainshock–aftershock seismic events. The results indicate that structures retrofitted with these dampers have minimal impact on the displacements or residual displacements caused by aftershocks. The dampers absorbed a considerable portion of the input energy, thereby diminishing the plastic energy absorbed by the structural elements. Consequently, this energy reduction led to a decreased residual displacement and improved seismic resilience. In contrast, without dampers, the drift and residual drift increased by up to 25% and 30%, respectively, during aftershocks.
+
+
+    
+        AU - Yu Guan
+    
+        AU - Jiqin Wang
+    
+        AU - Quanlun Li
+    
+        AU - Yu Shi
+    
+        AU - Xinmei Yao
+    
+
+TI - Study on In-Plane and Out-of-Plane Stiffness of Cold-Formed Steel Composite Floor with Opening
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04023236
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-12773 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12773
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12773
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04023236
+AB - In this study, experimental investigations were conducted to study the hysteresis and flexural performances of cold-formed steel (CFS) composite floors. The failure modes of the hysteresis specimens were damage of the screws connecting the composite slab and end joists, as well as bond-slip failure between the slab material and CFS form-deck. The failure modes of the flexural specimens involved shear deformation and buckling of the joists, as well as bond-slip failure between the slab material and CFS form-deck. Second, finite-element (FE) models were constructed and validated against the test data. Subsequently, numerical analysis models for floors with openings were developed. Also, parametric studies were performed by considering the influences of opening size, strengthening, and eccentricity on stiffness for floors with openings. The results revealed that actions to enhance stiffness for floors with openings involve minimizing the opening size, setting the opening strengthening, and keeping the opening centered. Finally, theoretical methods to determine the in-plane and out-of-plane stiffness for the floors with openings were proposed, and the calculations matched well with the numerical results.
+
+
+    
+        AU - Pei-Ching Chen
+    
+        AU - Che-Wei Chou
+    
+        AU - Wei-Jung Wang
+    
+
+TI - Rapid Controller Generation for Vibration Suppression of Structures Using Direct Excitation with Machine Learning
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04023237
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-12695 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12695
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12695
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04023237
+AB - Active mass dampers (AMDs) have been used to suppress vibration of structures subjected to dynamic loading. Generally, controller design of AMD requires an identified numerical model of the structure. However, unmodeled dynamics and system uncertainties could lead to mediocre control performance. In this study, a novel controller synthesis method of AMD named direct excitation with machine learning (DEML) is proposed and verified. In DEML, the AMD on top of the structure generates trivial excitation with sufficient bandwidth. Then the corresponding structural acceleration response is collected and used for training a controller formulated in an artificial neural network. Accordingly, the associated controller can be realized and implemented to generate control force from the structural acceleration response directly. Seismic control performance of the controller synthesized by DEML was verified numerically in which 9-story and 27-story building models were considered. Moreover, shake table testing of an AMD on top of a 3-story structural specimen was conducted to further validate the effectiveness of the proposed DEML. Experimental results demonstrate that the controller synthesized by DEML achieves competitive seismic control performance compared with a conventional linear-quadratic Gaussian controller.
+
+
+    
+        AU - Benjamin E. Wogen
+    
+        AU - Jongseong Choi
+    
+        AU - Xin Zhang
+    
+        AU - Xiaoyu Liu
+    
+        AU - Lissette Iturburu
+    
+        AU - Shirley J. Dyke
+    
+
+TI - Automated Bridge Inspection Image Retrieval Based on Deep Similarity Learning and GPS
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04023238
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-12639 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12639
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12639
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04023238
+AB - The inspection of highway bridge structures in the US is a task critical to the national transportation system. Inspection images contain abundant visual information that can be exploited to streamline bridge assessment and management tasks. However, historical inspection images often go unused in subsequent assessments because they tend to be disorganized and unlabeled. Further, due to the lack of global positioning system (GPS) metadata and visual ambiguity, it is often difficult for other inspectors to identify the location on the bridge where past images were taken. Although many approaches are being considered toward fully automated or semiautomated methods for bridge inspection, there are research opportunities to develop practical tools for inspectors to make use of those images already in a database. In this study, a deep learning–based image similarity technique is developed and combined with image geolocation data to localize and retrieve historical inspection images based on a current query image. A Siamese convolutional neural network (SCNN) is trained and validated on a gathered data set of over 1,000 real world bridge deck images collected by the Indiana Department of Transportation. A composite similarity (CS) metric is created for effective image ranking, and the overall method is validated on a subset of eight bridge’s images. The results show promise for implementation into existing databases and for other similar structural inspections, showing up to an 11-fold improvement in successful image retrieval when compared with random image selection.
+
+
+    
+        AU - Yu-Chen Ou
+    
+        AU - Hermawan Sutejo
+    
+        AU - Jyun-Lin Huang
+    
+        AU - Sheng-I Yen
+    
+
+TI - Seismic Performance of Reinforced Concrete Beams with Proposed Lap-Spliced Intermediate Hoops
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04023239
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-12463 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12463
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12463
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04023239
+AB - Two types of lap-spliced intermediate hoops were proposed to address the construction difficulty encountered for conventional intermediate hoops or stirrups used in the plastic hinge regions of beams of special moment-resisting frames. In the proposed type one hoops, a set of U-bars was lap-spliced to the other set of U-bars. The U-bar set was formed by multiple U-bars welded together by the longitudinal holding wires. Weldable steel wire reinforcement was used. In the proposed type two hoops, two three-dimensional stirrups were lap-spliced to form two intermediate hoops. The lap-splice length was based on the Class B tension lap splice of ACI 318. Three full-scale beam specimens, including two specimens with the proposed lap-spliced intermediate hoops and one control specimen with conventional intermediate stirrups, were tested using lateral cyclic loading. Test results showed that the specimens with the proposed lap-spliced intermediate hoops exhibited better drift capacities, energy dissipation ability, and moment strength than the control specimen. The proposed lap-spliced intermediate hoops were more effective in restraining the buckling of longitudinal bars than the conventional closed stirrups.
+
+
+    
+        AU - Hao Zhou
+    
+        AU - Xiu-Quan Tian
+    
+        AU - Yu-Shuang Wang
+    
+        AU - Hai-Lin Lin
+    
+        AU - Hong-Hao Chen
+    
+
+TI - Experimental Investigation of Damage and Failure Modes in Stirrupless Reinforced Concrete Beams under Varied Thermal-Mechanical Loadings
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04023240
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-12990 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12990
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12990
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04023240
+AB - In light of the potential deviation in damage and failure modes of reinforced concrete components during a fire compared to their design expectations at room temperature, this study aims to comprehensively investigate the failure modes of RC beams under various thermal-mechanical loadings. The experimental program encompasses a range of scenarios such as constant load followed by heating, heating followed by load, single-sided and three-sided fire with a constant load, among others. Large-scale fire tests were conducted on stirrupless RC beams subjected to four-point bending, and the progression of damage was meticulously monitored to evaluate the influence of high temperature on the failure modes of the beams. The findings of the study indicate that beams initially designed for bending failure at room temperature may exhibit either bending failure or shear failure under high-temperature conditions. Additionally, beams originally designed with sufficient shear strength but weaker bending capacity at room temperature may demonstrate inadequate behavior when exposed to elevated temperatures. Consequently, it is highly recommended to employ refined modeling and analysis techniques in order to comprehensively assess the response of RC members, rather than relying solely on predictions based on room temperature behavior. This experimental investigation significantly contributes to our understanding of the bending-shear damage mechanism and failure modes of RC beams in fire, providing a crucial foundation for advancing behavior simulations and performance predictions of RC members or structures under fire conditions.
+
+
+    
+        AU - Wenjie Li
+    
+        AU - Shitang Ke
+    
+        AU - Xu Chen
+    
+        AU - Lin Zhao
+    
+        AU - Yaojun Ge
+    
+
+TI - Collapse Mechanism and Failure Criterion of Superlarge Cooling Tower under Tornado
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04023241
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-12838 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12838
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12838
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04023241
+AB - In this study, the tallest cooling tower (228&nbsp;m) completed construction in the world in northwest China was chosen to investigate wind-induced failure mechanism of superlarge cooling towers under tornado. A multiscale finite-element model of the structure was established based on the layered shell element method, and a wind tunnel pressure test was carried out using the tornado simulator. Wind pressure distribution characteristics on inner and outer surfaces of the cooling tower under tornado were analyzed. Moreover, characteristics of the whole wind-induced collapse process of the cooling tower under tornado were studied by combining incremental dynamic analytical method, and the collapse mechanism of a superlarge cooling tower under tornado was extracted. Finally, the failure criterion of the structure under tornado based on the variation rate of the torsion angle was proposed. Results demonstrated that wind pressure showed a circumferential even distribution pattern on the surface of the superlarge cooling tower under tornado, and it generally presented negative pressures. When the cooling tower is located at the tornado vortex core, it is the most dangerous and vulnerable to collapse. Under tornado effects, the cooling tower presented bypassing suction and torsional collapse attitudes from inside to outside. The cooling tower element is designed to improve the antitornado bearing capacity by developing a membrane mechanism. The cooling tower collapsed and failed when the torsion angle failure index φ&gt;0.25.
+
+
+    
+        AU - Saptarshi Sarkar
+    
+        AU - Breiffni Fitzgerald
+    
+
+TI - Design of Tuned Mass Damper Fluid Inerter for Wind-Induced Vibration Control of a Tall Building
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04023242
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-12599 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12599
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12599
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04023242
+AB - In this paper, the problem of wind-induced vibration in tall buildings is addressed by utilizing a new type of damper, the tuned mass damper fluid inerter (TMDFI). The TMDFI incorporates an inerter in the classical tuned mass damper (TMD), which is physically realized using fluid in a helical channel. The device arrangement is optimized using a proposed nonlinear procedure and it is demonstrated through numerical simulations that the application of the TMDFI achieves excellent vibration control performance. Specifically, it has been found that the TMDFI requires lower mass and stroke requirements than traditional passive dampers while achieving comparable or better vibration reductions. It has been shown numerically that the damper demonstrates excellent vibration control capabilities by reducing the RMS displacement of the building by ≈50% and the RMS acceleration by 35%–80%. The results presented here show that the TMDFI is a damper capable of mitigating wind-induced vibrations in tall buildings with relatively simple design requirements. This new damper has the potential to significantly improve the safety, comfort, and durability of tall buildings subjected to wind loads.
+
+
+    
+        AU - Amr Ghanem
+    
+        AU - Young-Joo Lee
+    
+        AU - Do-Soo Moon
+    
+
+TI - Seismic Vulnerability of Reinforced Concrete Frame Structures: Obtaining Plan or Vertical Mass Irregularity from Structure Use Change
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04023243
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-12440 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12440
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12440
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04023243
+AB - Changes in a structure’s use can have a significant impact on distribution of live loads, both in the plan and elevation of a building. Unevenly distributed live loads can introduce variations in mass, causing irregularities in the structure and making it more susceptible to damage during earthquakes. Previous studies have extensively investigated the seismic vulnerability of structurally irregular buildings. However, due to computational challenges, simplified two-dimensional models are commonly employed, which fail to accurately capture the nonlinear interaction between torsional and lateral responses, thereby limiting their ability to reflect the actual structural behavior. This research focuses on examining the seismic fragility of reinforced concrete frames that exhibit mass irregularities in the elevation or plan caused by the change in structural usage. For accurate vulnerability evaluation, this research employs comprehensive three-dimensional models of reinforced concrete irregular structures. A total of 21 frame models encompassing various degrees of vertical and in-plan irregularities resulting from different scenarios of live-load distribution were studied. Nonlinear dynamic response history analysis was conducted with 10 earthquake input ground motions. To assess the vulnerability of the studied structures against the given earthquakes comprehensively, the concept of a fragility surface was introduced. The fragility surface is derived from fragility curves corresponding to various damage limit states, providing a complete overview of the seismic vulnerability of the structure in terms of peak ground accelerations and allowable drift ratios. In this study, eight allowable drift ratios were defined to establish failure limit-state conditions. The seismic vulnerability of all assumed building usage scenarios ware quantified, and this study highlights that uneven structure use in the regular structure can significantly affect its seismic performance. The findings of this study can contribute to a better understanding of the novel aspects related to the seismic behavior of irregular structures, enhancing our knowledge in this field.
+
+
+    
+        AU - Jin Di
+    
+        AU - Bowen Xiao
+    
+        AU - Yongqing Li
+    
+        AU - Yi Su
+    
+        AU - Qian Zhang
+    
+
+TI - Failure Modes and Bearing Capacity of High-Strength–Steel-Bearing-Type Bolted Connections
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024001
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-12814 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12814
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12814
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04024001
+AB - Bearing-type bolted connections are frequently used for steel structure connections and are typically small when used to connect high-strength steels. However, studies on the failure mode and ultimate bearing capacity of high-strength–steel-bearing-type bolted connections are, to our best knowledge, limited. To address this gap, experiments and numerical analysis were carried out to investigate bearing-type bolted connections with end distances and edge distances ranging from one time the bolt hole diameter to two times the bolt hole diameter. Eighteen specimens were fabricated using Q460, Q550, and Q690 alloys. The results showed that the specimens exhibited three failure modes: net cross-sectional; tearout; and splitting failures, where end distance and edge distance were two controlled parameters that determined the failure modes. This study introduces a novel data-driven method that leverages accumulated data from finite element models to accurately quantify the boundaries of various failure modes. It eliminates the requirement for numerous assumptions in complex mechanical derivations, specifically when deriving splitting failure boundaries resembling the bending of deep beams. Consequently, this method provides a reliable and feasible alternative for evaluating failure modes in specimens. It was demonstrated that the net cross-sectional failure could be avoided when end distance equaled one time the bolt hole diameter, indicating that it is feasible to lower the minimum of end distance to one time the bolt hole diameter. The ultimate bearing capacity with nonet cross-sectional failure increased linearly with end distance and nonlinearly with edge distance. Ultimate bearing capacity calculation methods for different failure modes considering end distance and edge distance, were proposed, and their accuracy was verified using experimental results from other studies.
+
+
+    
+        AU - Bo Xu
+    
+        AU - Xiaowei Wang
+    
+        AU - Chuang-Sheng Walter Yang
+    
+        AU - Yue Li
+    
+
+TI - Machine Learning–Aided Rapid Estimation of Multilevel Capacity of Flexure-Identified Circular Concrete Bridge Columns with Corroded Reinforcement
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024002
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-12718 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12718
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12718
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04024002
+AB - Corrosion has been recognized as one of the predominant causes of degradation in aging RC bridge columns. This problem may significantly affect flexural and shear capacities and even alter failure modes of corroded columns. Traditional physics-based simulations used to determine the deteriorating capacity are time-consuming and may experience convergence problems, which hinders rapid and efficient fragility analyses of region-scale bridge infrastructure for the facilitation of regional risk assessment. To address the issue, this study leveraged machine learning techniques to identify column failure modes (flexure or shear-associated), followed by estimating the capacities of corroded RC columns with flexure failure, because flexural failure was found to be dominant among the considered large parameter spaces of corroded RC columns. To create the database, a finite-element model of RC columns considering bond-slip effects and deteriorating material strengths due to reinforcement corrosion was developed and validated experimentally to capture the flexural and shear behavior, and pushover analyses were preformed to examine the failure mode and quantify multilevel capacities of corroded columns. The performance of two machine learning algorithms (i.e.,&nbsp;logistic regression and support vector machine) was evaluated for failure mode identification, and four additional algorithms (i.e.,&nbsp;multiple linear regression, modified multiple linear regression, artificial neural network, and gradient boosting decision tree) were examined for the multilevel drift ratio capacity prediction of the flexure-identified corroded RC columns. The results show that the support vector machine and artificial neural network outperformed the other algorithms in failure mode identification and the drift ratio capacity prediction, respectively. In addition, the aspect ratio of columns was identified as the most significant feature for the drift ratio capacity of corroded RC columns, followed by reinforcement corrosion levels.
+
+
+    
+        AU - Homero Carrion-Cabrera
+    
+        AU - Michel Bruneau
+    
+
+TI - Equivalent Lateral Force Design Method for Longitudinal Buckling-Restrained Braces in Bidirectional Ductile Diaphragms
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024003
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-12846 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12846
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12846
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04024003
+AB - Bridge design specifications include design provisions for ductile diaphragms to resist seismic excitations perpendicular to a bridge’s axis. Buckling restrained braces (BRBs) can conveniently be used for this purpose. Bidirectional ductile diaphragms expand the concept to resist all-direction seismic forces, and nonlinear inelastic response history analyses (NL-RHAs) can be used to show that satisfactory seismic performance objectives can be obtained using this concept. However, a simple design procedure is needed to address the design of the BRBs in the bridge longitudinal direction. As a first step, to fill that need for common multispan simply-supported bridges, a relatively simple-to-use equivalent lateral force (ELF) procedure has been developed on the basis of results from “optimal designs” obtained using NL-RHAs. Findings indicate that the proposed ELF design procedure leads to design that meet the target design objectives.
+
+
+    
+        AU - Sangwook Park
+    
+        AU - Patricia Clayton
+    
+        AU - Michael D. Engelhardt
+    
+        AU - Todd A. Helwig
+    
+        AU - Eric B. Williamson
+    
+
+TI - Cyclic Response of Composite Steel Gravity Framing Connections in Multibay System-Level Tests
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024004
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-12998 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12998
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12998
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04024004
+AB - This paper presents an experimental study of the seismic behavior of steel gravity frames with concrete on metal deck floor systems using multibay test specimens subjected to cyclic lateral loads. Fully bolted double-angle connections were used for the primary gravity connections under investigation. Key design variables and construction details under investigation include metal deck orientation, positioning of metal deck seams, and increased deck reinforcing ratios around the columns. Test specimens were simultaneously subjected to gravity loads and quasi-static displacement-controlled cyclic lateral loads. Results show that composite gravity connections exhibit substantial flexural stiffness, strength, and ductility, with some differences in response depending on connection design variables and construction details. Results from the system-level experiments using multibay test specimens demonstrate significant differences compared to previous subassembly tests, which indicates that the moment-resisting capacity of connections may potentially be underestimated in subassembly level tests.
+
+
+    
+        AU - Tong Guo
+    
+        AU - Jishuai Wang
+    
+        AU - Xinqiang Ji
+    
+        AU - Lianglong Song
+    
+        AU - Yong Sun
+    
+        AU - Yunwen Zhang
+    
+
+TI - Seismic Resilience Enhancement of Irregular Space Structure Using Friction-Damped Self-Centering Tension Braces
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024005
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-13024 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13024
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13024
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04024005
+AB - A variety of self-centering devices and structural systems have been proposed and investigated in recent years to eliminate or reduce postearthquake repair, but so far their applications are still very limited. This paper reports the seismic resilience enhancement of an irregular space structure by using friction-damped self-centering tension braces (FSTBs). First, the configuration, performance, and numerical model of FSTBs are introduced, and then a seismic design procedure for enhancing the seismic capacity of a torsional irregular structure is proposed. Taking the terminal building at the Harare Airport, a lifeline project in Zimbabwe, for example, unidirectional and three-dimensional nonlinear dynamic analyses were conducted on the building designed with and without FSTBs. The result shows that FSTBs can significantly reduce both story drifts and residual story drifts of the bottom reinforced concrete frame and displacements of the steel roof. To this end, the field assembly of FSTBs is briefly reported. The presented study provides references to the use of self-centering devices in seismic resilience upgrades of important engineering projects.
+
+
+    
+        AU - You-Fu Yang
+    
+        AU - Feng Fu
+    
+        AU - Min Liu
+    
+
+TI - Cyclic Behavior of Four-Limbed Circular CFST Latticed Beam-Columns
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024006
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-13073 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13073
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13073
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04024006
+AB - Experimental tests to investigate the behavior of four-limbed circular concrete-filled steel tube (CFST) latticed beam-columns under constant axial compression and cyclic lateral force were carried out. Attention was paid to the effect of diameter-to-thickness ratio of limb tube D/T (51.5 and 24.9), axial compression level n (from 0.05 to 0.5) and type of limb [circular CFST and steel circular hollow section (CHS)] on the overall behavior, failure modes and force versus deformation relationship of the specimens. Additionally, the cyclic deterioration of stiffness, ductility and accumulated energy dissipation of the specimens were assessed for seismic design. According to this experimental study, it is found that, due to the interaction between limb tube and its concrete core, the seismic resistance of composite specimens is better than that of steel counterparts. Moreover, the seismic resistance of composite specimens generally reduces with the increase of D/T and n. A finite element (FE) model is further established to replicate the behavior of the specimens, and the simulated cyclic behavior of four-limbed circular CFST latticed beam-columns subjected to constant axial compression and cyclic lateral force agree well with experimental results. Parametric study on the lateral force versus displacement hysteretic curve of four-limbed circular CFST latticed beam-columns was performed using the verified FE model. Finally, an accurate restoring force model (RFM) to predict the lateral force versus displacement relationship of four-limbed circular CFST latticed beam-columns is developed, and the predictions are in good agreement with the numerical and experimental results.
+
+
+    
+        AU - Xianzhi Zeng
+    
+        AU - Shengchun Zhu
+    
+        AU - Kailai Deng
+    
+        AU - Canhui Zhao
+    
+        AU - Xing Yuan
+    
+        AU - Chuanqi Wang
+    
+
+TI - Study of Cyclic Performance and Design Method of UHPC-NSC Composite Pier
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024007
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-12683 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12683
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12683
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04024007
+AB - The composite pier, which consists of ultra-high-performance concrete (UHPC) and normal strength concrete (NSC), is a promising option for practical engineering due to its remarkable mechanical performance. However, the cyclic behavior and seismic design mechanism of the composite pier have not been thoroughly investigated. This paper aims to study the cyclic performance of the composite pier by conducting cyclic tests on 10 specimens. The thickness of the UHPC tube, strength of reinforcement, spacing of stirrups, and other parameters are considered. The crack distribution, hysteretic response, and failure modes are observed and analyzed. Results show that the composite pier exhibits good crack-control ability, large bearing capacity, and effective energy dissipation. The expansion of the inner NSC may exacerbate the buckling of the UHPC tube, thus leading to more severe seismic damage. To further investigate the composite pier, a numerical model is established to analyze the optimal thickness of the UHPC tube. The ultimate state of the composite section is taken into consideration, and the upper and lower limits of the height of the compression zone are proposed. Based on the parametric analysis, a recommended range of the UHPC tube thickness is derived.
+
+
+    
+        AU - P. Kyvelou
+    
+        AU - A. Spinasa
+    
+        AU - L. Gardner
+    
+
+TI - Testing and Analysis of Optimized Wire Arc Additively Manufactured Steel Trusses
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024008
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-12832 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12832
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12832
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04024008
+AB - Wire arc additive manufacturing (WAAM) is a method of metal three-dimensional (3D) printing that can be used to fabricate large-scale elements of complex form, opening up opportunities to unleash the full potential of structural optimization. To demonstrate this potential, optimized steel trusses have been fabricated by means of WAAM and tested to investigate their structural performance. The tested metal 3D printed specimens, which are considered to be the first optimized WAAM structural systems of this kind and scale, comprised members of tubular cross section with varying diameters and thicknesses. Three different configurations were considered: cantilever, propped cantilever, and simply supported, all 2&nbsp;m in length. Repeat tests enabled the variability in response between specimens to be evaluated; six optimized trusses were tested in total. The geometric features of the tested specimens were determined using 3D laser scanning, and digital image correlation was employed to monitor the displacement and strain fields during testing. Full details of the experimental program are provided; the obtained results are analyzed, and comparisons against equivalent conventional reference designs are made. The results of complementary numerical simulations, undertaken to gain further insight into particular features of the structural response of the examined specimens, are also presented. The structural efficiency of the optimized trusses, as measured by the capacity-to-mass ratio, was found to be up to 95% higher than that of the corresponding reference designs, underlining the benefits in terms of structural efficiency that can be achieved by the combination of WAAM with optimization methods.
+
+
+    
+        AU - Shaghayegh Vaseghiamiri
+    
+        AU - Mojtaba Mahsuli
+    
+        AU - Mohammad Ali Ghannad
+    
+        AU - Farzin Zareian
+    
+
+TI - Metamodeling Framework for Multivariate Probabilistic Prediction of Story-Drift Profile of Multistory Buildings
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024009
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-12525 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12525
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12525
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04024009
+AB - This paper proposes a probabilistic metamodeling framework for predicting the joint probability distribution of the interstory drift ratio (IDR) profile of multistory buildings. IDR is an engineering demand parameter that correlates well with structural and nonstructural damages. However, the use of IDR for regional loss estimation has not been practiced due to the high computational cost of such estimations. The metamodel proposed herein efficiently estimates the IDR profile while accounting for the cross-correlations. This facilitates the use of component-level damage and consequence models for regional loss estimations and significantly refines the resulting risk estimates compared with the current state of practice in regional risk analysis, which relies on a single-degree-of-freedom representation of a building. The proposed framework employs multivariate Bayesian regression calibrated using a large data set produced using detailed nonlinear time-history analyses. To showcase the methodology, metamodels are developed for predicting the IDR profile of special steel moment frame buildings of various heights ranging from three to 12 stories. The resulting models are validated against the output of detailed multidegree-of-freedom models at different levels of ground motion intensity. Finally, the proposed metamodel is employed for estimating the seismic loss of a nine-story building, and the results are compared with the loss using two extremes of modeling in terms of refinement and computational effort: the FEMA P-58 approach and the Hazus approach. The results confirm that the proposed metamodel significantly refines the loss estimates compared with those of Hazus with a computational effort that is four orders of magnitude smaller than that required by the FEMA P-58 approach.
+
+
+    
+        AU - Alan Alonso
+    
+        AU - Rafael Gonzalez
+    
+        AU - Mahmoud Elsayed
+    
+        AU - Bennett Banting
+    
+        AU - Monica Guzman
+    
+        AU - Clayton Pettit
+    
+        AU - Yong Li
+    
+        AU - Douglas Tomlinson
+    
+        AU - Carlos Cruz-Noguez
+    
+
+TI - Experimental Testing of Tall Slender Masonry Walls with Different Rotational Base Stiffnesses
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024010
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-12533 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12533
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12533
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04024010
+AB - Loadbearing, concrete masonry walls are an effective structural system to resist combined out-of-plane and gravity loads. A large portion of the market for these walls is composed of single-story warehouse and industry buildings, and public-use structures such as theaters, community centers, and school gymnasiums. In these applications, it is common to have tall walls with an effective height-to-thickness ratio greater than 30. North American masonry design standards (CSA S304-14 and TMS 402-16) have special design requirements for these types of masonry walls due to their perceived vulnerability to second-order effects. In particular, one of the CSA S304-14 requirements consists of assuming a pinned base condition to calculate design moments and deflections, which severely impacts the available strength and stiffness of tall masonry walls. The objective of this study is to assess the influence of the rotational base stiffness on the out-of-plane response of slender masonry walls subjected to cyclic loading, in terms of strength, stiffness, base damage, and failure modes. Two full-scale, partially grouted slender masonry walls were tested under combined eccentric axial load and cyclic lateral out-of-plane pressure. The tests showed increased flexural capacity and decreased deflections in the out-of-plane direction when rotational stiffness at the base is accounted for, with limited degradation at the wall base observed during cyclic loading. Results suggest that accounting for the presence of the base stiffness provides additional strength to the wall that may lead to more economical masonry wall designs while maintaining satisfactory strength and reliable structural performance.
+
+
+    
+        AU - Yanbin Shen
+    
+        AU - Wucheng Xu
+    
+        AU - Xuanhe Zhang
+    
+        AU - Yueyang Wang
+    
+        AU - Xian Xu
+    
+        AU - Yaozhi Luo
+    
+
+TI - Deflection Control of an Active Beam String Structure Using a Hybrid Genetic Algorithm and Back-Propagation Neural Network
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024011
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-12633 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12633
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12633
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04024011
+AB - A beam string structure is an efficient hybrid system comprising beams, cables, and struts. This study proposes an active beam string structure that adapts to external loading for deflection control, achieved by replacing passive struts with telescopic ones. An optimization-based model is created to minimize deflection, with the maximum deflection of beams serving as the optimization objective. A deflection control framework is constructed by using a hybrid genetic algorithm and back-propagation neural network. The former combines the strengths of the genetic and gradient descent algorithms, and the latter trains a prediction network applying mechanical responses, resulting in quick output of control schemes. To assess the control framework’s performance, a scaled model is designed and fabricated, including a measuring system for deflection and stress, an actuating system with telescopic struts, and a PC-based decision-making system. Experimental and numerical studies are carried out for the model. The control schemes using the hybrid genetic algorithm and back-propagation neural network successfully reduced the deflection responses by at least 80% in simulations and experiments. The results validate the accuracy of the algorithm and reliability of the network, further demonstrating the effectiveness of the control framework. In addition, the deflection control process also optimizes the internal forces of the beam, with a maximum decline rate of stress response approaching 60%.
+
+
+    
+        AU - Terje Haukaas
+    
+
+TI - Exact Sensitivity of Nonlinear Dynamic Response with Modal and Rayleigh Damping Formulated with the Tangent Stiffness
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024012
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-12604 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12604
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12604
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04024012
+AB - Derivatives of nonlinear dynamic response are calculated in an exact and efficient manner with respect to material, geometry, mass, and damping parameters. Developments are presented for the Rayleigh and modal damping options that use the updated tangent stiffness. The calculation of exact response sensitivities for those options requires the calculation of derivatives of eigenvalues and eigenvectors; it is also shown that the third-order tensor formed by the derivative of the stiffness matrix with respect to the displacement vector is needed. That tensor, which amends the coefficient matrix of the system of equations that governs the response sensitivities, is nonzero for materials with continuously varying stiffness. The Bouc–Wen material model exhibits that feature and is selected to demonstrate the developments. Correct differentiation and assembly at the material, section, and element levels are highlighted. The results, verified by finite difference, suggest that the sensitivity of the response is influenced by the choice of damping model, strongly for some parameters, particularly when higher modes contribute to the nonlinear structural behavior.
+
+
+    
+        AU - Yu-Chen Ou
+    
+        AU - Cong-Thanh Bui
+    
+
+TI - Shear Strength and Crack Width Control of Concrete Beams with High-Strength Shear Reinforcement
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024013
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-12397 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12397
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12397
+SO - Journal of Structural Engineering 2024-03-01 150(3): 04024013
+AB - There is a potential to reduce steel tonnage for construction through the use of high-strength steel reinforcement. However, the current version of the ACI 318 code limits the yield strength of reinforcement that could be used for shear design under gravity load conditions to 420&nbsp;MPa to control diagonal crack widths. This limit is increased to 550&nbsp;MPa for resisting seismic shear in special moment frames. In the current study, 12 full-scale RC beam specimens were tested to investigate the shear behavior of RC beams with high-strength SD790 (fys=790  MPa) shear reinforcement. The test variables considered in the experimental study were shear-span-to-depth ratio, stirrup spacing, stirrup yield strength, concrete compressive strength, and longitudinal reinforcement ratio. The test results of this research and those collected from the literature showed that the stress limit of the ACI 318 shear strength equations could be increased to 600&nbsp;MPa for shear strength calculation. The stress limit of 790&nbsp;MPa produced conservative predictions for most of the test data and for all the data if the strength reduction factor for shear design was considered. However, the degree of conservatism was significantly reduced. Also, an equation to estimate the maximum shear crack width was proposed. The proposed crack-width equation was able to predict the crack widths observed in the current and other reference studies with reasonable accuracy.
+
+
+    
+        AU - Brandon J. Perry
+    
+        AU - Paul R. Heyliger
+    
+        AU - Yanlin Guo
+    
+        AU - Mohammed K. Alkharisi
+    
+
+TI - Unmanned Aerial System–Based Portable Sensing for Blast-Loaded Cables
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 06023003
+VI - 150
+IP - 3
+AID - 10.1061/JSENDH.STENG-12509 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12509
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12509
+SO - Journal of Structural Engineering 2024-03-01 150(3): 06023003
+AB - Measuring the dynamics of vibrating cables in situ can be challenging using traditional contact-based sensors (e.g., accelerometer). This work proposes a novel computer vision–based technique using a portable unmanned aerial system (UAS) (also referred to as drones) sensing platform to enable the measurement of the dynamic displacements of a cable in a unique blast-loading experiment where other types of sensing may be impractical. The proposed technique utilizes one optical camera equipped on a UAS to record the dynamic displacement of the blast-loaded cable and measure the drift of the UAS as it hovers. Artificial targets attached to the cable are not required because the technique proves effective when tracking natural features inherent in the cable. This makes the proposed technique versatile and convenient for field implementation. This technique also allows simultaneous displacement measurement at multiple points along the cable across the entire field of view of the camera. The natural frequency, damping, and mode shape are successfully identified from the measured cable displacement time histories. Measuring the vibration of a cable is challenging with traditional techniques. A novel technique is proposed to use only one camera attached to a drone to measure the vibration of a cable directly. However, because the drone hovers in the air, there is inherent drift of the drone. The drone’s drift is measured with respect to a stationary target using the camera and compensated for to measure the true motion of the cable. To test the proposed technique, a blast was detonated close to the cable to produce vibration in the cable, and the drone hovered above the cable to record its movements. Because the actual movement of the cable is unknown, finite-element simulations were performed to provide a basis for validating the proposed technique. The natural frequency of the finite-element model is compared with that obtained from the measured vibration of the cable. A good agreement was achieved with a 2.1% difference between the simulated and measured natural frequencies.
+
+

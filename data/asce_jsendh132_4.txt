@@ -1,0 +1,401 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Benjamin W. Schafer
+    
+
+TI - Cold-Formed Steel Structures: Special Issue
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 495-496
+VI - 132
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2006)132:4(495) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28495%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28495%29
+SO - Journal of Structural Engineering 2006-04-01 132(4): 495-496
+
+
+    
+        AU - Maura Lecce
+    
+        AU - Kim J. Rasmussen
+    
+
+TI - Distortional Buckling of Cold-Formed Stainless Steel Sections: Experimental Investigation
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 497-504
+VI - 132
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2006)132:4(497) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28497%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28497%29
+SO - Journal of Structural Engineering 2006-04-01 132(4): 497-504
+AB - This paper describes the experimental investigation of cold-formed, thin-walled stainless steel sections subject to distortional buckling under compression. Austenitic 304, ferritic 430 stainless steel, and ferritic-like 3Cr12 chromium weldable steel sheets were brake-pressed into simple-lipped channels and lipped channels with intermediate stiffeners. A full set of coupon tests reveal material nonlinearity with low proportionality stress and low 
+n
+-parameter, anisotropy, and yield strength enhancements up to 2.33 times due to cold-forming. A total of 19 channel sections were tested and failed by distortional buckling at average ultimate stresses greater than the proportionality stress, and hence were influenced by material nonlinearity, with greater nonlinearity evident for sections with intermediate stiffeners. This paper presents comprehensive procedures to determine stainless steel mechanical properties and their influence on the distortional buckling mode of cold-formed sections. Experimental data required to calibrate finite element models and assess current design guidelines for distortional buckling of stainless steel compression members are provided herein.
+
+
+    
+        AU - Maura Lecce
+    
+        AU - Kim Rasmussen
+    
+
+TI - Distortional Buckling of Cold-Formed Stainless Steel Sections: Finite-Element Modeling and Design
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 505-514
+VI - 132
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2006)132:4(505) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28505%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28505%29
+SO - Journal of Structural Engineering 2006-04-01 132(4): 505-514
+AB - A recent experimental and finite-element research program was conducted on the distortional buckling of axially compressed, cold-formed stainless steel simple lipped channels. Austenitic 304 (1.4301), ferritic 430 (1.4016), and ferritic-like 3Cr12 (1.4003) chromium weldable steel were considered. Finite-element analyses demonstrate that material anisotropy can be ignored. A total of 281 distortional buckling analyses of simple lipped channels with 
+
+r∕t
+
+ ratios of 1 and 2.5 show that enhanced corner properties may be important for sections which have a slenderness 
+
+
+λd
+&lt;1.0
+
+ and at least 10% corner area but have little effect on sections with 
+
+
+λd
+&gt;1.0
+
+. Evaluation of current stainless steel design codes show that the Australian/New Zealand Standard AS/NZS 4673 and the ASCE Specification effective width procedures are unconservative for austenitic and ferritic stainless steels. The Eurocode 3 prEN Part 1-4/preEN Part 1-3 effective width procedures are unconservative for austenitic stainless steel but provide reasonably conservative results for ferritic 430 and 3Cr12 alloys, provided enhanced corner properties are ignored. Direct strength design guidelines for the distortional buckling mode are proposed for austenitic and ferritic stainless steels.
+
+
+    
+        AU - Cheng Yu
+    
+        AU - Benjamin W. Schafer
+    
+
+TI - Distortional Buckling Tests on Cold-Formed Steel Beams
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 515-528
+VI - 132
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2006)132:4(515) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28515%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28515%29
+SO - Journal of Structural Engineering 2006-04-01 132(4): 515-528
+AB - Failure in cold-formed steel beams is generally initiated by one of three instabilities: local, distortional, or lateral-torsional buckling. For cold-formed steel joists, purlins, or girts, when the compression flange is not restrained by attachment to sheathing or paneling, distortional buckling may be the predominant failure mode. Experimental results on cold-formed steel beams with unrestrained compression flanges are scarce. Therefore a series of distortional buckling tests on cold-formed steel C and Z sections in bending was conducted to establish the capacity in distortional buckling failures. Test details were selected to allow distortional buckling to form, but restrict lateral-torsional buckling to the extent possible. These distortional buckling tests also provide a direct comparison against the local buckling tests previously performed by the writers. As expected, large strength reductions are observed in the tested specimens when distortional buckling initiated the failure instead of local buckling. U.S., Canadian, and joint North American standards for design, which are known to primarily focus on local buckling, provided unconservative predictions of the observed strength. The Australian/New Zealand Standard and the direct strength method, which provide explicit methods for calculating the capacity in the distortional buckling mode, provided reasonably accurate and reliable predictions.
+
+
+    
+        AU - Nuno Silvestre
+    
+        AU - Dinar Camotim
+    
+
+TI - Local-Plate and Distortional Postbuckling Behavior of Cold-Formed Steel Lipped Channel Columns with Intermediate Stiffeners
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 529-540
+VI - 132
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2006)132:4(529) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28529%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28529%29
+SO - Journal of Structural Engineering 2006-04-01 132(4): 529-540
+AB - This paper reports a detailed investigation concerning the local-plate and distortional elastic postbuckling behaviors of cold-formed steel lipped channel columns with web and flange intermediate stiffeners (the corresponding unstiffened lipped channel column postbuckling behaviors are often used as reference). This investigation relies on results obtained through geometrically nonlinear analyses based on a recently developed and numerically implemented generalized beam theory (GBT) formulation that incorporates (1) conventional (no shear deformation), (2) shear (nonlinear warping), and (3) transverse extension deformation modes. The numerical results shown provide the evolution, along a given local-plate or distortional postbuckling equilibrium path, of the column (1) deformed configuration and (2) relevant displacement profiles and/or stress distributions—mostly for validation purposes, some of them are compared with values yielded by shell finite element analyses performed by means of the code ABAQUS. In order to assess the influence of the member end support conditions, the paper also includes a comparison between the distortional postbuckling behaviors of columns with pinned / free-to-warp and fixed / warping-prevented end sections. Taking full advantage of the GBT unique modal features, all the above results are discussed in great detail and it becomes possible to unveil, explain, and/or shed some new light on several interesting and scarcely known behavioral aspects. In particular, one is able to provide illuminating and structurally (mechanically) meaningful explanations for the qualitative differences exhibited by the local-plate and distortional postbuckling behaviors of plain and stiffened (web and flanges) lipped channel columns.
+
+
+    
+        AU - Demao Yang
+    
+        AU - Gregory J. Hancock
+    
+
+TI - Numerical Simulation of High-Strength Steel Box-Shaped Columns Failing in Local and Overall Buckling Modes
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 541-549
+VI - 132
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2006)132:4(541) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28541%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28541%29
+SO - Journal of Structural Engineering 2006-04-01 132(4): 541-549
+AB - An experimental research project was conducted to evaluate the compression stability of high strength steel sections. Two buckling modes “local and overall buckling” and the interaction between them were investigated. To further study the structural behavior of the columns thoroughly, finite element analyses were performed using ABAQUS. This paper presents a finite element analysis on the postbuckling behavior of thin-walled compression members of high strength steel with box-shaped columns fabricated from cold-reduced high strength steel plates with nominal yield stress of 550 MPa in 0.42 and 0.60 mm thicknesses. The effect of the input parameters such as the degree of prescribed initial imperfection and the size of the element mesh on the convergence of the solution has been investigated and is discussed. The paper also shows the comparison of loads obtained numerically and experimentally with those predicted on the basis of AS/NZS4600 and the North American Specification. The accurate results of the numerical simulations show that the finite element analysis can be used to predict the ultimate loads of thin-walled members including the postbuckling behavior of thin-walled sections. It is demonstrated that the finite element analysis can therefore be used to design and optimize thin-walled sections of high strength steel.
+
+
+    
+        AU - Perry S. Green
+    
+        AU - Thomas Sputo
+    
+        AU - Viswanath Urala
+    
+
+TI - Strength and Stiffness of Conventional Bridging Systems for Cold-Formed Cee Studs
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 550-557
+VI - 132
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2006)132:4(550) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28550%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28550%29
+SO - Journal of Structural Engineering 2006-04-01 132(4): 550-557
+AB - A testing program has been carried out on typical bridging components and connections used in North American practice to provide bracing to cold-formed lipped cee-studs, in order to determine the in-plane and out-of-plane strength and stiffness of the bridging components and connections. Bridging systems tested included cold-formed bridging channels directly welded to the stud, bridging channels connected to the stud web through a welded connection to a clip angle, and bridging channels connected to the stud web through a screwed connection to a clip angle. Bridging connections were loaded axially (into the stud web) and laterally (parallel to the stud web). Separate analysis of the test results indicates that, within the range tested, conventional bridging used in current North American practice has adequate stiffness and strength to brace axially loaded and curtain wall steel studs.
+
+
+    
+        AU - Gaetano Della Corte
+    
+        AU - Luigi Fiorino
+    
+        AU - Raffaele Landolfo
+    
+
+TI - Seismic Behavior of Sheathed Cold-Formed Structures: Numerical Study
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 558-569
+VI - 132
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2006)132:4(558) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28558%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28558%29
+SO - Journal of Structural Engineering 2006-04-01 132(4): 558-569
+AB - This paper presents and discusses the results of a numerical study on seismic deformation demand to sheathed cold-formed steel structures. It is part of a wider research, involving also physical tests on oriented strand board-sheathed stud walls. Numerical results have been obtained using an ad hoc mathematical model of the hysteresis response of sheathed stud walls, also taking into account the strong nonlinearity of the response for small lateral displacements and the strong pinching of hysteresis loops. This model has been calibrated against data coming from physical tests, using both old available experimental results and newly obtained ones. Numerical results have been elaborated on in order to both judge the seismic performance of the structure under increasing seismic intensity levels and develop an ad hoc cyclic loading protocol for physical tests.
+
+
+    
+        AU - Raffaele Landolfo
+    
+        AU - Luigi Fiorino
+    
+        AU - Gaetano Della Corte
+    
+
+TI - Seismic Behavior of Sheathed Cold-Formed Structures: Physical Tests
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 570-581
+VI - 132
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2006)132:4(570) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28570%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28570%29
+SO - Journal of Structural Engineering 2006-04-01 132(4): 570-581
+AB - The paper presents the results of an experimental study on the seismic behavior of cold-formed steel stud shear walls, sheathed with wood-based [oriented strand board (OSB)], and gypsum-based (wallboard) panels. Tests were carried out on two, nominally identical, prototypes, which were designed in such a way to contain all the structural elements and components used for this type of structure. The first specimen was tested under monotonic loading conditions. The second one was instead tested under cyclic loading conditions, with a loading history previously derived from an ad hoc numerical study of the deformation histories likely to be imposed by typical Italian earthquakes. The results obtained allow consideration of typical seismic behavior issues (capacity design, connections between horizontal diaphragms and vertical walls, performance criteria) to be drawn. In particular, all the components of this structural system can be designed according to capacity design criteria, imposing collapse in the sheathing connections of the vertical shear wall. In addition, no appreciable deformation of the OSB sheathing-to-floor framing connections was observed in both monotonic and cyclic tests.
+
+
+    
+        AU - L. A. Fülöp
+    
+        AU - D. Dubina
+    
+
+TI - Design Criteria for Seam and Sheeting-to-Framing Connections of Cold-Formed Steel Shear Panels
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 582-590
+VI - 132
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2006)132:4(582) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28582%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28582%29
+SO - Journal of Structural Engineering 2006-04-01 132(4): 582-590
+AB - In recent years important research activity has been undertaken in order to determine the earthquake performance of light gauge steel house structures. Usually, studies approach the problem of earthquake performance through experiments on wall panels conducted either under monotonic or cyclic loads. All studies underline the overwhelming importance that the behavior of the connections has in determining the overall performance of wall panels. However, although these studies focused on the global behavior of the panel, they did not try to characterize the behavior of and provide design criteria for connections, as components of the structural system, and to provide relevant design criteria. The present paper attempts to fill this gap.
+
+
+    
+        AU - R. Serrette
+    
+        AU - I. Lam
+    
+        AU - H. Qi
+    
+        AU - H. Hernandez
+    
+        AU - A. Toback
+    
+
+TI - Cold-Formed Steel Frame Shear Walls Utilizing Structural Adhesives
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 591-599
+VI - 132
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2006)132:4(591) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28591%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28591%29
+SO - Journal of Structural Engineering 2006-04-01 132(4): 591-599
+AB - This paper presents the results of two 
+
+610
+mm×2,438
+mm
+
+ and six 
+
+1,219
+mm×2,438
+mm
+
+ reverse cyclically tested cold-formed steel frame shear walls where the sheathing was attached with a structural adhesive and pneumatically driven steel pins. The sheathing materials included 0.69-mm sheet steel and 11.1-mm OSB rated sheathing. Limited in scope, the goal of the study was to explore potential structural and economical benefits that may be available when the primary mechanism of load transfer between the framing and the structural sheathing is a continuous adhesive bond. Mechanical fasteners (steel pins) are expected to provide a means of keeping the sheathing tight against the framing as the adhesive cures and a minimum level of postpeak load resistance. The results showed that the peak wall resistances significantly exceeded the nominal values in the current building codes and standards for similarly sheathed walls without adhesives. However, compared to shear walls without adhesives, the tested walls exhibited more linear responses with higher stiffness and generally larger degradation in strength after the peak resistance. Based on these limited test results and a relatively simple interpretation of the test data, the use of structural adhesives with mechanical fasteners may be beneficial in some applications and warrants a more comprehensive study.
+
+
+    
+        AU - Y. B. Kwon
+    
+        AU - H. S. Chung
+    
+        AU - G. D. Kim
+    
+
+TI - Experiments of Cold-Formed Steel Connections and Portal Frames
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 600-607
+VI - 132
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2006)132:4(600) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28600%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28600%29
+SO - Journal of Structural Engineering 2006-04-01 132(4): 600-607
+AB - A series of connection tests which were composed of closed cold-formed steel sections were conducted to investigate the performance of the connections constituting a pitched roof portal frame. The flexural strength of the section was investigated first and the structural behavior of the connections including the moment-rotation relation, the yield, and ultimate moment capacity of the connections were studied experimentally. The connection test specimens consisted of column base, eave, and apex connections of the portal frame. The main factors of the connection test were the thickness and the shape of the mild steel connection element. Finally, the portal frame was tested under both constant vertical and increasing horizontal loads to failure. The experimental results were compared with the numerical analysis results. The semirigid connection concept was considered for the analysis of the portal frame using the secant stiffness of the connections, which were estimated from the moment-rotation curves of the connections tested.
+
+
+    
+        AU - John L. Dawe
+    
+        AU - James V. Wood
+    
+
+TI - Small-Scale Test Behavior of Cold-Formed Steel Roof Trusses
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 608-615
+VI - 132
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2006)132:4(608) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28608%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28608%29
+SO - Journal of Structural Engineering 2006-04-01 132(4): 608-615
+AB - Twenty three small-scale roof trusses were fabricated from cold-formed steel and tested to ultimate capacity. Each specimen was subjected to a single point load at the ridge. One series of specimens was fabricated with a hinge connection at the ridge while a second series had a gusset plate connection at this location. The hinge served to isolate the strength properties of the heel connection and upper chords while the addition of the ridge plate provided information that could be used to quantify the load sharing between the ridge and heel connections. The performance of several heel plate configurations, altered by adding edge stiffeners and varying their shapes and thicknesses, was evaluated. Local buckling of the top chord adjacent to the heel plate was the predominant failure mechanism in combination with distortion of the heel plates in instances where the plates were inadequately stiffened. Methods of reinforcing the top chords to prevent local buckling were investigated.
+
+
+    
+        AU - James V. Wood
+    
+        AU - John L. Dawe
+    
+
+TI - Full-Scale Test Behavior of Cold-Formed Steel Roof Trusses
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 616-623
+VI - 132
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2006)132:4(616) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28616%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28616%29
+SO - Journal of Structural Engineering 2006-04-01 132(4): 616-623
+AB - Ten full-scale roof trusses fabricated from cold-formed steel channel sections were tested to ultimate capacity under concentrated panel point loading. As the test program moved forward and failure modes became manifest, various practical means of increasing truss capacity were investigated. While gusset plates at the heel connections in bearing were a significant factor in strength determination, local buckling of the top chord adjacent to the heel plates was the predominant failure mechanism. Trusses that experienced this local buckling failure exhibited postbuckling ductility, whereas failures at the connections in bearing were sudden. A truss was subjected to partial point loading to simulate the effect of a partial roof snow load and the experimental ultimate capacity substantiated the predicted capacity. A beam–column analysis of the top chord in the region where failure occurred was performed in accordance with the requirements of the Canadian Standards Association CSA S136-01. The calculated nominal resistance was 12% conservative as compared to the experimental ultimate capacity of the truss. The trusses were sufficiently stiff to satisfy a deflection requirement of the span length 
+
+(L)
+
+ divided by 360.
+
+
+    
+        AU - Nuthaporn Nuttayasakul
+    
+        AU - W. Samuel Easterling
+    
+
+TI - Behavior of Complex Hat Shapes Used as Truss Chord Members
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 624-630
+VI - 132
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2006)132:4(624) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28624%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28624%29
+SO - Journal of Structural Engineering 2006-04-01 132(4): 624-630
+AB - Cold-formed steel roof truss systems that use complex hat shape members for both top and bottom chord elements are a growing trend in the North America steel framing industry. When designing cold-formed steel sections, a structural engineer typically tries to improve the local buckling behavior of the cold-formed steel elements. The complex hat shape has proven to limit the negative influence of local buckling. However, a distortional buckling mode can be the control mode of failure in the design for the chord member with an intermediate unbraced length. The chord member may be subjected to both bending and compressive load because of the continuity of the top and bottom chord members. These members are not typically braced between each panel point in a truss. Numerical analyses using finite strip and finite element procedures were developed to compare with experimental results. A parametric study on geometric imperfection was also conducted to investigate the factors that affect the ultimate strength behavior of a particular complex hat shape. Better understanding of the flexural behavior of these complex hat shapes is necessary to obtain efficient, safe designs of a truss system. The results of these analyses will be presented in the paper.
+
+
+    
+        AU - Maria M. Pham
+    
+        AU - Julie E. Mills
+    
+        AU - Yan Zhuge
+    
+
+TI - Experimental Capacity Assessment of Cold-Formed Boxed Stud and C Stud Wall Systems Used in Australian Residential Construction
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 631-635
+VI - 132
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2006)132:4(631) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28631%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28631%29
+SO - Journal of Structural Engineering 2006-04-01 132(4): 631-635
+AB - The performance of cold-formed steel Boxed stud and C section wall systems under axial compression, bending, and combined axial and bending loads has recently been investigated at the University of South Australia. This Technical Note summarizes the experimental procedures and capacity assessment of single-plasterboard-sheathed panels in comparison with unsheathed steel frames tested under axial compressive load. The paper also presents the structural behaviors of panels with plasterboard sheathing under the influence of bending only and combined axial and bending loads. The analysis of the test results led to numerous interesting conclusions about the behavior of single-plasterboard-sheathed panels within brick veneer wall systems.
+
+
+    
+        AU - Gustavo Monteiro de Barros Chodraui
+    
+        AU - Jorge Munaiar Neto
+    
+        AU - Roberto Martins Gonçalves
+    
+        AU - Maximiliano Malite
+    
+
+TI - Distortional Buckling of Cold-Formed Steel Members1
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 636-639
+VI - 132
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(2006)132:4(636) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28636%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A4%28636%29
+SO - Journal of Structural Engineering 2006-04-01 132(4): 636-639
+AB - Cold-formed steel members are widely employed in steel construction because they are lighter and more economical than traditional hot-rolled ones. Nowadays, the easy availability and accessible cost of high-strength low-alloy steels, weathering steels, and zinc-coated steels have led to members with high width/thickness ratios, rendering them even more susceptible to local buckling and to another buckling mode called distortional buckling, affecting mainly members with edge stiffeners (lipped channels, Z sections, hat, rack, etc.). Hence, current versions of technical codes for cold-formed steel design have warned about the importance of this phenomenon, outlining procedures to evaluate member strength based on distortional buckling, e.g., the simplified model of the Australian/New Zealand Standard AS/NZS 4600 proposed by Lau and Hancock, also adopted by the Brazilian Standard NBR 14762. In this study, an analysis is made about lipped channels under compression and bending, comparing the results obtained through the Brazilian Standard simplified model against those of the elastic analysis via the finite strip method, evaluating the conformity and the range of validity of the simplified model application.
+
+

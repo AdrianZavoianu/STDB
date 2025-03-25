@@ -1,0 +1,220 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Pinelopi Kyvelou
+    
+        AU - Leroy Gardner
+    
+        AU - David A. Nethercot
+    
+
+TI - Testing and Analysis of Composite Cold-Formed Steel and Wood−Based Flooring Systems
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017146
+VI - 143
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001885 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001885
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001885
+SO - Journal of Structural Engineering 2017-11-01 143(11): 04017146
+AB - An experimental study was conducted into the degree of composite action that can arise between cold-formed steel joists and wood-based flooring panels. A series of material, push-out and 4-point bending tests were carried out, and alternative means of shear connection, featuring fasteners and adhesives, were investigated. It was found that the spacing of the fasteners and the application of structural adhesive at the beam-board interface had a significant influence on the attained degree of shear connection and, hence, the moment capacity and flexural stiffness of the system. The highest degree of shear connection (up to approximately 60%) was obtained using the structural adhesive, bringing corresponding increases in capacity and stiffness of approximately 100 and 40%, respectively, over the bare steel. Smaller, but still very significant, increases in capacity and stiffness were achieved through the use of screws alone. On the basis of the results of the push-out tests, a load-slip relationship for screw fasteners in wood-based floorboards was proposed; this was designed for use in future analytical and numerical models. The findings of this research demonstrate, for the first time, the benefits that can be derived through the practical exploitation of composite action in cold-formed steel flooring systems in terms of enhanced structural performance and efficiency of material use.
+
+
+    
+        AU - Tian-Yi Song
+    
+        AU - Zhong Tao
+    
+        AU - Lin-Hai Han
+    
+        AU - Brian Uy
+    
+
+TI - Bond Behavior of Concrete-Filled Steel Tubes at Elevated Temperatures
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017147
+VI - 143
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001890 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001890
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001890
+SO - Journal of Structural Engineering 2017-11-01 143(11): 04017147
+AB - Extensive studies have been conducted into the bond behavior in concrete-filled steel tubes (CFST) at ambient temperature. However, the bond behavior of CFST columns subjected to fire is still unclear. A total of 24 push-out tests were conducted to investigate the bond strength of CFST columns at elevated temperatures, 12 reference specimens at ambient temperature, and 16 postfire specimens were also tested for comparison. The main test parameters explored in this test program include: steel type (carbon and stainless steels), concrete type (normal and expansive concretes), cross-section type (circular and square sections), interface type (normal interface, interface with shear studs, and interface with an internal ring), temperature level (20, 200, 400, 600, and 800°C), hold time period of heating (45, 90, 135, and 180&nbsp;min), and applied axial load during heating. The experimental results indicated that the bond of specimens with normal interface could be completely broken in fire. However, welding internal rings or shear studs onto the inner surface of the steel tube can effectively retain a portion of the bond strength in fire.
+
+
+    
+        AU - Baochun Chen
+    
+        AU - Zhichao Lai
+    
+        AU - Qiaoling Yan
+    
+        AU - Amit H. Varma
+    
+        AU - Xinmeng Yu
+    
+
+TI - Experimental Behavior and Design of CFT-RC Short Columns Subjected to Concentric Axial Loading
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017148
+VI - 143
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001879 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001879
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001879
+SO - Journal of Structural Engineering 2017-11-01 143(11): 04017148
+AB - Concrete-filled steel tube (CFT)–RC composite members consist of multiple CFT columns connected by RC plates or webs. CFT-RC composite members have been used in different types of structures, for example, as ribs in long-span arch bridges and as tall piers supporting long-span bridges. However, there is limited knowledge regarding their fundamental axial load-displacement behavior, and a general lack of behavior-based design equations for estimating their axial compressive strength. This paper addresses these knowledge gaps by presenting experimental results from axial loading tests conducted on 14 short (stub) column specimens. These include seven CFT-RC columns, four CFT columns, and three RC plates. The parameters included in the tests are the thickness of the steel tube wall (ts) and RC plates (tp). An experimental database of 104 CFT column tests conducted around the world is also compiled. The experimental results from the tests conducted in this research are combined with those from the compiled database and used together to develop behavior-based design equations for estimating the axial compressive strength of short CFT-RC columns.
+
+
+    
+        AU - Mohammad Salehi
+    
+        AU - Petros Sideris
+    
+        AU - Abbie B. Liel
+    
+
+TI - Numerical Simulation of Hybrid Sliding-Rocking Columns Subjected to Earthquake Excitation
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017149
+VI - 143
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001878 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001878
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001878
+SO - Journal of Structural Engineering 2017-11-01 143(11): 04017149
+AB - This paper introduces a novel element formulation for the dynamic analysis of bridges incorporating posttensioned segmental columns with hybrid sliding-rocking (HSR) joints distributed over their height. These columns are termed HSR columns. Bridges with HSR columns combine construction rapidity with superior seismic performance through joint sliding and rocking, thereby offering large deformation capacity with low damage, energy dissipation and self-centering properties. Hybrid sliding-rocking columns are typically designed, under quasi-static (single-mode) conditions, to exhibit rocking at the end joints and sliding at the intermediate joints over the column height. However, when HSR columns are subjected to arbitrary dynamic loading, any joint can exhibit sliding or rocking or both, depending on the intensity and frequency content of the applied load. As a result, there is a need for models capable of predicting such complex responses. The proposed two-node HSR element formulation combines a gradient inelastic (GI) flexibility-based (FB) beam-column element formulation that accounts for member material deformations and joint rocking with a hysteretic friction model that accounts for joint sliding. Joint rocking is considered within the GI FB element via a joint cross section of zero tensile strength. The proposed HSR element addresses major deficiencies of existing modeling approaches, including strain localization and loss of objectivity (lack of convergence with mesh refinements) due to the cross section of zero tensile strength. The proposed HSR element formulation is utilized to simulate two past experiments: a quasi-static test on an HSR column and a shake table test on a single-span bridge with two single-column HSR piers. None of the computational simulations exhibit instabilities in the numerical solution, which are common in analyses with models including friction elements subjected to rapidly fluctuating contact loads, demonstrating the good stability properties of the proposed HSR element formulation. The analysis results match the test data reasonably well, particularly in terms of peak forces and displacements, demonstrating that the proposed formulation can be used to further investigate the design and performance of HSR systems.
+
+
+    
+        AU - Guo-hua Sun
+    
+        AU - Chuang-Sheng Walter Yang
+    
+        AU - Qiang Gu
+    
+        AU - Reginald DesRoches
+    
+        AU - You-zhen Fang
+    
+
+TI - Cyclic Tests of Steel Frames with Concealed Vertical Slits in Reinforced Concrete Infill Walls
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017150
+VI - 143
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001895 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001895
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001895
+SO - Journal of Structural Engineering 2017-11-01 143(11): 04017150
+AB - Experimental testing revealed that installing concealed vertical slits in reinforced concrete (RC) infill walls enabled the RC infill walls to behave in a more ductile manner (as compared to conventional solid RC walls), leading to better seismic performance for a partially restrained (PR) steel frame with the innovative walls. To better understand the new system behavior, four subassemblages of steel frames with the prescribed concealed vertical slit RC walls were tested at a 1/3 scale under horizontal cyclic loading and are presented in this paper. Three of the steel frames were PR, and one frame was fully restrained. The hysteretic behavior, failure mode, deformability, ductility, stiffness degradation, and energy dissipation capacity of the steel frames with the concealed vertical slit RC infill walls were investigated. The effects of the height-to-width ratio of vertical channels, concrete type of concealed vertical slits, section type of steel columns, and boundary condition of test specimens were examined and compared. All of the test specimens exhibited high lateral strengths, stiffness values, and overstrength capacities without failing in a brittle manner, and a two-stage mechanical characteristic was observed in each specimen. When the test specimens were pushed to a target interstory drift ratio of 0.75%, the concealed vertical slits started to penetrate through the wall thickness. At the interstory drift ratio of approximately 1.00%, the test specimens reached the peak load, which corresponded to the onset of the second-stage mechanism. After the concealed vertical slits crushed, the lateral strength and stiffness decreased gradually. Specimen S-CVSW3, which had steel fibers added inside the RC infill walls, had the best seismic performance of the four specimens. The test specimen with concrete-filled, square tube columns exhibited hysteretic loops that were much more pinched than the other specimens. The concealed vertical slits demonstrated great ability to reduce the degradation of the postpeak strength, achieving the desired ductile failure mode.
+
+
+    
+        AU - Wenying Zhang
+    
+        AU - Mahsa Mahdavian
+    
+        AU - Yuanqi Li
+    
+        AU - Cheng Yu
+    
+
+TI - Seismic Performance Evaluation of Cold-Formed Steel Shear Walls Using Corrugated Steel Sheathing
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017151
+VI - 143
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001891 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001891
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001891
+SO - Journal of Structural Engineering 2017-11-01 143(11): 04017151
+AB - Cold-formed steel shear wall with corrugated sheet steel sheathing is a newly proposed lateral force resisting system from recent research work. The advantages of noncombustibility, high shear strength and high shear stiffness enable this new wall system to be a feasible solution for low- and midrise construction at high wind and seismic zones. The design provisions for this new type of shear wall have not been developed in current design specifications. The initial phase of this research project involved the displacement-based testing of bearing wall and shear wall specimens under combined lateral and gravity loading. The phase two research, presented here, includes the nonlinear finite element analysis and the performance evaluation of a set of light framed steel buildings using the corrugated sheet sheathed shear walls. Incremental dynamic analyses were performed on six archetype buildings and seismic performance assessment was evaluated. The results verify a set of seismic performance factors (R=Cd=6.5 and Ω=3.0) for the corrugated sheet sheathed shear wall systems.
+
+
+    
+        AU - Robert V. Johns
+    
+        AU - Simon K. Clubley
+    
+
+TI - Experimentally Investigating Annealed Glazing Response to Long-Duration Blast
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017152
+VI - 143
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001888 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001888
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001888
+SO - Journal of Structural Engineering 2017-11-01 143(11): 04017152
+AB - This paper examines the response of annealed glazing panels when subject to long-duration blast loading. In particular, it quantifies glazing response metrics while varying glazing thickness, glazing area, aspect ratio, and edge conditions. With positive phases exceeding 100&nbsp;ms long-duration blasts result in significant specific impulse and dynamic pressures. The transient dynamic response of annealed glazing during these events is a complex function of structural arrangement, material properties, and explosive proximity. Twelve full-scale air blast trials using a heavily armored test structure subjected 24 glazing panels to approximately 14-kPa free-field overpressure and approximately 110-ms positive-phase duration. Results are reported where it is shown that elastic-edge supports can prevent glazing breakage better than rigidly clamped arrangements when suitable panel dimensions are employed. Fragmentation modes are also demonstrated to be a function of edge conditions, with elastically supported panels producing large, angular fragments. In contrast, rigid arrangements are shown to induce localized impulsive stress transmission at clamped edges, leading to significant cracking and small fragments. Substantially different fragment masses and geometries demonstrate the need to accurately quantify edge supports when appraising fragment hazard. Quantification of peak panel deflection, breakage time, and applied breakage impulse is then presented, with results showing the influence of edge supports and aspect ratio on glazing response to be dependent on proximity to the threshold area for a particular thickness.
+
+
+    
+        AU - Marta Del Zoppo
+    
+        AU - Marco Di Ludovico
+    
+        AU - Gerardo Mario Verderame
+    
+        AU - Andrea Prota
+    
+
+TI - Experimental Behavior of Nonconforming RC Columns with Deformed Bars under Constant Axial Load and Fixed Biaxial Bending
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017153
+VI - 143
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001892 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001892
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001892
+SO - Journal of Structural Engineering 2017-11-01 143(11): 04017153
+AB - Although recent efforts have been made to understand the behavior of RC members subjected to cyclic biaxial bending, the experimental data available in the literature are still limited for making conclusions about the influence of biaxial actions on the inelastic response of RC columns. To analyze the effects of biaxial bending on the seismic behavior of existing RC columns with design characteristics nonconforming to modern seismic codes, the results of an experimental program on RC columns under constant axial load and cyclic uniaxial/biaxial bending are presented in this paper. The experimental data set consists of ten tests (seven new tests and three previously published by the authors) on full-scale columns reinforced with deformed bars: six square columns and four rectangular columns. The square columns are tested with diagonal cyclic displacement paths with inclination angles of 0°, 30°, and 45° with respect to the cross section principal axes and axial load ratios of 0.1 and 0.2. Rectangular columns are subjected to horizontal displacements with inclination angles of 0°, 30°, 45°, and 90° with respect to the cross section principal axes and an axial load ratio 0.1. The effects of different horizontal displacement orientations on column performance is investigated and discussed in terms of strength, deformation capacity, and damage at failure.
+
+
+    
+        AU - Miloš Petrović
+    
+        AU - Božidar Stojadinović
+    
+        AU - Nebojša Mojsilović
+    
+
+TI - I-Shaped Unreinforced Masonry Wallettes with a Soft-Layer Bed Joint: Behavior under Static-Cyclic Shear
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017154
+VI - 143
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0001884 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001884
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001884
+SO - Journal of Structural Engineering 2017-11-01 143(11): 04017154
+AB - In order to extend the latest findings on the in-plane shear behavior of rectangular unreinforced masonry (URM) wallettes with soft-layer bed joints and gain insight into the possible influence of flanges, two series of static-cyclic shear tests on I-shaped (flanged) URM wallettes have been conducted. The wallettes were made of standard Swiss clay blocks and standard cement mortar including a rubber granulate soft layer placed in the bottom bed joint. The test results show that the flanges considerably increased the horizontal force resistance and the initial stiffness of the I-shaped wallettes compared to rectangular wallettes. Further, it appeared that the presence of a soft layer can provide for significant seismic response modification by reducing the initial stiffness and significantly increasing the displacement capacity of the I-shaped wallettes. An analytical model based on discontinuous stress fields is proposed to predict the horizontal force resistance of the I-shaped wallettes with soft-layer bed joints.
+
+

@@ -1,0 +1,533 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Paul E. Mast
+    
+
+TI - Analysis Comparison for Single Curved Shell Roofs
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 1-14
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001231 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001231
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001231
+SO - Journal of the Structural Division 1965-04-01 91(2): 1-14
+AB - Analysis comparisons for single cylindrical shells show that the ordinary folded plate theory with correction for relative joint displacements gives adequate results, except for the moments, if the sides-ratio is bigger than about five. Using folded plate analysis methods based on the theory of elasticity gives adequate results for sides-ratio bigger than about two. The latter method is especially useful for the analysis of flat and short shells of non-circular shape, for which no solutions by shell theory exist. Analysis comparisons for V-shaped folded plates show that the ordinary theory is applicable throughout the feasible design range, i.e., even for sides-ratios as small as two. Only the moment might require some adjustment subsequent to the rigorous analysis for sides-ratios smaller than five, depending on the width of the outer plate. Results considering and neglecting Poisson's ratio are compared. They show that this ratio may be neglected for design purposes.
+
+
+    
+        AU - J. Laginha Serafim
+    
+        AU - J. Oliveira Pedro
+    
+
+TI - Seismic Study of Arch Dams
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 15-25
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001236 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001236
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001236
+SO - Journal of the Structural Division 1965-04-01 91(2): 15-25
+AB - Analysis comparisons for single cylindrical shells show that the ordinary folded plate theory with correction for relative joint displacements gives adequate results, except for the moments, if the sides-ratio is bigger than about five. Using folded plate analysis methods based on the theory of elasticity gives adequate results for sides-ratio bigger than about two. The latter method is especially useful for the analysis of flat and short shells of non-circular shape, for which no solutions by shell theory exist. Analysis comparisons for V-shaped folded plates show that the ordinary theory is applicable throughout the feasible design range, i.e., even for sides-ratios as small as two. Only the moment might require some adjustment subsequent to the rigorous analysis for sides-ratios smaller than five, depending on the width of the outer plate. Results considering and neglecting Poisson's ratio are compared. They show that this ratio may be neglected for design purposes.
+
+
+    
+        AU - B. E. Gatewood
+    
+        AU - Norik Ohanian
+    
+
+TI - Tri-Diagonal Matrix Method for Complex Structures
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 27-41
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001255 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001255
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001255
+SO - Journal of the Structural Division 1965-04-01 91(2): 27-41
+AB - If the structure can be arranged in sections so that members from each section attach only in the section or to the two adjacent sections, then it is possible to generate the stiffness matrix directly in tri-diagonal submatrix form from the generalized force displacement equation for each member and the equilibrium equations for each joint of the structure. The solution for the generalized displacements is accomplished by using the submatrices of the stiffness matrix. The largest matrix that has to be inverted has a size equal to the number of generalized displacements in the largest section. The equations are set up for six generalized forces in each member, six generalized displacements at each joint, variable area and moment of inertia of members, variable temperature in members, large deflections, inelastic effects in axial load and bending, preloads or residual loads, local loads between joints, and various end conditions on the members. An example compares the forces and deflections in a simple two-dimensional redundant truss for pinned joints and for rigid joints.
+
+
+    
+        AU - Alan G. Davenport
+    
+        AU - George N. Steels
+    
+
+TI - Dynamic Behavior of Massive Guy Cables
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 43-70
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001256 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001256
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001256
+SO - Journal of the Structural Division 1965-04-01 91(2): 43-70
+AB - The dynamic behavior of massive guy cables under the action of an harmonic guy-top excitation and viscous damping is studied. Theoretical expressions for the complex stiffness modulus and vibration amplitudes are derived, based on the parabolic approximation of the cable form. The complex guy stiffness is expressed as two functions, corresponding to the horizontal guy reaction in phase and in quadrature with the deflection. The stiffnesses are expressed nondimensionally in terms of the soil called taut wire stiffness as functions of the initial cable strain, the ratio of cable weight to tension, the critical damping ratio, and a dimensional frequency ratio based on the taut wire frequency. Experiments on dynamic model guy cables confirm that the results are accurate for small amplitude motions. The study showed that a potentially dangerous situation arises at certain characteristic frequencies of the guy when the modulus becomes negative and the guy then tends to pull the mast over.
+
+
+    
+        AU - Roger G. Slutter
+    
+        AU - George C. Driscoll
+    
+
+TI - Flexural Strength of Steel-Concrete Composite Beams
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 71-99
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001257 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001257
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001257
+SO - Journal of the Structural Division 1965-04-01 91(2): 71-99
+AB - Tests on twelve single span and one two-span continuous, full scale composite beams are described, and the results evaluated. The investigation was concerned with determining the minimum number of shear connectors required for steel and concrete composite beams in buildings. A thorough examination of the ultimate strength of members was made. A criterion for the minimum shear connector requirement was derived based on the ultimate strength of the members. Relationships between the ultimate strengths of commonly used types of mechanical shear connectors and the ultimate strength of a composite beam are developed. The deflection of members is shown to be larger for beams with the minimum recommended shear connection as compared to theoretical bending deflections, and the magnitude of these deflections is discussed.
+
+
+    
+        AU - Richard T. Douty
+    
+        AU - William McGuire
+    
+
+TI - High Strength Bolted Moment Connections
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 101-128
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001230 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001230
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001230
+SO - Journal of the Structural Division 1965-04-01 91(2): 101-128
+AB - The performance and design of the more common types of high strength bolted moment connections are discussed. Experimental and analytical results are presented on: (1) T-stub web-to-beam flange connections, (2) T-stub flange-to-column connections, (3) assembled T-stub connections, and (4) end plate connections. Among the specific topics covered are: The ultimate resisting moment of a beam with bolt holes in both flanges and the circumstances under which prying forces develop between a tension T-stub or an end plate and its supporting column, and the magnitude of these prying forces. Elastic and plastic design of bolted moment connections are suggested.
+
+
+    
+        AU - James W. Gillespie
+    
+
+TI - Analysis of Truss-Plate Structures
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 129-146
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001232 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001232
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001232
+SO - Journal of the Structural Division 1965-04-01 91(2): 129-146
+AB - The analysis of space truss structures by the method of plate analogy is presented. By this procedure the three-dimensional problem is reduced to a series of coplanar problems. The presentation is directly applicable to those space trusses formed in the general shape of folded-plates and shells of single or double curvature. The structure may be statically determinate or indeterminate, internally or externally, depending on the arrangement of bars and support conditions. Calculation of redundants is handled by the same general philosophy as for coplanar trusses. The presence of internal redundants does not alter the procedure for calculation of edge forces; also, internal panel redundants do not produce any edge forces. The plate elements must be stable and capable of resisting forces in their own planes. The common assumptions of truss analysis are made; secondary effects are not discussed. A numerical example is worked to demonstrate the procedure of application.
+
+
+    
+        AU - Robert A. Bendigo
+    
+        AU - Roger M. Hansen
+    
+        AU - John L. Rumpf
+    
+
+TI - Closure to “Long Bolted Joints”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 149-150
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001233 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001233
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001233
+SO - Journal of the Structural Division 1965-04-01 91(2): 149-150
+
+
+    
+        AU - John L. Rumpf
+    
+        AU - John W. Fisher
+    
+
+TI - Closure to “Calibration of A325 Bolts”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 150-151
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001234 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001234
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001234
+SO - Journal of the Structural Division 1965-04-01 91(2): 150-151
+
+
+    
+        AU - George G. Goble
+    
+
+TI - Closure to “Analysis of Folded Plate Structures”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 151-153
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001235 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001235
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001235
+SO - Journal of the Structural Division 1965-04-01 91(2): 151-153
+
+
+    
+        AU - Theo Ginsburg
+    
+
+TI - Closure to “Propagation of Shock Waves in the Ground”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 153-154
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001237 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001237
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001237
+SO - Journal of the Structural Division 1965-04-01 91(2): 153-154
+
+
+    
+        AU - Vicenzo Franciosi
+    
+        AU - Giuliano Augusti
+    
+        AU - Renato Sparacio
+    
+
+TI - Closure to “Collapse of Arches Under Repeated Loading”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 154-155
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001238 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001238
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001238
+SO - Journal of the Structural Division 1965-04-01 91(2): 154-155
+
+
+    
+        AU - Stanton E. Huey
+    
+
+TI - Closure to “Design of Haunched Beams by Fixed Points”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 155-156
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001239 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001239
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001239
+SO - Journal of the Structural Division 1965-04-01 91(2): 155-156
+
+
+    
+        AU - Chuan C. Feng
+    
+        AU - Richard D. Benton
+    
+
+TI - Closure to “Flow Graph of Moment Distribution”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 157-157
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001240 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001240
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001240
+SO - Journal of the Structural Division 1965-04-01 91(2): 157-157
+
+
+    
+        AU - John E. Gibson
+    
+        AU - Graham H. Powell
+    
+
+TI - Discussion of “Direct Stiffness Solution for Folded Plates”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 158-171
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001242 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001242
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001242
+SO - Journal of the Structural Division 1965-04-01 91(2): 158-171
+
+
+    
+        AU - K. T. Sundara Raja Iyengar
+    
+        AU - K. Chandrashekhara
+    
+        AU - Alexander Dodge
+    
+
+TI - Discussion of “Anchor Zone Stresses in Prestressed Concrete Beams”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 171-187
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001243 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001243
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001243
+SO - Journal of the Structural Division 1965-04-01 91(2): 171-187
+
+
+    
+        AU - Donald McDonald
+    
+        AU - John F. Ely,
+    
+        AU - S. Sergev
+    
+        AU - Bruno Barbarito
+    
+
+TI - Discussion of “Influence Functions for Beams on Elastic Foundations”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 187-194
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001244 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001244
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001244
+SO - Journal of the Structural Division 1965-04-01 91(2): 187-194
+
+
+    
+        AU - A. A. Eremin
+    
+
+TI - Discussion of “Stress Analysis of Prestressed Suspended Roofs”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 194-194
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001245 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001245
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001245
+SO - Journal of the Structural Division 1965-04-01 91(2): 194-194
+
+
+    
+        AU - William E. Saul
+    
+
+TI - Discussion of “Earthquake Response of Systems with Bilinear Hysteresis”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 195-196
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001246 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001246
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001246
+SO - Journal of the Structural Division 1965-04-01 91(2): 195-196
+
+
+    
+        AU - Keiichiro Hayashi
+    
+
+TI - Discussion of “Frames of Solid Bars of Varying Cross Sections”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 197-197
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001247 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001247
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001247
+SO - Journal of the Structural Division 1965-04-01 91(2): 197-197
+
+
+    
+        AU - K. S. Subba Rao
+    
+        AU - William L. Gamble
+    
+
+TI - Discussion of “Ultimate Strength of Reinforced Concrete Flat Slabs”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 197-201
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001248 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001248
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001248
+SO - Journal of the Structural Division 1965-04-01 91(2): 197-201
+
+
+    
+        AU - A. A. Eremin
+    
+
+TI - Discussion of “Buckling of a Prestressed Circular Ring”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 201-201
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001249 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001249
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001249
+SO - Journal of the Structural Division 1965-04-01 91(2): 201-201
+
+
+    
+        AU - Frederic T. Mavis
+    
+
+TI - Discussion of “Steady-State Versus Run-Down Tests of Structures”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 202-203
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001250 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001250
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001250
+SO - Journal of the Structural Division 1965-04-01 91(2): 202-203
+
+
+    
+        AU - Frederic T. Mavis
+    
+
+TI - Discussion of “Parabolic Arches of Variable Thickness”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 203-204
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001251 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001251
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001251
+SO - Journal of the Structural Division 1965-04-01 91(2): 203-204
+
+
+    
+        AU - Noel J. Gardner
+    
+
+TI - Discussion of “Optimum Structural Design Using Linear Programming”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 205-205
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001252 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001252
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001252
+SO - Journal of the Structural Division 1965-04-01 91(2): 205-205
+
+
+    
+        AU - Frederic T. Mavis
+    
+        AU - Jan J. Tuma
+    
+        AU - M. N. Reddy
+    
+
+TI - Discussion of “Three Moment Equation for Variable Depth Beams”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 205-211
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001253 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001253
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001253
+SO - Journal of the Structural Division 1965-04-01 91(2): 205-211
+
+
+    
+        AU - Frederic T. Mavis
+    
+
+TI - Discussion of “Direct Design of Framed Structures”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 212-213
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001254 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001254
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001254
+SO - Journal of the Structural Division 1965-04-01 91(2): 212-213
+
+
+    
+        AU - Richard R. Bradshaw
+    
+
+TI - Erratum for “Aeroelastic Vibration of a Steel Arch”
+PT - Journal Article
+DP - 1965
+TA - Journal of the Structural Division
+PG - 158-158
+VI - 91
+IP - 2
+AID - 10.1061/JSDEAG.0001241 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001241
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001241
+SO - Journal of the Structural Division 1965-04-01 91(2): 158-158
+
+

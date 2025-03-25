@@ -1,0 +1,416 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Theodore V. Galambos
+    
+        AU - Bruce Ellingwood
+    
+        AU - James G. MacGregor
+    
+        AU - C. Allin Cornell
+    
+
+TI - Probability Based Load Criteria: Assessment of Current Design Practice
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 959-977
+VI - 108
+IP - 5
+AID - 10.1061/JSDEAG.0005958 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005958
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005958
+SO - Journal of the Structural Division 1982-05-01 108(5): 959-977
+AB - This is the first of two papers that describe a study conducted to develop probability-based load factors and load combinations suitable for use with the loads specified in American National Standard A58 on design loads and with all common construction materials and technologies. The first part of the study, described in this paper, involved the selection of a probabilistic methodology for performing the necessary reliability analyses and the collection and examination of statistical data on structural resistance and loads.
+
+
+    
+        AU - Bruce Ellingwood
+    
+        AU - James G. MacGregor
+    
+        AU - Theodore V. Galambos
+    
+        AU - C.Allin Cornell
+    
+
+TI - Probability Based Load Criteria: Load Factors and Load Combinations
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 978-997
+VI - 108
+IP - 5
+AID - 10.1061/JSDEAG.0005959 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005959
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005959
+SO - Journal of the Structural Division 1982-05-01 108(5): 978-997
+AB - This is the second of two papers that describe a study conducted to develop probability-based load factors and load combinations suitable for use with common construction materials and technologies. In the second phase of the study, described in this paper, the checking equation format for the proposed load criteria was selected, and the load factors and load combinations were computed using a constrained optimization procedure.
+
+
+    
+        AU - Il-Bahng Park
+    
+        AU - Walter D. Pilkey
+    
+
+TI - Minimax Finite Element Method
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 998-1011
+VI - 108
+IP - 5
+AID - 10.1061/JSDEAG.0005960 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005960
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005960
+SO - Journal of the Structural Division 1982-05-01 108(5): 998-1011
+AB - The minimax method is applied to boundary value problems of structural mechanics. This is a weighted residual method in which the absolute value of a residual is minimized. It is similar to collocation-based finite elements. Computational implementation is achieved using linear programming. Since inequality constraints are acceptable to linear programming, the minimax method can bm used to solve problems formulated using inequality relationships. For example, the minimax finite element method can perform limit analyses or can be applied to such contact problems as offset supports. The proposed approach is formulated in some detail. It is then applied to some elasticity stress analysis problems and to the limit analysis of a beam. The method appears to be relatively easy to set up and gives satisfactory results.
+
+
+    
+        AU -  
+    
+
+TI - Bridge Loading: Research Needed
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 1012-1020
+VI - 108
+IP - 5
+AID - 10.1061/JSDEAG.0005940 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005940
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005940
+SO - Journal of the Structural Division 1982-05-01 108(5): 1012-1020
+AB - The need for research in areas of bridge loading is examined. It is argued that one reason research is incomplete is poor definition of the requirements. The main priorities for research are defined. Subjects for research include traffic loading for both long and short span bridges, braking, or longitudinal, forces, fatigue, and environmental effects. Research problems are given.
+
+
+    
+        AU - Christian Meyer
+    
+
+TI - Design Life Simulation of a PCRV
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 1021-1033
+VI - 108
+IP - 5
+AID - 10.1061/JSDEAG.0005941 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005941
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005941
+SO - Journal of the Structural Division 1982-05-01 108(5): 1021-1033
+AB - A nonlinear three-dimensional finite element program was used to analyze the prestressed concrete reactor vessel (PCRV) of a high-temperature gas-cooled reactor. The various loading conditions were selected to simulate the 40-year design life of the vessel. The computer program was developed to consider the nonlinear behavior of concrete, including cracking, crushing, and creep; the elasto-plastic behavior of steel liner plates; prestressing effects due to unbonded tendons and circumferential prestress. The program theory has been described elsewhere. This paper deals with the application of the program to the study of a PCRV. The vessel's response to various normal, abnormal, and extreme loading conditions are discussed together with the approaches taken to assess the safety against failure.
+
+
+    
+        AU - Mircea Grigoriu
+    
+
+TI - Estimates of Design Wind from Short Records
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 1034-1048
+VI - 108
+IP - 5
+AID - 10.1061/JSDEAG.0005942 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005942
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005942
+SO - Journal of the Structural Division 1982-05-01 108(5): 1034-1048
+AB - Wind speeds of various average return periods are estimated from the series of hourly mean wind speeds assumed independent. This hypothesis of independence is suggested by characteristics of the largest value distribution of Gaussian and non-Gaussian series. The confidence in this estimator of wind speed is subsequently examined when the shape of the instantaneous distribution of the hourly mean wind speed series is available but its parameters are unknown. It is found that the estimators are generally accurate even when the available record is short, e.g. 1 to 5 years of hourly readings. This conclusion is supported by test cases involving records of hourly mean wind speeds in Sydney and Lisbon. On the other hand, the conventional method based on Gumbel lines fitted to yearly maximum wind speeds is inaccurate when based on records of similar sizm.
+
+
+    
+        AU - Edward G. Nawy
+    
+        AU - Maurice M. Ukadike
+    
+        AU - Perumalsamy N. Balaguru
+    
+
+TI - Investigation of Concrete: PMC Composite
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 1049-1063
+VI - 108
+IP - 5
+AID - 10.1061/JSDEAG.0005943 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005943
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005943
+SO - Journal of the Structural Division 1982-05-01 108(5): 1049-1063
+AB - This paper presents the results of an experimental investigation on the behavior of concrete–Polymer Modified Concrete two-layered composite beams (PMC). Sixteen simply supported beam specimens were tested to failure. While the principal parameter of this investigation was the variation of the top PMC layer thickness; the major aspects studied were the load-deflection and cracking behavior, the mode of failure of the beams, the contribution of PMC to the strength of the composite beam, the initiation and progress of slip in the interface of the two layers, frictional shear resistance of the un-reinforced concrete–PMC interface, and the effect of using shear reinforcement to prevent any slip and shear failure. It is concluded that the two layered system can be effectively used in practice. Based on the experimental results recommendation is made for the allowable interface shear stress. A method with a numerical example is presented for the design of composite beams.
+
+
+    
+        AU - Tatsuro Sakimoto
+    
+        AU - Sadao Komatsu
+    
+
+TI - Ultimate Strength of Arches with Bracing Systems
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 1064-1076
+VI - 108
+IP - 5
+AID - 10.1061/JSDEAG.0005944 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005944
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005944
+SO - Journal of the Structural Division 1982-05-01 108(5): 1064-1076
+AB - The ultimate load carrying capacity of bridge arches is investigated for the case where they fail by inelastic lateral instability associated with the flexural-torsional deformation of the arch rib. The arch bridge is composed of twin ribs connected to one another by a lateral bracing system. The ribs are subjected to a uniformly distributed vertical load. A parametric study is carried out for several representative cases by using a finite element method. The effects of the stiffness, location and type of the lateral bracing system on the inelastic behavior of twin arches are evaluated. Ultimate strength versus slenderness ratio curves for various twin arches are obtained. The possibility of introducing an effective length concept for lateral buckling is also examined and a comparison is made with the recommendations of existing codes for arch bridges
+
+
+    
+        AU - Mehdi Saiidi
+    
+
+TI - Hysteresis Models for Reinforced Concrete
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 1077-1087
+VI - 108
+IP - 5
+AID - 10.1061/JSDEAG.0005945 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005945
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005945
+SO - Journal of the Structural Division 1982-05-01 108(5): 1077-1087
+AB - Nonlinear dynamic response of a simple reinforced concrete specimen is studied using five different hysteresis models: the Takeda, elasto-plastic, bilinear, Clough, and the Q-hyst model. These models range from simple but unrealistic (the elasto-plastic model) to complicated but realistic (the Takeda model). The Takeda model is used as the basis to evaluate the other models, and to explain the influence of different features used in each model. It is shown that stiffness degradation effects associated with unloading and load-reversal stages had a substantial effect on the amplitudes, waveform, and frequency content of displacement response history of the specimen studied. It is further shown that the Q-hyst model, which takes degrading effects into account while it is simple, resulted in a response history which was in excellent agreement with that obtained using the Takeda model.
+
+
+    
+        AU -  
+    
+
+TI - Loadings for Electrical Transmission Structures
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 1088-1105
+VI - 108
+IP - 5
+AID - 10.1061/JSDEAG.0005946 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005946
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005946
+SO - Journal of the Structural Division 1982-05-01 108(5): 1088-1105
+AB - As the costs of high-voltage electrical transmission lines have increased, greater attention is being given to the weather element loads that influence the structure cost. Minimizing the cost of structures can only be accomplished by increased knowledge of loading conditions which influence the possible risks involved. To obtain experience data and utility practice relative to weather element loads an extensive questionnaire was sent to every major utility in the United States. This report has been compiled using the responses from 130 major utilities that own and operate approximately 290,000 miles of high-voltage transmission lines rated 69-kV and above. The report provides data on the practices followed in the design, fabrication, testing, and procurement of transmission structures. Questionnaire responses cover presently applicable legislative codes. Wind, ice, and longitudinal loadings are shown. Utilities evaluate factors such as wind gusts, density of ice formations, wind height factors, and span reduction factors. These factors are normally incorporated into the structure loadings by comparing the special load to a standard load case which controls the design.
+
+
+    
+        AU - Rafael Jimenez
+    
+        AU - Richard N. White
+    
+        AU - Peter Gergely
+    
+
+TI - Cyclic Shear and Dowel Action Models in R/C
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 1106-1123
+VI - 108
+IP - 5
+AID - 10.1061/JSDEAG.0005947 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005947
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005947
+SO - Journal of the Structural Division 1982-05-01 108(5): 1106-1123
+AB - The transfer of reversed cyclic shear forces across cracks in reinforced concrete by interface shear transfer and by dowell action is treated in this paper. Experimental cyclic shear load-shear displacement results are given for the interface shear transfer mechanism alone, the dowel action mechanism alone, and the combined mechanism. Empirical prediction expressions are presented for the two independent mechanisms; these mechanisms are then combined to provide a model for predicting the load-displacement relationship for combined interface shear transfer and dowel action, including the effects of load cycling. Model predictions compare reasonably well with experimental results.
+
+
+    
+        AU - Negussie Tebedge
+    
+
+TI - Buckling of Pretwisted Columns
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 1124-1139
+VI - 108
+IP - 5
+AID - 10.1061/JSDEAG.0005948 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005948
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005948
+SO - Journal of the Structural Division 1982-05-01 108(5): 1124-1139
+AB - The effect of pretwist on the buckling load of column is presanted. A finite element formulation is developed for the stability analysis of pretwisted columns. Numerical examples are used on pretwisted columns and other related types of columns to demonstrate the finite element model. In all cases, good convergence is observed and satisfactory accuracy is obtained by using few elements, and the required computational effort is found to be minimal. Experimental results are presented for the buckling loads and the associated buckling modes by varying the angles of pretwist. Good agreement between the predicted values and the experimental results is observed. Finite element solutions, of critical loads of pretwisted columns are presented in tabular form and also graphically for various angles of pretwist and different ratios of principal moment of inertia.
+
+
+    
+        AU - Alexander Coull
+    
+        AU - Bishwanath Bose
+    
+        AU - Abdulla K. Ahmed
+    
+
+TI - Simplified Analysis of Bundled-Tube Structures
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 1140-1153
+VI - 108
+IP - 5
+AID - 10.1061/JSDEAG.0005949 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005949
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005949
+SO - Journal of the Structural Division 1982-05-01 108(5): 1140-1153
+AB - A simplified method is presented for the analysis of bundled tube structures subjected to lateral loads. The rigidly-jointed perimeter and interior web frame panels are replaced by equivalent orthotropic plates, whose properties are chosen to represent both the axial and shearing deformation characteristics of the frames. The force and stress distributions in the substitute panels are assumed to be represented with sufficient accuracy by polynomial series in the horizontal coordinates, the coefficients of the series being functions of the height only. The unknown functions are determined from the principle of least work. The influence of stiffer corner columns is included in the analysis. By incorporating simplifying assumptions regarding the form of stress distribution in the frame panels, the structural behaviour can be reduced to the solution of a single second-order linear differential equation, enabling closed-form solutions to be obtained for the standard load cases of a uniformly distributed load, a triangularly distributed load, and a point load at the top. Solutions may then be obtained from design curves.
+
+
+    
+        AU - Joachim S. Rodrigues
+    
+
+TI - Beam Idealization
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 1154-1173
+VI - 108
+IP - 5
+AID - 10.1061/JSDEAG.0005950 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005950
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005950
+SO - Journal of the Structural Division 1982-05-01 108(5): 1154-1173
+AB - For any given bemm with varying cross-section and material properties, it is easy to evaluate a number of parameters Qi and Di, by numerical integration, accounting for all generalized forces and displacements. Those parameters can be used directly to set up the flexibility and stiffness matrices and also to determine the fixed-end reactions due to any loading. This method provides great accuracy in short computing time and seems to be much simpler than those in use today. Another method to set up the flexibility and stiffness matrices consists in determining an equivalent idealized beam. For any asymmetric beam, it is possible to determine an idealized beam of three inertias, with the same length and constant elastic properties, that is equivalent to the real beam for the purpose of structural analysis and is defined in terms of the parameters Qi by a simple method (extended to symmetric beams). A program has been developed and tested on an example problem. It makes any standard program capable of analysing structures including members with varying cross-section and material properties.
+
+
+    
+        AU - Yuhshi Fukumoto
+    
+        AU - Masahiro Kubo
+    
+
+TI - Buckling in Steel U-Shaped Beams
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 1174-1190
+VI - 108
+IP - 5
+AID - 10.1061/JSDEAG.0005951 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005951
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005951
+SO - Journal of the Structural Division 1982-05-01 108(5): 1174-1190
+AB - Coupled behavior of overall and local buckling of U-shaped beams subjected to uniform bending moment is presented. A finite strip method is applied to the coupled buckling analysis and the inelastic buckling is analyzed including the residual stresses of the cross section. The buckling tests are carried out with seven welded steel U-beams. Load-deformation behavior, failure modes, the ultimate bending strength and the stiffening effects by the intermediate knee braces and diaphragms are investigated. Interaction of the lateral buckling of compression flanges and the overall buckling of U-beams are made clear both theoretically and experimentally. The lateral buckling strength of laterally unbraced compression flanges can be estimated by tbe approximate method based on the equivalent T-column. The overall buckling strength is primarily affected by the ratio of the span length to spacing of webs.
+
+
+    
+        AU - John T. DeWolf
+    
+        AU - Edward F. Sarisley
+    
+
+TI - Closure to “Column Base Plates with Axial Loads and Moments”
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 1192-1192
+VI - 108
+IP - 5
+AID - 10.1061/JSDEAG.0005952 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005952
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005952
+SO - Journal of the Structural Division 1982-05-01 108(5): 1192-1192
+
+
+    
+        AU - Rafik Y. Itani
+    
+
+TI - Closure to “Experimental Evaluation of Composite Action”
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 1193-1193
+VI - 108
+IP - 5
+AID - 10.1061/JSDEAG.0005953 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005953
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005953
+SO - Journal of the Structural Division 1982-05-01 108(5): 1193-1193
+
+
+    
+        AU - Zu-Yan Shen
+    
+        AU - Le-Wu Lu
+    
+
+TI - Discussion of “Proposed Steel Column Strength Criteria”
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 1194-1195
+VI - 108
+IP - 5
+AID - 10.1061/JSDEAG.0005954 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005954
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005954
+SO - Journal of the Structural Division 1982-05-01 108(5): 1194-1195
+
+
+    
+        AU - Joseph E. Bowles
+    
+
+TI - Discussion of “Pile Cap-Pile Group-Soil Interaction”
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 1195-1196
+VI - 108
+IP - 5
+AID - 10.1061/JSDEAG.0005955 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005955
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005955
+SO - Journal of the Structural Division 1982-05-01 108(5): 1195-1196
+
+
+    
+        AU - Raymond H.R. Tide
+    
+
+TI - Discussion of “Rational Design of Fillet Weld Groups”
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 1197-1198
+VI - 108
+IP - 5
+AID - 10.1061/JSDEAG.0005956 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005956
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005956
+SO - Journal of the Structural Division 1982-05-01 108(5): 1197-1198
+
+
+    
+        AU - Murray C. Temple
+    
+
+TI - Discussion of “Repaired Pitch-Cambered Glulam Beams”
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 1199-1199
+VI - 108
+IP - 5
+AID - 10.1061/JSDEAG.0005957 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005957
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005957
+SO - Journal of the Structural Division 1982-05-01 108(5): 1199-1199
+
+

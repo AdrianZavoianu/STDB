@@ -1,0 +1,624 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Yi Shao
+    
+        AU - Wilson Nguyen
+    
+        AU - Matthew J. Bandelt
+    
+        AU - Claudia P. Ostertag
+    
+        AU - Sarah L. Billington
+    
+
+TI - Seismic Performance of High-Performance Fiber-Reinforced Cement-Based Composite Structural Members: A Review
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 03122004
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003428 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003428
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003428
+SO - Journal of Structural Engineering 2022-10-01 148(10): 03122004
+AB - High-performance fiber-reinforced cement-based composite (HPFRCC) is a class of construction materials that exhibit pseudo-strain hardening behavior under tension after first cracking and gradual softening behavior under compression after crushing. Compared to conventional concrete, the enhanced tension and compression performance make HPFRCC promising for earthquake-resistant structures. Extensive studies have explored the seismic performance of reinforced HPFRCC with different material designs and in different structural forms, while real-world applications are emerging. This paper is intended to summarize the collective knowledge that the research community has gained and to identify future research needs. We review (1)&nbsp;HPFRCC cyclic performance on the material level, (2)&nbsp;seismic performance of reinforced HPFRCC flexural members, including beams and columns, (3)&nbsp;shear-dominant members, covering coupling beams and structural walls, and (4)&nbsp;the behavior and design of HPFRCC beam-column joints. We conclude with key challenges and opportunities for the research and professional community.
+
+
+    
+        AU - Simona Bianchi
+    
+        AU - Stefano Pampanin
+    
+
+TI - Fragility Functions for Architectural Nonstructural Components
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 03122005
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003352 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003352
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003352
+SO - Journal of Structural Engineering 2022-10-01 148(10): 03122005
+AB - Nonstructural components typically are not designed for seismic loads, yet their behavior can affect the postearthquake building functionality significantly. Nonstructural damage occurs at low to moderate seismic intensities, heavily contributing to downtime and overall financial loss. Moreover, the failure of these elements can represent a potential life-safety threat for occupants and pedestrians. Due to increased awareness of these issues, in recent decades substantial research efforts have been dedicated to the study of nonstructural seismic behavior. Focusing on architectural elements (facades, partitions, and ceilings), this paper provides a state-of-the-art review of fragility functions. Seismic damage states were described and literature data were collected to build fragility domains for different nonstructural archetypes. Furthermore, references to innovative low-damage technologies are provided, and traditional (i.e.,&nbsp;construction practice) systems were compared with low-damage components in terms of fragility. A fragility-based direct design approach is suggested based on the state-of-the-art review: nonstructural details could be designed, manufactured, or selected specifically to target desired tailored fragility curves representing targeted (multi)performance levels.
+
+
+    
+        AU - Yu-Fei Wu
+    
+        AU - Peng-Da Li
+    
+        AU - Zi-Long Zhao
+    
+
+TI - Ultraductile Bar with Bioinspired Helical Strands
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022146
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003425 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003425
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003425
+SO - Journal of Structural Engineering 2022-10-01 148(10): 04022146
+AB - Through natural selection, living systems have evolved elegant hierarchical structures with excellent mechanical properties and efficient biological functions. The helical tendrils of climbing plants are known for their intriguing geometry and superior deformability. Many engineering materials are vulnerable to plastic strain localization, and the efficiency of material usage can be significantly improved by suppressing strain localization. Inspired by plant tendrils, a novel structural design of ultraductile engineering materials is proposed in this work. A cylindrical metallic bar is considered as an example. In the proposed design, a number of strands are wound spirally about and bonded to the bar. The effectiveness of the design in improving the deformation capacity of the metallic bar is demonstrated by numerical simulations and experimental tests. In the postnecking process, the maximum principal strain in the composite bar is distributed more evenly than that in the bare bar. This work provides a way for improving the deformability and ductility of a diversity of engineering materials, which can prevent these materials from failing under excessive deformation.
+
+
+    
+        AU - Mingyu Sun
+    
+        AU - Eun Jeong Cha
+    
+
+TI - Probabilistic Building Functionality Estimation Framework for Buildings Subjected to Hurricane Winds
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022147
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003411 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003411
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003411
+SO - Journal of Structural Engineering 2022-10-01 148(10): 04022147
+AB - Buildings are vulnerable to extreme winds, both physically and functionally. Although many studies exist on buildings’ structural and interior damage modeling, limited research exists on the modeling of buildings’ functionality loss under extreme winds. In this paper, a novel probabilistic building functionality estimation framework is developed to quantitatively evaluate the functionality of buildings under hurricane winds. The functionality of a building is evaluated by integrating the functionalities of individual building systems (e.g.,&nbsp;envelope, interior, electrical, and HVAC) that are determined by a detailed component-level damage analysis considering uncertainty in wind loading, rain ingress, and component resistance capacity. The proposed framework is demonstrated with a 1-story wood residential building by estimating its shelter function. The fragility curves are developed for multiple functionality states of the shelter function and compared with the fragility curves developed for the envelope system only. The comparison indicated that the functionality of a building evaluated by considering the four building systems was significantly lower than the functionality evaluated by considering only the envelope system. Thus, considering the envelope system only will largely underestimate the building functionality loss.
+
+
+    
+        AU - Jia-Lin Ma
+    
+        AU - Madhup Pandey
+    
+        AU - Tak-Ming Chan
+    
+        AU - Ben Young
+    
+
+TI - Structural Performance of Cold-Formed High-Strength Steel Circular Hollow Sections under Combined Compression and Bending
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022148
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003438 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003438
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003438
+SO - Journal of Structural Engineering 2022-10-01 148(10): 04022148
+AB - The ultimate strengths of cold-formed high-strength steel (CFHSS) circular hollow section (CHS) beam-columns have been experimentally and numerically studied in this investigation. The steel grades of CHS members were S700, S900, and S1100 with the nominal 0.2% proof stresses of 700, 900, and 1,100&nbsp;MPa, respectively. In the experimental program, 32 CHS short beam-columns were axially compressed. The test results obtained in this study were used to develop an accurate finite-element (FE) model. The developed FE model precisely replicated the overall structural behavior of CHS beam-column test specimens. After validation, a detailed parametric study was conducted. The test results of CFHSS CHS long beam-columns reported in the literature were also included in this study. In the parametric study, 150 long and short beam-columns (LBC and SBC) were analyzed. The values of diameter-to-thickness ratio of CHS members varied from 9.7 to 108. The ultimate compression capacities of 190 test and numerical data were compared with the nominal compression capacities predicted from American, Australian, and European standards. The safety levels of design rules given in these standards were examined by performing a reliability analysis. It is shown that the American specification provided the closest, least scattered, and reliable predictions. On the contrary, the Australian standard provided very conservative, highly scattered, and unreliable predictions. In addition, the predictions from European code were also quite scattered and unreliable. Hence, it is proposed to use the American specification for the design of cold-formed steel CHS beam-columns with steel grades ranging from S700 to S1100.
+
+
+    
+        AU - Xiao Lin “Dimple” Ji
+    
+        AU - Sheldon C. Twizell
+    
+        AU - Robert G. Driver
+    
+        AU - Ali Imanpour
+    
+
+TI - Lateral Torsional Buckling Response of Compact I-Shaped Welded Steel Girders
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022149
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003431 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003431
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003431
+SO - Journal of Structural Engineering 2022-10-01 148(10): 04022149
+AB - Recent studies investigating lateral torsional buckling suggest that North American steel design provisions may overestimate the bending resistance of welded girders that buckle laterally in the inelastic range. Furthermore, these provisions do not distinguish between rolled and welded members, but welded girders are widely suspected of possessing unfavorable residual stress distributions that may cause them to be more susceptible to lateral torsional buckling than their rolled counterparts. However, lack of sufficient supporting experimental test data may render existing analytically based assessments of the design equations inadequate. To address the paucity of physical testing, an experimental program was developed to determine the lateral torsional buckling resistance of full-scale I-shaped welded three-plate steel girders fabricated with current shop processes. This paper describes the development of the test program and a unique girder-stability test bed. Test results for seven girders, including measured initial geometric imperfections, load–displacement responses, and moment capacities, are then presented. A finite-element model of the test specimens, validated against the test data, is finally used to investigate the adequacy of the beam design provisions specified in the Canadian and US steel design standards. The results confirm that the current design equations can accurately predict the moment resistance of compact welded steel girders that fail in either the elastic or inelastic lateral torsional buckling mode.
+
+
+    
+        AU - Georgios Tsampras
+    
+        AU - Richard Sause
+    
+
+TI - Force-Based Design Method for Force-Limiting Deformable Connections in Earthquake-Resistant Buildings
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022150
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003456 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003456
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003456
+SO - Journal of Structural Engineering 2022-10-01 148(10): 04022150
+AB - This paper proposes a force-based design method for force-limiting deformable connections that are used to transfer seismic-induced horizontal forces from the floor diaphragms in buildings to the vertical elements of lateral seismic force–resisting systems with base flexural mechanisms (e.g.,&nbsp;reinforced concrete shear walls). The design method determines the limiting forces for the connections at each floor of the building. The limiting forces for the connections are the forces at which the force-limiting deformable connections transition from linear-elastic to post-elastic response. Design examples are presented. Seismic responses from numerical simulations of 12-, 8-, and 4-story reinforced concrete shear wall example buildings show that the proposed method enables effective preliminary design of the force-limiting deformable connections. It is shown that the buildings with connections designed with the proposed method have relatively uniform distribution of connection deformation demands over the building height. It is also shown that their seismic force and acceleration responses have reduced magnitude and reduced variability compared to conventional buildings that exhibit large variability in their acceleration responses.
+
+
+    
+        AU - Torgeir Selsøyvold
+    
+        AU - Samindi M. K. Samarakoon
+    
+        AU - Piotr Nazarko
+    
+
+TI - Artificial Neural Network Model for Predicting the Tendon Stress in Unbonded Posttensioned Concrete Members at the Ultimate Limit State
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022151
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003445 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003445
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003445
+SO - Journal of Structural Engineering 2022-10-01 148(10): 04022151
+AB - Existing design guidelines, codes, and literature provide different calculation models for the estimation of tendon stresses in unbonded posttensioned concrete members at the ultimate limit state. Most of these methods are based on theoretical (e.g.,&nbsp;collapse mechanism and bond-reduction models) and statistically-based empirical models, with only a few or no surrogate models based on artificial neural networks (ANNs). This study presents an ANN-based model to predict stress in unbonded tendons at the ultimate limit state based on a database of 251 prestressed concrete members with unbonded tendons collected from the literature. The predictions from the ANN-based model show very good agreement with the experimental results given in the literature during training, testing, and validation. A sensitivity analysis has been performed to quantify the degree of influence of the input variables used in the developed ANN model. The analysis shows that the predictions of tendon stress using neural networks are more accurate than those results obtained using the models given in the design guidelines and the literature.
+
+
+    
+        AU - Swaminathan Krishnan
+    
+
+TI - A Collapse Mechanics-Based Criterion for the Optimal Proportioning of Steel Moment Frames Subjected to Earthquakes
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022152
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003403 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003403
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003403
+SO - Journal of Structural Engineering 2022-10-01 148(10): 04022152
+AB - Given a certain steel budget, what is the optimal way of distributing it over the height of a steel moment frame building to maximize collapse resistance during earthquakes? An optimality criterion based on the mechanics of collapse of steel moment frame buildings is developed to address this question. The method is used to reproportion the steel moment frames of an existing 18-story steel moment frame building, keeping the total steel tonnage about the same as that of the original building. The response of the reproportioned building to 18 near-source ground motion records from past earthquakes and synthetic ground motion histories at 636 sites in southern California under a simulated 1857-like great San Andreas Fault earthquake is compared with that of the existing building to demonstrate the effectiveness of the methodology. Design tables of optimal beam and column plastic moment distributions are presented for use in the design of 10-, 20-, 30-, and 40-story buildings with 2-bay and 3-bay moment frame configurations.
+
+
+    
+        AU - Joo Min Kim
+    
+        AU - Amit H. Varma
+    
+        AU - Kyungkoo Lee
+    
+        AU - Kapsun Kim
+    
+
+TI - Steel-Plate Composite Walls Subjected to Missile Impact: Numerical Evaluation of Local Damage
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022153
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003417 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003417
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003417
+SO - Journal of Structural Engineering 2022-10-01 148(10): 04022153
+AB - This paper presents the results from numerical investigations conducted to evaluate the local damage and perforation of steel-plate composite (SC) walls subjected to missile impact. Numerical models of laboratory-scale SC wall specimens, tested previously, were developed and analyzed in LS-DYNA software. The steel faceplates and the projectile were modeled using solid elements with piecewise linear plasticity material model. The concrete core was modeled using solid elements with the Winfrith concrete model. Tie bars and shear stud anchors were modeled using beam elements with the piecewise linear plasticity material model. Zero-length discrete beam elements were used to represent the force-slip behavior of the shear stud anchors. Contact and constraint commands were used to model the physical interaction between the various components of the wall model. The numerical models were benchmarked by comparing numerical analysis results with experimental results including projectile penetration depth, rear (nonimpact) steel faceplate deformation pattern and bulging depth, and concrete conical frustum formation. The benchmarked models were used to conduct numerical parametric studies to enhance the experimental database, establish perforation velocity ranges, and evaluate the influence of various SC wall design parameters on local damage. The collected experimental and numerical results indicate that the steel faceplate reinforcement ratio and material strength are significant design parameters influencing local damage from projectile impact.
+
+
+    
+        AU - Benjapon Wethyavivorn
+    
+        AU - Siradech Surit
+    
+        AU - Thanit Thanadirek
+    
+        AU - Piyanut Wethyavivorn
+    
+
+TI - Topology Optimization-Based Reinforced Concrete Beams: Design and Experiment
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022154
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003465 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003465
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003465
+SO - Journal of Structural Engineering 2022-10-01 148(10): 04022154
+AB - Though topology optimization has been around for nearly 3&nbsp;decades, its application in the design of RC structures still is a concern, not only because of the lack of a definite procedure, but also because of the lack of supporting and reassuring experimental evidence. This paper presents a practical integration of topology optimization to the design of RC beams with experimental validation. Concrete and steel reinforcement profiles based on two-material topology optimization were considered as a form suggestion and used for design guidance. The design was refined constantly to alleviate any stress and deflection violations, and the beam successively evolved. A supporting experiment verified that a reduction of approximately 30% in concrete can be achieved while all the relevant design requirements remained satisfied and integrity was maintained, with more than 3 times the beam’s service capacity reserved.
+
+
+    
+        AU - Sejin Kim
+    
+        AU - MohammadReza Seyedi
+    
+        AU - Ho-Kyung Kim
+    
+
+TI - Risk Assessment of Wind-Induced Vehicle Accidents on Long-Span Bridges Using Onsite Wind and Traffic Data
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022155
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003455 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003455
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003455
+SO - Journal of Structural Engineering 2022-10-01 148(10): 04022155
+AB - A systematic approach was proposed to assess vehicle accident risk over sea-crossing bridges under strong winds. The annual frequency of an accident was evaluated as a risk index using the information on daily traffic volumes, the ratio of high-sided vehicles, and the long-term distribution of the speed and direction of the wind at the bridge site. The approach considered the effect that deck shapes and road alignments exert on vehicle stability. The risk index was estimated by accounting for the entire road sections of the examined bridge, including approach spans. The proposed method successfully identified the vulnerable positions along the bridge and the vehicle types. The application on a sea-crossing bridge demonstrated the usefulness of the proposed risk-assessment approach in determining a preferable mitigation strategy with less traffic intervention or minimized windscreen installation by quantitative comparisons between risk indices of several possible measures.
+
+
+    
+        AU - Dashan Zhang
+    
+        AU - Xuhua Lin
+    
+        AU - Huiqing Wang
+    
+        AU - Yuli Dong
+    
+        AU - Jianchun Zhang
+    
+        AU - Haocan Hu
+    
+
+TI - Experimental Investigation on Fire Behavior and Quantitative Restraint Forces of Steel–Concrete Composite Floor Systems
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022156
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003418 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003418
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003418
+SO - Journal of Structural Engineering 2022-10-01 148(10): 04022156
+AB - A special testing apparatus was designed and employed to explore the fire behavior of a steel–concrete composite floor system with boundary restraints and to measure the variation in the restraint forces induced by fire. Two full-scale fire tests of slab specimens with different secondary support conditions were conducted. Detailed experimental results were obtained, including the furnace temperature, temperature distribution, vertical and horizontal deflection, crack patterns, and restraint forces. The furnace was shut off after 270 and 300&nbsp;min when the insulation criterion for failure was met. Although the two composite floor systems were exposed to lengthy fire durations, they exhibited better fire resistance than the isolated composite slabs evaluated in previous tests in terms of aspects such as relatively limited deflection, higher deflection recovery, and excellent concrete slab integrity. The restraint moment at the slab corners was determined by the measured internal forces of steel beams in the steel frame using mechanical analysis of the relevant spatial structures. Significant warping forces were observed at the slab corners during the tests. This implied that the warping force posed a potential hazard to the adjacent columns above the composite floor system subjected to fire.
+
+
+    
+        AU - Tae-Sung Eom
+    
+        AU - Jong-Jin Lim
+    
+
+TI - Flexural Behavior of Noncompact and Slender Concrete-Filled U-Section Beams under Negative Bending
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022157
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003468 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003468
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003468
+SO - Journal of Structural Engineering 2022-10-01 148(10): 04022157
+AB - In this study, the flexural behavior of noncompact and slender concrete-filled U-section (CFU) beams was investigated focusing on local buckling of U-section walls and shear transfer across the beam-to-slab interface. Seven large-scale CFU beam specimens were tested under negative bending. The width-to-thickness ratios of U-section walls (i.e.,&nbsp;flanges and webs) and stiffening details for preventing local buckling were considered as the test variables. The tests showed that, due to excessive slab reinforcement, all specimens were failed by shear failure at the composite interface of beam and slab after flexural yielding. The ultimate strength and deformation capacity of CFU beams were degraded by flange and web local buckling. Buckling modes of U-section walls were affected by the stiffening details. The ultimate strengths of noncompact and slender CFU beams were compared with the nominal strengths calculated in accordance current standards. In addition, the flexural behavior of CFU beams affected by the local buckling and partial debonding of U-section walls and slip behavior at the composite interface was further investigated through fiber-based section analyses based on the effective stress–strain models of materials.
+
+
+    
+        AU - Bo Yang
+    
+        AU - Kang Chen
+    
+        AU - Da-Ming Wang
+    
+        AU - Mohamed Elchalakani
+    
+
+TI - Experimental Study on Composite Beam with Various Connections under Midspan Impact Scenarios
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022158
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003470 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003470
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003470
+SO - Journal of Structural Engineering 2022-10-01 148(10): 04022158
+AB - The performance of an immediate frame span subjected to a falling-debris-impact scenario is of great importance to investigate the spread of initial damage during a progressive collapse event. If the frame span was not able to resist the impact load from possible falling debris, it would become new debris and impact the lower floor with previous debris. After that, progressive collapse might probably happen. However, the impact mechanism considering the contribution of composite slabs of an immediate span remained unclear currently. Therefore, experimental studies on a series of three half-scale composite beam subassemblies were conducted under impact scenarios. The impact loads were applied via a high-performance drop-weight test machine. Various beam–column connections, including welded unreinforced flange-bolted web, fin plate, and reverse channel connections, which represented rigid connection, hinge connection, and semirigid connection, respectively, were investigated. The structural resistances of the specimens were provided by flexural action, compression arch action, and catenary action. Among them, the contribution of compressive arch action was limited and can be ignored. Flexural action always provided the most structural resistance contribution in the whole impact process, and catenary action provided structural resistance under large deformation. The specimen structural resistance increased with increasing deformation before the failure of connections. Good flexural resistance and deformation capacity were the key factors for structures to resist impact load. The reversed channel specimen had the best impact resistance.
+
+
+    
+        AU - Jinping Wang
+    
+        AU - Jun Chen
+    
+
+TI - Equivalent Dynamic Load Factor for Crowd Walking Loads
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022159
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003463 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003463
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003463
+SO - Journal of Structural Engineering 2022-10-01 148(10): 04022159
+AB - Pedestrian-induced loads may cause vibration serviceability or safety issues in slender structures such as long-span floors and footbridges. Although some models for crowd walking loads have been established, the synchronization among pedestrians and interaction with the structure have not been fully expressed. This study proposes a Fourier series model with a series of equivalent dynamic load factors (EDLFs), which are adaptive to different crowd-dominant walking frequencies, structural damping ratios, crowd sizes, and pedestrian traffic conditions (unrestricted, restricted, and exceptionally restricted). Using the power spectral density for the crowd walking loads proposed in a previous study, the structural responses of different single-degree-of-freedom systems are calculated via numerical simulations of approximately 20&nbsp;million variations, and the EDLF for crowd walking loads is obtained after back-calculating the structural responses. This modeling method weighted the energy around the dominant walking frequency. The results show that the EDLFs are stable for crowds of over 30 pedestrians. The proposed model was compared with three modeling methods for dynamic load factors and five codified models for crowd walking loads from different aspects, and the feasibility of the EDLF is verified based on a benchmark footbridge and an as-built floor structure. The EDLF is convenient for design purposes because it is compatible with the single-person model currently adopted in major design codes and software.
+
+
+    
+        AU - Wenjie Li
+    
+        AU - Shitang Ke
+    
+        AU - Guangquan Han
+    
+        AU - Jie Yang
+    
+        AU - Hehe Ren
+    
+
+TI - Research on Collapse Mechanism and Failure Criterion of Superlarge Cooling Tower under Downburst Effect
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022160
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003478 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003478
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003478
+SO - Journal of Structural Engineering 2022-10-01 148(10): 04022160
+AB - The world’s highest cooling tower (228&nbsp;m), which is under construction in Northwest China, was chosen to study the response characteristics and collapse mechanism of a superlarge cooling tower under the downburst effect. A structural multiscale finite-element model was constructed using the layered shell element method. Fluctuating wind pressures on the internal and external surfaces of the superlarge cooling tower at four typical working conditions under the downburst effect were obtained based on large-eddy simulation (LES). The variation laws of the wind-induced collapse of superlarge cooling tower were analyzed using incremental dynamic analysis. The collapse mechanisms of the superlarge cooling tower under downburst effect were determined. The collapse failure criterion of the superlarge cooling tower under the downburst driving effect were established. Results demonstrated that the wind pressure distribution mode on the tower body surface under downburst was significantly different from that under normal wind. The collapse mechanism of the superlarge cooling tower changed from an inward mechanism to an outward mechanism with the increase of the distance to the downburst center. When the energy failure criterion index was K≥2, the superlarge cooling tower collapsed.
+
+
+    
+        AU - Wenchen Ma
+    
+        AU - Ying Tian
+    
+        AU - Hailong Zhao
+    
+        AU - Sarah L. Orton
+    
+
+TI - Time-Dependent Behavior of Reinforced Concrete Columns Subjected to High Sustained Loads
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022161
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003462 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003462
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003462
+SO - Journal of Structural Engineering 2022-10-01 148(10): 04022161
+AB - Several catastrophic progressive collapses of RC buildings, initiated by column failures, occurred in the past under sustained gravity loads long after the initial construction. To study the near-failure behavior of aged concrete columns under sustained high stresses and the effects of column transverse reinforcement on nonlinear creep, 13 columns were tested after 200&nbsp;days of concrete casting. Test variables included sustained load level, age at loading, eccentricity ratio, and transverse reinforcement ratio. Two plain concrete and five RC columns were subjected to sustained concentric loads ranging from 76% to 110% of nominal short-time strength that neglected the confinement effects provided by transverse reinforcement. One plain concrete column, as a control specimen, was also tested under concentric loading to failure in a short time. Five RC columns were tested under sustained eccentric loading that initially caused the bending moment at the critical section to reach 77% to 100% of nominal flexural capacity. The aged columns showed high resistance to heavy sustained loads; however, one concentrically loaded and one eccentrically loaded column failed under the sustained loads. Higher column transverse reinforcement ratio decreased concrete creep during the early stage of concentric loading and increased flexural stiffness during sustained eccentric loading, thereby reducing the risk of failure due to second-order effects. Moreover, the tests indicated that Poisson’s ratio of the cover concrete at the extreme compressive fibers is a suitable indicator of high sustained load levels.
+
+
+    
+        AU - Gang Li
+    
+        AU - Rong-Hua Li
+    
+        AU - Ding-Hao Yu
+    
+
+TI - Experimental and Analytical Lateral Performance of Shear Walls with Variable Phases of Deformation
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022162
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003483 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003483
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003483
+SO - Journal of Structural Engineering 2022-10-01 148(10): 04022162
+AB - Conventional reinforced concrete shear walls are widely used as primary lateral-force-resisting members owing to their high in-plane stiffness. However, some of these walls have been severely damaged in past earthquakes because of their limited energy dissipation capacity and ductility, thus requiring laborious repairs or even demolition. Self-centering rocking walls have recently been developed and proven effective for reducing the damage and residual displacement of structures after earthquakes. Because self-centering rocking walls are usually constructed by releasing constraints at the foundation, their contribution to structural stiffness may be limited, and they are very vulnerable to vibration. To overcome these limitations, a shear wall with variable phases of deformation was proposed; this wall consists of a rocking bearing, low-strength concrete zones, and buckling-restrained rebars. With increasing seismic intensity, the proposed wall first exhibits the shear–bending deformation mode of conventional reinforced concrete shear walls, which transitions into the rocking deformation mode of self-centering rocking walls. Cyclic loading tests were conducted to investigate the seismic performance of the proposed wall. The results demonstrated that the presented concept of the mechanism transformation is feasible in practice, and compared with conventional shear walls, the proposed wall displays improved seismic performance in terms of the damage mechanism, lateral resistance degradation, and deformation capacity. Moreover, a spring–truss model and a performance prediction model were also developed to predict the seismic performance of the proposed wall. Validating the predictions of the analytical models against the test results confirmed the accuracy of the developed models.
+
+
+    
+        AU - Mirsardar Esmaeili
+    
+        AU - Michele Barbato
+    
+
+TI - Performance-Based Hurricane Engineering under Changing Climate Conditions: General Framework and Performance of Single-Family Houses in the US
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022163
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003447 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003447
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003447
+SO - Journal of Structural Engineering 2022-10-01 148(10): 04022163
+AB - The US Gulf and Atlantic coasts are often struck by severe hurricanes that cause massive economic and life losses. Climate change and structural aging are expected to exacerbate the risk associated with hurricane hazards. Appropriate methodologies are needed to assess and mitigate these effects through improved design and retrofit solutions that rigorously account for the associated uncertainties, such as performance-based engineering methodologies. This paper extends the performance-based hurricane engineering (PBHE) framework to account for the hazard nonstationarity induced by climate change effects. The newly extended nonstationary PBHE framework was implemented by performing a loss analysis on a benchmark low-rise single-family house over a 50-year design service life, for which climate change effects were accounted for by using a recently developed predictive model for hurricane wind speed distributions. The effects of different modeling assumptions and solution approaches (including approximate estimates, time discretization, interpolation techniques, and models for annual discount rates), different locations, and different climate change scenarios on the means and standard deviations of the total losses were investigated. The performance comparison of different storm mitigation strategies was also performed as an application example. In general, the proposed methodology provides consistent results under different modeling assumptions; however, the modeling assumptions for the annual discount rates can affect significantly the results. Based on the analysis results and within the limitations of the present implementation of the nonstationary performance-based hurricane engineering framework, climate change effects are generally significant, with estimated increases contained between 13.2% and 38.1% for the total loss means, and between 2.5% and 12.4% for the standard deviations of the total losses for the benchmark structure at the reference location of Pinellas Park, Florida. The extended nonstationary PBHE framework was able to identify the optimal retrofit strategy in terms of costs and benefits for any given combination of structures, residential developments, locations, and climate scenarios. The proposed nonstationary PBHE framework represents an advancement in performance-based engineering because it provides a rigorous approach to account for climate change effects. This framework has immediate practical applications, such as those shown in this paper, and could be further extended to other natural and human-made hazards.
+
+
+    
+        AU - Colin Lambie
+    
+        AU - Adam R. Phillips
+    
+        AU - Christopher J. Motter
+    
+
+TI - Cyclic Testing of Replaceable Steel Coupling Beams with Reduced Beam Sections and Moment End-Plate Connections
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022164
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003485 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003485
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003485
+SO - Journal of Structural Engineering 2022-10-01 148(10): 04022164
+AB - Coupled walls are a common lateral load resisting system for buildings located in seismic regions. Coupling beams create a ductile link between walls that increase the structure’s resistance to lateral forces and its ability to dissipate seismic energy. During a major seismic event, coupling beams dissipate energy by yielding and acting as a fuse. Replaceable steel coupling beams are an alternative to conventionally and diagonally-reinforced concrete coupling beams and offer the advantage of improved constructability and post-earthquake reparability. Previous studies on replaceable steel coupling beams have focused on shear yielding beams, while this study focused on flexure-yielding beams. Five two-third-scaled, cantilever steel coupling beams with reduced beam sections (RBSs) were tested under fully reversed cyclic loading. The primary test variables were parallel or single steel coupling beams, RBS cut geometry, and moment end-plate to embedded plate wall connection. Coupling beams with and without RBS cuts had deformation capacities of 8% or greater and 6%, respectively. Using RBS cuts within the parameters of AISC 358-16 resulted in the largest ductility. The moment end-plate to embedded plate connection was determined to have a significant effect on the beam stiffness.
+
+
+    
+        AU - Wei Zhang
+    
+        AU - Zhenyu Huang
+    
+        AU - Ren Li
+    
+        AU - Xiaolong Zhao
+    
+        AU - Jianqiao Ye
+    
+
+TI - Impact Response of Double-Layer Steel-RULCC-Steel Sandwich Panels: Experimental, Numerical, and Analytical Approaches
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022165
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003475 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003475
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003475
+SO - Journal of Structural Engineering 2022-10-01 148(10): 04022165
+AB - The present study conducts experimental, numerical, and analytical investigations of the responses of double-layer steel-rubberized ultra-lightweight cement composite (RULCC)-steel sandwich panels subjected to concentrated impact loading. Seven full-scale steel-concrete-steel (SCS) panels are designed and fabricated with different numbers of concrete layers, degree of composite action, type of shear connectors, and proportion of added rubber powder. The influences of these design parameters on failure mode and response behavior are quantified and discussed. Advanced finite element (FE) simulation is performed in LS-DYNA software to extract more information on the strains, stresses, and energy absorption of the panel during impact. Finally, a single-degree-of-freedom (SDOF) model and a two-degree-of-freedom (TDOF) model are developed to predict displacement-time and load-time responses of the double-layer SCS panels based on the quasi-static load-displacement relationship also proposed here. Comparisons with test results demonstrate that the SDOF model overpredicts peak deformation of the panel if the hammer weight is much greater than the effective panel weight. In contrast, both the FE and TDOF models provide a much more accurate prediction of the impact responses of double-layer SCS panels, including peak impact force, peak deformation, and residual deformation.
+
+
+    
+        AU - Arsalan Niroomandi
+    
+        AU - Stefano Pampanin
+    
+        AU - Rajesh P. Dhakal
+    
+        AU - Mohammad Soleymani Ashtiani
+    
+
+TI - Seismic Behavior of Rectangular Reinforced Concrete Walls Prone to Out-of-Plane Shear-Axial Failure under Bidirectional Loading
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022166
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003467 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003467
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003467
+SO - Journal of Structural Engineering 2022-10-01 148(10): 04022166
+AB - Unexpected failure modes were observed in RC walls in the 2010 Chile and 2011 New Zealand earthquakes. A peculiar failure mode, not previously reported in the structural engineering literature, was the brittle collapse of one of the structural walls of the 28-story Grand Chancellor Hotel in Christchurch, New Zealand. As one of the first steps toward the understanding of this failure mode, three rectangular RC walls were tested under bidirectional quasi-static cyclic loading. The only parameter varied among the three specimens was the structural detailing associated to various level of ductility design of the wall cross section. It was found that whereas the wall with nominal ductility section detailing (μ=1.25) experienced an out-of-plane shear-axial failure, those with higher ductility section detailing (1.25&lt;μ&lt;3 and μ&gt;3) performed reasonably well. However, a relatively abrupt axial crushing failure was observed in the ductile walls at higher drift levels that needs further investigation. The bidirectional loading, rarely adopted in experimental tests or in numerical simulation due to its inherent complexity, was found to be one of the key factors in the development of out-of-plane shear-axial failure. Moreover, it was observed that walls with 0.3Agfc′ axial load, which is the maximum limit of the current New Zealand standard for concrete structures, and designed according to nominal ductile detailing might be prone to out-of-plane shear-axial failure.
+
+
+    
+        AU - Aradhana Agarwal
+    
+        AU - Larry A. Fahnestock
+    
+
+TI - Comparative Seismic Response Evaluation of Steel Multistory and Multitiered Ordinary Concentrically Braced Frames
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022167
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003443 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003443
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003443
+SO - Journal of Structural Engineering 2022-10-01 148(10): 04022167
+AB - Concentrically braced frames (CBFs) are widely used to resist lateral loads in buildings because they are relatively simple and economical to design and construct. In tall, single-story construction, it is often practical to replace a single brace or brace pair within the story with multiple bracing panels or tiers. This leads to a multitiered braced frame (MT-BF), which in contrast to the more traditional multistory braced frame (MS-BF) lacks intermediate out-of-plane supports between the ground and the roof levels. While the primary seismic energy dissipation mechanism in both systems is through brace inelastic axial response, in MT-BFs, the majority of the mass is concentrated at the roof level, which has important implications for seismic design and response. The unique conditions that arise in the inelastic response of a MT-BF during a seismic event are known to cause drift concentration and increase the propensity for column instability due to combined axial and flexural demands. This study employs detailed models that consider geometric and material nonlinearity to rigorously quantify the behavioral differences between the two system types. For both multistory and multitiered frames, the models can capture column buckling and story-sway mechanisms. Results from nonlinear static pushover and response history analyses for two pairs of frames are used to evaluate the demands that develop during an earthquake event, and new insights are provided on the effect of column orientation and bracing conditions. The paper shows that the potential for column buckling is not exclusive to MT-BFs; considerable in-plane flexural demands, combined with axial loads, are shown to cause in-span plastic hinges that can also lead to buckling of MS-BF columns. Out-of-plane moment demands are larger in MT-BFs due to the lack of restraint at the tier levels. Drift distribution tends to be improved in MS-BFs compared to the corresponding MT-BFs, but the potential for brace fracture under maximum considered earthquake seismic input remains high regardless of system configuration.
+
+
+    
+        AU - Shervin Shameli Derakhshan
+    
+        AU - Chun Ni
+    
+        AU - Lina Zhou
+    
+        AU - Ruite Qiang
+    
+        AU - Dongsheng Huang
+    
+
+TI - Cyclic Test and Seismic Equivalency Evaluation of High-Capacity Light Wood-Frame Shear Walls for Midrise Buildings
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022168
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003448 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003448
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003448
+SO - Journal of Structural Engineering 2022-10-01 148(10): 04022168
+AB - Recent editions of Canadian national building codes increased the height limit for wood-frame construction from four to six stories. In addition, the seismic loads have also been increased. These increases in building height and seismic loads have raised the demand for a stronger shear wall system for construction of midrise wood-frame buildings, especially for those located in high seismic zones. In collaboration with FPInnovations, a new high-capacity shear wall system with multiple rows of fasteners along sheathing edges was developed. This paper presents the test results of shear walls with two rows of nails. A total of 10 specimens were tested under cyclic loading. Test results show that shear walls with two rows of nails have 1.8–2.0 times the lateral load resistance of a standard shear wall with the same sheathing thickness, nail diameter, and nail spacing. The initial stiffness and ultimate displacement of the high-capacity shear wall are also greater than that of the comparable standard shear wall. Based on seismic equivalency criteria, shear walls with two rows of nails can be assigned a design value of the comparable standard shear wall multiplied by a factor of 1.7.
+
+
+    
+        AU - Mingqian Wang
+    
+        AU - Xi Chen
+    
+        AU - Qingfeng Xu
+    
+        AU - Kent A. Harries
+    
+        AU - Yubing Leng
+    
+        AU - Lingzhu Chen
+    
+
+TI - Numerical Simulation and Variability Analysis of Mechanical Behavior of Braced Glulam Frames
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022169
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003466 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003466
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003466
+SO - Journal of Structural Engineering 2022-10-01 148(10): 04022169
+AB - This paper summarizes the results of a numerical simulation and subsequent variability analysis of the lateral load-resisting behavior of unbraced and chevron-braced glulam portal frames. Longitudinal tension/compression strengths of each glulam member were determined based on wood-size effect theory. The finite-element method (FEM) and an experimental study were carried out to determine the nonlinear mechanical behavior of glulam braces and bolted glulam beam-to-column connections. OpenSees “Pinching4” hysteresis models were adopted to model the mechanical behavior of both glulam braces and bolted beam-to-column connections. An FEM model of the glulam frames was developed to predict the lateral load-resisting hysteretic response of such frames. The stochastic finite-element method was used to calculate the frame capacity considering random distributions of connection and brace capacity. The FEM model presented can represent the nonlinear and hysteretic pinching behavior of an unbraced glulam frame whose behavior is dominated by splitting in the connection regions. Similarly, the strength softening and stiffness degradation of a chevron-braced glulam frame was also captured. Response surface method analysis was used to regress braced frame capacity from 200 analyses to a single set of capacity variables. The approach described in this paper demonstrates promise for optimizing the industrial-scale production of glulam portal frame structures.
+
+
+    
+        AU - Khawaja Ali
+    
+
+TI - New Mathematical Formulation of Nonlinear Unsteady Wind Loads on Long-Span Bridge Decks under Nonstationary Winds Using Time-Delay Neural Network
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 06022003
+VI - 148
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0003476 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003476
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003476
+SO - Journal of Structural Engineering 2022-10-01 148(10): 06022003
+AB - This paper presents a novel mathematical formulation of unsteady wind loads on bridge decks by using the neural network technique while incorporating the concurrent effects of nonstationary winds and aerodynamic nonlinearity. For that, a time-delay neural network (TDNN) is developed by recognizing the inputs and target outputs, wherein the inputs entail the wind speed fluctuating components and self-excited motion components, whereas the target outputs entail the buffeting load components. A typical sigmoidal function provided by the hyperbolic function is utilized to simulate the nonlinear features of the wind–bridge interaction (WBI) system. Finally, an elegant formulation for the nonlinear unsteady aerodynamic wind loads considering the nonstationary wind effects is developed in terms of synaptic weights of neurons and biases. The proposed formulation of winds loads has also been applied to a full-scale long-span suspension bridge under real typhoon winds. The buffeting analysis results are also compared with the measured displacement data, which shows the efficacy of the proposed wind load model for real-life bridge structures.
+
+

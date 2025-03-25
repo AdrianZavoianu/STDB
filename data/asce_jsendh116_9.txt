@@ -1,0 +1,318 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Nicholas J. Stevens
+    
+        AU - Sritawat Kitipornchai
+    
+
+TI - Limit Analysis of Welded Tee End Connections for Hollow Tubes
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2309-2323
+VI - 116
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1990)116:9(2309) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282309%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282309%29
+SO - Journal of Structural Engineering 1990-09-01 116(9): 2309-2323
+AB - This paper presents a limit analysis, based on the yield line approach, for predicting the ultimate capacity of welded tee end connections for hollow tubes. Five failure mechanisms are identified. The failure mechanisms range from simple mechanisms such as yielding of the cleat plate or the tube, to the more complex mechanisms involving a combination of hinge formation in the cap plate and local yielding in the tube. It is shown that the dimensions of the connection components involving the tube, the cap, and the cleat plate sizes determine which is the controlling failure mechanism. Results presented are applicable to welded tee end connections for hollow tubes of both circular and rectangular sections. A previous series of tests on this type of end connection was conducted on tubes of end connection was conducted on tubes of circular hollow section. In this paper, a further series of tests on tubes of square hollow section is presented. The theoretical predictions, based on the yield line approach, agree very well with test results from 36 welded tee end connections on circular and square hollow tubes.
+
+
+    
+        AU - Bruno Massicotte
+    
+        AU - James G. MacGregor
+    
+        AU - Alaa E. Elwi
+    
+
+TI - Behavior of Concrete Panels Subjected to Axial and Lateral Loads
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2324-2343
+VI - 116
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1990)116:9(2324) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282324%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282324%29
+SO - Journal of Structural Engineering 1990-09-01 116(9): 2324-2343
+AB - This paper presents a study of the behavior of slender reinforced concrete panels, supported along their four sides, and subjected simultaneously to axial and lateral loads. The paper describes the numerical aspect of an ongoing research program that also includes experimental tests. The application of such structural elements in civil engineering construction is first presented, followed by the description of the finite element program used to perform the analysis. The validity of the numerical model is established by comparison with several experimental results performed on various types of structural elements. Finally, the results of a parametric study are presented to illustrate the effects of several geometric, loading, and edge constraint parameters on the behavior of panels supported on four sides and subjected to in‐plane and lateral loads. The type of edge restraints, the in‐plane load magnitude, slenderness, and loading history had significant effects on the capacity and ductility of the plates.
+
+
+    
+        AU - F. J. Vecchio
+    
+        AU - C. C. L. Chan
+    
+
+TI - Reinforced Concrete Membrane Elements with Perforations
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2344-2360
+VI - 116
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1990)116:9(2344) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282344%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282344%29
+SO - Journal of Structural Engineering 1990-09-01 116(9): 2344-2360
+AB - An experimental investigation is described in which perforated reinforced concrete panel elements were subjected to uniformly distributed, monotonically increasing edge loads. Test parameters included the presence of a perforation, detailing of the reinforcement, and type of load condition. It was found that the stress disturbances created by a perforation resulted in significant reductions in element strength and stiffness and localized damage near the opening. The addition of extra reinforcement around the opening partially alleviated this influence. Predictions of panel response were made from nonlinear finite element analyses, using a formulation based on the modified compression field theory. Good accuracy was obtained in the predicted crack patterns, load‐deformation responses, reinforcement stresses, ultimate loads, and failure modes. The results suggest that behavior models based on a smeared, rotating crack can adequately represent response under locally complex stress conditions, provided proper consideration is given to concrete compression strain‐softening effects and tension‐stiffening effects.
+
+
+    
+        AU - Mohammad A. Khaleel
+    
+        AU - Rafik Y. Itani
+    
+
+TI - Live‐Load Moments for Continuous Skew Bridges
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2361-2373
+VI - 116
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1990)116:9(2361) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282361%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282361%29
+SO - Journal of Structural Engineering 1990-09-01 116(9): 2361-2373
+AB - This paper presents a method for determining moments in continuous normal and skew slab‐and‐girder bridges due to live loads. Using the finite element method, 112 continuous bridges are analyzed, each having five pretensioned Igirders. The spans vary between 24.4 and 36.6 m (80 and 120 ft), and are spaced between 1.8 and 2.7 m (6 and 9 ft) on center. The angle of skew, α, varies between 0 and 60°. A convergence study is also performed on a control bridge to ensure reliable results. Design parameters are identified and their influence on the load distributions studied. For a skew angle of 60°, maximum moment in the interior girder is approximately 71% of that in a normal bridge; and reduction in maximum bending moment is 20% in the exterior girders, which control the design for a bridge with long span, small girder spacing, and small relative stiffness of girders to slab. It is concluded that the AASHTO distribution of wheel loads for exterior girders in normal bridges underestimates the bending moments by as much as 28%.
+
+
+    
+        AU - Brian McDonald
+    
+        AU - Alain Peyrot
+    
+
+TI - Sag‐Tension Calculations Valid for Any Line Geometry
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2374-2386
+VI - 116
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1990)116:9(2374) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282374%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282374%29
+SO - Journal of Structural Engineering 1990-09-01 116(9): 2374-2386
+AB - A new method for determining transmission line sags and tensions is proposed. The algorithm is based upon new elements developed explicitly for transmission line systems. These elements make it possible to analyze lines of any geometry under general loading, temperature, and creep history either clamped in the service condition or suspended in the construction sheaves. Because the elements are derived from true catenary components, the results, including exact clipping offsets and sag corrections, remain valid in any terrain. Examples are included that provide comparisons to traditional analysis methods.
+
+
+    
+        AU - Enrique Mirambell
+    
+        AU - Antonio Aguado
+    
+
+TI - Temperature and Stress Distributions in Concrete Box Girder Bridges
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2388-2409
+VI - 116
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1990)116:9(2388) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282388%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282388%29
+SO - Journal of Structural Engineering 1990-09-01 116(9): 2388-2409
+AB - Temperature distributions in concrete bridges are nonlinear and induce self‐equilibrated stress distributions. Such distributions depend on several variables (environmental conditions, physical and material properties, and location of bridge). On the other hand, temperature and stress distributions in concrete box girder bridges depend on the cross‐section geometry. In this paper an analytical model to predict temperature and stress distributions is briefly presented. The results derived from the analytical model are compared with the experimental results obtained by other authors. In addition, several parametric studies needed to analyze the influence of the cross‐section geometry on the thermal response and stress distributions in concrete box girder bridges are carried out. Some remarks related to the vertical and transverse temperature differences are presented. Finally, some considerations about the thermal response in concrete box girder bridges are identified.
+
+
+    
+        AU - Shih Toh Chang
+    
+        AU - Jiang Zhi Gang
+    
+
+TI - Analysis of Cantilever Decks of Thin‐Walled Box Girder Bridges
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2410-2418
+VI - 116
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1990)116:9(2410) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282410%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282410%29
+SO - Journal of Structural Engineering 1990-09-01 116(9): 2410-2418
+AB - A spline finite strip approach is presented to analyze the cantilever deck of single‐cell box girder bridges. The effects of distortion of a thin‐walled box section are taken into account by treating the cantilever deck as a cantilever slab with horizontally distributed spring support along the cantilever root. Perspex model tests have been conducted in the model structural laboratory at Tong Ji University. The results based on the spline finite strip method are compared with those of a perspex model test. Simplified solutions are also given for the distribution of transverse moment along the cantilever root, satisfying the following essential conditions: (1) For a given loading condition, the moment at root has a peak value; (2) the area under the transverse moment curve plotted for a given distance c is P ⋅ c; and (3) moment approaches zero as longitudinal ordinate y tends to infinity. Further, sagging moment is detected exactly in the region where the concentrated load is applied. This moment, particularly in the case of long cantilever decks, cannot be ignored in routine design work.
+
+
+    
+        AU - Thomas E. McLain
+    
+        AU - Jeffrey D. Carroll
+    
+
+TI - Combined Load Capacity of Threaded Fastener‐Wood Connections
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2419-2432
+VI - 116
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1990)116:9(2419) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282419%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282419%29
+SO - Journal of Structural Engineering 1990-09-01 116(9): 2419-2432
+AB - Threaded fastener‐wood connections using lag screws, wood screws, and the like are commonly loaded with forces having components both parallel and perpendicular to the fastener axis. Metal side plate‐to‐wood connections with a single fastener are tested in pure withdrawal loading (90°), pure lateral loading (0°), and loading at 22.5° increments between the two extremes. Two sizes of standard lag screws and one size tapping screw are tested with southern pine and spruce‐pine‐fir main members. The experimental results show that relatively small deviations from pure lateral or pure withdrawal loading may be conservatively ignored. There is minimal interaction between lateral and withdrawal components of the maximum capacity of lag screw connections. Design values are derived by applying different safety factors to either the test, load at a limiting lateral deformation or the ultimate withdrawal load. An interpolation function such as Hankinson's formula or a second‐order interaction conservatively describes the effect of load angle on computed allowable loads.
+
+
+    
+        AU - Pei Jianping
+    
+        AU - Issam E. Harik
+    
+
+TI - Iterative FD Solution to Bending of Axisymmetric Conical Shells
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2433-2446
+VI - 116
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1990)116:9(2433) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282433%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282433%29
+SO - Journal of Structural Engineering 1990-09-01 116(9): 2433-2446
+AB - A numerical solution is presented for determining the stresses and displacements in complete and truncated conical shells. The method is based on the classical bending theory of thin axisymmetric shells. The governing differential equation for a conical element is presented in terms of the meridional or axial displacement u and the normal displacement w. Then, an iterative finite difference technique is employed to determine the displacements and in turn the stresses. The method is applicable to short and long conical shells having simply supported, clamped, or free edges. The proposed method can easily be extended to tapered conical shells and other types of axisymmetric shells. Results are presented and compared with those of existing solutions.
+
+
+    
+        AU - Michael C. H. Yam
+    
+        AU - J. J. Roger Cheng
+    
+
+TI - Fatigue Strength of Coped Steel Beams
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2447-2463
+VI - 116
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1990)116:9(2447) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282447%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282447%29
+SO - Journal of Structural Engineering 1990-09-01 116(9): 2447-2463
+AB - To investigate the fatigue behavior of coped beams, nine full‐scale specimens are tested; stress range and cope radius were the two test parameters. It is found that the stress concentration effect produced by the cope geometry is very localized and, as expected, increases with decreasing cope radius. The fatigue life of the specimens decreases with either increasing nominal stress range or decreasing cope radius. The finite element method is employed to investigate the stress concentration produced by the cope geometry. This analysis has results that show good agreement with the test results. Linear elastic fracture mechanics is used to analyze the fatigue strength of the test specimens. Reasonable agreement is obtained between the analytical results and the test results. Based on the analytical study and the limited number of experimental data, it is recommended that the actual stress range, which is the nominal stress range multiplied by the stress concentration factor, could be used along with category C from the S‐N curves in the AISC specification when one is designing coped beams subjected to fatigue loading.
+
+
+    
+        AU - Kenneth F. Dunker
+    
+        AU - F. Wayne Klaiber
+    
+        AU - Fouad K. Daoud
+    
+        AU - W. W. Sanders
+    
+
+TI - Strengthening of Continuous Composite Bridges
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2464-2480
+VI - 116
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1990)116:9(2464) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282464%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282464%29
+SO - Journal of Structural Engineering 1990-09-01 116(9): 2464-2480
+AB - The purpose of this first phase of a continuing research program is to examine the potential for strengthening continuous composite bridges by post‐tensioning. Testing of a one‐third scale bridge model and finite element analysis are used to determine the effects of various straight‐tendon posttensioning schemes. Because of both longitudinal and transverse distribution, the effects of posttensioning are complex. When asymmetrical posttensioning arrangements are applied to the bridge, the resulting stresses add to the dead load stresses in some regions of the model bridge. Symmetrical posttensioning of negative moment regions results in smaller stress reductions than symmetrical posttensioning of positive moment regions. Symmetrical posttensioning of positive moment regions has significant beneficial effects in both negative and positive moment regions. Vertical loads applied to the posttensioned model bridge either increase or decrease tendon forces, depending on the positions of the loads and tendons. Testing and analysis indicate that symmetrical posttensioning could improve service load stresses in continuous composite bridges.
+
+
+    
+        AU - Shahram Sarkani
+    
+
+TI - Feasibility of Auto‐Regressive Simulation Model for Fatigue Studies
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2481-2495
+VI - 116
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1990)116:9(2481) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282481%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282481%29
+SO - Journal of Structural Engineering 1990-09-01 116(9): 2481-2495
+AB - Experimental results from 20 welded specimens are presented to establish the validity of an auto‐regressive simulation technique for fatigue studies. The key parameter in simulating time histories with the auto‐regressive model is the correlation coefficient of the subsequent extrema of the loading process, which seems to be a useful measure in determining the fatigue damage. The auto‐regressive model can be used to simulate loadings that have unimodal (both rectangular and smooth) power spectral densities. Fatigue estimates with narrowband and somewhat broadband normal and nearly normal loadings are performed. Experimental results indicate that the time histories simulated using the auto‐regressive model produce the same fatigue damage as those simulated by the commonly used Gaussian simulation technique. Fatigue‐life predictions by the commonly used analytical techniques, however, substantially overestimate the experimental results.
+
+
+    
+        AU - Sandro Dei Poli
+    
+        AU - Marco Di Prisco
+    
+        AU - Pietro G. Gambarova
+    
+
+TI - Stress Field in Web of RC Thin‐Webbed Beams Failing in Shear
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2496-2514
+VI - 116
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1990)116:9(2496) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282496%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282496%29
+SO - Journal of Structural Engineering 1990-09-01 116(9): 2496-2514
+AB - The resistant mechanisms of reinforced and prestressed thin‐webbed beams failing in shear are effective on the condition that the web reinforcement and thickness are suitably designed. With regard to this, a rational model is developed for the limit analysis of a thin web at the onset of shear collapse because of stirrup yielding, also considering the aggregate interlock (along the shear cracks), the bending stiffness of the inclined concrete struts, the bond properties of the stirrups, and the ultimate capacity (in shear and compression) of the struts. The proposed model is an improved version of the well‐known Mörsch's truss, which is well suited to the modeling of a regularly cracked web subjected to prevailing shear. By solving a nonlinear system of equations regarding the equilibrium, compatibility, constitutive laws of the web, and various contributions to the web state of stress are investigated. The assumption introduced by other scholars, and adopted here also, that the web be subjected to a diagonal compression field, proves to be based on clear physical phenomena.
+
+
+    
+        AU - Masayoshi Nakashima
+    
+        AU - Koichi Takanashi
+    
+        AU - Hiroto Kato
+    
+
+TI - Test of Steel Beam‐Columns Subject to Sidesway
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2516-2531
+VI - 116
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1990)116:9(2516) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282516%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282516%29
+SO - Journal of Structural Engineering 1990-09-01 116(9): 2516-2531
+AB - This paper describes an experimental study to examine the behavior of steel beam‐columns subject to sidesway. A total of 42 beam‐columns are tested under a monotonic loading condition, with the axial force, slenderness, and geometrical and material properties as major test variables. The results, including the force‐versus‐deflection curves, maximum strengths, deflections at critical points, and local and lateral torsional buddings, are presented. Effectiveness of strength and ductility provisions stipulated by AISC's LRFD specification is calibrated against the data obtained. It is found that the experimental strength is never below the design strength and greater by 11% on the average, but that the unbraced length permitted for plastic design can ensure very little ductility (not more than 2.0).
+
+
+    
+        AU - David F. Mazurek
+    
+        AU - John T. DeWolf
+    
+
+TI - Experimental Study of Bridge Monitoring Technique
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2532-2549
+VI - 116
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1990)116:9(2532) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282532%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A9%282532%29
+SO - Journal of Structural Engineering 1990-09-01 116(9): 2532-2549
+AB - Laboratory model tests were conducted to examine the feasibility of detecting structural deterioration in highway bridges by vibrational signature analysis. The model is a two‐span aluminum plate‐girder bridge that permits vibrations to be induced using vehicular excitation. The ambient vibration method was used to obtain vibrational signature elements. Data was processed both by curve fitting and by using a more automatable analytical approach. Using low‐mass vehicular excitation, ambient vibration results compare well with conventional modal analyses for resonant frequencies and mode shapes, but damping is overestimated. Roadway roughness and vehicle velocity do not influence resonant frequencies or mode shapes, although variable mass can have a significant impact on resonant frequencies. Vehicular mass influences on mode shapes appear to be minimal. Major structural degradation can cause significant changes to both resonant frequencies and mode shapes. Degradation is detectable using a readily automatable analytical approach. Preliminary full‐scale tests suggest that vibrational signatures are obtainable in the field using the same methodology employed in the laboratory.
+
+

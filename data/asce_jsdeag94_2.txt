@@ -1,0 +1,519 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Moshe F. Rubinstein
+    
+        AU - Duane E. Wikholm
+    
+
+TI - Analysis by Group Iteration Using Substructures
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 363-375
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001879 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001879
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001879
+SO - Journal of the Structural Division 1968-02-01 94(2): 363-375
+AB - A procedure developed to analyze complex structures by group iteration. The analysis is formulated by the displacement method, using substructures. A group iteration is used to relax the constraints imposed at the junctions of the substructures when each is analyzed separately with fixed boundaries. The procedure is applied to the analysis of a continuous concrete floor slab and indicates that the solution converges rapidly to sufficiently accurate results.
+
+
+    
+        AU - John A. Blume
+    
+
+TI - Dynamic Characteristics of Multistory Buildings
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 377-402
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001880 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001880
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001880
+SO - Journal of the Structural Division 1968-02-01 94(2): 377-402
+AB - In order to evaluate unit stresses or to estimate possible damage in multistory buildings from earthquake or ground motion from underground nuclear explosion it is essential to determine how much of the dynamic response at any level is due to various types of freedom. The effects of shear deformation between floors, joint rotation, over-all flexure, and ground compliance are considered. Joint rotation and over-all flexure are evaluated over a wide range of building characteristics with simply determined indices. A period synthesis concept and a pseudo-stiffness procedure are proposed to enable the determination of periods, mode shapes and stiffnesses with consideration of joint rotation, over-all flexure and ground compliance while performing simple labor-saving analyses for assumed rigid-floor shear buildings. The first three modes of vibration are considered in elastic free vibration. The buildings and models are symmetric in plan without torsional coupling.
+
+
+    
+        AU - Billy Bohannan
+    
+
+TI - Structural Engineering Research in Wood
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 403-416
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001881 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001881
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001881
+SO - Journal of the Structural Division 1968-02-01 94(2): 403-416
+AB - Four structural engineering studies of wood beams, in progress or recently completed at the U. S. Forest Products Laboratory, are presented. A mathematical theory is presented to explain the size-bending strength relationship for wood beams. The approach considers a volume-strength relationship rather than a depth-strength relationship as has been used in the past. Results show that the relationship developed applies to small as well as relatively large beams. Principal results of research on the lateral stability of deep beams, tapered bending members, and prestressed laminated wood beams are also summarized, with references to complete papers indicated. In the lateral stability study, the stability of roof and floor systems, whose proportions allow lateral buckling of the supporting beams, is analyzed. Particular attention is given to the stabilizing influence of the shear stiffness of the attached deck. The study of tapered bending members shows that bending, shear, and vertical stresses can occur at one point and the effect of combined stresses should be considered in design. In the study of prestressed laminated wood beams, it is shown that increased strength and decreased variability of strength can be attained by prestressing wood members.
+
+
+    
+        AU - Elmo C. Higginson
+    
+        AU - James E. Backstrom
+    
+
+TI - Evaluation of Concrete for Desalination Plants
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 417-437
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001882 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001882
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001882
+SO - Journal of the Structural Division 1968-02-01 94(2): 417-437
+AB - Initial laboratory tests of a concrete subjected to temperatures, pressures, and brine concentrations that will exist in flash evaporator desalination plants indicate that concrete should provide long service when exposed to sea water at moderate temperatures. Specimens exposed to high-temperature 290°F brine, however, became soft at the surface to a depth of 5 mm. Uncoated concrete is severely affected by leaching when exposed to distilled water at 150°F to 350°F. High-temperature butyl and ethylene-propylene terpolymer rubber coatings show good promise as lining materials for concrete at temperatures up to 350°F. No significant corrosion of reinforcement steel has been noted in this investigation.
+
+
+    
+        AU - G. Neil Harper
+    
+        AU - Robert D. Logcher
+    
+
+TI - Member Selection Commands for Structural Design
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 439-453
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001883 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001883
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001883
+SO - Journal of the Structural Division 1968-02-01 94(2): 439-453
+AB - A comprehensive operational system for selecting members within the general environment of the Integrated Civil Engineering System (ICES) and Structural Design Language (STRUDL) is described. Member design or selection commands that are a natural adjunct to the analyses afforded by large scale systems such as STRUDL and its precursor, STRESS (Structural Engineering Systems Solver) are described. Both member selection and checking can be done for truss members, beams, and columns, subjected to a variety of axial, shear, moment, biaxial bending and axial loads. Structural types such as plane trusses, frames, grids, space trusses and frames are all handled by identical commands. A general purpose constraint checker is incorporated to allow specification of structural, architectural, or fabrication requirements. The member selection commands are designed for both steel and concrete members, though only steel selection/checking procedures and the AISC code have been developed to date.
+
+
+    
+        AU - Charles G. Culver
+    
+        AU - Stephen M. Preg
+    
+
+TI - Elastic Stability of Tapered Beam-Columns
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 455-470
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001884 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001884
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001884
+SO - Journal of the Structural Division 1968-02-01 94(2): 455-470
+AB - The behavior of axially loaded columns and beam-columns of uniform cross sections has been extensively investigated in both the elastic and inelastic ranges. In various practical situations, however, the use of tapered members, or wedge beams, is economically advantageous. The elastic stability of axially loaded tapered columns has been studied analytically by several investigators. The determination of the initial yield load for tapered beam-columns has also been investigated. In addition, an experimental investigation of the elastic stability of tapered beam-columns has been reported.
+
+
+    
+        AU - Harvey J. Kosherick
+    
+        AU - John Dundurs
+    
+        AU - Seng Lip Lee
+    
+
+TI - Annular Slabs in Circular Core Buildings
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 471-483
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001885 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001885
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001885
+SO - Journal of the Structural Division 1968-02-01 94(2): 471-483
+AB - The use of a central circular core to resist wind loads offers certain advantages in the construction of high rise buildings. Annular slabs, fixed at the inner boundary, supported by equally spaced columns on the outer boundary, and subjected to uniformly distributed transverse load are examined. The problem is solved under the assumption that the columns do not restrain the rotation of the slab, and that the column reactions are uniformly distributed over its width along the boundary. The influence of the column number, the column width, and the core radius, is studied with the deflection and stress resultants plotted for several informative cases.
+
+
+    
+        AU - Thomas T. C. Hsu
+    
+
+TI - Ultimate Torque of Reinforced Rectangular Beams
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 485-510
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001886 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001886
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001886
+SO - Journal of the Structural Division 1968-02-01 94(2): 485-510
+AB - An extensive investigation of plain and reinforced concrete beams subjected to torsion is being reported in a series of papers. Presented is an ultimate torque theory for reinforced concrete rectangular members based on the observed behavior of 53 test specimens. A design equation for ultimate torque is derived and compared with the writer's 53 tests and 27 other tests available in literature. The design equation is in agreement with the experimental results.
+
+
+    
+        AU - John R. Jombock
+    
+        AU - John W. Clark
+    
+
+TI - Bending Strength of Aluminum Formed Sheet Members
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 511-528
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001887 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001887
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001887
+SO - Journal of the Structural Division 1968-02-01 94(2): 511-528
+AB - An experimental and analytical investigation produced a method of calculating the bending strength of aluminum formed sheet members such as are used for roofing and siding. These members fail by crippling of the flange or web elements at stresses that may be well in excess of the local buckling strength. Specimens (numbering 46) were tested under either uniform bending moment or air pressure loading. Formulas are presented for local buckling and crippling of flange and web elements. Crippling failures occur simultaneously with local buckling in sections with relatively thick plate elements. In other sections, weighted average crippling stresses for the compression elements are used to predict ultimate bending strengths. Agreement with test results is achieved.
+
+
+    
+        AU - Francois N. Ayer
+    
+        AU - C. Allin Cornell
+    
+
+TI - Grid Moment Maximization by Mathematical Programming
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 529-549
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001888 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001888
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001888
+SO - Journal of the Structural Division 1968-02-01 94(2): 529-549
+AB - A plane grid representation of a highway bridge is analyzed for maximum moment under a moving load using the influence surface method. The ordinates of the influence surface are found at grid nodes (where stringers and diaphragms intersect) by use of a structural analysis program. These ordinates and the slopes at these points are used to determine in a manner similar to one used in finite element analysis of plates, an analytical expression of the whole surface. The grid is acted upon by a simple H20 loading. The sum of the products of the wheel loads and the ordinates of the influence surface at their locations defines an objective function. This objective function is a function of the position of the truck on the bridge; a mathematical programming procedure determines that position which causes the objective function to take on its maximum. A computer program automates the optimization. This program may be adapted to more general conditions, such as the skew bridge and multiple trucks, with or without variable axle spacing.
+
+
+    
+        AU - John McGlenn
+    
+        AU - Billy J. Hartz
+    
+
+TI - Finite Element Analysis of Plywood Plates
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 551-563
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001889 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001889
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001889
+SO - Journal of the Structural Division 1968-02-01 94(2): 551-563
+AB - Bending of plywood plates is investigated using the finite element matrix method. The stiffness matrix for rectangular plywood plate bending elements is developed from the orthotropic material properties of the individual lamina. The Melosh rectangular plate element representation is used. A centrally loaded rectangular plywood plate was analyzed using two finite element mesh sizes. The computed stresses and deflections are compared with experimental results for 7-ply Douglas fir plywood plates. It is found that both deflections and stresses can be calculated accurately by the finite element method if the orthotropic material properties for the lamina are available. A high speed digital computer is essential to implementation of the analysis.
+
+
+    
+        AU - Conrad P. Heins
+    
+        AU - Charles T. G. Looney
+    
+
+TI - Bridge Analysis using Orthotropic Plate Theory
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 565-592
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001890 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001890
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001890
+SO - Journal of the Structural Division 1968-02-01 94(2): 565-592
+AB - Two analytical methods are presented for use in bridge analysis. The inclusion of orthotropic plate theory permits consideration of any type of deck configuration. Structural continuity between all supporting members and their flexibilities may be considered. Complete computer programs have been developed in order to apply these techniques. One method, slope deflections utilizes the IBM 1620; the other technique, finite differences, uses the IBM 7094. All of the developed equations have been applied to problems consisting of isotropic plates. Complete agreement from both methods and previously analyzed structures occurs for these test cases. An example orthotropic bridge structure is initially designed and then analyzed, when subjected to a truck loading. The resulting deflection and moment data, throughout the structure, are obtained by both analytical methods. These data are compared, resulting in excellent agreement between methods.
+
+
+    
+        AU -  
+    
+
+TI - The CRC Guide: Second and Third Editions
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 593-598
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001891 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001891
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001891
+SO - Journal of the Structural Division 1968-02-01 94(2): 593-598
+AB - The first edition of the Column Research Council’s Guide to Design for Metal Compression Members was published by the CRC in 1960. The second was published by John Wiley &amp; Sons, Inc., in 1966, and the third is planned for 1972. This report was prepared by Bruce G. Johnston, editor of the Guide, on the request of the Task Committee on Compression Members to inform the members of the Structural Division of the ASCE about this recent development in the field of metal compression members. The Column Research Council, organized by the Engineering Foundation in 1944, has always had a close affiliation with the ASCE. In 1958, the Task Committee was formed as a part of the ASCE’s Structural Division Committee on Metals so that there might be a regular channel of communication between the council and the society. One may wonder why the problem of the column and the associated problems pertaining to compression members cannot be definitely solved in the near future. If past experience is a guide to the future, such problems are continuing ones of indefinite duration. Changes in materials and in methods for their fabrication into columns and compression members require a continual re-evaluation of column theory as applied in practice.
+
+
+    
+        AU -  
+    
+
+TI - Bibliography on Bolted and Riveted Structural Joints
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 599-601
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001892 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001892
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001892
+SO - Journal of the Structural Division 1968-02-01 94(2): 599-601
+AB - This is to announce publication of the Bibliography on Bolted and Riveted Structural Joints as ASCE Manual No. 48, edited by John W. Fisher and Lynn S. Beedle. Presented in this bibliography are abstracts of more than 600 articles covering work performed during the past two decades on bolted and riveted joints. In addition to chronologically arranged abstracts and references, there are such additional features as a graphical summary of work showing typical test joints, a complete author and subject index, and a review of highlights of the changes made from time-to-time in the Council Specification. Also, a fairly complete historical account of research and design experience on bolted and riveted bolts has been prepared.
+
+
+    
+        AU -  
+    
+
+TI - Closure to “Research Needs in Structural Engineering for the Decade of 1966-1975”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 605-607
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001893 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001893
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001893
+SO - Journal of the Structural Division 1968-02-01 94(2): 605-607
+
+
+    
+        AU - Winfield O. Salter
+    
+
+TI - Closure to “Two Computer Approaches to Subway Design”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 607-608
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001894 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001894
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001894
+SO - Journal of the Structural Division 1968-02-01 94(2): 607-608
+
+
+    
+        AU - John W. Melin
+    
+
+TI - Closure to “Post: Problem-Oriented Subroutine Translator”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 608-608
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001895 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001895
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001895
+SO - Journal of the Structural Division 1968-02-01 94(2): 608-608
+
+
+    
+        AU - Moshe F. Rubinstein
+    
+        AU - John Karagozian
+    
+
+TI - Closure to “Building Design Using Linear Programming”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 609-609
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001896 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001896
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001896
+SO - Journal of the Structural Division 1968-02-01 94(2): 609-609
+
+
+    
+        AU - Charles F. Beck
+    
+        AU - Max Zar
+    
+
+TI - Closure to “Computer Analysis of Tower Verified by Testing”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 609-611
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001897 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001897
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001897
+SO - Journal of the Structural Division 1968-02-01 94(2): 609-611
+
+
+    
+        AU - Nancy Jane Cyrus
+    
+        AU - Robert E. Fulton
+    
+
+TI - Closure to “Finite Difference Accuracy in Structural Analysis”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 611-612
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001898 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001898
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001898
+SO - Journal of the Structural Division 1968-02-01 94(2): 611-612
+
+
+    
+        AU - George S. Robinson
+    
+
+TI - Closure to “Behavior of Concrete in Biaxial Compression”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 613-614
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001899 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001899
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001899
+SO - Journal of the Structural Division 1968-02-01 94(2): 613-614
+
+
+    
+        AU - Alberto Gomez-Rivas
+    
+
+TI - Discussion of “Natural Frequencies of Horizontally Curved Beams”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 614-615
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001900 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001900
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001900
+SO - Journal of the Structural Division 1968-02-01 94(2): 614-615
+
+
+    
+        AU - Edwin C. Rossow
+    
+        AU - Seng-Lip Lee
+    
+
+TI - Discussion of “Behavior and Maximum Strength of Metal Columns”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 615-617
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001901 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001901
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001901
+SO - Journal of the Structural Division 1968-02-01 94(2): 615-617
+
+
+    
+        AU - John Peterson
+    
+        AU - John J. Zahn
+    
+        AU - Robert L. Ethington
+    
+
+TI - Discussion of “Nature of Compression Failure in Wood”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 618-619
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001902 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001902
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001902
+SO - Journal of the Structural Division 1968-02-01 94(2): 618-619
+
+
+    
+        AU - Kjetil Löken
+    
+
+TI - Discussion of “Bending of Hyperbolic Paraboloid Structures”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 620-621
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001903 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001903
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001903
+SO - Journal of the Structural Division 1968-02-01 94(2): 620-621
+
+
+    
+        AU - Anatol A. Eremin
+    
+        AU - Joseph G. Perri
+    
+        AU - Hsien-San Tsang
+    
+
+TI - Discussion of “Simple Method of Analysis of Vierendeel Structures”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 621-625
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001904 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001904
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001904
+SO - Journal of the Structural Division 1968-02-01 94(2): 621-625
+
+
+    
+        AU - Anatol A. Eremin
+    
+
+TI - Discussion of “Inelastic Behavior of Structural Frameworks”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 625-625
+VI - 94
+IP - 2
+AID - 10.1061/JSDEAG.0001905 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001905
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001905
+SO - Journal of the Structural Division 1968-02-01 94(2): 625-625
+
+

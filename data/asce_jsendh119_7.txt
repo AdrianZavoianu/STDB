@@ -1,0 +1,476 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Hideo Takabatake
+    
+        AU - Hisao Mukai
+    
+        AU - Tadato Hirano
+    
+
+TI - Doubly Symmetric Tube Structures. I: Static Analysis
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1981-2001
+VI - 119
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1993)119:7(1981) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A7%281981%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A7%281981%29
+SO - Journal of Structural Engineering 1993-07-01 119(7): 1981-2001
+AB - This paper presents a simplified analytical method usable in preliminary stages of the design to doubly symmetric tube structures in high‐rise structures by means of an extended rod theory including the bending, transverse shear deformation, shear lag and torsion. The discontinuous variation of sectional stiffness due to frame members and attached braces is expressed as a continuous function by means of the extended Dirac function. The deflection, shear lag, and torsional angle of the variable tube structures with braces are given in closed‐form solutions. The exactness of the closed‐form solutions is established from numerical results for a doubly symmetric and variable frame tube with braces, in which the results obtained from the proposed solutions are compared with results obtained from the three‐dimensional frame analysis using FEM code NASTRAN.
+
+
+    
+        AU - Hideo Takabatake
+    
+        AU - Hisao Mukai
+    
+        AU - Tadato Hirano
+    
+
+TI - Doubly Symmetric Tube Structures. II: Dynamic Analysis
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2002-2016
+VI - 119
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1993)119:7(2002) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282002%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282002%29
+SO - Journal of Structural Engineering 1993-07-01 119(7): 2002-2016
+AB - This paper presents simplified analytical methods and closed‐form approximate solutions for free and forced vibrations of a doubly symmetric tube structure to use in preliminary stages of the design. The governing equations proposed in the companion paper are modified to a simplified differential equation expressed in terms of the lateral deflections. It includes the effect of the bending, transverse shear deformation, and shear lag. First, the natural frequencies for a uniform tube structure are presented in closed form. Natural frequencies for variable tube structures are formulated by means of the Galerkin method and in the closed‐form approximate solutions. Second, a dynamic analysis for a variable tube structure is proposed in closed‐form approximate solution. The validity of these solutions is shown from numerical results.
+
+
+    
+        AU - Eiki Yamaguchi
+    
+        AU - Toshiaki Ohta
+    
+
+TI - Accurate and Efficient Method for Analysis of Reinforced Concrete Structures
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2017-2035
+VI - 119
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1993)119:7(2017) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282017%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282017%29
+SO - Journal of Structural Engineering 1993-07-01 119(7): 2017-2035
+AB - An accurate and efficient finite‐element method for the analysis of reinforced‐concrete structures is presented. Not only mechanical problems but also heat‐conduction problems are targeted. Considering the fact that reinforcement details in concrete structures are inherently complex, the embedded representation of reinforcement is advantageous and is therefore used herein. Effort is then made to improve computational efficiency. To this end, although the embedded representation is usually associated with higher‐order elements, a four‐node quadrilateral element is employed since mathematical manipulation of lower‐order elements is much easier. By solving several example problems, the accuracy of the embedded representation used in connection with lower‐order elements and the efficiency of the present approach are confirmed. Clear‐cut advantages of the embedded representation over the widely used discrete representation are also demonstrated.
+
+
+    
+        AU - Hamid Moharrami
+    
+        AU - Donald E. Grierson
+    
+
+TI - Computer‐Automated Design of Reinforced Concrete Frameworks
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2036-2058
+VI - 119
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1993)119:7(2036) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282036%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282036%29
+SO - Journal of Structural Engineering 1993-07-01 119(7): 2036-2058
+AB - This paper presents an efficient computer‐based method for the optimal design of reinforced concrete building frameworks. The width, depth, and longitudinal reinforcement of member sections are taken as the design variables. The strength constraints for the design are formulated using both member capacity sensitivities and structure response sensitivities. An optimality criteria method is applied to minimize the cost of concrete, steel, and formwork subject to constraints on strength and stiffness. Two reinforced concrete framework examples are presented to illustrate the features of the design optimization method. It is shown that the design method provides an effective iterative optimization strategy that converges in relatively few cycles to a least‐cost design of reinforced concrete frameworks satisfying all relevant requirements of the governing design code. The iterative process is insensitive to the (arbitrarily) selected initial design and converges smoothly to a final design involving member dimensions and reinforcement percentages consistent with usual design practice.
+
+
+    
+        AU - Shenglin Di
+    
+        AU - Y. K. Cheung
+    
+
+TI - Nonlinear Analysis of RC Shell Structures Using Laminated Element. I
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2059-2073
+VI - 119
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1993)119:7(2059) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282059%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282059%29
+SO - Journal of Structural Engineering 1993-07-01 119(7): 2059-2073
+AB - An incremental variational formulation is presented for large deflection analysis of elastic‐plastic continuum by considering the energy consistency of a nonlinear multivariable discrete system based upon incompatible trial functions. The functional is given in orthogonal curvilinear coordinate system and the initial stress procedure has been introduced. Equilibrium imbalance correction is included to prevent drifting of the solution during the incremental process. As an initial application of the suggested formulation, a hybrid stress laminated shell element, in which an energy constraint is introduced to improve the element performance, has been developed to analyze the through‐thickness plastic behavior and the progressive cracking in RC plates and shells. It is of quadrilateral shape with only four corner nodes and can be used for both shallow and deep laminated shells with satisfactory numerical characteristics. Example problems are also included to illustrate the element performance.
+
+
+    
+        AU - Shenglin Di
+    
+        AU - Y. K. Cheung
+    
+
+TI - Nonlinear Analysis of RC Shell Structures Using Laminated Element. II
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2074-2094
+VI - 119
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1993)119:7(2074) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282074%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282074%29
+SO - Journal of Structural Engineering 1993-07-01 119(7): 2074-2094
+AB - An incremental variational formulation and a curved‐shell element were proposed in the companion paper. In this part, the material model and solution techniques are discussed in detail. The strain‐hardening plastic approach is employed to model the compressive behavior of the concrete. A dual criterion is considered for yielding and crushing in terms of stresses and strains, which is completed with a tension cut‐off representation. Both the crack interface effects and dowel action are accounted for by using an average shear modulus, and a full bond is assumed at the steel‐concrete interface. A total Lagrangian approach making use of the second Piola‐Kirchhoff stress tensor is employed in this analysis. An incremental and iterative modified Newton‐Raphson scheme is used for the solution of nonlinear problem. An energy criterion in terms of both forces and displacements is implemented. The applicability and validity of this analytical model incorporating both geometrical and material nonlinearities is amply demonstrated through several numerical examples. The solution technique proposed in this paper has been shown to be successful in preventing the drifting of the solution in incremental process.
+
+
+    
+        AU - Luigino Dezi
+    
+        AU - Angelo Marcello Tarantino
+    
+
+TI - Creep in Composite Continuous Beams. I: Theoretical Treatment
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2095-2111
+VI - 119
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1993)119:7(2095) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282095%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282095%29
+SO - Journal of Structural Engineering 1993-07-01 119(7): 2095-2111
+AB - In this first part of the paper, the viscoelastic analysis of composite steel‐concrete continuous beams with flexible shear connectors is performed. The method proposed evaluates the stress redistribution between the concrete slab and the steel beam, and the evolution of the redundant restraint reactions, which occur with time as a result of creep and shrinkage of the concrete part. The effects produced both by geometric and static actions are considered. The mathematical formulation of the problem involves the equations of equilibrium, internal and external compatibility conditions, and constitutive relationships, i.e. an elastic law for the steel part and an integral‐type creep law for the concrete part. Thus, the problem for a continuous beam with r redundant reactions is governed by a coupled system of r+5 equations, of which two are integral‐differential‐type equations. Successively, this system is resolved by numerical step‐by‐step techniques. Therefore, performing two standard discretizations, in time and along the beam axis, a numeric algorithm is proposed.
+
+
+    
+        AU - Luigino Dezi
+    
+        AU - Angelo Marcello Tarantino
+    
+
+TI - Creep in Composite Continuous Beams. II: Parametric Study
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2112-2133
+VI - 119
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1993)119:7(2112) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282112%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282112%29
+SO - Journal of Structural Engineering 1993-07-01 119(7): 2112-2133
+AB - By using the numerical algorithm proposed in part 1, a parametric analysis was performed in this second part of the paper in order to determine the time‐dependent behavior of continuous composite beams subjected to static and geometrical actions. This analysis has shown that in the case of composite structures under constant static actions the restraint reactions undergo very limited variations with time, while the deflections vary considerably. Conversely, in the case of constant geometrical actions, the deflections undergo very limited variations with time, while the restraint reactions vary considerably. This occurs for any value of the stiffness of the connectors, but, in particular, for the two limit situations of stiffness being either null or infinite there are two invariance conditions that hold. Like the two theorems of linear viscoelasticity for homogeneous structures, these invariance conditions state that the restraint reactions under static actions, as well as the deflections under geometrical actions, can be elastically evaluated. The shear‐force distribution at the interface and the influence of rheologic parameters and of the shrinkage of the concrete slab were investigated.
+
+
+    
+        AU - Fred W. Williams
+    
+        AU - Adel K. Jemah
+    
+        AU - Diem H. Lam
+    
+
+TI - Distortional Buckling Curves for Composite Beams
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2134-2149
+VI - 119
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1993)119:7(2134) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282134%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282134%29
+SO - Journal of Structural Engineering 1993-07-01 119(7): 2134-2149
+AB - This paper presents simple elastic analysis of uniformly loaded composite steel‐concrete beams simply supported, but with an additional spring having arbitrary stiffness to restrain in‐plane rotation at each end that can become infinite, to give clamped ends. Thus it is possible to represent members continuous over internal supports. The analysis allows for the difference between sagging and hogging bending rigidities along the member, using a simple approach of comparing areas under the curvature diagram of the beam. Hence design curves are presented that model the buckling of the lower flange in its own plane. These can be used for any combination of clamped, simply supported and free in‐plane end conditions of the flange. This enables distortional buckling stresses and end bending moments, plus the uniformly distributed loads causing them, to be predicted for a very wide range of composite beams with reinforced slabs of any probable proportions. Therefore the curves can be considered to form a concise parametric study, covering a wide range of beam sections. Their use is illustrated by an example.
+
+
+    
+        AU - J. M. Stallings
+    
+        AU - C. H. Yoo
+    
+
+TI - Tests and Ratings of Short‐Span Steel Bridges
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2150-2168
+VI - 119
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1993)119:7(2150) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282150%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282150%29
+SO - Journal of Structural Engineering 1993-07-01 119(7): 2150-2168
+AB - A series of diagnostic tests were performed on three short‐span, two‐lane, steel‐girder bridges. Tests were performed with stationary and moving test trucks placed on the bridges one at a time and side by side. Wheel‐load distribution factors were calculated from results of the stationary‐truck test, and impact factors were calculated from results of the moving‐truck test. Girder strains were calculated using the American Association of State Highway and Transportation Officials' simplified bridge analysis with the measured wheel‐load distribution factors. The calculated girder strains were consistently larger than measured values. The results illustrate some of the inaccuracies of the wheel‐load distribution‐factor approach. Impact factors are calculated by various methods. Comparisons are made between impact factors for the most critically loaded girder and impact factors determined from the combined response of all the girders. The impact factors based on the combined response of all the girders tend to be larger. Impact factors calculated from side‐by‐side truck test results tend to be larger than those calculated from single‐truck tests. Bridge ratings based on the test results are presented and discussed.
+
+
+    
+        AU - T. L. Wilkinson
+    
+
+TI - Bolted Connection Design Values Based on European Yield Model
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2169-2186
+VI - 119
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1993)119:7(2169) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282169%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282169%29
+SO - Journal of Structural Engineering 1993-07-01 119(7): 2169-2186
+AB - This paper discusses the calibration of connection strengths predicted by the European yield model (EYM) to the design values for bolted connections tabulated in the 1986 National Design Specification (NDS). Predicted EYM strengths were compared with 1986 NDS design values to arrive at recommended calibration factors for two‐ and three‐member connections with wood and steel side members loaded parallel and perpendicular to grain over the design space. Design values were changed as a result of basing the bolt‐bearing strength of the wood on the specific gravity of a species. Use of Hankinson's formula with bolt‐bearing strength was found to be more expedient for loads at an angle to the grain than using the formula with design values for parallel‐ and perpendicular‐to‐grain loading. The recommended calibration factors result in some increases and decreases in design values. These factors have been incorporated into the 1991 NDS and a proposed specification for load and resistance factor design (LRFD).
+
+
+    
+        AU - R. A. LaBoube
+    
+        AU - W. W. Yu
+    
+
+TI - Behavior of Arc Spot Weld Connections in Tension
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2187-2198
+VI - 119
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1993)119:7(2187) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282187%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282187%29
+SO - Journal of Structural Engineering 1993-07-01 119(7): 2187-2198
+AB - Arc spot welds, commonly called puddle welds, are widely used for connecting cold‐formed steel roof decks to their supporting members. These support members are typically hot‐rolled steel beams or girders, or the top chord of open‐web steel joists. A comprehensive experimental study of the tension strength of arc spot weld connections used to affix a cold‐formed steel roof deck to its support member was conducted. The study investigated the key parameters that influence the connection strength: steel thickness, tensile strength, and ductility; type of weld process, automatic or manual; cross section of the roof deck; loading condition, symmetrical or eccentric load; and geometry of connection. Based on the experimental results obtained from over 260 connection tests, equations have been developed that predict the tension capacity of an arc spot weld connection. These equations are easily applied, and lend themselves to use by structural designers.
+
+
+    
+        AU - Nilson Franco
+    
+        AU - Patrick J. Pellicane
+    
+
+TI - Three‐Dimensional Model for Wood‐Pole‐Strength Predictions
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2199-2214
+VI - 119
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1993)119:7(2199) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282199%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282199%29
+SO - Journal of Structural Engineering 1993-07-01 119(7): 2199-2214
+AB - A three‐dimensional finite element model was developed to predict the strength and failure location of nine wood transmission poles made from three commonly used North American species. All poles were 1,524–1,829 cm (50–60 ft) long, and were tested to failure as cantilever beams. The analysis methodology involved considering several 45.7‐cm‐ (18‐in.‐) long segments, located along the pole length, that contained the most severe inherent characteristics. Each segment was analyzed recognizing actual material properties and appropriate boundary conditions. Important material properties for each segment were determined by measuring clear‐wood elastic and strength parameters in undamaged sections taken from tested poles. The flow‐grain model was used to describe the grain deviation around knots. For the nine poles studied, predicted and experimental strength values differed on average by 7%. The correct location was predicted in six of the nine poles studied. Where failure location was not predicted correctly, the failure was due to some pole characteristic not perceptible from a surface inspection.
+
+
+    
+        AU - James M. Ricles
+    
+        AU - Pierre Leger
+    
+
+TI - Marine Component Fatigue Reliability
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2215-2234
+VI - 119
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1993)119:7(2215) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282215%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282215%29
+SO - Journal of Structural Engineering 1993-07-01 119(7): 2215-2234
+AB - A method is presented for evaluating the fatigue of offshore structural steel members based on structural component reliability procedures coupled with spectral analysis methods. The approach is based on formulating a nonlinear performance function that expresses the cumulative fatigure damage in the form of Miner's rule. Uncertainties in the cumulative fatigue damage rule and stress calculation are handled by the treatment of the parameters in question as random variables. As a measure of reliability against fatigue, the Hasofer‐Lind reliability index of the performance function is calculated using the first‐order marginal distribution method. The approach is invariant, accounts for correlation among random variables, and permits the ordering of the random variables and deterministic parameters to be readily performed. A numerical application on a simple idealized platform is used to demonstrate the method and study the fatigue reliability sensitivity. Results of the analysis indicate that the reliability is most sensitive to uncertainty in the stress calculation.
+
+
+    
+        AU - Chang Shik Min
+    
+        AU - Ajaya Kumar Gupta
+    
+
+TI - Inelastic Behavior of Hyperbolic Cooling Tower
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2235-2255
+VI - 119
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1993)119:7(2235) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282235%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282235%29
+SO - Journal of Structural Engineering 1993-07-01 119(7): 2235-2255
+AB - Inelastic nonlinear behavior of a hyperbolic cooling tower under wind loading is studied using a finite‐element program developed on a Cray Y‐MP. Convergence studies for the elastic and inelastic analyses are performed using three mesh models. It is shown that the mesh convergence plays an important role in accurately predicting the inelastic behavior of a cooling tower. Even though the cooling tower resists the applied forces through membrane stresses, it is found that the bending stresses play an important role in the failure and behavior of the cooling tower. The present analysis gives a shape factor of 1.48, which indicates a significant redistribution of meridional stresses. It is further evidenced by the distribution of meridional reinforcement yielding, which reaches up to 30° from the windward meridian. The present study shows that the reduction in cracking strength does not change the ultimate load. The present practice of using elastic analysis for calculating the design stresses appears to be at least safe and conservative. A more comprehensive study should lead to conclusions that would allow use of a higher‐than‐one shape factor, thus requiring less meridional reinforcement than the present design method does.
+
+
+    
+        AU - L. B. Pan
+    
+        AU - P. C. Liu
+    
+        AU - S. L. Bakoss
+    
+
+TI - Long‐Term Shortening of Concrete Columns in Tall Buildings
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2258-2262
+VI - 119
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1993)119:7(2258) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282258%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282258%29
+SO - Journal of Structural Engineering 1993-07-01 119(7): 2258-2262
+AB - The accurate estimation of the long‐term shortening of the vertical members of tall concrete buildings is often an important issue in their design. Differences in the shortening of adjacent columns or between columns and the shear core can induce significant moments and shears in connecting floor slabs or beams. The effects of such differential vertical movements have to be carefully considered where adjacent vertical members are closely spaced, carry different loads, or have different cross sections. The total shortening of concrete columns consists of the sum of the instantaneous axial deformations and the deformations induced by creep and shrinkage. The paper describes a method for the prediction of the long‐term axial deformations of reinforced concrete columns of tall buildings. The method is based on the incremental superposition procedure in which the stresses due to loads and creep and shrinkage are assumed to vary discretely at selected instants of time. Predicted values are shown to be in good agreement with column shortening measured in a tall building.
+
+
+    
+        AU - Peter L. Fuhr
+    
+        AU - Dryver R. Huston
+    
+        AU - Timothy P. Ambrose
+    
+        AU - Darrell M. Snyder
+    
+
+TI - Stress Monitoring of Concrete Using Embedded Optical Fiber Sensors
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2263-2269
+VI - 119
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1993)119:7(2263) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282263%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282263%29
+SO - Journal of Structural Engineering 1993-07-01 119(7): 2263-2269
+AB - Fiber‐optic sensors have been deployed successfully in the monitoring of composite structures such as aircraft. At present there is considerable interest in using these sensors to measure the curing, strain, and long‐term integrity of civil structures. This study presents the use of an embedded multimode optical fiber to monitor load‐to‐failure testing of a reinforced concrete beam. The procedure for embedding fiber‐optics sensors into a reinforced concrete beam is described as are the various and sundry details, e.g., connections and instrumentation. A key issue relating to this study is the survivability of fiber‐optic sensors, embedded in concrete structures, particularly during the curing process. This has been evaluated by monitoring the intensity transmissibility during a 28‐day cure cycle. Intensity transmission measurements and optical time domain reflectometry (OTDR) analysis of the embedded fiber‐optic sensors were conducted during a load‐to‐failure test. High correlation of the embedded fiber fault locations and stress‐induced failure points in the beam was observed.
+
+
+    
+        AU - Onsy L. Roufaeil
+    
+
+TI - Discussion of &#x201c;<i>3&#x2010;D Nonlinear Seismic Behavior of Cable&#x2010;Stayed Bridges</i>&#x201d; by Ahmed M. Abdel&#x2010;Ghaffar and Aly S. Nazmy (November, 1991, Vol. 117, No. 11)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2272-2272
+VI - 119
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1993)119:7(2272) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282272%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282272%29
+SO - Journal of Structural Engineering 1993-07-01 119(7): 2272-2272
+
+
+    
+        AU - Ahmed M. Abdel‐Ghaffar
+    
+
+TI - Closure to &#x201c;<i>3&#x2010;D Nonlinear Seismic Behavior of Cable&#x2010;Stayed Bridges</i>&#x201d; by Ahmed M. Abdel&#x2010;Ghaffar and Aly S. Nazmy (November, 1991, Vol. 117, No. 11)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2272-2273
+VI - 119
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1993)119:7(2272.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282272.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282272.2%29
+SO - Journal of Structural Engineering 1993-07-01 119(7): 2272-2273
+
+
+    
+        AU - C. N. Srinivasan
+    
+        AU - C. R. Arvind
+    
+
+TI - Discussion of &#x201c;<i>Simplified Building Analysis with Sequential Dead Loads&#x2014;CFM</i>&#x201d; by Chang&#x2010;Koon Choi, Hye&#x2010;Kyo Chung, Dong&#x2010;Guen Lee, and E. L. Wilson (April, 1992, Vol. 118, No. 4)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2273-2274
+VI - 119
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1993)119:7(2273) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282273%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282273%29
+SO - Journal of Structural Engineering 1993-07-01 119(7): 2273-2274
+
+
+    
+        AU - Chang‐Koon Choi
+    
+        AU - Hye‐Kyo Chung
+    
+        AU - Dong‐Guen Lee
+    
+        AU - E. L. Wilson
+    
+
+TI - Closure to &#x201c;<i>Simplified Building Analysis with Sequential Dead Loads&#x2014;CFM</i>&#x201d; by Chang&#x2010;Koon Choi, Hye&#x2010;Kyo Chung, Dong&#x2010;Guen Lee, and E. L. Wilson (April, 1992, Vol. 118, No. 4) 
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2274-2274
+VI - 119
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1993)119:7(2274) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282274%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282274%29
+SO - Journal of Structural Engineering 1993-07-01 119(7): 2274-2274
+
+
+    
+        AU - Tsuneyoshi Nakamura
+    
+        AU - Yutaka Nakamura
+    
+
+TI - Erratum: "Stiffness Design of 3&#x2010;D Shear Buildings for Specified Seismic Drifts" (January, 1993, Vol. 119, No. 1)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2275-2275
+VI - 119
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1993)119:7(2275) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282275%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282275%29
+SO - Journal of Structural Engineering 1993-07-01 119(7): 2275-2275
+
+
+    
+        AU - Filippo Romano
+    
+        AU - Salvatore Ganduscio
+    
+        AU - Gaetano Zingone
+    
+
+TI - Erratum: "Cracked Nonlinear Masonry Stability under Vertical and Lateral Loads" (January, 1993, Vol. 119, No. 1)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2275-2275
+VI - 119
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1993)119:7(2275.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282275.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A7%282275.2%29
+SO - Journal of Structural Engineering 1993-07-01 119(7): 2275-2275
+
+

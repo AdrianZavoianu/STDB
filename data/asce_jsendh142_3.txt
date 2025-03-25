@@ -1,0 +1,430 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Liping Wang
+    
+        AU - Ben Young
+    
+
+TI - Behavior of Cold-Formed Steel Built-Up Sections with Intermediate Stiffeners under Bending. I: Tests and Numerical Validation
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015150
+VI - 142
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001428 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001428
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001428
+SO - Journal of Structural Engineering 2016-03-01 142(3): 04015150
+AB - An experimental investigation of simply supported built-up section beams with different sectional configurations has been conducted under both four-point bending and three-point bending. Intermediate stiffeners were employed to the webs of built-up sections to improve the buckling strength that is susceptible to local buckling and/or distortional buckling. In this study, the built-up sections were assembled by self-tapping screws from two channels with web stiffeners, which were brake-pressed from high-strength, zinc-coated grades G500 and G550 structural steel sheets with nominal 0.2% proof stresses of 500 and 550&nbsp;MPa, respectively. The screws were located either at the flanges or webs, and the built-up sections include both open sections and closed sections. The moment capacities and observed failure modes of the beam tests are presented, and no failure was found in the screws. The local and distortional buckling behavior of the built-up section beam specimens were found to be different from the single profiles. Finite-element (FE) models were developed, and numerical analysis that includes material nonlinearity, geometric nonlinearity, and contact nonlinearity was performed. The FE and the experimental results were found in good agreement in terms of ultimate moments and failure modes. The verified FE models are used to perform parametric studies in the companion paper. The structural behavior and design rule for built-up section beams with intermediate stiffeners is then explored and presented.
+
+
+    
+        AU - Liping Wang
+    
+        AU - Ben Young
+    
+
+TI - Behavior of Cold-Formed Steel Built-Up Sections with Intermediate Stiffeners under Bending. II: Parametric Study and Design
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015151
+VI - 142
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001427 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001427
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001427
+SO - Journal of Structural Engineering 2016-03-01 142(3): 04015151
+AB - Built-up sections were used in a wide range of constructional steel applications. The investigation aims to develop suitable design rules for cold-formed steel doubly symmetric built-up open and closed sections with intermediate stiffeners under bending in this study. These built-up sections have a sufficient number of connections either at the flanges or webs, depending on the sectional configurations. Followed with the experimental investigation and finite-element validation in the first part of this study, a numerical parametric study including a total of 113 different built-up section beams was conducted. The key parameters including the sectional shapes and slenderness as well as the different failure modes and structural behavior were examined. The experimental data, together with the numerical results were compared with the predicted strengths using the current direct strength method (DSM) in the North American Specification. The determination of elastic buckling stresses corresponding to different failure modes, mainly the local and distortional buckling, for beam members is a prerequisite for DSM. Simplified assumptions on the built-up sections were employed in determining the elastic buckling stresses. Furthermore, modified DSM equations for beams with different built-up sectional configurations were calibrated with the experimental and numerical data obtained from this study. The design strengths predicted by the recommended design rules exhibited good agreement with ultimate moments of the built-up open and closed section beams. A reliability analysis was also performed. It is shown that the recommended design rules for cold-formed steel built-up open and closed sections with intermediate stiffeners under bending is reliable.
+
+
+    
+        AU - Tim Francisco
+    
+        AU - Judy Liu
+    
+
+TI - Application of Experimental Results to Computational Evaluation of Structural Integrity of Steel Gravity Framing Systems with Composite Slabs
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015152
+VI - 142
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001444 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001444
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001444
+SO - Journal of Structural Engineering 2016-03-01 142(3): 04015152
+AB - The simplicity of steel gravity framing systems in their load paths and construction has led to questions regarding their structural integrity or robustness. When considering structural integrity, the problem is often framed around the concept of column-removal scenarios, in which the structure must develop alternate load paths. The sometimes prohibitive space and resource requirements for experimental evaluation of steel gravity framing systems subjected to column-removal scenarios have resulted in the development of computational approaches to the problem. Recent computational research on this topic has highlighted the importance of considering the contribution of the composite slab to system robustness. A shell-based composite layup strip approach is the current state of the art for representing the composite slab in computational models. However, this approach has not been fully validated with experimental data and contains inherent assumptions, such as continuity of the metal deck between bays, that may not reflect construction realities. This study uses the results of experimental component level tests of the composite slab to evaluate those assumptions at the material, component, and system levels of modeling.
+
+
+    
+        AU - Krisztián Hincz
+    
+        AU - Mauricio Gamboa-Marrufo
+    
+
+TI - Deformed Shape Wind Analysis of Tensile Membrane Structures
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015153
+VI - 142
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001437 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001437
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001437
+SO - Journal of Structural Engineering 2016-03-01 142(3): 04015153
+AB - Conventionally, the pressure coefficients of tensile membrane structures are determined in wind tunnels on rigid models and the effect of the typically large deformations of the membranes on the pressure coefficients is not taken into account. The aim of the current research is to analyze the effect of the displacements of membrane structures on the pressure coefficients. A more precise wind analysis is introduced in this paper. Two rigid models were analyzed in a wind tunnel: the model of the unloaded construction shape, and the model of the deformed shape of the membrane under wind loads. The deformed shape was determined with the dynamic relaxation method on the basis of the pressure coefficients obtained from the construction shape subjected to wind loads. The two pressure coefficient fields, the corresponding membrane stresses and displacements are introduced and compared in this paper. Results show that the displacements of the membrane under wind load can result in significant differences of the pressure coefficients maximum values. Conversely, the introduced analysis and the determination of the pressure coefficients of the deformed shape improve the accuracy of the wind analysis of tensile membrane structures.
+
+
+    
+        AU - Luigi Fiorino
+    
+        AU - Ornella Iuorio
+    
+        AU - Vincenzo Macillo
+    
+        AU - Maria Teresa Terracciano
+    
+        AU - Tatiana Pali
+    
+        AU - Raffaele Landolfo
+    
+
+TI - Seismic Design Method for CFS Diagonal Strap-Braced Stud Walls: Experimental Validation
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015154
+VI - 142
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001408 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001408
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001408
+SO - Journal of Structural Engineering 2016-03-01 142(3): 04015154
+AB - The search for innovative methods to ensure high structural, technological, and environmental performance is an important issue in the development of new construction. Among the several available building systems, constructions involving the structural use of cold-formed steel (CFS) profiles represent an efficient and reliable solution. In an effort to characterize the seismic response of CFS structures and to support the spread of these systems, a theoretical and experimental research has been carried out. It focused on the all-steel-design solution, in which CFS diagonal strap-braced stud walls are the main lateral resisting system. In order to overcome the lack of information in the current European codes, a critical analysis has been carried out of the requirements for these systems in difference codes for hot-rolled X-braced steel frames (tension-only). On the basis of the design hypothesis outlined from this analysis, a case study has been developed with the aim to define an extended experimental campaign involving 12 tests on full-scale CFS diagonal strap-braced stud walls. Finally, on the basis of experimental results, the assumed design prescriptions and requirements, such as the force modification factor and the capacity design rules, have been verified.
+
+
+    
+        AU - T. C. Fung
+    
+        AU - K. H. Tan
+    
+        AU - M. P. Nguyen
+    
+
+TI - Structural Behavior of CHS T-Joints Subjected to Static In-Plane Bending in Fire Conditions
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015155
+VI - 142
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001382 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001382
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001382
+SO - Journal of Structural Engineering 2016-03-01 142(3): 04015155
+AB - Fire resistance of steel joints is always a major concern in the design of steel structures under extremely hazardous conditions. However, for circular hollow section (CHS) joints in fire conditions, little information is available, especially for T-joints. To gain more insight into the static behavior of CHS T-joints in elevated temperatures, experimental and numerical studies were conducted on selected T-joints subjected to in-plane bending. The failure modes and ultimate strength of the joints subjected to different temperatures were investigated and compared to the corresponding joints at ambient conditions. Within the range of investigated parameters, at 700°C, the joint strength was reduced to 22.1% compared to the corresponding joint at ambient temperature. Furthermore, it is observed that at high temperatures, a change occurred in the failure mode of the joints. Cracks formed around the center weld toes before the joints reached excessive deformation, which subsequently affected the joint postyield hardening performance. To understand the initiation of the cracks, a material test was performed. The fracture strains of the heat-affected zone of the chord material beneath the center weld at corresponding temperatures were determined. The fracture strains were included in subsequent finite-element (FE) validation models. The verified finite element analysis models were used to analyze the structural behavior of CHS T-joints at elevated temperatures, such as strain, stress, load path, and effect of fracture strains, to gain insight into the failure mechanism of the joints.
+
+
+    
+        AU - Salah Altoubat
+    
+        AU - Hisseine Ousmane
+    
+        AU - Samer Barakat
+    
+
+TI - Experimental Study of In-Plane Shear Behavior of Fiber-Reinforced Concrete Composite Slabs
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015156
+VI - 142
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001413 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001413
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001413
+SO - Journal of Structural Engineering 2016-03-01 142(3): 04015156
+AB - This study investigates the in-plane shear behavior of composite slabs reinforced with different types of secondary reinforcements. Experimental results of 20 large-scale composite slabs constructed with two different deck profiles (reentrant and trapezoidal) are presented. The slabs were instrumented and tested in a cantilever diaphragm configuration under monotonic in-plane shear to assess and compare the effect of secondary reinforcement on their in-plane shear capacity. Five types of secondary reinforcements were considered: Conventional WWM of sizes A142 and A98, synthetic macrofibers at dosage rates of 3.0 and 5.3  kg/m3, and hooked-end steel fibers at a dosage rate of 15.0  kg/m3. Tests were carried out for both strong and weak orientation of decking. The load-deflection and load-strain responses were measured, and the cracking pattern and sequence were observed. The results showed that fibers notably improved the in-plane shear behavior (strength and ductility) of the composite slabs. Steel mesh of size A142, synthetic macrofibers at a dosage rate of 5.3  kg/m3, and steel fibers at a dosage rate of 15  kg/m3 all provided comparable in-plane shear capacity and ductility. Therefore, they can be viewed as equivalent secondary reinforcement systems in composite slabs. The results also revealed that the deterioration of the interfacial bond between concrete and steel deck was not influenced by the type of the secondary reinforcement.
+
+
+    
+        AU - Mark D. Denavit
+    
+        AU - Jerome F. Hajjar
+    
+        AU - Tiziano Perea
+    
+        AU - Roberto T. Leon
+    
+
+TI - Stability Analysis and Design of Composite Structures
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015157
+VI - 142
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001434 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001434
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001434
+SO - Journal of Structural Engineering 2016-03-01 142(3): 04015157
+AB - The direct analysis method is the primary means of assessing system stability within a standard specification. This method, and in particular its use of reduced stiffness, has been thoroughly validated for use in frames consisting of structural steel members. However, appropriate stiffness reductions have not yet been established nor has the method as a whole been validated for frames with steel-concrete composite columns. Through comparisons between second-order inelastic analysis results and results from the design methodology on a parametric suite of small frames, the current design provisions are evaluated in this paper. The results indicate that while the current design provisions are safe and accurate for the majority of common cases, there exist cases in which the current provisions result in high levels of unconservative error. Modifications to the current design provisions are proposed to address these issues.
+
+
+    
+        AU - Huile Li
+    
+        AU - Dan M. Frangopol
+    
+        AU - Mohamed Soliman
+    
+        AU - He Xia
+    
+
+TI - Fatigue Reliability Assessment of Railway Bridges Based on Probabilistic Dynamic Analysis of a Coupled Train-Bridge System
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015158
+VI - 142
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001435 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001435
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001435
+SO - Journal of Structural Engineering 2016-03-01 142(3): 04015158
+AB - This paper presents an approach to fatigue reliability assessment of railway bridges based on probabilistic dynamic analysis of a coupled train-bridge system. The fatigue loading from moving trains is investigated through a novel approach in which three-dimensional (3D) numerical models of both the train and the bridge are integrated with a wheel-rail interaction model to perform coupled dynamic analysis. The results of this analysis are used to estimate the long-term fatigue loading and the time-variant fatigue reliability of bridge details. Train speed and track irregularities are selected as random variables in the coupled train-bridge system model. Probabilistic dynamic stress analysis is conducted for each train passage to obtain samples of the stress range and its cycle count. This information is used to identify the probability distributions of the stress range. Fatigue reliability is evaluated by solving a fatigue limit-state function established through the S-N approach. Effects of train speed and track irregularities on the fatigue loading and fatigue reliability are analyzed and discussed. Additionally, the proposed approach is illustrated on an existing steel railway bridge.
+
+
+    
+        AU - Minjie Zhu
+    
+        AU - Michael H. Scott
+    
+
+TI - Direct Differentiation of the Particle Finite-Element Method for Fluid–Structure Interaction
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015159
+VI - 142
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001426 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001426
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001426
+SO - Journal of Structural Engineering 2016-03-01 142(3): 04015159
+AB - Sensitivity analysis of fluid–structure interaction (FSI) provides an important tool for assessing the reliability and performance of coastal infrastructure subjected to storm and tsunami hazards. As a preliminary step for gradient-based applications in reliability, optimization, system identification, and performance-based engineering of coastal infrastructure, the direct differentiation method (DDM) is applied to FSI simulations using the particle finite-element method (PFEM). The DDM computes derivatives of FSI response with respect to uncertain design and modeling parameters of the structural and fluid domains that are solved in a monolithic system via the PFEM. Geometric nonlinearity of the free surface fluid flow is considered in the governing equations of the DDM along with sensitivity of material and geometric nonlinear response in the structural domain. The analytical derivatives of elemental matrices and vectors with respect to element properties are evaluated and implemented in an open source finite element software framework. Examples involving both hydrostatic and hydrodynamic loading show that the sensitivity of nodal displacements, pressures, and forces computed by the finite-difference method (FDM) converge to the DDM for simple beam models as well as for a reinforced-concrete frame structure.
+
+
+    
+        AU - Yufen Zhou
+    
+        AU - Suren Chen
+    
+
+TI - Framework of Nonlinear Dynamic Simulation of Long-Span Cable-Stayed Bridge and Traffic System Subjected to Cable-Loss Incidents
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015160
+VI - 142
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001440 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001440
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001440
+SO - Journal of Structural Engineering 2016-03-01 142(3): 04015160
+AB - Cable loss is a critical extreme event for cable-supported bridges, which sometimes governs the bridge design. Like most extreme events possibly occurring on long-span bridges, cable loss (breakage) may happen with service loads such as traffic and/or wind applied to the bridge simultaneously. Dynamic analysis incorporating critical interactions with realistic service loads as well as appropriate nonlinear effects becomes essential for predicting the time-progressive performance of the bridge following cable-loss incidents. Despite the recent progress on related topics, existing studies on long-span bridges often suffer from the lack of appropriate simulation tools to address the needs of both complex dynamic interactions and nonlinearities associated with cable-loss incidents at the same time. A finite-element (FE) based nonlinear dynamic simulation framework for long-span bridges is developed to simulate the cable-loss incidents of the coupled bridge–traffic–wind system. Different from most existing studies, firstly, such a simulation tool directly simulates the cable-breakage event by both applying the counteracting forces and also physically reducing the area of the failing cable within the total breakage duration. As a result, both the elemental configuration and force condition during a general cable-loss incident can be characterized more realistically than existing studies. Secondly, the fully-coupled interactions among the bridge structure, multiple-vehicle dynamic models, and wind excitation are simulated on the FE basis. Lastly, comprehensive considerations of both geometric and material nonlinearities originated from structure, aerodynamic loads, and cable-loss incidents are incorporated. A prototype long-span cable-stayed bridge is selected to demonstrate the investigation of single-cable loss incidents. A detailed parametric study is carried out to understand the mechanism of the cable-loss incidents as well the impacts on bridge response.
+
+
+    
+        AU - Rui Cheng
+    
+        AU - Lei Xu
+    
+        AU - Sheng Jin
+    
+        AU - Yu Shi
+    
+
+TI - Compressive Behavior of Gusset Plates Connected with Single-Angle Members
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015161
+VI - 142
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001446 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001446
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001446
+SO - Journal of Structural Engineering 2016-03-01 142(3): 04015161
+AB - Gusset plate connections with single-angle steel members are commonly used in power transmission towers. However, little research has been carried out with regard to the compressive behavior and design of gusset plates connected with single-angle members. Due to the complexity of the connections and load eccentricity, it is difficult to predict the compressive strength of the gusset plates. In this study, two full-scale experimental tests and a numerical parametric study were conducted to investigate the compressive behavior of such gusset plate connections. In the tests, the buckling failure mode and lateral-torsional deformation were observed. Finite-element (FE) models were then established and validated through comparison against the test results. In the parametric study, the effects of gusset plate thickness, unbraced length, distance to bending line, and load on the adjacent bracing member were examined. On the basis of the findings of this study and currently available design methods, two design methods were proposed for predicting the compressive strength of gusset plates connected with single-angle members. Good agreements were observed between the FE and design results in terms of the compressive strength and it was found that one method based on plate buckling gave a better prediction of the strength of gusset plates connected with single-angle members than the other based on effective column.
+
+
+    
+        AU - Jie Li
+    
+        AU - De-Cheng Feng
+    
+        AU - Xiangling Gao
+    
+        AU - Yeshu Zhang
+    
+
+TI - Stochastic Nonlinear Behavior of Reinforced Concrete Frames. I: Experimental Investigation
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015162
+VI - 142
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001442 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001442
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001442
+SO - Journal of Structural Engineering 2016-03-01 142(3): 04015162
+AB - This paper reports a systematic experimental investigation into the stochastic nonlinearities inherent in reinforced concrete (RC) frames. A series of specimen tests is conducted with a static monotonic lateral loading regime. Eight half-scale RC model frames with one story and two spans are designed and constructed in the same condition; specifically, the materials (both concrete and reinforcement bars) used in the frames are derived from the same batch, and the same testing program is performed during the experiments. A newly-designed force transducer is applied in the test to carry out comprehensive measurements of axial force, shear force, and bending moment at the bottom section of each column. Although the physical properties of the frames are apparently the same, test results indicate that the internal forces of the columns show inevitable fluctuations. A conspicuous coupling effect between nonlinearity and randomness, which are inherent in the structure, is exposed. Randomness of materials (particularly concrete) has an influence on the initial damage distribution and the subsequent damage evolution of the structure. Thus, it is concluded that the coupling mechanism between randomness and nonlinearity of RC structures should be appropriately considered in design and analysis to reproduce the realistic response of concrete structures.
+
+
+    
+        AU - De-Cheng Feng
+    
+        AU - Jie Li
+    
+
+TI - Stochastic Nonlinear Behavior of Reinforced Concrete Frames. II: Numerical Simulation
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015163
+VI - 142
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001443 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001443
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001443
+SO - Journal of Structural Engineering 2016-03-01 142(3): 04015163
+AB - Experimental investigations on the stochastic nonlinear behavior of eight half-scale reinforced concrete (RC) frames with the same conditions in the companion paper indicates that the coupling effect between randomness and nonlinearity of concrete will cause a remarkable fluctuation in structural nonlinear responses. In the current paper, a validation program is presented through numerical simulation. Deterministic nonlinear analysis of test specimens is performed on the basis of a force-based beam–column element model. Probability density evolution method (PDEM) is introduced to analyze the stochastic response analysis of structures. Probability density functions of the stochastic structural responses of the specimens are provided at both the load–displacement level and internal-force level. Comparative studies between numerical and experimental results reveal that the numerical method in conjunction with PDEM can not only qualify the fundamental trend of stochastic nonlinear responses of structures but also generate the probabilistic details in structural damage evolution.
+
+
+    
+        AU - Chao-Lie Ning
+    
+        AU - Bing Li
+    
+
+TI - Probabilistic Approach for Estimating Plastic Hinge Length of Reinforced Concrete Columns
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015164
+VI - 142
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001436 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001436
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001436
+SO - Journal of Structural Engineering 2016-03-01 142(3): 04015164
+AB - Given the importance of the plastic hinge length in predicting the displacement ductility of reinforced concrete (RC) structures, it is crucial to be able to accurately determine it without a large scatter. However, given the large number of model parameters with significant uncertainty, a deterministic prediction of plastic hinge length is extremely difficult. Therefore, this paper seeks to provide a method to determine the plastic hinge length by a probabilistic approach. Existing plastic hinge length models are collected from the literature to form a comprehensive database. Then, a probabilistic plastic hinge length model is proposed by discussing the plastic hinge mechanism separately to include the missing design variables. The generalized likelihood uncertainty estimation (GLUE) method is used to assess the unknown model parameters with those experimental data. The cumulative distribution functions (CDF) of four model parameters are estimated for the proposed model. It was found that almost all of the observational results fell within the 90% confidence interval of predicted lengths, indicating the strength of the proposed model in predicting the plastic hinge length of RC columns from the prospective of probability. For facilitating use in engineering practice, a deterministic expression is also provided by using the mean value of four model parameters to predict this quantity of interest for the nonlinear analysis of RC structures.
+
+
+    
+        AU - Jonathan M. Weigand
+    
+        AU - Jeffrey W. Berman
+    
+
+TI - Integrity of Bolted Angle Connections Subjected to Simulated Column Removal
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015165
+VI - 142
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001429 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001429
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001429
+SO - Journal of Structural Engineering 2016-03-01 142(3): 04015165
+AB - Large-scale tests of steel gravity framing systems (SGFSs) have shown that the connections are critical to the system integrity when a column suffers damage that compromises its ability to carry gravity loads. When supporting columns were removed, the SGFSs redistributed gravity loads through the development of an alternate load path in a sustained tensile configuration resulting from large vertical deflections. The ability of the system to sustain such an alternate load path depends on the capacity of the gravity connections to remain intact after undergoing large rotation and axial extension demands for which they were not designed. This study experimentally evaluates the performance of steel bolted angle connections subjected to loading consistent with interior column removal. The characteristic connection behaviors are described and the performance of multiple connection configurations are compared in terms of their peak resistances and deformation capacities.
+
+
+    
+        AU - Maria Koliou
+    
+        AU - Andre Filiatrault
+    
+        AU - Dominic J. Kelly
+    
+        AU - John Lawson
+    
+
+TI - Buildings with Rigid Walls and Flexible Roof Diaphragms. I: Evaluation of Current U.S. Seismic Provisions
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015166
+VI - 142
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001438 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001438
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001438
+SO - Journal of Structural Engineering 2016-03-01 142(3): 04015166
+AB - Buildings having rigid walls and flexible roof diaphragms (RWFD) are a type of building construction widely used for light industry in the United States; they incorporate rigid in-plane concrete or masonry walls and flexible in-plane wood, steel, or hybrid roof diaphragms. In this first of two companion papers, the probability of collapse of this type of building designed to current code provisions in the United States, given an MCE earthquake event, is evaluated according to the FEMA P695 methodology for a large set of representative building archetypes. The results of the study indicate that current code provisions for this type of building do not satisfy the collapse objective requirements of FEMA P695 under maximum considered earthquake ground motions. This is because the analysis provisions are based on assumed yielding of the walls rather than the roof diaphragm. Also, current code provisions considerably underestimate the period of RWFD buildings. To assist with creating provisions that take into account large flexible diaphragm deformations, a semi-empirical formula to estimate the fundamental period of RWFD buildings that accounts for roof diaphragm flexibility is derived in this paper. A new proposed seismic design approach for RWFD buildings is developed and evaluated in the second companion paper.
+
+
+    
+        AU - Maria Koliou
+    
+        AU - Andre Filiatrault
+    
+        AU - Dominic J. Kelly
+    
+        AU - John Lawson
+    
+
+TI - Buildings with Rigid Walls and Flexible Roof Diaphragms. II: Evaluation of a New Seismic Design Approach Based on Distributed Diaphragm Yielding
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 04015167
+VI - 142
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001439 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001439
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001439
+SO - Journal of Structural Engineering 2016-03-01 142(3): 04015167
+AB - A seismic collapse evaluation study of buildings with rigid walls and flexible roof diaphragms (RWFD) presented in the companion paper indicates that this type of structure, as designed to current seismic design provisions in the United States, does not satisfy FEMA P695 performance criteria for Risk Category II Buildings. The seismic performance of RWFD buildings is often characterized by large deformations and yielding in the roof diaphragm rather than in the vertical elements of the seismic force–resisting system (SFRS). In this paper, a new seismic design approach is proposed to account for flexible roof diaphragm response. The proposed approach relies on distributed yielding in the roof diaphragm as the predominant inelastic response under extreme ground shaking. This is obtained by strengthening the end diaphragm regions, thereby allowing yielding to spread deeper into the diaphragm. The basic steps of the design approach and its limitations are described. A validation study of the proposed design procedure is conducted for 17 RWFD building archetypes with wood roof diaphragms in accordance with the FEMA P695 methodology. The results of this study indicate that the proposed seismic design approach, produces a system that meets the probability of collapse requirement for a Risk Category II building of the FEMA P695 methodology under maximum considered earthquake ground motion for RWFD buildings with wood roof diaphragms.
+
+
+    
+        AU - Zach C. Ballard
+    
+        AU - Ashley P. Thrall
+    
+        AU - Brian J. Smith
+    
+        AU - Casey M. Casias
+    
+
+TI - Impact of Hinged Connectors on Sandwich Panel Behavior
+PT - Journal Article
+DP - 2016
+TA - Journal of Structural Engineering
+PG - 06015005
+VI - 142
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001445 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001445
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001445
+SO - Journal of Structural Engineering 2016-03-01 142(3): 06015005
+AB - This paper discusses the impact of hinged connectors (a common connection in folding structures) on the behavior of sandwich panels (with fiber-reinforced polymer faces and foam core). A sandwich panel is subjected to uniform loading and tested when restrained by hinged connectors in compression and in tension. The measured results are compared to finite-element numerical models, focusing on global behavior (displacements and strains at center) and local behavior (strains near connectors). Parametric studies using these validated numerical models investigate the impact of the number, size, and relative placement of hinged connectors. These studies culminate in guidelines for the design of structures comprised of hinged, folding panels. Ultimately, this paper addresses a research gap in understanding the behavior of sandwich panels connected by hinges.
+
+

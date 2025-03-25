@@ -1,0 +1,426 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Sashi K. Kunnath
+    
+
+TI - Editor’s Note
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1267-1268
+VI - 134
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2008)134:8(1267) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281267%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281267%29
+SO - Journal of Structural Engineering 2008-08-01 134(8): 1267-1268
+
+
+    
+        AU - Cornelia Doerich
+    
+        AU - J. Michael Rotter
+    
+
+TI - Behavior of Cylindrical Steel Shells Supported on Local Brackets
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1269-1277
+VI - 134
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2008)134:8(1269) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281269%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281269%29
+SO - Journal of Structural Engineering 2008-08-01 134(8): 1269-1277
+AB - The connection of a local support to an elevated cylindrical metal silo shell is a long-standing difficult problem in shell analysis, and most designs are based on simple ideas using past experiences of successes and failures. Smaller silo structures are often supported on local brackets attached to the side of the shell, but very few investigations of the behavior or strength of such an arrangement have ever been made. This paper presents an outline description of the behavior of a cylindrical steel shell that is discretely supported on several brackets, each rigidly connected to a stiff column or floor. The linear, materially nonlinear, geometrically nonlinear, and bifurcation behaviors of the shell under these conditions are outlined. In this problem the prebuckling deformations, bifurcation mode, and plastic collapse mode are each local. This configuration presents some interesting questions concerning the relative importance of geometric nonlinearity and geometric imperfections. The problem is recommended to advanced shell analysts as a benchmark test of their analysis and interpretation techniques.
+
+
+    
+        AU - Lucian Stefan
+    
+        AU - Pierre Léger
+    
+
+TI - Extension of the Gravity Method for 3D Cracking Analysis of Spillway Piers Including Uplift Pressures
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1278-1287
+VI - 134
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2008)134:8(1278) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281278%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281278%29
+SO - Journal of Structural Engineering 2008-08-01 134(8): 1278-1287
+AB - The classical structural stability evaluation of concrete hydraulic structures, such as spillways, is based on the application of rigid body equilibrium to compute force and moment resultants, and in most instances beam theory assuming linear stress distribution. The computations are done supposing a symmetric structure subjected to load acting in the upstream/downstream direction leading to a unidimensional axial force 
+
+(P)
+
+-bending moment 
+
+(M)
+
+ interaction problem. However, several load conditions (ice floes, earthquakes) could apply transverse force components leading to a nonlinear biaxial flexural problem 
+
+(P-
+Mx
+-
+My
+)
+
+ taking into account the potential cracking of the sections, as well as pressurized water penetration in cracks. A three-dimensional extension of the gravity method is presented herein for arbitrary sections such as those of spillway piers. Robust algorithms based on the strength of materials have been developed to compute the kernel of arbitrary sections, locate the neutral axis (NA), and determine the normal stress distribution all of this considering a coupled biaxial hydromechanical interaction problem. Five validation examples will be presented as well as a case study on an actual spillway to illustrate the convergence of the proposed algorithms. It is possible to obtain, in certain instances, a nonconverging oscillatory response for the location of the NA. In this case, a heuristic approach is proposed to obtain a conservative equilibrium solution.
+
+
+    
+        AU - Sang-Woo Kim
+    
+        AU - Frank J. Vecchio
+    
+
+TI - Modeling of Shear-Critical Reinforced Concrete Structures Repaired with Fiber-Reinforced Polymer Composites
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1288-1299
+VI - 134
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2008)134:8(1288) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281288%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281288%29
+SO - Journal of Structural Engineering 2008-08-01 134(8): 1288-1299
+AB - This paper describes a study in which finite-element (FE) analysis procedures were used to predict the behavior of a reinforced concrete (RC) frame shear strengthened with fiber-reinforced polymer (FRP) composites. Details are presented of the numerical techniques used to represent the RC frame, the FRP, and the bond properties between the FRP and the concrete. The FE analysis is performed using a two-dimensional nonlinear FE analysis program based on the disturbed stress field model. To augment verification studies undertaken with beam specimens previously tested, a large-scale RC frame with one-span and two-story height was constructed and tested under lateral load conditions. The frame was first heavily damaged in shear, repaired with FRP wrap, and then subjected to a regime of reversed cyclic loads. A detailed comparison is carried out between analytical and experimental results for the hysteretic response, damage mode, crack pattern, and deformation of the frame. It is concluded that reasonably accurate simulations of the behavior of FRP-repaired shear-critical structures can be achieved through finite-element modeling.
+
+
+    
+        AU - Jostein Hellesland
+    
+
+TI - Mechanics and Slenderness Limits of Sway-Restricted Reinforced Concrete Columns
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1300-1309
+VI - 134
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2008)134:8(1300) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281300%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281300%29
+SO - Journal of Structural Engineering 2008-08-01 134(8): 1300-1309
+AB - Several aspects of nonslender (short) column limits are considered. Such limits, below which it is acceptable to ignore local second-order effects that may cause a maximum moment to develop between member ends, are generally confined to columns of braced frames, but are also relevant for sway-restricted columns of unbraced frames. Local and global second-order effects are reviewed in this context, and the effect of global second-order effects (sway-modified moments) is discussed, and it is concluded that the end moment ratios of approximate moment magnifier expressions and slenderness limits should be expressed in terms of sway-modified end moments. The need for providing separate slenderness limits, such as in the ACI 318-05 code, for columns of nonsway and sway frames, is questioned. The ACI limits are critically reviewed and several inconsistencies pointed out with respect to their differences and different basis on which they were derived. They are compared with a more comprehensive limit that may replace both of the ACI limits, and comparisons are also made with a summary of nonlinear analysis results.
+
+
+    
+        AU - Eduardo N. B. Pereira
+    
+        AU - Joaquim A. O. Barros
+    
+        AU - Aires Camões
+    
+
+TI - Steel Fiber-Reinforced Self-Compacting Concrete: Experimental Research and Numerical Simulation
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1310-1321
+VI - 134
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2008)134:8(1310) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281310%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281310%29
+SO - Journal of Structural Engineering 2008-08-01 134(8): 1310-1321
+AB - Over the last few decades, the astonishing developments of superplasticizers technology allowed great achievements in the conception of concrete mixes exhibiting self-compacting ability. Since the 1980s, some methodologies have been proposed to achieve self-compacting requirements in fresh concrete mixes, based on the evaluation of the flowing properties of these mixes. There still persist, however, some doubts about the most appropriate strategy to define the optimum composition of a self-compacting concrete (SCC) mix, based on a required performance. The behavior of SCC as a structural material can be improved if adequate steel fiber reinforcement is added to SCC mix composition. In fact, the fiber-reinforcement mechanisms can convert the brittle behavior of this cement-based material into a pseudoductile behavior up to a crack width that is acceptable under the structural design point of view. Fiber addition, however, increases the complexity of the mix design process, due to the strong perturbation effect that steel fibers cause on fresh concrete flow. In the present work, a mix design method is proposed to develop cost effective and high performance steel fiber-reinforced self-compacting concrete (SFRSCC). The material properties of the developed SFRSCC are assessed as well as its potentiality as a structural material, carrying out punching and flexural tests on panel prototypes. A material nonlinear analysis is carried out, aiming to address the possibility of calibrating the constitutive model parameters by obtaining, with an inverse analysis, the fracture parameters using force-deflection relationships recorded in simpler laboratory tests, such as the three-point notched beam bending test. The contribution of steel fibers for punching resistance is also discussed.
+
+
+    
+        AU - Derrick C. Y. Yap
+    
+        AU - Gregory J. Hancock
+    
+
+TI - Experimental Study of Complex High-Strength Cold-Formed Cross-Shaped Steel Section
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1322-1333
+VI - 134
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2008)134:8(1322) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281322%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281322%29
+SO - Journal of Structural Engineering 2008-08-01 134(8): 1322-1333
+AB - This paper describes the design and experimental investigation of a series of compressive tests on a stiffened cross-shaped section fabricated from cold-formed high-strength steel of 
+
+0.42
+mm
+
+ thickness and nominal yield stress of 
+
+550
+MPa
+
+. The complex shape has been chosen so that it has a local buckling mode, two distinct distortional buckling modes, and a flexural-torsional mode. The first distortional buckling mode has a shorter buckle half wavelength and hence is classified as a short half-wavelength distortional buckling mode, while the other distortional mode has a much longer buckle half-wavelength and is classified as a long half-wavelength distortional buckling mode. The compression tests were carried out in a 
+
+300
+kN
+
+ capacity SINTEC testing machine over a range of lengths with fixed-ended conditions. The varying lengths were chosen so as to observe the buckling modes and the possibility of interaction between them. The experimental results are then compared with design methods in the existing design standards. The methods include the direct strength method (DSM) recently incorporated in the North American specification and the Australian Cold-Formed Steel Structures Standard AS/NZS 4600. When compared to the existing methods, the test results indicate that at intermediate and longer specimen lengths, the interaction of local and distortional buckling modes has a significant effect on the strength of the section. This paper presents the procedures taken to design the complex shape and the experiments carried out to obtain the geometric imperfections and material properties of the specimens and the test results. New design methods are proposed for the local buckling DSM curve as well as for the distortional buckling strength curves so as to account for the effects of interaction of local and distortional buckling modes.
+
+
+    
+        AU - James D. Newell
+    
+        AU - Chia-Ming Uang
+    
+
+TI - Cyclic Behavior of Steel Wide-Flange Columns Subjected to Large Drift
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1334-1342
+VI - 134
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2008)134:8(1334) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281334%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281334%29
+SO - Journal of Structural Engineering 2008-08-01 134(8): 1334-1342
+AB - During an earthquake, steel braced frame columns can be subjected to high axial forces combined with inelastic rotation demand resulting from story drift. Cyclic testing of nine full-scale W14 column specimens representing a practical range of flange and web width-to-thickness ratios were subjected to different levels of axial force demand (35, 55, and 75% of nominal axial yield strength) combined with up to 10% story drift. No global buckling was observed in all test specimens. Flange local buckling was the dominant buckling mode. Specimens achieved interstory drift capacities of 0.07–
+
+0.09
+rad
+
+. These large deformation capacities were, in part, achieved due to the delay in flange local buckling resulting from the stabilizing effect provided by the stocky column web of the W14 section specimens. Testing indicated that the ASCE 41 predicted plastic rotation capacities are very conservative. The ASCE 41 criteria do not specify plastic rotation capacity at axial load ratios greater than 0.5; however, tested specimens exhibited significant plastic rotation capacities of approximately 15–25 times the member yield rotation.
+
+
+    
+        AU - John W. van de Lindt
+    
+        AU - Aaron Potts
+    
+
+TI - Shake Table Testing of a Superelastic Shape Memory Alloy Response Modification Device in a Wood Shearwall
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1343-1352
+VI - 134
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2008)134:8(1343) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281343%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281343%29
+SO - Journal of Structural Engineering 2008-08-01 134(8): 1343-1352
+AB - Wood frame structures represent the vast majority of the housing stock in North America. These structures rely primarily on wood shear walls to resist seismic loads, and exhibit highly nonlinear behavior at relatively low loadings, which dissipates a large amount of energy. However, the highly nonlinear behavior also results in larger deformations and resulting structural and nonstructural damage. Supplemental energy dissipating devices have shown the potential to greatly reduce the amount of damage to wood frame structures during earthquakes. Numerous such devices have been developed using friction, viscoelastic, hysteretic, and fluid viscous dampers. This paper presents the results of a research study to design and test a supplemental energy dissipating device based on a superelastic shape memory alloy (SMA) in a full-scale wood shear wall on an earthquake shake table. SMA’s have never been applied for use as seismic protection in wood shear walls. The results from these shake table tests were compared to that for a regular wood shear wall subjected to the same suite of ground motions. The superelastic SMA-based device was found to significantly reduce the wood shear wall displacement, which in turn effectively eliminated damage to the wood shear wall with the device installed.
+
+
+    
+        AU - Bruce R. Ellingwood
+    
+        AU - David V. Rosowsky
+    
+        AU - Weichiang Pang
+    
+
+TI - Performance of Light-Frame Wood Residential Construction Subjected to Earthquakes in Regions of Moderate Seismicity
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1353-1363
+VI - 134
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2008)134:8(1353) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281353%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281353%29
+SO - Journal of Structural Engineering 2008-08-01 134(8): 1353-1363
+AB - The majority of single-family dwellings in the United States are light-frame wood construction. Residential construction practices have evolved gradually over the years, most light-frame wood structures have not been structurally engineered, and many residential buildings suffered significant damage in recent hurricane and earthquake disasters. As a result, new concepts and methodologies are evolving to better predict and evaluate the performance of wood frame structures exposed to natural hazards and to support improved residential building practices. This paper examines the behavior of typical light-frame wood structural systems in the central and eastern United States under earthquake hazards. Nonlinear structural analysis tools and stochastic methods are used to model the uncertainties in ground motion intensity and structural response. Fragility curves defining damage state probabilities as a function of ground motion intensity are developed for typical lateral force-resisting shear wall systems subjected to increasing levels of ground motion. A comparison of these fragilities with those embedded in HAZUS provides additional perspective on damage potential for residential construction in regions of low-to-moderate seismicity.
+
+
+    
+        AU - Peter J. Stafford
+    
+        AU - Rishmila Mendis
+    
+        AU - Julian J. Bommer
+    
+
+TI - Dependence of Damping Correction Factors for Response Spectra on Duration and Numbers of Cycles
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1364-1373
+VI - 134
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2008)134:8(1364) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281364%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281364%29
+SO - Journal of Structural Engineering 2008-08-01 134(8): 1364-1373
+AB - Many modern applications in earthquake engineering require the use of pseudoacceleration response spectra or relative displacement response spectra calculated for damping ratios other than the commonly assumed 5% of critical. The simplest way to obtain such spectra is to derive ratios of the spectral ordinates at the desired damping ratio to the 5% damped spectrum, which can then be applied as scaling factors. These scaling factors have previously been shown to be mildly dependent upon period as well as strongly dependent upon duration. In this paper, the dependence of the scaling factors with respect to both duration and the number of equivalent load cycles is quantified. Generic equations are derived that may be used to estimate the spectral response over a wide range of damping ratios as a function of significant duration (both 
+
+
+D5–75%
+
+
+ and 
+
+
+D5–95%
+
+
+), and number of cycles 
+
+[
+Nrr
+(2.0)]
+
+. While the dependence upon these predictor variables is clear, the derived relationships cannot be directly incorporated into design codes due to the fact that strong ground-motion duration and number of equivalent cycles are generally not specified as part of seismic design actions.
+
+
+    
+        AU - Farzad Faridafshin
+    
+        AU - Ghyslaine McClure
+    
+
+TI - Seismic Response of Tall Guyed Masts to Asynchronous Multiple-Support and Vertical Ground Motions
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1374-1382
+VI - 134
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2008)134:8(1374) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281374%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281374%29
+SO - Journal of Structural Engineering 2008-08-01 134(8): 1374-1382
+AB - The seismic behavior of tall masts was investigated with special considerations for the realistic modeling of ground motion at the supports. Three existing masts with varying heights of 213, 313, and 
+
+607
+m
+
+ were numerically studied under the effects of three earthquake records with all three translational ground motion components. The earthquake excitation was prescribed as a displacement-controlled motion providing the opportunity to consider the asynchronous shaking of the cable ground anchors and mast base. This effect was studied by varying the shear wave velocity of the traveling wave corresponding to different degrees of soil stiffness and observing the general trends of selected response indicators. The three towers showed sensitivity to asynchronous shaking of their ground supports. More severe structural response was obtained for softer soil conditions, and the 
+
+607
+m
+
+ mast showed sensitivity even for relatively stiff soils. The effects of considering or excluding the structural damping and the vertical component of ground motion were also separately investigated and both factors were found to affect the response indicators significantly.
+
+
+    
+        AU - D. Duthinh
+    
+        AU - J. A. Main
+    
+        AU - A. P. Wright
+    
+        AU - E. Simiu
+    
+
+TI - Low-Rise Steel Structures under Directional Winds: Mean Recurrence Interval of Failure
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1383-1388
+VI - 134
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2008)134:8(1383) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281383%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281383%29
+SO - Journal of Structural Engineering 2008-08-01 134(8): 1383-1388
+AB - The Commentary to the American Society of Civil Engineers (ASCE) Standard 7-05 states that the nominal mean recurrence interval (MRI) of the wind speed inducing the design strength is about 500 years if the specified load factor is 1.5, as in early versions of ASCE 7, and “somewhat higher than 500 years” if the specified load factor is 1.6, as in ASCE 7-05. However, the Commentary also states, “it is not likely that the 500-year event is the actual speed at which engineered structures are expected to fail, due to resistance factors in materials, due to conservative design procedures that do not always analyze all load capacity, and due to a lack of a precise definition of ‘failure’.” In this paper, we propose a working definition of “failure” for steel structures using nonlinear finite-element analysis, and we present a methodology for estimating the MRI of failure under wind loads that accounts in a detailed and rigorous manner for nonlinear structural behavior and for the directionality of the wind speeds and the aerodynamic effects. The methodology uses databases of wind tunnel pressure (database-assisted design), nonlinear finite-element analysis, and directional wind speeds from the National Institute of Standards and Technology (NIST) hurricane database augmented by statistical techniques. As a case study to illustrate the methodology, we consider a single frame of a steel industrial building. Under the assumption that uncertainties with respect to the parameters that determine the wind loading and to the material behavior are negligible, the minimum MRI of failure for the steel frame being investigated was found to be of the order of 100,000 years, which corresponds to a probability of 1/2,000 that the frame will fail during a 50-year lifetime.
+
+
+    
+        AU - C. Amadio
+    
+        AU - O. De Luca
+    
+        AU - C. Fedrigo
+    
+        AU - M. Fragiacomo
+    
+        AU - C. Sandri
+    
+
+TI - Experimental and Numerical Analysis of a Glass-to-Steel Joint
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1389-1397
+VI - 134
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2008)134:8(1389) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281389%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281389%29
+SO - Journal of Structural Engineering 2008-08-01 134(8): 1389-1397
+AB - The aim of the paper is to investigate the tensile strength of a glass pane with holes, such as that commonly used in glass-to-steel joints. Experimental tests have been conducted on a series of glass panes made of heat-strengthened and tempered glass. Since the collapse load markedly depends on the distance between the hole and the pane edge, specimens with different positions of the holes have been tested. In order to obtain reliable strength values, due to the high scatter of this quantity, five specimens have been tested for each type of pane, with a total number of 50 specimens. Interpolation curves have been proposed to predict the average failure load based on the distance between the hole and the pane edge. The experimental results have been compared with the numerical results carried out using finite-element codes obtaining good correspondence. A simple design procedure for glass-to-steel joints has then been proposed based on the evaluation of the stress intensity factor, for which some tables and interpolation functions are provided.
+
+
+    
+        AU - L. M. Gil-Martín
+    
+        AU - E. Hernández-Montes
+    
+        AU - M. Aschheim
+    
+        AU - S. J. Pantazopoulou
+    
+
+TI - Discussion of “Inelastic Buckling of Reinforcing Bars” by Sungjin Bae, Alexa M. Mieses, and Oguzhan Bayrak
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1398-1399
+VI - 134
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2008)134:8(1398) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281398%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281398%29
+SO - Journal of Structural Engineering 2008-08-01 134(8): 1398-1399
+
+
+    
+        AU - M. E. Rodriguez
+    
+
+TI - Discussion of “Inelastic Buckling of Reinforcing Bars” by Sungjin Bae, Alexa M. Mieses, and Oguzhan Bayrak
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1399-1399
+VI - 134
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2008)134:8(1399) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281399%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281399%29
+SO - Journal of Structural Engineering 2008-08-01 134(8): 1399-1399
+
+
+    
+        AU - Sungjin Bae
+    
+        AU - Alexa M. Mieses
+    
+        AU - Oguzhan Bayrak
+    
+
+TI - Closure to “Inelastic Buckling of Reinforcing Bars” by Sungjin Bae, Alexa M. Mieses, and Oguzhan Bayrak
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1399-1402
+VI - 134
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2008)134:8(1399.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281399.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A8%281399.2%29
+SO - Journal of Structural Engineering 2008-08-01 134(8): 1399-1402
+
+

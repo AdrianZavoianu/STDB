@@ -1,0 +1,547 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Franz‐Josef Ulm
+    
+        AU - Jean Michel Piau
+    
+
+TI - Fall of a Temple: Theory of Contact Applied to Masonry Joints
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 687-697
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(687) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28687%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28687%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 687-697
+AB - This paper applies the theory of contact to masonry joints. Based on the continuity rule of strain and/or displacement field, a plane finite element is derived for the nonlinear analysis of masonry structures subjected to monotonic, cyclic, and dynamic loadings, as well as for limit‐state analysis. It consists of six degrees of freedom (DOF) and considers the opening and closing mechanism of masonry joints with or without jointing material. Hereby, an incremental formulation is used. Its implantation in a finite element (FE) program is briefly shown. By investigating the interaction between axial and bending forces, it is shown, that the local loss of joint stiffness is insufficiently represented by the classical theory of plastic hinges. The fall of a temple due to seismic loading is used to illustrate the effectiveness of the applied model for structural analysis. The obtained results are compared with the response of the structure with prestressing of the columns, which increases the horizontal stability of the structure.
+
+
+    
+        AU - G. M. S. Knight
+    
+        AU - A. R. Santhakumar
+    
+
+TI - Joint Effects on Behavior of Transmission Towers
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 698-712
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(698) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28698%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28698%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 698-712
+AB - One assumption usually made in transmission‐tower analysis is that the joints are pinned. However this assumption is rarely realized, due to fabrication difficulties. Thus in practice, the tower members may experience secondary stresses that are not included in the analysis. A full‐scale quadrant of the lowermost panel of a transmission tower designed as a pin‐jointed truss is tested according to the Indian Standard Code of Practice, under normal load conditions and the behavior observed. The test result established that the secondary stresses could be significant enough to cause failure of the leg members even under normal working‐load conditions. This paper also deals with the question of whether a transmission tower with secondary braces would be lighter than one designed without these braces. It has been conclusively shown that though the secondary braces increase the number of members, the reduction in stresses in various members leads to a design considerably lighter than the design without these braces. The analysis assumes point joints, whereas the actual tower has bolted connection. This paper brings out the discrepancies between the analysis and actual behavior witnessed during testing.
+
+
+    
+        AU - Tom Lassen
+    
+
+TI - Optimum Design of Three‐Dimensional Framework Structures
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 713-727
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(713) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28713%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28713%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 713-727
+AB - A method for optimal design of large‐scale framework structures is presented. The approach is based on a reanalysis technique in combination with suboptimization for each member group in the structure. The suboptimization is performed using a nonlinear programming algorithm based on sequential quadratic programming. Given the topology and material quality, the cross‐sectional dimensions of wide‐flange and hollow‐section members are treated as design variables and the minimum weight or cost solution is sought. The structural problem is formulated using the matrix displacement method. Large three‐dimensional rigidly jointed frames subjected to multiple loading cases are analyzed. Constraints can be imposed on maximum Von Mises stresses, beam stability, and the fatigue damage at nodal points. The approach is general, robust, and efficient in that it avoids numerous global structural analyses. The practical engineering utility of the method is emphasized. Case studies of an offshore deck module and a platform jacket structure are included. Future work should focus on a refined formulation of the fatigue constraint.
+
+
+    
+        AU - Vincenzo Colotti
+    
+
+TI - Shear Behavior of RC Structural Walls
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 728-746
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(728) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28728%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28728%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 728-746
+AB - A shear panel model capable of simulating the nonlinear behavior of reinforced concrete (RC) panels under membrane‐type loading is developed. The shear panel model is then incorporated into a macroscopic wall‐member model and implemented in a finite element program to analyze RC structural walls. The generic wall member is idealized as a group of uniaxial elements connected in parallel and a horizontal spring. The mechanical properties of each constituent element of the wall‐member model are based only on the actual behavior of the materials, without making any additional empirical assumptions. To check the reliability and the effectiveness of the wall‐member model so derived, a numerical investigation was carried out by referring to the measured behavior of RC structural walls subjected to monotonic loading. The comparison between numerical and experimental results shows that the proposed wall‐member model is capable of predicting, with acceptable accuracy, the measured flexural and shear responses of structural walls as well as the flexural and shear displacement components. The wall‐member model, in its relative simplicity, can be efficiently incorporated into a practical nonlinear analysis of RC multistory frame‐wall structural systems under monotonic loading. The possibility of extending the model to the case of cyclic loading is not investigated in this study.
+
+
+    
+        AU - A. I. El‐Sheikh
+    
+        AU - R. E. McConnel
+    
+
+TI - Experimental Study of Behavior of Composite Space Trusses
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 747-766
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(747) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28747%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28747%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 747-766
+AB - From previous studies on space trusses it has been found that a major problem facing such structures is the brittle type of failure, caused by the successive buckling of a series of critical compression‐chord members. The present study investigates the possibility of using either overstrengthened top chord members or a concrete slab acting compositely with the top chord to improve the behavior of space trusses. The concrete slab was expected to reduce the buckling problems of the top chord members, to increase the stiffness of the structure, and to induce a ductile type of failure by making the overall behavior dependent mainly on the tension characteristics of the bottom chord members. The present study has indicated that a composite concrete top chord is more effective than overstrengthened top chord members in reducing the likelihood of brittle failure modes developing in space trusses. An analytical study based on the finite‐element method was carried out using a computer program developed and verified by the writers.
+
+
+    
+        AU - S. Kitipornchai
+    
+        AU - F. G. A. Al‐Bermani
+    
+        AU - N. R. Murray
+    
+
+TI - Eccentrically Connected Cleat Plates in Compression
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 767-781
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(767) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28767%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28767%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 767-781
+AB - This paper investigates experimentally and theoretically the ultimate compressive capacity of eccentrically connected cleat plates. Because of the eccentricity in the connection, significant bending stresses are developed in the plate from the onset of loading. The first yield approach is extremely conservative and does not predict accurately the ultimate behavior of the connection. Analysis based on buckling of the cleat plate alone, without consideration of moments induced in the cleat plate due to eccentricity, leads to unconservative predictions. A limit analysis is proposed, based on the plastic collapse approach with allowance for reduction in the plastic moment capacity due to the effect of axial load. A number of basic failure mechanisms are identified. Formulas for predicting the ultimate compressive capacity of eccentrically connected cleat plates, whose ends are fixed and prevented from sway, are derived, and 22 test specimens of varying cleat‐plate thicknesses and lengths are tested to failure. The predicted ultimate compressive loads and failure modes obtained are in good agreement with experimental findings.
+
+
+    
+        AU - C. M. Wang
+    
+        AU - Y. Xiang
+    
+        AU - S. Kitipornchai
+    
+        AU - K. M. Liew
+    
+
+TI - Axisymmetric Buckling of Circular Mindlin Plates with Ring Supports
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 782-793
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(782) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28782%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28782%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 782-793
+AB - This study concerns the axisymmetric buckling of radially loaded circular Mindlin plates with internal concentric ring supports. The edge of the plate is either simply supported or clamped. Based on the Rayleigh‐Ritz energy approach, buckling factors are determined and tabulated for plates of various thickness to radius ratios and with either one or two internal concentric rigid ring supports at various radii. The results show that the buckling factors for circular plates with one concentric ring support decrease with increasing thickness‐radius ratios due to the increasing shear deformation effect. The effect of shear deformation on the buckling factors for plates with two ring supports is more pronounced than for plates with one ring support. The buckling factors for simply supported circular plates approach those for clamped circular plates when one of the ring supports is located sufficiently close to the edge. The tabulated buckling results should be valuable to designers for some industrial applications. Moreover, accurate and simple buckling formulas are presented for plates without any internal ring support.
+
+
+    
+        AU - Z. Lounis
+    
+        AU - M. Z. Cohn
+    
+
+TI - Multiobjective Optimization of Prestressed Concrete Structures
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 794-808
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(794) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28794%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28794%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 794-808
+AB - This paper presents a practical and efficient approach to the optimization of prestressed concrete structures if two or more (possibly conflicting) objectives must simultaneously be satisfied. The most relevant objective function is adopted as the primary criterion, and the other objective functions are transformed into constraints by imposing some lower and upper bounds on them. The single‐objective optimization problem is then solved by the projected Lagrangian algorithm. Two numerical examples illustrate the application of the approach to the design of a posttensioned floor slab and a pretensioned highway bridge system for two conflicting objectives: minimum cost and minimum initial camber. The Pareto optima achieve a compromise between the two conflicting objectives and represent more rational solutions than those obtained by independent optimizing each objective function.
+
+
+    
+        AU - L. Duan
+    
+        AU - J. T. Loh
+    
+        AU - W. F. Chen
+    
+
+TI - Moment‐Curvature Relationships for Dented Tubular Sections
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 809-830
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(809) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28809%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28809%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 809-830
+AB - A new set of closed‐form M‐P‐Φ and M‐P‐ε0 expressions for dented and undented tubular sections under combined multidirectional bending and axial load was developed. References are made to our previous works on undented sections, and to experimental test data reported by Landet in 1987. The proposed M‐P‐Φ and M‐P‐ε0 expressions for dented and undented tubular members were used to prepare a computer program BCDENT for the strength and behavior analysis of dented (single or multiple) or undented tubular members. The formulation of the algorithm in BCDENT is described briefly, as well as another analytical method using a commercial finite element program ABAQUS. Comparisons of BCDENT predictions with available test results were made to confirm the validity and accuracy of moment‐curvature approach for the behavior analysis of dented tubular members. It is concluded that the moment‐curvature approach can predict the behavior and strength of dented tubular members adequately for use in engineering practice.
+
+
+    
+        AU - Jeng‐Fuh Ger
+    
+        AU - Franklin Y. Cheng
+    
+
+TI - Postbuckling and Hysteresis Models of Open‐Web Girders
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 831-851
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(831) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28831%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28831%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 831-851
+AB - The paper presents analytical studies of hysteretic behavior of open‐web girders with angle web members. The partial inelasticity of the member cross section is traced using finite segment formulation with stress‐strain control. A member is divided into a number of segments and, for each segment, the cross section is divided into many small elements, which allows the inelastic deformation of the member to be modeled. Therefore, member stiffness is established for various inelastic deformation stages. The eccentricities and initial imperfections of web members are considered in the analysis. Good agreement between experimental and present analytical results was found for individual angle member. Based on analytical results of open‐web girders, a typical girder's hysteresis model is then generated. The nonlinear bending stiffness matrix of a girder is determined according to the rules for this model. The hysteresis model and the stiffness matrix can be incorporated easily into existing computer programs for seismic analysis of steel buildings.
+
+
+    
+        AU - Jeng‐Fuh Ger
+    
+        AU - Franklin Y. Cheng
+    
+        AU - Le‐Wu Lu
+    
+
+TI - Collapse Behavior of Pino Suarez Building During 1985 Mexico City Earthquake
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 852-870
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(852) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28852%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28852%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 852-870
+AB - This paper presents the investigation of the collapse behavior of a 22‐story steel building during the September 19, 1985, Mexico City earthquake by studying hysteretic behavior, ductility factors of individual structural components, and overall instability of the building. Extensive inelastic analyses have been performed for the building by using the multicomponent seismic input of actual Mexico City earthquake records. It was found that the structural response exceeds the original design ductility of this building, and most girders in the building have severe inelastic deformation. Due to the load redistribution that results from ductile girder failure, local buckling occurred in many columns on floors, 2, 3, and 4. Therefore, most columns on floors 2–4 lost their load‐carrying capabilities and rigidities, which then caused the building to tilt and rotate. It is evident that ductile failures of girders combined with local buckling of columns in the lower part of the building resulted in significant story drift, building tilt, P‐Δ effect, and the failure mechanism.
+
+
+    
+        AU - J. Y. Richard Yen
+    
+
+TI - Direct Analysis of Slender Columns with P‐Delta Effects
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 871-890
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(871) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28871%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28871%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 871-890
+AB - A numerical method is introduced for direct analysis of nonlinear behavior of slender beam‐columns. A strain control technique in conjunction with the quasi‐Newton's method was developed to obtain the updated flexural stiffness directly for lateral deflection estimation. Numerical difficulties such as singular problems or softening behavior could be detected beforehand and overcome. This algorithm may also be formulated to trace the M‐P‐Φ curve and to calculate the current flexural stiffness for sections from very small strain to extremely large strain. Details about the principles and the formulations are given in this paper. Examples include step‐by‐step calculation results for biaxially loaded sections and analyses of slender reinforced concrete and steel columns including uniform or nonuniform cross sections. Further applications can be made to uniaxially or biaxially loaded columns constructed with most engineering materials or to enhance the performance of nonlinear frame analyses.
+
+
+    
+        AU - H. Scott Norville
+    
+        AU - Paul M. Bove
+    
+        AU - Darrel L. Sheridan
+    
+        AU - Stacey L. Lawrence
+    
+
+TI - Strength of New Heat Treated Window Glass Lites and Laminated Glass Units
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 891-901
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(891) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28891%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28891%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 891-901
+AB - The strengths of certain window glass types, window glass constructions, and window glass treatments are poorly understood by the window‐glass‐design community. Many assumptions are employed in defining the design strengths of various window‐glass types, constructions, and treatments such as laminated glass, heat‐strengthened glass, and insulating glass. As part of its ongoing research program into the strength of window glass, the Glass Research and Testing Laboratory at Texas Tech University conducted strength tests on fully tempered monolithic glass lites, heat‐strengthened monolithic glass lites, fully tempered laminated‐glass units, and heat‐strengthened laminated glass‐units. The objective of these tests was to determine the strengths of these glass types and constructions relative to monolithic annealed glass lites with the same nominal dimensions. The failure strength data resulting from these tests differ significantly compared to the assumptions underlying design strengths proposed by ASTM for these glass types and constructions.
+
+
+    
+        AU - Henry T. Y. Yang
+    
+        AU - D. G. Liaw
+    
+        AU - D. S. Hsu
+    
+        AU - H. C. Fu
+    
+
+TI - Simple Model for Optimal Control of Tall Buildings
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 902-919
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(902) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28902%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28902%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 902-919
+AB - An objective of this paper is to study control design based on incomplete measured data. An approximate modal method is used to estimate the modal responses of the structure, based on incomplete measured data. An optimal modal control technique is used to obtain the necessary control forces. Another objective is to study passive control design by means of base isolation. The third objective is to study the combined effects of both active and passive control designs. Examples of optimal active control of a two‐floor and an eight‐floor building modeled by simple shear beams, without and with passive base‐isolation devices, are performed to demonstrate the efficiencies of the various control designs. These designs are developed from placing actuators at different locations and collecting incomplete measured data from selected sensor locations. Results on the reduction of the dynamic responses of the example buildings are then quantified and discussed.
+
+
+    
+        AU - Alfred G. Bishara
+    
+        AU - Roesdiman Soegiarso
+    
+
+TI - Load Distribution in Multibeam Precast Pretopped Prestressed Bridges
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 920-937
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(920) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28920%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28920%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 920-937
+AB - Three 50 ft two‐lane simply supported prestressed precast pretopped double‐T tangent bridges with and without end diaphragms are analyzed using a three‐dimensional finite‐element algorithm. The beams of each bridge are interconnected at 3 m (10 ft) intervals along their flanges. Several cases of American Association of State Highway and Transportation Officials (AASHTO) HS 20‐44 truck loadings were studied, as well as loading due to long‐term differential camber between contiguous beams. The results obtained illustrate the distribution of superimposed dead loads and wheel loads to individual beams as well as the internal forces generated by the effect of differential camber. The maximum generated internal forces under gravity loads were compared to those using AASHTO's 1983 standard specifications for highway bridges. The internal forces developed at flange connectors were also obtained and their effect on internal forces in the beams discussed. The effect of skewness was also illustrated.
+
+
+    
+        AU - J. F. Davalos
+    
+        AU - H. A. Salim
+    
+
+TI - Effective Flange Width for Stress‐Laminated T‐System Timber Bridges
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 938-953
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(938) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28938%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28938%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 938-953
+AB - Stress‐laminated T‐system timber bridges consist of laminated deck sections combined with glued‐laminated timber beams compressed transversely with high‐strength steel bars. In the design of these structures, a deck‐and‐beam T‐section is isolated and analyzed as a T‐beam. This paper presents a regression equation for the computation of effective flange width for stress‐laminated T‐system timber bridges; a width over which the normal stress can be assumed constant. Using actual dimensions, orthotropic material properties, and AASHTO truck loads, 125 bridge models were analyzed by a special finite element program for general anisotropic shell‐and‐beam‐type structures. The results of the analysis were used to conduct a parametric study followed by a regression analysis to develop a prediction equation for the computation of effective flange width. Simplified equations for the computation of the effective width, which are within current upper and lower bound elasticity solutions, are proposed for use in design.
+
+
+    
+        AU - Stephen G. Buonopane
+    
+        AU - David P. Billington
+    
+
+TI - Theory and History of Suspension Bridge Design from 1823 to 1940
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 954-977
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(954) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28954%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28954%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 954-977
+AB - Within the context of a historical overview, this paper examines how the history and theory of suspension bridges affected their design between 1823 and 1940. Navier's theory of the unstiffened suspension bridge reveals the concept of cable stiffness. The experience of wind‐induced motion in 19th century bridges was a primary influence in the adoption of the stiffening truss, and the Rankine theory, which first considered such trasses, resembles a simple beam solution. The subsequent elastic theory as shown in this paper also resembles a simple beam solution. A reformulation of the deflection theory presented here allows for a physical interpretation and comparison to the previous theories. In examining these theories, this paper gives results of sample calculations based on the Monongahela, Delaware River, and George Washington Bridges; these specific examples reveal certain properties of the theories that emphasize the importance of physical understanding to the use of mathematical theories.
+
+
+    
+        AU - S. M. Planck
+    
+        AU - F. W. Klaiber
+    
+        AU - K. F. Dunker
+    
+
+TI - Postcompression and Superimposed Trusses for Bridge Rehabilitation
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 978-991
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(978) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28978%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28978%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 978-991
+AB - The need for upgrading a large number of understrength and functionally obsolete bridges in the United States has been well documented. The purpose of this project was to investigate two schemes for strengthening the negative‐moment regions of continuous composite bridges: (1) Postcompression of stringers; and (2) superimposed trusses attached to stringers. Both strengthening schemes were designed to resist negative moments and the resulting stresses from service loads. A series of tests was conducted on a full‐scale mockup with each strengthening scheme in place. The postcompression strengthening scheme was effective in reducing the bottom‐flange stresses (36%); however, top‐flange stresses were slightly increased (18%), because of the tension applied to the section. The superimposed truss‐strengthening scheme was effective in reducing both the top (46%) and bottom (48%) flange stresses because it applied only reverse moment to the section. In addition to reducing stresses, since the superimposed trusses provide additional support to the bridge beams, the trusses also reduce live‐load bridge deflections. The superimposed trusses system is a very practical strengthening system that with appropriate connection modifications can be used to strengthen the negative‐moment regions of essentially any type of bridge.
+
+
+    
+        AU - C. N. Srinivasan
+    
+        AU - C. R. Arvind
+    
+
+TI - Discussion of &#x201c;<i>Wind Loads On Buildings with Sawtooth Roofs</i>&#x201d; by Patrick J. Saathoff and Theodore Stathopoulos (February 1992, Vol. 108, No. 2)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 994-995
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(994) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28994%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28994%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 994-995
+
+
+    
+        AU - P. J. Saathoff
+    
+        AU - T. Stathopoulos
+    
+
+TI - Closure to &#x201c;<i>Wind Loads On Buildings with Sawtooth Roofs</i>&#x201d; by Patrick J. Saathoff and Theodore Stathopoulos (February 1992, Vol. 108, No. 2)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 996-996
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(996) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28996%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28996%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 996-996
+
+
+    
+        AU - Herbert L. Bill
+    
+        AU - Mostafiz R. Chowdhury
+    
+
+TI - Discussion of &#x201c;<i>Viscoplastic Response of Clamped Beams under Impact Loading</i>&#x201d; by John F. Carney III and Chiwang Yeh (December, 1991, Vol. 117, No. 12)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 996-998
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(996.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28996.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28996.2%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 996-998
+
+
+    
+        AU - John F. Carney
+    
+        AU - Chiwang Yeh
+    
+
+TI - Closure to &#x201c;<i>Viscoplastic Response of Clamped Beams under Impact Loading</i>&#x201d; by John F. Carney III and Chiwang Yeh (December, 1991, Vol. 117, No. 12)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 998-998
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(998) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28998%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28998%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 998-998
+
+
+    
+        AU - Juan Carlos Molano Toro
+    
+
+TI - Discussion of &#x201c;<i>Analytical Moment&#x2010;Curvature Relations for Tied Concrete Columns</i>&#x201d; by Shamim A. Sheikh and C. C. Yeh (February, 1992, Vol. 118, No. 2)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 999-1000
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(999) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28999%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%28999%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 999-1000
+
+
+    
+        AU - Shamim A. Sheikh
+    
+
+TI - Closure to &#x201c;<i>Analytical Moment&#x2010;Curvature Relations for Tied Concrete Columns</i>&#x201d; by Shamim A. Sheikh and C. C. Yeh (February, 1992, Vol. 118, No. 2)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1000-1000
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(1000) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%281000%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%281000%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 1000-1000
+
+
+    
+        AU - Shamim A. Sheikh
+    
+
+TI - Erratum: "Analytical Moment&#x2010;Curvature Relations for Tied Concrete Columns" (February, 1992, Vol. 118, No. 2)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1000-1000
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(1000.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%281000.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%281000.2%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 1000-1000
+
+
+    
+        AU - Z. P. Bažant
+    
+        AU - L. Cedolin
+    
+        AU - W. F. Chen
+    
+        AU - E. M. Lui
+    
+
+TI - <i>Stability of Structures: Elastic, Inelastic, Fracture and Damage Theories</i>
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1001-1002
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(1001) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%281001%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%281001%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 1001-1002
+
+
+TI - Reviewers of the <i>Journal of Structural Engineering</i>
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1003-1013
+VI - 119
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1993)119:3(1003) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A3%281003%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A3%281003%29
+SO - Journal of Structural Engineering 1993-03-01 119(3): 1003-1013
+
+

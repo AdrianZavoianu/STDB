@@ -1,0 +1,384 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - A. Rutenberg
+    
+        AU - M. Shtarkman
+    
+        AU - M. Eisenberger
+    
+
+TI - Torsional Analysis Methods for Perforated Cores
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 1207-1227
+VI - 112
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1986)112:6(1207) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281207%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281207%29
+SO - Journal of Structural Engineering 1986-06-01 112(6): 1207-1227
+AB - Several continuum methods for torsional analysis of slender perforated cores are described. First, the open section torsion‐bending theory, which neglects shear deformations, is described. It is then modified to consider shear deformations that become important with increasing lintel stiffness. To avoid the warping incompatibility, of the open section theory when applied to rigid lintel cores, a simple closed box torsion‐bending theory follows. Then an adaptation of the Umansky‐Benscoter theory is presented. Finally, the alternating closed box‐open section model is described. These methods are compared with experimental data, finite element analysis, and the wide column frame analogy. It is concluded that the Umansky‐Benscoter theory offers the most realistic modeling for relatively rigid lintel cores for which Bredt's formula becomes a simple alternative with increasing lintel stiffness. The open section theory, due to its simplicity, is adequate for more flexible systems.
+
+
+    
+        AU - Anestis S. Veletsos
+    
+        AU - Yu Tang
+    
+
+TI - Dynamics of Vertically Excited Liquid Storage Tanks
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 1228-1246
+VI - 112
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1986)112:6(1228) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281228%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281228%29
+SO - Journal of Structural Engineering 1986-06-01 112(6): 1228-1246
+AB - A simple practical procedure is presented for evaluating the dynamic response of an upright circular cylindrical liquid storage tank to a vertical component of ground shaking, considering the flexibility of the supporting medium. The tank is presumed to be supported through a rigid circular mat at the surface of a homogeneous elastic half‐space, and it is analyzed approximately by application of Galerkin's method considering the tank‐liquid system to respond as a single‐degree‐of‐freedom system in its fixed‐base condition. Comprehensive numerical data are included that elucidate the actions of both rigidly and flexibly supported tanks, and the effects of the numerous parameters that influence the response. It is shown that soil‐structure interaction reduces the hydrodynamic effects and that the consequences of such interaction may be approximated with good accuracy by a change in the natural frequency of the tank‐liquid system and by an increase in damping. The maximum hydrodynamic effects are related simply to the corresponding hydrostatic effects.
+
+
+    
+        AU - Anton Polensek
+    
+        AU - Boyd D. Schimel
+    
+
+TI - Rotational Restraint of Wood‐Stud Wall Supports
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 1247-1262
+VI - 112
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1986)112:6(1247) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281247%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281247%29
+SO - Journal of Structural Engineering 1986-06-01 112(6): 1247-1262
+AB - A computer program consisting of the finite‐element method, multilinear material models, and a linear step‐by‐step procedure that accounts for nonlinear behavior of wood materials, nailed joints, and intercomponent gaps was developed for predicting the structural behavior of the connection system between wall, floor, and foundation in wood‐frame buildings. The program enabled evaluation of support restraint that reduces wall deflection and exploration of simple construction modifications that increase restraint. Model accuracy was verified by first testing and then theoretically modeling and analyzing nine wall panels; predicted deflections closely agreed with corresponding experimental values. Application of the program showed that deflection reduction due to restraint was less than 2% for conventional walls but could be increased to 13% by hammering two additional 6d nails per stud into plywood sheathing and sill plate and six additional 6d nails per stud into plywood sheathing and header. To provide data for design, coefficients of support restraint were evaluated for nine typical construction details each modified seven times; two sets of coefficients are presented, one for moderate wind pressures up to 50psf(2.39kN/m2) and another for severe wind pressures of 150psf(7.19kN/m2) or more. The additional nailing not only increases wall stiffness, thereby reducing deflection, but also provides better resistance of light‐frame wood buildings to earthquakes and the uplift pressures of tornadoes and hurricanes.
+
+
+    
+        AU - S. Leigh Phoenix
+    
+        AU - Herbert H. Johnson
+    
+        AU - William McGuire
+    
+
+TI - Condition of Steel Cable After Period of Service
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 1263-1279
+VI - 112
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1986)112:6(1263) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281263%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281263%29
+SO - Journal of Structural Engineering 1986-06-01 112(6): 1263-1279
+AB - The condition of the interior of a 3‐1/4‐in. steel cable after approximately 20 yrs in service is described. The cable studied was one of 21 bridge strands that support a very large radio telescope. It had suffered minor surface wire breakage and was replaced for testing and dissection to provide information needed for judging the condition of the entire cable system, and ensuring long‐term satisfactory operation of the telescope. Very little information has been published on the condition of cables after a period of service. The paper is presented in the interest of partially filling this gap in the information needed for estimating the service life of steel structures.
+
+
+    
+        AU - Habibollah Akbar
+    
+        AU - Ajaya K. Gupta
+    
+
+TI - Ultimate Behavior of an R.C. Nuclear Containment Subjected to Internal Pressure and Earthquake
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 1280-1295
+VI - 112
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1986)112:6(1280) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281280%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281280%29
+SO - Journal of Structural Engineering 1986-06-01 112(6): 1280-1295
+AB - The results of nonlinear analysis of a reinforced concrete nuclear containment vessel subjected to dead load, internal pressure, and earthquake are presented. The membrane reinforcement for the containment is first designed based on the principle of minimum resistance using the stresses from an elastic analysis. The nonlinear analysis shows that the containment is able to achieve 102% of the design pressure and earthquake load along with its dead load. The objective of the research program involved is to understand and establish a relationship between the reinforcement design and the ultimate behavior of concrete shells. A nonlinear finite element program has been developed. The computer program includes a new concrete cracking model which is consistent with the limit state. The program also includes a new selective integration scheme which enables an accurate evaluation of the cracked element's stiffness matrix. Some of the initial cracking is due to the combined effect of hoop and shear stresses. As expected, these cracks are inclined at an angle less than 45° to the vertical. However, as more loading is applied and the cracking is spread wider, these and other cracks realine themselves to be closer to 45° to the vertical. The 45° orientation of the cracks allows for a more efficient resistance of combined direct and shear stresses by the reinforced concrete. It is found that the meridional and hoop reinforcements yield in the general areas predicted to be critical by the elastic analysis.
+
+
+    
+        AU - Yew‐Chaye Loo
+    
+        AU - Ariel P. Santos
+    
+
+TI - Impact Deflection Analysis of Concrete Beams
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 1297-1312
+VI - 112
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1986)112:6(1297) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281297%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281297%29
+SO - Journal of Structural Engineering 1986-06-01 112(6): 1297-1312
+AB - An analytical solution is presented for the instantaneous deflection of pin‐ended beams under mid‐span impact of below‐yield intensity. Hertz's contact law and vibration theory are incorporated, leading to an integral equation for the force history. The beam displacement and velocity at the end of impact are used as initial conditions for the free vibration that ensues. The maximum deflection that may occur during the forced or free vibration stage is obtained automatically on a computer. To account for cracking of reinforced and prestressed concrete beams, Branson's effective moment of inertia, Ie, is used for single‐blow impact. For repeated impact, the equivalent moment of inertia developed for repeated loading, Irep, is calibrated using impact deflection data. Comparisons are made with two different groups of published experimental results. These indicate that the accuracy of the proposed procedure is generally good.
+
+
+    
+        AU - C. V. Girija Vallabhan
+    
+        AU - Gee David Chou
+    
+
+TI - Interactive Nonlinear Analysis of Insulating Glass Units
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 1313-1326
+VI - 112
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1986)112:6(1313) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281313%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281313%29
+SO - Journal of Structural Engineering 1986-06-01 112(6): 1313-1326
+AB - An insulating glass (IG) unit consists of two glass plates, normally rectangular, placed parallel to each other using a spacer and sealed with a sealant to an extent that the whole unit is considered air tight after manufacture. Desiccants are used inside the spacer to absorb any moisture in the air trapped inside. The structural behavior of these units when subjected to lateral pressures induced by wind loads and variations of temperatures is not very well understood. A theoretical model is presented here to analyze the sharing of the loads between the two plates using a nonlinear plate analysis theory.
+
+
+    
+        AU - Scott T. Woolcock
+    
+        AU - Sritawat Kitipornchai
+    
+
+TI - Design of Single Angle Web Struts in Trusses
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 1327-1345
+VI - 112
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1986)112:6(1327) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281327%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281327%29
+SO - Journal of Structural Engineering 1986-06-01 112(6): 1327-1345
+AB - Single angle web struts in trusses are usually eccentrically loaded. Design practices vary from country to country. Most current practices recommend that eccentricity be accounted for by considering bending about both principal axes but the difficulty is in determining where the load acts. A design method for single angle web compression members in trusses is proposed. The method is based on experimental observation that the predominant mode of deformation is perpendicular to the plane of the connected leg. The design method takes into account buckling and eccentricity, and makes allowances for cases where web members are all on one side or alternatively on opposite sides.
+
+
+    
+        AU - John C. Ermopoulos
+    
+
+TI - Buckling of Tapered Bars Under Stepped Axial Loads
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 1346-1354
+VI - 112
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1986)112:6(1346) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281346%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281346%29
+SO - Journal of Structural Engineering 1986-06-01 112(6): 1346-1354
+AB - Tapered bars, axially compressed by concentrated loads applied at various locations along their axes, are discussed. The most common cases of support conditions are considered. The law of stiffness variation chosen covers mainly members of steel structures. Buckling equations of these bars are formulated and corresponding critical loads are evaluated. The results are also presented in graphic form, from which several interesting conclusions are obtained concerning the optimum design and the expediency of using tapered bars as compressive members in structures.
+
+
+    
+        AU - Mircea Grigoriu
+    
+
+TI - Structural Response to Uncertain Seismic Excitations
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 1355-1365
+VI - 112
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1986)112:6(1355) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281355%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281355%29
+SO - Journal of Structural Engineering 1986-06-01 112(6): 1355-1365
+AB - Probabilistic and statistical descriptors are developed for the response of nonhysteretic oscillators subject to modulated Gaussian ground acceleration with uncertain scale. The probabilistic descriptors correspond to postulated values of the scale of the ground acceleration process while the statistical descriptors account for the uncertainty in this parameter. The analysis focuses on the mean (failure) rate at which the response exceeds the structural strength. It shows that unconservative designs can result when the uncertainty in the scale of the ground acceleration is disregarded. This unfavorable effect is less significant for nonlinear structures than for linear structures in the cases examined in the paper.
+
+
+    
+        AU - Peter Waldron
+    
+
+TI - Stiffness Analysis of Thin‐Walled Girders
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 1366-1384
+VI - 112
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1986)112:6(1366) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281366%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281366%29
+SO - Journal of Structural Engineering 1986-06-01 112(6): 1366-1384
+AB - For complex arrangements of thin‐walled girders a generalized method of analysis is required that is suitable for rapid solution by computer. A method of elastic analysis based on a stiffness approach, is proposed which is equally applicable to straight and curved girders of thin‐walled cross section. For straight girders, the member stiffness matrix is derived explicitly by inverting the appropriate member flexibility matrix and considering equilibrium of the member ends. The member stiffness matrix for curved girders is obtained by the same method but in numerical form due to the extreme complexity of the various terms. By transforming individual member stiffness matrices into system co‐ordinates, a system stiffness matrix is established, whose inversion leads directly to a global solution for the structure. In this type of analysis uniformly distributed flexural and torsional loads must be applied as fixed‐ends loads at the nodes. These are derived for both straight and curved girders. In addition, the distribution of bimoment is presented graphically for a variety of typical beam cross sections.
+
+
+    
+        AU - Issam E. Harik
+    
+        AU - Victor S. Hamouche
+    
+
+TI - Transversely Loaded Horizontally Curved R/C Slabs
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 1385-1403
+VI - 112
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1986)112:6(1385) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281385%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281385%29
+SO - Journal of Structural Engineering 1986-06-01 112(6): 1385-1403
+AB - A practical and simplified method for the analysis and design of continuous and horizontally curved two‐way reinforced concrete floor slabs is presented. The slab panels are assumed to be uniformly loaded and supported on all sides by rigid boundary supports (beams or walls). The method is based on the use of design moment coefficients that are derived from the classical elastic theory of curved plates. Continuous edges are treated as clamped, and discontinuous edges as simply supported. Twelve possible combinations of clamped and simply‐supported boundaries are considered. The positive and negative design bending moments in the radial and angular direction are obtained from the corresponding moment coefficients and proportioned to middle and column strips. Circular and horizontally curved floor systems are treated to illustrate the use of the proposed method in design practice. The proposed method is similar to the one developed by Marcus for the design of two‐way rectangular slabs which was later adopted by ACI 318‐63 in Section A2003 as “Method 3.”
+
+
+    
+        AU - John S. Ellis
+    
+
+TI - Gustave Eiffel: A Biographical Sketch
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 1404-1412
+VI - 112
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1986)112:6(1404) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281404%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281404%29
+SO - Journal of Structural Engineering 1986-06-01 112(6): 1404-1412
+AB - The family background and education of Gustave Eiffel are out‐lined. Emphasis is placed on the nature of his engineering courses. His early work on the Bordeaux Bridge is the start of an extraordinary career as a structural engineer. The Panama Affair is discussed and then Eiffel's second great career as an aeronautical scientist is mentioned. It evolved from his wish to use the tower, and proved very timely due to the birth of the aeroplane with its need for an understanding of aeronautics. The question of the significance of Eiffel to himself, his contemporaries, and us is also addressed.
+
+
+    
+        AU - Keith D. Hjelmstad
+    
+
+TI - Conjugate Structure Method
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 1413-1428
+VI - 112
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1986)112:6(1413) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281413%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281413%29
+SO - Journal of Structural Engineering 1986-06-01 112(6): 1413-1428
+AB - The conjugate structure method is developed from first principles for the general three‐dimensional case including shearing deformations and various sources of excitation. It is shown that the analogy is a direct result of the particular mechanics of reticulated structures and that the anomalies that arise in applying the method are a consequence of the fundamental difference between the static and kinematic problems. Once recognized, the anomalies are easily treated. The success of the approach presented here lies in a clear separation between the static and kinematic problems.
+
+
+    
+        AU - R. Shankar Nair
+    
+
+TI - Buckling and Vibration of Arches and Tied Arches
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 1429-1440
+VI - 112
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1986)112:6(1429) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281429%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281429%29
+SO - Journal of Structural Engineering 1986-06-01 112(6): 1429-1440
+AB - A simple method of computing the planar elastic buckling loads, natural frequencies, and corresponding mode shapes for arches and tied arches has been developed. The proposed method is applicable to arches and tied arches of general shape. Stiffnesses of arch rib and tie (if present) may vary in any manner along the span. The only major limitation in the applicability of the procedure is that the simplifying idealizations that are made can result in significant error for very steep arches. The details of the proposed method of analysis have been developed to be compatible with normal design office practice. The procedure involves linear elastic analysis with multiple loadings to obtain a simplified flexibility matrix, manual development of a stability matrix (for buckling) or mass matrix (for vibration), and solution of an eigenvalue equation. Several examples that are presented indicate that the proposed method is accurate—at least to the degree normally required in structural design—for arches and tied arches that have rise/span ratios within the range customarily encountered in medium‐ and long‐span bridges.
+
+
+    
+        AU - Richard A. Behr
+    
+        AU - Joseph E. Minor
+    
+        AU - Magnus P. Linden
+    
+
+TI - Load Duration and Interlayer Thickness Effects on Laminated Glass
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 1441-1453
+VI - 112
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1986)112:6(1441) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281441%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281441%29
+SO - Journal of Structural Engineering 1986-06-01 112(6): 1441-1453
+AB - As part of an ongoing laminated glass research program at the Glass Research and Testing Laboratory at Texas Tech University, full‐scale laminated glass laboratory specimens were tested under uniform lateral loads and simply supported boundary conditions. Effects due to varying interlayer thicknesses and long‐duration (one hour) loads were observed. Interlayer thickness effects on laminated glass unit structural response were not observed to be large. Interlayer thickness effects on corner stresses were less than 10%, while center deflections were separated by less than 4%. During long‐duration tests, lateral pressures of 0.2 psi (1.4 kPa) were applied to 60×96×0.280 in. (1,524×2,438×7.1mm) laminated glass units for one‐hour durations at test temperatures of 72 °F (22 °C), 120 °F (49 °C), and 170 °F (77 °C). For all three test temperatures there was a modest increase in corner stress (around 20%) and center deflection (around 10%) as a function of time at load. Rates of increase in corner stress and center deflection decreased with time at load. Conversely, stresses at the center of the unit decreased slightly over the one‐hour period. In all cases, theoretically derived “monolithic and layered bounds” on stresses and deflections provided realistic envelopes for all experimental data gathered in the laboratory program.
+
+
+    
+        AU - Henning Agerskov
+    
+
+TI - Optimum Geometry Design of Double‐Layer Space Trusses
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 1454-1463
+VI - 112
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1986)112:6(1454) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281454%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281454%29
+SO - Journal of Structural Engineering 1986-06-01 112(6): 1454-1463
+AB - In recent years, extensive and increasing use has been made of space trusses, especially in the form of double‐layer space grids. In the design, almost unlimited possibilities exist in practice for the choice of geometry of space trusses. This forms the background for a research project, in which the optimum design of double‐layer space trusses has been investigated. A literature study covering what has, until recently, been obtained as regards optimization of double‐layer space grids has been carried out as part of the investigation. Furthermore, actual cases, including both square and rectangular double‐layer space grids, simply supported along the entire edge or column‐supported at the corners, have been analyzed to determine the optimum design. An account of the most important achievement is given.
+
+
+    
+        AU - Barrington de V. Batchelor
+    
+        AU - Herbert K. George
+    
+        AU - T. Ivan Campbell
+    
+
+TI - Effectiveness Factor for Shear in Concrete Beams
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 1464-1477
+VI - 112
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1986)112:6(1464) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281464%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281464%29
+SO - Journal of Structural Engineering 1986-06-01 112(6): 1464-1477
+AB - A study to determine the parameters affecting web crushing failures in thin‐webbed concrete beams is summarized. Such failures are characterized by the crushing of the concrete. The average compressive stress in the web at crushing is usually lower than the concrete cylinder strength, and is defined as a function of that strength, using an effectiveness factor that has not so far been satisfactorily quantified. By means of an extensive statistical study of published test data, the primary variables affecting effectiveness factor are isolated and used to develop a model, which is proposed for evaluation of the effectiveness factor. The most significant variables are shown to be the web width/depth ratio and the shear span/depth ratio. This finding confirms some empirical results from past studies, but does not support the common practice of defining web effectiveness factor in terms of concrete cylinder strength as the only variable.
+
+
+    
+        AU - Richard Nielsen
+    
+        AU - Anne S. Kiremidjian
+    
+
+TI - Damage to Oil Refineries from Major Earthquakes
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 1481-1491
+VI - 112
+IP - 6
+AID - 10.1061/(ASCE)0733-9445(1986)112:6(1481) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281481%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A6%281481%29
+SO - Journal of Structural Engineering 1986-06-01 112(6): 1481-1491
+AB - Damage reports from 11 different earthquakes are summarized in tabular format for typical oil refinery structures, such as cylindrical and spherical storage tanks, tall columns and chimneys, heat exchangers, pumps, and pipes. Information included herein is limited to damage caused by direct ground-motion effects. These data reveal that the most vulnerable refinery structure is the cylindrical storage tank. Other structures, such as distilling towers and pipes, are only occasionally damaged, and rarely is this damage severe. The consequences of these rare events, however, can be very costly when they involve fires.
+
+

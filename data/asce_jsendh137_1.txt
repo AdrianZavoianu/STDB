@@ -1,0 +1,392 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Qin Pan
+    
+        AU - Kirk Grimmelsman
+    
+        AU - Franklin Moon
+    
+        AU - Emin Aktan
+    
+
+TI - Mitigating Epistemic Uncertainty in Structural Identification: Case Study for a Long-Span Steel Arch Bridge
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 1-13
+VI - 137
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000248 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000248
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000248
+SO - Journal of Structural Engineering 2011-01-01 137(1): 1-13
+AB - Characterization of constructed civil-engineering systems through structural identification (St-Id) has gained increasing attention in recent years due to its potential to enable more effective infrastructure asset management and performance-based engineering. Although there have been recent advances that mitigate the challenges posed by aleatory (random) uncertainty, there are many remaining challenges associated with epistemic (bias) uncertainty that often have a more critical impact on the reliability of St-Id (especially with applications to constructed systems). The objective of this paper is to illustrate various sources of epistemic uncertainty and describe mitigation approaches by detailing the St-Id of a long-span steel arch bridge. This application includes a priori modeling, ambient vibration monitoring, data processing, feature extraction, and finite-element (FE) model correlation. Following a description of the St-Id, the impact of various modeling uncertainties on the calibrated FE model is evaluated by comparing different identification scenarios. Finally, a simple and rational approach to “truth testing” the identified model is developed and employed to determine its admissibility.
+
+
+    
+        AU - Xiaodong Ji
+    
+        AU - Gregory L. Fenves
+    
+        AU - Kouichi Kajiwara
+    
+        AU - Masayoshi Nakashima
+    
+
+TI - Seismic Damage Detection of a Full-Scale Shaking Table Test Structure
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 14-21
+VI - 137
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000278 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000278
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000278
+SO - Journal of Structural Engineering 2011-01-01 137(1): 14-21
+AB - A series of full-scale tests was conducted on the E-Defense shaking table facilities in Japan to simulate various levels of realistic seismic damage in a high-rise structural steel building. During the shaking table tests, the specimen experienced damage of the concrete slabs, beam-to-column connections, and nonstructural walls. The densely recorded test data of global and local structural deformation and the extensive acceleration records provide a unique benchmark case for evaluating the effectiveness of vibration-based damage diagnosis methods. Dynamic properties of the specimen were extracted from floor accelerations under the white noise excitations by the frequency response function curve-fitting method and autoregressive with exogenous term method. The natural frequencies of the structure decreased on average 4.1, 5.4, and 11.9% after three levels of seismic excitation, respectively, because of increasing extent of structural and nonstructural damage. The analysis of the vibration data shows that the mode shapes changed very little because the damage was distributed over the entire specimen rather than being concentrated on one floor or story for the high-rise moment frame building.
+
+
+    
+        AU - Sunyong Kim
+    
+        AU - Dan M. Frangopol
+    
+
+TI - Cost-Effective Lifetime Structural Health Monitoring Based on Availability
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 22-33
+VI - 137
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000280 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000280
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000280
+SO - Journal of Structural Engineering 2011-01-01 137(1): 22-33
+AB - The state of a structural system subjected to deterioration processes is changing continuously. This state cannot be reliably predicted without considering both aleatory and epistemic uncertainties. To reduce the epistemic uncertainty, inspection and structural health monitoring (SHM) should be performed, and the performance prediction model should be updated periodically. Continuous monitoring is needed to reliably assess and predict the performance of structures. However, due to limited financial resources, continuous monitoring is not practical. Therefore, a cost-effective SHM strategy is necessary. In this paper, the probability that the performance prediction model based on monitoring data is usable in the future is computed by using the statistics of extremes and availability theory. This probability represents the availability of the monitoring data over nonmonitoring periods. The monitoring cost and availability can be found by solving a biobjective optimization problem. This problem consists in simultaneously minimizing the total monitoring cost and maximizing the availability of the monitoring data for performance prediction. Pareto solutions associated with monitoring duration and prediction duration are obtained. The proposed approach is applied to an existing bridge.
+
+
+    
+        AU - Andrea Lucchini
+    
+        AU - Giorgio Monti
+    
+        AU - Sashi Kunnath
+    
+
+TI - Nonlinear Response of Two-Way Asymmetric Single-Story Building under Biaxial Excitation
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 34-40
+VI - 137
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000266 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000266
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000266
+SO - Journal of Structural Engineering 2011-01-01 137(1): 34-40
+AB - Findings from nonlinear dynamic analyses investigating the torsional response of a two-way asymmetric single-story building under biaxial excitations are reported. Ground motions of increasing intensities, characterized by varying angles of incidence, are used to show the evolution of the seismic behavior with the increase of the inelastic demand. Results of the numerical simulations indicate that the parameters governing the nonlinear response of the asymmetric-plan building are associated with the centers of resistances (CRs) of the system. These CRs correspond to the “base shear-torque” (BST) combinations producing the plastic mechanisms that provide in each direction the maximum lateral strength of the building. The location of such CRs can be evaluated through the analysis of the BST surface, that is, the BST interaction surface of all the different plastic mechanisms that can develop in the building. Comparisons of the obtained results with those from incremental dynamic analyses on systems characterized by different stiffness and resistance distributions are also shown.
+
+
+    
+        AU - Hao Liang
+    
+        AU - Yi-Kwei Wen
+    
+        AU - Greg C. Foliente
+    
+
+TI - Damage Modeling and Damage Limit State Criterion for Wood-Frame Buildings Subjected to Seismic Loads
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 41-48
+VI - 137
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000272 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000272
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000272
+SO - Journal of Structural Engineering 2011-01-01 137(1): 41-48
+AB - Current research trends in residential construction focus on the development of performance-based design methodologies for wood structures. As one key prerequisite to the implementation of such design concept, the performance objectives and their corresponding limit state criteria must be properly defined first. So far, the displacement-based limit state criterion, such as the one proposed in ASCE 41, is the only type of standard available for wood structures. In this paper, damage index-based limit state criterion is proposed for wood-frame buildings. The Park-Ang damage model is used to estimate damage to the wood structures caused by seismic loads. An incremental dynamic analysis-based approach is developed to calibrate the damage model parameter for wood shear wall. To predict the potential damage of wood-frame buildings under future earthquakes, the relationship between calculated damage index and observed building damage is established and validated by experimental test data. The results of this research show that displacement alone may not be a reliable indicator for seismic performance of wood structures and damage index-based criterion allows a more realistic performance evaluation.
+
+
+    
+        AU - Clive L. Dym
+    
+        AU - Harry E. Williams
+    
+
+TI - Stress and Displacement Estimates for Arches
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 49-58
+VI - 137
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000267 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000267
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000267
+SO - Journal of Structural Engineering 2011-01-01 137(1): 49-58
+AB - This paper presents analytical estimates of the behavior exhibited by curved, archlike structures under radially directed and gravitational line loads. The behavior is shown to range from elementary beam bending at one end to a state of pure compression at the other, and its behavior can be tracked by an arch rise parameter that is a function of the arch’s semivertex angle, radius and thickness. The principal results are useful estimates of the dependence of the major displacements and stress resultants on the arch rise parameter. The results also offer some insight into the assumptions underlying Robert Maillart’s arch designs.
+
+
+    
+        AU - Minmao Liao
+    
+        AU - Taichiro Okazaki
+    
+        AU - Roberto Ballarini
+    
+        AU - Arturo E. Schultz
+    
+        AU - Theodore V. Galambos
+    
+
+TI - Nonlinear Finite-Element Analysis of Critical Gusset Plates in the I-35W Bridge in Minnesota
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 59-68
+VI - 137
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000269 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000269
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000269
+SO - Journal of Structural Engineering 2011-01-01 137(1): 59-68
+AB - Reported evidence suggests that failure of gusset plates initiated the collapse of the I-35W Bridge in Minneapolis, Minnesota. The particular gusset plates were at a panel point designated as U10. Therefore, an analytical investigation was conducted on the condition of the U10 gusset plates at the time of bridge collapse. The forces delivered to panel point U10 were reproduced using available information of the bridge. These forces were introduced to detailed nonlinear three-dimensional finite-element models to calculate stress and strain states of the gusset plates. The results indicate that substantial portions of the U10 gusset plates were yielded at the time of collapse, confirming earlier findings from federal and state investigations. Weight increase due to past deck reconstruction and construction material and equipment staged on the day of collapse, along with insufficient thickness of the gusset plate, were identified as the main contributing factors to the substantial yielding. The results also suggest that the interaction of compression and shear played an important role in the gusset plate failure.
+
+
+    
+        AU - N. K. Raut
+    
+        AU - V. K. R. Kodur
+    
+
+TI - Response of High-Strength Concrete Columns under Design Fire Exposure
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 69-79
+VI - 137
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000265 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000265
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000265
+SO - Journal of Structural Engineering 2011-01-01 137(1): 69-79
+AB - The behavior of RC columns, especially those fabricated from high-strength concrete (HSC), under design fire exposure is not well quantified. Results from fire resistance experiments on six RC columns are presented in this paper. The test variables include concrete strength (permeability), fire scenario, load ratio and the presence of polypropylene fibers in concrete mix. Data from these fire tests is used to validate a macroscopic finite element model specifically developed for tracing the fire response of RC columns. Results from fire tests and numerical studies are used to illustrate the comparative performance of HSC and normal-strength concrete (NSC) columns under design fire conditions. Results from fire experiments show that HSC columns exhibit lower fire resistance than that of NSC columns. However both HSC and NSC columns do not experience failure under most design fire scenarios. The addition of polypropylene fibers to concrete mitigates fire-induced spalling and enhances fire resistance of HSC columns.
+
+
+    
+        AU - Hongxia Yu
+    
+        AU - I. W. Burgess
+    
+        AU - J. B. Davison
+    
+        AU - R. J. Plank
+    
+
+TI - Experimental and Numerical Investigations of the Behavior of Flush End Plate Connections at Elevated Temperatures
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 80-87
+VI - 137
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000277 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000277
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000277
+SO - Journal of Structural Engineering 2011-01-01 137(1): 80-87
+AB - This paper reports on a set of test results on flush end plate connections at ambient and elevated temperatures. The experiments aimed to investigate the behavior of connections at the ends of unprotected beams in fire situations, when they may be subjected to significant tying forces and large rotations at elevated temperatures, as a consequence of high beam deflection. A change in first fracture mode was observed with increasing temperature as the failing component became the bolts rather than the end plate as the strength of bolts reduces faster than that of steel in fire. At elevated temperatures, the use of thicker end plates can enhance the peak resistance, but reduces the rotational capacity of the connection. Finite-element analyses were performed to simulate the tested connections, and gave predictions very close to the observed behavior of the connections in both the loading and the postpeak resistance phases for all the tests at high temperatures. Via these simulations, minor cracks in the end plate, which were widely observed during the tests, were found to have little effect on the overall resistance. Development of the forces in each bolt row showed that, at the peak resistance of the connection force, their distribution can be far from uniform, which emphasizes the need for the full load-displacement-temperature relationships of bolt rows in simplified (component-based) analysis methods.
+
+
+    
+        AU - Ehab Hamed
+    
+        AU - Mark A. Bradford
+    
+        AU - R. Ian Gilbert
+    
+        AU - Zhen-Tian Chang
+    
+
+TI - Analytical Model and Experimental Study of Failure Behavior of Thin-Walled Shallow Concrete Domes
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 88-99
+VI - 137
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000274 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000274
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000274
+SO - Journal of Structural Engineering 2011-01-01 137(1): 88-99
+AB - The failure behavior of thin-walled shallow concrete domes under short-term and long-term loading is investigated theoretically and experimentally. The paper focuses on the long-term effects of creep and shrinkage, the material nonlinearity of the concrete under biaxial loading, and the geometric nonlinearity aspects of the structure through the development of nonlinear theoretical models for the short-term and long-term analyses. Special attention to the phenomenon of creep buckling is given in the development of the model, but without considering the nonaxisymmetric bifurcation response. The experimental phase involves the testing of two shallow domes. The first is loaded to failure under a gradually increasing pressure. The second dome is subjected to a constant sustained pressure for a period of 2.5 months. A series of tests for the characterization of the mechanical properties of the concrete, and its creep and shrinkage characteristics is also reported. The results and the theoretical-experimental comparison provide insight into the failure behavior of shallow concrete domes under both short-term and sustained loading, and contribute to the understanding of failure behavior of general concrete shells.
+
+
+    
+        AU - H. Mostafaei
+    
+        AU - F. J. Vecchio
+    
+        AU - P. Gauvreau
+    
+        AU - M. Semelawy
+    
+
+TI - Punching Shear Behavior of Externally Prestressed Concrete Slabs
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 100-108
+VI - 137
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000283 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000283
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000283
+SO - Journal of Structural Engineering 2011-01-01 137(1): 100-108
+AB - The use of externally post-tensioned fiber-reinforced concrete decks in highway bridge structures is seen as a viable option in the move toward the design and construction of high-performance structures. However, with the thin unreinforced deck slabs that may result, punching shear is a potential concern. An experimental program is described in which the punching shear behavior of externally prestressed slabs is investigated, both with plain and fiber-reinforced concrete specimens. Results indicate that significant improvements in strength, ductility, energy absorption and nonbrittleness of failure can be achieved with fiber reinforcement. Nonlinear finite-element analysis procedures are used to model the specimens, and reasonably accurate simulations of behavior are obtained. Design code procedures are found to be unconservative in estimating the punching shear strength of these elements, whereas a commonly used analytical model is found to be overly conservative.
+
+
+    
+        AU - M. Rezaiee-Pajand
+    
+        AU - J. Alamatian
+    
+
+TI - Automatic DR Structural Analysis of Snap-Through and Snap-Back Using Optimized Load Increments
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 109-116
+VI - 137
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2011)137:1(109) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282011%29137%3A1%28109%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282011%29137%3A1%28109%29
+SO - Journal of Structural Engineering 2011-01-01 137(1): 109-116
+AB - In this paper, new schemes are presented for the dynamic relaxation (DR) method so that the snap-through and the snap-back regions can be traced automatically. These procedures are based on the minimization of the residual force (MRF) and minimization of the residual energy (MRE), and they are capable of updating the load factor in each DR iteration. The suggested techniques are perfectly automatic. Therefore, they do not require any additional parameters such as arc length, incremental displacement, etc. For numerical verification, some frame and truss structures, all possessing geometrical nonlinear behaviors, are analyzed. Tracing the statical path shows that both the MRF and MRE methods can be used successfully in structures with snap-through and snap-back regions. The numerical results indicate that the MRE scheme traces the statical path with a greater number of increments than the MRF. While the jumping probability of the MRE is less than that of the MRF, the analysis time may increase in the MRE. Also, a comparison between the proposed DR methods and arc-length approach shows that the MRF and MRE procedures can present the limit points with higher accuracy.
+
+
+    
+        AU - Xian Xu
+    
+        AU - Yaozhi Luo
+    
+
+TI - Multistable Tensegrity Structures
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 117-123
+VI - 137
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000281 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000281
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000281
+SO - Journal of Structural Engineering 2011-01-01 137(1): 117-123
+AB - Tensegrity structures have been intensively studied since they appeared in the 1950s. Their applications have been extended from architecture to other areas including aerospace structures, cell mechanics, and robotics. In this paper, an interesting characteristic, the so-called multistability, is reported. A detailed investigation on a multistable tensegrity structure whose basic stable configuration corresponds to the expanded octahedron tensegrity is presented. Using an evolutionary form-finding scheme, together with the dynamic relaxation method, two other self-equilibrated configurations with higher strain energies are found. The stabilities of these configurations are verified by a matrix analysis process. Then, an investigation on the actuations and the corresponding threshold energies triggering the transformations between the different configurations is carried out. A typical set of actuation loads and the corresponding threshold energies for the state transformations are identified. The existence and the stability of the multistable configurations are verified by physical models. This study provides a theoretical basis for the further applications of multistable tensegrity structures.
+
+
+    
+        AU - Joseph F. Miller
+    
+        AU - William M. Bulleit
+    
+
+TI - Analysis of Mechanically Laminated Timber Beams Using Shear Keys
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 124-132
+VI - 137
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000273 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000273
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000273
+SO - Journal of Structural Engineering 2011-01-01 137(1): 124-132
+AB - Small timber layers can be mechanically laminated into a larger timber cross section using shear keys to prevent slip between the layers. These mechanically laminated beams are commonly referred to as keyed beams and their use has a strong historical precedence. Current building codes and design standards do not provide adequate guidelines for the analysis of keyed beams. This project examined the applicability of an interlayer slip model to predict the partially composite behavior of the keyed beams. Solutions to the interlayer slip model for common loading configurations were developed, as were stiffness parameters for the semirigid wooden shear keys used to provide composite action. Small and full-scale testing of timber components was also performed to verify the interlayer slip model’s ability to predict the stiffness of specific keyed beam specimens. A comparison of the interlayer slip model to historical keyed beam test data was also conducted. The interlayer stiffness model, as well as the analytical shear key stiffness parameters, was able to accurately predict both the behavior for the full-scale keyed beams tested specifically for this research as well as the historic keyed beam behavior. Shear key configuration, moisture content, and clamping connector stiffness all played significant roles in the actual keyed beam stiffness.
+
+
+    
+        AU - Ah Lum Hong
+    
+        AU - Filippo Ubertini
+    
+        AU - Raimondo Betti
+    
+
+TI - Wind Analysis of a Suspension Bridge: Identification and Finite-Element Model Simulation
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 133-142
+VI - 137
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000279 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000279
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000279
+SO - Journal of Structural Engineering 2011-01-01 137(1): 133-142
+AB - A framework for numerically predicting the wind-excited response of suspension bridges with a certain level of confidence is established by means of output only system identification, model updating, wind-response simulation, and input-output comparison. A real case study represented by the identification and analysis of a newly built suspension bridge is considered. In system identification, the estimates of the modal parameters of the structure are provided with uncertainty bounds that take into account variations in identified modal features arising from different selections of the main parameters in the implementation of the identification technique. Based on the identified modal parameters, a finite-element model of the bridge is updated via an optimization technique. The updated model is then employed for numerically predicting the wind-excited structural response. Comparison with recorded data allows to check the accuracy of the model’s predictions as well as to indicate possible strategies for refining the monitoring system and the model itself.
+
+
+    
+        AU - Q. S. Li
+    
+        AU - Lun-Hai Zhi
+    
+        AU - Alex Y. Tuan
+    
+        AU - Chin-Sheng Kao
+    
+        AU - Sheng-Chung Su
+    
+        AU - Chien-Fu Wu
+    
+
+TI - Dynamic Behavior of Taipei 101 Tower: Field Measurement and Numerical Analysis
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 143-155
+VI - 137
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000264 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000264
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000264
+SO - Journal of Structural Engineering 2011-01-01 137(1): 143-155
+AB - This paper presents selected results measured from a monitoring system with 30 accelerometers installed at six floor levels in 508-m high Taipei 101 Tower located in Taipei City, Taiwan where earthquakes and strong typhoons are common occurrences. Emphasis is placed on analyzing the data recorded during three typhoons (Matsa, Talim, and Krosa) and a seismic event (Wenchuan earthquake occurred on May 12, 2008 in Shichuan, China) to investigate the effects of wind and seismic on the supertall building. Dynamic characteristics of the tall building such as natural frequencies, mode shapes, and damping ratios determined from the measured data are presented and compared with those calculated from the finite-element model of the high-rise structure. The seismic performance of this supertall building to a long distance earthquake (Wenchuan earthquake) is assessed based on the field measurements and numerical analysis. The findings of this study are expected to be of considerable interest and practical use to professionals and researchers involved in the design of supertall buildings.
+
+
+    
+        AU - Cheng Yu
+    
+        AU - Ke Xu
+    
+        AU - Ibraheem Sheerah
+    
+
+TI - Bearing Strength of Cold-Formed Steel Bolted Connections Using Oversized Holes without Washers
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 156-159
+VI - 137
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0000270 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000270
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000270
+SO - Journal of Structural Engineering 2011-01-01 137(1): 156-159
+AB - This note presents an experimental study of the bearing strength of cold-formed steel (CFS) bolted connections using oversized holes without washers. The test parameters include the sheet thickness, the connection type, the number of bolts, and the bolt diameter. The test results indicate that the use of oversized holes without washers will cause excessive connection deformation and reduce the connection strength. Based on the test data, a new design method is developed to accurately determine the bearing strength of CFS bolted connections when oversized hole is used without washers.
+
+

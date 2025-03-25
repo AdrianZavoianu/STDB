@@ -1,0 +1,182 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Jong-Cheng Wu
+    
+        AU - Ying-Chieh Chang
+    
+
+TI - Along-Wind Aero-Elasticity of High-Rise Buildings by Using Indirect Forced Actuation Technique
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 791-802
+VI - 137
+IP - 8
+AID - 10.1061/(ASCE)ST.1943-541X.0000325 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000325
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000325
+SO - Journal of Structural Engineering 2011-08-01 137(8): 791-802
+AB - The frequency-dependent aerodynamic damping and stiffness of high-rise buildings in along-wind motion have been systematically investigated and compared through wind tunnel tests under smooth wind flow. A novel identification scheme based on the indirect forced actuation technique was developed, involving only a simple curve-fitting technique on the frequency response function induced by the actuation. To ensure that global minimization in curve-fitting was achieved, a genetic algorithm and a conventional gradient search method were used in obtaining the final results. An alternative derivation of the frequency response function via the time-domain state space equation is also presented, which has the supporting advantage that the simulation of time history of the structural response becomes possible. To demonstrate the approach, various prism models representing different high-rise buildings with varied aspect ratios and height-width ratios were used in the experimental identification. A total of nine models with 15 different configurations were successfully tested and identified using the proposed identification scheme. The experimental results indicated that the wind flow suppresses the along-wind vibration and the effect becomes stronger as the wind velocity increases. The identified results showed that aerodynamic damping is always negative (and hence stabilizes the structure) and monotonically decreases with increasing reduced velocity. At the same reduced wind velocity, the aerodynamic damping becomes more significant as the height increases. The trend of the aerodynamic stiffness and its relation to the height is not clear and depends on each particular case. Considering approximation, the formulas of constant aerodynamic damping and stiffness ratios are also presented for comparison. Overall, the frequency-dependent aerodynamic damping and stiffness presented in this paper provide the database that can serve as a guideline for practical application.
+
+
+    
+        AU - C. Amadio
+    
+        AU - C. Bedon
+    
+
+TI - Buckling of Laminated Glass Elements in Compression
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 803-810
+VI - 137
+IP - 8
+AID - 10.1061/(ASCE)ST.1943-541X.0000328 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000328
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000328
+SO - Journal of Structural Engineering 2011-08-01 137(8): 803-810
+AB - Monolithic and laminated glass beams or panes are frequently adopted as structural elements in modern and innovative architectural applications. Several aspects related to the load-carrying behavior of these new construction elements are very complex to evaluate. For example, the degradation of mechanical properties of the interlayer, the amplitude of the imperfections affecting the beams, or the presence of added external loads represent only some aspects that contribute to the complexity of evaluating the buckling response of these innovative structural components, characterized by high slenderness ratios and brittle behavior in tension. For these reasons, the buckling of laminated glass beams in compression is investigated in this paper by using a simple analytical model developed on the basis of Newmark’s theory of composite beams with deformable connections. Buckling curves are presented to illustrate how a combination of simultaneous weathering variations, initial imperfections, or particular load conditions can affect the response of compressed laminated glass beams and cause their failure.
+
+
+    
+        AU - Michael C. H. Yam
+    
+        AU - Gilbert Y. Grondin
+    
+        AU - Feng Wei
+    
+        AU - K. F. Chung
+    
+
+TI - Design for Block Shear of Coped Beams with a Welded End Connection
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 811-821
+VI - 137
+IP - 8
+AID - 10.1061/(ASCE)ST.1943-541X.0000343 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000343
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000343
+SO - Journal of Structural Engineering 2011-08-01 137(8): 811-821
+AB - This paper presents a numerical study of the block shear strength and behavior of coped beams with welded end connections. The finite-element (FE) method was employed to predict the structural behavior and block shear capacity of specimens tested during a previous experimental study conducted by the writers. In general, the finite-element analysis results compared well with the test results, and the validated finite-element models were used subsequently to further investigate the structural behavior of the connections through a parametric study. The results show that the block shear capacity of coped beams with welded end connections, in general, increases with increasing connection rotational stiffness and increasing web block aspect ratio (depth/width). It was found that, for design purposes, connections with a large web block aspect ratio (large depth and narrow width) should be used to reduce the effects of loading eccentricity between the centroid of the weld group of the connection and the support. The finite-element analysis results also show that, for the coped beams with small connection rotational stiffness, shear yielding only occurs over a small portion of the shear area. Based on the test and the finite-element analysis results, a design equation previously proposed by the first writer for evaluating the block shear capacity of a coped beam with a welded clip angle connection was modified to account for the effects of the connection rotational stiffness. The predictions based on the modified design equation compare well with the test and the finite-element analysis results. The ratio of the test and the FE capacities to the predicted capacities has a mean of 1.01 and a coefficient of variation of 0.05.
+
+
+    
+        AU - Hiroshi Kuramoto
+    
+        AU - Bing Li
+    
+        AU - Kimreth Meas
+    
+        AU -  Fauzan
+    
+
+TI - Experimental and Analytical Performance Evaluation of Engineering Wood Encased Concrete-Steel Beam-Column Joints
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 822-833
+VI - 137
+IP - 8
+AID - 10.1061/(ASCE)ST.1943-541X.0000334 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000334
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000334
+SO - Journal of Structural Engineering 2011-08-01 137(8): 822-833
+AB - The seismic performance of engineering wood encased concrete-steel (EWECS) beam-column joints is investigated and reported within this paper. Experimental and analytical investigation was carried out on a total of two interior and two exterior beam-column joints. These four beam-column joints typically consisted of an EWECS column and a wood encased steel beam. The primary parameter was the failure modes of the specimens, namely the beam flexural failure and the joint shear failure. The response of the specimens was presented in terms of their hysterisis loop behavior, crack pattern, joint shear distortion, and deformation decomposition ratios. In addition, the results obtained from a three-dimensional nonlinear finite-element analysis simulating their seismic behaviors were also compared with the test data. The finite-element analysis incorporated both bond stress-slip relationship and crack interface interaction at the unbonded connection region. The analytical prediction of joint shear strength was satisfactory for both interior and exterior joints. This validated numerical model was subsequently used to examine the contributions of the steel frame mechanism formed by the column flange, column web, and stiffener.
+
+
+    
+        AU - Serhan Guner
+    
+        AU - Frank J. Vecchio
+    
+
+TI - Analysis of Shear-Critical Reinforced Concrete Plane Frame Elements under Cyclic Loading
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 834-843
+VI - 137
+IP - 8
+AID - 10.1061/(ASCE)ST.1943-541X.0000346 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000346
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000346
+SO - Journal of Structural Engineering 2011-08-01 137(8): 834-843
+AB - An analytical procedure was recently developed for the nonlinear analysis of reinforced concrete frame structures consisting of beams, columns, and shear walls under monotonic loading. The procedure is distinct from others because it is capable of inherently and accurately considering shear effects and significant second-order mechanisms with a simple modeling process suitable for use in practice. In this study, the procedure is further developed to enable the performance assessment of shear-critical frame structures under general (arbitrary) loading, including the special cases of cyclic and reversed-cyclic loads. Newly developed and implemented formulations are described and applied to 11 previously tested specimens for verification. Important considerations in nonlinear modeling and the limitations of the procedure are also discussed. The procedure is found to accurately simulate the overall experimental behaviors of the specimens examined. Performance measures, such as load and deformation capacities, stiffnesses, energy dissipations, ductilities, failure modes, crack widths, and reinforcement strains, are typically captured well. The procedure exhibits excellent convergence and numerical stability, requiring little computational time.
+
+
+    
+        AU - Chiara Crosti
+    
+        AU - Dat Duthinh
+    
+        AU - Emil Simiu
+    
+
+TI - Risk Consistency and Synergy in Multihazard Design
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 844-849
+VI - 137
+IP - 8
+AID - 10.1061/(ASCE)ST.1943-541X.0000335 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000335
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000335
+SO - Journal of Structural Engineering 2011-08-01 137(8): 844-849
+AB - Current design procedures in the United States use the envelope of individual hazard demands on a structure to ensure safety against multiple hazards. A difficulty in multihazard design for wind and earthquake is that the load and resistance factor method makes use of different design philosophies developed by different subdisciplines. Seismic design explicitly allows for inelastic behavior. In contrast, wind design assumes that, before application of a resistance factor less than unity, the limit state is defined by the development of the first plastic hinge in a structural member. This paper focuses on the issue of risk consistency in multihazard design, and shows that, in spite of this difficulty, it is possible to quantify the risks of arriving at a particular lateral drift state for structures exposed to multiple nonsimultaneous hazards and to compare them to the risks for the same structures subjected to a single hazard. A second focus is the issue of multihazard design synergy. It has been pointed out that redetailing a building to current seismic codes can increase its resistance to blast and that structural efficiency and life-cycle cost are influenced by multihazard considerations. This paper shows that, for the case study of a 10-story steel-frame building, the use of reduced beam section (RBS) connections, intended to enhance ductility in seismic design, does not reduce the risk of structural damage caused by exposure to wind alone or exposure to wind or earthquakes.
+
+
+    
+        AU - Yoshiaki Goto
+    
+        AU - Naoki Kawanishi
+    
+        AU - Issei Honda
+    
+
+TI - Dynamic Stress Amplification Caused by Sudden Failure of Tension Members in Steel Truss Bridges
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 850-861
+VI - 137
+IP - 8
+AID - 10.1061/(ASCE)ST.1943-541X.0000338 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000338
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000338
+SO - Journal of Structural Engineering 2011-08-01 137(8): 850-861
+AB - The property of dynamic stress amplification resulting from the sudden failure of a tension member in a truss bridge is investigated by a precise dynamic response analysis. The primary sources of the dynamic stress amplification are from two types of impacts. The primary impact is attributable to longitudinal strain wave propagation from a failure point. The secondary impact is a result of the dynamic transition of equilibrium from a prefailure to a postfailure state. However, the effect of the primary impact is so small that it can be ignored in evaluating the impact coefficients used for the structural redundancy analysis. The impact coefficients for critical members in a structure take almost a constant value that ranges from 1.4 to 1.8, for which 5% structural damping is assumed, following the single degree of freedom model employed to evaluate the existing impact coefficient of 1.854. To avoid a cumbersome dynamic response analysis, the root mean square mode combination method is applied to calculate approximately the impact coefficients. The impact coefficients so calculated are moderately accurate for practical purposes.
+
+
+    
+        AU - R. Tabatabaei
+    
+        AU - H. Saffari
+    
+
+TI - Evaluation of the Torsional Response of Multistory Buildings Using Equivalent Static Eccentricity
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 862-868
+VI - 137
+IP - 8
+AID - 10.1061/(ASCE)ST.1943-541X.0000324 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000324
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000324
+SO - Journal of Structural Engineering 2011-08-01 137(8): 862-868
+AB - The equivalent static eccentricities of seismic forces are usually defined by building codes with simple expressions of the static eccentricity. The inelastic torsional response of multistory buildings using nonlinear static analysis (NL-SA) with the equivalent static eccentricities is less easily predictable because the response is influenced by the extent of plastic deformations, and the eccentricity varies story by story at each step. To overcome this weakness, it is necessary to change the location of static eccentricity in each step of the NL-SA method. In this paper, a simplified procedure for the correct calculation using the NL-SA method with varying static eccentricity based on the modal response of a single-story scheme is presented. In order to estimate torsional effects on the seismic response, the associated plastic mechanism is developed in a three dimensional model of building, using an updated version of the DRAIN-3DX program. The torsional response of three different structural systems with different eccentricities and varying ground excitations is investigated. The results of the nonlinear response history analysis (NL-RHA) indicate that the torsional responses using the proposed procedure (using updated static eccentricity) and those obtained by the adaptive modal combination (AMC) method at both the flexible edge and the stiff edge are more consistent than the NL-SA with static eccentricity.
+
+

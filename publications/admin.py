@@ -1,6 +1,7 @@
 from django.contrib import admin
 
-from .models import DocumentType, JournalPublication
+from .models import (ASCEJournalStructuralEngineering, DocumentType,
+                     JournalPublication)
 
 # Register your models here.
 
@@ -12,3 +13,8 @@ class DocumentTypeAdmin(admin.ModelAdmin):
 class JournalPublicationAdmin(admin.ModelAdmin):
     list_display = ("id", "name", "doc_type","code")
     search_fields = ("name",)
+@admin.register(ASCEJournalStructuralEngineering)
+class ASCEJournalStructuralEngineering(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year","filename")
+    search_fields = ("title", "authors", "abstract")
+    list_filter = ("volume", "issue", "year")

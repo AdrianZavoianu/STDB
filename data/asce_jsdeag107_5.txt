@@ -1,0 +1,600 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - J. Y. Liu
+    
+
+TI - Shear Strength of Tapered Wood Beams
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 719-731
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005700 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005700
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005700
+SO - Journal of the Structural Division 1981-05-01 107(5): 719-731
+AB - The analysis of a size-strength relationship for the shear strength of rectangular wood beams based on Weibull's theory of brittle failure has been extended to cover tapered wood beams. The important design parameters have been identified in the analysis. The numerical data for Douglas fir beams are presented in graph form, making it straightforward to extend the results to other wood species. The analysis of the present work is two-dimensional, and is general enough to consider all practical loading conditions in the plane. However, only a few important loading conditions are considered in generating the design curves for Douglas fir. Design procedures are illustrated by numerical examples.
+
+
+    
+        AU - T. Ivan Campbell
+    
+        AU - Barrington de V. Batchelor
+    
+
+TI - Effective Width of Girder Web Containing Prestressing Duct
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 733-744
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005701 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005701
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005701
+SO - Journal of the Structural Division 1981-05-01 107(5): 733-744
+AB - The effective web width to be used in the shear design of a thin-webbed concrete beam, containing longitudinal prestressing ducts in the web, is examined. Various expressions proposed for the effective web width are reviewed and compared with data from plain concrete prisms loaded in axial compression and from tests on beams which failed in the web crushing mode and which contained a duct in the web. Prism tests do not accurately simulate the behavior of the web in diagonal compression. An effective web width based on data from beam tests is proposed, and a chart for use in computing the shear strength based on web crushing is included.
+
+
+    
+        AU - Kanji Imai
+    
+        AU - Lucien A. Schmit
+    
+
+TI - Configuration Optimization of Trusses
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 745-756
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005702 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005702
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005702
+SO - Journal of the Structural Division 1981-05-01 107(5): 745-756
+AB - A minimum weight design of trusses is considered by including sizing and configuration variables simultaneously in the design space. Second-order Taylor series expansions of displacement quantities are used along a search direction in order to avoid large numbers of complete structural analyses. Disjoint feasible regions are recognized. Side constraints on nodal coordinates are used to avoid analyses for structures with statically unstable configurations. A primal-dual method, called the multiplier method, is employed as an optimization tool.
+
+
+    
+        AU - Bruce Ellingwood
+    
+
+TI - Analysis of Reliability for Masonry Structures
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 757-773
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005703 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005703
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005703
+SO - Journal of the Structural Division 1981-05-01 107(5): 757-773
+AB - Strength design and the use of loading criteria, based on probabilistic limit states design principles, are relatively new concepts in the masonry area. These concepts afford a number of advantages for design. Their implementation requires an assessment of the following: statistical data on masonry strength, the establishment of appropriate measures of reliability for design, and the development of safety factors to be applied to material and load variables. Available strength data on brick and concrete masonry construction are summarized, and a few reliability calculations are made to show how masonry compares with other engineered construction materials.
+
+
+    
+        AU - Graham W. Taylor
+    
+        AU - Joseph Warwaruk
+    
+
+TI - Strength and Deformation of Pretensioned Box Girders
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 775-788
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005704 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005704
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005704
+SO - Journal of the Structural Division 1981-05-01 107(5): 775-788
+AB - An analytical computer model is developed to analyze prestressed concrete box girders subjected to torque, bending moment, and shear. Its performance is evaluated in comparison with results of experimentation and current theory. Emphasis is placed on the prediction of post-cracking member deformations in addition to ultimate member strength. The analytical flexibility of the computer model is illustrated in contrast to the restrictive assumptions encountered in current theory. Being afflicted by only one serious shortcoming (which involves the variation of magnitude of the shear stress from the outside to the inside edge and which is not significant in box girders of common cross-sectional geometry), the computer model is a flexible, comprehensive mode of analysis whose range of application is limited by few constraints.
+
+
+    
+        AU - Peter Swannell
+    
+
+TI - Rational Design of Fillet Weld Groups
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 789-802
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005705 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005705
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005705
+SO - Journal of the Structural Division 1981-05-01 107(5): 789-802
+AB - Rational methods of analysis and design of fillet weld groups are presented. Concise statements of current elastic limiting stress procedures are used to provide information in the form of design charts. Experimental and theoretical studies of ultimate load behavior are described, and empirical constitutive laws are used to generate ultimate load charts predicting the static strength of a wide range of fillet welds carrying in-plane moment and shear. There appears to be excellent supportive evidence for the accuracy of the ultimate load model, and there would appear to be the basic of a more rational approach to fillet weld design. The insensitivity of the model to details of the coupon-modeling behavior is important and suggests the possibilty of fairly easy extension into areas where significantly larger leg lengths are required.
+
+
+    
+        AU - Peter Swannell
+    
+
+TI - Weld Group Behavior
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 803-815
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005706 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005706
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005706
+SO - Journal of the Structural Division 1981-05-01 107(5): 803-815
+AB - Methods for calculating the ultimate loads of fillet weld groups are explored, and results are compared with elastic limiting loads. The position of the instantaneous center of rotation of an example weld group is traced throughout a load history from zero through to failure. The significance of pure shear and pure moment loading conditions are examined, and an example calculation is described. The computational procedures necessary for the solution of a general in-plane, generally loaded weld group are described.
+
+
+    
+        AU - Chandrakant S. Desai
+    
+        AU - Ahmad R. Alameddine
+    
+        AU - Thangavelu Kuppusamy
+    
+
+TI - Pile Cap-Pile Group-Soil Interaction
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 817-834
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005707 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005707
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005707
+SO - Journal of the Structural Division 1981-05-01 107(5): 817-834
+AB - A numerical procedure based on the finite element method is proposed for the analysis of structural systems composed of beam-column (pile), plate (cap) and nonlinear springs (soil). It integrates one-and two-dimensional idealizations for these components in order to obtain an approximation to the three-dimensional problem. It allows for soil-structure interaction effects as influenced by nonlinear soil behavior, loss of contact and tensile stress conditions. The predictions from the procedure show satisfactory comparison with results from other numerical procedures and laboratory observations. A parametric study is conducted to indentify the influence of relative stiffnesses on distribution of loads and displacements in the cap-pile-soil system. The procedure can permit computation of the histories of stresses, moments and displacements in the entire system.
+
+
+    
+        AU - John M. Lybas
+    
+
+TI - Concrete Coupled Walls: Earthquake Tests
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 835-855
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005708 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005708
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005708
+SO - Journal of the Structural Division 1981-05-01 107(5): 835-855
+AB - Tests of six approximately one-twelfth scale reinforced concrete coupled walls under seismic loading are described; the results are compared to collapse mechanisms calculated by conventional means. Five structures were subjected, on an earthquake simulator, to the base acceleration record measured at El Centro, California, during the Imperial Valley earthquake of 1940; one was subjected to slow cyclic loading into the inelastic range. The major variables in the study were the strength and stiffness of the connecting beams. In evaluating the experimental results, the effect of microcracking on the initial stiffness of the structure is noted, as are the effects of higher mode response in the accelerations, base shear and base moment. Using lateral loading in the shape of the first mode, the collapse mechanisms for the test structures, varying with strength and stiffness of the connecting beams, were determined.
+
+
+    
+        AU - Michael E. Harris
+    
+        AU - Carl J. Bova
+    
+        AU - Ross B. Corotis
+    
+
+TI - Area-Dependent Processes for Structural Live Loads
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 857-872
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005709 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005709
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005709
+SO - Journal of the Structural Division 1981-05-01 107(5): 857-872
+AB - Previously developed live load process models for building loads are generalized to include area dependence for several different occupancies. Several approximations in the process models are investigated through more rigorous expressions. A number of simplifying assumptions employed in deriving lifetime maximum total load statistics are substantiated by simulation of lifetime processes with sustained and extraordinary load components. A multiple extraordinary load model more realistically reflects a variety of unusual loading situations; multiple load occurrence and finite duration are included. Mean lifetime maximum total loads for a few different occupancies are seen to be in general agreement with various model code formulations, and a need for greater data in indicated.
+
+
+    
+        AU - Prakash Desayi
+    
+        AU - Anantharamaiah Prabhakara
+    
+
+TI - Load-Deflection Behavior of Restrained R/C Skew Slabs
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 873-888
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005710 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005710
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005710
+SO - Journal of the Structural Division 1981-05-01 107(5): 873-888
+AB - A method is presented for determining the complete load-deflection behavior of reinforced concrete skew slabs restrained at the edges and subjected to uniformly-distributed loading. The analysis is considered in three stages. In the first stage the load-deflection behavior up to the cracking load is considered. The behavior between the cracking load and the yield line load is considered in the second stage. The load-deflection behavior beyond the yield line load, taking into account the effect of the membrane action, is considered in the third stage. Details of an experimental program of casting and testing 12 reinforced concrete skew slabs restrained at the edges are presented to verify the results of the analysis.
+
+
+    
+        AU - Dario A. Gasparini
+    
+        AU - Amitabha DebChaudhury
+    
+        AU - Lawrence W. Curry
+    
+
+TI - Damping of Frames with Viscoelastic Infill Panels
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 889-905
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005711 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005711
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005711
+SO - Journal of the Structural Division 1981-05-01 107(5): 889-905
+AB - The effectiveness of energy absorbing infill panels as a passive means for increasing damping and minimizing vibration is examined. Methods for designing such infills, simplified models for dynamic analysis and analyses for predicting effective damping are considered. Viscoelastic constitutive equations are used to model the linear damping capacity of steel and the highly damped material. The effective damping of infilled frames is determined by computing steady state responses to harmonic lateral excitation. A particular infill panel configuration is suggested, and a simplified dynamic model, consisting of an equivalent plain stress rectangle, is verified and used for the dynamic analyses. Steady state responses are computed for a sixteen story, steel rigid frame with and without infill panels. Significant increases in the damping of the steel frame can be realized.
+
+
+    
+        AU - Barrington deV. Batchelor
+    
+        AU - Mankit Kwun
+    
+
+TI - Shear in RC Beams without Web Reinforcement
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 907-921
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005712 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005712
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005712
+SO - Journal of the Structural Division 1981-05-01 107(5): 907-921
+AB - A summary of a study of the shear strength of nonprestressed reinforced concrete beams is presented, which was aimed at assessing the feasibility of the basic shear stress equation proposed by the former ACI-ASCE Committee 426. The main variable in the study is longitudinal reinforcement ratio. All beams had a shear span/depth ratio of at least 2.0 and contained no shear reinforcement. The data base used in the statistical analysis is comprised of the following: 266 beams reported in the literature, and the results of ten beams which were fabricated and tested as a part of the study. The equation for basic shear stress proposed by ACI-ASCE Committee 426 is compared with linear, bilinear and nonlinear forms developed from the statistical analysis, as well as with the recommendations of other researchers and the provisions of various codes of practice.
+
+
+    
+        AU - Simon Simon
+    
+        AU - Pedro Albrecht
+    
+
+TI - Adding Fatigue Life to Cover Plate Ends
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 923-935
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005713 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005713
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005713
+SO - Journal of the Structural Division 1981-05-01 107(5): 923-935
+AB - A parametric analysis was performed of simple-span and two-span continuous bridge girders with cover plates. The cover plates were either end-bolted or end-welded and ground, with available data suggesting a fatigue resistance corresponding to Category B and C, respectively. All results were compared with conventionally welded cover plates, with ends designed to Category E. End-bolted cover plates need not be extended beyond the theoretical cut-off point because fatigue does not control the design for any loading case. Stress ranges are lower than the fatigue limit, and girders up to 5 percent lighter. When the end weld is ground to a 1:3 taper, fatigue governs the cover plate length for over 2 million cycles, but not for 500,000 cycles. Girders weigh up to 3.7 percent less. The saving in the cost of cover plate material is equal to or greater than the added cost of end-bolting or end-grinding.
+
+
+    
+        AU - Mehdi Saiidi
+    
+        AU - Mete A. Sozen
+    
+
+TI - Simple Nonlinear Seismic Analysis of R/C Structures
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 937-953
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005714 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005714
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005714
+SO - Journal of the Structural Division 1981-05-01 107(5): 937-953
+AB - A simple analytical model is developed for the calculation of the seismic displacement history response of reinforced concrete frame and frame-wall structures. The computer cost for the model is approximately three precent of that for a MDOF system. A structure is idealized as a single-degree system consisting of a mass mounted on a rigid bar connected to the ground by a hinge and a nonlinear rotational spring. The primary force-deformation relationship for the spring is obtained by a static analysis of the multistory structure. To account for stiffness changes during an earthquake, a simple hysteresis model comprising only four rules is developed. The model is examined for eight small-scale ten-story reinforced concrete test structures, and the analytical results are compared with the measured response histories. The model is shown to be successful in most instances.
+
+
+    
+        AU - Eric F.P. Burnett
+    
+        AU - Ahmed H. Anis
+    
+
+TI - Bond Characteristics of Initially Untensioned Strand
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 953-964
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005715 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005715
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005715
+SO - Journal of the Structural Division 1981-05-01 107(5): 953-964
+AB - A general hypothesis is developed for the pullout response of initially untensioned but rotationally restrained, seven-wire prestressing strand from concrete. Pertinent experimental data are provided and examined. The bond characteristics of strand are unique and warrant further study. Practical uses of the pullout capabilities of strand are covered. Some consideration is given to the various forms of pullout test.
+
+
+    
+        AU - Yi-Kwei Wen
+    
+
+TI - Clustering Model for Correlated Load Processes
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 965-983
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005716 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005716
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005716
+SO - Journal of the Structural Division 1981-05-01 107(5): 965-983
+AB - Many loading on structures (such as wind, wave, snow, and rain-on-snow) may be due to a common source and have a tendency to cluster around common points in time so that the occurrence dependence may be an important factor in load combination analysis. Based on a multivariate point process, an analytical model is presented to take such occurrence dependence into consideration. Methods for analysis of mean rate of load coincidence and probability of combined load are developed as an extension of the load-coincidence method previously proposed. Approximate solutions are obtained in simple, closed form. The accuracy of the method is verified by Monte-Carlo simulations. The load coincidence rate is extremely sensitive to occurrence clustering. As a result, when such dependence exists and is not considered, the estimate of the probabilty of combined maximum, as well as the reliability of structure could be seriously in error.
+
+
+    
+        AU - Edward J. Rhomberg
+    
+        AU - Walter M. Street
+    
+
+TI - Optimal Design of Retaining Walls
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 992-1002
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005717 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005717
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005717
+SO - Journal of the Structural Division 1981-05-01 107(5): 992-1002
+AB - This paper presents a method of proportioning cantilever walls so that the solution not only satisfies the strength and serviceability requirements, but also the requirement for a minimum cost wall. The method includes computer-generated data for use in compiling a design aid. With this design aid, simple rule-of-thumb type design guides can provide walls that are within 5%of the absolute minimum cost.
+
+
+    
+        AU - Emil Simiu
+    
+        AU - James J. Filliben
+    
+        AU - James R. Shaver
+    
+
+TI - Wind Speed Distributions and Reliability Estimates
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1003-1007
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005687 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005687
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005687
+SO - Journal of the Structural Division 1981-05-01 107(5): 1003-1007
+AB - The purpose of this note is to present an investigation into the effect of this assumption upon the estimation of reliabilities for wind-sensitive members. Such an investigation is motivated by recent research results, according to which extreme wind speeds are best modeled in most cases by probability distributions with considerably shorter tails than the Extreme Value Type I distribution. In particular, the Rayleigh distribution,, or other Extreme Type III distributions with even shorter tails, have been suggested.
+
+
+    
+        AU - Roger L. Tuomi
+    
+        AU - William J. McCutcheon
+    
+
+TI - Closure to “Racking Strength of Light-Frame Nailed Walls”
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1011-1012
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005688 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005688
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005688
+SO - Journal of the Structural Division 1981-05-01 107(5): 1011-1012
+
+
+    
+        AU - Ibrahim A. Hathout
+    
+        AU - John S. Ellis
+    
+        AU - Murray C. Temple
+    
+
+TI - Closure to “Buckling of Space Stayed Columns”
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1012-1013
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005689 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005689
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005689
+SO - Journal of the Structural Division 1981-05-01 107(5): 1012-1013
+
+
+    
+        AU - Srinivasan Sridharan
+    
+
+TI - Closure to &#x201c;Poisson's Effect on Buckling of Plate Assemblies&#x201d;
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1013-1014
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005690 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005690
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005690
+SO - Journal of the Structural Division 1981-05-01 107(5): 1013-1014
+
+
+    
+        AU - Joseph E. Minor
+    
+        AU - Kishor C. Mehta
+    
+
+TI - Closure to “Wind Damage Observations and Implications”
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1014-1014
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005691 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005691
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005691
+SO - Journal of the Structural Division 1981-05-01 107(5): 1014-1014
+
+
+    
+        AU - John J. Healey
+    
+        AU - Norval Dobbs
+    
+
+TI - Discussion of “Assessment of Empirical Concrete Impact Formulas”
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1015-1016
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005693 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005693
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005693
+SO - Journal of the Structural Division 1981-05-01 107(5): 1015-1016
+
+
+    
+        AU - B. Chattopadhyay
+    
+
+TI - Discussion of “Dome Effect in RC Slabs: Rigid-Plastic Analysis”
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1017-1019
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005695 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005695
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005695
+SO - Journal of the Structural Division 1981-05-01 107(5): 1017-1019
+
+
+    
+        AU - B. Chattopadhyay
+    
+
+TI - Discussion of “Dome Effect in RC Slabs: Rigid-Plastic Analysis”
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1019-1020
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005696 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005696
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005696
+SO - Journal of the Structural Division 1981-05-01 107(5): 1019-1020
+
+
+    
+        AU - Cenap Oran
+    
+
+TI - Discussion of “Elastic Instability of Unbraced Space Frames”
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1020-1022
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005697 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005697
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005697
+SO - Journal of the Structural Division 1981-05-01 107(5): 1020-1022
+
+
+    
+        AU - Bruce M. Irons
+    
+
+TI - Discussion of “Dynamic Reduction of Structural Models”
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1023-1024
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005698 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005698
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005698
+SO - Journal of the Structural Division 1981-05-01 107(5): 1023-1024
+
+
+    
+        AU - I. K. Silverman
+    
+
+TI - Erratum for “Flexure of Laminated Beams”
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1015-1015
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005692 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005692
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005692
+SO - Journal of the Structural Division 1981-05-01 107(5): 1015-1015
+
+
+    
+        AU - M. P. Saka
+    
+
+TI - Erratum for “Shape Optimization of Trusses”
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1017-1017
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005694 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005694
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005694
+SO - Journal of the Structural Division 1981-05-01 107(5): 1017-1017
+
+
+    
+        AU - Reidar Bjorhovde
+    
+
+TI - Erratum for “Research Needs in Stability of Metal Structures”
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1024-1024
+VI - 107
+IP - 5
+AID - 10.1061/JSDEAG.0005699 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005699
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005699
+SO - Journal of the Structural Division 1981-05-01 107(5): 1024-1024
+
+

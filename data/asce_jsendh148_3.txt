@@ -1,0 +1,676 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Faraz Tariq
+    
+        AU - Pradeep Bhargava
+    
+
+TI - Bond–Slip Models for Corroded RC Members Exposed to Fire
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021277
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003135 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003135
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003135
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021277
+AB - This paper presents the latest research findings investigating RC members’ residual load–slip response to combined damage caused by corrosion and fire. The idea is to simulate an accidental fire in old or aging structures situated in an aggressive environment such as along the coastlines. The research involved evaluating the response of an RC bond exposed to corrosion and subsequently to elevated temperatures. Pullout bond tests were carried out on cylindrical bond specimens as per standard recommendations following the exposure to accelerated corrosion and elevated temperatures at steady state. Specimens were corroded in the range (2%–20%) as mass loss followed by exposure to elevated temperatures to achieve the steady state (200°C–800°C). The residual load–slip response is examined with the aid of displacement-controlled pullout tests. A set of LVDTs equipment was used to precisely obtain the ultimate bond strength and the steel bar’s slip relative to the concrete. The study presents distinct load–slip response curves depicting the overall load–slip mechanism of an RC bond. The results indicate significant changes in the load–slip response due to the two nonlinear phenomena’s superimposition. The bond strength degradation and the load–slip response have been modeled to predict RC members’ bond behavior exposed to corrosion–temperature interaction.
+
+
+    
+        AU - Andrea Lucchini
+    
+        AU - José Melo
+    
+        AU - António Arêde
+    
+        AU - Humberto Varum
+    
+        AU - Paolo Franchin
+    
+        AU - Tiziana Rossetto
+    
+
+TI - Load Path Effect on the Response of Slender Lightly Reinforced Square RC Columns under Biaxial Bending
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021278
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003231 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003231
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003231
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021278
+AB - This paper presents an experimental investigation of the effect of load path on force-displacement response, damage patterns, and failure modes of slender lightly reinforced concrete (RC) columns. A review of available experimental tests, which include columns subjected to multiaxial loading protocols, is first presented. Next, a new experimental campaign on 18 column specimens tested under constant axial load and lateral displacement-controlled load paths is described. The results of the tests performed confirm that the response under biaxial load paths is qualitatively and quantitatively different from that observed for uniaxial load paths. The first and foremost qualitative difference is that the damage mechanisms change and the failure mode can change as a result. This, in turn, leads to quantitative differences in ultimate and collapse deformation, and therefore ductility and hysteretic dissipation capacity.
+
+
+    
+        AU - Bassam A. Izzuddin
+    
+
+TI - Rational Robustness Design of Multistory Building Structures
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021279
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003254 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003254
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003254
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021279
+AB - This paper presents concepts and methods developed over the past two decades for the rational and practical robustness design of multistory building structures. The consideration of sudden column loss as an event-independent scenario is examined with reference to typical extreme dynamic events, and a simplified multilevel framework for alternate load path analysis, providing a rational measure of robustness that combines ductility, redundancy, and dynamic effects, is reviewed. Finally, the conceptual basis of a new rational tying force method, recently developed and proposed by the author for the next generation of the Eurocodes, is presented, highlighting its practical application and limitations.
+
+
+    
+        AU - Hiroyuki Inamasu
+    
+        AU - Albano de Castro e Sousa
+    
+        AU - Dimitrios G. Lignos
+    
+
+TI - Development and Experimental Validation of Dissipative Embedded Column Base Connections for Enhanced Seismic Performance of Steel Moment-Resisting Frames
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021280
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003259 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003259
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003259
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021280
+AB - This paper proposes a novel embedded column base (ECB) connection that defies the current paradigm in capacity-designed steel moment-resisting frames (MRFs) where column bases have been traditionally considered as nondissipative. In the proposed concept, a dissipative zone is introduced as part of the embedded portion of the steel column. This zone features a reduced cross section and is decoupled from the concrete footing with a debonding material layer. The surrounding concrete effectively restrains the embedded section against nonlinear geometric instabilities, thereby retaining simplicity in the design process. Large-scale experiments suggest that, contrary to its conventional counterpart, the proposed dissipative ECB connection exhibits a stable hysteretic response until large lateral drift demands (i.e.,&nbsp;7% rad). It is also demonstrated that the dissipative ECB connection is resilient to local buckling-induced axial shortening, such that it lowers the repairability needs of slender wide-flange steel columns after earthquakes. Column twisting is also minimized throughout the loading history. The results indicate that both the elastic stiffness and flexural yield strength of the proposed ECB connection can be analytically derived for potential use in engineering design. It is found that a simple nondegrading bilinear model suffices to describe the hysteretic response of the proposed ECBs for performance-based assessment of steel MRFs.
+
+
+    
+        AU - Ruibin Zhang
+    
+        AU - Wei Wang
+    
+        AU - Cheng Fang
+    
+
+TI - Evaluation of a Full-Scale Friction Spring-Based Self-Centering Damper Considering Cumulative Seismic Demand
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021281
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003267 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003267
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003267
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021281
+AB - Various self-centering (SC) structural systems have been developed and proven effective in ensuring structural resiliency over the last few decades. However, information on cumulative seismic demand for SC structural systems under seismic excitations, especially under mainshock–aftershock sequences and long-duration ground motions, is very limited. In this paper, the recommended design and fabrication processes for friction spring-based SC dampers are first presented. Accordingly, a 6-story braced frame equipped with the SC dampers is designed. A typical full-scale SC damper is subsequently manufactured and tested. To satisfy the codified requirement for practical application, two loading protocols are adopted to investigate the hysteretic and fatigue performance of the damper. The test results show that the damper has very stable flag-shaped hysteretic behavior and maintains excellent SC capability and moderate energy dissipation under multiple rounds of loading. In particular, the behavior of the damper is stable under 30 cycles of constant amplitude loading without visible degradation. After the experimental study, an accumulative seismic demand index is developed, followed by a system-level analysis performed on the considered structure under mainshock–aftershock and long duration earthquake excitations. It was found that the cumulative seismic capacity of the SC damper surpasses the corresponding cumulative seismic demand under the considered multiple earthquake excitations, and therefore no fatigue failure of the damper is expected.
+
+
+    
+        AU - Sanaz Ahlehagh
+    
+        AU - Seyed Rasoul Mirghaderi
+    
+
+TI - Seismic Characteristics of Concentrated Linked Beam Frame System
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021282
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003274 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003274
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003274
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021282
+AB - Superior ductility and architectural versatility of moment resisting frames introduce them as a favorable candidate in high seismic regions. As they are not concentrated structural systems, they are hardly used in retrofitting old frames. Instead, braced spans or linked column frame systems are more efficient in strengthening. The concentrated linked beam frame system is used in this paper to strengthen a building frame without a lateral load resisting system. The link elements are added between the beams of two adjacent stories and are continuous through the building height but not connected to the foundation. The links are required for strength and drift control and are also the potential sources of energy dissipation. The prototype buildings of three, six, and nine stories are evaluated using linear and nonlinear analyses and the responses are compared with the concentrically braced and linked column frames. The results indicate that proper ductility is achieved with a smaller percentage of steel material. Evaluation of the proposed system with nonlinear dynamic analysis shows an acceptable response in the nonlinear range.
+
+
+    
+        AU - Alejandro Palacio-Betancur
+    
+        AU - Mariantonieta Gutierrez Soto
+    
+
+TI - Structural Properties of Tall Diagrid Buildings Using a Neural Dynamic Model for Design Optimization
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021283
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003271 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003271
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003271
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021283
+AB - The development of structural systems is a constantly evolving process to guarantee safety and serviceability against natural hazards. As a result, diagrid structural systems became a current trend in tubular mid- and high-rise building structures for their significant lateral stiffness and aesthetic potential. Their unique geometric configuration allows the efficient distribution of internal forces that lead to optimal structural designs. However, existing design codes and provisions do not provide specific guidelines for their design under earthquake and wind loading. For this reason, this paper studies the properties of steel diagrid structures, including optimal diagrid angle, diagrid density, and fundamental period, as a function of geometric parameters. This study uses a large set of structural models with aspect ratios (H/B) from 1 to 4, diagrid angles (θ) between 45° and 90°, and diagrid densities (ρd) between 3 and 12. The structural design of each model is obtained using a soft-computing optimization algorithm, denominated hybrid counter propagation neural dynamic (CPND) model, that determines member sizes from a database of commercially available W-shapes following ASCE 7-16 standard and AISC-15 steel construction manual. This investigation confirms that the optimal diagrid angle increases with height, highlights the importance of diagrid density in structural design, and demonstrates the effect of the diagrid angle on the fundamental period. A new set of equations are proposed for: (1)&nbsp;the optimal diagrid angle as a function of height, and (2)&nbsp;the fundamental period of diagrid structures as a function of angle and height. The proposed equations allow the estimation of structural properties for the design of steel diagrid structures.
+
+
+    
+        AU - Minjuan He
+    
+        AU - Xiuzhi Zheng
+    
+        AU - Frank Lam
+    
+        AU - Zheng Li
+    
+
+TI - Potential Loss in Prestressing Tendon Forces under Long-Term Service Conditions: Cross-Laminated Timber Shear Wall Applications
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021284
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003272 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003272
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003272
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021284
+AB - The seismic performance of post-tensioned cross-laminated timber (CLT) shear walls depends on the existing prestressing tendon force. The prestressing force will change over time because of the time-dependent elastic, creep, and environmental deformation of timber. In this study, post-tensioned CLT shear walls under three different prestressing force levels were monitored over 540&nbsp;days to study the prestressing force loss under varied environments. The long-term experimental results of temperature and relative humidity, moisture content, prestressing force, and timber strain were carefully recorded and analyzed. Subsequently, a comprehensive numerical model was established which includes four modules: moisture diffusion analysis, time-dependent elastic deformation analysis, time-dependent creep and environmental deformation analysis, and prestressing force updating. The long-term experimental results were used to validate the established model. Good agreement between the simulated and the experimental results was achieved. Lastly, the validated numerical model was implemented to predict the potential loss of prestressing force in post-tensioned CLT shear walls during a service life of 50&nbsp;years. The loss percentage under three different stress levels in uncontrolled environment scenario were 26.8%, 25.2%, and 21.1%. This information can be used to support the life cycle design of post-tensioned CLT structures ensuring the long-term structural safety.
+
+
+    
+        AU - Saif Aldabagh
+    
+        AU - Faroque Hossain
+    
+        AU - M. Shahria Alam
+    
+
+TI - Simplified Predictive Expressions of Drift Limit States for Reinforced Concrete Circular Bridge Columns
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021285
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003270 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003270
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003270
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021285
+AB - A critical component of performance-based design (PBD) is the quantification of damage states in terms of engineering demand parameters (EDPs). One of the most widely used EDPs to define damage states of reinforced concrete bridge columns is the drift ratio. Here, a fiber-based numerical model was validated by comparing its damage predictions against experimental results for large-scale tests of reinforced concrete columns subjected to reversed cyclic loading. The Monte Carlo sampling technique was adopted to generate 1,000 well-confined and flexure-dominated concrete columns, each having a unique combination of aspect ratio, axial-load ratio, longitudinal and spiral reinforcement ratios, and concrete and reinforcing steel yield strengths. The columns were analyzed numerically under static pushover loading, and the drift ratios corresponding to various strain limits were recorded. The resulting data were fit to mathematical expressions through machine learning–based symbolic regression. The proposed simplified expressions well predicted the drift ratios obtained from the numerical analysis with a minimum square of the correlation coefficient of 0.88. Also, the predicted drift ratios from the proposed expressions were comparable to those measured experimentally at key damage states, such as concrete cover spalling, concrete core crushing, and bar buckling. In particular, the predictions of the proposed expression at rebar buckling, which was based on a reinforcing steel tensile strain of 0.05, were more accurate than two widely used expressions found in the literature. Finally, the application of the proposed expressions within the context of PBD was demonstrated by a numerical example. The proposed simplified expressions are not intended to replace pushover or nonlinear time history analyses as part of the PBD, but rather provide approximate predictions of the limit states, which would significantly facilitate the development of appropriate preliminary designs, especially at early design stages. In addition, since the predictions of the proposed expressions were validated using previous experimental data, they can serve as a benchmark for the bridge engineering community when determining the limit states of reinforced concrete columns through numerical analyses.
+
+
+    
+        AU - Hong-Song Hu
+    
+        AU - Fan Lin
+    
+        AU - Li-Wen Xu
+    
+        AU - Yi-Chao Gao
+    
+        AU - Zi-Xiong Guo
+    
+
+TI - Peak Sliding Displacements of Sliding Base Structures Subjected to Earthquake Excitation
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021286
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003276 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003276
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003276
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021286
+AB - Sliding base (SB) systems are attractive options for protecting low-rise buildings in high-seismicity undeveloped rural areas. This study focuses on the peak sliding displacements (PSDs) of SB structures subjected to three-component earthquake excitations. Both the PSDs in the two principal directions and that with respect to the origin were investigated. The peak ground velocity (PGV) was selected as the ground-motion intensity measure (IM) because of its high correlation with the PSD and simplicity of use in design. The effect of the vertical ground-motion component on the PSDs is negligible. At a given level of normalized PGV, the probability distribution of the normalized PSD approximately follows a lognormal distribution. The relationship between the median normalized PSD and normalized PGV in each principal direction is close to that with respect to the origin, and the influence of the superstructure natural period and mass ratio is insignificant. When the normalized PGV is small, the median normalized PSDs corresponding to the nonpulse-like and near-fault pulse-like records are close to each other; when the normalized PGV exceeds a certain value (approximately 6–8  m/s), the median normalized PSD for the pulse-like records begins to exceed that for the nonpulse-like records, with the difference increasing monotonically as the normalized PGV increases. The lognormal standard deviations of the normalized PSDs are generally between 0.4 and 0.6 except for some cases in which the normalized PGV is small. Based on the numerical results, simplified equations were developed for generating fragility curves.
+
+
+    
+        AU - Haider M. Al-Jelawy
+    
+        AU - Kevin R. Mackie
+    
+
+TI - Three-Dimensional Fiber-Based Models of Precast and Cast-in-Place Reinforced Concrete Columns
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021287
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003278 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003278
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003278
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021287
+AB - Reliable and robust numerical modeling of RC columns under lateral load is commonly performed using one-dimensional elements. Although the strain is assumed to vary linearly through the section, bond-slip and buckling of reinforcing bars at the joints/connections contribute substantially to the column response. This paper presents a three-dimensional (3-D) fiber-based model with explicit representation of the bond-slip that occurs at the column-footing interface for cast-in-place columns and at the interface between bars and mechanical couplers for precast columns with grouted sleeve (GS) connections. The model contains beam elements with fiber sections for concrete, beam elements for longitudinal steel bars and sleeves, and spring elements for interfacial bond-slip behavior. The novelty is that the model can be achieved using existing software implementations, retains the efficiency of fiber-based elements under cyclic loading, and parameters are calibrated based on component-level testing, unlike other resultant or hybrid models that require arbitrary backbone and cyclic property specification. An extensive experimental program was conducted to investigate the behavior of GS couplers and calibrate the bond-slip models. Four large-scale RC columns were then used to verify the proposed model by comparing the measured load-displacement, energy dissipation, curvature, and failure mode with the numerical responses.
+
+
+    
+        AU - Yaozhi Luo
+    
+        AU - Wenwei Fu
+    
+        AU - Hua-Ping Wan
+    
+        AU - Yanbin Shen
+    
+
+TI - Load-Effect Separation of a Large-Span Prestressed Structure Based on an Enhanced EEMD-ICA Methodology
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021288
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003263 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003263
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003263
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021288
+AB - Prestressed structures have gained popularity in large-span buildings due to their great spanning capacity and light self-weights. This kind of structure is normally subjected to multiple types of loads, such as temperature load, wind load, and construction load. The determination of different load effects not only guides the design of similar structures but also helps reveal the damage-induced variation that would be concealed by the environmental loads. To determine the different load effects, separation of the load effects collected by structural health monitoring (SHM) is needed. This study presents an enhanced approach for load effect separation based on independent component analysis (ICA) and ensemble empirical mode decomposition (EEMD), called EEMD-ICA*. The proposed method is to minimize manual tuning of user-defined parameters, which makes the EEMD-ICA suitable for separating load effects from the different measured data. Specifically, an optimization method is developed to determine the appropriate level of the added white noise in the EEMD using the relative root-mean-square error (RMSE) index. A logarithm form of Bayesian information criterion (BIC) is employed for the robust estimation of the number of load effects in the ICA. Simulated structural responses from a square orthogonal cable-net are used to validate the effectiveness of the EEMD-ICA*. Then, the proposed methodology is employed to extract various load effects from the SHM data of the National Speed Skating Oval (NSSO), which is the largest single-layer cable-net structure in the world.
+
+
+    
+        AU - A. Busch
+    
+        AU - R. B. Zimmerman
+    
+        AU - S. Pei
+    
+        AU - E. McDonnell
+    
+        AU - P. Line
+    
+        AU - D. Huang
+    
+
+TI - Prescriptive Seismic Design Procedure for Post-Tensioned Mass Timber Rocking Walls
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021289
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003240 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003240
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003240
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021289
+AB - In this study, a prescriptive seismic design procedure for post-tensioned mass timber rocking wall lateral force–resisting systems is proposed. Unlike performance-based design approaches that employ nonlinear analysis, this procedure utilizes techniques and analysis procedures that are routinely applied in design industry practice as well as adhering to traditional approaches contained in current US standards. The design procedure targets providing a basis for prescriptive design of mass timber rocking wall lateral force–resisting systems and their future adoption into model codes. For illustration, the design approach is applied to an example building, with the building’s performance validated through a nonlinear numerical model simulation.
+
+
+    
+        AU - Jun He
+    
+        AU - Ben Young
+    
+
+TI - Behavior and Design of Cold-Formed Steel Web-Stiffened Channels under Concentrated Bearing Loads
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021290
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003252 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003252
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003252
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021290
+AB - This study focused on the web crippling and design of web-stiffened channel sections made of cold-formed steel (CFS). CFS web-stiffened channels are expected to have higher buckling loads under compression and bending compared to conventional channel sections without stiffened web. However, research on CFS web-stiffened channel sections under concentrated bearing loads is rather limited. A test program consisting of 29 web crippling experiments was carried out under the loading cases of interior-two-flange (ITF), end-two-flange (ETF), interior loading (IL), and end loading (EL). Both flanges of each channel section were bolted to the supports. The test results were used to establish and validate the finite-element models. Then, the validated numerical models were utilized for a parametric investigation to study the influences of cross-sectional geometry, bearing lengths, and web stiffener dimensions. A total of 576 finite-element analyses were performed in the parametric study. The web crippling design formulas for traditional CFS channels included in the current design standards were assessed by comparing the failure loads attained in the tests and numerical analyses to the predicted values. Finally, a design formula was developed for the design of CFS web-stiffened channels under concentrated bearing loads by modifying the codified web crippling unified equation.
+
+
+    
+        AU - Caigui Huang
+    
+        AU - Yong Li
+    
+        AU - Quan Gu
+    
+        AU - Jiadaren Liu
+    
+
+TI - Machine Learning–Based Hysteretic Lateral Force-Displacement Models of Reinforced Concrete Columns
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021291
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003257 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003257
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003257
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021291
+AB - Hysteretic lateral force-displacement (HLFD) models are important for efficient structural analysis under cyclic loading (e.g.,&nbsp;earthquakes). This paper proposes a novel machine learning (ML)-based HLFD model, referred to as ML-HLFD, to characterize the relationship between lateral force and displacement of reinforced concrete (RC) columns with different properties (e.g.,&nbsp;geometry, and material properties). To this end, a database including 498 experimental results is collected for model training, validation, and testing purposes. The ML-HLFD first uses a support vector machine (SVM) to classify the different failure modes (i.e.,&nbsp;flexure failure, flexure-shear failure, and shear failure). After that, an artificial neural network (ANN) is trained for obtaining the implicit mapping between inputs (i.e.,&nbsp;the properties of RC column) and outputs (i.e.,&nbsp;the crucial parameters of selected HLFD models). The performance of the ML-HLFD models is studied by (1)&nbsp;cross-validation; and (2)&nbsp;comparisons with experiments, a classical fiber-element model, and an existing analytical model, which demonstrate the accuracy and efficiency of ML-HLFD models under a wide range of scenarios.
+
+
+    
+        AU - Bharat Pradhan
+    
+        AU - Maria Zizzo
+    
+        AU - Fabio Di Trapani
+    
+        AU - Liborio Cavaleri
+    
+
+TI - Out-of-Plane Behavior of URM Infill: Accuracy of Available Capacity Models
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021292
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003253 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003253
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003253
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021292
+AB - The aim of this paper is to check the accuracy of analytical capacity models available for the prediction of out-of-plane strength of unreinforced masonry (URM) infill walls. The accuracy of the available models is checked by detailed comparison with the existing experimental results. In doing so, both types of capacity models are evaluated: Type I for the prediction of the strength in the undamaged state, and Type II for the prediction of strength reduction in the in-plane damaged state. Results from the calculations are discussed, and the best among the available models are recommended. Furthermore, the influence of orthotropy of the infill masonry in the out-of-plane capacity predicted by the models is discussed. The paper also highlights the prospect of using the capacity models in the cases of infill-beam gap and infill with openings. In the paper, the best pairs of models (composed by a model for the prediction of the out-of-plane strength in the undamaged state and a model for the prediction of the reduction of the out-of-plane strength in the damaged state, not necessarily provided by the same author) for URM infill walls, are suggested for the first time.
+
+
+    
+        AU - Xiao-Bin Song
+    
+        AU - Ya-Jie Wu
+    
+        AU - Hai-Yan Jiang
+    
+        AU - Tao Chen
+    
+
+TI - Lateral Performance of Glulam Timber Frames with CFRP Confined Timber-Steel Buckling-Restrained Bracings
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021293
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003273 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003273
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003273
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021293
+AB - Heavy glulam timber framed structures are facing a growing inadequacy in resisting lateral actions from earthquakes and winds due to the increasing building heights. This paper presents the experimental and numerical analysis results on the hysteretic behavior of newly developed carbon fiber reinforced polymer (CFRP) confined timber-steel buckling-restrained bracings and the lateral performance of bolted glulam timber frames with such bracings. Ten timber-steel bracings and four frames with different bracing provisions were tested via reversed cyclic lateral loading. A finite-element method based model was developed, verified, and used for parametric studies. The bracing test results indicated that the design requirements for ordinary buckling restrained bracings on the confinement ratio and the transverse bulging force are adequate for the proposed timber-steel bracings. A confinement ratio no less than 4.6 is suggested. Compared to an otherwise similar bare frame, two frames with the proposed bracings were found to be 132% and 176% higher in the peak loads, more than 10 times higher in the elastic stiffness, 40% and 43% higher in ductility ratio, and on average 106% higher in the equivalent viscous damping ratio. The two frames also exhibited higher stiffness and energy dissipation than a frame braced by timber bracings, which are prone to buckling failure. Parametric studies indicated that the secant stiffness and the damping ratio of the frames at small drift can be substantially affected by the bolt slippage of the bracing-frame connections. The increased lateral stiffness ratio will lead to increase in the peak load and stiffness, but the equivalent viscous damping ratio remains nearly constant for lateral stiffness ratios larger than 2.5. The frame stiffness and peak load increase with increased rotational stiffness of the beam-column connections while the equivalent viscous damping ratio decreases.
+
+
+    
+        AU - Ryan Honerkamp
+    
+        AU - Guirong “Grace” Yan
+    
+        AU - John van de Lindt
+    
+
+TI - Revealing Bluff-Body Aerodynamics on Low-Rise Buildings under Tornadic Winds Using Numerical Laboratory Tornado Simulator
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021294
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003283 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003283
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003283
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021294
+AB - Tornadoes result in death and property loss in communities around the world. To quantify the actions of tornadoes on civil structures, researchers have built physical laboratory tornado simulators to simulate tornadoes in the lab environment and tested building models in the simulated tornadic wind field, which is similar to wind tunnel testing when quantifying the wind effects induced by straight-line winds. Unfortunately, physical tornado simulators are much less common than straight-line wind tunnels, leading to the lack of research on bluff-body aerodynamics on civil structures under tornadic winds. Considering that it is expensive to conduct experimental testing in physical tornado simulators, numerical models of physical tornado simulator has been developed using computational fluid dynamics (CFD) simulations. However, they have not been validated at the level of pressure distribution on the structural surface of the testing model. In this study, the numerical model developed for the large-scale tornado simulator of the Missouri University of Science and Technology (Missouri S&amp;T), which is based on the numerical simulation of the entire process of the physical testing in tornado simulator, will be validated by the measured data on the building model tested in the physical tornado simulator. Then, through the validated numerical simulation model, the bluff-body aerodynamics of buildings under tornadic winds will be revealed. To be specific, CFD simulation is first applied to model the entire process of experimental testing of a low-rise building model in the physical tornado simulator. Then, the obtained results are compared with laboratory-measured data to evaluate the effects of the building model on the wind field and the surface pressure on the building model. Then, the bluff-body aerodynamics on low-rise buildings under tornadic winds will be revealed based on the data obtained from numerical simulations using the relationship between streamline pattern change and velocity magnitude change (mass continuity theorem) and using the relationship between the velocity magnitude change and the pressure change (Bernoulli’s theorem), as well as the flow separation and vortex shedding.
+
+
+    
+        AU - Zhe Wang
+    
+        AU - Laura Micheli
+    
+        AU - Filippo Ubertini
+    
+        AU - Simon Laflamme
+    
+
+TI - Risk-Informed Design Optimization of Vertically Distributed Tuned Liquid Wall Dampers for Multihazard Mitigation
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021295
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003282 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003282
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003282
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021295
+AB - Supplemental damping devices, including passive, semiactive, and active systems, can be employed to reduce vibrations caused by various hazards. This paper examined tuned liquid column dampers (TLCDs), a specialized type of tuned mass damper typically used to reduce the response of the structure around a specific frequency. A variation of the tuned liquid damper previously studied by the authors is a tuned liquid wall damper (TLWD), in which multiple liquid columns are embedded within a RC shear wall. The TLWD eliminates the space requirement of a conventional tuned liquid damper by distributing the liquid mass vertically into multiple columns throughout the structural shear wall system, and enables reaching a higher frequency range through the design of the TLWD geometries. This study investigated the optimal design of TLWD systems to mitigate multiple hazards, in particular nonsimultaneous wind and seismic hazards, based on a life-cycle cost (LCC) objective function. This was done using a probabilistic life-cycle analysis procedure that leveraged Bayesian optimization (BO) to search for the most promising permutation of tuning parameters that minimize the LCC under the design loads, with Monte Carlo simulations used to propagate the record-to-record variability of wind and seismic hazards. The proposed procedure was demonstrated on a 20- and a 42-story building subjected to nonsimultaneous wind and seismic excitations. The vertically distributed TLWDs were subjected to geometric constraints provided by the wall systems, and tuned to multiple frequencies enabling multimode mitigation. Afterward, the optimal tuning parameters were identified using the LCC-BO algorithm. Results showed that the multimode TLWD tuned with optimal tuning parameters effectively mitigated both wind and seismic hazards, leading to 32.8% and 43% total LCC reduction for the 20- and 42-story buildings, respectively, compared with the buildings without dampers, excluding the cost of the mitigation system. A performance comparison with a traditional tuned liquid column damper (TLCD) installed at the top of the buildings demonstrated that the multimode TLWD system outperformed the TLCD with an approximate 9% reduction in LCC for both the 20- and 42-story buildings.
+
+
+    
+        AU - Sunil Nataraj
+    
+        AU - Lucas Hogan
+    
+        AU - Allan Scott
+    
+        AU - Jason Ingham
+    
+
+TI - Simplified Mechanics-Based Approach for the Seismic Assessment of Corroded Reinforced Concrete Structures
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021296
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003265 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003265
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003265
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021296
+AB - The durability of older reinforced concrete structures is significantly affected by corrosion of the steel reinforcing bars, and assessing the seismic capacity of such corroded RC structures is a challenging task. A simplified mechanics-based assessment procedure was developed to account for the effect of corrosion on the residual strength and displacement capacity of corroded RC members. The procedure was verified against a large database of experimental results from the available literature. A case study of a severely corroded RC building in New Zealand, constructed in 1928, was assessed using the proposed methodology. Although no change in failure mechanism was found, the overall displacement capacity of the building was 25% lower than the assessed uncorroded condition. Long-term corrosion effects were investigated for the case study building assuming no remediation of corroded reinforcing bars. It was found that the displacement capacity would be significantly reduced via the formation of story collapse at less than 1% drift after 30&nbsp;years of continued corrosion deterioration if no remediation was made.
+
+
+    
+        AU - Ebrahim Emami
+    
+        AU - Ali Kheyroddin
+    
+        AU - Omid Rezaifar
+    
+
+TI - Performance of Arched Steel Haunches Equipped with Rib Element under Cyclic Loading
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021297
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003281 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003281
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003281
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021297
+AB - This paper introduces a novel technique called arched steel haunches with rib element (ASHR) for seismic retrofitting of RC frames. In this approach, the arched haunch is equipped with a steel ring or link, as the rib element (RE). A simplified physical model was proposed to approximate their behavioral curves. To evaluate the model’s accuracy, a series of cyclic load tests on arched steel haunches, with and without RE, were conducted. The experimental responses showed that by increasing the RE stiffness, the maximum damping ratio decreased conversely, while the strength, plastic stiffness, and even dissipated energy increased. Accordingly, the tensile and compressive strength increased up to 1.5 and 1.35 times, respectively. However, the elastic stiffness did not vary compared to the reference specimens; the tensile plastic stiffness increased up to three times and, the ultimate secant stiffness in tension and compression enhanced up to 1.56 and 3.9 times, respectively. Moreover, the total energy dissipation upgraded up to 1.39 times with the fusing of the rib elements. It should be noted that the results of this pilot study will be used in future research on the experimental behavior of the reinforced concrete beam-column joints.
+
+
+    
+        AU - Bo Yang
+    
+        AU - Le Shen
+    
+        AU - Kang Chen
+    
+        AU - Chen Feng
+    
+        AU - Xuchuan Lin
+    
+        AU - Mohamed Elchalakani
+    
+        AU - Shaoqian Xu
+    
+
+TI - Mechanical Performance of Circular Ultrahigh-Performance Concrete–Filled Double Skin High-Strength Steel Tubular Stub Columns under Axial Compression
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021298
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003291 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003291
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003291
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021298
+AB - This paper proposed a new type of stiffened circular ultra-high performance concrete-filled double skin steel tubular (UHPCFDST) column, in which stiffeners were applied to connect both inner and outer steel tubes. It efficiently delayed the local buckling of steel tubes and enhanced the integral of the section. This new type of UHPCFDST can be named multicells ultra-high performance concrete-filled double skin steel tubular (MUHPCFDST) column since the stiffener divided the sandwich space between the two steel tubes into multicells. Both the UHPCFDST and MUHPCFDST stub columns were fabricated and tested under centrally compression loading to investigate the axial mechanical behavior. The parameters considered in this study included specimen size, diameter-to-thickness ratio, the quantity of stiffener, and hollow ratio. Based on the tests, specimens’ column failure mode, axial load-shortening curves, local buckling behavior, compounding strength, strength index, and ductility coefficient were obtained and discussed. Then, the authors proposed a uniaxial stress-strain function of ultra-high performance concrete under compression and established three-dimension finite-element (FE) models with this stress-strain model to simulate the axial behavior of UHPCFDST and MUHPCFDST columns. Compared with the experimental results, the average deviation of the FE analysis in predicting the column bearing capacity and corresponding axial shortening was −3% and −5.5%, respectively. Finally, parametric studies were carried out, and a calculation method was proposed. The parametric analysis results and predictions from different methods (including the proposed method and methods suggested by existing design codes) were compared. The proposed method and calculating methods provided in AIJ-2008, EC4, and AS/NZS 2327 can reasonably predict the ultimate bearing capacity of both circular UHPCFDST and circular MUHPCFDST columns.
+
+
+    
+        AU - Dan Gan
+    
+        AU - Feng Yan
+    
+        AU - Zhiqiang Yang
+    
+        AU - Zheng Zhou
+    
+        AU - Rui Cheng
+    
+
+TI - Behavior of CFST Column to Concrete-Filled U-Shaped Steel Beam Joints with Slabs under Cyclic Loading
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021299
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003280 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003280
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003280
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021299
+AB - This study proposes a through-beam composite joint system to connect square concrete-filled steel tubular (CFST) columns and concrete-filled U-shaped steel (CFUS) beams. In the joint system, channel-shaped holes in the square steel tube allow direct load transfer of the beam. Two procedures for constructing the joints, denoting two types of joint details (i.e.,&nbsp;Type-I and Type-II), are proposed to facilitate field installation. Six cruciform joints were tested under combined constant axial compression and cyclic lateral loading. Three Type-I joints were tested. The main test parameters were the loading procedure and the axial load ratio applied on the CFST column. All Type-I specimens reached their beam flexural capacities followed by the fracture of fillet welds at beam ends, as well as the fracture of the reduced steel section within the joint zone. Three Type-II joints were constructed with the same column and beam section dimensions as the Type-I specimens. The main test parameters were the additional flexural rebars at beam ends and the axial load ratio. All Type-II specimens reached their beam flexural capacities, followed by the fracture of the heat-affected zone at beam ends. All specimens failed in a ductile manner, had favorable hysteretic performance, and complied with the acceptance criteria. Design considerations are proposed based on the test and analysis results.
+
+
+    
+        AU - Johnn Judd
+    
+        AU - Steven Pryor
+    
+        AU - Brandon Chi
+    
+
+TI - Seismic Performance of Buildings with Special Steel Moment Frames Using Modified End Plate and Shear Plate Connections
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021300
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003285 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003285
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003285
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021300
+AB - Nonlinear response history analyses were conducted to determine the seismic collapse safety and seismic performance of buildings with special steel moment frames using Simpson Strong-Tie Strong-Frame moment frames compared to equivalent buildings using reduced beam section (RBS) moment frames. The Strong-Frame moment connection consists of a modified T-stub or end plate connection incorporating Yield-Link structural fuses for moment transfer, and a modified shear plate connection for shear transfer. Archetypical 4-story, 8-story, 12-story, and 20-story steel frame buildings designed using ASCE 7-16 were evaluated. The results indicate that the Strong-Frame buildings have a 36% larger adjusted collapse margin ratio and are less likely to collapse, compared to the RBS buildings. The Strong-Frame buildings also have lower probable repair costs and shorter repair time compared to the RBS buildings. The improved collapse safety and enhanced performance of the Strong-Frame buildings are attributed to the stronger column web panel zone, inclusion of column bending moments in seismic overstrength load combinations, delayed connection strength degradation, a distributed global collapse mechanism, and replaceable connection components.
+
+
+    
+        AU - Chen Liang
+    
+        AU - Matthew C. Reichenbach
+    
+        AU - Todd A. Helwig
+    
+        AU - Michael D. Engelhardt
+    
+        AU - Joseph A. Yura
+    
+
+TI - Effects of Shear on the Elastic Lateral Torsional Buckling of Doubly Symmetric I-Beams
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021301
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003294 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003294
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003294
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021301
+AB - The theoretical lateral-torsional buckling solutions for I-beams utilized in many design specifications may the overestimate lateral torsional buckling (LTB) resistance when significant shear is present due to web distortion. This paper investigates the effects of shear on the elastic LTB of doubly symmetric steel I-beams through computational models. A parametric study was conducted considering a range of geometric parameters and loading conditions commonly found in design applications in buildings and bridges. The results show that shear can have a substantial impact on the LTB resistance under many practical design circumstances. The impact of shear on LTB is more significant for sections with larger web slenderness ratios and smaller depth-to-flange width ratios. Postbuckling shear resistance does not significantly impact the reductions in LTB resistance due to shear. A practical design method that accounts for shear effects on the LTB behavior in stiffened and unstiffened beams was proposed and verified by comparison with computational solutions. Design examples demonstrating the proposed method are provided.
+
+
+    
+        AU - Hongmei Zhang
+    
+        AU - Liumeng Quan
+    
+        AU - Xilin Lu
+    
+
+TI - Experimental Hysteretic Behavior and Application of an Assembled Self-Centering Buckling-Restrained Brace
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021302
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003287 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003287
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003287
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021302
+AB - In this paper, we propose an assembled self-centering buckling-restrained brace (ASCBRB), which eliminates the residual drift of structures after a major horizontal displacement. The ASCBRB also represents an advanced device for partial replacement of damaged parts of a brace. Four groups of prestressed disk springs and a metal yielding core plate were used to improve the resilience and energy dissipation of the brace, respectively. The hysteretic mechanics of the self-centering system was summarized and experimentally determined through a cyclic quasi-static experiment on four specimens with different energy-dissipation ratios. The ASCBRBs were experimentally verified to exhibit superior self-centering capacity and flag-shaped hysteretic behavior. Moreover, the damage concentrated on the core and guide plates demonstrated the feasibility of partial replacement. Nonlinear dynamic analyses of the seismic performance of the ASCBRB frame provided evidence that the proposed device significantly reduces residual drift compared with buckling-restrained braced frames having the same design parameters.
+
+
+    
+        AU - Si-Huy Ngo
+    
+        AU - Yu-Chen Ou
+    
+        AU - Van-Dung Nguyen
+    
+
+TI - Shear Strength Model for Reinforced Concrete Bridge Columns with Multispiral Transverse Reinforcement
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021303
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003289 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003289
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003289
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04021303
+AB - A shear strength model is proposed for reinforced concrete bridge columns with multispiral transverse reinforcement. The proposed model consists of a proposed discrete computational shear strength model for multispiral reinforcement and shear strength models for concrete and axial load adopted from the literature. The proposed discrete computational model calculates shear strength from each discrete location of the interception between the shear crack and multispiral reinforcement. Furthermore, the model considers the critical location of the shear crack, shear crack angle, direction of shear, and effect of the compression zone. The proposed model together with the Caltrans SDC model, Sezen’s model, and Priestley’s model are used to predict the shear strength of multispiral columns tested in the literature. Comparison between the prediction and test result shows that the proposed shear strength model produces the best prediction in terms of the mean and standard deviation of the ratio of experimental to predicted shear strength. Based on analysis and test observations, equations to estimate the compression depth of multispiral columns at the ultimate condition and the shear crack angle are proposed to be used in the proposed discrete computational shear strength model.
+
+
+    
+        AU - T. Joyce
+    
+        AU - Y. H. Chui
+    
+
+TI - Calibration of Resistance Factor for Self-Tapping Screws in Canada
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022001
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003261 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003261
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003261
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04022001
+AB - Under the load and resistance factor design philosophy used in North America, building codes structures are designed using load and resistance factors calibrated to a target reliability level. Despite this, few attempts have been made to calibrate resistance factors for timber connections. A calibration process was carried out for the withdrawal resistance of axially loaded self-tapping screws using a database of test results from across Canada. Two load cases were considered, reflecting load combinations and statistics drawn from the 2015 National Building Code of Canada and from a proposal developed to provide greater consistency in reliability outcomes, and the reliability under each case was determined using the first-order reliability method (FORM). Given the low ductility–brittle nature of withdrawal failures, a resistance factor of φ=0.7 was recommended for a target reliability index of β=4.0. The outcomes will assist in the selection of a resistance factor for self-tapping screws for use in the Canadian timber design standard, CSA O86.
+
+
+    
+        AU - Songhee Lee
+    
+        AU - Chadon Lee
+    
+
+TI - Bonding Time and Prestress Loss in Precast Pretensioned Concrete during Steam Curing
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022002
+VI - 148
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0003290 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003290
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003290
+SO - Journal of Structural Engineering 2022-03-01 148(3): 04022002
+AB - During steam curing of concrete, the axial restraint of pretensioned strands causes thermal prestress loss of the strands accumulated until sufficient bonding occurs. A theoretical model is presented in this paper to predict the progressive slippage of strands with time, bonding time, and the amount of thermal prestress loss. The model incorporating the equivalent age-dependent local bond-slip relationships considers the effects of material-related factors, the layout of the prestressing system, and changes in the temperature. Three pairs of two monostrand pretensioned concrete prisms were fabricated to validate the developed model. The model was able to trace the experimentally measured progressive slippage of the strand reasonably well, and it predicted thermal prestress losses by 5.2%–5.5% of the initial prestress of 1,395&nbsp;MPa for the tested prisms.
+
+

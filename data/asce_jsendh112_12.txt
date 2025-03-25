@@ -1,0 +1,302 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - William J. Rasdorf
+    
+        AU - Steven J. Fenves
+    
+
+TI - Constraint Enforcement in a Structural Design Data Base
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 2565-2577
+VI - 112
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1986)112:12(2565) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282565%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282565%29
+SO - Journal of Structural Engineering 1986-12-01 112(12): 2565-2577
+AB - During the design of a commercial structure large amounts of information pertaining to all aspects of the project must be stored, accessed, and operated upon. A data base management system (DBMS), composed of a central repository of data and the associated software for controlling access to it, provides one way to generate, represent, manage, and use this information. This paper uses the relational database model to represent structural design data and constraints. Data integrity is defined and its enforcement through the use of engineering design constraints is described. A model that enables the engineer to incorporate design constraints into a relational database is presented. The use of constraints in both passive checking and active design modes is explored. An example is presented that demonstrates the concepts discussed using a commercially available DBMS designed for use by the engineering community.
+
+
+    
+        AU - Da‐Hua Jiang
+    
+        AU - Jing‐Hua Shen
+    
+
+TI - Strength of Concrete Slabs in Punching Shear
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 2578-2591
+VI - 112
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1986)112:12(2578) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282578%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282578%29
+SO - Journal of Structural Engineering 1986-12-01 112(12): 2578-2591
+AB - A theoretical solution for the punching shear strength of a concrete slab is presented. The problem is treated as a three‐dimensional axisymmetrical one, the material being assumed to be rigid‐plastic. A failure criterion for the concrete is suggested, in which a second‐degree parabola is used for a Coulomb‐Mohr yield envelope. By establishing the virtual work equation, an upper‐bound solution is obtained, which is simpler than the well‐known Braestrup‐Nielsen solution. It can also give the ultimate punching shearing load when the punch angle is smaller than the angle of friction of concrete. Simplified expressions for the ultimate strength of a concrete slab in punching shear with different degrees of simplification are also suggested for practical use. The normal, shearing, and principal stresses along the failure surface are also explored.
+
+
+    
+        AU - Andrew H. Buchanan
+    
+
+TI - Combined Bending and Axial Loading in Lumber
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 2592-2609
+VI - 112
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1986)112:12(2592) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282592%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282592%29
+SO - Journal of Structural Engineering 1986-12-01 112(12): 2592-2609
+AB - This paper describes the development of a model for predicting the strength of lumber in bending, and in combined bending and axial loading, on the basis of axial tension and compression behavior of similar members. Both instability and material strength failures are included. The model includes the effects of variability in lumber strength, both within a member and between members. Size effects which predict decreasing strength with increasing member size are incorporated. An extensive experimental program on a large quantity of structural lumber has been used for calibration and verification. Output from the model will contribute to the development of more efficient design methods for wood trusses and other structures where lumber is subjected to combined bending and axial loading.
+
+
+    
+        AU - Sidney A. Guralnick
+    
+        AU - Thomas Erber
+    
+        AU - John Stefanis
+    
+        AU - Osama Soudan
+    
+
+TI - Plastic Collapse, Shakedown, and Hysteresis of Multistory Steel Structures
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 2610-2627
+VI - 112
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1986)112:12(2610) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282610%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282610%29
+SO - Journal of Structural Engineering 1986-12-01 112(12): 2610-2627
+AB - The entire spectrum of incremental collapse behavior, including alternating plasticity, shakedown, and plastic (limit state) collapse, of multibay, multistory structures composed of elastic‐perfectly plastic materials can be determined from a consideration of the irrecoverable energy (hysteresis energy) dissipated by the plastic hinges that occur in such structures. An extensive study utilizing computer models of the relevant structural behavior has revealed that much of this hysteresis energy dissipation is concentrated in a relatively few dominant plastic hinges. Strengthening or weakening structural components at those locations where dominant plastic hinges form can significantly alter the incremental collapse behavior of the entire structure. The rate of energy dissipation, as well as the rate of approach to failure, can vary in a complex manner in multibay, multistory structures subjected to many cycles of repetitive loads. It is demonstrated that this complex structural behavior may be unraveled by performing a detailed investigation of the evolution of hysteresis energy at each of the plastic hinges that forms in the structure. A series of such investigations has revealed the roles that prominent and latent plastic hinges play in the overall response of the structure to repetitive loads. New directions for research aimed at improving the analysis and design of earthquake‐resistant buildings are indicated by the results, which show that the global resistance of the entire structure to incremental collapse depends upon the details of the applied loading program, as well as upon the local plastic moment resistance of the individual structural components. Illustrative results from the application of the new method are given for a two‐bay, two‐story rigid frame structure.
+
+
+    
+        AU - Kanakapura S. Subba Rao
+    
+        AU - Shashikant Singh
+    
+
+TI - Concentrated Load‐Carrying Capacity of Concrete Slabs on Ground
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 2628-2645
+VI - 112
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1986)112:12(2628) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282628%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282628%29
+SO - Journal of Structural Engineering 1986-12-01 112(12): 2628-2645
+AB - Lower‐bound limit analysis solutions for collapse loads have been developed for concrete slabs with the loads transmitted through circular contacts at the interior, near the edge, at the edge, or at the corner, assuming rigidplastic behavior and square yield criterion of failure. The extent of the failure zone around the load has been determined by a statistical analysis of many laboratory and field‐test data. Existence of a ring shear at the boundary arising from the satisfaction of conditions on moments has been established and accounted for in the analysis. Approximate solutions based on a moment reduction approach have been obtained for cases other than the interior loading case. The collapse loads, thus obtained, are found to compare well with the available upper‐bound solutions.
+
+
+TI - Structural Serviceability: A Critical Appraisal and Research Needs
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 2646-2664
+VI - 112
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1986)112:12(2646) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282646%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282646%29
+SO - Journal of Structural Engineering 1986-12-01 112(12): 2646-2664
+AB - Serviceability limit states in building structures are conditions in which the functions of the building are disrupted during normal use by excessive deformation, motion, or deterioration. As standards evolve toward probability‐based limit states design methods, serviceability issues are expected to become an increasingly important design consideration. The scope of the serviceability issue in contemporary construction is defined, and areas are identified in which immediate improvements in serviceability‐checking appear to be feasible, as well as other areas where additional research is needed before improvements in serviceability‐checking can be realized.
+
+
+    
+        AU - R. M. Korol
+    
+
+TI - Double Chords as an Alternative in Tubular Trusses
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 2665-2678
+VI - 112
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1986)112:12(2665) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282665%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282665%29
+SO - Journal of Structural Engineering 1986-12-01 112(12): 2665-2678
+AB - In many applications for which planar tubular steel trusses are considered appropriate, chords consisting of double rectangular hollow sections (RHS) have several advantages over their single‐chord counterparts. For unequal‐width K‐ and T‐type connections gapped between branch members, it is shown that the double‐chord. configuration has frequently twice the strength, or more, of equivalent single‐chord joints. From the standpoint of localized deformation, much stiffer joints are possible with double‐chord RHS truss systems. Typical design examples of Vierendeel and Warren trusses demonstrate the structural superiority of double chords compared with their single‐chord analogues for the spans examined. Economic benefits are also likely to be realized with the design concept proposed.
+
+
+    
+        AU - Ahsan Kareem
+    
+
+TI - Performance of Cladding in Hurricane Alicia
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 2679-2693
+VI - 112
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1986)112:12(2679) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282679%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282679%29
+SO - Journal of Structural Engineering 1986-12-01 112(12): 2679-2693
+AB - The performance of building cladding in the Houston‐Galveston area during Hurricane Alicia is described. Following an overview of the damage based on the observations made by the writer, various possible mechanisms of cladding damage are discussed. These mechanisms include wind pressure exceeding the design value, missile impact from windborne debris, and performance of glass under dynamic wind loading. Analysis of these mechanisms suggests that impact from windborne debris, e.g., loose sheet metal, roof gravel, broken glass, and parts of the appurtenances from roofs, was the main source of glass damage. In some cases faulty installation practices, e.g., missing jamb blocks, insufficient glass bite, and improper installation, contributed to glass damage. The failure of cladding components other than glass can be attributed to poor connections between cladding components and the main structural system, either by design or by loss of strength in the fastening system as a result of corrosion. Most of the cladding damage from Alicia in the Houston‐Galveston area was caused by lack of hurricane‐resistant construction, rather than by the severity of the storm. The provision of adequate fastenings and anchorage, and control of the availability of windborne debris, would have substantially reduced the damage caused by Alicia.
+
+
+    
+        AU - Mircea Grigoriu
+    
+
+TI - Errors in Simulation of Random Processes
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 2697-2702
+VI - 112
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1986)112:12(2697) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282697%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282697%29
+SO - Journal of Structural Engineering 1986-12-01 112(12): 2697-2702
+AB - Simulation of random processes is frequently based on discrete approximations of the power spectral density of these processes. This study evaluates effects of these approximations on simulation-based estimates of the mean rate at which a Gaussian process crosses a level. The mean upcrossing rate is a useful probabilistic descriptor for the analysis of fatigue and first-excursion failures.
+
+
+    
+        AU - Sritawat Kitipornchai
+    
+        AU - David L. Finch
+    
+
+TI - Stiffness Requirements for Cross Bracing
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 2702-2707
+VI - 112
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1986)112:12(2702) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282702%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282702%29
+SO - Journal of Structural Engineering 1986-12-01 112(12): 2702-2707
+AB - In the design of roof and wall double-diagonal cross bracing, the compression diagonal is usually ignored. The possibility of bracing provided to the compression diagonal by the loaded tension diagonal is examined. It is shown that the compression diagonal may be effectively braced at midspan through its connection to the tension diagonal, thereby increasing the total capacity of the double-diagonal cross bracing system.
+
+
+    
+        AU - Karl H. Klippstein
+    
+
+TI - Discussion of &#x201c;<i>Criteria for Connection Spacing in Cold&#x2010;Formed Steel</i>&#x201d; by Muzaffer Yener (September, 1984, Vol. 110, No. 9)
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 2711-2711
+VI - 112
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1986)112:12(2711) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282711%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282711%29
+SO - Journal of Structural Engineering 1986-12-01 112(12): 2711-2711
+
+
+    
+        AU - Muzaffer Yener
+    
+
+TI - Closure to &#x201c;<i>Criteria for Connection Spacing in Cold&#x2010;Formed Steel</i>&#x201d; by Muzaffer Yener (September, 1984, Vol. 110, No. 9)
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 2712-2716
+VI - 112
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1986)112:12(2712) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282712%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282712%29
+SO - Journal of Structural Engineering 1986-12-01 112(12): 2712-2716
+
+
+    
+        AU - Hota V. S. GangaRao
+    
+        AU - C. C. Spyrakos
+    
+
+TI - Discussion of &#x201c;<i>Vibration of Tapered Beams</i>&#x201d; by Arvind K. Gupta (January, 1985, Vol. 111, No. 1)
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 2716-2717
+VI - 112
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1986)112:12(2716) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282716%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282716%29
+SO - Journal of Structural Engineering 1986-12-01 112(12): 2716-2717
+
+
+    
+        AU - P. A. A. Laura
+    
+        AU - V. H. Cortinez
+    
+
+TI - Discussion of &#x201c;<i>Vibration of Tapered Beams</i>&#x201d; by Arvind K. Gupta (January, 1985, Vol. 111, No. 1)
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 2718-2720
+VI - 112
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1986)112:12(2718) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282718%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282718%29
+SO - Journal of Structural Engineering 1986-12-01 112(12): 2718-2720
+
+
+    
+        AU - Arvind K. Gupta
+    
+
+TI - Closure to &#x201c;<i>Vibration of Tapered Beams</i>&#x201d; by Arvind K. Gupta (January, 1985, Vol. 111, No. 1)
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 2720-2721
+VI - 112
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1986)112:12(2720) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282720%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282720%29
+SO - Journal of Structural Engineering 1986-12-01 112(12): 2720-2721
+
+
+TI - Erratum: “Evaluation of Building Code Formulas for Earthquake Forces” by Anil K. Chopra and Ernesto F. Cruz (August, 1986, Vol. 112, No. 8)
+PT - Journal Article
+DP - 1986
+TA - Journal of Structural Engineering
+PG - 2721-2721
+VI - 112
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1986)112:12(2721) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282721%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281986%29112%3A12%282721%29
+SO - Journal of Structural Engineering 1986-12-01 112(12): 2721-2721
+
+

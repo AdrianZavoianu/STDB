@@ -1,0 +1,532 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - F. P. Weisinger
+    
+        AU - Sang-Lip Lee
+    
+        AU - J. F. Fleming
+    
+
+TI - Moment Coefficients for Frame Analysis
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 1-12
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0000995 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000995
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000995
+SO - Journal of the Structural Division 1963-12-01 89(6): 1-12
+AB - A method for the analysis of frames, by use of moment coefficients, is presented. This method is ideally suited for the solution of structures that would normally give convergence difficulties with the standard moment distribution procedure. The moment coefficients can be found conveniently by a modified moment distribution procedure. With these coefficients, the end moment in any member subjected to any loading condition can be determined in one operation that takes sidesway into account, thus eliminating the need for the solution of a set of simultaneous equations or the use of iterative procedures. The calculation for the final moment can be carried out by the following matrix operation: {Mi} = {Fi} + [mij] {Uj}.
+
+
+    
+        AU - G. R. Monforton
+    
+        AU - T. S. Wu
+    
+
+TI - Matrix Analysis of Semi-Rigidly Connected Frames
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 13-42
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0000997 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000997
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000997
+SO - Journal of the Structural Division 1963-12-01 89(6): 13-42
+AB - Frames with semi-rigid connections are investigated. Relationships between forces and displacements at the ends of a member with elastically restrained ends are derived. The force components, in terms of the end displacements, are arranged in matrix form. Stiffness matrices of a member with elastic restraint at the ends are presented, in the form of the stiffness matrices for members with rigid connections, modified by a correction matrix whose elements are functions of parameters, designated as fixity factors of the member. A formula for the force components at the ends of all the members of a frame is established. The matrix operations involved are conveniently performed by any digital computer, and problems ranging from rigid frames to pin-connected trusses can be solved by the same systematic approach. Several numerical examples are solved.
+
+
+    
+        AU - Michael Jordan
+    
+
+TI - Constant Shear Moment Distribution
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 43-70
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0001014 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001014
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001014
+SO - Journal of the Structural Division 1963-12-01 89(6): 43-70
+AB - A method of moment distribution analysis of multi-story frames subject to sidesway is presented. Modified stiffness and carryover factors are derived that are used in the same manner that ordinary stiffness and carryover factors are used in the Hardy Cross moment distribution process. Consequently, the shear equations are automatically satisfied. In addition to the usual requirements of the frame to be adaptable to analysis by the moment distribution method, the frame must be composed of stories, and each story must have either any number of parallel legs or two non-parallel legs. The method can save a great deal of time in the analysis of certain frames. The time savings increase as the ratio of the number of shear equations to the number of moment equations. The method is suited to multi-story, trapezoidal frames. Equations for determining fixed-end moments due to sidesway are included. Matrix algebra is used.
+
+
+    
+        AU - Jacob Solomon
+    
+
+TI - Structure Designs Governed by Limited Deformations
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 71-99
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0001021 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001021
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001021
+SO - Journal of the Structural Division 1963-12-01 89(6): 71-99
+AB - Structures governed by distortion design criteria usually support radio telescopes, antennas, and other electronic tracking, observation, and measuring devices. Because measuring and observation errors are magnified in proportion to the distance of the object from the instrument, such instruments require extremely rigid supporting structures. Protection of the structure from environmental distortions may vary from simple sun and wind shields to fully enclosed, thermally controlled environments. In addition, the structure may have to be constructed of low expansion materials, such as invar. Light equipment must be carefully arranged to keep both the overall structure and distortions to the minimum by placing instruments to measure or respond at right angles to the distortions. Computation of distortions by electronic computer within micrometric accuracy must include possible variation of the physical and geometric properties of the material. Extraordinary precaution and controls must be exercised in the erection and fabrication at the mill and shop.
+
+
+    
+        AU - Chu-Kia Wang
+    
+
+TI - General Computer Program for Limit Analysis
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 101-117
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0000994 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000994
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000994
+SO - Journal of the Structural Division 1963-12-01 89(6): 101-117
+AB - The computer program provided for limit analysis of rigid frames involves a succession of elastic analysis for a load system by the displacement method. Output consists of the location and sequence formation of all plastic hinges up to collapse, and the deflections and moments at all nodal points at tie time of formation of each plastic hinge.
+
+
+    
+        AU - Malcolm S. Gregory
+    
+
+TI - Philosophy of Engineering Design of Structures
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 119-135
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0000996 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000996
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000996
+SO - Journal of the Structural Division 1963-12-01 89(6): 119-135
+AB - Design of structures is usually based on prior estimation of member sizes and subsequent analysis. The analysis must be for a simplified structure, rather than for the real one. This simplification is made on the designer's estimate of the basic statical actions by which the structure carries its loads. If the designer's estimate is correct, even a drastically simplified analysis can give adequate results, and such results usually can be improved by additional corrections. The designer's basic problem is to picture the geometry of the deformed structure well enough to cope with the statics, so that the important internal actions can be calculated. The data are the equations of statics, the equations of geometrical compatibility, and the load-deformation relations. This convenient and natural separation leads to the two alternative methods of analysis; the force method and the deformation method. Energy methods use either the force approach or the deformation approach. Complementary energy furnishes a powerful tool for approximate analysis because its use is based directly on an understanding of the statical action of a structure. Limit design can assure safety against collapse for the same reason.
+
+
+    
+        AU - Leonard K. Stevens
+    
+        AU - Lewis C. Schmidt
+    
+
+TI - Determination of Elastic Critical Loads
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 137-158
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0000998 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000998
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000998
+SO - Journal of the Structural Division 1963-12-01 89(6): 137-158
+AB - For the determination of elastic critical loads in frameworks, slope deflection equations are given in which the effects of initial imperfections are included. A Southwell plot is then used to avoid the nonlinear extrapolation inherent in the use of the usual determinant solution. Two distinct practicable methods are shown to exist for improving the estimate of the critical load obtained from a Southwell plot. The first involves iteration with recomputation of deformation at different loads, whereas the second method concentrates on improving the agreement between the assumed initial imperfections and the primary buckling mode. In the first method, no more than two trial loads are normally required to give a good estimate of the critical load. In the second method, one trial load may be sufficient. Three examples are outlined to show the variation in estimated critical load with trial load in each case.
+
+
+    
+        AU - Kuang-Han Chu
+    
+        AU - Arthur Thelen
+    
+
+TI - Plastic Analysis of Circular Balcony Girders
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 159-186
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0000999 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000999
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000999
+SO - Journal of the Structural Division 1963-12-01 89(6): 159-186
+AB - A plastic analysis was made for balcony (or bow) girders of circular arc with a subtended angle of not more than 180○ and of constant cross section, fixed at both ends and subjected to uniform load perpendicular to the plane of the arc. The problem had been solved previously by Boulton and Boonsukha. But the method introduced herein, being developed independently, contains several new features, and the results presented are more extensive. First, the general method of analysis was examined. Next, various mechanisms of failure were investigated. It was found that failure was possible only for the mechanisms with two, three, or four plastic hinges. A chart was given for determining the limiting values of β (ratio of fully plastic torque to fully plastic moment of the section) for the three mechanisms of failure. Finally, the collapse loads for various values of subtended angles and various values of β were presented in a chart that may be useful to engineers interested in plastic (or limit) design of balcony girders.
+
+
+    
+        AU - Robert A. Bendigo
+    
+        AU - Roger M. Hansen
+    
+        AU - John L. Rumpf
+    
+
+TI - Long Bolted Joints
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 187-213
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0001000 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001000
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001000
+SO - Journal of the Structural Division 1963-12-01 89(6): 187-213
+AB - Tension tests of long structural butt splices of A7 steel connected with 7/8-in. high strength bolts provide background for parts of the specification of the Research Council on Riveted and Bolted Structural Joints for structural joints using A325 bolts. Joints proportioned for a tensile stress of 20 ksi and a shear stress of 22 ksi produced a balance ultimate strength design for short connections approximately 16-in. long. In longer connections, end bolts sheared before all bolts could develop their full shearing strength. In short connections, the average shear stress was approximately 85% of the strength of a single bolt, but bolts in a 52.5 in. (16\x + 3–1/2 in.) long connection developed only 60% of the strength. Joints with tight mill scale faying surfaces and bolts tightened by the turn-of-nut method slipped into bearing at a lower limit of slip coefficient of 0.35. When the mill scale was removed with a power tool, the slip coefficient was only 0.20. Limited tests of bolted lap joints provide information on the behavior of bolts in single shear. Several tests of riveted connections give interesting comparative data.
+
+
+    
+        AU - John L. Rumpf
+    
+        AU - John W. Fisher
+    
+
+TI - Calibration of A325 Bolts
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 215-234
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0001001 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001001
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001001
+SO - Journal of the Structural Division 1963-12-01 89(6): 215-234
+AB - Direct tension and torqued tension tests of 170 A325 bolts were carried out to determine the behavior and performance of individual A325 bolts. The major variables studied in the program included the effect of thread length between the thread run-out and the face of the nut, the effect of grip, continuous and incremental torquing, and reserve strength in tension after torquing. The behavior and performance of the bolts is examined, and typical data are presented. The results are related to the current Specification for Structural Joints Using ASTM A325 Bolts and have influenced the amount of nut rotation required when the turn-of-nut method of tightening is used. For usual grips, the grip length was found to have no appreciable effect on the load-elongation characteristics when the length of thread under the nut was approximately the same. Nut rotations greater than one-half turn from snug yielded little additional clasping force. Decreasing the amount of exposed thread under the nut results in a decrease in the deformation capacity of the bolt.
+
+
+    
+        AU - Theodore Zsutty
+    
+
+TI - Error Statistics for Reinforced Concrete Beams
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 235-270
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0001002 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001002
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001002
+SO - Journal of the Structural Division 1963-12-01 89(6): 235-270
+AB - The error statistics that describe the probability distribution function of the ultimate moment resistance of under-reinforced concrete beams are estimated by multiple, linear, regression analysis. Data from 109 specified beam tests are analyzed in order to produce a median prediction equation with a known probability distribution of equation error. This median prediction is compared with the existing design procedure equation to show general agreement in functional behavior. The comparison also permits a calibration of the relative prediction capabilities of each equation. The particular mathematical form of the median prediction equation allows the computation and inclusion of workmanship error in the variance of the resistance of veams in actual structures. The computation of workmanship error variance requires the availability of coefficients of variation of in-place beam properties about specified median values. It is expected that future quality control and workmanship surveys will provide this statistical information. While certain test data inconsistencies, sampling errors, and uncertainty of workmanship error values make it necessary to term all resulting numerical values as preliminary estimates, the regression analysis procedure provides a means of identifying, organizing, and combining the individual components of strength prediction error. The final log-normal error statistics are used to compute an under-strength factor that will provide for a selected high probability of safety under known load conditions.
+
+
+    
+        AU - Shou-ling Wang
+    
+
+TI - Flexural Calculation of Nonuniform Members
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 271-295
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0001003 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001003
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001003
+SO - Journal of the Structural Division 1963-12-01 89(6): 271-295
+AB - It is demonstrated that the method of direct integration is an effective approach for making flexural calculations of nonuniform members through the use of generalized functions. The operational properties of the pertinent functions are reviewed, and a formula for finding the reciprocal of a series of step functions is established. Simple formulas are obtained for calculating the flexural constants of members with stepwise variation of stifmess. It is demonstrated that tapered or haunched beams can be conveniently replaced by appropriate stepped beams as excellent approximations.
+
+
+    
+        AU - George F. Hauck
+    
+        AU - Seng-Lip Lee
+    
+
+TI - Stability of Elasto-Plastic Wide-Flange Columns
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 297-324
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0001004 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001004
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001004
+SO - Journal of the Structural Division 1963-12-01 89(6): 297-324
+AB - In the past (1963), it has not been possible to obtain analytic solutions of the differential equations of bending of elasto-plastic compression members composed of the common structural sections. In part, this difficulty was due to the inability to express curvature explicitly in terms of moment and thrust. Appropriate functions can be derived by assuming that the flange elements of wide-flange and box sections are thin. With the aid of the latter, the differential equations are solved in two steps of integration, which is made possible by the introduction of appropriate variables of integration. Use of a suitable buckling criterion and a simple graphical or numerical procedure makes it possible to obtain interaction curves for structural members loaded in compression and bending. Thus, the necessary number of numerical or graphical steps is reduced considerably, and no simplified assumption as to the defleeted shape of a column need be made. The solution includes the previously treated column of solid rectangular cross section as a special case. An approximate, semiempirical equation, based on the derived curves, is suggested.
+
+
+    
+        AU - Claus J. Meissner
+    
+        AU - Robert S. Levy
+    
+
+TI - Flexibility Method on Coupling Redundant Complex Structures
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 325-364
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0001005 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001005
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001005
+SO - Journal of the Structural Division 1963-12-01 89(6): 325-364
+AB - An analysis method is developed for calculating the flexibility matrix, the deflections, and the internal forces of complex structures by coupling the constituent redundant component structures. The flexibility matrix of each redundant component structure is calculated individually, referred to its own datum; then statically determinable force influence matrices are described, which are used to couple these structures. Their elements are the forces sustained by each component structure as a unit external force is applied, or as a unit redundant existing between component structures is considered. Specialized formulations are also shown for statically determinate components, statically determinate coupling, or both. Support settlement and thermal distortion effects are also evaluated. This method makes it possible to analyze physically separate structures and to recombine them at once, or in several stages, using the statically determinable coupling matrices, so that no inversions will have to be performed of matrices of larger order than those for which adequate precision can be guaranteed.
+
+
+    
+        AU -  
+    
+
+TI - Phase I Report on Folded Plate Construction
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 365-406
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0001006 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001006
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001006
+SO - Journal of the Structural Division 1963-12-01 89(6): 365-406
+AB - The various methods of analysis of folded plates, proposed to 1963, are reviewed and summarized. First consideration goes to the simple beam theories that neglect the effect of relative joint displacement, as in the original work by Ehlers and Craemer in Germany in the 1930's, that was subsequently introduced in the United States by Winter and Pei. This report then evaluates the more exact methods of analysis correcting for relative joint displacement subsequently developed by Gruber, Vlassov, Gaafar, Simpson, and Yitzhaki. Finally, the elasticity approach of Goldberg and Leve is considered. As a result of the study, the Committee recommends the use of the ordinary theory with correction for relative joint displacements. Methods in this acceptable category include those of Vlassov, Gaafar, Gaafar as modified by Simpson, Portland Cement Association Bulletin #3, and, finally, Yitzhaki. The report summarizes a method of analysis based on Gaafar's original paper and includes a numerical example for greater clarity. The Committee has also sponsored and recommends an article on folded plate analysis by Yitzhaki. A very complete Bibliography of the subject of folded plates both in English and other languages is included.
+
+
+    
+        AU - D. T. Wright
+    
+        AU - C. Berwanger
+    
+
+TI - Closure to “Limit Design of Reinforced Concrete Beams”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 409-413
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0001007 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001007
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001007
+SO - Journal of the Structural Division 1963-12-01 89(6): 409-413
+
+
+    
+        AU - Loh-Kwan Chen
+    
+
+TI - Closure to “Analysis of Vierendeel Truss by Influence Moments”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 415-415
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0001008 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001008
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001008
+SO - Journal of the Structural Division 1963-12-01 89(6): 415-415
+
+
+    
+        AU - Milik Tichy
+    
+        AU - Milos Vorlicek
+    
+
+TI - Closure to “Safety of Eccentrically Loaded Reinforced Concrete Columns”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 417-424
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0001009 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001009
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001009
+SO - Journal of the Structural Division 1963-12-01 89(6): 417-424
+
+
+    
+        AU - Allen G. Thurman
+    
+        AU - George J. Herman
+    
+
+TI - Closure to “Model Studies of a Concrete Hyperbolic Paraboloid”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 425-425
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0001010 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001010
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001010
+SO - Journal of the Structural Division 1963-12-01 89(6): 425-425
+
+
+    
+        AU - K. Eisemann
+    
+        AU - Lin Woo
+    
+        AU - Saul Namyet
+    
+
+TI - Closure to “Space Frame Analysis by Matrices and Computer”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 427-427
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0001011 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001011
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001011
+SO - Journal of the Structural Division 1963-12-01 89(6): 427-427
+
+
+    
+        AU - P. Diakonoff
+    
+
+TI - Discussion of “Deflection and Slope of Beams with Varying I”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 429-433
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0001012 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001012
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001012
+SO - Journal of the Structural Division 1963-12-01 89(6): 429-433
+
+
+    
+        AU - W. Carl Anderson
+    
+
+TI - Discussion of “Effects of Cold-Straining on Structural Sheet Steels”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 435-444
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0001013 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001013
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001013
+SO - Journal of the Structural Division 1963-12-01 89(6): 435-444
+
+
+    
+        AU - Semih S. Tezcan
+    
+
+TI - Discussion of “Simplified Formulation of Stiffness Matrices”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 445-449
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0001015 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001015
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001015
+SO - Journal of the Structural Division 1963-12-01 89(6): 445-449
+
+
+    
+        AU - G. L. Blanchard
+    
+
+TI - Discussion of “Dynamic Pressure of Granular Materials in Deep Bins”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 451-452
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0001016 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001016
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001016
+SO - Journal of the Structural Division 1963-12-01 89(6): 451-452
+
+
+    
+        AU - Robert D. Henderson
+    
+
+TI - Discussion of “Behavior of Prestressed Composite Steel Beams”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 453-453
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0001017 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001017
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001017
+SO - Journal of the Structural Division 1963-12-01 89(6): 453-453
+
+
+    
+        AU - J. Michael Davies
+    
+
+TI - Discussion of “Stability of Frames Under Primary Bending Moments”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 455-458
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0001018 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001018
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001018
+SO - Journal of the Structural Division 1963-12-01 89(6): 455-458
+
+
+    
+        AU - Robert Schmidt
+    
+
+TI - Discussion of “Nonlinear Behavior of Structural Plane Frames”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 459-459
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0001019 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001019
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001019
+SO - Journal of the Structural Division 1963-12-01 89(6): 459-459
+
+
+    
+        AU -  
+    
+
+TI - Bibliography on the Use of Digital Computers in Structural Engineering
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 461-466
+VI - 89
+IP - 6
+AID - 10.1061/JSDEAG.0001020 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001020
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001020
+SO - Journal of the Structural Division 1963-12-01 89(6): 461-466
+AB - The first report of the Task Group, Subcommittee on Publications, Committee on Electronic Computation of the Structural Division, is a bibliography on the use of digital computers in structural engineering. The bibliography is limited in scope in that it was compiled for use primarily by organizations that have relatively small technical staffs with limited knowledge of computers, but who wish to use digital computers for the solution of structural analysis and design problems. A brief comment is given with each paper to assist the engineer in determining the emphasis of the paper. An unusual feature of the bibliography is that each paper or report is classified with respect to the level of computer knowledge necessary for understanding the paper. Only papers readily available to most engineers and those written in English are included. The bibliography is divided into five parts: Bibliography of papers and Reports; Bibliography of Books; Some Other Bibliographies on Numerical Methods and Associated Topics; and Author and Subject Indexes to Papers and Reports.
+
+

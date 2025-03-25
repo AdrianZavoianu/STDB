@@ -1,0 +1,528 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Wei Wang
+    
+        AU - Cheng Fang
+    
+        AU - Yuezhen Ji
+    
+        AU - Yongchang Lu
+    
+        AU - Michael CH Yam
+    
+
+TI - Experimental and Numerical Studies on Fe–Mn–Si Alloy Dampers for Enhanced Low-Cycle Fatigue Resistance
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022170
+VI - 148
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0003459 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003459
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003459
+SO - Journal of Structural Engineering 2022-11-01 148(11): 04022170
+AB - A new type of Fe–Mn–Si alloy damper is developed in this study to enable significant enhancement of the low-cycle fatigue (LCF) resistance compared with conventional metal dampers. A set of material tests was conducted first to foster a good understanding of the basic mechanical properties of the Fe–Mn–Si alloy, followed by a comprehensive experimental study on 18 shear damper specimens, considering different materials, connection types, restraining conditions, and loading protocols. A numerical investigation was also conducted to help interpret the test results. Among other important findings, the study reveals that the Fe–Mn–Si alloy exhibits a non-obvious yield plateau followed by noticeable strain hardening under monotonic loading. The fracture strain attains 57.4%, showing good ductility. Under cyclic loading, the Fe–Mn–Si alloy dampers exhibit different failure modes compared with their normal steel counterparts. The former mainly fails in fracture near the center of the plate, whereas the fracture of the latter tends to initiate from the edge. Importantly, the Fe–Mn–Si alloy dampers show fatigue life and total energy dissipation capacity up to 10 times that of their steel counterparts. Using buckling-restraining plates brings further benefits to the fatigue resistance and energy dissipation capacity. A combined kinematic/isotropic hardening model is shown to adequately capture the hysteretic behavior of the Fe–Mn–Si alloy material, where calibrated parameters are given. Finally, building on the findings from the present study, future research opportunities regarding the analysis and design of Fe–Mn–Si components, including their weld and heat affected zones, are highlighted.
+
+
+    
+        AU - Nicolas Manzini
+    
+        AU - André Orcesi
+    
+        AU - Christian Thom
+    
+        AU - Marc-Antoine Brossault
+    
+        AU - Serge Botton
+    
+        AU - Miguel Ortiz
+    
+        AU - John Dumoulin
+    
+
+TI - Machine Learning Models Applied to a GNSS Sensor Network for Automated Bridge Anomaly Detection
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022171
+VI - 148
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0003469 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003469
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003469
+SO - Journal of Structural Engineering 2022-11-01 148(11): 04022171
+AB - Structural health monitoring (SHM) based on global navigation satellite systems (GNSS) is an interesting solution to provide absolute positions at different locations of a structure in a global reference frame. In particular, low-cost GNSS stations for large-scale bridge monitoring have gained increasing attention these last years because recent experiments showed the ability to achieve a subcentimeter accuracy for continuous monitoring with adequate combinations of antennas and receivers. Technical solutions now allow displacement monitoring of long bridges with a cost-effective deployment of GNSS sensing networks. In particular, the redundancy of observations within the GNSS network with various levels of correlations between the GNSS time series makes such monitoring solution a good candidate for anomaly detection based on machine learning models, using several predictive models for each sensor (based on environmental conditions, or other sensors as input data). This strategy is investigated in this paper based on GNSS time series, and an anomaly indicator is proposed to detect and locate anomalous structural behavior. The proposed concepts are applied to a cable-stayed bridge for illustration, and the comparison between multiple tools highlights recurrent neural networks (RNN) as an effective regression tool. Coupling this tool with the proposed anomaly detection strategy enables one to identify and localize both real and simulated anomalies in the considered data set.
+
+
+    
+        AU - Gholamreza Gholipour
+    
+        AU - A. H. M. Muntasir Billah
+    
+
+TI - Dynamic Behavior of Rocking Concrete Bridge Piers Subjected to Vehicle Collisions
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022172
+VI - 148
+IP - 11
+AID - 10.1061/JSENDH.STENG-11463 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11463
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11463
+SO - Journal of Structural Engineering 2022-11-01 148(11): 04022172
+AB - The nonlinear dynamic behavior of rocking bridge piers with different configurations was numerically investigated in this study when subjected to vehicle collisions using finite-element (FE) simulations in LS-DYNA software. The impact performances of the rocking monolithic and segmental piers were evaluated and compared to a monolithic pier considering the variations of the impact velocity (Vimp) and the axial load ratio (ALR). The FE simulations revealed that the rocking monolithic and segmental piers experienced lower peak impact forces, mitigated flexural damage, and dissipated more energy compared to the monolithic pier owing to the slippage mechanism at the joint interfaces. In addition, although an increase in the number of segments led to more severe localized concrete spalling damage, it enhanced the energy dissipation in the rocking piers. Furthermore, compared to the total collapses of the monolithic and rocking segmental piers under a high rate of vehicle impact at Vimp=140  km/h, the rocking monolithic pier demonstrated superior impact performance by withstanding total collapse owing to the higher structural integrity of the pier and lower stress concentration. Also, an absolute positive effect of the ALR on the impact resistance of the monolithic and rocking piers was obtained when the piers were subjected to medium-velocity impacts leading to relatively low deformations in the piers. However, an ALR of 0.15 was recognized as a sensitivity level of the piers’ impact resistance under a high-velocity vehicle impact with Vimp=140  km/h.
+
+
+    
+        AU - Karim Mostafa
+    
+        AU - Ioannis Zisis
+    
+        AU - Ted Stathopoulos
+    
+
+TI - Large-Scale Wind Testing on Roof Overhangs for a Low-Rise Building
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022173
+VI - 148
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0003477 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003477
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003477
+SO - Journal of Structural Engineering 2022-11-01 148(11): 04022173
+AB - Roof overhangs are prone to wind damage because they are subject to wind load at both the upper and bottom surfaces. Wind standards assume that the pressure at the bottom covering of a roof overhang will be the same as the external pressure coefficient on the adjacent wall surface. A large-scale experimental campaign was carried out at the Wall of Wind (WOW) Research Experimental Facility to investigate the validity and possible limitations of such assumptions. The experimental setup considered two 1:10 scaled models [0.61 m (2 ft) and 1.83 m (6 ft) inclined overhangs with a soffit] of a low-rise hip roof building with roof slope 4:12, eave height of 7.5 m (24 ft), and horizontal dimensions of 12.2 m (40 ft)× 15.24 m (50 ft). The two models were tested for open terrain for 40 wind directions (WDs). The study provided information on pressure variations at the top and bottom surfaces of overhangs, adjacent roof areas, and underneath walls. Pressure and correlation coefficients were generated between soffits and underneath walls to quantify the effect of overhang width. The research showed that the 0.61 m (2 ft) overhang experienced higher suction coefficients at the edges compared to the 1.83 m (6 ft) overhang. In addition, the results confirmed that, for both configurations, soffit positive pressure coefficients may be assumed to be equal to the adjacent wall external pressure, as stated by a common standard, while this might not be applicable for negative pressure coefficients. Correlation and regression analyses between soffit pressure taps and wall upper taps show that the 1.83 m (6 ft) soffit appeared to be less correlated with the wall upper taps, compared to the 0.61 m (2 ft) soffit. Finally, area-averaged pressure coefficients for overhangs and adjacent roof areas were compared to the provisions in one standard for each specified zone, and differences were found.
+
+
+    
+        AU - Xiongwei Yang
+    
+        AU - Shubi Du
+    
+        AU - Mingshui Li
+    
+        AU - Chuan Qin
+    
+        AU - Haicheng Zhang
+    
+        AU - Jianhan Yu
+    
+
+TI - Effects of the Turbulence Integral Scale on the Non-Gaussian Properties and Extreme Wind Loads of Surface Pressure on a CAARC Model
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022174
+VI - 148
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0003488 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003488
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003488
+SO - Journal of Structural Engineering 2022-11-01 148(11): 04022174
+AB - To study the effects of the turbulence integral scale on the non-Gaussian properties and extreme wind loads of surface pressure, the surface pressures for two Commonwealth Advisory Aeronautical Research Council (CAARC) scaled models were measured in three turbulent flow fields with different turbulence integral scales. The results show that the surface pressure distribution on the windward surface is fundamentally Gaussian, while the surface pressures on the side and leeward surfaces are markedly non-Gaussian. The deviation from normality strongly depends on the ratio of the turbulence integral scale to the windward width (Lux/D). With changing Lux/D, the fluctuating pressure, skewness, kurtosis, probability density distribution, non-Gaussian peak factors, and extreme wind loads vary significantly. In addition, the surface pressure nonnormality becomes more evident for lower Lux/D wind fields, increasing Sk, Ku, and the fluctuating pressure’s peak factor. In contrast, the fluctuating pressure decreases with decreasing wind-field Lux/D, resulting in the underestimation of extreme wind loads. Further, the extreme wind load maximal error margin reaches 30.7% when the simulated turbulence integral scale error margin is 70%, even for nonnormal surface pressures. Hence, nonnormality of the surface pressure and the effects of the turbulence integral scale should be carefully considered when estimating extreme wind loads for CAARC standard tall buildings using wind-tunnel tests.
+
+
+    
+        AU - Yue Dong
+    
+        AU - Yanlin Guo
+    
+        AU - Bruce R. Ellingwood
+    
+        AU - Hussam N. Mahmoud
+    
+
+TI - Deaggregation of Wind Speeds for Hurricane Scenarios Used in Risk-Informed Resilience Assessment of Coastal Communities
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022175
+VI - 148
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0003410 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003410
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003410
+SO - Journal of Structural Engineering 2022-11-01 148(11): 04022175
+AB - Coastal cities in the east and southeast regions of the US have seen significant population growth and economic development in the last 2&nbsp;decades. As a result, urban infrastructure, populations, and economies are becoming increasingly vulnerable to hurricane-driven hazards. Criteria for wind design in national standards are intended specifically for the design and performance assessment of individual buildings and other facilities for life safety. They are not adequate for assessing community resilience because hurricane winds are spatially nonuniform. Although scenario-based approaches to representing hurricane demands are more useful in community performance assessment because the distinct features of various hurricane scenarios and their impact on a community can be captured, they are not tied to a specific hazard level. This study introduces a new method for systematically identifying a set of hurricane scenarios corresponding to a stipulated return period (RP) for resilience assessment of coastal communities using a deaggregation approach, which establishes a connection that has not existed previously between hurricane scenarios and the building regulatory process. A community patterned after Miami, Florida, was used to demonstrate the proposed hazard deaggregation and damage analysis. Hurricane scenario events that are dominant contributors to the stipulated RP events, coupled with fragility models of engineered buildings, were used to identify building damage patterns and form an improved basis for risk-informed decision making.
+
+
+    
+        AU - Fahimeh Yavartanoo
+    
+        AU - Thomas H.-K. Kang
+    
+
+TI - Dry-Stack Masonry Wall Modeling Using Finite-Element Method
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022176
+VI - 148
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0003457 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003457
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003457
+SO - Journal of Structural Engineering 2022-11-01 148(11): 04022176
+AB - Masonry has been used throughout the world and in heritage and historical structures. For this study, two-dimensional (2D) nonlinear finite-element models based on a micromodeling approach were constructed in order to model deformation characteristics of historical stone masonry shear walls subject to combined axial compression and lateral loading. For calibration and validation of the numerical models, previous experimental tests results were considered. To assess critical parameter effects on the behavior of the walls, sensitivity analysis on the calibrated model was conducted. To obtain the overall energy absorption capability of the walls, the loading protocol, and load-displacement hysteresis curves, cyclic analysis of the calibrated model for the dry-stack mortarless sawn stone masonry walls was performed. Numerical analysis results were then compared with experimental test results with general agreement found.
+
+
+    
+        AU - Tamika J. Bassman
+    
+        AU - Kuanshi Zhong
+    
+        AU - Jack W. Baker
+    
+
+TI - Evaluation of Conditional Mean Spectra Code Criteria for Ground Motion Selection
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022177
+VI - 148
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0003471 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003471
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003471
+SO - Journal of Structural Engineering 2022-11-01 148(11): 04022177
+AB - The choice of spectral targets for ground motion selection has a strong impact on structural demands resulting from nonlinear time history analysis. In particular, the conditional mean spectrum (CMS) has been recognized as an appealing alternative to the uniform hazard spectrum (UHS) as a spectral target due to the former’s more realistic shape and reduced conservatism. Using a tall building case study in a high-seismicity region, this paper evaluates the building demands generated by UHS- and CMS-based selection procedures. Theoretically rigorous implementation of CMS-based selection using 17 different conditioning periods is shown to reduce maximum considered earthquake (MCE)–level demands on the case study building by 9%–35% relative to UHS-based selection. Furthermore, the simplified CMS-based procedure in the building code with apt choice of only two conditioning periods is found to satisfactorily capture the demands generated by the theoretically rigorous approach. Findings also highlight the degree of sensitivity of CMS-based results to the choice of conditioning periods and to enforcement of lower bounds on spectral targets, such as 75% of the UHS. The presented analysis procedure can be replicated in future studies for explicit evaluation of simplified CMS ground motion selection in other structural systems or analysis cases. Since its introduction to the building code, the alternative, conditional mean spectrum-based method for ground motion selection has gained traction among practitioners due to its reduced conservatism relative to traditional selection methods. To simplify the implementation of conditional mean spectra in practice, the building code alternative method requires a minimum of only two target spectra be used, so long as their envelope satisfies a lower bound within a specified period range. However, there are few quantitative studies of the impacts of these simplifications on the resulting building demands. In this study, we demonstrate how building demands vary when a tall building in a high-seismicity region is analyzed using either a traditional or a conditional mean spectrum-based selection approach. We find that using two reasonable target spectra in accordance with the alternative method produces acceptable building demands as compared to the demands obtained from performing exhaustive nonlinear analysis with a large number of target spectra. Furthermore, we illustrate how different choices of conditional mean spectrum targets maximize different types of building demands (e.g.,&nbsp;interstory drift, base shear, floor acceleration) and how some types of demands are more sensitive to this choice than others. This work provides a procedure for evaluating conditional mean spectrum-based ground motion selection that can be replicated in the future for other buildings or structural systems.
+
+
+    
+        AU - Angelo Aloisio
+    
+        AU - Alessandro Contento
+    
+        AU - Rocco Alaggio
+    
+        AU - Bruno Briseghella
+    
+        AU - Massimo Fragiacomo
+    
+
+TI - Probabilistic Assessment of a Light-Timber Frame Shear Wall with Variable Pinching under Repeated Earthquakes
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022178
+VI - 148
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0003464 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003464
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003464
+SO - Journal of Structural Engineering 2022-11-01 148(11): 04022178
+AB - Pinching characterizes the hysteretic response of several structural systems. It is associated with a reduced dissipated hysteretic energy under cyclic loading and can significantly affect seismic performance, especially under repeated earthquakes. Although several scholars proposed advanced joint arrangements with reduced pinching, ordinary timber structures present pronounced pinching effects due to the local damage to the timber joints. This paper quantifies the impact of variable pinching on the seismic performance of a timber structural archetype. The authors modeled the hysteretic response of a light-timber framed assembly using an empirical hysteresis model and assessed the sensitivity of the displacement demand of the chosen archetype to pinching, number of earthquake repetitions, and spectral acceleration. The choice of an elementary structural archetype, rather than a more complex system, allows isolating the effects of pinching, which could otherwise be disguised by other phenomena, like force redistribution between structural assemblies due to plasticization.
+
+
+    
+        AU - Satish Nagarajaiah
+    
+        AU - Lin Chen
+    
+        AU - Meng Wang
+    
+
+TI - Adaptive Stiffness Structures with Dampers: Seismic and Wind Response Reduction Using Passive Negative Stiffness and Inerter Systems
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022179
+VI - 148
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0003472 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003472
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003472
+SO - Journal of Structural Engineering 2022-11-01 148(11): 04022179
+AB - High-rise structures and large-span bridges have low vibration frequencies and low intrinsic damping and hence are subjected to multimode vibrations under environmental excitation. Supplementing damping is a viable means to suppress such vibrations. The amount of supplemental damping is nevertheless limited as the damping devices in practice can only be attached to the structure at positions while the displacements or relative displacements in vibrations are small. Introducing negative stiffness, passively by negative stiffness devices (NSDs) or inerters, at the damping device positions is an effective damping enhancement approach. This study focuses on the multimode damping effects of dampers enhanced by NSDs and inerters for flexible structures, with emphasis on the frequency-independence (NSDs)/dependence (inerters) of the introduced negative stiffness. Tall buildings/bridges with outrigger systems incorporating NSDs (NSDOs) and inerters (IDOs) are taken as examples for demonstration of the multimode response mitigation performance. First, the principle of equal modal damping is applied for tuning IDOs to achieve maximal damping for a target mode. Then, an equivalent NSDO is determined to achieve the same level of damping of the target mode. Subsequently, multimode damping ratios for the first several modes are compared for the building respectively with the tuned IDOs and the equivalent NSDOs. The results show that the IDOs when tuned to a particular mode (e.g.,&nbsp;the second mode) have almost no effect on the damping of a lower mode (first mode)—as compared to what can be achieved by conventional damped outriggers (CDOs). IDOs tend to lock the relative motion between the outrigger and the perimeter columns in higher structural modes because of their frequency dependence. However, NSDOs achieve comparable damping enhancement for all modes as compared to CDOs because of their frequency independence. It is also found that for a higher mode it might be preferable to use IDOs with small inertance to achieve a target level of damping that requires a large absolute negative stiffness value, although NSDs can be enhanced by adding levers to achieve large negative stiffness values as demonstrated recently by the first author. The findings have also been confirmed by numerical analyses of a typical building under seismic and wind loading. Practical and implementable NSD with rate-independent damping is developed based on the classical Maxwell—Weichert model to help mitigate vibrations in several modes, which is the subject of a future study.
+
+
+    
+        AU - Meng Wang
+    
+        AU - Satish Nagarajaiah
+    
+        AU - Lin Chen
+    
+
+TI - Adaptive Passive Negative Stiffness and Damping for Retrofit of Existing Tall Buildings with Tuned Mass Damper: TMD-NSD
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022180
+VI - 148
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0003474 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003474
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003474
+SO - Journal of Structural Engineering 2022-11-01 148(11): 04022180
+AB - It is known that the performance of traditional passive tuned mass dampers (TMDs) is highly sensitive to vibration frequency. The fundamental frequency of existing tall buildings may shift to lower value due to damage or other reasons. In this regard, this paper deals with the resultant detuning problems of a traditional passive TMD for vibration control by retrofitting it with a passive adaptive negative stiffness device (NSD). The applied NSD not only provides negative stiffness for adjusting the TMD’s de-tuned stiffness at its working stage, but also offers a fail-safe limiting stop for the TMD at large deformation/stroke. In this study, compared to the original TMD, a novel TMD-NSD assembly is proposed that is shown to be more effective for serviced structures. For example, the original TMD can only provide about 2.83% additional damping ratio to frequency-changed structures, while the newly proposed TMD-NSD further improves the damping ratio to 5.34%. Moreover, in the study it is found that the TMD-NSD also outperforms the TMD in resisting dynamic lateral loading such as along winds, cross winds, and earthquakes.
+
+
+    
+        AU - Giuseppe Andrea Ferro
+    
+        AU - Luciana Restuccia
+    
+        AU - Devid Falliano
+    
+        AU - Achille Devitofranceschi
+    
+        AU - Angelo Gemelli
+    
+
+TI - Collapse of Existing Bridges: From the Lesson of La Reale Viaduct to the Definition of a Partial Safety Coefficient of Variable Traffic Loads
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022181
+VI - 148
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0003458 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003458
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003458
+SO - Journal of Structural Engineering 2022-11-01 148(11): 04022181
+AB - From the post-war period to present day, economic development and urbanization have led to various demands for infrastructure, including bridges and viaducts. However, especially in recent years, there have been reports of sudden and unexpected collapses of bridges and viaducts, associated with large economic losses and, unfortunately, loss of human lives. The study of the causes that have led to these disasters is of strategic importance because it allows for the deepening of the specific technical knowledge. For this reason, this paper presents the study of the causes that led to the collapse of one of the spans of the “La Reale” viaduct in the Piedmont region in Italy. The main reason for the collapse was to be found in the incorrect injection of cables, which led to the absence of grout inside the sheaths for a length equal to one third of the deck. In this region, cables were subjected to a highly aggressive environment with severe corrosion. This resulted in fragile failure of the deck, with no signs that could suggest such important structural problems during normal inspection operations. The only evidence was some white efflorescence. However, in light of the knowledge prior to the present study, this evidence could not be easily connected to the type of phenomenon in progress that led to the collapse. Based on the experimental tests carried out on the collapsed portion, this study highlights new symptoms not associated with any structural pathology previously studied. The main concern relative to the structural safety assessment in cases such as the one presented in this study is related to the lack of evidence on the current state of cable degradation. Therefore, objective data for numerical evaluations is coming from bridge load tests. In this regard, the evaluation of a partial safety coefficient of variable traffic loads according to two different approaches based on bridge load tests and safety factors suggested by structural codes is presented.
+
+
+    
+        AU - Ryan Slein
+    
+        AU - Ajit M. Kamath
+    
+        AU - Ryan J. Sherman
+    
+        AU - Donald W. White
+    
+
+TI - Manual Estimation of Elastic Lateral-Torsional Buckling Resistance of Linearly Tapered I-Section Members
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022182
+VI - 148
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0003497 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003497
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003497
+SO - Journal of Structural Engineering 2022-11-01 148(11): 04022182
+AB - This paper presents the evaluation of two methods for manually estimating the elastic lateral-torsional buckling (LTB) resistance of general doubly and singly symmetric I-section members having a linear variation in the web depth. The study focuses on unbraced lengths having idealized torsionally simply supported (fork) end conditions. The first method uses cross-sectional properties at the midspan of the unbraced segment along with a moment gradient modifier equation, written in terms of the flange stresses, to develop its strength approximation. This approach is employed in the first edition of the AISC-MBMA Design Guide 25 (DG 25). The second method is an extension of an approach that has been shown to be accurate and efficient for prismatic doubly and singly symmetric I-section members and is recommended in the second edition of DG 25. This approach uses cross-sectional properties at a critical section within the unbraced length, defined as the cross section where the ratio of the moment demand to the base LTB resistance in uniform bending is maximum, along with a moment gradient modifier equation written in terms of the above maximum ratio and the corresponding ratios at the quarter points of the unbraced length. Furthermore, Method 2 employs an additional calibration factor that accounts for an apparent destabilizing effect of the inclination of the shear center with respect to the axis of torsional restraint. The predictions from these methods are evaluated by an extensive parametric study encompassing the full design space for I-section members with linearly-varying web depth, as defined by DG 25. The second method is shown to provide improved accuracy, avoiding undesirable nonconservative errors in certain situations. The calibration factor developed as part of the second method is shown to eliminate undesirable errors in the first method as well, providing streamlined and accurate buckling estimates for linearly tapered member unbraced lengths.
+
+
+    
+        AU - Yi-Hsuan Tu
+    
+        AU - I-Ting Tung
+    
+        AU - Tsung-Chih Chiou
+    
+
+TI - In-Plane Loading Tests and a Retrofitting Technique for Masonry Infill Panels in RC Frames with Eccentric Openings
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022183
+VI - 148
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0003481 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003481
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003481
+SO - Journal of Structural Engineering 2022-11-01 148(11): 04022183
+AB - The use of masonry infills in reinforced concrete (RC)-framed structures implicates the strength of the frame and the seismic resistance of the building. The present study (1)&nbsp;experimentally investigated the behavior of masonry infill panels surrounded by RC frames with eccentric door openings, (2)&nbsp;proposed and evaluated a retrofitting method based on the experimental results, and (3)&nbsp;introduced an analytical masonry infill model that is currently used in seismic assessment for RC buildings in Taiwan. This study’s retrofitting method centers on improving the confinement at the opening edge only instead of reinforcing the panel itself. Compared with existing methods, this method entails a lower retrofitting cost because a smaller area needs to be retrofitted. In experiments, the method notably improved the lateral resistance, where retrofitting yielded a 68% and 120% increase in strength in the push and pull directions, respectively. The confinement provided by the retrofit elements (1)&nbsp;allowed the damage on the panel to develop gradually; and (2)&nbsp;maintained the integrity of the panel during the test. Consequently, the drift at maximum strength significantly increased, and the panel could provide higher residual strength after a peak in strength. Although the deformation capacity was not improved because the retrofitting method did not alter the behavior of the columns, retrofitting yielded better energy dissipation due to a higher residual strength. Furthermore, the analytical masonry infill model generally agreed with the experimental data, although the displacements where the maximum strength occurred were underestimated and overestimated in the specimens with and without retrofitting, respectively.
+
+
+    
+        AU - Guillermo Riveros
+    
+        AU - Emad M. Hassan
+    
+        AU - Lauren Hudak
+    
+        AU - Hussam Mahmoud
+    
+
+TI - Basalt Fibers for Underwater Fatigue Repair of Steel Panels
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022184
+VI - 148
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0003489 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003489
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003489
+SO - Journal of Structural Engineering 2022-11-01 148(11): 04022184
+AB - Fatigue damage is a major threat to the safety and integrity of many steel structures. Steel hydraulic structures (SHS), in particular, experience fatigue loading during operation and are exposed to harsh environmental conditions that can further reduce fatigue life through mechanisms. The traditional inspection and repair process for SHS is time-consuming and leads to economic losses. Studies investigating the behavior and advantages of using bonded carbon fiber-reinforced polymer (CFRP) to repair fatigue cracks in SHS are lacking. The main objectives of this study are to increase the bonding of CFRP, investigate the effectiveness of different fiber-reinforced polymers, and test different retrofitting configurations for SHS. In this study, eight large-scale center-cracked panels were tested under constant amplitude mode I fatigue loading that utilized different surrounding environments, repair materials, and retrofitting configurations. Results indicated that the use of both CFRP and basalt fiber-reinforced polymer (BFRP) are both effective at extending fatigue life. Steel retrofitted with full patches of BFRP that cover the crack can have infinite fatigue life. The extent of fatigue life extension was still controlled by the quality of the fiber-reinforced polymers bond to steel; however, bond behavior was significantly improved in comparison to previous underwater applications.
+
+
+    
+        AU - Panwei Du
+    
+        AU - Yaowen Yang
+    
+        AU - Kang Hai Tan
+    
+
+TI - Effects of Biaxial Bending and Axial Restraint on Hybrid Fiber Reinforced High-Performance Concrete Columns at Elevated Temperatures
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022185
+VI - 148
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0003484 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003484
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003484
+SO - Journal of Structural Engineering 2022-11-01 148(11): 04022185
+AB - The presence of axial restraint and biaxial load eccentricity plays a vital role in the behavior and design of columns under fire conditions. Because there is limited research on these two parameters, an experimental study on hybrid fiber reinforced high-performance concrete (HPC) columns subject to standard fire curve is performed to explore the effect of biaxial bending and axial restraint. A total of four full-scale HPC columns are tested to explore the structural and spalling behavior at elevated temperatures. Test results including thermal and structural responses are elaborated, and temperature distribution, structural deformation, thermally induced restraint force, crack pattern, and fire endurance are analyzed and discussed. Explosive spalling does not occur in all the columns even under biaxial load eccentricity and axial restraint, which is attributed to the presence of steel and polypropylene fibers. It is shown that thermally induced restraint force accelerates the deformations of restrained columns. Consequently, the fire endurance of restrained columns is reduced compared with unrestrained columns. Besides, a numerical model to trace the development of axial deformation and restraint force is proposed. The proposed model is validated with test results with respect to temperature profiles, axial deformation, and restraint force. It shows that the proposed model has reasonable accuracy.
+
+
+    
+        AU - Bowei Li
+    
+        AU - Seymour M. J. Spence
+    
+
+TI - Metamodeling through Deep Learning of High-Dimensional Dynamic Nonlinear Systems Driven by General Stochastic Excitation
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022186
+VI - 148
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0003499 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003499
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003499
+SO - Journal of Structural Engineering 2022-11-01 148(11): 04022186
+AB - Modern performance evaluation and design procedures for structural systems against severe natural hazards generally require the propagation of uncertainty through the repeated evaluation of high-dimensional nonlinear dynamic systems. This often leads to intractable computational problems. A potential remedy to this situation is to accelerate the evaluation of the dynamic system through leveraging metamodeling techniques. In this work, deep learning is combined with a data-driven model order reduction technique for defining a highly efficient and nonintrusive metamodeling approach for nonlinear dynamic systems subject to general stochastic excitation. Potentially high-dimensional building structures are reduced first through Galerkin projection by leveraging a set of proper orthogonal decomposition bases via singular value decomposition. A long-short term memory deep learning network is subsequently trained to mimic the mapping from the space of the excitation to the responses of the reduced model. In addition, to accelerate the efficiency of the network, wavelet approximations of the reduced excitation and responses are incorporated. The potential of the metamodeling framework is illustrated through the application to both a multi-degree-of-freedom Bouc–Wen system as well as a multi-degree-of-freedom fiber-discretized nonlinear steel moment resisting frame. The calibrated metamodels are shown to be over three orders of magnitude faster than state-of-the-art high-fidelity nonlinear dynamic solvers while preserving remarkable accuracy in reproducing both global and local dynamic response.
+
+
+    
+        AU - Chao Zou
+    
+        AU - James A. Moore
+    
+        AU - Masoud Sanayei
+    
+        AU - Ziyu Tao
+    
+        AU - Yimin Wang
+    
+
+TI - Impedance Model of Train-Induced Vibration Transmission Across a Transfer Structure into an Overtrack Building in a Metro Depot
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022187
+VI - 148
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0003482 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003482
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003482
+SO - Journal of Structural Engineering 2022-11-01 148(11): 04022187
+AB - In recent years, the construction of the overtrack building complexes including offices, schools, residences, stores, and restaurants above metro depots has increased in China. Train-generated vibration transmits through ground columns into and across transfer structures into the building’s columns and upper floors. The vibration has the potential to impact people’s quality of life, work in office buildings, and the proper function of vibration-sensitive equipment in laboratories. An efficient computational model has been developed that characterizes the dominant mode of vibration transmission through each structural element including those in transfer structures in building designs where ground and building columns are not aligned. Impedance matrices are combined for the elements along the transmission path from inputs at ground columns with axial wave transmission into the transfer structures’ girders and beams with bending wave transmission and the building columns with axial wave transmission. Floors are characterized by point input impedances. Model inputs are vibration levels at ground column bases during train pass-bys. Model predictions were compared with measured vibration levels within a 4-story overtrack building on a transfer structure in the Qianhai depot in China. The agreement between predicted and measured vibration levels was quite good. The proposed model can be used to accurately predict overtrack vibration levels for buildings supported on a transfer structure with a small computational cost in order to identify potential vibration concerns prior to construction.
+
+
+    
+        AU - Mojtaba Aliasghar-Mamaghani
+    
+        AU - Ioannis Koutromanos
+    
+        AU - Carin Roberts-Wollmann
+    
+        AU - Matthew Hebdon
+    
+
+TI - Analytical Evaluation of Corrosion-Induced Strength Degradation in Prestressed Bridge Girders
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022188
+VI - 148
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0003503 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003503
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003503
+SO - Journal of Structural Engineering 2022-11-01 148(11): 04022188
+AB - This paper uses nonlinear analysis to determine the impact of corrosion-induced damage on the load-carrying capacity of prestressed concrete bridge girders. The analyses rely on two types of models, namely, beam models and nonlinear truss models. The latter are deemed necessary to obtain reliable estimates of the shear capacity, as beam models are not well-tailored for capturing shear failures. A procedure to account for the reduction in area and deformability of corroded strands, based on visually observed corrosion damage, is proposed and implemented. The models are calibrated and validated with the results of experimental tests on prestressed girders, which exhibited varying levels of corrosion-induced damage. Further analyses allow the comparison of the capacity of corrosion-damaged girders to that of their undamaged counterparts. The accuracy of a simplified procedure, using equations in the AASHTO code to determine the flexural and shear capacity of the damaged girders, is also determined.
+
+
+    
+        AU - Abhiroop Goswami
+    
+        AU - Thiagarajan Ganesh
+    
+        AU - Satadru Das Adhikary
+    
+
+TI - High-Strength Materials for the Response Enhancement of Reinforced Concrete Structures Subjected to Cased Explosive Charges
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022189
+VI - 148
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0003491 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003491
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003491
+SO - Journal of Structural Engineering 2022-11-01 148(11): 04022189
+AB - The paper studies the flexural responses of one-way reinforced concrete structural elements subjected to cased explosive charges to explore the suitability of using high-strength materials for such scenarios. The detonation of cased explosive charges leads to the generation of fragments due to the rupturing of the casing housing the high explosive charge. Consequently, structures subjected to the detonations of cased explosive charges are acted upon by both the blast wave (due to the detonation of the high explosive charge) and the fragments. This study was motivated by the fact that although similar studies have been conducted to explore the suitability of using high-strength materials for scenarios involving bare (uncased) explosive charges, such studies are still uncommon when it comes to cased explosive charges. The methodology adopted herein consisted of developing a semianalytical approach that was validated against (1)&nbsp;the results of experimental static tests available in the literature, (2)&nbsp;the results of experimental blast trials conducted with bare (uncased) explosive charges that are available in the literature, and (3) the results of finite-element simulations, conducted by the authors due to the nonavailability of a relevant experimental data set in the public domain pertaining to cased explosive charges (to the best of the authors’ knowledge). Following the validations, the adopted semianalytical approach was further used for conducting detailed parametric investigations. It was observed that compared with the lightly cased explosive charge (casing to charge mass ratio=0.5), the peak structural displacements for the heavily cased explosive charge (casing to charge mass ratio=1.5) showed an increase of 50% (for high-strength materials) to 64% (for normal-strength materials). Moreover, compared with normal-strength materials, the application of high-strength materials was also noted to reduce the peak structural displacements by 9% to 23%, which indicated the increased measure of safety provided by the high-strength materials. In addition to this, compared with normal-strength concrete, the employment of high-strength concrete grades was also effective in limiting the fragment inflicted damage by 25% to 36%. Additionally, increasing the reinforcement ratio to 0.65% from 0.16% effectively reduced the peak structural displacements by 57% to 63%.
+
+
+    
+        AU - Natalia Reggiani Manzo
+    
+        AU - Michalis F. Vassiliou
+    
+        AU - Harris Mouzakis
+    
+        AU - Efstratios Badogiannis
+    
+        AU - Lucia Karapitta
+    
+
+TI - Development of a Dataset from Shaking Table Tests of a Bridge System with Precast Reinforced Concrete Columns Equipped with Springs
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04722003
+VI - 148
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0003487 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003487
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003487
+SO - Journal of Structural Engineering 2022-11-01 148(11): 04722003
+AB - This article describes the publicly available dataset of multiple shaking table tests on a restrained rocking and sliding bridge system exhibiting negative lateral stiffness. Given the scarcity of experimental campaigns on such systems, this dataset is valuable for the development and validation of analytical and numerical models, with 184 tests. This large body of data allows the models to be validated in a statistical sense. This work describes in detail the specimen and its construction, as well as all instrumentation used during the tests. It presents the organization of the shared data, and concludes with some examples of how the available data can be postprocessed for assessing the behavior of the system.
+
+
+    
+        AU - Dimitrios Patsialis
+    
+        AU - Alexandros A. Taflanidis
+    
+
+TI - Implementation of Reduced-Order Modeling for Time-History Analysis of Hysteretic Structures Equipped with Seismic Protective Devices
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 06022004
+VI - 148
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0003441 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003441
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003441
+SO - Journal of Structural Engineering 2022-11-01 148(11): 06022004
+AB - Reduced-order models (ROMs) can provide computationally efficient approximations of the response of finite element models (FEMs). Recent studies have examined the explicit calibration of hysteretic, multi-degree-of-freedom ROMs utilizing FEM time-history response data, and have demonstrated how the calibrated ROM can adequately replace the original FEM for seismic risk assessment. This study considers the extension of this work for applications involving seismic protection devices (SPDs). The ROM is calibrated for the building structure without the device, and can be subsequently used to assess the performance for any desired SPD (no need to perform recalibration with the SPD). This is demonstrated considering three different SPD types: fluid viscous dampers, tuned-mass dampers, and inerter-based devices. It is verified that the calibration of the ROM without the protective device is sufficient, because existence of the SPD does not alter the fundamental hysteretic behavior of the building. The computational efficiency of the calibration process itself (performed only once) and of the resultant ROM can ultimately support a comprehensive design and assessment of the SPD-equipped structure considering nonlinear time-history analysis, circumventing traditional computational constraints that have incentivized the use of linear models in this context.
+
+

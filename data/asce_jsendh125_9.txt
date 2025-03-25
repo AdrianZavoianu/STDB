@@ -1,0 +1,441 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - David Darwin
+    
+
+TI - Editorial
+PT - Journal Article
+DP - 1999
+TA - Journal of Structural Engineering
+PG - 943-943
+VI - 125
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1999)125:9(943) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281999%29125%3A9%28943%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281999%29125%3A9%28943%29
+SO - Journal of Structural Engineering 1999-09-01 125(9): 943-943
+
+
+    
+        AU - Sashi K. Kunnath
+    
+
+TI - Editor's Note
+PT - Journal Article
+DP - 1999
+TA - Journal of Structural Engineering
+PG - 944-945
+VI - 125
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1999)125:9(944) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281999%29125%3A9%28944%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281999%29125%3A9%28944%29
+SO - Journal of Structural Engineering 1999-09-01 125(9): 944-945
+
+
+    
+        AU - Satish Nagarajaiah
+    
+        AU - Keith Ferrell
+    
+
+TI - Stability of Elastomeric Seismic Isolation Bearings
+PT - Journal Article
+DP - 1999
+TA - Journal of Structural Engineering
+PG - 946-954
+VI - 125
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1999)125:9(946) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281999%29125%3A9%28946%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281999%29125%3A9%28946%29
+SO - Journal of Structural Engineering 1999-09-01 125(9): 946-954
+AB - Elastomeric seismic isolation bearings are subjected to large axial loads and lateral displacements during strong earthquakes. The existing Koh-Kelly model for elastomeric bearings accounts for axial load effects on horizontal stiffness. This linear model is based on small displacements and rotations and predicts stable postcritical behavior or increasing critical load with increasing horizontal displacement; however, unstable postcritical behavior is observed in the bearing test results presented in this study. The analytical model developed in this study, based on the Koh-Kelly model, includes large displacements, large rotations, and nonlinearity of rubber, and it predicts unstable postcritical behavior. The formulation of the analytical model, calibration, and verification using experimental results are presented. It is shown that: (1) the critical load reduces with increasing horizontal displacement; and (2) the horizontal stiffness reduces with increasing horizontal displacement and axial load. It is also shown that the critical load capacity at a horizontal displacement equal to the width of the bearing is not equal to zero, as predicted by the approximate procedure used in design, but higher.
+
+
+    
+        AU - Jonathan P. Stewart
+    
+        AU - Joel P. Conte
+    
+        AU - Ian D. Aiken
+    
+
+TI - Observed Behavior of Seismically Isolated Buildings
+PT - Journal Article
+DP - 1999
+TA - Journal of Structural Engineering
+PG - 955-964
+VI - 125
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1999)125:9(955) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281999%29125%3A9%28955%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281999%29125%3A9%28955%29
+SO - Journal of Structural Engineering 1999-09-01 125(9): 955-964
+AB - Strong motion recordings from four seismically isolated buildings are used in time-invariant and time-variant modal identification analyses. The buildings are identified as equivalent, time-varying, linear dynamic systems characterized by their time-varying modal parameters (including fundamental-mode natural frequencies, damping ratios, and mode shapes). The identification analyses for each site are repeated using multiple earthquake recordings. In the case of one building, the inferred isolator stiffness and damping during several earthquakes is compared with experimental results. Spectral displacements of the ground motion at the effective fundamental period of the seismically isolated building are found to correlate well with two measures of isolator behavior—the maximum reduction in fundamental mode frequency during strong shaking, and the fraction of the peak total building deformation occurring within the isolators. While the recorded ground motions have much smaller amplitudes than the design basis motions, extrapolation of the observed trends in frequency reduction and relative isolator deflection to larger levels of shaking indicates performance estimates consistent with those assumed in design (which were based on laboratory testing of the isolators).
+
+
+    
+        AU - Harry W. Shenton
+    
+        AU - Francis P. Hampton
+    
+
+TI - Seismic Response of Isolated Elevated Water Tanks
+PT - Journal Article
+DP - 1999
+TA - Journal of Structural Engineering
+PG - 965-976
+VI - 125
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1999)125:9(965) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281999%29125%3A9%28965%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281999%29125%3A9%28965%29
+SO - Journal of Structural Engineering 1999-09-01 125(9): 965-976
+AB - The paper presents the results of an analytical investigation of the seismic response of isolated elevated water tanks. A discrete three-degree-of-freedom model of the isolated structure is presented that includes the isolation system, tower structure, and sloshing fluid. Fluid-structure interaction is modeled using the mechanical analogy proposed by Housner. The model captures the salient features of the system response, yet is still amenable to closed-form solution. The natural frequencies and mode shapes are determined, and a response spectrum analysis is conducted. Results are investigated for the full range of tank capacities and height-to-diameter ratios found in practice and for the full range of fluid elevations. Results of the isolated elevated tank are compared to the corresponding fixed-base tank design and indicate that seismic isolation is effective in reducing the tower drift, base shear, overturning moment, and tank wall pressure for the full range of tank capacities. Isolation is most effective for the smallest capacity tank; however, in this case, a single mode solution for the isolated structure is not adequate, as the fluid motion contributes significantly to the overall structural response. Isolation does, however, increase the relative convective fluid displacement in the tank.
+
+
+    
+        AU - Y. L. Xu
+    
+        AU - S. Zhan
+    
+        AU - J. M. Ko
+    
+        AU - Z. Yu
+    
+
+TI - Experimental Study of Vibration Mitigation of Bridge Stay Cables
+PT - Journal Article
+DP - 1999
+TA - Journal of Structural Engineering
+PG - 977-986
+VI - 125
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1999)125:9(977) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281999%29125%3A9%28977%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281999%29125%3A9%28977%29
+SO - Journal of Structural Engineering 1999-09-01 125(9): 977-986
+AB - Vibration mitigation of stay cables in cable-stayed bridges using oil dampers was experimentally investigated with scaled model cables and oil dampers. The increased cable modal damping ratios attributed to oil dampers were measured, and the relationship between the increased modal damping ratio and damper damping coefficient was pursued through a series of free vibration tests. The stay cable-oil damper systems were then driven by harmonic and planar excitation. The linear and nonlinear dynamic behaviors of the systems were observed. Free vibration tests confirmed the theoretical prediction that there is an optimum damper size by which the maximum modal damping ratio can be achieved. Free vibration tests also verified the theoretical finding that cable sag may affect damper performance due to frequency avoidance. Forced vibration tests captured a number of features of nonlinear cable vibration and demonstrated that the installation of a properly selected oil damper to the cable can significantly reduce cable vibration.
+
+
+    
+        AU - Seyed Mehdi Zahrai
+    
+        AU - Michel Bruneau
+    
+
+TI - Cyclic Testing of Ductile End Diaphragms for Slab-on-Girder Steel Bridges
+PT - Journal Article
+DP - 1999
+TA - Journal of Structural Engineering
+PG - 987-996
+VI - 125
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1999)125:9(987) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281999%29125%3A9%28987%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281999%29125%3A9%28987%29
+SO - Journal of Structural Engineering 1999-09-01 125(9): 987-996
+AB - Ductile end diaphragms have been proposed as seismic retrofit strategy to protect the substructures of existing steel slab-on-girder bridges from damage during earthquakes. This paper presents the results from an experimental program to investigate the adequacy of some proposed details. Cyclic tests on full-size girder specimens having the proposed ductile diaphragms demonstrate that these can possess adequate initial elastic stiffness, strength, and capacity to dissipate hysteretic energy in the intended manner. The specimens developed a rotational capacity of 0.2 rad when energy dissipation devices of the TADAS (Triangular-plate Added Damping And Stiffness) type were used, and link distortion angles of 0.08 to 0.11 rad when eccentrically braced frame and shear panel systems were in place, corresponding to average ductilities of 8 to 10 before failure. Better performance of the eccentrically braced frame system would have been possible had lateral support been provided at the ductile link. However, ductile end diaphragms having bolted connections suffered significant slippage, leading to pinched hysteretic curves. Tests show that welding significantly improves the seismic behavior of these ductile systems. Specimens with nominal channel diaphragms and those without any diaphragm dissipated significantly less hysteretic energy, and suffered bolt rupture, buckling of the web stiffeners, and fracture of the stiffeners welds at large drifts.
+
+
+    
+        AU - Mary Beth D. Hueste
+    
+        AU - James K. Wight
+    
+
+TI - Nonlinear Punching Shear Failure Model for Interior Slab-Column Connections
+PT - Journal Article
+DP - 1999
+TA - Journal of Structural Engineering
+PG - 997-1008
+VI - 125
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1999)125:9(997) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281999%29125%3A9%28997%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281999%29125%3A9%28997%29
+SO - Journal of Structural Engineering 1999-09-01 125(9): 997-1008
+AB - A model for predicting punching shear failures at interior slab-column connections was developed based on experimental results obtained at various universities. This model has been incorporated into a new RC slab element for the nonlinear analysis program, DRAIN-2DM, along with the desired unloading behavior when a punch occurs. A four-story RC frame office building that experienced punching shear failures during the Northridge earthquake was evaluated using this new model and the occurrence of punching shear failures was successfully postcalculated for the ground motion recorded nearest the structure. The study building was evaluated for three ground motions scaled to the same peak ground acceleration. The building response varied for each record, but in general, it was found that the inclusion of punching shear failures can modify the overall building response in terms of drift, fundamental period, inelastic activity, and base shear distribution. In the case of the study building, the presence of the stiffer moment-resisting perimeter frames helped limit the magnitude of the effect that the punching shear failures had on the overall structural response.
+
+
+    
+        AU - Sherif El-Tawil
+    
+        AU - Gregory G. Deierlein
+    
+
+TI - Strength and Ductility of Concrete Encased Composite Columns
+PT - Journal Article
+DP - 1999
+TA - Journal of Structural Engineering
+PG - 1009-1019
+VI - 125
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1999)125:9(1009) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281009%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281009%29
+SO - Journal of Structural Engineering 1999-09-01 125(9): 1009-1019
+AB - Concrete encased composite column design provisions of the American Concrete Institute Code (ACI 318), AISC-LRFD Specification, and the AISC Seismic Provisions are reviewed and evaluated based on fiber section analyses that account for the inelastic behavior of steel and concrete, including the effects of strength and confinement on the concrete's stress-strain properties. Trial column designs are analyzed to evaluate their strength and ductility as a function of the ratio of structural steel to gross column area, the nominal compression strength of concrete, and confinement of concrete by seismic hoop reinforcing. The analyses highlight known differences in the calculated nominal strength requirements between the ACI 318 and AISC-LRFD provisions and suggest a review of criteria used to establish the limits of the provisions. Compared to columns with low- to medium-strength concrete, columns with high-strength concrete (fc′ = 110 MPa) are shown to rely to a greater degree on hoop reinforcement to provide the necessary ductility for seismic design.
+
+
+    
+        AU - Xiao-Ling Zhao
+    
+        AU - Raphael Grzebieta
+    
+
+TI - Void-Filled SHS Beams Subjected to Large Deformation Cyclic Bending
+PT - Journal Article
+DP - 1999
+TA - Journal of Structural Engineering
+PG - 1020-1027
+VI - 125
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1999)125:9(1020) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281020%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281020%29
+SO - Journal of Structural Engineering 1999-09-01 125(9): 1020-1027
+AB - Local buckling and plastic hinges may occur in the compression flange of square hollow-section (SHS) beams under high amplitude cyclic bending arising from earthquakes. Once a local mechanism forms, residual strength rapidly reduces within a few cycles. This is even true for compact sections that have adequate rotation capacity under static bending. This paper compares the behavior of empty, and void-filled, cold-formed square hollow sections subjected to large deformation cyclic bending. A model is developed to estimate the ultimate moment capacity of void-filled SHS beams. The filler material used was normal concrete, low strength concrete, lightweight concrete and polyurethane. Experimental results show that void filling significantly increases ductility—and thus the number of bending cycles SHS beams can be subjected to—in overloaded situations.
+
+
+    
+        AU - J. Dimig
+    
+        AU - C. Shield
+    
+        AU - C. French
+    
+        AU - F. Bailey
+    
+        AU - A. Clark
+    
+
+TI - Effective Force Testing: A Method of Seismic Simulation for Structural Testing
+PT - Journal Article
+DP - 1999
+TA - Journal of Structural Engineering
+PG - 1028-1037
+VI - 125
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1999)125:9(1028) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281028%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281028%29
+SO - Journal of Structural Engineering 1999-09-01 125(9): 1028-1037
+AB - This paper presents a test method for real-time earthquake simulation studies of large scale test structures. The method, effective force testing (EFT), is based on a force control algorithm. For systems that can be modeled as a series of lumped masses (e.g., frame structures where masses are assumed lumped at the floor levels), the EFT forces are known a priori for any acceleration record. As opposed to the pseudodynamic test method (a displacement-based control procedure), there is no computational time required for the EFT method in determining the required force signal; it is known prior to the test once the structural mass and ground acceleration record to be simulated are determined. Research has been conducted on a single-degree-of-freedom system at the University of Minnesota to investigate the potential of the EFT method. A direct application of the method was found ineffective because the actuator was unable to apply force at the natural frequency of the structure owing to actuator/control/structure interaction. However, numerical simulations and experimental implementation indicated that an additional velocity feedback loop incorporated into the control system can overcome this problem while maintaining the ability to do real-time testing.
+
+
+    
+        AU - Christiana Dymiotis
+    
+        AU - Andreas J. Kappos
+    
+        AU - Marios K. Chryssanthopoulos
+    
+
+TI - Seismic Reliability of RC Frames with Uncertain Drift and Member Capacity
+PT - Journal Article
+DP - 1999
+TA - Journal of Structural Engineering
+PG - 1038-1047
+VI - 125
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1999)125:9(1038) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281038%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281038%29
+SO - Journal of Structural Engineering 1999-09-01 125(9): 1038-1047
+AB - A methodology is presented for the probabilistic assessment of reinforced concrete (RC) frames subjected to seismic loading. Various aspects of structural modeling, including member capacity and stiffness, along with global and member failure criteria during the analysis, are thoroughly investigated and, where appropriate, the uncertainties inherent in these are quantified using appropriate statistical techniques. A statistical description of the critical interstory drift is derived using existing experimental results mainly from shaking table tests of small-scale bare frames. The required number of input motions and the effect of the spatial distribution of the random variables are also considered. An application of this procedure is illustrated by means of producing vulnerability curves for a 10-story, three-bay frame.
+
+
+    
+        AU - Masoud Sanayei
+    
+        AU - Jennifer A. S. McClain
+    
+        AU - Sara Wadia-Fascetti
+    
+        AU - Erin M. Santini
+    
+
+TI - Parameter Estimation Incorporating Modal Data and Boundary Conditions
+PT - Journal Article
+DP - 1999
+TA - Journal of Structural Engineering
+PG - 1048-1055
+VI - 125
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1999)125:9(1048) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281048%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281048%29
+SO - Journal of Structural Engineering 1999-09-01 125(9): 1048-1055
+AB - A new error function is introduced to use natural frequencies and associated mode shapes measured at a selected subset of degrees of freedom for stiffness and mass parameter estimation at the element level. The incomplete mode shapes are used to form the “modal stiffness-based error function” by condensing out the mode shapes at the unmeasured degrees of freedom. Structural modeling errors cannot be completely avoided in any analytical procedure that relies on finite-element models; however, some errors may be controlled. Two elements are used for the first time in parameter estimation to more accurately capture the structural behavior at complex interfaces, thus reducing error. First, the soil-substructure superelement is introduced into the parameter estimation and is intended to capture stiffness and mass properties of the foundation. Second, the partially restrained frame element enables connections to be modeled as partially restrained, in addition to the more traditional fixed or pinned assumptions. To examine the capability of the proposed parameter estimation algorithm, these two new elements are incorporated in a parameter estimation example using simulated modal data. In this example, stiffness and mass parameter estimates successfully converged to the “true” parameter values with no bias within the desired tolerance level. Such parameter estimates can be used for model updating and to establish a baseline for structural condition assessment.
+
+
+    
+        AU - Seshasayee Ankireddi
+    
+        AU - Henry T. Y. Yang
+    
+
+TI - Neural Networks for Sensor Fault Correction in Structural Control
+PT - Journal Article
+DP - 1999
+TA - Journal of Structural Engineering
+PG - 1056-1064
+VI - 125
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1999)125:9(1056) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281056%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281056%29
+SO - Journal of Structural Engineering 1999-09-01 125(9): 1056-1064
+AB - Two neural network architectures are proposed for use in structural control applications: a Failure Detection Neural Network and a Failure Accommodation Neural Network. The Failure Detection Network monitors structural responses and automatically detects sensor failures that can reduce control performance and effectiveness, while the Failure Accommodation Network accounts for the failed sensors. Together, the networks are a step toward development of an expert diagnostic system for structural applications. Examples of two simple structures are used to illustrate the features of the networks. Sensor failures are simulated during control operation, and the ability of the networks to detect and accommodate the failures is examined. The numerical results reveal that these networks show promise for automated intelligent fault detection, identification, classification, and accommodation, and as such may have potential use in real civil structures. Although the networks have been used to detect and account for sensor faults alone, they may also be trained for other kinds of failures. Thus, they may have potential for incorporation into an intelligent structural monitoring system.
+
+
+    
+        AU - A. Caner
+    
+        AU - R. Hsu
+    
+
+TI - Tensioned Fabric Shape-Finding
+PT - Journal Article
+DP - 1999
+TA - Journal of Structural Engineering
+PG - 1065-1071
+VI - 125
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1999)125:9(1065) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281065%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281065%29
+SO - Journal of Structural Engineering 1999-09-01 125(9): 1065-1071
+AB - Tensioned glass fiber-reinforced fabric has been used in roofs and canopies for various permanent structures such as stadiums and airport terminals all around the world. At its final state of geometry, the fabric shall be all in tension in its natural stable shape. The natural shape of the fabric can be generated by refining a 2D computer model to determine the 3D state using a geometric nonlinear analysis program for the personal computer. This paper presents an actual design case using a general purpose structural analysis program to reduce the complexity involved in finding the true natural shape of the tensioned fabric roofs.
+
+
+    
+        AU - Keith MacBain
+    
+        AU - Ala Saadeghvaziri
+    
+        AU - W. R. Spillers
+    
+
+TI - Examples of Stress Hardening and Softening in Three-Dimensional Beams
+PT - Journal Article
+DP - 1999
+TA - Journal of Structural Engineering
+PG - 1073-1075
+VI - 125
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1999)125:9(1073) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281073%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281073%29
+SO - Journal of Structural Engineering 1999-09-01 125(9): 1073-1075
+AB - This note describes some interactions that can occur between stress resultants in elastic, three-dimensional structures when geometric (beam-column) nonlinearities are considered. These effects generalize the well-known two-dimensional effect of the axial load upon bending stiffness when beam-column theory is employed. Material nonlinearities are not considered.
+
+
+    
+        AU - Emil Simiu
+    
+        AU - James J. Filliben
+    
+        AU - J. A. Peterka
+    
+        AU - S. Shahid
+    
+
+TI - Design Gust Wind Speeds in the United States
+PT - Journal Article
+DP - 1999
+TA - Journal of Structural Engineering
+PG - 1077-1080
+VI - 125
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1999)125:9(1077) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281077%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281077%29
+SO - Journal of Structural Engineering 1999-09-01 125(9): 1077-1080
+
+
+    
+        AU - Emil Simiu
+    
+        AU - James J. Filliben
+    
+        AU - J. A. Peterka
+    
+        AU - S. Shahid
+    
+
+TI - Design Gust Wind Speeds in the United States
+PT - Journal Article
+DP - 1999
+TA - Journal of Structural Engineering
+PG - 1078-1080
+VI - 125
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1999)125:9(1078) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281078%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281078%29
+SO - Journal of Structural Engineering 1999-09-01 125(9): 1078-1080
+
+
+    
+        AU - Graham C. Archer
+    
+
+TI - Book Reviews: A Primer for Finite Elements in Elastic Structures
+PT - Journal Article
+DP - 1999
+TA - Journal of Structural Engineering
+PG - 1081-1082
+VI - 125
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1999)125:9(1081) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281081%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281081%29
+SO - Journal of Structural Engineering 1999-09-01 125(9): 1081-1082
+
+
+    
+        AU - James T. O'Connor
+    
+
+TI - Book Reviews: Construction Specifications Writing: Principles and Procedures
+PT - Journal Article
+DP - 1999
+TA - Journal of Structural Engineering
+PG - 1081-1082
+VI - 125
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1999)125:9(1081.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281081.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281081.2%29
+SO - Journal of Structural Engineering 1999-09-01 125(9): 1081-1082
+
+
+    
+        AU - Guillermo Ramirez
+    
+
+TI - Book Reviews: Design and Optimization of Laminated Composite Materials
+PT - Journal Article
+DP - 1999
+TA - Journal of Structural Engineering
+PG - 1082-1082
+VI - 125
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1999)125:9(1082) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281082%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281999%29125%3A9%281082%29
+SO - Journal of Structural Engineering 1999-09-01 125(9): 1082-1082
+
+

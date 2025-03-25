@@ -1,0 +1,424 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Dale G. Eyre
+    
+
+TI - Inelastic Shear Deflection of Steel Beams
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 1985-1997
+VI - 99
+IP - 10
+AID - 10.1061/JSDEAG.0003615 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003615
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003615
+SO - Journal of the Structural Division 1973-10-01 99(10): 1985-1997
+AB - The effect of shear on the deflection response and on the redistribution of moments in beams is presented. Three types of beams are treated: simple, propped cantilever, and fixed. The fixed beam is subjected to a variety of load positions. The steel is allowed to strain harden in flexure and the shear-strain curve is used without simplification. It is found that the effect of shear on both the deflection and moment redistribution greatly increases if the beam experiences yielding in shear.
+
+
+    
+        AU - Robert J. Odello
+    
+        AU - Jay R. Allgood
+    
+
+TI - Shells for Standard Floor and Roof Elements
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 1999-2009
+VI - 99
+IP - 10
+AID - 10.1061/JSDEAG.0003616 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003616
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003616
+SO - Journal of the Structural Division 1973-10-01 99(10): 1999-2009
+AB - On reviewing the state of technology of the design, analysis, and construction of shallow funicular reinforced concrete shells, it is apparent that: (1) the possible modes of failure are known and understood; (2) approximate relations are available that permit reasonable designs; (3) simple methods are available for their construction; (4) at this time they are economical only for spans greater than 50 ft (15.10 m); (5) they should not be used for applications involving dynamic loading until further research is conducted; (6) the finite element method provides an ideal analysis tool for assuring adequate design of shallow shells, although improvement of existing codes is needed to permit accurate definition of all potential failure modes.
+
+
+    
+        AU - Clifford O. Hays
+    
+        AU - Hudson Matlock
+    
+
+TI - Nonlinear Discrete Element Analysis of Frames
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2011-2030
+VI - 99
+IP - 10
+AID - 10.1061/JSDEAG.0003617 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003617
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003617
+SO - Journal of the Structural Division 1973-10-01 99(10): 2011-2030
+AB - A discrete element model of plane frame members is presented that can represent the nonlinear behavior of plane frame members. Nonlinear stress-strain curves, nonlinear soil support characteristics, and the nonlinearities associated with the change in geometry of the structure under load are handled simultaneously in the discrete element model. The tangent stiffness method is used in developing an iterative solution for the displacements of the frame joints. The solution has been programmed and is capable of solving a wide variety of practical problems such as large plane frame supported on piles driven into a highly nonlinear soil and subjected to complex loading conditions that cause large displacements, nonlinear stress-strain response, and nonlinear soil structure interaction.
+
+
+    
+        AU - Alexander C. Scordelis
+    
+        AU - Jack G. Bouwkamp
+    
+        AU - S. Tanvir Wasti
+    
+
+TI - Structural Response of Concrete Box Girder Bridge
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2031-2048
+VI - 99
+IP - 10
+AID - 10.1061/JSDEAG.0003618 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003618
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003618
+SO - Journal of the Structural Division 1973-10-01 99(10): 2031-2048
+AB - Results obtained in a study of a large-scale, two-span, four cell reinforced concrete bridge model are presented. The model, which was a 1:2.82 scale replica of a prototype, had overall plan dimensions of 72 ft (21 m) long by 12 ft (3.7 m) wide. The various computer programs used in obtaining theoretical results are described and compared. Experimental and theoretical results are given for reactions, deflections, and moments due to working stress point loads applied before and after overload stress levels in the bridge. Conclusions are presented on the adequacy of the theory in predicting bridge response.
+
+
+    
+        AU - Dale G. Eyre
+    
+        AU - Theodore V. Galambos
+    
+
+TI - Shakedown of Grids
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2049-2060
+VI - 99
+IP - 10
+AID - 10.1061/JSDEAG.0003619 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003619
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003619
+SO - Journal of the Structural Division 1973-10-01 99(10): 2049-2060
+AB - The simple shakedown theory that employs the assumptions of plastic design is extended to grids in the paper. The grids are continuous over supports of fixed elevation and contain three main girders and three cross beams per span. Torsion in the grid is ignored. After the theoretical analysis, an example is treated for clarification. It is found that the shakedown load for the grid falls between the load which initiates yielding, and the load at which a fully plastic mechanism is formed.
+
+
+    
+        AU - Wei-Wen Yu
+    
+        AU - Charles S. Davis
+    
+
+TI - Cold-Formed Steel Members with Perforated Elements
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2061-2077
+VI - 99
+IP - 10
+AID - 10.1061/JSDEAG.0003620 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003620
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003620
+SO - Journal of the Structural Division 1973-10-01 99(10): 2061-2077
+AB - In cold-formed steel structural members, holes are sometimes provided in webs, or flanges, or both of beams and columns for duct work, piping, ease of handling, and for other purposes. The presence of such holes may result in a reduction in strength of individual component elements or the overall strength of the member, or in both. At present, only a limited amount of design information is available for relatively heavy steel sections with perforated elements; however, no provisions are included in the American Iron and Steel Institute specification for the design of cold-formed steel members with perforated elements. The structural behavior of cold-formed steel beams and columns with a single circular or square hole in the web or flange has been studied in this preliminary investigation. Design formulas subject to a limited scope have been developed from this study for possible determination of effective design width and load-carrying capacities.
+
+
+    
+        AU - Borislav D. Zakić
+    
+
+TI - Inelastic Bending of Wood Beams
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2079-2095
+VI - 99
+IP - 10
+AID - 10.1061/JSDEAG.0003621 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003621
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003621
+SO - Journal of the Structural Division 1973-10-01 99(10): 2079-2095
+AB - The bending stress analysis of wood beams in the plastic range is presented and a new theoretical method of predicting the ultimate load is developed. The method is based on the approach known as the bending theory of beams, but the pattern of stress distribution at failure in the critical cross-sectional area is now mathematically formulated on the basis of the stress-strain diagram obtained by the tests. The validity of the theoretical method is verified by a testing program using three full-size specimens. The test results agreed favorably with the theoretical predictions. The actual ultimate bending moment closely coincides with that obtained by the theory presented, as does the downward shifting of the neutral axis. Wood beams of any species can be computed by this theory if the mathematical equation for the stress-strain diagram is known. This theory is verified through tests on glue laminated beams using wood of the best quality.
+
+
+    
+        AU - Robert E. Ball
+    
+        AU - Bruce A. Ryan
+    
+
+TI - Computer Analysis of Buckling of Imperfect Shells
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2097-2108
+VI - 99
+IP - 10
+AID - 10.1061/JSDEAG.0003622 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003622
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003622
+SO - Journal of the Structural Division 1973-10-01 99(10): 2097-2108
+AB - A digital computer program for the geometrically nonlinear static and dynamic response of arbitrarily loaded shells of revolution known as SATANS has been modified to account for arbitrary, naturally occurring initial geometric imperfections of any shape, location, or extent. Two specific axially loaded thin circular cylinders are analyzed using actual measured initial imperfections. Detailed numerical studies are conducted to determine the buckling loads of the perfect and imperfect cylinders. Several sets of boundary conditions are considered. An analysis procedure for imperfect shells is proposed. The numerically predicted buckling loads of the two cylinders are within 4% of the experimental buckling loads.
+
+
+    
+        AU - Mubbada Suidan
+    
+        AU - William C. Schnobrich
+    
+
+TI - Finite Element Analysis of Reinforced Concrete
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2109-2122
+VI - 99
+IP - 10
+AID - 10.1061/JSDEAG.0003623 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003623
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003623
+SO - Journal of the Structural Division 1973-10-01 99(10): 2109-2122
+AB - Cracking, crushing, and yielding of reinforced concrete beams is investigated by the finite element technique. Three-dimensional, 20-node isoparametric elements are used. The analysis incorporates the elasto-plastic behavior of concrete and reinforcing steel and the cracking of concrete stressed in tension beyond a limiting tensile stress. Shear retention in the cracking plane is also considered. The results obtained by this procedure compare well with those obtained experimentally and analytically.
+
+
+    
+        AU - Geoffrey D. Base
+    
+        AU - Lewis C. Schmidt
+    
+        AU - Donald S. Mansell
+    
+        AU - Leonard K. Stevens
+    
+
+TI - Sustained and Fluctuating Loading on Bolted Joints
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2123-2141
+VI - 99
+IP - 10
+AID - 10.1061/JSDEAG.0003624 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003624
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003624
+SO - Journal of the Structural Division 1973-10-01 99(10): 2123-2141
+AB - The design of high strength friction grip bolted joints in structural steelwork requires knowledge of short-term and long-term load-deformation behavior of the joints and the effect of anticorrosive coatings on the faying surfaces. Determination of the coefficient of friction is usually by short duration tensile tests on double-lap single-bolt joints. The paper analyzes the forms of the load-extension curves obtained and the effect of loading procedure and describes a test procedure used by the writers. Sustained and fluctuating load tests on chains of joints with faying surfaces coated with zinc silicate paint are then described. Creep slip of the joints was found to be negligible. This result is examined in comparison with other work purporting to show continuous creep slip under sustained load; the test procedure and method of analysis of results used in the other work are questioned.
+
+
+    
+        AU - Jacob Glück
+    
+        AU - Mordechai Krauss
+    
+
+TI - Stress Analysis of Group of Interconnected Thin-Walled Cantilevers
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2143-2165
+VI - 99
+IP - 10
+AID - 10.1061/JSDEAG.0003625 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003625
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003625
+SO - Journal of the Structural Division 1973-10-01 99(10): 2143-2165
+AB - The longitudinal axes of the cantilevers are assumed to be parallel while the main axes of the cross sections may have arbitrary directions. In addition to rigid diaphragms the flanges of the thin-walled cantilever may be rigidly connected by an elastic continuously distributed laminar system having bending stiffness in the direction parallel to the longitudinal axes. The analytical model may be an idealization of a group of thin-walled steel members interconnected by equidistant lammelas or a group of thin-walled stiffening elements interconnected by beams in a tall building. The basic static determinate scheme will be obtained by means of fictitious longitudinal cuts along the midpoints of the laminar system and along the ridges of the thin-walled element. The unknowns are the shear force functions along the cuts, which will be obtained from compatibility conditions along the fictive cut, expressed by a system of nonhomogeneous second-order differential equations with constant coefficients.
+
+
+    
+        AU - Bruce R. Mutton
+    
+        AU - Nicholas S. Trahair
+    
+
+TI - Stiffness Requirements for Lateral Bracing
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2167-2182
+VI - 99
+IP - 10
+AID - 10.1061/JSDEAG.0003626 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003626
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003626
+SO - Journal of the Structural Division 1973-10-01 99(10): 2167-2182
+AB - The increase in the buckling strength of a column or beam due to the restraints offered by lateral bracing varies with the stiffness of the bracing. In this paper the effect of a single brace at the midspan of a simply supported I-beam is studied. The case of equal and opposite end moments with translational and rotational restraints is investigated by extending the closed form solution for a centrally braced column, while the case of a beam with a central concentrated load is solved numerically. The solutions obtained for the buckling loads demonstrate the effects of the restraint stiffness and the height of the restraint point above the shear center as well as those of the beam geometry and the height of the load point above the shear center.
+
+
+    
+        AU - Assad Abdul-Baki
+    
+        AU - Abla Shukair
+    
+
+TI - Continuous Helicoidal Girders
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2183-2203
+VI - 99
+IP - 10
+AID - 10.1061/JSDEAG.0003627 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003627
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003627
+SO - Journal of the Structural Division 1973-10-01 99(10): 2183-2203
+AB - A procedure is derived for determining the flexibility matrix of a spiral beam which when inverted yields the stiffness matrix of the segment in two different member systems. Then the stiffness matrix in the member system is transformed into the global system before establishing the equilibrium equations at every joint. In order to facilitate the calculation of the flexibility coefficients and fixed-end actions due to uniform load, an appendix with graphs is presented.
+
+
+    
+        AU - Conrad P. Heins
+    
+        AU - Bijan Bonakdarpour
+    
+        AU - Lansford C. Bell
+    
+
+TI - Closure to “Multicell Curved Girder Model Studies”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2207-2208
+VI - 99
+IP - 10
+AID - 10.1061/JSDEAG.0003628 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003628
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003628
+SO - Journal of the Structural Division 1973-10-01 99(10): 2207-2208
+
+
+    
+        AU - Chai Hong Yoo
+    
+        AU - Conrad P. Heins
+    
+
+TI - Closure to “Plastic Collapse of Horizontally Curved Bridge Girders”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2209-2209
+VI - 99
+IP - 10
+AID - 10.1061/JSDEAG.0003629 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003629
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003629
+SO - Journal of the Structural Division 1973-10-01 99(10): 2209-2209
+
+
+    
+        AU - Jacobus H. Wynhaven
+    
+        AU - Peter F. Adams
+    
+
+TI - Closure to “Behavior of Structures under Loads Causing Torsion”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2210-2210
+VI - 99
+IP - 10
+AID - 10.1061/JSDEAG.0003630 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003630
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003630
+SO - Journal of the Structural Division 1973-10-01 99(10): 2210-2210
+
+
+    
+        AU - Wai F. Chen
+    
+        AU - Toshio Atsuta
+    
+
+TI - Closure to “Simple Interaction Equations for Beam-Columns”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2210-2211
+VI - 99
+IP - 10
+AID - 10.1061/JSDEAG.0003631 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003631
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003631
+SO - Journal of the Structural Division 1973-10-01 99(10): 2210-2211
+
+
+    
+        AU - Donald R. Evick
+    
+        AU - Conrad P. Heins
+    
+
+TI - Closure to “Torsion of Nonprismatic Beams of Open Sections”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2213-2214
+VI - 99
+IP - 10
+AID - 10.1061/JSDEAG.0003634 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003634
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003634
+SO - Journal of the Structural Division 1973-10-01 99(10): 2213-2214
+
+
+    
+        AU - D. J. Laurie Kennedy
+    
+
+TI - Erratum for “High Strength Bolted Galvanized Joints”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2212-2212
+VI - 99
+IP - 10
+AID - 10.1061/JSDEAG.0003632 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003632
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003632
+SO - Journal of the Structural Division 1973-10-01 99(10): 2212-2212
+
+
+    
+        AU - Kenneth C. Rockey
+    
+        AU - Mohamed A. El-gaaly
+    
+        AU - Debal K. Bagchi
+    
+
+TI - Erratum for “Failure of Thin-Walled Members under Patch Loading”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2212-2212
+VI - 99
+IP - 10
+AID - 10.1061/JSDEAG.0003633 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003633
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003633
+SO - Journal of the Structural Division 1973-10-01 99(10): 2212-2212
+
+
+    
+        AU - Hsueh-chien Fu
+    
+
+TI - Erratum for “Indirect Structural Analysis by Finite Element Method”
+PT - Journal Article
+DP - 1973
+TA - Journal of the Structural Division
+PG - 2214-2214
+VI - 99
+IP - 10
+AID - 10.1061/JSDEAG.0003635 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003635
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003635
+SO - Journal of the Structural Division 1973-10-01 99(10): 2214-2214
+
+

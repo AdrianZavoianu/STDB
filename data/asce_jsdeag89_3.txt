@@ -1,0 +1,406 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Chuan Chung Feng
+    
+
+TI - Matrix Solution of Force Relaxation Method
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 1-20
+VI - 89
+IP - 3
+AID - 10.1061/JSDEAG.0000915 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000915
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000915
+SO - Journal of the Structural Division 1963-06-01 89(3): 1-20
+AB - An analysis of space trusses is presented based on the bar-force relaxation method. Bar-force distribution matrixes are formulated from bar and joint stiffnesses. Bar forces are calculated from the joint forces and distribution matrixes. Over-distribution matrixes are developed for single bars and triangular truss panels. These balance the residuals between joints or in panels after one relaxation cycle. The structure is considered as a group of triangular panels. The residual forces in the panels are liquidated in a single cycle, and therefore, cyclic relaxation operations are required only between panels. Because of the small ratio of joint displacements to bar lengths, the first relaxation cycle between panels nearly balances all panels to equilibrium, and convergence is rapid. All matrixes are of second order for two-dimensional trusses and third order for three-dimensional problems. The only mathematical operations involved are matrix addition, multiplication, and inversion.
+
+
+    
+        AU - Peter G. Hoadley
+    
+
+TI - Behavior of Prestressed Composite Steel Beams
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 21-34
+VI - 89
+IP - 3
+AID - 10.1061/JSDEAG.0000930 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000930
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000930
+SO - Journal of the Structural Division 1963-06-01 89(3): 21-34
+AB - An analytical study is presented of the ductile behavior of simply supported, prestressed composite steel beams with a constant eccentric prestressing force applied along the entire span. The stress conditions at the point of maximum moment are presented and the moment angle-change characteristics of the structure are developed for various stages of loading to the ultimate load condition. Comparisons are presented between the moment capacities of the conventional and the prestressed composite beam. The prestressed beam exhibits higher yield and ultimate resistance to applied moment if prestressing is efficiently used. Furthermore, in prestressed construction, more efficient use is made of the concrete slab in carrying its share of the applied load, and higher ultimate moment capacities are obtainable because of the more favorable distribution of the rectangular stress blocks. The yield moment capacities of the prestressed beams were 25% to 35% greater than the yield moment capacities of the conventional composite beams, and the ultimate moment capacities of the prestressed beams were 10% to 20% greater.
+
+
+    
+        AU - Le-Wu Lu
+    
+
+TI - Stability of Frames Under Primary Bending Moments
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 35-62
+VI - 89
+IP - 3
+AID - 10.1061/JSDEAG.0000933 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000933
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000933
+SO - Journal of the Structural Division 1963-06-01 89(3): 35-62
+AB - The buckling strength of a rectangular frame subjected to loads that produce primary bending moments in the members is examined. Both the symmetrical and antisymmetrical modes are considered in the investigation. The results indicate that the critical load associated with the symmetrical mode is appreciably reduced by primary moment effects, whereas the critical load for antisymmetrical buckling is only slightly affected. The presence of axial thrust in the cross beam is found to be responsible for the major part of the reductions. The theoretical buckling loads are checked by experiments conducted on model steel frames. It is noted that the elastic buckling strength of portal frames can be closely predicted by the existing methods. A method for analyzing the stability of frames with partial base fixity is also presented.
+
+
+    
+        AU - Frank L. Di-Maggio
+    
+
+TI - Statical Indeterminacy and Stability of Structures
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 63-76
+VI - 89
+IP - 3
+AID - 10.1061/JSDEAG.0000934 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000934
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000934
+SO - Journal of the Structural Division 1963-06-01 89(3): 63-76
+AB - Elements of linear graph theory are presented and used to generate a matrix whose dimensions and rank are necessary and sufficient for describing the static stability and indeterminacy of skeletal structures. It is demonstrated that for rigid frame with fixed supports, only one topological quantity, the first Betti number, is sufficient. When hinges, free ends, or other nonrigid connections or supports are present, geometrical information is also required.
+
+
+    
+        AU - J. L. Meek
+    
+
+TI - Matrix Derivation of the Folded Plate Equations
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 77-106
+VI - 89
+IP - 3
+AID - 10.1061/JSDEAG.0000935 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000935
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000935
+SO - Journal of the Structural Division 1963-06-01 89(3): 77-106
+AB - The method of analysis adopted differs from methods already published by its use of generalized forces and displacements as a means of describing the distortion (that is, the flexibility) of a plate element. A simple matrix algebra routine is developed that may be used to calculate joint displacements and longitudinal plate stresses. This matrix algebra is similar to that published by Argyris and others on the analysis of framed structures. The theory is illustrated by a numerical example.
+
+
+    
+        AU - Saky Rosenhaupt
+    
+        AU - G. Mueller
+    
+
+TI - Openings in Masonry Walls on Settling Supports
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 107-134
+VI - 89
+IP - 3
+AID - 10.1061/JSDEAG.0000914 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000914
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000914
+SO - Journal of the Structural Division 1963-06-01 89(3): 107-134
+AB - Half-scale models of point-supported concrete block walls with openings, stiffened by reinforced concrete beams and ties, were submitted to differential foundation settlements. The influence of apertures, of stiffening ties and their reinforcement, and of vertical prestressing of masonry on deflections, cracking, and strength were studied. Test results tend to confirm a proposed theory stating that the statical action of a masonry wall with reinforced concrete ties is comparable with that of a truss. The horizontal ties provide couples for taking up the exterior bending moments, the vertical ties take up vertical tension and the masonry diagonal compression. Tests indicate that weakening of walls by openings can be offset by vertical reinforced concrete tension ties on the sides of the opening or by vertical prestressing of the sides of openings. The vertical prestressing proved to be effective also in repairing cracked masonry. The dimensions and reinforcement of horizontal and vertical ties can be calculated and the strength of the wall predicted by use of the proposed truss analogy.
+
+
+    
+        AU - Arthur H. Nilson
+    
+
+TI - Closure to “Folded Plate Structures of Light Gage Steel”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 135-137
+VI - 89
+IP - 3
+AID - 10.1061/JSDEAG.0000916 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000916
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000916
+SO - Journal of the Structural Division 1963-06-01 89(3): 135-137
+
+
+    
+        AU - Geerhard Haaijer
+    
+
+TI - Closure to “Economy of High Strength Steel Structural Members”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 139-140
+VI - 89
+IP - 3
+AID - 10.1061/JSDEAG.0000917 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000917
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000917
+SO - Journal of the Structural Division 1963-06-01 89(3): 139-140
+
+
+    
+        AU - S. T. Harding
+    
+
+TI - Closure to “Evaporation from Pyramid and Winnemucca Lakes, Nevada”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 141-143
+VI - 89
+IP - 3
+AID - 10.1061/JSDEAG.0000918 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000918
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000918
+SO - Journal of the Structural Division 1963-06-01 89(3): 141-143
+
+
+    
+        AU - Hsuan-Loh Su
+    
+
+TI - Discussion of “Analysis of Structures by System Theory”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 145-151
+VI - 89
+IP - 3
+AID - 10.1061/JSDEAG.0000919 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000919
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000919
+SO - Journal of the Structural Division 1963-06-01 89(3): 145-151
+
+
+    
+        AU - Frank Neumann
+    
+
+TI - Closure to “Seismic Forces on Engineering Structures”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 153-164
+VI - 89
+IP - 3
+AID - 10.1061/JSDEAG.0000920 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000920
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000920
+SO - Journal of the Structural Division 1963-06-01 89(3): 153-164
+
+
+    
+        AU - Kuang-Han Chu
+    
+        AU - G. Krishnamoorthy
+    
+
+TI - Closure to “Use of Orthotropic Plates Theory in Bridge Design”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 165-167
+VI - 89
+IP - 3
+AID - 10.1061/JSDEAG.0000921 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000921
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000921
+SO - Journal of the Structural Division 1963-06-01 89(3): 165-167
+
+
+    
+        AU - Lucien A. Schmit
+    
+        AU - Thomas P. Kicher
+    
+
+TI - Closure to “Synthesis of Material and Configuration Selection”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 169-169
+VI - 89
+IP - 3
+AID - 10.1061/JSDEAG.0000922 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000922
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000922
+SO - Journal of the Structural Division 1963-06-01 89(3): 169-169
+
+
+    
+        AU - E. Czerniak
+    
+
+TI - Closure to “Analytical Approach to Biaxial Eccentricity”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 171-182
+VI - 89
+IP - 3
+AID - 10.1061/JSDEAG.0000923 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000923
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000923
+SO - Journal of the Structural Division 1963-06-01 89(3): 171-182
+
+
+    
+        AU - Bruno Barbarito
+    
+        AU - Janusz Murzewski
+    
+        AU - C. Berwanger
+    
+
+TI - Discussion of “Safety of Eccentrically Loaded Reinforced Concrete Columns”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 183-195
+VI - 89
+IP - 3
+AID - 10.1061/JSDEAG.0000924 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000924
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000924
+SO - Journal of the Structural Division 1963-06-01 89(3): 183-195
+
+
+    
+        AU - R. S. Loubser
+    
+        AU - D. T. Wright
+    
+
+TI - Discussion of “Specifications for Structural Joints Using ASRM-A325 Bolts”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 197-201
+VI - 89
+IP - 3
+AID - 10.1061/JSDEAG.0000925 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000925
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000925
+SO - Journal of the Structural Division 1963-06-01 89(3): 197-201
+
+
+    
+        AU - G.I.N. Rozvany
+    
+
+TI - Discussion of “Direct Design of Plate and Shell Structures”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 203-205
+VI - 89
+IP - 3
+AID - 10.1061/JSDEAG.0000926 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000926
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000926
+SO - Journal of the Structural Division 1963-06-01 89(3): 203-205
+
+
+    
+        AU - T. J. McClellan
+    
+        AU - A. A. Eremin
+    
+
+TI - Discussion of “Model Studies of a Concrete Hyperbolic Paraboloid”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 207-208
+VI - 89
+IP - 3
+AID - 10.1061/JSDEAG.0000927 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000927
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000927
+SO - Journal of the Structural Division 1963-06-01 89(3): 207-208
+
+
+    
+        AU - A. A. Eremin
+    
+
+TI - Discussion of “Lateral Stiffness of Infilled Frames”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 209-209
+VI - 89
+IP - 3
+AID - 10.1061/JSDEAG.0000928 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000928
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000928
+SO - Journal of the Structural Division 1963-06-01 89(3): 209-209
+
+
+    
+        AU - J. D. Renton
+    
+        AU - William R. Spillers
+    
+
+TI - Discussion of “Space Frame Analysis by Matrices and Computer”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 211-216
+VI - 89
+IP - 3
+AID - 10.1061/JSDEAG.0000929 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000929
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000929
+SO - Journal of the Structural Division 1963-06-01 89(3): 211-216
+
+
+    
+        AU - J. T. Oden
+    
+
+TI - Discussion of “Deflection and Slope of Beams with Varying I”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 217-221
+VI - 89
+IP - 3
+AID - 10.1061/JSDEAG.0000931 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000931
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000931
+SO - Journal of the Structural Division 1963-06-01 89(3): 217-221
+
+
+    
+        AU - Robert Schmidt
+    
+
+TI - Discussion of “Buckling of Stepped Columns with Rotated Ends”
+PT - Journal Article
+DP - 1963
+TA - Journal of the Structural Division
+PG - 223-223
+VI - 89
+IP - 3
+AID - 10.1061/JSDEAG.0000932 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0000932
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0000932
+SO - Journal of the Structural Division 1963-06-01 89(3): 223-223
+
+

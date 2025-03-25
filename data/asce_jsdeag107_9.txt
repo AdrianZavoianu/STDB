@@ -1,0 +1,286 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Bogdan O. Kuzmanović
+    
+        AU - H. James Graham
+    
+
+TI - Shear Lag in Box Girders
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1701-1712
+VI - 107
+IP - 9
+AID - 10.1061/JSDEAG.0005777 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005777
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005777
+SO - Journal of the Structural Division 1981-09-01 107(9): 1701-1712
+AB - An initial approximate method is presented to evaluate the shear lag phenomenon in reinforced concrete single-box girder bridges. Assuming an ideal cross-section and considering a symmetrical deformation of the top and bottom slabs, but preserving continuity conditions at the web-slab intersection points, a fourth order non-homogeneous differential equation with constant coefficients was obtained. Making further simplifications, quick results are obtained for uniformly distributed loads. In spite of all the simplifications these results were in good agreement with the German specifications for shear lag provided that midspan reduction factors are desired. the factors are the most important anyway, because they are valid practically almost for the whole span length.
+
+
+    
+        AU - Hooshang Banon
+    
+        AU - John M. Biggs
+    
+        AU - H. Max Irvine
+    
+
+TI - Seismic Damage in Reinforced Concrete Frames
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1713-1729
+VI - 107
+IP - 9
+AID - 10.1061/JSDEAG.0005778 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005778
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005778
+SO - Journal of the Structural Division 1981-09-01 107(9): 1713-1729
+AB - Seismic damage in reinforced concrete frames is predicted by analytical methods. Analytical models are developed which can reproduce the behavior of reinforced concrete members under cyclic loads. Accuracy of the analytical models is checked by considering a set of quasi-static cyclic load tests, and the models are found to be sufficiently accurate. Several damage indicators such as ductility, flexural damage ratio, dissipated energy, and cumulative plastic rotation are investigated for each experiment. Based on the test results and physical grounds, flexural damage ratio and dissipated energy are chosen as damage state parameters. The results of the present study are later used to develop a probabilistic model of member failure in reinforced concrete structures.
+
+
+    
+        AU - David J. Malcolm
+    
+        AU - Peter G. Glockner
+    
+
+TI - Collapse by Ponding of Air-Supported Spherical Caps
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1731-1742
+VI - 107
+IP - 9
+AID - 10.1061/JSDEAG.0005779 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005779
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005779
+SO - Journal of the Structural Division 1981-09-01 107(9): 1731-1742
+AB - A theory is presented to predict the critical central weight which, in the presence a ponding medium, will lead to collapse of an inextensible air supported spherical membrane. Results are developed for a range of radii, pressures and ponding medium densities. Also explored is the manner in which these results will be effected by meridional action only, such as would be caused by a system of cables converging at the apex. A description is given of a series of tests carried out on two laboratory models to confirm the theoretical results. The experimental results indicate that the theory may lead to under design and that this instability is particularly sensitive to surface irregularities near the apex.
+
+
+    
+        AU - Sami F. Masri
+    
+        AU - Frederick B. Safford
+    
+
+TI - Optimization Procedure for Pulse-Simulated Response
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1743-1761
+VI - 107
+IP - 9
+AID - 10.1061/JSDEAG.0005780 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005780
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005780
+SO - Journal of the Structural Division 1981-09-01 107(9): 1743-1761
+AB - A computationally efficient technique is presented for optimizing the selection of pulse train characteristics, to be used for simulating the response of general types of structural systems to arbitrary dynamic environments. The optimization procedure uses an adaptive random search algorithm that incorporates a periodic exploratory search for the optimal step-size variance, which signifianctly improves the convergence characteristics. Pulse trains (to induce specified or criterion structural motion) are not unique and are largely dependent upon constraints. The method is demonstrated for a 25-story building and a steel one-bay structure.
+
+
+    
+        AU - Bogdan O. Kuzmanović
+    
+        AU - Nicholas Willems
+    
+
+TI - Approximate Design by Geometric Series
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1763-1775
+VI - 107
+IP - 9
+AID - 10.1061/JSDEAG.0005781 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005781
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005781
+SO - Journal of the Structural Division 1981-09-01 107(9): 1763-1775
+AB - An approximate optimization method is presented that is applicable to rectangular, two-dimensional multistory frames. Using special moment distribution techniques, the optimization of linearized frame weight is achieved for an infinite number of iterations. A closed-form exact formula makes it possible to avoid these iterations. Thus, when this program is used, a minicomputer with 4K memory can handle a four-story, four-bay frame subject to assymmetrical loading. The method is programmed in BASIC.
+
+
+    
+        AU - Stephen A. Mahin
+    
+        AU - Vitelmo V. Bertero
+    
+
+TI - An Evaluation of Inelastic Seismic Design Spectra
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1777-1795
+VI - 107
+IP - 9
+AID - 10.1061/JSDEAG.0005782 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005782
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005782
+SO - Journal of the Structural Division 1981-09-01 107(9): 1777-1795
+AB - After reviewing general methods available for determining seismic design forces for structures which can tolerate limited amounts of inelastic deformations, the reliability of two representative procedures is evaluated. In the methods evaluated, inelastic design response spectra are obtained by modifying a linear elastic design response spectrum in terms of a specified ductility factor as suggested by Newmark and Hall and the Applied Technology council. The effect of different accelerograms, as well as of different system damping and hysteretic characteristics, on the inelastic response of single degree-of-freedom systems designed using these methods is thoroughly investigated, considering maximum displacement ductilities, maximum and permanent drifts, number of yield events, and hysteretic energy dissipation. Application of these design methods to multistory buildings is also briefly considered. Results obtained for ideal inelastic systems indicate that these methods do not reliably limit displacement ductilities to specified values.
+
+
+    
+        AU - Baidar Bakht
+    
+        AU - Leslie G. Jaeger
+    
+        AU - Mo S. Cheung
+    
+
+TI - Cellular and Voided Slab Bridges
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1797-1813
+VI - 107
+IP - 9
+AID - 10.1061/JSDEAG.0005783 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005783
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005783
+SO - Journal of the Structural Division 1981-09-01 107(9): 1797-1813
+AB - Bridges of the cellular and voided slab type are explored. These types of bridges have either rectangular or circular holes running in the direction of the bridge span. In these structures the transverse distortion of the cross section may significantly affect the load distribution properties of a bridge to the extent that it can no longer be analyzed by conventional orthotropic plate theory. A simplified method is developed which can account for the increases in longitudinal moment and shear intensities which result from distortion of the cross section. Existing simplified methods, which are applicable only when transverse cell-distortion is absent, may be used in conjunction with certain modifying factors even when such effects are present.
+
+
+    
+        AU - W. F. Chen
+    
+        AU - K. V. Patel
+    
+
+TI - Static Behavior of Beam-to-Column Moment Connections
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1815-1838
+VI - 107
+IP - 9
+AID - 10.1061/JSDEAG.0005784 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005784
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005784
+SO - Journal of the Structural Division 1981-09-01 107(9): 1815-1838
+AB - A review is presented of tests on beam-to-column moment flange connections. The main objective of these tests was to study the behavior and to develop the design method for flange moment connections. A test program of flange connections consisted of 12 full-size beam-to-column connections. This test series included specimens representing connections for the lower stories, middle stories, and upper stories of a multi-story frame. Primary attention is focused on strength, deformation capacity and overall stiffness of the connection. The load-deflection plot of each connection is compared with its control test behavior, in the adequacy of AISC specifications is studied.
+
+
+    
+        AU - Hans Gesund
+    
+
+TI - Limit Design of Slabs for Concentrated Loads
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1839-1856
+VI - 107
+IP - 9
+AID - 10.1061/JSDEAG.0005785 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005785
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005785
+SO - Journal of the Structural Division 1981-09-01 107(9): 1839-1856
+AB - Yield Line Theory is used to derive expressions for the flexural limit loads of reinforced concrete slabs subjected to simultaneously acting concentrated and distributed loads. The concentrated loads are assumed to have a rectangular footprint of any reasonable size and aspect ratio. The slab reinforcement can be orthotropic, different over each supported boundary, and the positive and negative moment reinforcements can also be different. The slab boundaries may be rigidly supported or consist of beams whose bending and torsional strengths, and weight, can be incorporated into the analysis. One of the boundaries can also be unsupported. The geometrically admissible collapse mechanisms for the combined loadings are studies and results obtained by their use are compared with some presented in the literature for individual loadings.
+
+
+    
+        AU - Egor P. Popov
+    
+        AU - R. Gary Black
+    
+
+TI - Steel Struts under Severe Cyclic Loadings
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1857-1884
+VI - 107
+IP - 9
+AID - 10.1061/JSDEAG.0005786 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005786
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005786
+SO - Journal of the Structural Division 1981-09-01 107(9): 1857-1884
+AB - An experimental study is presented of the inelastic behavior of axially loaded steel members subjected to repeated buckling and stretching. Tests on 24 commercially available steel struts commonly used as bracing members are reported. A large variety of shapes were tested including wide flanges, structural tees, double-angles, a double-channel, and thick and thin-walled square and round tubes. The boundary conditions were of two types, pinned-pinned and fixed-pinned, while the effective slenderness ratios were either 40, 80, or 120. The effects were investigated of loading patterns, end conditions, cross-sectional shapes, and slenderness ratios on the hysteresis response of members. An explanation is given regarding the fundamental mechanisms responsible for the observed degradation in the buckling load capacity during inelastic cycling.
+
+
+    
+        AU - Charles E. Massonnet
+    
+        AU - René J. Maquoi
+    
+
+TI - Discussion of “Research Needs in Stability of Metal Structures”
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1885-1889
+VI - 107
+IP - 9
+AID - 10.1061/JSDEAG.0005788 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005788
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005788
+SO - Journal of the Structural Division 1981-09-01 107(9): 1885-1889
+
+
+    
+        AU - Roman Wolchuk
+    
+
+TI - Discussion of “Research Needs in Stability of Metal Structures”
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1889-1890
+VI - 107
+IP - 9
+AID - 10.1061/JSDEAG.0005789 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005789
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005789
+SO - Journal of the Structural Division 1981-09-01 107(9): 1889-1890
+
+
+    
+        AU - Morris N. Fialkow
+    
+
+TI - Discussion of “Membrane Reinforcement in Shells”
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1890-1894
+VI - 107
+IP - 9
+AID - 10.1061/JSDEAG.0005790 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005790
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005790
+SO - Journal of the Structural Division 1981-09-01 107(9): 1890-1894
+
+
+    
+        AU - Milija Pavlovic
+    
+        AU - Donald S. Mansell
+    
+        AU - Leonard K. Stevens
+    
+
+TI - Erratum for “Stability of Flexibly Connected Plate Systems”
+PT - Journal Article
+DP - 1981
+TA - Journal of the Structural Division
+PG - 1885-1885
+VI - 107
+IP - 9
+AID - 10.1061/JSDEAG.0005787 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005787
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005787
+SO - Journal of the Structural Division 1981-09-01 107(9): 1885-1885
+
+

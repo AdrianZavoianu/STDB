@@ -1,0 +1,384 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - David Spires
+    
+        AU - J. S. Arora
+    
+
+TI - Optimal Design of Tall RC‐Framed Tube Buildings
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 877-897
+VI - 116
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1990)116:4(877) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A4%28877%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A4%28877%29
+SO - Journal of Structural Engineering 1990-04-01 116(4): 877-897
+AB - Analysis and design of reinforced concrete (RC) framed tube buildings is formulated as a general nonlinear optimization problem and solved using modern design‐optimization algorithms and software. A brief review of tall‐building‐design considerations and framed tube behavior is presented as well as a discussion of the analysis methods employed. Nonlinear effects due to large displacements are treated using an approximate iterative method. Column and beam dimensions and their steel areas are treated as design variables. The dollar cost of the framed tube, consisting of the cost of beam concrete, column concrete, reinforcing steel, and the formwork, is treated as the objective function to be minimized. Constraints for the problem consist of building drift, fundamental frequency, requirements of the American Concrete Institute, and explicit bounds on the design variables. Various software components are integrated to create the design‐optimization capability.
+
+
+    
+        AU - Ram Chandra
+    
+        AU - D. N. Trikha
+    
+        AU - Prem Krishna
+    
+
+TI - Nonlinear Analysis of Steel Space Structures
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 898-909
+VI - 116
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1990)116:4(898) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A4%28898%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A4%28898%29
+SO - Journal of Structural Engineering 1990-04-01 116(4): 898-909
+AB - A second‐order nonlinear analysis of steel space structures has been presented. Of the two types of nonlinearities, material and geometric, only geometric nonlinearity has been considered. The material of the structure steel has been assumed to be linearly elastic. In geometric nonlinearity, the effects of instability produced by axial forces, the bowing of the deformed members, and finite deflections have all been included. For this purpose, the secant stiffness matrix in the deformed state and the modified kinematic matrices along with the geometric matrix necessary for formulating the tangent stiffness matrix, have been developed. These matrices are used in the analysis, which is carried out by the displacement method through an iterative‐incremental procedure based on Newton‐Raphson technique. The iterations that take into account the latest geometry are repeated until the unbalanced loads become negligible and equilibrium is obtained. The equilibrium equations are solved by Cholesky's method. Results of an illustrative example and conclusion based on them are also given.
+
+
+    
+        AU - Tamon Ueda
+    
+        AU - Sritawat Kitipornchai
+    
+        AU - Kai Ling
+    
+
+TI - Experimental Investigation of Anchor Bolts under Shear
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 910-921
+VI - 116
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1990)116:4(910) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A4%28910%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A4%28910%29
+SO - Journal of Structural Engineering 1990-04-01 116(4): 910-921
+AB - An experimental investigation of anchor bolts embedded in unrein‐forced concrete, monotonically loaded in shear is described. The anchor bolts are embedded sufficiently to develop the minimum tensile strength of the bolt steel. Pairs of anchor bolts (double‐bolt anchorages) with varying spacings and edge distances are loaded in shear in the direction perpendicular to the line of the bolts. Single‐bolt anchorages are also tested in shear with varying edge distances and compared with the results of the double‐bolt anchorage tests. Concrete failure with wedge cone is observed in most cases. The effects of the edge distance and bolt spacing on the shear resistance of anchor bolts are discussed. The ACI Committee 349 shear resistance formula has been found to give good estimates of the single‐bolt anchorage tests. However, the concept of wedge cone interaction, commonly used for calculating the tensile pull‐out capacity of anchor bolt groups, is found not directly applicable to double‐bolt anchorages under shear. The influence of the support conditions of the concrete test blocks on anchor bolt shear strengths is also investigated.
+
+
+    
+        AU - Michel S. Chalhoub
+    
+        AU - James M. Kelly
+    
+
+TI - Comparison of SEAONC Base Isolation Tentative Code to Shake Table Tests
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 925-938
+VI - 116
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1990)116:4(925) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A4%28925%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A4%28925%29
+SO - Journal of Structural Engineering 1990-04-01 116(4): 925-938
+AB - The base isolation subcommittee of the seismology committee of the Structural Engineers Association of Northern California (SEAONC) prepared a tentative code in 1986 for base‐isolated structures. Two main procedures were proposed by the tentative code for the seismic analysis of base‐isolated structures. The first approach uses simplified formulas similar to the equivalent static‐analysis formulas recommended by the uniform building code. The second approach uses dynamic‐analysis procedures (time history and response spectra analyses). In this paper, the values obtained from code‐simplified formulas are compared to experimental results from an earthquake‐simulator testing of a nine‐story steel structure mounted on a combined sliding‐bearing and rubber‐bearing isolation system. Of particular interest is the validity and accuracy of such simplifications when the isolation system is nonlinear. A simplified analysis for base‐isolated structures is possible, and more careful consideration should be given to the ground‐shaking parameters and to the base shear reduction factor.
+
+
+    
+        AU - Ram Chandra
+    
+        AU - Prem Krishna
+    
+        AU - D. N. Trikha
+    
+
+TI - Elastic‐Plastic Analysis of Steel Space Structures
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 939-955
+VI - 116
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1990)116:4(939) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A4%28939%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A4%28939%29
+SO - Journal of Structural Engineering 1990-04-01 116(4): 939-955
+AB - A new concept of instantaneous secant stiffness is proposed and used for nonlinear elastic‐plastic analysis of steel space structures, which replaces the Newton‐Raphson technique (the instantaneous tangent stiffness method). It is found to be more stable and converges rapidly. The technique is iterative‐incremental based on the displacement approach, and gives a lower bound second‐order solution of collapse load. The analysis accounts for deformations while writing equilibrium equations. The external loads are applied in appropriate increments and iterations are carried out during each increment considering the latest geometry until the unbalanced loads become negligible. A suitable search technique is proposed to detect development of a plastic hinge. The plastic hinges are introduced at the locations indicated and the analysis continued until collapse occurs. An example is presented to explain the proposed method of analysis.
+
+
+    
+        AU - Bruce F. Maison
+    
+        AU - Kazuhiko Kasai
+    
+
+TI - Analysis for a Type of Structural Pounding
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 957-977
+VI - 116
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1990)116:4(957) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A4%28957%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A4%28957%29
+SO - Journal of Structural Engineering 1990-04-01 116(4): 957-977
+AB - The formulation and solution of the multiple degree of freedom equations of motion for a type of structural pounding are presented. The subject building undergoes pounding at a single floor level with a rigid adjacent building. The theory is implemented into a microcomputer program and sample analyses of an actual 15‐story building are performed to study the response behaviors. Pounding generates drifts, shears, and overturning moments in the stories above the pounding location that are greater than those from the case where pounding is ignored. It is concluded that: (1) Neglecting the effects of possible pounding leads to unconservative building design; (2) the sample analyses response behavior trends are robust thereby providing insight into the response behavior of other buildings; and (3) pounding can be studied on a case‐by‐case basis using the analytical tools presented in the paper (provided the formulation applies to the case of interest).
+
+
+    
+        AU - Deric John Oehlers
+    
+        AU - John Paul Moran
+    
+
+TI - Premature Failure of Externally Plated Reinforced Concrete Beams
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 978-995
+VI - 116
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1990)116:4(978) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A4%28978%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A4%28978%29
+SO - Journal of Structural Engineering 1990-04-01 116(4): 978-995
+AB - Reinforced concrete beams can be strengthened and stiffened by gluing mild steel plates to the tension face of the beam. However, experimental tests show that these externally bonded plates have a tendency to peel away after the formation of shear diagonal cracks or when the curvature in the beam is increased. Fifty‐seven plated reinforced concrete beams are tested to study peeling induced by increasing curvature; in these tests, the geometry and material properties of the beams are varied, and the reinforced concrete beams are subjected to pre‐cracking and pre‐cambering, as might occur in an existing structure. A method is derived for determining the moment at which peeling starts (serviceability limit) and the moment that causes complete separation of the plate (ultimate limit). This method, which depends on the flexural rigidity of the plated beam, the thickness of the plate, and the tensile strength of the concrete, can be used to adjust the size and extent of plating so that flexural peeling does not occur under the design load.
+
+
+    
+        AU - Sashi K. Kunnath
+    
+        AU - Andrei M. Reinhorn
+    
+        AU - Young J. Park
+    
+
+TI - Analytical Modeling of Inelastic Seismic Response of R/C Structures
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 996-1017
+VI - 116
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1990)116:4(996) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A4%28996%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A4%28996%29
+SO - Journal of Structural Engineering 1990-04-01 116(4): 996-1017
+AB - An analytical modeling scheme is developed to assess the damage‐ability of reinforced concrete buildings experiencing inelastic behavior under earthquake loads. The structural model used to discretize a building is capable of integrating ductile moment‐resisting frames with shear‐wall models and out‐of‐plane transverse elements to allow simulation of special interactions that are important in modeling overall structural behavior. The structural model is achieved using a combination of concentrated plasticity at member ends and a distributed flexibility rule that accounts for the spread of plasticity based on the variation of the contra‐flexure point during dynamic response. The inelastic behavior of components is monitored using a new hysteretic model that utilizes a nonsymmetric trilinear envelope and permits the modeling of stiffness degradation, strength deterioration, and pinching, respectively. The structural parameters, such as moment‐curvature envelopes, etc., required for the inelastic seismic response analysis are computed in‐core, using mechanical models and empirical equations that emerge from identification studies. The results of the response analysis are expressed as damage indices using a calibrated damage model based on energy and ductility. This enables the estimation of energy and strength reserves in the structure before collapse. Several examples are presented to illustrate the versatility of the proposed modeling schemes.
+
+
+    
+        AU - Yang Jiang
+    
+        AU - Mehdi Saiidi
+    
+
+TI - Four‐Spring Element for Cyclic Response of R/C Columns
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1018-1029
+VI - 116
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1990)116:4(1018) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A4%281018%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A4%281018%29
+SO - Journal of Structural Engineering 1990-04-01 116(4): 1018-1029
+AB - The cyclic response of reinforced concrete columns subjected to bending and axial load is determined using a hysteretic element consisting of four axial springs. The spring sections consist of steel for tensile forces but steel and concrete for compressive forces. The basic spring properties are determined from the calculated balanced moment for the column using simple relationships. The derivation of these properties is described. The force‐deformation relationship for the springs is controlled by the AQ‐Hyst hysteresis model. The model is unsymmetric to account for differences in the tensile and compressive response of the springs. Amplitude‐dependent softening effects are included in unloading and load reversal stages. The four‐spring element was evaluated based on its performance in reproducing the behavior of several reinforced concrete test specimens that had been studied at the University of Tokyo and the University of California, Berkeley. The four‐spring element appeared to be successful in simulating the overall response as long as the axial force did not exceed the balanced load.
+
+
+    
+        AU - Joseph E. Minor
+    
+        AU - Patrick L. Reznik
+    
+
+TI - Failure Strengths of Laminated Glass
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1030-1039
+VI - 116
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1990)116:4(1030) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A4%281030%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A4%281030%29
+SO - Journal of Structural Engineering 1990-04-01 116(4): 1030-1039
+AB - Laminated glass used in architectural glazing comprises two layers of glass connected by a thin interlayer of polyvinyl butyral. Previously reported nondestructive experimental stress analyses offer evidence that laminated glass behaves like monolithic glass of the same nominal thickness except when temperatures are high. This evidence has been augmented to include failure behavior by destructive tests of a large number of laminated‐glass specimens. Test results reveal that failure strengths of annealed laminated‐glass specimens are equal to failure strengths of annealed monolithic glass specimens of the same nominal thickness at room temperature, and decrease to about 75% of monolithic‐glass strength at 170° F (77° C). Further, heat strengthened and fully tempered laminated‐glass specimens exhibit failure strengths that are approximately three and five times, respectively, the strengths of annealed monolithic‐glass specimens of the same nominal thickness, suggesting monolithic behavior of these types of laminated glass, as well.
+
+
+    
+        AU - Luis Miguel
+    
+        AU - da Cruz Simões
+    
+
+TI - Stochastically Dominant Modes of Frames by Mathematical Programming
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1040-1060
+VI - 116
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1990)116:4(1040) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A4%281040%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A4%281040%29
+SO - Journal of Structural Engineering 1990-04-01 116(4): 1040-1060
+AB - Most important in calculating the failure probability of structural systems is the search for the stochastically most relevant failure mechanism of ductile structural systems—particularly framed structures. For this reason an automatic method for finding all modes can be employed, but for very large systems these procedures may become intractable. Mesh and nodal methods for frames are formulated with particular attention to simple data preparation. The generalized mesh description leads to the simpler and more efficient formulation of the mechanism compatibility equations. Two nonconvex problems, one with bilinear constraints and the other with a fractional objective function, have been derived. The latter formulation can be solved quite effectively when cast in the form of the maximization of a quadratic convex function over a linear domain. This is followed by mathematical programming techniques that are more appropriate for nonconvex optimization problems. The paper concludes with a discussion of the methodologies for finding other important modes.
+
+
+    
+        AU - T. Krauthammer
+    
+        AU - S. Shahriar
+    
+        AU - H. M. Shanaa
+    
+
+TI - Response of Reinforced Concrete Elements to Severe Impulsive Loads
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1061-1079
+VI - 116
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1990)116:4(1061) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A4%281061%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A4%281061%29
+SO - Journal of Structural Engineering 1990-04-01 116(4): 1061-1079
+AB - A numerical approach is proposed for the analysis of reinforced concrete beams and one‐way slabs under severe dynamic loads, accounting for arbitrary support conditions and nonlinear effects. In addition, the behavior and modeling of reinforced concrete members subjected to localized dynamic loads have been examined. For a dynamic analysis, it was necessary to compute the deformed configuration of the structural element at every load step and to employ that information for computing the parameters of an equivalent dynamic model. The approach is based on the development of corresponding structural resistance functions, which are then employed in single‐degree‐of‐freedom analyses. A number of reinforced concrete structural elements, that were tested by other investigators, have been analyzed to evaluate the validity and demonstrate the effectiveness of this approach. The analysis was performed for reinforced concrete beams subjected to impact loads and for reinforced concrete walls subjected to detonations of high explosive devices.
+
+
+    
+        AU - C. V. Girya Vallabhan
+    
+        AU - Gee D. Chou
+    
+        AU - Joseph E. Minor
+    
+
+TI - Seal Forces in Structural Glazing Systems
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1080-1089
+VI - 116
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1990)116:4(1080) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A4%281080%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A4%281080%29
+SO - Journal of Structural Engineering 1990-04-01 116(4): 1080-1089
+AB - Silicone sealants are used as structural connections between the two glass plates in an insulating glass (IG) unit and between the IG unit and the supporting mullion. These connections become an integral part of the entire glazing system, worthy of attention by structural design engineers. Since the behavior of IG units subjected to lateral pressures, such as wind, is highly nonlinear, von Karman plate equations are employed in the mathematical model developed here. Also, since the two thin glass plates are separated by a sealed air space, a complex interaction occurs between the trapped air space and the glass plates. In the model developed here, the connections between the two glass plates and between the plate and mullion are modeled as continuous springs along the boundaries of the IG unit. Stresses in the glass plates and forces that occur in the IG‐unit seal and the structural seal are calculated as the IG unit is subjected to a lateral pressure.
+
+
+    
+        AU - Gregory L. Tucker
+    
+        AU - Richard M. Bennett
+    
+
+TI - Reliability Analysis of Partially Restrained Steel Connections
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1090-1101
+VI - 116
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1990)116:4(1090) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A4%281090%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A4%281090%29
+SO - Journal of Structural Engineering 1990-04-01 116(4): 1090-1101
+AB - The load and resistance factor design (LRFD) specification developed by the American Institute of Steel Construction allows the designer to consider the partial restraint in a steel connection. A generated nonlinear equation is fitted to available experimental data on partially restrained steel connections for six different types of connections. The connections analyzed are single web angle, double web angle, top and seat angle, end plate with column stiffeners, end plate without column stiffeners, and header plate. The statistics of parameters governing the moment‐rotation curves of the connection are determined. Design examples from the American Institute of Steel Construction Load and Resistance Factor Design Manual are used as an application of the use of statistical data in finding the reliability of a uniformly loaded, partially restrained beam. The reliability is evaluated by imposing end rotations and calculating the reliability index for each imposed deformation. The connection reliability index is the maximum reliability index for any imposed deformation. Both elastic and plastic behavior are considered.
+
+
+    
+        AU - Hideo Takabatake
+    
+
+TI - Effects of Dead Loads in Static Beams
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1102-1120
+VI - 116
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1990)116:4(1102) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A4%281102%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A4%281102%29
+SO - Journal of Structural Engineering 1990-04-01 116(4): 1102-1120
+AB - Although in Japan the collapse of structures caused by snow loads on roofs occurs every year, the damage is concentrated on steel structures and seldom occurs in reinforced concrete structures. Since the notable difference between both structures is in dead loads, dead loads can be considered to play an important part in causing the collapse of structures by snow loads. Accordingly, the varying deterrent effect of dead loads, which displacements and stress couples produced by live loads decrease by the existence of dead loads, is discussed in terms of its application. Therefore, the governing equation of beams, including the effect of dead loads, is formulated from Hamilton's principle. The existence and effectiveness of the varying deterrent effect can be proven from numerical calculations by the Galerkin method. Also, the key physical factors governing the varying deterrent effect of dead loads for beams, subjected to uniformly distributed static live loads, are shown in the closed‐form solution derived by solving, in approximate terms, the proposed governing equation, taking into consideration the effect of dead loads. This paper suggests that to avoid the collapse of beams due to live loads the safety factor for lightweight structures should be raised to coincide with the safety factor for heavyweight structures. This is illustrated in an example.
+
+
+    
+        AU - Terry J. Wipf
+    
+        AU - F. Wayne Klaiber
+    
+        AU - Robert W. Funke
+    
+
+TI - Longitudinal Glued Laminated Timber Bridge Modeling
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1121-1134
+VI - 116
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1990)116:4(1121) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A4%281121%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A4%281121%29
+SO - Journal of Structural Engineering 1990-04-01 116(4): 1121-1134
+AB - A finite element model is used to study the behavior of a glued, laminated, longitudinal‐deck highway bridge. The bridge, which was developed for short to medium spans, offers a competitive alternative to steel and reinforced concrete in this span range. Experimental tests of a full‐scale laboratory test bridge are performed to validate the analytical model, which had been used in the development of design criteria for the longitudinal deck bridge. Comparison of experimental and analytical results shows the validity of the analytical model and supports the conservation of the design criteria.
+
+
+    
+        AU - Michael C. Griffith
+    
+        AU - Ian D. Aiken
+    
+        AU - James M. Kelly
+    
+
+TI - Displacement Control and Uplift Restraint for Base‐Isolated Structures
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1135-1148
+VI - 116
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1990)116:4(1135) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A4%281135%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A4%281135%29
+SO - Journal of Structural Engineering 1990-04-01 116(4): 1135-1148
+AB - A displacement‐control and uplift‐restraint device that can be installed within multilayer, elastomeric base‐isolation bearings is described. The device acts to limit the displacement of the bearings and is also able to resist tension forces associated with uplift. The device was tested in earthquake simulator tests of a nine‐story, one‐quarter scale steel structure conducted at the Earthquake Simulator Laboratory of the Earthquake Engineering Research Center of the University of California, Berkeley. The test structure was isolated using eight multilayer, elastomeric bearings, four of which were located at the corners of the structure and contained the restraint devices. The system was subjected to a large number of simulated earthquakes. In some tests the devices acted to control the displacements, and in others, where uplift forces were generated, the devices simultaneously limited the displacements and carried the uplift forces. The test results show that the action of the devices is smooth and that there is no sudden jerk when one comes into action. The devices can perform as a fail‐safe system for base‐isolated buildings. In this role they would be designed to act only when the ground motion is greater than that for which the base‐isolation system has been designed.
+
+
+    
+        AU - Loren D. Lutes
+    
+        AU - Curtis E. Larsen
+    
+
+TI - Improved Spectral Method for Variable Amplitude Fatigue Prediction
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 1149-1164
+VI - 116
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1990)116:4(1149) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A4%281149%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A4%281149%29
+SO - Journal of Structural Engineering 1990-04-01 116(4): 1149-1164
+AB - The dependence of fatigue damage accumulation on power spectral density (psd) is investigated for several types of random processes relevant to the stresses in offshore structures. Representative data have been obtained from rain‐flow analysis of time histories simulated from both unimodal and bimodal psd functions. These data are used to test the accuracy of spectral approximation methods in which the damage predictions are made from fairly simple calculational operations on the psd function. Primary emphasis is placed on the commonly used Rayleigh approximation method and a new method that involves calculation of only one spectral moment (i.e., one integral of the psd). The new method is shown to be substantially more accurate than the Rayleigh approximation for some situations.
+
+

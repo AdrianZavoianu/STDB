@@ -1,0 +1,618 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Steven J. Fenves
+    
+
+TI - Scenario for A Third Computer Revolution in Structural Engineering
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 3-11
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002796 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002796
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002796
+SO - Journal of the Structural Division 1971-01-01 97(1): 3-11
+AB - On the basis of the analogy between the industrial revolution and the computer revolution, it would be expected that subsequent conferences on electronic computation would deal exclusively with time-shared computing. The analogy is examined, and it is shown that the computer revolution differs significantly from the inudstrial revolution. Some of the adverse factors affecting the structural engineering profession are examined, and their implications for computer use are analyzed. A solution is presented for the problems outlined, calling for a centralized agency to handle software manufacture for structural engineering. The mode of operation of the profession in such an environment is described.
+
+
+    
+        AU - John M. Biggs
+    
+        AU - Peter J. Pahl
+    
+        AU - Harry N. Wenke
+    
+
+TI - Integrated System for RC Building Design
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 13-31
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002784 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002784
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002784
+SO - Journal of the Structural Division 1971-01-01 97(1): 13-31
+AB - The computer system described permits both the analysis and design of complete reinforced concrete buildings of various types. Any geometric configurations or loadings may be handled, but a simplified form of input is used for typical orthogonal buildings. Various methods of analysis are provided, ranging from approximate analysis of a portion of the building to a complete, three-dimensional stiffness analysis of the entire structure. Critical live load positions and code-specified load combinations may be automatically generated. The member design capabilities include beams and columns of various shapes, flat slabs, and one-way floor systems. Such members are designed in complete detail, including primary and secondary reinforcement and the location and length of all bars. Member design may be controlled by prespecifying cross-section dimensions or steel percentages, and by specifying geometric similarities or identities between members. Recycling of analysis and design, during which member properties and dead weights are updated, is possible in one computer run. Final output consists of member schedules, reinforcement details, and quantities.
+
+
+    
+        AU - Dag Kavlie
+    
+        AU - Johannes Moe
+    
+
+TI - Automated Design of Frame Structures
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 33-62
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002799 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002799
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002799
+SO - Journal of the Structural Division 1971-01-01 97(1): 33-62
+AB - Methods of automated design and optimization of statically indeterminate frames by means of nonlinear programming are reviewed, with particular emphasis on the sequential unconstrained minimization technique (SUMT) employed by the writers. In this approach the proper choice of initial response factor is of particular importance in cases with several local optima. An extended penalty function technique allows infeasible initial designs. When a computer with 60 bits word length is used, gradient directions may be obtained with sufficient accuracy employing a single step finite difference scheme. Efficient interpolation and reanalysis techniques are incorporated in order to reduce required computer time. Considerable reduction in numerical effort is also obtained employing a scheme of suboptimization. The developed algorithm performs well for several complex test examples including problems for which the feasible region is nonconvex, and local optima are present.
+
+
+    
+        AU - Charles F. Beck
+    
+
+TI - Computer's Role in Transmission Line Design
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 63-79
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002810 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002810
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002810
+SO - Journal of the Structural Division 1971-01-01 97(1): 63-79
+AB - This paper is based on the experiences gained in the development and use of computer techniques in the design of transmission lines. The computer acts as a catalyst providing the facility for implementing systems engineering concepts in a multidisciplinary environment. The design of a transmission line consists of: Systems Loading Studies; Selecting Conductors and Insulators; Determining Line Routing; Surveying the Right-of-Way; Designing Towers; Tower Spotting; Ordering Materials and Constructing the Line. Interwoven are the criteria for the design, esthetics, environmental conditions and costs combining the interrelated interests of owner, engineer, fabricator, contractor, land owner, financier and the public. With the aid of a computer the mechanics of operation and interfacing between the many variables can be analyzed and studied. The objective is to achieve the best solution by minimizing costs without infringing upon the aesthetic qualities or the integrity of the design. Advantages both functional and economical are presented.
+
+
+    
+        AU - W. Ronald Hudson
+    
+        AU - B. Frank McCullough
+    
+        AU - Frank H. Scrivner
+    
+        AU - Gary Carey
+    
+
+TI - Systems Analysis Method for Pavement Structures
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 81-97
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002811 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002811
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002811
+SO - Journal of the Structural Division 1971-01-01 97(1): 81-97
+AB - This paper describes a computer-based method of systems analysis for pavement structural design which is currently being used for study of special pavement problems. It is expected that the method will be adopted as a design technique in the near future. The program considers 43 input variables, ranging from constitutive parameters of paving materials, environmental factors, performance characteristics of the pavement, and the economic factors involved, including maintenance cost and user delay costs. Output from the program involves a complete evaluation of costs based on present value and is arrayed in a series of minimum cost designs selected by a branch and bound optimization technique. The paper describes the use of the method with particular attention to a sensitivity study of the parameters involved, in order to streamline the inputs for easy regular use by design agencies. Specific results for problems investigated from the sensitivity analysis of several variables are presented.
+
+
+    
+        AU - Gary L. Giles
+    
+
+TI - Procedure for Automating Aircraft Wing Structural Design
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 99-113
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002812 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002812
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002812
+SO - Journal of the Structural Division 1971-01-01 97(1): 99-113
+AB - A computer program entitled Design of Aircraft Wing Structures (DAWNS) is described. Particular methods used to incorporate the analytical procedures required from the aerodynamic and structural disciplines into this automatic design program are described. Loads on the structure are calculated using linearized Mach box aerodynamics, and a finite element idealization is used for the structural analysis. During the design the structural members are fully stressed to the allowables of either material yield strength or buckling, or they are limited to minimum gage. The program provides detailed design information such as aerodynamic pressure distribution, cross-sectional dimensions and corresponding stresses in each structural member, and the idealized structural mass of the final design. Simple user input combined with rapid iteration of analysis and design procedures and graphical output of design information permits early evaluation of the effect of changes in design variables.
+
+
+    
+        AU - Andrew K. C. Wong
+    
+        AU - Tung Au
+    
+
+TI - Parallel Processing Approach to Bridge Planning
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 115-132
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002783 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002783
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002783
+SO - Journal of the Structural Division 1971-01-01 97(1): 115-132
+AB - This paper presents a mode of computer processing in planning and design of bridges which provides flexibility in searching, comparing, evaluation and selecting available data from the project environment and potential design alternatives. The computer program is written in A Programming Language (APL) and is suitable for structuring and manipulating the basic data. The subroutines in the program can accept and manipulate arrays, and express them in semi-graphic form. The input and output can be handled in conversational mode on time sharing systems.
+
+
+    
+        AU - Kenneth F. Reinschmidt
+    
+
+TI - Discrete Structural Optimization
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 133-156
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002785 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002785
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002785
+SO - Journal of the Structural Division 1971-01-01 97(1): 133-156
+AB - The application of discrete programming to structural optimization permits the use of tabulated section properties and eliminates the need for approximate relations, such as between weight and section modulus, which may obscure the optimal solution. Linear discrete programming techniques are applied to elastic design problems by linearizing the constraint functions. The AISC Code formulae for allowable compression stresses in truss members are included exactly in the formulation. The program can also select the best material from various grades of structural steel. For computational economy, tables of structural sections are truncated, so that the solution may be restricted to a local optimum. For this reason, a fast approximate procedure may be as effective as an exact, but slower, implicit enumeration algorithm. Since the local optima depend upon the initial design, a search for the global optimum can be made by generating random starting points. Decision rules based on Bayesian statistics are developed to determine the optimal number of alternate designs to be investigated in the design process.
+
+
+    
+        AU - William S. LaPay
+    
+        AU - George G. Goble
+    
+
+TI - Optimum Design of Trusses for Ultimate Loads
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 157-174
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002786 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002786
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002786
+SO - Journal of the Structural Division 1971-01-01 97(1): 157-174
+AB - Based on the results of this study, it can be concluded that the nonlinear formulation of the truss design problem is superior to the linear formulation. In design of typical transmission towers a very large number of members must be selected subject to the action of a number of load conditions. In the linear formulation a very large problem results. Running times are large. In addition, numerical difficulties were encountered in seeking the solution to the linear program using the usual methods. The nonlinear method produced more efficient solutions and, in addition, included at least an elementary treatment of buckling. This method has been used in the design of large truss structures.
+
+
+    
+        AU - Aldo Cella
+    
+        AU - Robert D. Logcher
+    
+
+TI - Automated Optimum Design from Discrete Components
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 175-189
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002787 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002787
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002787
+SO - Journal of the Structural Division 1971-01-01 97(1): 175-189
+AB - Optimization in structural design using discrete variable can exploit the discrete characteristics of the design problem and avoid artificial and often self-defeating discretation from problem solutions in continuous variables. A method for solving member-sizing problems using wide flange tables, a current design code, and linear elastic behavior due to arbitrary loading conditions is shown to be within reasonable economic bounds. The method consists of a combinatorial algorithm classified as a branch-and-bound type. Starting with a lower-bound infeasible solution the algorithm detects a feasible solution for an upper bound and explores the region for a local optimum, bouncing along the constraints if the value of the objective function can be improved. Reanalysis is performed at each step with an exact method which performs only part of normal analysis steps. Included as part of the STRUDL information system, the programmed algorithm allows an engineer to assist in improving the optimization process and perform optimization on a structure on a piece-wise basis.
+
+
+    
+        AU - Peter G. Smith
+    
+        AU - Edward L. Wilson
+    
+
+TI - Automatic Design of Shell Structures
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 191-201
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002788 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002788
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002788
+SO - Journal of the Structural Division 1971-01-01 97(1): 191-201
+AB - A computer-oriented method for the design of a large class of shell structures is presented. The numerical approach is modeled after an experimental technique used to determine shapes for shell structures. In the experimental procedure, the shell geometry is obtained by loading a flexible membrane. The numerical method presented replaces the costly and time-consuming experimental approach with an efficient digital computer program. A finite element formulation of the problem of large displacement in membrane shells is used to determine the equilibrium configuration for the flexible membranes. The approach is general and can be applied to the design of shells having arbitrary geometry, material properties, thickness and boundary conditions. The method is applied to the design of roof structures, arch dams, storage tanks and a tubular joint. Evaluation of the stresses in these structures indicates that the use of membrane shapes represents a rational approach to the design of many civil engineering shell structures.
+
+
+    
+        AU - Paul A. Seaburg
+    
+        AU - Charles G. Salmon
+    
+
+TI - Minimum Weight Design of Light Gage Steel Members
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 203-222
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002789 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002789
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002789
+SO - Journal of the Structural Division 1971-01-01 97(1): 203-222
+AB - Light gage steel is used extensively in light construction components. Large tonnages of a standard design are commonly produced, thus the minimum material requirements are of utmost importance to the product designer. A technique is presented for designing a minimum weight member to support a given loading condition. The problem is treated as a numerical optimization problem in which the variables are the dimensions and thickness of a given type of cross-sectional shape. Design requirements are based on the American Iron and Steel Institute Specification for the Design of Cold-Formed Steel Structural Members, 1968 Edition. These requirements are used to calculate a minimum acceptable thickness for a section whose other dimensions are considered temporarily fixed. This establishes the minimum weight design for the particular set of dimensions. Search methods are then employed to systematically establish sets of dimensions yielding reduced weight sections. Both a direct search and gradient search were examined and the latter found to be more efficient.
+
+
+    
+        AU - George Rabe
+    
+        AU - Vincent A. Trossello
+    
+
+TI - Man-Oriented Program System for Engineering Design
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 223-235
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002790 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002790
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002790
+SO - Journal of the Structural Division 1971-01-01 97(1): 223-235
+AB - Any computerized design system must be oriented toward man as its source of innovation and growth. Programs and systems for engineering design should be made by the engineers who will be actively involved in their use. Direct access, real-time systems, such as time sharing, have made this practical. Design engineers have developed a working system for the design of large, vertical, pressure vessels. Within the system the engineer makes the key decisions and determines the design process through on-line interaction. The system consists of several component programs and storage files. Its objective is to involve the engineer in the creative part of the design process by providing him with extensions of his analytical capabilities and his memory. The system is open-ended, dynamically adaptive and is aimed to enhance the communication between engineering specialties. Brief examples of use are presented and probable future course of development is outlined.
+
+
+    
+        AU - Karl L. Reichelt
+    
+        AU - Dan M. Brown
+    
+        AU - John W. Melin
+    
+
+TI - Tower: Design System for Guyed Towers
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 237-251
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002791 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002791
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002791
+SO - Journal of the Structural Division 1971-01-01 97(1): 237-251
+AB - TOWER consists of a package of analysis routines that are manipulated by the use of a problem-oriented language. The system has been specifically designed for remote terminal, time-sharing applications, although batch processing modes can be utilized. This system can be applied to the design of any symmetrical tower that is laterally supported by guy cables. A maximum of eight cables attached to each of twenty different levels can be analyzed. The tower may contain either three or four legs and may be hinged or fixed at its support. It can have projecting cable arms, concentrated antennae loads, and intermediate span loads. The advantages of a real-time communication capability, easy modificaiton of input data facilitating iterative use, choice of solution techniques, automatic comparison of results to AISC allowable values, and direct access to and output of parameter values at any point in the design process are presented. These are illustrated with designs of actual U.S. Coast Guard navigational towers.
+
+
+    
+        AU - Robert L. Schiffman
+    
+        AU - Jack R. Stein
+    
+
+TI - Interactive Graphics: Settlement and Slope Stability
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 253-272
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002792 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002792
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002792
+SO - Journal of the Structural Division 1971-01-01 97(1): 253-272
+AB - Described are the results of research and development in the use of interactive computer graphics for soil engineering analysis and design. Two specific areas are described: settlement analysis and slope stability. The systems described herein have been implemented on a CDC 6400 using a CDC 280/282 interactive display system. Three soil engineering application systems are described. They are: Rate INteractive Graphics (RING), a system for predicting the progress of consolidation of multilayered soil deposits; Elastic LAyer STress-INteractive Graphics (ELASTING), a system for determining the stresses and displacements in layered elastic media; and FEllenius-May Analysis-Limiting Equilibrium (FEMALE), a system for analyzing the stability of earth structures using the Fellenius-May technique.
+
+
+    
+        AU - Richard Douty
+    
+        AU - Sidney Shore
+    
+
+TI - Technique for Interactive Computer Graphics in Design
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 273-288
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002793 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002793
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002793
+SO - Journal of the Structural Division 1971-01-01 97(1): 273-288
+AB - Developments in computing software and hardware make it possible to consign more of the design labor to the computer than has been possible, and permit the designer to exercise more fully his role as policy maker. Formula manipulation computer languages which can be used to produce exact differentials of very large nonlinear expressions and interactive graphic terminals which make it possible to modify on-line the nonlinear programming problem representing a design situation permit structural designs to be generated by the computer which are complete in all respects, where all design parameters necessary to define the configurations can be used, and where building code provisions are used unchanged as the set of constraints. The architecture of a man-machine interactive system is presented which allows the designer to effectively mold the design with a light pen as it is being evolved by the computer with the NLP algorithm and which appears in effect as an animation on the scope. A case study of an optimally proportioned beam is given in tabular form.
+
+
+    
+        AU - LeRoy T. Boyer
+    
+        AU - John C. Casson
+    
+
+TI - Experiences with Interactive Computing System
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 289-299
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002794 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002794
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002794
+SO - Journal of the Structural Division 1971-01-01 97(1): 289-299
+AB - The advent of problem-oriented languages (POL's) and time-shared remote-access computer facilities has opened new horizons to the engineering profession. Time-sharing affords the practicing engineer almost immediate access to a computing facility. POL's combined with time-sharing provide the engineer with a capability to communicate with the computer in a conversational mode. The advent of time-sharing and POL's has caused more than a few changes in the required management and operating procedures both in the design office and at the computer facility. Covered herein are the experiences of the consulting engineer design office manager and staff and the experiences and responsibilities of the computing center management and staff during two years of operation of the Civil Engineering Systems Laboratory (CESL) remote terminal computer facility of the University of Illinois at Urbana-Champaign.
+
+
+    
+        AU - Edward L. Murphree
+    
+        AU - John W. Melin
+    
+
+TI - Experience with POL Environment
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 301-313
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002795 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002795
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002795
+SO - Journal of the Structural Division 1971-01-01 97(1): 301-313
+AB - During the past decade use of digital computers in civil engineering has progressed in amount of use and in ease of use. The advent of the Problem-Oriented Language (POL) was of tremendous importance to the profession, but the method of implementing processors for POLs was for some time a stumbling-block to the proliferation of the languages. In 1966, the writers (with S. J. Fenves) published a paper describing a new approach to the implementation of POLs, an environment which promised to simplify the production of processors and encourage the creation of POLs for many phases of civil engineering. The environment has now been in use for approximately four years, in various forms, from a prototype batch-mode version to a conversational, real-time, time-share version. The present paper is a progress report on the status of the environment for POLs (both proposed and actual) and the experience gained in this endeavor.
+
+
+    
+        AU - Richard F. Harig
+    
+        AU - Daniel J. McDermott
+    
+
+TI - Structural and Foundation Computer-Based Design
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 315-328
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002797 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002797
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002797
+SO - Journal of the Structural Division 1971-01-01 97(1): 315-328
+AB - Philosophy and practices adopted by an engineering and construction design office for effectively using computers are described. Design practice of engineer input in the form of words and sketches, translated into Problem Oriented Languages by well-trained technicians and entered by remote batch to a multiprocessing computer, is postulated as the best method of engineer-computer communication. Numerous options in the engineering design process are provided in the form of multiple entry and output points, including: (1) Component analysis and design; (2) structural analysis, design, plot, and optimization; and (3) foundation analysis, design, and optimization. Specifications, criteria, and method for several phases of the design system, including floor beam design, plate girder design, frame design, maximum moment envelope, and foundation design, are summarized. An outline for computer analysis, design, optimization, and plot of structures and foundations, with an example problem, are presented.
+
+
+    
+        AU - Ralph E. Miller
+    
+        AU - John McCaslin
+    
+
+TI - Cost-Effective Matching of Task and Computing Device
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 329-337
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002798 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002798
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002798
+SO - Journal of the Structural Division 1971-01-01 97(1): 329-337
+AB - The primary goal was policy guidance for the proportions of resources to be spent on men and computing devices to accomplish engineering tasks. The secondary goal was an analysis for evaluating the cost of performing a spectrum of engineering tasks on a spectrum of devices. This paper attempts to parameterize the task descriptions and then to analytically model the computational environments. Seven types of devices were studied. These were: slide rule; mechanical desk calculator; stored-program desk calculator; small time-sharing system; large time-sharing system; small, local batch computer; and large, centralized batch computer. These devices were simulated in terms of task input man-time, computation man-time, output man-time, man waiting time, machine time. The major findings were: (1) The current large batch oriented system has minimized the cost of computing equipment but has unfortunately maximized task total cost; and (2) the alternates, essentially time-shared systems, require that more money be spent on computing equipment, nevertheless, they drastically reduce the task total cost, because they reduce task flowtime.
+
+
+    
+        AU - Daniel Roos
+    
+
+TI - Computer Charges and Engineering Organizations
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 339-347
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002800 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002800
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002800
+SO - Journal of the Structural Division 1971-01-01 97(1): 339-347
+AB - The increasing importance of computers in engineering organizations has raised many issues related to computer charging policies. These include: (1) How direct computer charges are determined; (2) the relationship of computer activities to overhead and profit of the firm; and (3) computer charging policies to be used in dealing with clients. Existing charging policies, largely oriented to professional manpower cost, do not relate well to computer cost factors and may discourage optimal computer use. New approaches are required which are fair both to the engineering organization and the client. Due to variability of computer operations in different organizations and to lack of professionwide standards, each organization has developed its own procedures. These practices are examined and future improvements are suggested.
+
+
+    
+        AU - Rene W. Luft
+    
+        AU - Jose M. Roesset
+    
+        AU - Jerome J. Connor
+    
+
+TI - Automatic Generation of Finite Element Matrices
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 349-362
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002801 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002801
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002801
+SO - Journal of the Structural Division 1971-01-01 97(1): 349-362
+AB - Some of the basic ideas involved in the development of an automatic generator for finite element stiffness and mass matrices are analyzed. Two different programs are presented, one for rectangular elements, the other for isoparametric elements. In both cases polynomial expansions are assumed. In the first case the element matrices can be obtained as a linear combination of dimensionless intrinsic matrices multiplied by factors representing the element dimensions. In this form the derivation has to be done only once for a type of element. In the second case it is easier to compute the element matrices for the specified dimensions. This represents savings in computer memory but requires a new derivation for each element with different dimensions.
+
+
+    
+        AU - Richard H. Gunderson
+    
+        AU - Ayhan Cetiner
+    
+
+TI - Element Stiffness Matrix Generator
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 363-375
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002802 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002802
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002802
+SO - Journal of the Structural Division 1971-01-01 97(1): 363-375
+AB - This paper presents the basic concepts required to construct a computer code capable of deriving element stiffness matrices. The computer program requires only the displacement functions, transformation matrices, and a few control cards as input. The computer code assembles a complete element stiffness matrix for any type of configuration and displacement functions of any order. The matrix is stored in an alpha-numeric array. The final form is printed in terms of numerical coefficients and material and geometric properties of the element in symbol form. The output is received printed or punched on cards ready for incorporation into existing finite element computer codes. Examples are presented for a two-dimensional triangular plate element in which the displacements are represented in terms of area coordinates. However, the concept is not limited to local coordinate representations of displacement functions or to two-dimensional problems.
+
+
+    
+        AU - Dag Kavlie
+    
+        AU - Graham H. Powell
+    
+
+TI - Efficient Reanalysis of Modified Structures
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 377-392
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002803 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002803
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002803
+SO - Journal of the Structural Division 1971-01-01 97(1): 377-392
+AB - Techniques are examined for the analysis of structures in which the dimensions of some or all members may be changed. Several existing methods which do not require complete reanalysis are considered, and a new procedure is proposed. The theory of each method is presented, using a consistent notation, and expressions for the number of computer operations are derived. Operation counts for a typical rigid frame are compared for the several methods. Potential advantages of iteration and substructure analysis are briefly noted. It is concluded that complete reanalysis is likely to be the most efficient procedure in the majority of cases.
+
+
+    
+        AU - Donald H. Orme
+    
+        AU - Reginald G. Smith
+    
+        AU - William R. Tinch
+    
+
+TI - Construction Self-Weight Stresses of Precast Shear Walls
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 393-406
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002804 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002804
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002804
+SO - Journal of the Structural Division 1971-01-01 97(1): 393-406
+AB - Multistory buildings may be constructed economically by system building in precast concrete using large prefabricated wall panel and floor slab units with in situ horizontal and vertical joints. Like masonry and brick construction, the stability of such buildings is primarily dependent on the action of the gravity or self-weight forces and on the efficiency of the joints in transmitting shear and tension stresses between the panels. The stress distributions accumulated during the story by story erection of a typical precast concrete gable wall are computed by the Finite Element method using the Shear Walls with Openings program SWALLO. These are compared with the stresses calculated on the assumption that the total dead weight acts simultaneously on the completed wall. It is shown that there are considerable differences in the estimation of the loads acting on the foundation beam, especially for a wall with a small number of stories. Savings in the amount of reinforcement required within the precast wall panels and across the in situ joints can be made from the stress contours provided by the SWALLO program.
+
+
+    
+        AU - Semih S. Tezcan
+    
+        AU - Krishna M. Agrawal
+    
+        AU - George Kostro
+    
+
+TI - Finite Element Analysis of Hyperbolic Paraboloid Shells
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 407-424
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002805 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002805
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002805
+SO - Journal of the Structural Division 1971-01-01 97(1): 407-424
+AB - Orthotropic triangular finite elements with double curvature have been used in analyzing the multi-wing hyperbolic paraboloid shell roof of the American Airline aircraft hangar, San Francisco, California. The shell surface made out of corrugated steel sheets contains also a framework of steel beams. A typical two-flank portion of the shell roof, which covers an area of 460 ft by 560 ft, has been idealized into an assembly of 527 finite elements and beams with 614 nodes requiring the solution of 2075 equations for each one of the four loading conditions.
+
+
+    
+        AU - Joseph M. Sussman
+    
+        AU - Robert D. Logcher
+    
+        AU - Howard C. Stotland
+    
+
+TI - SPECS—A Specification Production Computer System
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 425-438
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002806 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002806
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002806
+SO - Journal of the Structural Division 1971-01-01 97(1): 425-438
+AB - SPECS is a computer system used to prepare final contract specifications. The system provides a framework for development of a general master specification from which all project specifications are derived through a context editing which utilizes the logical capabilities inherent in computers to treat relations among blocks of information in the specification. Blocks of information may be excluded (or included) as a function of the exclusion (or inclusion) of other blocks. In addition, other logical structures may be utilized. Flexible format control is provided by allowing the user to define format files which contain rules for printing (e.g. page width, depth). These format files then control the printing of a specification. SPECS is operational on both the IBM 1130 and S/360, under the PLAN system. Problem oriented languages are used to facilitate man-machine communication.
+
+
+    
+        AU - Jimmy L. Noland
+    
+        AU - Chuan C. Feng
+    
+
+TI - Formulation of Decision Logic Tables
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 439-461
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002807 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002807
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002807
+SO - Journal of the Structural Division 1971-01-01 97(1): 439-461
+AB - The structure of decision logic tables and application to engineering problems is analyzed. Decision logic tables offer a means for the clear definition and presentation of engineering decision-making problems and provide a sound basis for decision-making machine programs. A technique for formulating decision logic tables is the principal purpose of the paper. The technique utilizes the uniqueness of the permutations of the possible relative magnitude states of design parameters to establish all the valid decision rules corresponding to a prescribed set of design conditions. The technique enables the decision rules corresponding to conditions which display logical dependence to be accurately formulated. Two problems which require considerable logical analysis are cast into decision logic table form for purposes of illustration of the technique.
+
+
+    
+        AU - Surendra K. Goel
+    
+        AU - Steven J. Fenves
+    
+
+TI - Computer-Aided Processing of Design Specifications
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 463-479
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002808 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002808
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002808
+SO - Journal of the Structural Division 1971-01-01 97(1): 463-479
+AB - Generalization of design process has been hampered by the fact that design constraints, as presented in the various codes and specifications, are written with hand computation in mind and are not readily adaptable to computer processing. Decision table format for specfications has been suggested to overcome this problem. A general algorithm for constraint checking, using the design constraints in the form of decision tables, is presented. The algorithm minimizes the volume of data required and optimizes on execution time by (1) Conditionally executing subsequent tables in the hierarchy only when the data generated by such tables is actually required; and (2) grouping data in the form of ingredients and dependence arrays. Conditional execution is implemented by recursive use of the same program segment. Provisions are included for recycling of the constraint checking for testing alternate designs or alternate design approaches by changing only a few elements of data, or both. Examples have been solved using the 1969 AISC Specification.
+
+
+    
+        AU - Richard N. Wright
+    
+        AU - LeRoy T. Boyer
+    
+        AU - John W. Melin
+    
+
+TI - Constraint Processing in Design
+PT - Journal Article
+DP - 1971
+TA - Journal of the Structural Division
+PG - 481-494
+VI - 97
+IP - 1
+AID - 10.1061/JSDEAG.0002809 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002809
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002809
+SO - Journal of the Structural Division 1971-01-01 97(1): 481-494
+AB - A constraint is defined as an application of a design criterion at a specific location for a specific loading condition. Computer aids for constraint evaluation have been difficult to implement because various and involved logical procedures are required to build from input data to constraint values. A network-topological description of data relationships from input through derived attributes to constraint values is generalized to treat subscripted attributes. A SEEK procedure provides a simple and efficient algorithm for evaluation of any constraint or attribute. A WARN procedure indicates effects of design changes on the validity of previously derived data. These procedures appear appropriate for use of any specification with computer-aided design procedures such as review, sensitivity analysis, and modification, as well as their synthesis in formal optimization.
+
+

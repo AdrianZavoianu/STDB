@@ -1,0 +1,390 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Vincente Pericoli
+    
+        AU - Amit Kanvinde
+    
+
+TI - Theoretical Study of Ductile Fracture in Steel Structures in the Presence of Spatial Variability in Toughness
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018024
+VI - 144
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0002008 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002008
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002008
+SO - Journal of Structural Engineering 2018-05-01 144(5): 04018024
+AB - Micromechanical or local models are increasingly used for predicting microvoid-growth–induced ductile fracture in structural steel components. Methods to calibrate and apply these models presume that both calibration specimens and prototypical components are spatially homogenous in terms of material toughness. This presumption conflicts with test data that show significant variability in material toughness of coupons extracted from a larger steel sample. Spatial variability of toughness in structural components has the potential to diminish deformation capacity due to the statistical size effect, which arises from weakest-link sampling. To examine this issue, two material representations are evaluated against a set of 32 experiments on two types of structural steel, using a maximum likelihood estimation–based approach. One approach represents the material as homogenous with random toughness (as implicitly assumed by prevailing methods), whereas the other represents the material as heterogeneous with spatially random toughness. No significant difference is observed between the two approaches in predicting test data. This suggests that the material is approximately homogenous over the sizes of the tested coupons, with spatial variability present only over larger length scales. To examine the potential effects of such variability, parametric finite-element studies are conducted on a prototypical fracture-critical detail. The results confirm the statistical size effect, such that larger details have lower deformation capacity. Current methods are not able to capture this effect when transferring fracture toughness from lab-scale to archetype-scale components. A parameter is proposed to facilitate this type of scaling.
+
+
+    
+        AU - Juan Murcia-Delso
+    
+        AU - P. Benson Shing
+    
+
+TI - Numerical Study of Bond and Development of Column Longitudinal Reinforcement Extended into Oversized Pile Shafts
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018025
+VI - 144
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0002024 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002024
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002024
+SO - Journal of Structural Engineering 2018-05-01 144(5): 04018025
+AB - This paper presents a numerical investigation to examine the bond-slip behavior of column longitudinal reinforcing bars embedded in oversized pile shafts and to determine the minimum embedment length required for the column bars to prevent anchorage failure. Three-dimensional nonlinear finite-element models of column-pile assemblies incorporating the bond-slip behavior of the longitudinal reinforcing bars have been developed for the numerical analyses. The capability of the models in capturing the response of column bars along their embedment length has been verified with experimental results from four full-scale column-pile assemblies tested under cyclic lateral loads. The study has shown that the bond-stress distribution along the bar anchorage length is highly nonuniform and that the embedment length specified for the column reinforcement in current design standards is very conservative. A new design formula that significantly reduces the embedment length has been evaluated. The numerical results have indicated that the new embedment-length formula provides a good margin of safety against the pull-out failure of the column bars. The results have also shown that the use of an engineered steel casing to provide lateral confinement for the pile is an effective means to enhance the bond strength and reduce the slip of the column longitudinal bars in the anchorage region.
+
+
+    
+        AU - C. Del Vecchio
+    
+        AU - M. Di Ludovico
+    
+        AU - A. Balsamo
+    
+        AU - A. Prota
+    
+
+TI - Seismic Retrofit of Real Beam-Column Joints Using Fiber-Reinforced Cement Composites
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018026
+VI - 144
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001999 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001999
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001999
+SO - Journal of Structural Engineering 2018-05-01 144(5): 04018026
+AB - This paper studies the seismic behavior of old-style reinforced concrete beam-column joints and the effectiveness of an innovative application of fiber-reinforced concrete (FRC) as a seismic strengthening solution. Two real joint subassemblies were extracted from an existing building damaged and demolished after the L’Aquila 2009 earthquake and tested in the laboratory. The joints exhibited poor-quality concrete and reinforcement details typical of old design practice, which are very difficult to reproduce in laboratory simulations. The joint tested in the as-built configuration shows brittle failure with joint diagonal cracking, as commonly observed in the aftermath of recent devastating earthquakes. The FRC thin jacketing prevents the joint panel shear failure, promoting a more favorable beam yielding. This results in a significant increase of the shear strength (until 50%) and energy dissipation (85%). The strengthening phases and the details of the proposed strengthening layout are described. The as-built and strengthened specimens are compared in terms of global and local behavior. Strain measurements on the FRC jacketing are also discussed as an effective design parameter.
+
+
+    
+        AU - G. Loporcaro
+    
+        AU - S. Pampanin
+    
+        AU - M. V. Kral
+    
+
+TI - Estimating Plastic Strain and Residual Strain Capacity of Earthquake-Damaged Steel Reinforcing Bars
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018027
+VI - 144
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001982 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001982
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001982
+SO - Journal of Structural Engineering 2018-05-01 144(5): 04018027
+AB - Modern seismic codes are based on capacity design and the hierarchy of strength philosophy that allows inelastic response in case of severe earthquakes. Thus, in most traditional systems, earthquake damage develops at well-defined locations in reinforced concrete (RC) structures. Plastic hinges form in beams, in coupling beams, and at the base of columns and walls. There is a perceived strong demand from government and industry to develop techniques for assessing damage to steel reinforcement bars embedded in cracked structural concrete elements of earthquake-damaged buildings. Although some studies have been conducted recently, a validated methodology to quantify the level and extent of plastic deformation and residual strain capacity has yet to be widely accepted. In this paper, a damage assessment methodology is proposed based on empirical relationships between hardness versus strain and residual strain capacity that accounts for the effects of strain aging. The method has been applied to buildings damaged in the 2010/2011 sequence of earthquakes in Christchurch, New Zealand.
+
+
+    
+        AU - Mehdi Izadpanah
+    
+        AU - Ali Reza Habibi
+    
+
+TI - New Spread Plasticity Model for Reinforced Concrete Structural Elements Accounting for Both Gravity and Lateral Load Effects
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018028
+VI - 144
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0002016 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002016
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002016
+SO - Journal of Structural Engineering 2018-05-01 144(5): 04018028
+AB - The spread plasticity models that are generally used for nonlinear analysis include the uniform, linear, and, more recently, power spread plasticity models. Because all of these models are formulated from a linear moment diagram subjected to lateral loading apart from the effect of gravity loading, it has been assumed that the predefined shape of their curvature extends from the two ends of the element. This assumption can lead to incorrect outcomes in nonlinear analysis. In this study, a distributed plasticity model is developed that considers the effects of both gravity and lateral loading. To derive the proposed model, the unit load theory based on the principle of virtual work is used, and a general formulation is prepared to achieve the stiffness matrix of each beam-column element with the different flexibility properties along it. To confirm the accuracy of the proposed methodology, seven numerical examples are assessed. It is demonstrated that the results of the proposed model differ from the linear flexibility model when using only one element for each member, although the difference can be decreased by subdividing the individual structural members into more than one element. The accuracy of the proposed model is corroborated through comparison with experimental results.
+
+
+    
+        AU - D. N. Lacroix
+    
+        AU - G. Doudak
+    
+
+TI - Effects of High Strain Rates on the Response of Glulam Beams and Columns
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018029
+VI - 144
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0002020 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002020
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002020
+SO - Journal of Structural Engineering 2018-05-01 144(5): 04018029
+AB - A material predictive model that accounts for strain-rate effects and captures the effect of variable axial load on the dynamic response of glulam structural members subjected to combined lateral-blast and axial loading is developed and validated using experimental data for full-scale blast tests on beam and column specimens. Composite resistance curves, which capture the loss in axial load as the column displaces laterally, were shown to corroborate well with the measured axial-load time history and resistance curves. It was also found that the columns’ resistance can be obtained using an equivalent lateral-load approach when experimentally measured displacement, pressure, reaction, and axial-load time histories are considered. The model was also capable of predicting the maximum displacement and time to maximum displacement with reasonable accuracy.
+
+
+    
+        AU - Feiyu Liao
+    
+        AU - Zhaohui Huang
+    
+
+TI - Modeling Cracks of Reinforced Concrete Slabs under Fire Conditions
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018030
+VI - 144
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001996 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001996
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001996
+SO - Journal of Structural Engineering 2018-05-01 144(5): 04018030
+AB - Under fire conditions, the formation of large cracks within reinforced concrete floor slabs may significantly reduce the fire resistance of buildings. At present very little research has been done for modeling integrity failure of reinforced concrete slabs in fire. In this paper a nonlinear hybrid finite-element (FE) model has been developed to predict the large cracks formed in RC floor slabs in fire. The developed model was validated using the previous tested results. The nonlinear model reported in this paper can be used for assessing the integrity failure of the floor slabs in fire.
+
+
+    
+        AU - Zheng Li
+    
+        AU - Minjuan He
+    
+        AU - Kangli Wang
+    
+
+TI - Hysteretic Performance of Self-Centering Glulam Beam-to-Column Connections
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018031
+VI - 144
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0002012 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002012
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002012
+SO - Journal of Structural Engineering 2018-05-01 144(5): 04018031
+AB - This paper investigates the hysteretic performance of self-centering beam-to-column connections for glulam structures. Such connections incorporate a posttensioned high-strength steel strand to provide recentering capability, and an energy dissipation device (a special steel cap or a pair of steel angles) was installed to increase shear resistance and provide energy dissipation. Moreover, disc springs were installed at the anchor of the steel strand to reduce the loss of pretension force. Seven full-scale specimens with different connection layouts were designed for a series of cyclic loading tests. The observed failure modes are reported, and the hysteretic moment-rotation responses of the specimens are evaluated. It was noted that due to the installation of the energy dissipation device, both the moment-resisting capacity and rotational stiffness of the specimen increased, but larger residual deformation was observed because plastic deformation in the steel components was more difficult to fully recover. The variation in pretension force in the steel strand was monitored. The monitoring data indicated that disc springs were capable of eliminating pretension force loss in the steel strand under the normal service condition (i.e.,&nbsp;indoor environment with varied humidity/temperature). However, during the cycling loading tests, the specimens with disc springs showed very similar pretension force loss behavior to the specimens without disc springs, indicating that disc springs failed to prevent pretension force loss in the steel strand caused by plastic wood embedding under large rotational deformation. Furthermore, a nonlinear numerical model was developed for the self-centering connections, and numerical results showed that the model was capable of providing good predictions in terms of moment-resisting capacity under various levels of rotational deformation. The presented experimental and numerical research aims to assess the hysteretic behavior of glulam self-centering connections, which supports the development of innovative timber connections with enhanced seismic performance.
+
+
+    
+        AU - Onur Can
+    
+        AU - Minoo Kabir
+    
+        AU - Didem Ozevin
+    
+
+TI - Periodic Assembly of Steel Truss Systems for Efficient Analyses and Early Detection of Localized Damage Using Impulse Response Method
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018032
+VI - 144
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0002018 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002018
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002018
+SO - Journal of Structural Engineering 2018-05-01 144(5): 04018032
+AB - In this paper, the design of truss systems configured with a periodic pattern is proposed for obtaining the frequency response of truss units by the recursive finite-element method and monitoring their variations with localized damage using the impulse response method. The periodic assembly of a truss allows modeling with the unit cell approach in order to obtain local vibration modes independent from boundary conditions and applying recursive finite-element models that significantly reduce the required degrees of freedoms for dynamic analyses. Once the local vibration modes are obtained using dispersion curves, the impulse response method is used for tracking the damage location on the truss geometry. The approach is numerically demonstrated using three different periodic topologies and experimentally verified using a selected truss topology. The integration of the structural design and damage detection method at their earliest stage provides a forward solution for structural design and diagnosis.
+
+
+    
+        AU - Michael O’Rourke
+    
+        AU - Jan Potac
+    
+        AU - Thomas Thiis
+    
+
+TI - Windward Snow Drift Loads
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018033
+VI - 144
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0002032 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002032
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002032
+SO - Journal of Structural Engineering 2018-05-01 144(5): 04018033
+AB - Windward snow drifts are an important consideration for many roof geometrics, including roof steps, parapet walls, and various roof projections. Current code provisions for windward roof snow drifts are based upon a database wherein the larger windward drifts were difficult to distinguish from leeward drifts. This was due to the fact that windward drifts can change shape as they grow. Initially windward drifts are generally smaller in size and have a general (nonright) triangular shape with a gap between the peak drift depth and the wall. As they grow they morph into the same right triangular shape as leeward drifts with the peak drift nominally adjacent to the wall. However, recent Norwegian full scale measurements of windward drifts over time allow improved qualitative and quantitative understanding of the actual windward drift formation process. These measurements confirm that the windward drifts initially have a general (nonright) triangular shape and given enough upwind snow transport will morph into a right triangular shape. Based upon those new Norwegian measurements, actual windward drifts are substantially larger than windward drifts currently prescribed by ASCE 7. Proposed code provisions are provided which result in windward drifts generally consistent with the new Norwegian measurements. The height of the roof step or parapet wall with respect to the expected amount of driftable snow is shown to be the key parameter as windward drifts morph from an initial general triangle shape to possibly a final right triangular shape.
+
+
+    
+        AU - Hassan Masoomi
+    
+        AU - John W. van de Lindt
+    
+        AU - Lori Peek
+    
+
+TI - Quantifying Socioeconomic Impact of a Tornado by Estimating Population Outmigration as a Resilience Metric at the Community Level
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018034
+VI - 144
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0002019 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002019
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002019
+SO - Journal of Structural Engineering 2018-05-01 144(5): 04018034
+AB - Policymakers, community leaders, engineers, and researchers have gained interest in understanding tornado-resilient buildings, in part because of the number of deadly and destructive tornadoes over the last decade. In addition to direct losses, such as deaths and damages, tornadoes may also cause many indirect losses as a result of the highly coupled networks within communities. When networks are disrupted, this can cause population outmigration, which, if significant and long-lasting enough, may exacerbate a community’s indirect socioeconomic losses over time. In this study, a community was coarsely modeled with its physical-socioeconomic attributes to study population outmigration as a community resilience metric. In this regard, recovery of affected physical networks (i.e.,&nbsp;electric power network, water network, and buildings) in the wake of a tornado was investigated and linked to students, household residents, and employees as socioeconomic agents within the community. The probability of outmigration for each household was assessed based on the probability that these three agents in the household are affected over a prescribed time period from the occurrence of the hazard to the full restoration of the community. Finally, the potential population outmigration for the community was assessed by aggregating all the households in the community. The results of such an analysis can be used as a decision-making tool to prioritize hardening of existing infrastructure in a community or optimize master planning of new communities and demonstrates the importance of physical-socioeconomic interactions in resilience studies.
+
+
+    
+        AU - Matteo Izzi
+    
+        AU - Andrea Polastri
+    
+        AU - Massimo Fragiacomo
+    
+
+TI - Investigating the Hysteretic Behavior of Cross-Laminated Timber Wall Systems due to Connections
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018035
+VI - 144
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0002022 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002022
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002022
+SO - Journal of Structural Engineering 2018-05-01 144(5): 04018035
+AB - Cross-laminated timber (CLT) wall systems are composed of massive timber panels that are fastened together and to the horizontal elements (foundations or intermediate floors) with step joints and mechanical connections. Due to the high in-plane stiffness of CLT, the shear response of such systems depends strongly on the connections used. This paper proposes a numerical model capable of predicting the mechanical behavior and failure mechanisms of CLT wall systems. The wall and the element to which it is anchored are simulated using three-dimensional (3D) solid bodies, while the connections are modeled as nonlinear hysteretic springs. Typical racking tests of wall systems are reproduced by varying the assumptions used to schematize the behavior of the connections. Results are compared with test data published in the literature, and the differences are discussed. The influence of the boundary conditions (vertical load applied on top of the wall and friction at its base) and aspect ratio of the panel are investigated via a parametric numerical study. Finally, the performance of a wall system assembled with two CLT panels is analyzed, highlighting how the properties of the anchoring connections and vertical step joints affect the load-displacement response and energy dissipation.
+
+
+    
+        AU - Zhichao Lai
+    
+        AU - Amit H. Varma
+    
+
+TI - High-Strength Rectangular CFT Members: Database, Modeling, and Design of Short Columns
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018036
+VI - 144
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0002026 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002026
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002026
+SO - Journal of Structural Engineering 2018-05-01 144(5): 04018036
+AB - AISC 360-16 (the current AISC Specification) does not endorse the use of high-strength materials (Fy≥525  MPa and fc′≥70  MPa) for concrete-filled steel tube (CFT) columns because of a lack of adequate research and comprehensive design equations. This paper makes a contribution toward addressing this gap and proposes effective stress-strain relationships and design equations for high-strength rectangular CFT members using a three-step method. The first step consists of compiling the experimental database of high-strength rectangular CFT column tests in the literature and evaluating the possibility of extending the current AISC 360-16 design equations to high-strength rectangular CFT short columns. The second step consists of developing and benchmarking detailed three-dimensional (3D) nonlinear finite-element models for predicting the behavior of high-strength CFT columns from the database. The benchmarked models are then used to perform comprehensive parametric studies to (1)&nbsp;address gaps in the database and (2)&nbsp;develop effective stress-strain relationships for modeling the steel tube and concrete infill of high-strength rectangular CFT members, while indirectly accounting for the effects of confinement, yielding, and local buckling. The third step consists of using these effective stress-strain relationships and the enhanced database to propose a new design approach (including equations) for high-strength rectangular CFT short columns. Finally, a reliability analysis is performed to establish a resistance (strength reduction) factor (ϕ) to be used with the proposed design equations.
+
+
+    
+        AU - C. L. Knox
+    
+        AU - D. Dizhur
+    
+        AU - J. M. Ingham
+    
+
+TI - Two-Story Perforated URM Wall Subjected to Cyclic In-Plane Loading
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 04018037
+VI - 144
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0002021 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002021
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002021
+SO - Journal of Structural Engineering 2018-05-01 144(5): 04018037
+AB - The testing program reported herein was designed to provide experimental results from a structure relevant to the type and form of unreinforced masonry (URM) buildings that are commonly found in several countries. The experimental test provided results associated with the system-level displacement-controlled quasistatic response of a half-scale two-story perforated URM wall loaded in-plane. The geometry of the wall was specifically chosen to investigate the effect of shallow spandrels on the multistory response. It was concluded that the response of the two-story perforated URM wall exhibited an approximate elastic–perfectly plastic behavior, with a nonlinear response. The external piers rocked over their interstory effective height and the wall reached an ultimate drift of 1.4% with minimal strength loss but with extensive damage to the top-level spandrel elements.
+
+
+    
+        AU - Therese P. McAllister
+    
+        AU - Naiyu Wang
+    
+        AU - Bruce R. Ellingwood
+    
+
+TI - Risk-Informed Mean Recurrence Intervals for Updated Wind Maps in ASCE 7-16
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 06018001
+VI - 144
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0002011 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002011
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002011
+SO - Journal of Structural Engineering 2018-05-01 144(5): 06018001
+AB - ASCE 7 is moving toward adopting load requirements that are consistent with risk-informed design goals characteristic of performance-based engineering (PBE). ASCE 7-10 provided wind maps that correspond to return periods of 300, 700, and 1,700&nbsp;years for Risk Categories I, II, and combined III/IV, respectively. The risk targets for Risk Categories III and IV buildings and other structures (designated as essential facilities) are different in PBE. The reliability analyses reported in this paper were conducted using updated wind load data to (1)&nbsp;confirm that the return periods already in ASCE 7-10 were also appropriate for risk-informed PBE, and (2)&nbsp;to determine a new risk-based return period for Risk Category IV. The use of data for wind directionality factor, Kd, which has become available from recent wind tunnel tests, revealed that reliabilities associated with wind load combinations for Risk Category II structures are, in fact, consistent with the reliabilities associated with the ASCE 7 gravity load combinations. This paper shows that the new wind maps in ASCE 7-16, which are based on return periods of 300, 700, 1,700, and 3,000&nbsp;years for Risk Categories I, II, III, and IV, respectively), achieve the reliability targets in Section 1.3.1.3 of ASCE 7-16 for nonhurricane wind loads.
+
+
+    
+        AU - S. Hračov
+    
+
+TI - Efficient Approximate Eigensolution for Structures Equipped with a Passive Damping Device
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 06018002
+VI - 144
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0002017 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002017
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002017
+SO - Journal of Structural Engineering 2018-05-01 144(5): 06018002
+AB - This article presents an approximate method for the complex eigensolution of nonclassically damped linear systems representing a structure equipped with a passive damping device. The proposed algorithm does not require the standard state-space formulation and is computationally efficient compared to the existing methods. The complex eigenvalues are determined using an approximate solution of the characteristic equation based on a combination of perturbation and incremental approaches. The complex eigenmodes are subsequently calculated with the use of the obtained eigenvalues from eigenvectors of a significantly reduced eigenproblem defined in modal coordinates. The accuracy of the proposed method is demonstrated through numerical studies on a television tower.
+
+
+    
+        AU - Junming Jiang
+    
+        AU - Shiming Chen
+    
+
+TI - Discussion of “Beam-to-CFT High-Strength Joints with External Diaphragm. II: Numerical Simulation of Joint Behavior” by Cristian Vulcu, Aurel Stratan, Adrian Ciutina, and Dan Dubina
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 07018004
+VI - 144
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0002027 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002027
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002027
+SO - Journal of Structural Engineering 2018-05-01 144(5): 07018004
+
+
+    
+        AU - Cristian Vulcu
+    
+        AU - Aurel Stratan
+    
+        AU - Adrian Ciutina
+    
+        AU - Dan Dubina
+    
+
+TI - Closure to “Beam-to-CFT High-Strength Joints with External Diaphragm. II: Numerical Simulation of Joint Behavior” by Cristian Vulcu, Aurel Stratan, Adrian Ciutina, and Dan Dubina
+PT - Journal Article
+DP - 2018
+TA - Journal of Structural Engineering
+PG - 07018005
+VI - 144
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0002082 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002082
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002082
+SO - Journal of Structural Engineering 2018-05-01 144(5): 07018005
+
+

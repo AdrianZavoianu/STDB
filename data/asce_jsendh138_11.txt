@@ -1,0 +1,282 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - M. V. Anil Kumar
+    
+        AU - V. Kalyanaraman
+    
+
+TI - Design Strength of Locally Buckling Stub-Lipped Channel Columns
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1291-1299
+VI - 138
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000575 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000575
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000575
+SO - Journal of Structural Engineering 2012-11-01 138(11): 1291-1299
+AB - The compressive strength of cold-formed steel (CFS) lipped channel (LC) members may be governed by yielding, local, distortional, or overall buckling, and any possible interaction among these modes. The direct strength method (DSM) has been advanced recently for evaluating the strength of CFS LC beams and columns. Although the DSM is an improvement over other methods in terms of simplicity and accuracy, further improvement by minor modification to the DSM is possible if all the parameters that affect the strength of such members is properly accounted for and understood. In this study, the DSM equations for evaluating the strength of members that fail after experiencing only local buckling are discussed. The strength of such members, according to the DSM, is a function of only the ratio of yield strength of the section (Py) to the elastic local buckling load (Pcrℓ) (also equal to the reciprocal of square of the nondimensional local buckling slenderness ratio, 1/λℓ2). This study indicates that the relative area of the stocky elements of the cross section, which are less vulnerable to elastic local buckling, also influences the strength of such members. Using the experimental results available in the literature and the finite-element analysis data generated in this study, the behavior and strength of stub LC compression members experiencing only local buckling before failure by yielding are evaluated. Simple modifications to the currently available DSM equations are suggested to more accurately evaluate the strength of such members.
+
+
+    
+        AU - Jianguo Cai
+    
+        AU - Yixiang Xu
+    
+        AU - Jian Feng
+    
+        AU - Jin Zhang
+    
+
+TI - In-Plane Elastic Buckling of Shallow Parabolic Arches under an External Load and Temperature Changes
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1300-1309
+VI - 138
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000570 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000570
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000570
+SO - Journal of Structural Engineering 2012-11-01 138(11): 1300-1309
+AB - This paper studies the in-plane stability of rotationally restrained shallow arches subjected to a vertical uniform load and temperature changes below 100°C. The virtual work principle method was used to establish the nonlinear equilibrium and buckling equations. Analytical solutions for the nonlinear in-plane symmetric snap-through and asymmetric bifurcation critical loads are obtained. Then the effects of the uniform temperature field and temperature gradients on the in-plane stability for arches are studied. The influence of temperature variations on the critical loads for both the symmetric snap-through and asymmetric bifurcation modes was significant. The critical loads increase with an increase of the uniform temperature field and a decrease of temperature gradients. Furthermore, the effect of temperature changes on the critical load increases with the span-rise ratio m of arches. Increasing the stiffness of the rotational springs will increase the effect of the uniform temperature field but reduce the effect of the temperature gradients.
+
+
+    
+        AU - Lucian Stefan
+    
+        AU - Pierre Léger
+    
+
+TI - Three-Dimensional Hydromechanical Sectional Analysis of Cracked Nonprismatic Concrete Spillway Piers
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1310-1320
+VI - 138
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000579 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000579
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000579
+SO - Journal of Structural Engineering 2012-11-01 138(11): 1310-1320
+AB - Several concrete hydraulic structures, such as spillway piers, must be considered three-dimensional (3D) components subjected to 3D loads. A very convenient approach to perform stability analysis of concrete dams is the so-called gravity method, leading to the solution of a PMM problem (axial force P and biaxial bending moments Mx, My) assuming linear normal stress distribution. If cracking takes place, water penetrates into the cracks, inducing the development of full uplift pressures (UPs). Sliding safety factors (SSFs) are computed using shear force resultants Vx, Vy, and a Mohr-Coulomb failure criterion while ignoring torsion T (VVT). This paper presents a 3D extension of the gravity method for cracked planar concrete sections of arbitrary geometry subjected to arbitrary loads (PMM-VVT). To compute the shear stress distribution, a VVT sectional analysis algorithm has been developed based on the theory of elasticity (TE), including Saint-Venant and warping torsional components combined with triangular 2D finite elements (FEs). Afterward, the SSF on the failure plane is computed from the integration of normal stresses on the remaining uncracked area where the Mohr-Coulomb criterion (considering the shear stresses from the VVT solution) has not been locally exceeded. Two validation examples and a case study of an actual pier are presented to illustrate the accuracy and efficiency of the proposed approach compared with full 3D FE analyses.
+
+
+    
+        AU - Isamu Yoshitake
+    
+        AU - Atsushi Ogawa
+    
+        AU - Yail J. Kim
+    
+        AU - Yoichi Mimura
+    
+
+TI - Development of a New Composite Slab System Using a Carbon Fiber–Blended Cementitious Adhesive
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1321-1330
+VI - 138
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000574 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000574
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000574
+SO - Journal of Structural Engineering 2012-11-01 138(11): 1321-1330
+AB - This paper presents an experimental study to develop a new composite slab system consisting of a concrete deck with reinforcing bars, steel plates welded with rib connectors, and a carbon fiber–blended cementitious adhesive. The adhesive has unique characteristics such as rust resistance and being waterproof and can be sprayed onto a steel substrate. The foci of the present research are bond performance of the adhesive, which is an interfacial medium between the concrete and steel plates, bond-slip response of the interface, and structure-level investigations. Test parameters include the presence of an adhesive layer, the age of the concrete-steel interface linked with the adhesive, and the configuration of rib connectors. Adequate curing time for the concrete-steel interface with the adhesive is found to take at least 7 days to achieve reasonable composite action. The adhesive layer significantly improves the performance of the interface, including bond slip and load-carrying capacities. The shape of perforation in the rib is not a significant factor on the behavior of the interface. Although the proposed composite concept is promising, progressive bond deterioration is an important consideration, and further research is necessary.
+
+
+    
+        AU - Jorge Varela-Rivera
+    
+        AU - Joel Moreno-Herrera
+    
+        AU - Ivan Lopez-Gutierrez
+    
+        AU - Luis Fernandez-Baqueiro
+    
+
+TI - Out-of-Plane Strength of Confined Masonry Walls
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1331-1341
+VI - 138
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000578 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000578
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000578
+SO - Journal of Structural Engineering 2012-11-01 138(11): 1331-1341
+AB - This paper presents the results of a study on the out-of-plane behavior of confined masonry walls. Six full-scale walls were tested in a laboratory under incremental uniform pressures. Walls with different aspect ratios, slenderness ratios, and in-plane stiffness of confining elements were considered. The spring-strut method was developed in this work to determine the out-of-plane strength of the walls. Experimental out-of-plane strengths are compared with those obtained with analytical models based on this spring-strut method, the yield line method, the failure line method, and the compressive strut method. Based on the experimental results, for walls with similar geometry, the out-plane strength depends mainly on the in-plane stiffness of the confining elements. From the comparison between experimental and analytical results, the out-of-plane strengths are well predicted with the model based on the spring-strut method, are underestimated with that based on the yield and failure line methods, and are overestimated with the model based on the compressive strut method.
+
+
+    
+        AU - Franco Braga
+    
+        AU - Rosario Gigliotti
+    
+        AU - Michelangelo Laterza
+    
+        AU - Michele D’Amato
+    
+        AU - Sashi Kunnath
+    
+
+TI - Modified Steel Bar Model Incorporating Bond-Slip for Seismic Assessment of Concrete Structures
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1342-1350
+VI - 138
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000587 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000587
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000587
+SO - Journal of Structural Engineering 2012-11-01 138(11): 1342-1350
+AB - This paper presents a simplified model for describing the response of a longitudinal bar embedded in concrete, taking into account the bond-slip phenomenon. The model is developed by assuming a linear bond-slip field along the bar anchorage length and provides a simplified stress-strain relationship to assign to the longitudinal reinforcement. The analytical approach adopted makes the proposed model very convenient from a computational standpoint because, unlike many other refined models, it does not require a multilevel iterative process. Moreover, the assumptions made are particularly appropriate for modeling bond-slip of smooth bars generally used in older reinforced concrete buildings. The implementation strategy of the proposed bond-slip model in general-purpose nonlinear structural analysis software and comparisons with experimental results are discussed in a companion paper.
+
+
+    
+        AU - Michele D’Amato
+    
+        AU - Franco Braga
+    
+        AU - Rosario Gigliotti
+    
+        AU - Sashi Kunnath
+    
+        AU - Michelangelo Laterza
+    
+
+TI - Validation of a Modified Steel Bar Model Incorporating Bond-Slip for Seismic Assessment of Concrete Structures
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1351-1360
+VI - 138
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000588 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000588
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000588
+SO - Journal of Structural Engineering 2012-11-01 138(11): 1351-1360
+AB - In this paper the implementation and validation of a modified steel bar model including bond-slip of longitudinal bars that was proposed in a companion paper is discussed. The model is developed on the key assumption of linear slip field along the steel bar with different configurations at the ends of the bar. The simplified model is capable of predicting the axial slip displacement with suitable accuracy compared with a refined model but with considerably fewer computational steps. The proposed model avoids nested iterations in the context of fiber model discretization of a section that requires the representation of all actions in terms of stress and strain. The model is applied to two component tests—one with poor and another with improved reinforcing detailing. Findings from the simulations indicate that the proposed model is more suitable for use in connections with poor detailing and pronounced slip in the plastic hinge zones.
+
+
+    
+        AU - Swaminathan Krishnan
+    
+        AU - Matthew Muto
+    
+
+TI - Mechanism of Collapse of Tall Steel Moment-Frame Buildings under Earthquake Excitation
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1361-1387
+VI - 138
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000573 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000573
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000573
+SO - Journal of Structural Engineering 2012-11-01 138(11): 1361-1387
+AB - The mechanism of collapse of tall steel moment-frame buildings is explored through three-dimensional nonlinear analyses of two 18-story steel moment-frame buildings under earthquake excitation. Both fracture-susceptible and perfect-connection conditions are investigated. Classical energy-balance analysis shows that only long-period excitation imparts energy to tall buildings large enough to cause collapse. Under such long-period motion, the shear-beam analogy alludes to the existence of a characteristic mechanism of collapse or a few preferred mechanisms of collapse for these buildings. Numerical evidence from parametric analyses of the buildings under a suite of idealized sawtooth-like ground-motion time histories, with varying period (T), amplitude (peak ground velocity, PGV), and duration (number of cycles, N), is presented to support this hypothesis. Damage localizes to form a quasi-shear band over a few stories. When the band is destabilized, sidesway collapse is initiated, and gravity takes over. Only one to five collapse mechanisms occur out of a possible 153 mechanisms in either principal direction of the buildings considered. Where two or more preferred mechanisms do exist, they have significant story-overlap, typically separated by just 1 story. It is shown that a simple work-energy relation applied to all possible quasi-shear bands combined with plastic analysis principles can systematically identify all the preferred collapse mechanisms.
+
+
+    
+        AU - A. Longo
+    
+        AU - R. Montuori
+    
+        AU - V. Piluso
+    
+
+TI - Failure Mode Control and Seismic Response of Dissipative Truss Moment Frames
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1388-1397
+VI - 138
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000569 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000569
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000569
+SO - Journal of Structural Engineering 2012-11-01 138(11): 1388-1397
+AB - In this paper, a new design approach for dissipative truss moment frames (DTMFs) able to guarantee, under seismic forces, the development of a yield mechanism of global type is presented and applied. In particular, DTMFs consist of a truss moment frame where the energy dissipation is provided by means of special devices located at the ends of the truss girders at the bottom chord level. The proposed design methodology is based on the kinematic theorem of plastic collapse. The method is based on the assumption that sections of truss elements and the yield threshold of dissipative parts (i.e., special devices) are known, and therefore the column sections are the unknowns of the design problem, which are obtained by imposing that the equilibrium curve corresponding to the global mechanism has to lie below those corresponding to all the possible mechanisms within a displacement range compatible with local ductility supply of dissipative elements. The design methodology has been implemented in a computer program and applied to the design of some DTMFs. Aiming to demonstrate the effectiveness of the proposed approach, several push-over analyses have been carried out to compare the obtained pattern of yielding with the design goal, that is, the development of a collapse mechanism of global type. In addition, the validation of the design procedure is further supported by the results of nonlinear dynamic analyses, carried out by the OpenSees computer program, which are herein reported and discussed.
+
+
+    
+        AU - Junxian Zhao
+    
+        AU - Bin Wu
+    
+        AU - Jinping Ou
+    
+
+TI - Flexural Demand on Pin-Connected Buckling-Restrained Braces and Design Recommendations
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1398-1415
+VI - 138
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000549 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000549
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000549
+SO - Journal of Structural Engineering 2012-11-01 138(11): 1398-1415
+AB - In a previous study by the authors, the cyclic behavior of a novel type of pin-connected angle steel buckling-restrained brace (ABRB) was examined, and the failure mechanism in the core projection of the ABRB induced by an excessive bending effect caused by end rotation was discussed. In this paper, the occurrence mechanism of end rotation modes and the bending effect in the core projection of an ABRB are first investigated based on the previous test results, which shows that end rotation demands would be significantly increased with the presence of a gap and an additional bending effect could be observed if the end rotation demands were large enough to cause two-point contact at the core ends. Then, a new method to predict the flexural demand on pin-connected BRBs is proposed by considering the effect of the end rotation modes, clearance, initial eccentricity, and initial deflection of casing. The design criteria to prevent yielding of the core projection are presented and further verified by the previous test results. Furthermore, the effects of key influential parameters on the flexural demand on core projection are discussed based on the analytical results. It is found that such a bending effect can be significantly reduced by decreasing the gap or increasing the constrained length of the core stiffening segment. The C-mode end rotation with single curvature bending configuration is found to be generally the most unfavorable case for core projection design. Finally, several design recommendations are provided for pin-connected BRBs.
+
+
+    
+        AU - Baofeng Huang
+    
+        AU - Shiming Chen
+    
+        AU - Wensheng Lu
+    
+
+TI - Discussion of “Seismic Damage Detection of a Full-Scale Shaking Table Test Structure” by Xiaodong Ji, Gregory L. Fenves, Kouichi Kajiwara, and Masayoshi Nakashima
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1416-1417
+VI - 138
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000479 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000479
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000479
+SO - Journal of Structural Engineering 2012-11-01 138(11): 1416-1417
+
+
+    
+        AU - Xiaodong Ji
+    
+        AU - Gregory L. Fenves
+    
+        AU - Kouichi Kajiwara
+    
+        AU - Masayoshi Nakashima
+    
+
+TI - Closure to “Seismic Damage Detection of a Full-Scale Shaking Table Test Structure” by Xiaodong Ji, Gregory L. Fenves, Kouichi Kajiwara, and Masayoshi Nakashima
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1417-1418
+VI - 138
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000647 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000647
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000647
+SO - Journal of Structural Engineering 2012-11-01 138(11): 1417-1418
+
+

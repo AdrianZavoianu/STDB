@@ -1,0 +1,554 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Alaa Aly
+    
+        AU - John B. Kennedy
+    
+
+TI - Rigidities of Horizontally Curved Flat Structures
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2513-2532
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2513) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282513%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282513%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2513-2532
+AB - Horizontally curved, wide flat structures are quite often used as superstructures of bridges and as floor slabs in large exhibition halls. Such structures are built in reinforced or prestressed concrete construction, or in composite construction with a concrete‐slab‐on‐rigid‐steel gridwork. To predict accurately the response of such curved structures to static and dynamic loads, it is essential to use accurate estimates of the structure's various rigidities. In this paper, analytical expressions are derived for predicting the flexural and torsional rigidities during the precracking and postcracking stages. The experimental program consisted of nine tests on one‐eighth‐scale, horizontally curved, concrete waffle slabs. There were three series of tests, each consisting of three types of specimens—two rectangular in plan for the pure bending tests and the third square in plan for the pure twisting test. Results from the experimental investigation confirm the analytical predictions for the various rigidities during the precracking and postcracking stages. It is also shown that the torsional stiffnesses of horizontally curved, flat structures are much higher than previously estimated.
+
+
+    
+        AU - S. M. Shahid Alam
+    
+        AU - Shunsuke Baba
+    
+
+TI - Robust Active Optimal Control Scheme Including Soil‐Structure Interaction
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2533-2551
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2533) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282533%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282533%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2533-2551
+AB - A robust active optimal‐control scheme is presented for the vibration control of a seismically excited structure. The conventional optimal‐regulator‐control scheme for civil engineering structures with fixed‐base assumption and without an observer is found to be quite ineffective for soft soils, where the effect of soil‐structure interaction is prominent. A new algorithm is developed including the effect of soil‐structure interaction in which soil is represented by the frequency‐independent springs and dampers. The effect of the variation of soil parameters on the control scheme is taken into account by the introduction of an observer. An acceleration‐type observer is used, which minimizes the difference of accelerations between the real structure and the mathematical model. The scheme is found to be robust for a considerable range of variation in the soil stiffness. The system involves an inherent instability due to the effect of observation spillover, which is corrected by prefiltering the sensor data. On the other hand, no control spillover is observed.
+
+
+    
+        AU - Kam‐Yim Sze
+    
+        AU - Amin Ghali
+    
+
+TI - Hybrid Plane Quadrilateral Element with Corner Rotations
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2552-2572
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2552) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282552%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282552%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2552-2572
+AB - A quadrilateral plane element for analysis of spatial structures is often formulated by combining a plane stress (membrane) element with two translational inplane degrees of freedom at each corner to a plate bending element with two rotational degrees of freedom and one translational (normal to the plane of element) at each corner. An additional rotational degree of freedom normal to the plane of the element and a fictitious torsional spring are added at each corner. This brings the total corner nodal degrees of freedom to three rotations and three translations and makes the element usable for general spatial structures. A quadrilateral hybrid stress element with two translational and one rotational degrees of freedom at each corner is presented in this paper. When used as the membrane constituent of a shell element, the rotational degree of freedom provides factual torsional stiffness. The element matrices are derived by minimization of a functional consisting of displacement and stress fields. Allman's displacement field is used with seven stress modes. The element passes the patch test and is invariant to orientation of axes and node numbering. Results of commonly employed benchmark tests are presented to show that the element is accurate and robust.
+
+
+    
+        AU - I‐Kuang Fang
+    
+        AU - Shih‐Tzung Yen
+    
+        AU - Chwen‐Shyuan Wang
+    
+        AU - Keh‐Luen Hong
+    
+
+TI - Cyclic Behavior of Moderately Deep HSC Beams
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2573-2592
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2573) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282573%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282573%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2573-2592
+AB - The experimental investigations of moderately deep high‐strength concrete beams subjected to various imposed inelastic cyclic deformations are presented. Fifteen cantilever beams having cross section of 200×400mm were reinforced in accordance with the seismic design provisions of the current building code (ACI 318‐89). An additional two normal‐strength concrete beams were tested as reference specimens. The test variables included: (1) Shear span‐to‐depth ratio; (2) ratio of longitudinal reinforcement at top and bottom; and (3) loading histories. The cyclic performances of beams were evaluated in terms of the characteristics of strength and stiffness degradation and energy‐dissipation capacity. The behavior of plastic hinges was also studied. Test results revealed that moderately deep HSC beams were able to resist the various cyclic loads to a displacement ductility factor of 3 to 4. For the loading histories considered in this study, the specimens exhibited pronounced decay in both strength and flexural stiffness when they were loaded beyond a displacement ductility factor of 3. Under cyclic loads, moderately deep HSC beams exhibited less spalling in the plastic‐hinge zone, which led to slower strength degradation and better energy‐dissipation capability than did the normal‐strength concrete beams.
+
+
+    
+        AU - L. J. Xin
+    
+        AU - R. I. Gilbert
+    
+
+TI - Time Analysis of Partially Prestressed Beam Subjected to Changing Loads
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2593-2606
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2593) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282593%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282593%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2593-2606
+AB - An analytical procedure is presented for the time‐dependent analysis of a partially prestressed concrete cross section subjected to an increasing load history, The load history is such that cracking of the cross section occurs under a moment increment that is applied after a period of sustained bending. The age‐adjusted effective modulus method is used to include the time‐dependent effects of creep and shrinkage in the concrete both before and after cracking. The analysis is divided into several stages and attention is focussed on the solution of the nonlinear problem created by cracking at some time after first loading. Solution of the nonlinear equations to find the depth of cracking on the cross section and the stresses and strains in both the concrete and the steel is achieved using an iterative Newton‐Raphson procedure. The effect of cracking on the stress and strain distributions determined prior to cracking are examined and the inherent difficulties associated with the ageing of concrete are treated in a mathematically tractable solution procedure. Numerical results are included to demonstrate the effectiveness of the proposed method.
+
+
+    
+        AU - D. Polyzois
+    
+        AU - P. Charnvarnichborikarn
+    
+
+TI - Web‐Flange Interaction in Cold‐Formed Steel Z‐Section Columns
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2607-2628
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2607) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282607%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282607%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2607-2628
+AB - In the American Iron and Steel Institute (AISI) specification for the design of cold‐formed steel structural members, the web of cold‐formed steel sections under direct compression is generally considered to be fully stiffened and a buckling coefficient of 4.0 is used. This, however, may not be true if the flanges of the sections cannot provide sufficient restraint to the web. Also, if the web element is unstable, distortional failure of the flange/lip component may limit the ultimate capacity of these sections with very little postbuckling strength being realized. This paper presents results from an experimental program involving 85 Z‐section columns tested under uniform compression. The test parameters included the length of specimens, the width of the flanges and the width of the lip stiffeners which were located transversely to the flanges. The experimental results indicate that the current AISI specification overestimates the capacity of Z‐sections subject to web buckling by as much as 59%. A simple theoretical model is also presented in this paper for computing the ultimate compressive resistance of cold‐formed Z‐sections.
+
+
+    
+        AU - William M. Bulleit
+    
+        AU - David V. Rosowsky
+    
+        AU - Kenneth J. Fridley
+    
+        AU - Marvin E. Criswell
+    
+
+TI - Reliability of Wood Structural Systems
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2629-2641
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2629) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282629%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282629%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2629-2641
+AB - The state of the art of reliability analysis of wood structural systems is discussed. Both wood‐system behavior and system‐reliability analysis are included. Potential areas for research that could lead to better techniques for both reliability analysis and reliability‐based design of wood systems are considered. The suggested research areas, while emphasizing gravity‐loaded systems, have analogous counterparts for systems loaded by wind and earthquake. All wood systems need to be examined in more depth from a modeling and behavior standpoint, particularly with respect to simplified models suitable for reliability analysis. Ultimate capacity reliability is emphasized, but serviceability reliability considerations are also included. Perhaps the most important research area discussed is the characterization of the various types of wood systems so that limit‐state definitions can be developed.
+
+
+    
+        AU - C. Cempel
+    
+        AU - G. Lotz
+    
+
+TI - Efficiency of Vibrational Energy Dissipation by Moving Shot
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2642-2652
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2642) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282642%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282642%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2642-2652
+AB - The paper presents measuring methods and measurement results of vibration damping of shot‐filled containers with some empty volume as the shot damper clearance. The energy dissipation by shot depends on two phenomena: the internal and the external (container walls) impacts of shot particles associated usually with their internal and external friction. This is the working principle of the single‐/multi‐mass impact dampers and the shot vibration damper as well. It is shown in the paper that the additional loss factor introduced by the shot moving in the properly shaped container is on the order of half of shot mass reduced to the primary system modal mass. It may be even twice more if the energy dissipation by shot friction will be fully utilized. This depends mainly on the motion condition of shot inside a container. It was shown in the paper also that loose shot or better shot tightly packed in a plastic bag or mesh can fulfill this condition. Shot dampers can work efficiently in a broad range of acceleration and frequency and need not be maintained. Due to this it may be very convenient to apply them to structural vibration problems.
+
+
+    
+        AU - Carl C. Ulstrup
+    
+
+TI - Rating and Preliminary Analysis of Suspension Bridges
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2653-2679
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2653) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282653%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282653%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2653-2679
+AB - Formulas for different loading cases of suspension bridges are presented. Although theoretically not correct, the principle of superposition can be used to get practical answers that are sufficiently accurate for determining stresses, deflections, and rotation in a stiffening truss or girder. The horizontal cable tension H is computed using the more accurate method by Steinman or the approximate method by Tsien. With H known, the differential equation for the various loadings can be resolved, and the results of such computations are shown in this paper. A numerical example is worked out to clarify the mathematical procedure. The data are from the Angostura suspension bridge over the Orinoco River in Venezuela.
+
+
+    
+        AU - F. M. Alkhairi
+    
+        AU - A. E. Naaman
+    
+
+TI - Analysis of Beams Prestressed with Unbonded Internal or External Tendons
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2680-2700
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2680) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282680%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282680%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2680-2700
+AB - The present study describes a nonlinear analysis model developed for the prediction of the complete moment versus deformation response of concrete beams containing bonded prestressing tendons, unbonded prestressing tendons (metallic or otherwise), and nonprestressed conventional reinforcing bars. The model uses an extensive iterative procedure for calculating the stress in unbonded tendons, fps, by performing a nonlinear analysis at various locations along the beam. The analysis is performed several times during any loading stage until the stress fps is calculated within a reasonable tolerance. Two important issues not addressed in previous investigations are considered in modeling the curvature distribution, namely: (1) The effects of member span‐to‐depth ratio and the level of shear force on the flexural deformations; and (2) the change in eccentricity under load (i.e., second‐order effects) for beams containing external tendons. Experimental verification was carried out using beam tests taken from 15 different investigations that occurred between 1962 and 1990. Excellent correlation was observed between predicted results and experimental observations.
+
+
+    
+        AU - Mehdi S. Zarghamee
+    
+        AU - Rasko P. Ojdrovic
+    
+        AU - William R. Dana
+    
+
+TI - Coating Delamination by Radial Tension in Prestressed Concrete Pipe. I: Experiments
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2701-2719
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2701) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282701%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282701%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2701-2719
+AB - This paper is the first of a two‐part paper that deals with mortar‐coating delamination by radial tension of prestressed concrete cylinder pipe. The first part presents the results of tests (the second part presents the results of analysis performed). The radial tensile strength tests were conducted both on laboratory specimens and field pipe. The radial tensile strength of laboratory specimens was measured to evaluate the effect of shrinkage, mortar moisture and wire diameter and spacing. The radial tensile strength of mortar coating was measured on field pipe buried or exposed to the outdoors environment for a long time period. The test results show that maturing of mortar increases its radial tensile strength, while shrinkage and wire diameter have only small effects on the radial tensile strength of pipe with wire spacing in excess of two wire diameters. A significant decrease in radial tensile strength is observed for wire spacing of less than two wire diameters; a smaller decrease is observed for wire spacings in excess of four wire diameters; however, for wire spacings more than two and less than four wire diameters, the radial tensile strength is independent of wire spacing.
+
+
+    
+        AU - Mehdi S. Zarghamee
+    
+        AU - Rasko P. Ojdrovic
+    
+        AU - William R. Dana
+    
+
+TI - Coating Delamination by Radial Tension in Prestressed Concrete Pipe. II: Analysis
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2720-2732
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2720) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282720%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282720%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2720-2732
+AB - Part II of a two‐part paper studying the delamination by radial tension of mortar coating of prestressed concrete cylinder pipe. Part II contains the results of the analysis of mortar coating behavior using a finite‐element model. The results provide an understanding of the stress states in the mortar coating and the mechanics of coating delamination when the coating is subjected to shrinkage, an applied radial tension, a wire radial expansion resulting from the Poisson effect of a stress reduction in the prestressing wire, or a combination of these effects. The results of the analysis support the experimental observations that shrinkage and wire spacing in the range of two wire diameters or more have small effects on the radial tensile strength of the mortar coating, but wire spacing of less than twice the wire diameter increases the radial tensile stress in mortar between the wires and the propensity of the pipe's coating to delaminate. The results of analytical and experimental studies also indicate that in early‐age pipe, coating delamination is governed by the failure criterion of maximum tensile stress or by linear elastic fracture mechanics, with no significant softening of mortar between the wires. As mortar matures, radial tensile strength, of the coating increases, and coating delamination becomes governed more by the average tensile strength of mortar between the wires.
+
+
+    
+        AU - Amir Mirmiran
+    
+        AU - Amde M. Amde
+    
+
+TI - Inelastic Buckling of Prestressed Sandwich or Homogeneous Arches
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2733-2743
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2733) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282733%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282733%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2733-2743
+AB - Inelastic buckling of prestressed homogeneous and sandwich arches is studied using a nonlinear finite‐element model. Prestressed arches are made by intentional buckling of thin struts into elastica shapes. In the case of sandwich construction, each layer is first buckled into shape, then the prebuckled layers are connected to form a composite section. The fabrication process is modeled by a special algorithm that accounts for the change in element type from three single‐layer homogeneous elements into a single three‐layer sandwich beam element. A corotational formulation is used for the large displacement, large rotation analysis of an elastic, linear strain‐hardening material. Shear deformations and membrane and flexural rigidities of all layers are included. A parametric study is carried out to include the effects of plastic tangent modulus, relative thickness of the core layer, and the ratio of prestress to the yield stress of the material. Symmetrical and asymmetrical buckling modes are both considered. The results indicate that plastification of the facings could reduce the buckling loads by as much as 55% compared to the linear elastic buckling loads.
+
+
+    
+        AU - Ronald A. Cook
+    
+
+TI - Behavior of Chemically Bonded Anchors
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2744-2762
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2744) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282744%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282744%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2744-2762
+AB - Bonded anchors are frequently used in both new construction and repair or retrofit projects. Current design standards do not contain rational design recommendations for these anchors. This paper presents rational design recommendations for evaluating the tensile strength of bonded anchors. The design recommendations account for all typical embedment failure modes observed in tension tests (i.e., concrete cone failure, bond failure, and the more common combined cone‐bond failure mode). The design recommendations presented are based on a behavioral model derived from elastic theory, on a combined cone‐bond failure model that predicts cone depth, and on the results of a total of 280 tests conducted at the University of Florida (167 tests) and the University of Texas (113 tests). The anchor strengths predicted from the design recommendations are compared to test results.
+
+
+    
+        AU - G. Yu
+    
+        AU - H. Adeli
+    
+
+TI - Object‐Oriented Finite Element Analysis Using EER Model
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2763-2781
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2763) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282763%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282763%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2763-2781
+AB - An object‐oriented finite element modeling approach is presented for solution of complex engineering systems. For efficient processing of a myriad of data types generated in such analyses an object‐oriented enhanced entity relationship (EER) data model is developed. A class library is created for performing object‐oriented finite element analysis in C++. These classes model the basic concepts and tools needed for finite element analysis of engineering problems. As an example, the models and class library developed in this research are applied to interlaminar stress analysis of composite structures. This research lays the foundation for development of a new generation of highly modular, reusable, and easily maintainable finite element software systems.
+
+
+    
+        AU - Tam Ha
+    
+
+TI - Optimum Design of Unstiffened Built‐Up Girders
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2784-2792
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2784) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282784%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282784%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2784-2792
+AB - An optimization process for the design of unstiffened built‐up beams is presented. The process is an alternative to the Holt and Heithecker method. The proposed method is simple and straightforward, and can be used without the use of a computer program. A computer program for the method, however, is easily developed. The method is a useful tool for steel‐structure designers as an alternative to the Holt and Heithecker method or as a complement, to check results.
+
+
+    
+        AU - Robert W. Dannemann
+    
+
+TI - Discussion of &#x201c;<i>Estimating Uplift Capacity of Light Steel Roof System</i>&#x201d; By Roger A. La Boube (March, 1992, Vol. 188, No. 3)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2794-2794
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2794) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282794%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282794%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2794-2794
+
+
+    
+        AU - R. A. La Boube
+    
+
+TI - Closure to &#x201c;<i>Estimating Uplift Capacity of Light Steel Roof System</i>&#x201d; By Roger A. La Boube (March, 1992, Vol. 188, No. 3)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2795-2795
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2795) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282795%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282795%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2795-2795
+
+
+    
+        AU - Jostein Hellesland
+    
+
+TI - Discussion of &#x201c;<i>Geometrical Imperfections on Inelastic Frame Behavior</i>&#x201d; by Eric M. Lui (May, 1992, Vol. 118, No. 5)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2795-2797
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2795.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282795.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282795.2%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2795-2797
+
+
+    
+        AU - Eric M. Lui
+    
+
+TI - Closure to &#x201c;<i>Geometrical Imperfections on Inelastic Frame Behavior</i>&#x201d; by Eric M. Lui (May, 1992, Vol. 118, No. 5)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2797-2800
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2797) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282797%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282797%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2797-2800
+
+
+    
+        AU - Dionisio Bernal
+    
+
+TI - Discussion of &#x201c;<i>Approximating Lateral Stiffness of Stories in Elastic Frames</i>&#x201d; by Arturo E. Schultz (January, 1992, Vol. 118, No. 1)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2800-2803
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2800) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282800%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282800%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2800-2803
+
+
+    
+        AU - Y. S. Lau
+    
+        AU - T. S. Lok
+    
+        AU - A. R. Freeman
+    
+
+TI - Discussion of &#x201c;<i>Approximating Lateral Stiffness of Stories in Elastic Frames</i>&#x201d; by Arturo E. Schultz (January, 1992, Vol. 118, No. 1)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2803-2806
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2803) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282803%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282803%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2803-2806
+
+
+    
+        AU - Arturo E. Schultz
+    
+
+TI - Closure to &#x201c;<i>Approximating Lateral Stiffness of Stories in Elastic Frames</i>&#x201d; by Arturo E. Schultz (January, 1992, Vol. 118, No. 1)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2806-2807
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2806) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282806%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282806%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2806-2807
+
+
+    
+        AU - P. C. Papanikolas
+    
+        AU - Geoffrey L. Kulak
+    
+
+TI - Discussion of &#x201c;<i>Fatigue Resistance of Large&#x2010;Diameter Cable for Cable&#x2010;Stayed Bridges</i>&#x201d; by Koei Takena, Chitoshi Miki, Hirosuke Shimokawa, and Kenji Sakamoto (March, 1992, Vol. 118, No. 3)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2807-2808
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2807.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282807.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282807.2%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2807-2808
+
+
+    
+        AU - Arturo E. Schultz
+    
+
+TI - Erratum: "Approximating Lateral Stiffness of Stories in Elastic Frames" (January, 1992, Vol. 118, No. 1)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2807-2807
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2807) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282807%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282807%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2807-2807
+
+
+    
+        AU - Koei Takena
+    
+        AU - Chitoshi Miki
+    
+        AU - Hirosuke Shimokawa
+    
+        AU - Kenji Sakamoto
+    
+
+TI - Closure to &#x201c;<i>Fatigue Resistance of Large&#x2010;Diameter Cable for Cable&#x2010;Stayed Bridges</i>&#x201d; by Koei Takena, Chitoshi Miki, Hirosuke Shimokawa, and Kenji Sakamoto (March, 1992, Vol. 118, No. 3)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2809-2811
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2809) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282809%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282809%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2809-2811
+
+
+    
+        AU - Shih Toh Chang
+    
+
+TI - Erratum: "Prestress Influence on Shear&#x2010;Lag Effect in Continuous Box&#x2010;Girder Bridge" (November, 1992, Vol. 118, No. 11)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2812-2812
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2812) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282812%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282812%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2812-2812
+
+
+    
+        AU - P. S. Nowak
+    
+        AU - T. W. Hartman
+    
+
+TI - Erratum: "Eccentric Connection Design: Geometric Approach" (February, 1993, Vol. 119, No. 2)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 2812-2812
+VI - 119
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(1993)119:9(2812.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282812.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A9%282812.2%29
+SO - Journal of Structural Engineering 1993-09-01 119(9): 2812-2812
+
+

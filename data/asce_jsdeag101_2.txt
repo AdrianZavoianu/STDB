@@ -1,0 +1,128 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Joachim S. Rodrigues
+    
+
+TI - Node Numbering Optimization in Structural Analysis
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 361-376
+VI - 101
+IP - 2
+AID - 10.1061/JSDEAG.0003997 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003997
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003997
+SO - Journal of the Structural Division 1975-02-01 101(2): 361-376
+AB - An algorithm is presented to produce an optimum node numbering system for a structure to be analyzed by the finite element method, reducing computer time and storage needs if band solution methods are used for solving the system of equations. Only nonzero off-diagonal elements of the connectivity matrix defining the topology of the structure are stored in a rectangular integer array. For every nonzero element causing the largest current bandwidth, the algorithm finds a pair of rows (and columns) to be interchanged in such a way that the bandwidth is either reduced or left unchanged. The process continues until the bandwidth is reduced either to the minimum or to the largest acceptable value, depending on the input parameters. A list of new node numbers is produced. New code numbers (listings of the elements) are also produced and punched in a set of cards ready to replace the old set.
+
+
+    
+        AU - Allen L. Mee
+    
+        AU - Ian J. Jordaan
+    
+        AU - Michael A. Ward
+    
+
+TI - Wall-Beam Frames under Static Lateral Load
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 377-395
+VI - 101
+IP - 2
+AID - 10.1061/JSDEAG.0003998 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003998
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003998
+SO - Journal of the Structural Division 1975-02-01 101(2): 377-395
+AB - The response of a staggered reinforced concrete wall-beam framework to static lateral loading is examined. The structure is first idealized as a plane frame composed of linear elastic material. The behavior of a single wall-beam element is than analyzed. Effective moments of inertia for the wall I-section, the lintel I-section, and the floor slabs are calculated. The influence of local deformations at the lintel to web junction are investigated. These results are combined to determine the properties of an equivalent uniform beam member. The axial stiffness of a column modified by the presence of a wall is also considered. The response of a wall-beam structure is described and static test results are presented. Good agreement between calculated and measured deflections was found.
+
+
+    
+        AU - Gary C. Hart
+    
+        AU - Roger M. DiJulio
+    
+        AU - Marshall Lew
+    
+
+TI - Torsional Response of High-Rise Buildings
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 397-416
+VI - 101
+IP - 2
+AID - 10.1061/JSDEAG.0003999 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003999
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003999
+SO - Journal of the Structural Division 1975-02-01 101(2): 397-416
+AB - Ambient and earthquake response records obtained in several southern California high-rise buildings are analyzed. Building translational and torsional natural periods are estimated and compared. Ambient response is found to be an important indicator of earthquake response. Torsional building response resulting from ambient and earthquake excitation was found to be significant. A design spectrum is developed representing a standardized torsional ground motion of El Centro 1940 Earthquake Intensity.
+
+
+    
+        AU - Borislav D. Zakić
+    
+
+TI - Inelastic Behavior of Wood Beam-Columns
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 417-435
+VI - 101
+IP - 2
+AID - 10.1061/JSDEAG.0004000 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004000
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004000
+SO - Journal of the Structural Division 1975-02-01 101(2): 417-435
+AB - The pattern of stress distribution at failure in the critical cross-sectional area is mathmatically formulated on the basis of the actual stress-strain diagrams. The validity of the theoretical method is verified by a test program using 15 models. The test results agreed favorably with the theoretical prediction; the actual ultimate load closely coincides with that obtained by the theory presented. Wood beams of any species can be computed by this theory if the mathematical equation for the stress-strain diagram is known. The theory was verified through tests on glue-laminated beams using wood of the best commercial quality. This theory is of significant practical value since it makes it possible to compute the ultimate load for the bending moment and axial force or to design the interaction curve for P and M necessary to achieve a fully plastic condition in rectangular cross sections of glue-laminated wood structures (e.g., arches, frames).
+
+
+    
+        AU - Chang Chen
+    
+
+TI - Definition of Statistically Independent Time Histories
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 449-451
+VI - 101
+IP - 2
+AID - 10.1061/JSDEAG.0004001 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004001
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004001
+SO - Journal of the Structural Division 1975-02-01 101(2): 449-451
+AB - This paper deals with the time history method. THe nuclear power industry is using an artifice of artificial time history with response spectra closely matching the design sesponse spectra as input. This artifice can be generated either by suppressing or amplifying locally the spectra of a time history, or by an iteration method in generating the artifical time history. This paper intentions is to define the statistical independence of artifical time history.
+
+
+    
+        AU - Masaaki Suko
+    
+        AU - Peter F. Adams
+    
+
+TI - Empirical Formula for Fundamental Natural Period
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 452-457
+VI - 101
+IP - 2
+AID - 10.1061/JSDEAG.0004002 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004002
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004002
+SO - Journal of the Structural Division 1975-02-01 101(2): 452-457
+AB - In this paper an improved method to predict the fundamental natural period of multistory multibay frame is proposed. The method requires a chart and some simple arithmetic; however, the computation effort is not increased significantly over that required by other empirical formulas.
+
+

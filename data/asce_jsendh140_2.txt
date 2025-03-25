@@ -1,0 +1,545 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Joe Maffei
+    
+        AU - Karl Telleen
+    
+        AU - Rob Ward
+    
+        AU - Gregory A. Kopp
+    
+        AU - Andreas Schellenberg
+    
+
+TI - Wind Design Practice and Recommendations for Solar Arrays on Low-Slope Roofs
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013040
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000806 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000806
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000806
+SO - Journal of Structural Engineering 2014-02-01 140(2): 04013040
+AB - Currently, ASCE standards do not provide specific guidance on wind loads for solar arrays of photovoltaic panels, in terms of either prescriptive design or requirements for wind tunnel testing. Guidance is needed, particularly for arrays of low-profile tilted panels on flat or low-slope roofs, because they are markedly different aerodynamically from structures currently addressed in the building code. This paper presents recommendations for the structural design of these solar arrays for wind-loading. Recommendations include (1)&nbsp;categorizing solar array support-systems according to their height above the building roof and how they distribute forces to the roof, (2)&nbsp;developing pressure coefficients that are applicable to structurally interconnected roof-bearing support systems, (3)&nbsp;considering load cases that include uniform wind pressure on the array and nonuniform (gust) patterns, (4)&nbsp;determining appropriate stiffness and boundary conditions for structural analysis, and (5)&nbsp;use of testing to verify behavior and calibrate analytical models.
+
+
+    
+        AU - S. D. Koduru
+    
+        AU - R. G. Driver
+    
+
+TI - Generalized Component-Based Model for Shear Tab Connections
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013041
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000823 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000823
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000823
+SO - Journal of Structural Engineering 2014-02-01 140(2): 04013041
+AB - The behavior of a conventional steel single-plate (shear tab) connection is highly dependent on the type of loading to which it is subjected. Although these connections have been studied primarily under shear loading, reflecting their common usage in gravity framing, their behavior under combined loading scenarios is more complex. The objective of this study is to develop and validate a component-based mechanical shear tab connection model that accounts for the interactions of shear, axial load, and moment. The component-based methodology allows for the division of the connection into its constituent parts and for modeling of the force-deformation relationship of each part separately. Thus, the connection response to a broad array of load combinations can be obtained on the basis of the geometric and material properties of the connection. The model is validated against experimental results from a variety of loading regimes, and the sensitivity of the model performance to the connection and model parameters is presented.
+
+
+    
+        AU - H. Sadiq
+    
+        AU - M. B. Wong
+    
+        AU - R. Al-Mahaidi
+    
+        AU - X.-L. Zhao
+    
+
+TI - Modeling of Heat Transfer in Gas-Filled Furnace for Steel Members
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013042
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000834 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000834
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000834
+SO - Journal of Structural Engineering 2014-02-01 140(2): 04013042
+AB - A heat transfer model for unprotected steel structural members was proposed in this study. The model accounts for both the variation of the steel emissivity during the fire growth and the view factor effect. The participation of the gases in the heat exchange by radiation also was discussed. The calculation of the view factor of concave steel sections was derived and justified using the heat transfer theory in a realistic situation. In addition, a new formulation incorporating the transmissivity, absorptivity, and emissivity of the participating medium into the view factor was presented. A numerical verification was conducted to validate the predicted temperatures with experimental data and a good correlation was achieved. Further, the model was simplified, while retaining its accuracy to facilitate the numerical computations carried out by the structural engineers in structural fire design.
+
+
+    
+        AU - Giorgio Barone
+    
+        AU - Dan M. Frangopol
+    
+        AU - Mohamed Soliman
+    
+
+TI - Optimization of Life-Cycle Maintenance of Deteriorating Bridges with Respect to Expected Annual System Failure Rate and Expected Cumulative Cost
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013043
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000812 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000812
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000812
+SO - Journal of Structural Engineering 2014-02-01 140(2): 04013043
+AB - Civil infrastructure systems are subjected to progressive deterioration resulting from multiple mechanical and environmental stressors. This deterioration process is developed under uncertainties related to load effects, structural resistance, and inspection outcomes, among others. In this context, life-cycle optimization techniques provide a rational approach to manage these systems considering uncertainties and several budgetary and safety constraints. This paper proposes a novel optimization procedure for life-cycle inspection and maintenance planning of aging structures. In this procedure, the structural system effects are accounted for by modeling the structure as a series, parallel, or a series-parallel system whose components are subjected to time-dependent deterioration phenomena. Different possible repair options are considered depending on the damage state and the outcomes of each inspection. For each component, essential or preventive maintenance aiming at reducing the system failure rate are performed when inspection results indicate that the prescribed threshold damage levels have been reached or violated. Otherwise, no repair is performed. Optimum inspection and maintenance plans are formulated by minimizing both the expected system failure rate and expected cumulative inspection and maintenance cost over the life-cycle of the structure. The proposed approach is applied to an existing bridge.
+
+
+    
+        AU - Ravi Kiran
+    
+        AU - Kapil Khandelwal
+    
+
+TI - Experimental Studies and Models for Ductile Fracture in ASTM A992 Steels at High Triaxiality
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013044
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000828 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000828
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000828
+SO - Journal of Structural Engineering 2014-02-01 140(2): 04013044
+AB - This study presents the results of experimental investigation and models for ductile fracture in the ASTM A992 structural steels subjected to high stress triaxiality. To this end, uniaxial tension tests on the notched tensile specimens are conducted, and subsequent scanning electron microscopy (SEM) studies are performed on the fractured surfaces. From this SEM analysis, the fracture initiation mechanism in ASTM A992 steels is found to be the ductile fracture; however, the fracture propagation mode can be either ductile or cleavage fracture. Nonlinear finite-element analysis of the notched specimens is carried out to obtain the stress triaxiality distributions, and the location of the peak stress triaxiality is found to be strongly correlated to the location of the ductile fracture initiation zones. Finally, two uncoupled ductile fracture prediction models, the void growth model (VGM) and the stress modified critical strain model (SMCS), are calibrated, and the model parameters are provided for A992 steels.
+
+
+    
+        AU - Bo Yang
+    
+        AU - Kang Hai Tan
+    
+
+TI - Behavior of Composite Beam-Column Joints in a Middle-Column-Removal Scenario: Experimental Tests
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013045
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000805 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000805
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000805
+SO - Journal of Structural Engineering 2014-02-01 140(2): 04013045
+AB - A series of experiments has been conducted to investigate the failure modes and ductility of composite beam-column joints in a middle-column-removal scenario. Composite web cleat and flush end plate connections were studied. The research included two types of tests: namely, middle joints under a sagging moment and side joints under a hogging moment. Five composite beam-column joints with reentrant steel profile decking were tested. The contributions from two types of mechanisms (namely, flexural action and catenary action) have been identified. The main objective of the experimental program is to study the behavior of composite joints in a middle-column-removal scenario. The test results demonstrate the ductility and load resistances of these five specimens in catenary action mode, and indicate that at the initial loading stage, the applied load was resisted by flexural action, while at the large deformation stage, the load was resisted by catenary action. It is also found that composite slabs could increase the load-carrying capacities of beam-column joints at both the flexural action and catenary action stages. The strengthened web cleat connection has a much higher load-carrying capacity than the normal web cleat connection because the former could sustain greater deformation.
+
+
+    
+        AU - M. A. Kyriakides
+    
+        AU - S. L. Billington
+    
+
+TI - Cyclic Response of Nonductile Reinforced Concrete Frames with Unreinforced Masonry Infills Retrofitted with Engineered Cementitious Composites
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013046
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000833 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000833
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000833
+SO - Journal of Structural Engineering 2014-02-01 140(2): 04013046
+AB - A new seismic retrofit technique for unreinforced masonry infills in nonductile reinforced concrete frames is presented. The objective was to develop a light and easy to apply retrofit technique for the infills that both delays shear failure at the columns of the nonductile bounding frame when subjected to an earthquake by preventing severe deterioration of the infill wall, and enhances the ductility of the system. The retrofit technique uses sprayable engineered cementitious composites (ECCs), a micromechanically designed cement-based material reinforced with short, randomly distributed polymeric fibers. Four small-scale unreinforced masonry infilled nonductile reinforced concrete frames were tested under in-plane quasi-static cyclic lateral loading. One unretrofitted wall and three different retrofit schemes were evaluated. Continuous steel reinforcement was embedded in the ECC layer and a bonding agent was applied between the masonry wall and the ECC layer. In two retrofits the impact of two different schemes using shear dowels to connect the concrete beams with the ECC retrofit were examined. The tests have demonstrated that the ECC retrofit strategy can enhance substantially the ductility of the structural system as it undergoes cyclic lateral loading.
+
+
+    
+        AU - Giuseppe Campione
+    
+        AU - Mario Di Paola
+    
+        AU - Giovanni Minafò
+    
+
+TI - Laminated Glass Members in Compression: Experiments and Modeling
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013047
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000827 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000827
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000827
+SO - Journal of Structural Engineering 2014-02-01 140(2): 04013047
+AB - It is well known that structural glass members are made by assembling thin laminated panels, which can be connected with different bonding techniques; for instance, with steel devices or with structural adhesives. The latter are very commonly used because they do not reduce the transparency of the member and make it possible to avoid stress concentrations because of the presence of holes. This technique is used to make up columns in glazing structures and different applications of the technique can be found in contemporary architecture. As evidenced by the literature, one of the most important problems in such members is caused by buckling phenomena, resulting from the slenderness of the panels. The great deal of research work conducted in the last 20&nbsp;years has highlighted the fact that the critical load in laminated glass panels depends not only on the geometrical slenderness, but also, and perhaps above all, on the effective level of connection ensured by the interlayer. Although many studies have focused on the compressive behavior of panels, few are currently available about laminated glass columns. This study presents the results of compressive tests on glass members. Two different series of 12 columns with two different levels of connection were manufactured by assembling laminated glass panels with structural silicone. The specimens had different cross-sectional shapes and different heights. Additionally, compressive tests were performed on single panels with varying slenderness to study buckling behavior, and bending tests were undertaken on laminated and monolithic glass panels to characterize the mechanical properties and the level of connection between the two glass foils.
+
+
+    
+        AU - Vincent Z. Wang
+    
+        AU - Michael Mallett
+    
+        AU - Andrew Priory
+    
+
+TI - Seismic Fragility Evaluation with Incomplete Structural Appraisal Data: An Iterative Statistical Approach
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013048
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000804 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000804
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000804
+SO - Journal of Structural Engineering 2014-02-01 140(2): 04013048
+AB - This paper presents an iterative statistical approach to evaluating seismic structural safety using incomplete appraisal data. Despite the continuous improvement to traditional structural assessment procedures and the recent progress in structural health monitoring methodologies, practically acquired structural appraisal data may often be incomplete. The occurrence of the appraisal data missingness could be ascribed to the malfunction of data acquisition systems, the abnormality during data transfer, and the inaccessibility of critical quantities, among other reasons. The study begins with a quantitative investigation into the sensitivity of the seismic fragility evaluation with respect to the structural appraisal data missingness through the defined additional information loss and probability of noninformativeness. Subsequently, a remedy for the missingness of the structural appraisal data, instead of a precaution against it, is formulated by employing the expectation-maximization (EM) algorithm. With synthetic or real seismic ground accelerations involved, the efficacy of the EM algorithm embedded remedy is demonstrated by examples of typical linear or nonlinear hysteretic systems in the framework of statistical hypothesis testing. Resorting to the bootstrap technique, the influence of the related correlations and missingness probability is also examined.
+
+
+    
+        AU - D. T. R. Pasala
+    
+        AU - A. A. Sarlis
+    
+        AU - A. M. Reinhorn
+    
+        AU - S. Nagarajaiah
+    
+        AU - M. C. Constantinou
+    
+        AU - D. Taylor
+    
+
+TI - Simulated Bilinear-Elastic Behavior in a SDOF Elastic Structure Using Negative Stiffness Device: Experimental and Analytical Study
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013049
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000830 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000830
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000830
+SO - Journal of Structural Engineering 2014-02-01 140(2): 04013049
+AB - The acceleration and base shear of structures during strong ground motion can be attenuated by achieving bilinear-elastic behavior without any permanent displacement—also referred to as “apparent weakening.” The negative stiffness device (NSD), used in this study, exhibits nonlinear-elastic negative stiffness behavior; by adding NSD to the elastic structure, the resulting structure-device assembly behaves like a bilinear-elastic structure. Peak acceleration and base shear experienced by the structures can be reduced by adding the negative stiffness device, and the additional deformations caused by the reduced stiffness can be contained by adding a viscous damper. This paper presents the experimental study on a three-story fixed-base structure (3SFS), acting as a single-degree-of-freedom (SDOF) system (because of bracing in the top two stories), that demonstrates the concept of apparent weakening in elastic structural systems. Two NSDs and a viscous damper are installed in the first story of 3SFS. To accentuate the advantages of incorporating NSD in structures, responses of four different systems—3SFS, 3SFS with damper, 3SFS with NSD, and 3SFS with NSD and damper—are compared for a suite of ground motions. The behavior of all the three systems is also predicted analytically, and the predicted results are in excellent agreement with the experiments. Shake-table tests on 3SFS have confirmed that by adding the NSD and damper, acceleration and base shear of the structure are reduced by more than 30% and the displacement of the structure is reduced by more than 20%.
+
+
+    
+        AU - Davide Giannuzzi
+    
+        AU - Roberto Ballarini
+    
+        AU - Arthur Huckelbridge
+    
+        AU - Michael Pollino
+    
+        AU - Marco Valente
+    
+
+TI - Braced Ductile Shear Panel: New Seismic-Resistant Framing System
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013050
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000814 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000814
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000814
+SO - Journal of Structural Engineering 2014-02-01 140(2): 04013050
+AB - The conceptual design of an innovative seismic-resistant steel framing system capable of providing stiffness and ductility to new or existing structures is presented. The bracing system consists of concentric X-braces connected in series with rectangular sacrificial shear panels. The braces are designed to remain elastic during seismic events while the shear panels are sized and configured to dissipate ample energy through plastic deformation-induced stable hysteretic behavior. Detailed three-dimensional nonlinear finite-element analyses using ABAQUS are performed to characterize and quantify the effects of the design parameters on the local response of the bracing system and to adjust the design so that potential buckling of the elements is mitigated. The finite element predicted force-displacement curves of bracing systems that achieve the desired local behavior when subjected to a specified interstory drift are in turn translated into a SAP2000 nonlinear link element. Embedment of the link element in a two-dimensional steel frame model enables the assessment of the performance of the bracing system as applied to a seven-story steel frame subjected to different intensity levels of seismic excitation. The results demonstrate that the braced ductile shear panel framing system offers promise for decreasing the lateral displacements of structures subjected to earthquakes while minimizing damage to all structural elements other than the sacrificial panels.
+
+
+    
+        AU - Liu Wang
+    
+        AU - Li Dongxu
+    
+        AU - Jiang Jianping
+    
+
+TI - General Mesh Configuration Design Approach for Large Cable-Network Antenna Reflectors
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013051
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000816 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000816
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000816
+SO - Journal of Structural Engineering 2014-02-01 140(2): 04013051
+AB - A well-designed mesh configuration is of great importance to the performance of large cable-network antenna reflectors. The motivation of this study is to find a general approach for designing appropriate mesh configurations of such reflector structure. By synthetically considering the shape-forming criteria, boundary connection conditions, and surface dividing ways, a versatile approach with the ability to generate desired spatial parabolic mesh configurations with specific engineering significance is proposed. In this paper, three shape-forming criteria based on the force-density method are developed. By introducing various boundary connection conditions, mesh configurations with different surface accuracies are achieved. Furthermore, by employing different polygonal elements to divide the surface, arbitrary polygon-faceted mesh configurations are acquired. The work presented in this paper will provide a valuable technical reference for the mesh design of large cable-network antenna reflectors and will lay a necessary foundation for subsequent dynamic analysis of such cable-network structures.
+
+
+    
+        AU - Pablo A. Prieto-Muñoz
+    
+        AU - Huiming M. Yin
+    
+        AU - Rene B. Testa
+    
+
+TI - Mechanics of an Adhesive Anchor System Subjected to a Pullout Load. I: Elastic Analysis
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013052
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000826 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000826
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000826
+SO - Journal of Structural Engineering 2014-02-01 140(2): 04013052
+AB - An elastic solution is developed for an anchor embedded in a concrete hole and bonded to the concrete through an adhesive layer that is not necessarily thin. Both bonded and debonded conditions are considered for the embedded end of the anchor. A weak-form stress boundary condition yields an approximate solution for the elastic fields in both the anchor core and the adhesive layer, which compares favorably with an axisymmetric finite-element solution. The explicit elastic solution is useful as a more complete design basis for such anchors but also provides a platform for the analysis of the long term response of bonded anchors when time-dependent effects are observed. Paper II pursues that analysis.
+
+
+    
+        AU - Pablo A. Prieto-Muñoz
+    
+        AU - Huiming M. Yin
+    
+        AU - Rene B. Testa
+    
+
+TI - Mechanics of an Adhesive Anchor System Subjected to a Pullout Load. II: Viscoelastic Analysis
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013053
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000822 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000822
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000822
+SO - Journal of Structural Engineering 2014-02-01 140(2): 04013053
+AB - An analytical viscoelastic model is proposed to predict the time-dependent displacement of adhesive anchoring systems under axial tension. Using the correspondence principle, the elastic solution in Paper I has been extended to investigate the viscoelastic behavior of adhesive anchors. A model is developed to predict the creep behavior of adhesive anchoring systems, modeling the adhesive with a constant Poisson’s ratio. Epoxy-based adhesives are modeled by a Prony series approximation, that is derived from experimental data of the creep compliance. The capability and the applications of the proposed model are demonstrated by analyzing and comparing the proposed model to existing experimental data. The closed-form approximate solution is then verified with a finite-element model (FEM) for various geometric and material properties. Since the proposed mechanics-based model is developed for a general case, it can be used in the design and the analysis of different types of adhesive anchoring systems, therefore capable of predicting their long-term performance due to creep.
+
+
+    
+        AU - Jianzhong (James) Gu
+    
+
+TI - Seismic Reliability Analysis of Wood Shear Walls Using Different Methods
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013054
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000841 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000841
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000841
+SO - Journal of Structural Engineering 2014-02-01 140(2): 04013054
+AB - Seismic reliability analysis of wood structures has to take into consideration the uncertainties from many sources. This paper presented three methods to deal with the uncertainties from ground motion records, intensity measure, and resistance. The application of the methods in analyzing wood shear walls was also discussed. The traditional method calculates the exceeding probability of drift demand from conditional distributions given intensity levels. The second method determines the exceeding probability of drift demand from conditional distributions given ground motion records. The second method is computationally efficient and relatively accurate by using the mean of conditional exceeding probabilities. The third method is the quasi-Monte Carlo simulation method. Sequence numbers can be used to improve the efficiency of simulation analysis. These methods were used to analyze three wood shear walls. The shear wall model is a mechanics-based nail analogue with parameters validated by test results. The results from the three methods are very similar, which indicates that the three methods may be equally used in seismic reliability analysis of wood shear walls.
+
+
+    
+        AU - Pouyan Zarnani
+    
+        AU - Pierre Quenneville
+    
+
+TI - Wood Block Tear-Out Resistance and Failure Modes of Timber Rivet Connections: A Stiffness-Based Approach
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013055
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000840 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000840
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000840
+SO - Journal of Structural Engineering 2014-02-01 140(2): 04013055
+AB - Existing prediction models for parallel to grain wood failure in timber connections using dowel-type fasteners consider the minimum, maximum, or summation of the tensile and shear capacities of the failed wood block planes. This results in disagreements between the experimental values and the predictions because the stiffness of the tensile and shear planes differs, which leads to uneven load distribution among the resisting planes. The present study focuses on timber rivet connections. A closed-form analytical method is proposed to determine the load-carrying capacity of wood under longitudinal loading in rivet connections in timber products. For the wood strength, the stiffness and strength of the planes subjected to nonuniform shear and tension stresses are taken into account. Furthermore, an algorithm is presented that allows the designer to predict the possible brittle, ductile, and mixed failure modes. The results of tests on New Zealand Radiata Pine Laminated Veneer Lumber (LVL) and glulam, and data available from the literature, confirm the validity of this new method and show that this predictive method can be used advantageously in comparison with other existing models.
+
+
+    
+        AU - Liang-Jiu Jia
+    
+        AU - Hitoshi Kuwamura
+    
+
+TI - Prediction of Cyclic Behaviors of Mild Steel at Large Plastic Strain Using Coupon Test Results
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013056
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000848 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000848
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000848
+SO - Journal of Structural Engineering 2014-02-01 140(2): 04013056
+AB - In practice, engineers can usually only obtain material properties from monotonic tensile coupon tests. The aim of this paper is to predict cyclic plasticity of mild steel from coupon test results available. First, the theory of metal plasticity is generally reviewed, and selected models are introduced, i.e.,&nbsp;Prager’s hardening rule, the Chaboche models, and the Yoshida-Uemori model. Calibration methods of the material parameters of each model are proposed and limitations of the models are addressed. Then, a modified Yoshida-Uemori model is proposed. Monotonic tensile coupon tests and a series of tests of hourglass-type specimens were carried out under different loading histories to fracture. Numerical simulations using the selected plasticity models and the modified Yoshida-Uemori model were carried out to simulate the cyclic behaviors of hourglass-type specimens using the material parameters calibrated by the monotonic coupon test results. The comparison results show that the modified Yoshida-Uemori model gives the best prediction of the cyclic behaviors of mild steel in large plastic strain ranges.
+
+
+    
+        AU - Gregory A. Kopp
+    
+
+TI - Wind Loads on Low-Profile, Tilted, Solar Arrays Placed on Large, Flat, Low-Rise Building Roofs
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013057
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000825 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000825
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000825
+SO - Journal of Structural Engineering 2014-02-01 140(2): 04013057
+AB - The author examined wind loads on low-profile, roof-mounted solar arrays, placed on large, low-rise buildings with nearly flat roofs by using scale models in a boundary layer wind tunnel. The author also examined the effects of building size and array geometry on enveloping curves of area-averaged pressure coefficients, typical of use for design. It was found that wind loads on the array increase with building size; normalizing the effective wind area by the building wall size leads to enveloping curves that collapse onto a single curve for each array geometry. For tilt angles less than 10°, there is an approximate linear increase in the pressure coefficients as the tilt angle increases. For arrays with tilt angles of 10° or more, the wind loads do not depend significantly on the tilt angle and are relatively constant. Roof zones for wind loads on solar arrays are larger than roof zones for bare roofs and depend on the array tilt angle.
+
+
+    
+        AU - Dimitrios Vamvatsikos
+    
+
+TI - Accurate Application and Second-Order Improvement of SAC/FEMA Probabilistic Formats for Seismic Performance Assessment<sup>1</sup>
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013058
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000774 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000774
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000774
+SO - Journal of Structural Engineering 2014-02-01 140(2): 04013058
+AB - The SEAONC/ATC/CUREE (SAC/FEMA) probabilistic framework is based on a closed-form expression to estimate analytically the value of the risk integral convolving seismic hazard and structural response. Despite its practicality, implementation has been hindered by reduced accuracy due to a number of approximations that are needed to achieve a desirable form, the most significant being the power-law fitting of the seismic hazard curve. To mitigate this problem, two approaches are given: (1)&nbsp;selecting an appropriately biased power-law fit, and (2)&nbsp;offering a novel closed-form expression involving a second-order approximation. Where blind application of the original format could involve errors in excess of 100% for the predicted mean annual frequency of limit-state (LS) exceedance, biased fitting reduces it to less than 50% for many practical cases, whereas the new closed-form expression consistently brings it below 10%. While other sources of error still remain, the robustness achieved opens new avenues of application for this popular format.
+
+
+    
+        AU - Victor Saouma
+    
+        AU - Gary Haussmann
+    
+        AU - Dae-Hung Kang
+    
+        AU - Wassim Ghannoum
+    
+
+TI - Real-Time Hybrid Simulation of a Nonductile Reinforced Concrete Frame
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013059
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000813 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000813
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000813
+SO - Journal of Structural Engineering 2014-02-01 140(2): 04013059
+AB - This paper reports about a real-time hybrid simulation (RTHS) of a nonductile reinforced concrete frame that had previously been tested on a shake table (ST) at the University of California, Berkeley. This three-story, three-bay frame is numerically modeled with flexibility-based/layered nonlinear elements and over 400 degrees of freedom (DOFs), while one of the nonductile base columns is physically tested in the laboratory. RTHS is enabled through a new code developed by the authors, and these simulation results are compared with those obtained from the ST test. The comparison between ST tests and RTHS is encouraging, though still not acceptable (within 10%). Details of the simulation are provided, and preliminary results indicate that RTHS may be indeed provide the natural path for a gradual substitution of physical (and expensive) testing by numerical simulation. This contribution offers a small step in that direction.
+
+
+    
+        AU - Sarah L. Orton
+    
+        AU - Vincent P. Chiarito
+    
+        AU - Jared K. Minor
+    
+        AU - Thomas G. Coleman
+    
+
+TI - Experimental Testing of CFRP-Strengthened Reinforced Concrete Slab Elements Loaded by Close-In Blast
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013060
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000821 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000821
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000821
+SO - Journal of Structural Engineering 2014-02-01 140(2): 04013060
+AB -  Strengthening reinforced concrete slab or wall structural elements with carbon fiber-reinforced polymer (CFRP) can improve their blast resistance. However, close-in blasts (blasts with a scaled range of less than 0.4  m/kg1/3) may undermine the effectiveness of the CFRP strengthening. This paper presents an experimental testing program on CFRP-strengthened reinforced concrete slab specimens that utilized fiber anchors. Two CFRP mitigation designs were tested under blast loads with a scaled range of 0.4 and 0.6  m/kg1/3. Tests on unmitigated reinforced concrete slab specimens provided baseline comparisons. The experimental results showed that the use of CFRP strengthening improved the blast resistance of reinforced concrete slab specimens. For a larger scaled range, 0.6  m/kg1/3, the CFRP successfully prevented flying debris and reduced the overall deflections of the slab specimens. However, for the closer scaled range, 0.4  m/kg1/3, the high shock blast pressures shattered the concrete through the thickness of the slab specimen and tore through the back-face CFRP. However, back-face velocity and overall deflections were reduced by about 75% compared to the baseline test slab specimen.
+
+
+    
+        AU - H. Shakib
+    
+        AU - M. Pirizadeh
+    
+
+TI - Probabilistic Seismic Performance Assessment of Setback Buildings under Bidirectional Excitation
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013061
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000835 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000835
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000835
+SO - Journal of Structural Engineering 2014-02-01 140(2): 04013061
+AB - In this paper, the seismic performance of one-side setback structures is investigated with a probabilistic approach. The effects of the simultaneous action of two orthogonal ground motion components on the performance of structures with different setback ratios are assessed by studying (1)&nbsp;the limit-state capacities, (2)&nbsp;the mean annual frequencies of exceeding performance levels, and (3)&nbsp;the confidence levels in meeting performance objectives. The results show that the simultaneous influence of ground motion components on the seismic performance of these structures is significant over the entire range of structural responses from elasticity to global instability. In addition, the assessment of code-designed setback structures by incremental dynamic analysis demonstrates the poorer performance of these torsionally coupled structures relative to regular structure, depending on the setback ratio values. Therefore, the revision of seismic codes provisions for geometric vertical irregularities seems to be essential to stipulate more restrictive limits or apply more accurate analytical procedures to predict the seismic performance of setback structures under the simultaneous orthogonal seismic excitations, especially for structures with critical setback ratios.
+
+
+    
+        AU - Jong Wan Hu
+    
+
+TI - Discussion of “Active Shear Planes of Bolted Connections Failing in Block Shear” by Drew D. A. Clements and Lip H. Teh
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 07013001
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000926 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000926
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000926
+SO - Journal of Structural Engineering 2014-02-01 140(2): 07013001
+
+
+    
+        AU - Drew D. A. Clements
+    
+        AU - Lip H. Teh
+    
+
+TI - Closure to “Active Shear Planes of Bolted Connections Failing in Block Shear” by Drew D. A. Clements and Lip H. Teh
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 07013002
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000975 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000975
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000975
+SO - Journal of Structural Engineering 2014-02-01 140(2): 07013002
+
+
+    
+        AU - Vincent Z. Wang
+    
+        AU - Michael Mallett
+    
+        AU - Andrew Priory
+    
+
+TI - Erratum for “Seismic Fragility Evaluation with Incomplete Structural Appraisal Data: An Iterative Statistical Approach” by Vincent Z. Wang, Michael Mallett, and Andrew Priory
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 08013001
+VI - 140
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0000977 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000977
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000977
+SO - Journal of Structural Engineering 2014-02-01 140(2): 08013001
+
+

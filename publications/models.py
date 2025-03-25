@@ -30,3 +30,36 @@ class JournalPublication(models.Model):
     def code(self):
         """Returns a padded code based on ID for filenames."""
         return f"{self.id:03}"
+
+class BaseJournalArticle(models.Model):
+    journal = models.ForeignKey("JournalPublication", on_delete=models.PROTECT)
+    title = models.TextField()
+    authors = models.TextField()
+    abstract = models.TextField(blank=True, null=True)
+    year = models.IntegerField()
+    doi = models.CharField(max_length=255, unique=True, blank=True, null=True)
+    url = models.URLField(blank=True, null=True)
+    volume = models.IntegerField()
+    issue = models.IntegerField(default=0)  # Optional for journals without issues
+    article_index = models.IntegerField()
+
+    class Meta:
+        abstract = True
+
+    def __str__(self):
+        return self.title
+
+    def filename(self):
+        return f"STDB-{self.publication_code()}-{self.year}.pdf"
+
+class ASCEJournalStructuralEngineering(BaseJournalArticle):
+
+    class Meta:
+        verbose_name = "ASCE Journal of Structural Engineering Article"
+        verbose_name_plural = "ASCE Journal of Structural Engineering Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"

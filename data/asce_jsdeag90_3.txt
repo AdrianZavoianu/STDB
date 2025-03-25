@@ -1,0 +1,542 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Ray W. Clough
+    
+        AU - Ian P. King
+    
+        AU - Edward L. Wilson
+    
+
+TI - Structural Analysis of multistory Buildings
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 19-34
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001087 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001087
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001087
+SO - Journal of the Structural Division 1964-06-01 90(3): 19-34
+AB - An efficient digital computer method for the structural analysis of large, multistory building frames is presented. The structure may be subjected to both vertical and lateral loadings and may include an arbitrary system of shear walls. Axial and shear distortions, as well as flexural distortions of the members, may be considered. The method is based on the development of a tri-diagonal stiffness matrix of each frame in the building, its reduction by recursion relationships to the lateral frame stiffness, and finally the superstiffness of the complete building. Results obtained for an example structure are evaluated.
+
+
+    
+        AU - Semih S. Tezcan
+    
+
+TI - Moment Equations for Computer Analysis of Frames
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 35-53
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001094 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001094
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001094
+SO - Journal of the Structural Division 1964-06-01 90(3): 35-53
+AB - The equilibrium equations of a structure are expressed in terms of joint and floor moments. Because the coefficients of these equations involve only the moment distribution factors at the joints, the method provides a standard approach for all kinds of end conditions and for members with constant as well as variable moments of inertia. The method has particular advantages when used in conjunction with computers, because the coefficient matrix of the moment equations can be generated more readily than similar operations involved in the usual flexibility or stiffness matrix methods. A further advantage of the proposed method is that when the equations are solved, simple application of distribution factors gives the end moments. Using flexibility or stiffness methods, an initial solution must be made for the redundants or displacements, and additional matrix operations are required to determine the moments and shears. Thus, the moment equation method requires less machine time, less storage, and is more readily programmed.
+
+
+    
+        AU - Ronald W. Frost
+    
+        AU - Charles G. Schilling
+    
+
+TI - Behavior of Hybrid Beams Subjected to Static Loads
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 55-88
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001109 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001109
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001109
+SO - Journal of the Structural Division 1964-06-01 90(3): 55-88
+AB - Elastic and simple plastic theory are used to define the behavior of hybrid steel beams (beams with higher-strength steel flanges connected by lower-strength steel webs). Theoretical equations defining the moment-curvature relationship for pure bending and the initial yield and fully plastic conditions for combined bending and shear are presented. Tests on hybrid beams with different flange-yield strength to web-yield strength ratios show close agreement with the behavior predicted by the theoretical equations. Practical suggestions for hybrid beam design are presented. Comparable tests on conventional (homogeneous) welded beams demonstrate that the bending behavior of hybrid beams is not significantly different from that of conventional beams, especially when residual stresses are considered.
+
+
+    
+        AU - W. Terence O’Brien
+    
+        AU - Arthur J. Francis
+    
+
+TI - Cable Movements Under Two-Dimensional Loads
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 89-123
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001110 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001110
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001110
+SO - Journal of the Structural Division 1964-06-01 90(3): 89-123
+AB - A numerical method is presented for the determination of the deflected shape of a suspended cable subjected to a general two-dimensional system of gradually applied, concentrated loads. Cable sag is treated. The equations of static equilibrium for the various load points and cable segments between load points are solved in terms of geometrical compatibility requirements by systematic, successive approximations. Other effects, such as temperature change, yielding of the supports, slipping of the cable at the supports, and uniformly distributed loads along parts of the span, are included. Two classes of suspended cable problems are considered: Loads attached at specified points along the cable, and the vertical and horizontal movements of the cable under these loads are determined; and the horizontal location of the final positions of the load points is specified, and the deflections of the load points and the location of their points of attachment in the unstressed condition of the cable are directly determined. The use of the method is demonstrated in three examples.
+
+
+    
+        AU - Kaveti Seetharamulu
+    
+        AU - Mangesh G. Kulkarni
+    
+
+TI - Analysis of Short Span Folded Plates
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 165-178
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001085 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001085
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001085
+SO - Journal of the Structural Division 1964-06-01 90(3): 165-178
+AB - A short span folded plate has been analyzed considering two way slab action and nonlinear normal stress distribution between the fold lines. The slab is considered continuous over the fold lines and simply supported at the end diaphragms. The membrane stresses are computed by treating plates as deep beams. Compatibility at fold lines is satisfied by equalizing the longitudinal displacements. The deep beam analysis is made for normal loading due to plate reactions and shear loading due to compatibility conditions. The minimum energy principle has been used for deep beam analysis. The final moments and stresses have been compared with Goldberg and Leve's elasticity method. The proposed method is suitable for a design office without the use of computers.
+
+
+    
+        AU - Gerald C. Ward
+    
+        AU - John F. Ely
+    
+
+TI - Optical Tooling for Precise Structural Measurements
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 179-200
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001086 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001086
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001086
+SO - Journal of the Structural Division 1964-06-01 90(3): 179-200
+AB - An experimental application of optical tooling to a structural engineering problem was made in the Truss Bridge Research Project at Northwestern University. The methods and equipment used to measure translations and rotations at joints and members of a 100-ft half-scale steel bridge are described. In view of the precision required in these measurements, an optical instrumentation system was used, capable of measuring translations to 0.001 in. and rotations to 0.00005 radians with respect to three coordinate axes. The instruments and techniques of optical tooling are described briefly, as well as the manner in which they were organized for this study. The instruments and techniques used are standard; the targeting of the structure is unique, and the success of this portion of the investigation depended on it. Also unique are the mathematical analysis of the instrumental data and the method given for computing the rotations and translations of a typical point on the structure. Both the instrumental application and the mathematical treatment are general in nature, and they have a wide range of application to problems of measurement of small changes in space structures.
+
+
+    
+        AU - R. F. Hooley
+    
+        AU - B. Madsen
+    
+
+TI - Lateral Stability of Glued Laminated Beams
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 201-218
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001088 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001088
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001088
+SO - Journal of the Structural Division 1964-06-01 90(3): 201-218
+AB - The lateral buckling of glued laminated beams is governed by the parameter Ld/b2, not by d/b as is assumed by many building codes. Simple equations are derived for the critical buckling stress and the allowable design stress for rectangular timber beams with various support and load conditions. The concept of short, intermediate, and long beams is needed to account for buckling in the inelastic and elastic ranges. Laboratory tests show that the recommended formulas for design provide a factor of safety ranging from 2.5 for short beams to 3.0 for long beams. The resistance to lateral buckling is influenced by the bracing that is present. Diaphragm action of a roof deck will prevent lateral buckling in many cases.
+
+
+    
+        AU - Robert W. Haussler
+    
+
+TI - Strength of Elastically Stabilized Beams
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 219-264
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001089 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001089
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001089
+SO - Journal of the Structural Division 1964-06-01 90(3): 219-264
+AB - The compression flange of a beam is treated as a column that, in this case, is laterally unsupported except through the elastic restraint from the web. The tension flange is assumed to be laterally supported and torsionally restrained by a diaphragm or stringers. Included are the effects of shape distortion of the tension flange and web. Equations are developed for the critical buckling stress of the compression flange as a function of the elastic properties of the stringers, diaphragm, and the beam itself. The compression flange is assumed to be any open shape. Various tension flanges are considered, including lipped types. The degree of error and advantages of Engesser's formula are investigated. The critical stress for A-36 rolled shapes generally is not reduced if a rigid joint at the tension flange is provided. Roll formed aluminum sections and thin web steel girders show stress reductions ranging from moderate to severe.
+
+
+    
+        AU - Barry Rawlings
+    
+
+TI - Dynamic Plastic Analysis of Steel Frames
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 265-283
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001090 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001090
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001090
+SO - Journal of the Structural Division 1964-06-01 90(3): 265-283
+AB - The behavior of a rigid portal frame subjected to a pulse of loading is analyzed, making the assumption that the material has rigid-plastic characteristics. The method is illustrated by an example in which it is shown that a structure may deform in part of its motion with more than one degree of freedom. An examination then is made of the influence on the motion of strain hardening of the material and of large changes of structural geometry.
+
+
+    
+        AU - Fazlur R. Khan
+    
+        AU - John A. Sbarounis
+    
+
+TI - Interaction of Shear Walls and Frames
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 285-335
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001091 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001091
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001091
+SO - Journal of the Structural Division 1964-06-01 90(3): 285-335
+AB - The distribution of lateral forces and their effects on the resisting elements of buildings braced with shear walls are obtained by an iterative method directly applicable to design. The method is suitable both for manual computations as well as for relatively small computers with memory capacity less than 20,000 digits. The method can also be applied to secondary conditions, such as frame torsion resulting from eccentric loads or dissymmetry, foundation rotation, axial deformations of the columns, formation of plastic hinges at any point of the shear wall, and to shear walls terminated at intermediate levels. The distribution of lateral loads to the frame and the shear wall depends not only on their relative stiffness, but also on the total number of stories in a building. Tentative recommendations are proposed on the effective width of slab that can be used as the beam element in a slab-column frame subjected to lateral loads. A number of influence curves are included to assist designers in the analysis.
+
+
+    
+        AU - John F. Brotchie
+    
+
+TI - Closure to “Direct Design of Plate and Shell Structures”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 339-347
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001092 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001092
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001092
+SO - Journal of the Structural Division 1964-06-01 90(3): 339-347
+
+
+    
+        AU - Otakar Ondra
+    
+
+TI - Closure to “Deflection and Slope of Beams with Varying I”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 349-371
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001093 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001093
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001093
+SO - Journal of the Structural Division 1964-06-01 90(3): 349-371
+
+
+    
+        AU - Edmund P. Segner
+    
+
+TI - Reinforcement Requirements for Girder Web Openings
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 147-164
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001084 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001084
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001084
+SO - Journal of the Structural Division 1964-06-01 90(3): 147-164
+AB - A method for determining the amount of, and the necessity for, reinforcement around large rectangular openings in the webs of wide-flange beams subjected to varying combinations of bending moment and shear is presented. The proposed method is based on the theory that a member having such openings located on the neutral axis acts as a Vierendeel truss in the vicinity of such openings and therefore has points of contraflexure above and below each opening at the center-line of the opening. Based on this theory, a number of sample beams of various geometric properties having various sizes of reinforced openings were fabricated and tested. The analytical investigations of laboratory data verified the analogy and suggested satisfactory configurations for the reinforcement of beams subject to varying combinations of bending moment and shear.
+
+
+    
+        AU - Richard R. Bradshaw
+    
+
+TI - Aeroelastic Vibration of a Steel Arch
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 1-17
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001082 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001082
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001082
+SO - Journal of the Structural Division 1964-06-01 90(3): 1-17
+AB - The cause of vibration of a building with an unusual frontal profile is found to be the vortex shedding. Of the seven corrective measures considered, only the increase of the number of nodes to increase the frequency beyond that of resonance with my possible wind was finally selected. To accomplish this, guy wires were added at the sixth points. The guy wires may be easily slackened so that, with further information on lift forces at higher Reynolds numbers, the wires may be loosened at resonant wind velocity, and the results may be observed. In the process of considering corrective measures, the building was deliberately set into forced vibration, and the percent of critical damping of an unplastered versus a plastered arch was obtained. It was found that information is needed about the behavior of the lift coefficient on various shapes in higher Reynolds numbers. In addition, more knowledge is needed concerning the damping contribution of various building materials. It is concluded that whenever a building has an unusual shape or an unusually small amount of damping, the possibility of excessive vibration from vortex shedding should be considered. Methods satisfactory for structures moving through the vibration producing medium or stationary objects of low aesthetic requirements may not be acceptable.
+
+
+    
+        AU - Herbert Rothman
+    
+        AU - Peter Reilly
+    
+
+TI - Computer Systems for Matrix Operations
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 125-146
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001083 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001083
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001083
+SO - Journal of the Structural Division 1964-06-01 90(3): 125-146
+AB - The requirements of a computer system for performing matrix algebra are considered, and two systems that have been extensively used in practice are described in detail. One system is for an IBM 1620 with 40k core storage and card input-output. The other, called GISMO, is for an IBM 7090 with a 32, 768 word core storage, and 8 to 11 magnetic tape units. In addition to the standard matrix algebra operations, the systems include operations for certain other manipulations that have proven useful in structural analysis. The two systems may be used in conjunction with each other and with other computer programs. The use of automated procedures, which included these systems, on a large structural project is described.
+
+
+    
+        AU - Alexander Chajes
+    
+        AU - S. J. Britvec
+    
+        AU - George Winter
+    
+
+TI - Closure to “Effects of Cold-Straining on Structural Sheet Steels”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 373-374
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001095 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001095
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001095
+SO - Journal of the Structural Division 1964-06-01 90(3): 373-374
+
+
+    
+        AU - Peter M. Wright
+    
+
+TI - Closure to “Simplified Formulation of Stiffness Matrices”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 375-375
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001096 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001096
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001096
+SO - Journal of the Structural Division 1964-06-01 90(3): 375-375
+
+
+    
+        AU - Chuan C. Feng
+    
+
+TI - Closure to “Matrix Solution of Force Relaxation Method”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 377-377
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001097 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001097
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001097
+SO - Journal of the Structural Division 1964-06-01 90(3): 377-377
+
+
+    
+        AU - Peter G. Hoadley
+    
+
+TI - Closure to “Behavior of Prestressed Composite Steel Beams”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 379-379
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001098 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001098
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001098
+SO - Journal of the Structural Division 1964-06-01 90(3): 379-379
+
+
+    
+        AU - Alexander C. Scordelis
+    
+        AU - B. W. Smith
+    
+        AU - Ryszard Dabrowski
+    
+
+TI - Discussion of “Analysis of Prestressed Cylindrical Shell Roofs”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 385-391
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001100 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001100
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001100
+SO - Journal of the Structural Division 1964-06-01 90(3): 385-391
+
+
+    
+        AU - Roman Wolchuk
+    
+
+TI - Discussion of “Analysis of Orthotropic Plate Bridges”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 393-401
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001101 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001101
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001101
+SO - Journal of the Structural Division 1964-06-01 90(3): 393-401
+
+
+    
+        AU - Thomas J. Higgins
+    
+
+TI - Discussion of “Eigen-Matrix Method for Beams and Plates”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 403-403
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001102 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001102
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001102
+SO - Journal of the Structural Division 1964-06-01 90(3): 403-403
+
+
+    
+        AU - J. M. Howe
+    
+
+TI - Discussion of “Matrix Analysis of Semi-Rigidly Connected Frames”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 407-409
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001103 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001103
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001103
+SO - Journal of the Structural Division 1964-06-01 90(3): 407-409
+
+
+    
+        AU - J. W. Crossett
+    
+
+TI - Discussion of “Structure Designs Governed by Limited Deformations”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 411-411
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001104 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001104
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001104
+SO - Journal of the Structural Division 1964-06-01 90(3): 411-411
+
+
+    
+        AU - Douglas H. Merkle
+    
+
+TI - Discussion of “Philosophy of Engineering Design of Structures”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 413-414
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001105 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001105
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001105
+SO - Journal of the Structural Division 1964-06-01 90(3): 413-414
+
+
+    
+        AU - Le-Wu Lu
+    
+
+TI - Discussion of “Plastic Analysis of Circular Balcony Girders”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 415-416
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001106 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001106
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001106
+SO - Journal of the Structural Division 1964-06-01 90(3): 415-416
+
+
+    
+        AU - A. J. Francis
+    
+
+TI - Discussion of “Long Bolted Joints”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 417-419
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001107 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001107
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001107
+SO - Journal of the Structural Division 1964-06-01 90(3): 417-419
+
+
+    
+        AU - A. R. Dykes
+    
+
+TI - Discussion of “Phase I Report on Folded Plate Construction”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 421-422
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001108 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001108
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001108
+SO - Journal of the Structural Division 1964-06-01 90(3): 421-422
+
+
+    
+        AU - Richard N. White
+    
+
+TI - Erratum for “Optimum Solution Techniques for Finite-Difference Equations”
+PT - Journal Article
+DP - 1964
+TA - Journal of the Structural Division
+PG - 381-381
+VI - 90
+IP - 3
+AID - 10.1061/JSDEAG.0001099 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0001099
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0001099
+SO - Journal of the Structural Division 1964-06-01 90(3): 381-381
+
+

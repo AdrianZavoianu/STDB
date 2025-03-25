@@ -1,0 +1,472 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Sashi K. Kunnath
+    
+
+TI - Editor’s Note
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 367-368
+VI - 131
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(2005)131:3(367) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28367%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28367%29
+SO - Journal of Structural Engineering 2005-03-01 131(3): 367-368
+
+
+    
+        AU - Charles V. Camp
+    
+        AU - Barron J. Bichon
+    
+        AU - Scott P. Stovall
+    
+
+TI - Design of Steel Frames Using Ant Colony Optimization
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 369-379
+VI - 131
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(2005)131:3(369) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28369%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28369%29
+SO - Journal of Structural Engineering 2005-03-01 131(3): 369-379
+AB - A design procedure utilizing an ant colony optimization (ACO) technique is developed for discrete optimization of steel frames. The objective function considered is the total weight (or cost) of the structure subjected to serviceability and strength requirements as specified by the American Institute for Steel Construction (AISC) Load and Resistance Factor Design, 2001. The design of steel frames is mapped into a modified traveling salesman problem (TSP) where the configuration of the TSP network reflects the structural topology, and the resulting length of the TSP tour corresponds to the weight of the frame. The number of potential paths between nodes in the TSP network represents all (or a portion) of the available W-shapes in the AISC database. The resulting frame, mapped into a TSP, is minimized using an ACO algorithm with a penalty function to enforce strength and serviceability constraints. A comparison is presented between the ACO frame designs and designs developed using a genetic algorithm and classical continuous optimization methods.
+
+
+    
+        AU - Gene F. Sirca
+    
+        AU - Hojjat Adeli
+    
+
+TI - Cost Optimization of Prestressed Concrete Bridges
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 380-388
+VI - 131
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(2005)131:3(380) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28380%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28380%29
+SO - Journal of Structural Engineering 2005-03-01 131(3): 380-388
+AB - According to the Federal Highway Administration, almost one-quarter of the more than one-half-million U.S. bridges make use of prestressed concrete beams in their designs. In this paper, a method is presented for the total cost optimization of precast, prestressed concrete 
+
+I
+
+-beam bridge systems, by taking into account the costs of the prestressed concrete, deck concrete, prestressed 
+
+I
+
+-beam steel, deck reinforcing steel, and formwork. The problem is formulated as a mixed integer-discrete nonlinear programming problem and solved using the robust neural dynamics model of Adeli and Park. An example is presented to demonstrate the practical application of the methodology. Typical network convergence curves using three different network starting points demonstrate the excellent convergence and the robustness of the optimization model presented in this paper.
+
+
+    
+        AU - Abhinav Gupta
+    
+        AU - Prakash Kripakaran
+    
+        AU - G. (Kumar) Mahinthakumar
+    
+        AU - John W. Baugh
+    
+
+TI - Genetic Algorithm-Based Decision Support for Optimizing Seismic Response of Piping Systems
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 389-398
+VI - 131
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(2005)131:3(389) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28389%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28389%29
+SO - Journal of Structural Engineering 2005-03-01 131(3): 389-398
+AB - This paper describes computational approaches used in a prototype decision support system (DSS) for seismic design and performance evaluation of piping supports. The DSS is primarily based on a genetic algorithm (GA) that uses finite element analyses, and an existing framework for high performance distributed computing on workstation clusters. A detailed discussion is presented on various issues related to the development of an efficient GA implementation for evaluating the trade-off between the number of supports and cost. An integer string representation of the type used in some existing studies, for instance, is shown to be inferior to a binary string representation, which is appropriate when supports are modeled as axially rigid. A novel seeding technique, which overcomes the inefficiencies of conventional methods in the context of pipe support optimization, is also presented. Finally, an efficient crossover scheme is proposed for generating trade-off curves and the approach is validated with respect to optimal solutions obtained by enumeration. In addition to computational enhancements, the role of joint-cognitive decision making is explored using “Modeling to Generate Alternatives - MGA,” a methodology based on optimization to produce alternatives that may spur creativity and offer new insights. These computational approaches are illustrated with applications to a simple, representative piping system, as well as an actual power plant piping system.
+
+
+    
+        AU - Y. H. Chai
+    
+        AU - C. M. Wang
+    
+
+TI - Approximate Solution for the Shape of Submerged Funicular Arches with Self-weight
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 399-404
+VI - 131
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(2005)131:3(399) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28399%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28399%29
+SO - Journal of Structural Engineering 2005-03-01 131(3): 399-404
+AB - In this study, the effect of self-weight on the funicular shape of submerged arches is found to be significant in cases of long span arches submerged in shallow water. Since no analytical solution hitherto exists for fully stressed arches with self-weight and hydrostatic pressure, an approximate solution is presented for easy determination of the funicular arch shape. The Cartesian coordinates of the funicular arch are expressed as analytical functions of the tangent angle, which is convenient for defining the shape without the need to solve a set of nonlinear differential equations. Numerical examples show that the approximate solution is sufficiently accurate for practical design.
+
+
+    
+        AU - P. Museros
+    
+        AU - E. Alarcón
+    
+
+TI - Influence of the Second Bending Mode on the Response of High-Speed Bridges at Resonance
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 405-415
+VI - 131
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(2005)131:3(405) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28405%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28405%29
+SO - Journal of Structural Engineering 2005-03-01 131(3): 405-415
+AB - This paper deals with the assessment of the contribution of the second bending mode to the dynamic behavior of simply supported railway bridges. Traditionally the contributions of modes higher than the fundamental have been considered of little importance for the computation of the magnitudes of interest to structural engineers (vertical deflections, bending moments, etc.). Starting from the dimensionless equations of motion of a simply supported beam subjected to moving loads, the key parameters governing the dynamic behavior are identified. Then, a parametric study over realistic ranges of values of those parameters is conducted, and the influence of the second mode examined in detail. The main purpose is to decide whether the second mode should be taken into account for the determination of the maximum displacement and acceleration in high-speed bridges. In addition, the reasons that cause the contribution of the second bending mode to be relevant in some situations are highlighted, particularly with regard to the computation of the maximum acceleration.
+
+
+    
+        AU - Thuat V. Dinh
+    
+        AU - Toshikatsu Ichinose
+    
+
+TI - Probabilistic Estimation of Seismic Story Drifts in Reinforced Concrete Buildings
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 416-427
+VI - 131
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(2005)131:3(416) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28416%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28416%29
+SO - Journal of Structural Engineering 2005-03-01 131(3): 416-427
+AB - Probabilistic techniques are of vital use in predicting the seismic story drifts of buildings, which vary due to uncertainties in the characteristics of future earthquake motions. This paper proposes a procedure for evaluating the expected mean and standard deviation of seismic story drifts of reinforced concrete buildings by considering both total and story failure mechanisms. The estimation process consists of a pushover analysis of the structure against inverted triangular forces to evaluate the most probable mechanism during earthquakes, followed by consideration of the relative reserve strengths to evaluate the probability of other mechanisms. The relative reserve strengths against story and total mechanisms are expressed by two newly defined story-safety and total-reduction factors, respectively. In this paper, the proposed procedure is verified by conducting dynamic response analyses of 9-story wall and frame structures with various story-safety and total-reduction factors using 36 records from 14 different earthquakes. The proposed procedure well predicted the mean and standard deviation of story drifts of the structures. Application to wall-frame structures is also discussed.
+
+
+    
+        AU - Charles W. Roeder
+    
+        AU - Robert Graff
+    
+        AU - Jennifer Soderstrom
+    
+        AU - Jung Han Yoo
+    
+
+TI - Seismic Performance of Pile-Wharf Connections
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 428-437
+VI - 131
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(2005)131:3(428) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28428%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28428%29
+SO - Journal of Structural Engineering 2005-03-01 131(3): 428-437
+AB - Imports and exports are essential to our economy, but the wharf structures that accommodate this activity are susceptible to earthquake damage. Wharves are pile supported structures, and the pile-wharf connection is an essential element of their seismic performance. Either precast prestressed concrete piles with moment-resisting connections or steel batter piles are used to provide lateral resistance, but precast concrete piles are more common. Little research has been performed on the seismic performance of these precast concrete pile-wharf connections. Eight experiments evaluating the seismic performance of moment-resisting precast concrete pile-wharf connections are described. The test specimens simulate the wide range of practice presently noted in wharf design. These connections tolerate large cyclic inelastic deformations, but they also show significant deterioration in resistance and stiffness. Extended pile connections are used when the pile is driven below deck level. Precast concrete pile connections are stronger than extended pile sections, but they degrade more quickly. Axial load on the pile also increases connection moment capacity but results in greater deterioration in resistance. Analysis shows that this degradation in resistance significantly reduces the inelastic pushover resistance and increases the inelastic dynamic response demands of the system.
+
+
+    
+        AU - Maria M. Garlock
+    
+        AU - James M. Ricles
+    
+        AU - Richard Sause
+    
+
+TI - Experimental Studies of Full-Scale Posttensioned Steel Connections
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 438-448
+VI - 131
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(2005)131:3(438) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28438%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28438%29
+SO - Journal of Structural Engineering 2005-03-01 131(3): 438-448
+AB - Six full-scale interior connection subassemblies of posttensioned wide flange beam-to-column moment connections were subjected to inelastic cyclic loading up to 4% story drift to simulate earthquake loading effects. Bolted top and seat angles are used in the connection, along with posttensioned high strength strands that run parallel to the beam. These strands compress the beam flanges against the column flange to develop the resisting moment to service loading and to provide a restoring force that returns the structure to its initial position following an earthquake. The parameters studied in these experiments were the initial posttensioning force, the number of posttensioning strands, and the length of the reinforcing plates. The experimental results demonstrate that the posttensioned connection possesses good energy dissipation and ductility. Under drift levels of 4%, the beams and columns remain elastic, while only the top and seat angles are damaged and dissipate energy. The lack of damage to the beams, columns, and the posttensioning enable the system to return to its plumb position (i.e., it self-centers). Closed-form expressions are presented to predict the connection response and the results from these expressions compare well with the experimental results.
+
+
+    
+        AU - M. Mofid
+    
+        AU - M. R. S. Mohammadi
+    
+        AU - S. L. McCabe
+    
+
+TI - Analytical Approach on Endplate Connection: Ultimate and Yielding Moment
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 449-456
+VI - 131
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(2005)131:3(449) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28449%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28449%29
+SO - Journal of Structural Engineering 2005-03-01 131(3): 449-456
+AB - A common means of forming a rigid joint between universal beam and column is to weld an endplate to the beam end and then to bolt to the column. A physically based yield line model that can predict the ultimate moment capacity and yield moment of the bolted extended endplate eave connections, using the connection dimensions as input, is presented. The analytical method is proposed for the extended endplate joints having four bolts in tension region, and without any stiffened plate. Comparison is made to a series of test results for a range of bolted endplate moment connections, and good agreement is achieved. Furthermore, the writers believe that this method will efficiently serve design engineers in real design condition.
+
+
+    
+        AU - Ehab Ellobody
+    
+        AU - Ben Young
+    
+
+TI - Behavior of Cold-Formed Steel Plain Angle Columns
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 457-466
+VI - 131
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(2005)131:3(457) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28457%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28457%29
+SO - Journal of Structural Engineering 2005-03-01 131(3): 457-466
+AB - The main objective of this paper is to provide an efficient and accurate finite element model to understand the behavior of cold-formed steel plain angle columns. The effects of initial local and overall geometric imperfections have been taken into consideration in the analysis. The material nonlinearities of flat and corner portions of the angle sections were incorporated in the model. Failure loads and buckling modes as well as load-shortening curves of plain angle columns were investigated in this study. Furthermore, the residual stresses of a column test specimen were measured and plotted. The effect of residual stresses on the buckling behavior was studied using the finite element model. The nonlinear finite element model was verified against experimental results. The finite element analysis was performed on plain angles compressed between fixed ends over different column lengths, and column curves were obtained. An extensive parametric study was carried out using the finite element model to study the effects of cross-section geometries on the strength and behavior of angle columns. The column strengths predicted from the finite element model were compared with the design strengths calculated using the American Specification and Australian/New Zealand Standard for cold-formed steel structures. In addition, the results obtained from the finite element model were also compared with the design strengths obtained from the design rules proposed by other researchers.
+
+
+    
+        AU - N. S. Trahair
+    
+
+TI - Buckling and Torsion of Steel Equal Angle Beams
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 467-473
+VI - 131
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(2005)131:3(467) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28467%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28467%29
+SO - Journal of Structural Engineering 2005-03-01 131(3): 467-473
+AB - Although steel single angle sections are commonly used as beams to support distributed loads which cause biaxial bending and torsion, their behavior may be extremely complicated, and the accurate prediction of their strengths very difficult. Further, many design codes do not have any design rules for torsion, while some recommendations are unnecessarily conservative, or are of limited application, or fail to consider some effects which are thought to be important. This paper is one of a series on the behavior and design of single angle section steel beams. Two previous papers have studied the biaxial bending behavior of restrained beams, a third has studied the lateral buckling of unrestrained beams, and a fourth the biaxial bending of unrestrained beams. In each paper, simple design methods have been developed. In this present paper, an approximate method of predicting the second-order deflections and twist rotations of steel equal angle beams under major axis bending and torsion is developed. This method is then used to determine the approximate maximum biaxial bending moments in such beams, which are then used with the section moment capacity proposals of the first paper of the series and the lateral buckling proposals of the third paper to approximate the member capacities. This method is extended to steel unequal angle beams in a companion paper.
+
+
+    
+        AU - N. S. Trahair
+    
+
+TI - Buckling and Torsion of Steel Unequal Angle Beams
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 474-480
+VI - 131
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(2005)131:3(474) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28474%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28474%29
+SO - Journal of Structural Engineering 2005-03-01 131(3): 474-480
+AB - Although steel single angle sections are commonly used as beams to support distributed loads which cause biaxial bending and torsion, their behavior may be extremely complicated, and the accurate prediction of their strengths very difficult. Further, many design codes do not have any design rules for torsion, while some recommendations are unnecessarily conservative, or are of limited application, or fail to consider some effects which are thought to be important. This paper is one of a series on the behavior and design of single angle section steel beams. Two previous papers have studied the biaxial bending behavior of restrained beams, a third has studied the lateral buckling of unrestrained beams, and a fourth the biaxial bending of unrestrained beams. In each paper, simple design methods have been developed. In a companion paper an approximate method of predicting the second-order deflections and twist rotations of steel angle section beams under major axis bending and torsion is developed. The method is then used to determine the approximate maximum biaxial bending moments in such beams, which are then used with the section moment capacity proposals of the first paper of the series and the lateral buckling proposals of the third paper to approximate the member capacities. This method is extended to steel unequal angle beams in the present paper.
+
+
+    
+        AU - N. S. Trahair
+    
+        AU - K. J. R. Rasmussen
+    
+
+TI - Finite-Element Analysis of the Flexural Buckling of Columns with Oblique Restraints
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 481-487
+VI - 131
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(2005)131:3(481) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28481%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28481%29
+SO - Journal of Structural Engineering 2005-03-01 131(3): 481-487
+AB - This paper is concerned with the elastic flexural buckling of doubly symmetric columns with oblique restraints under concentric loading. Oblique restraints cause coupling between the principal axis deflections and rotations, and the flexural buckling mode involves simultaneous bending about both principal axes. Oblique restraints may resist deflections as well as rotations, and may be rigid or elastic. They may be concentrated at points along a column, or distributed along portions of its length. This paper discusses the nature of oblique end restraints, summarizes their finite element analysis, presents examples of their effects on the elastic buckling of columns, and demonstrates the design of columns with oblique restraints.
+
+
+    
+        AU - Yan Xiao
+    
+        AU - Wenhui He
+    
+        AU - Kang-kyu Choi
+    
+
+TI - Confined Concrete-Filled Tubular Columns
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 488-497
+VI - 131
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(2005)131:3(488) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28488%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28488%29
+SO - Journal of Structural Engineering 2005-03-01 131(3): 488-497
+AB - This paper presents a study to introduce and experimentally validate an innovative concrete filled steel tubular (CFT) column system, named as confined CFT or CCFT, for improved seismic design of steel and concrete composite structures. Based on fundamental mechanics, the concept is aimed at controlling the local buckling of the steel tube and confining the concrete in the potential plastic hinge regions of a CFT column. To achieve this, several efficient details of transverse confinement are proposed. In the first phase of the study, carbon-fiber-reinforced plastic as additional confinement of CCFT columns was examined through experimental testing. As demonstrated from the results of axial compression tests and seismic loading tests, the new type of CFT column system can provide excellent seismic performance. The complicated local buckling and confinement mechanisms were examined using a proposed simple analytical model.
+
+
+    
+        AU - Lijuan Cheng
+    
+        AU - Lei Zhao
+    
+        AU - Vistasp M. Karbhari
+    
+        AU - Gilbert A. Hegemier
+    
+        AU - Frieder Seible
+    
+
+TI - Assessment of a Steel-Free Fiber Reinforced Polymer-Composite Modular Bridge System
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 498-506
+VI - 131
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(2005)131:3(498) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28498%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28498%29
+SO - Journal of Structural Engineering 2005-03-01 131(3): 498-506
+AB - The paper describes the development and characterization of a modular bridge system incorporating fiber reinforced polymer (FRP) composite girders connected by stiffened FRP deck panels which serve as both formwork and flexural reinforcement for a steel free concrete deck cast on top. The response of individual components and a two girder deck assemblage are characterized through full scale tests and it is shown that capacity is substantially greater than the design demand levels. Analytical predictions, based on laminated beam theory using progressive ply failure criteria, moment–curvature analysis and finite element models, are seen to compare well with experimental results.
+
+
+    
+        AU - Sofia M. C. Diniz
+    
+        AU - Emil Simiu
+    
+
+TI - Probabilistic Descriptions of Wind Effects and Wind-Load Factors for Database-Assisted Design
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 507-516
+VI - 131
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(2005)131:3(507) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28507%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28507%29
+SO - Journal of Structural Engineering 2005-03-01 131(3): 507-516
+AB - Database-assisted design (DAD) for wind results in structures with reduced material consumption and failure risks, i.e., in improved safety and sustainability. The paper presents a DAD-compatible probabilistic procedure for estimating: (1) Wind effects corresponding to any mean recurrence interval of the wind speeds, and (2) wind-load factors. Unlike the ASCE 7 Standard and earlier structural reliability estimates, the procedure accounts for the inherent randomness in the estimation of peaks and for relevant wind-related knowledge uncertainties. On the basis of a selection of uncertainty parameters believed to be reasonable, it is concluded that: (1) The extreme wind speed distribution type significantly affects the estimates of the load factors. Our estimates, based on the Extreme Value Type III Reverse Weibull distribution, yield load factors consistent with values specified in the ASCE 7 Standard—in contrast to estimates published in the 1980’s. (2) The variability of the ratio between wind speeds averaged over different time intervals can significantly affect the estimated wind-load factor. (3) An increase in size of the extreme wind data set from, say, 
+
+30
+to
+50
+years
+
+, has a marginal effect on load factor estimates. (4) For low-rise buildings in open terrain, wind-load factors are typically affected weakly by even large uncertainties with respect to terrain roughness length. Additional research on the effect of terrain roughness uncertainties for buildings in built-up terrain may require an expansion of the aerodynamic databases currently available. It is noted that consideration of uncertainties in isolation, as commonly performed by some analysts and wind tunnel operators, especially for peak effects estimation, can be misleading; for structural applications, uncertainties need to be considered collectively.
+
+
+    
+        AU - T. Tjhin
+    
+        AU - M. Aschheim
+    
+        AU - E. Hernández-Montes
+    
+
+TI - Estimates of Peak Roof Displacement Using “Equivalent” Single Degree of Freedom Systems
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 517-522
+VI - 131
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(2005)131:3(517) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28517%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28517%29
+SO - Journal of Structural Engineering 2005-03-01 131(3): 517-522
+AB - The accuracy of a new pushover analysis procedure for estimating the peak roof displacement of multistory buildings subjected to earthquake ground shaking is assessed in a pilot study. The energy-based pushover uses a displacement derived from the work done in the nonlinear static (pushover) analysis to establish the capacity curve, in contrast to the use of the roof displacement in conventional pushover analysis procedures. Roof displacement estimates obtained with the energy-based and conventional procedures are compared, relative to the peak values computed in nonlinear dynamic analyses, for three- and nine-story frames as well as an eight-story reinforced concrete wall building. The energy-based approach was found to provide more accurate estimates of the peak roof displacement (in a mean sense) for 17 of the 20 cases considered.
+
+
+    
+        AU - Richard M. Bennett
+    
+        AU - Roger D. Flanagan
+    
+
+TI - Discussion of “Lateral Stiffness of Brick Masonry Infilled Plane Frames” by P. G. Asteris
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 523-523
+VI - 131
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(2005)131:3(523) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28523%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28523%29
+SO - Journal of Structural Engineering 2005-03-01 131(3): 523-523
+
+
+    
+        AU - P. G. Asteris
+    
+
+TI - Closure to “Lateral Stiffness of Brick Masonry Infilled Plane Frames” by P. G. Asteris
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 523-524
+VI - 131
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(2005)131:3(523.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28523.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28523.2%29
+SO - Journal of Structural Engineering 2005-03-01 131(3): 523-524
+
+
+    
+        AU - Douglas D. Lee
+    
+
+TI - Discussion of “Contributions of C. A. P. Turner to Development of Reinforced Concrete Flat Slabs 1905–1909” by D. A. Gasparini
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 524-525
+VI - 131
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(2005)131:3(524) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28524%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28524%29
+SO - Journal of Structural Engineering 2005-03-01 131(3): 524-525
+
+
+    
+        AU - D. A. Gasparini
+    
+
+TI - Closure to “Contributions of C.A.P. Turner to Development of Reinforced Concrete Flat Slabs 1905–1909” by D. A. Gasparini
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 525-525
+VI - 131
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(2005)131:3(525) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28525%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A3%28525%29
+SO - Journal of Structural Engineering 2005-03-01 131(3): 525-525
+
+

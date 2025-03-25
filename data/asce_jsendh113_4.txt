@@ -1,0 +1,409 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Parviz Soroushian
+    
+        AU - Ki‐Bong Choi
+    
+
+TI - Steel Mechanical Properties at Different Strain Rates
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 663-672
+VI - 113
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1987)113:4(663) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28663%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28663%29
+SO - Journal of Structural Engineering 1987-04-01 113(4): 663-672
+AB - Dynamic test results reported by different investigators on structural steel, deformed reinforcing bars, and deformed wires subjected to monotonic tension are used for deriving empirical expressions for the ratios of static to dynamic values of the yield and ultimate stresses, yield and ultimate strains, and the strain at the end of the yield plateau. The principal variables in the expressions are the rate of straining and the steel static yield strength. These expressions are then used for developing dynamic constitutive models for monotonically loaded steel.
+
+
+    
+        AU - Thambirajah Balendra
+    
+        AU - Kai‐Yang Lam
+    
+        AU - Chih‐Young Liaw
+    
+        AU - Seng‐Lip Lee
+    
+
+TI - Behavior of Eccentrically Braced Frame by Pseudo‐Dynamic Test
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 673-688
+VI - 113
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1987)113:4(673) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28673%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28673%29
+SO - Journal of Structural Engineering 1987-04-01 113(4): 673-688
+AB - The performance of an eccentrically braced frame designed to yield in shear is investigated by the pseudo‐dynamic test. This relatively new experimental technique is suitably modified to account for the effect of inherent Coulomb damping in the structure. This modification enables one to obtain the force‐displacement hysteresis of the shear link accurately. The hysteretic curve shows that a properly designed eccentrically braced frame dissipates a large amount of energy without any pinching in the hysteresis loop, nor with any deterioration in strength or stiffness. Comparison with an analytical model based on pure kinematic hardening reveals that strain hardening in the shear link is essentially of the kinematic type.
+
+
+    
+        AU - Toshikatsu Ichinose
+    
+        AU - Katsuki Takiguchi
+    
+
+TI - Shear Deformation Mode of Reinforced Concrete Beam
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 689-703
+VI - 113
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1987)113:4(689) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28689%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28689%29
+SO - Journal of Structural Engineering 1987-04-01 113(4): 689-703
+AB - The two‐dimensional strain distribution of a member can be decomposed into a series of orthogonal strain‐mode tensors representing simple geometrical deformation modes. Expansion coefficients of the series are obtained by integrating the product of the strain tensor and the mode tensor over the member. Deflection of the member can also be decomposed into the sum of the contributions of the deformation modes. The method was applied to the test results of a reinforced concrete beam with a web opening. For this beam, the two‐dimensional strain distribution was measured by a contact gage network. The beam failed in shear. The observed deformation pattern agreed well with that given by the prevailing plastic theory after the shear strength was approximately reached.
+
+
+    
+        AU - P. R. Walker
+    
+        AU - P. E. Regan
+    
+
+TI - Corner Column‐Slab Connections in Concrete Flat Plates
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 704-720
+VI - 113
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1987)113:4(704) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28704%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28704%29
+SO - Journal of Structural Engineering 1987-04-01 113(4): 704-720
+AB - The behavior of corner bays of flat plate floors was investigated in 11 tests of slabs on four columns. The performance of each specimen is described and related to the details of the slab‐column joints. Comparisons are made between the moment distributions measured in these and other tests and those derived from the equivalent frame analyses of the ACI and British Codes. Measured shear strengths are also compared with those calculated from the ACI code. It is shown that the ACI code, which makes allowance for the flexibility of the slab‐column connection, provides a good assessment of the column moments and generally provides estimates of the design shear stresses that range between safe and conservative.
+
+
+    
+        AU - Sritawat Kitipornchai
+    
+        AU - Siu Lai Chan
+    
+
+TI - Nonlinear Finite Element Analysis of Angle and Tee Beam‐Columns
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 721-739
+VI - 113
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1987)113:4(721) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28721%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28721%29
+SO - Journal of Structural Engineering 1987-04-01 113(4): 721-739
+AB - Asymmetric thin‐walled open sections such as angles are used widely in trusses and transmission towers. Such members have relatively low torsional and bending stiffnesses and are connected eccentrically. The geometrical nonlinear second order analysis of frames comprising this type of member is not generally available. This paper derives the element geometric stiffness matrix for angle and tee beam‐columns. The total potential energy of a general thin‐walled beam‐column element is formulated, incorporating member geometrical nonlinearity. The validity and accuracy of the formulation are demonstrated on different problems, for which the buckling loads and the load‐deformation relationships are derived. The latter is obtained by formulating the incremental and the total force‐deformation equilibrium equations and using the numerical arc‐length method to trace the load‐deformation path. The influence of the prebuckling deformations is incorporated in the analysis by modifying the structural tangent stiffness continuously for geometry updates.
+
+
+    
+        AU - Sritawat Kitipornchai
+    
+        AU - Alain D. Wong‐Chung
+    
+
+TI - Inelastic Buckling of Welded Monosymmetric I‐Beams
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 740-756
+VI - 113
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1987)113:4(740) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28740%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28740%29
+SO - Journal of Structural Engineering 1987-04-01 113(4): 740-756
+AB - The inelastic buckling of welded monosymmetric I‐beams under uniform moment has been investigated. The assumed welding residual stress is based on the so‐called “tendon force concept” developed by the Cambridge group. The residual stresses are shown to be dependent on the connecting plate sizes, weld areas, and the welding process. The assumed residual stress pattern consists of a fully yielded tensile stress block of width 2c in the flange at the weld, and a constant residual compressive stress στc at the outer edges to maintain equilibrium. The influences of the degree of beam monosymmetry, ρ, and the values of c are examined. It is shown that the inelastic buckling capacities decrease with ρ and with increasing c values. Theoretical inelastic buckling moments compared well with Fukumoto's test results, except for the very high strength grade steel. Present inelastic beam design rules in AS1250, AISC specifications, ECCS, and BS5950 are reviewed. A simple method of determining the inelastic buckling moment for welded monosymmetric I‐beams is proposed.
+
+
+    
+        AU - Robert K. Wen
+    
+        AU - Khaled Medallah
+    
+
+TI - Elastic Stability of Deck‐Type Arch Bridges
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 757-768
+VI - 113
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1987)113:4(757) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28757%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28757%29
+SO - Journal of Structural Engineering 1987-04-01 113(4): 757-768
+AB - The current AASHTO Standard Specifications for Highway Bridges require the live load plus impact stresses be amplified by a factor which depends on the in‐plane buckling load. For computing that buckling load, the specifications presume that the arch ribs would act independently of the deck. The paper presents data to show that the buckling loads can be markedly affected by the presence of the deck. The effects depend on such parameters as the type of column connections and the bracing systems between the ribs and the deck, as well as the stiffness and support conditions of the latter. The three‐dimensional elastic stability including lateral and torsional buckling is also studied. It is suggested that in the computing of the buckling loads of these bridges, instead of treating the ribs as independent entities, the entire bridge system be considered.
+
+
+    
+        AU - J. D. Toneff
+    
+        AU - S. F. Stiemer
+    
+        AU - P. Osterreder
+    
+
+TI - Local and Overall Buckling in Thin‐Walled Beams and Columns
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 769-786
+VI - 113
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1987)113:4(769) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28769%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28769%29
+SO - Journal of Structural Engineering 1987-04-01 113(4): 769-786
+AB - The design of steel beams and columns must take into account overall instability (Euler, torsional, lateral‐torsional buckling, etc.), and also, if the section is made up of thin plate elements, the instability of the component plates in the form of local plate buckling. The possible interaction of these two modes of buckling, and its effect on member stability and strength, is therefore of interest. A tool has been developed for this type of analysis by adapting a finite element for a thin‐walled beam‐column of arbitrary cross section to include “local” degrees of freedom, allowing cross‐sectional distortion. The formulation involves geometric nonlinearities due to large displacements and rotations, but material behavior is limited to the elastic case.
+
+
+    
+        AU - Jerry E. Stephens
+    
+        AU - James T. P. Yao
+    
+
+TI - Damage Assessment Using Response Measurements
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 787-801
+VI - 113
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1987)113:4(787) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28787%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28787%29
+SO - Journal of Structural Engineering 1987-04-01 113(4): 787-801
+AB - Seismic damage in structures can be evaluated using information obtainable from structural response records. Currently, acceleration is the only component of structural response directly measured in selected structures during earthquakes. The acceleration response Can be used in appropriate analyses to estimate the force‐deformation response of a structure. Information available in the force‐deformation response can be used in damage functions to obtain a quantitative measure of the condition of the structure. Two such functions are evaluated herein for the assessment of structural damage. A cumulative plastic deformation damage function and a maximum deformation/cumulative dissipated energy damage function are used to evaluate the condition of damaged multistory reinforced concrete test structures and an actual structure damaged during an earthquake. The resulting quantitative measures of structural damage are correlated with independently formulated descriptive damage assessments. Based on these correlations, the damage functions produce meaningful and potentially useful measures of the damage condition of structures.
+
+
+    
+        AU - Robert John Craig
+    
+        AU - Jack Decker
+    
+        AU - Lawrence Dombrowski
+    
+        AU - Robert Laurencelle
+    
+        AU - John Federovich
+    
+
+TI - Inelastic Behavior of Reinforced Fibrous Concrete
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 802-817
+VI - 113
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1987)113:4(802) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28802%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28802%29
+SO - Journal of Structural Engineering 1987-04-01 113(4): 802-817
+AB - This paper discusses the increased ductility afforded conventional reinforced concrete sections through the inclusion of deformed steel fibers. Computation of the theoretical moment‐rotation relationship was done for all sections, using a computer program developed for this study. In order to show that the behavior of the reinforced fibrous concrete beam computed by the program is correct, four full‐sized beams were tested at the New Jersey Institute of Technology and compared to the theoretical development. Various factors affecting the section behavior are evaluated. These variables are: (1) Material variables: concrete, grades of tension and compression reinforcing, fibers, and strain‐hardening of steel; and (2) geometric variables: amount of tension reinforcement, amount of compression reinforcement, and amount of fiber. The conclusions on the effects of the fibers on the ductility of the conventional reinforced concrete sections are summarized.
+
+
+    
+        AU - Nandivaram E. Shanmugam
+    
+        AU - Sing‐Ping Chiew
+    
+        AU - Seng‐Lip Lee
+    
+
+TI - Strength of Thin‐Walled Square Steel Box Columns
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 818-831
+VI - 113
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1987)113:4(818) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28818%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28818%29
+SO - Journal of Structural Engineering 1987-04-01 113(4): 818-831
+AB - The present study is concerned with the strength of thin‐walled steel box columns of square cross section that are pinned and subjected to axial load and equal moment at the ends. The local buckling in the component plates is allowed for by using piecewise linear stress‐strain curves that are approximations of previous research findings. Due allowance is made to account for the effect of residual stresses due to welding and overall column imperfections upon the ultimate strength. The column analysis is carried out by integrating numerically along the length the moment‐curvature‐thrust relationships. This method of column analysis is free from iteration and could predict the ultimate strength accurately. The results are presented in the form of column curves and interaction diagrams for typical values of plate slenderness ratios, residual stress levels, and initial column imperfections. Comparisons are made between the proposed column curves and multiple column curves of ECCS and SSRC.
+
+
+    
+        AU - Theodossius P. Tassios
+    
+        AU - Elisabeth N. Vintzēleou
+    
+
+TI - Concrete‐to‐Concrete Friction
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 832-849
+VI - 113
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1987)113:4(832) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28832%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28832%29
+SO - Journal of Structural Engineering 1987-04-01 113(4): 832-849
+AB - The mechanism of load transfer along unreinforced concrete interfaces by means of friction has been experimentally investigated for several surface roughnesses. The results of the parametric studies investigating the frictional behavior of interfaces under both monotonic and fully reversed large displacements are presented with comments. The proposed formalistic models based on the experimental results can be used for the prediction of the frictional resistance of reinforced concrete interfaces, according to a procedure described in the paper.
+
+
+    
+        AU - Kipp A. Martin
+    
+        AU - Mohammad R. Ehsani
+    
+        AU - Reidar Bjorhovde
+    
+
+TI - Field Testing of Highway Sign Support Structures
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 850-863
+VI - 113
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1987)113:4(850) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28850%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28850%29
+SO - Journal of Structural Engineering 1987-04-01 113(4): 850-863
+AB - The results of field tests for two monotube highway sign support structures with spans of 60 and 100 ft are presented. The intent of the study was to compare field measurements with previously conducted analytical results, including the possibility of resonance due to vortex shedding. Wind speeds of up to 23.2 mph were recorded during the tests. Although the analytical studies predicted resonance tendencies at several lower wind speeds, this did not take place during the field tests due to the inherent damping of the structures. Measured stresses were analyzed statistically to account for the cyclic nature of the loads, to assure a high level of confidence in the maximum stress levels. There was good correlation between computed and measured stresses, all of which were found to be well below allowable values. The adequacy of previous design recommendations was verified.
+
+
+    
+        AU - Mohammad N. Akhtar
+    
+
+TI - Element Stiffness of Circular Member
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 867-872
+VI - 113
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1987)113:4(867) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28867%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28867%29
+SO - Journal of Structural Engineering 1987-04-01 113(4): 867-872
+AB - Based on the expression for strain energy, the coefficients of the stiffness matrix of a prismatic circular member have been formulated. The fixed end actions due to an applied concentrated load are also provided. The effect of shear deformation is not taken into account in this formulation. The primary purpose of this paper is to improve the analysis of various types of planar frames having circular members, with or without straight members, using the computer. The results of an example problem are presented and compared with existing analysis.
+
+
+    
+        AU - Alfred L. Newberry
+    
+        AU - Charles W. Bert
+    
+        AU - Alfred G. Striz
+    
+
+TI - Noninteger‐Polynomial Flnite‐Element Analysis of Column Buckling
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 873-878
+VI - 113
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1987)113:4(873) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28873%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28873%29
+SO - Journal of Structural Engineering 1987-04-01 113(4): 873-878
+AB - Polynomials with integer powers have been used with the Rayleigh-Ritz method and the finite-element method for the computation of approximate buckling loads, natural frequencies, static deflection, etc. However, there is an improved version of the Rayleigh method, in which the leading exponent of the polynomial is initially undetermined rather than being an integer. Since the Rayleigh method yields an upper bound, the exponent is optimized to yield a minimum result. In the present work, this concept is applied to the finite-elementanalysis of column buckling. For purposes of evaluation, the approximate results were compared to closed-form solutions where possible. The improvement in accuracy over the classical finite-element method was quite significant.
+
+
+    
+        AU - Emilia Rosenblueth
+    
+
+TI - Discussion of &#x201c;<i>Economics of Seismic Design for New Buildings</i>&#x201d; by John M. Ferritto (December, 1984, Vol. 110, No. 12)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 881-882
+VI - 113
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1987)113:4(881) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28881%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28881%29
+SO - Journal of Structural Engineering 1987-04-01 113(4): 881-882
+
+
+    
+        AU - John M. Ferritto
+    
+
+TI - Closure to &#x201c;<i>Economics of Seismic Design for New Buildings</i>&#x201d; by John M. Ferritto (December, 1984, Vol. 110, No. 12)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 883-884
+VI - 113
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1987)113:4(883) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28883%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28883%29
+SO - Journal of Structural Engineering 1987-04-01 113(4): 883-884
+
+
+    
+        AU - Fred Moses
+    
+
+TI - Discussion of &#x201c;<i>Impact Studies on Small Composite Girder Bridge</i>&#x201d; by Colin O'Connor and Ross W. Pritchard (March, 1985, Vol. 111, No. 3)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 884-887
+VI - 113
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1987)113:4(884) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28884%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28884%29
+SO - Journal of Structural Engineering 1987-04-01 113(4): 884-887
+
+
+    
+        AU - Colin O'Connor
+    
+        AU - Ross W. Pritchard
+    
+
+TI - Closure to &#x201c;<i>Impact Studies on Small Composite Girder Bridge</i>&#x201d; by Colin O'Connor and Ross W. Pritchard (March, 1985, Vol. 111, No. 3)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 887-888
+VI - 113
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1987)113:4(887) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28887%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28887%29
+SO - Journal of Structural Engineering 1987-04-01 113(4): 887-888
+
+
+TI - Erratum: “Flexural-Torsional Buckling of Arches”
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 889-906
+VI - 113
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1987)113:4(889) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28889%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A4%28889%29
+SO - Journal of Structural Engineering 1987-04-01 113(4): 889-906
+
+

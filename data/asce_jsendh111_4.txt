@@ -1,0 +1,352 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Michalakis C. Constantinou
+    
+        AU - Iradj G. Tadjbakhsh
+    
+
+TI - Hysteretic Dampers in Base Isolation: Random Approach
+PT - Journal Article
+DP - 1985
+TA - Journal of Structural Engineering
+PG - 705-721
+VI - 111
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1985)111:4(705) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28705%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28705%29
+SO - Journal of Structural Engineering 1985-04-01 111(4): 705-721
+AB - A method of random vibration analysis of base isolated structures with hysteretic dampers is employed. The hysteretic restoring force is modeled by a nonlinear differential equation. The equations of motion for shear type structures are linearized in closed form. Nonstationary response statistics for evolutionary nonwhite excitation are determined by solving the associated Lyapunov matrix differential equation. An optimization study which is based on the stationary response is also presented.
+
+
+    
+        AU - Young‐Ji Park
+    
+        AU - Alfredo H.‐S. Ang
+    
+
+TI - Mechanistic Seismic Damage Model for Reinforced Concrete
+PT - Journal Article
+DP - 1985
+TA - Journal of Structural Engineering
+PG - 722-739
+VI - 111
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1985)111:4(722) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28722%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28722%29
+SO - Journal of Structural Engineering 1985-04-01 111(4): 722-739
+AB - A model for evaluating structural damage in reinforced concrete structures under earthquake ground motions is proposed. Damage is expressed as a linear function of the maximum deformation and the effect of repeated cyclic loading. Available static (monotonic) and dynamic (cyclic) test data were analyzed to evaluate the statistics of the appropriate parameters of the proposed damage model. The uncertainty in the ultimate structural capacity was also examined.
+
+
+    
+        AU - Young‐Ji Park
+    
+        AU - Alfredo H.‐S. Ang
+    
+        AU - Yi Kwei Wen
+    
+
+TI - Seismic Damage Analysis of Reinforced Concrete Buildings
+PT - Journal Article
+DP - 1985
+TA - Journal of Structural Engineering
+PG - 740-757
+VI - 111
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1985)111:4(740) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28740%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28740%29
+SO - Journal of Structural Engineering 1985-04-01 111(4): 740-757
+AB - A method for evaluating structural damage of reinforced concrete buildings under random earthquake excitations is proposed. Extensive damage analysis of SDF systems and typical MDF reinforced concrete buildings were performed. On the basis of these results, a simple relationship between the destructiveness of the ground motions, expressed in terms of the “characteristic intensity,” and the structural damage, expressed in terms of the “damage index,” is established. Reinforced concrete buildings that were damaged during past earthquakes were used to calibrate the proposed damage measure; on this basis, practical limits of structural damage are defined.
+
+
+    
+        AU - Zia Razzaq
+    
+        AU - Antoun Y. Calash
+    
+
+TI - Imperfect Columns with Biaxial Partial Restraints
+PT - Journal Article
+DP - 1985
+TA - Journal of Structural Engineering
+PG - 758-776
+VI - 111
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1985)111:4(758) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28758%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28758%29
+SO - Journal of Structural Engineering 1985-04-01 111(4): 758-776
+AB - An inelastic theoretical study of the effect of biaxial partial end restraints on the response of hollow rectangular steel nonsway columns with or without biaxial crookedness and residual stresses is presented. The partial end restraints considered have linear, elastic‐plastic, or trilinear moment‐rotation characteristics. The fundamental total equilibrium equations for the problem are derived. An algorithm is presented based on a coupling between an iterative tangent stiffness approach and a finite‐difference scheme for evaluating the spatial response of the materially nonlinear columns. The effect of partial end restraints, as well as the individual and combined influence of crookedness and residual stresses is also explained by means of load‐deflection, and bending stiffness degradation curves. Several interesting conclusions are drawn regarding the behavior of columns as affected by end restraints, imperfections and slenderness.
+
+
+    
+        AU - Rangachari Narayanan
+    
+        AU - Norire Gara‐Verni Der‐Avanessian
+    
+
+TI - Design of Slender Webs Having Rectangular Holes
+PT - Journal Article
+DP - 1985
+TA - Journal of Structural Engineering
+PG - 777-787
+VI - 111
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1985)111:4(777) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28777%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28777%29
+SO - Journal of Structural Engineering 1985-04-01 111(4): 777-787
+AB - The ultimate shear capacity of a plate girder having a central rectangular web‐hole is shown to be the sum of three contributing factors: (1) The elastic critical load of the web; (2) the load carried by the membrane tension in the web in the post critical stage; and (3) the load carried by the flanges. The elastic critical load in shear is evaluated by using an approximate formula derived from a finite element analysis. The load carried by membrane tension is calculated using the Von Mises criterion and a suggested mean value for the angle subtended by it with the longitudinal axis of the girder; the contribution of the flanges is calculated from their plastic moment capacities. The proposed method is shown to be satisfactory by comparing the predictions obtained from it with the corresponding test observations. An ultimate load method of designing flat strip reinforcement is proposed and is aimed at restoring the strength of the web to a value that would have been obtained had the hole not been cut. The suggested design procedure is shown by a worked example.
+
+
+    
+        AU - Jack H. Emanuel
+    
+        AU - Charles M. Taylor
+    
+
+TI - Length‐Thermal Stress Relations for Composite Bridges
+PT - Journal Article
+DP - 1985
+TA - Journal of Structural Engineering
+PG - 788-804
+VI - 111
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1985)111:4(788) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28788%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28788%29
+SO - Journal of Structural Engineering 1985-04-01 111(4): 788-804
+AB - Computer‐assisted analysis was used to study the relation among uniform, linear, and nonlinear stress components thermally induced in a composite bridge section for hypothetical parameters of varying span lengths, number of spans, and support conditions, as well as for actual bridges. The results were verified by conventional methods of analysis. The following was concluded for prismatic (constant) sections: (1) For constant proportionality of span lengths, each of the three thermal stress components is independent of span length; (2) variation of the proportionality of span lengths affects only the linear stress component; (3) support reactions and deflections caused by thermal loading are length dependent, but the induced moments and stresses are independent of length; (4) as the number of spans increases, the (thermally induced) moment magnitudes tend to converge; (5) the magnitude of reactions, for constant proportionality of span lengths, varies inversely with span length; and (6) for total end fixity, no exterior or interior vertical support reactions are thermally induced.
+
+
+    
+        AU - Morteza A. M. Torkamani
+    
+        AU - Eddy Pramono
+    
+
+TI - Dynamic Response of Tall Building to Wind Excitation
+PT - Journal Article
+DP - 1985
+TA - Journal of Structural Engineering
+PG - 805-825
+VI - 111
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1985)111:4(805) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28805%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28805%29
+SO - Journal of Structural Engineering 1985-04-01 111(4): 805-825
+AB - This paper investigates the dynamic responses of tall buildings subject to wind loading. One of the objectives of this research is to study the importance of the torsional dynamic response, coupled with translational responses. Finite element modeling is used to assemble the stiffness matrix of the structure. Torsional degrees of freedom are considered in the stiffness formulation of elements and systems. Aerodynamic forces on a tall building are calculated assuming a deterministic, pseudo‐turbulent approach. These aerodynamic forces are distributed over the height of the building. The equivalent concentrated aerodynamic loads, acting at each floor level are calculated using the principle of virtual displacements. The governing differential equations are nonlinear. An iterative method of solution is used to calculate the responses. In order to simplify the solution procedure, a method of linearization is applied to the aerodynamic forces and the final result is a set of second order differential equations with constant coefficients. A 15‐story building is modeled as an application. One comparative study has been made between the finite element model and an equivalent continuous cantilever beam model. A second comparative study is between nonlinear and linear models. The results are presented as response spectra for different gust frequencies.
+
+
+    
+        AU - Brian A. Lynn
+    
+        AU - Theodore Stathopoulos
+    
+
+TI - Wind‐Induced Fatigue on Low Metal Buildings
+PT - Journal Article
+DP - 1985
+TA - Journal of Structural Engineering
+PG - 826-839
+VI - 111
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1985)111:4(826) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28826%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28826%29
+SO - Journal of Structural Engineering 1985-04-01 111(4): 826-839
+AB - Presently, fatigue is not considered a critical design factor for low metal buildings exposed to severe wind storms. Fatigue however, has been shown to be the only possible cause of several roof failures which occurred during cyclones. A simple approach for the evaluation of wind‐induced fatigue on low buildings is presented. The number and distribution of maxima occurring in wind pressures acting on low buildings are predicted analytically by a hybrid Gaussian‐Weibull extremum model. Experimental measurements in a boundary layer wind tunnel also support these analytical predictions. Windinduced fatigue data obtained for a case study by applying the present approach agree fairly well with full‐scale observations carried out after the cyclone Tracy hit Darwin, Australia, in 1974. It is concluded that a repeated loading test criterion should be introduced and design against wind‐induced fatigue should be carried out for low buildings in hurricane‐prone regions.
+
+
+    
+        AU - Henning Agerskov
+    
+        AU - Jørgen Bjørnbak‐Hansen
+    
+
+TI - Bolted Connections in Round Bar Steel Structures
+PT - Journal Article
+DP - 1985
+TA - Journal of Structural Engineering
+PG - 840-856
+VI - 111
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1985)111:4(840) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28840%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28840%29
+SO - Journal of Structural Engineering 1985-04-01 111(4): 840-856
+AB - High‐strength bolted connections in round bar steel structures in which the bolts are subjected to direct tension are studied. Special attention is paid to the prying action in the connection. A theory is developed that permits analysis of bolted end plate connections, including determination of the prying forces. The theory includes both the case in which separation in the bolt line occurs before, and the case in which it occurs after the reduced yield moment of the end plate is reached. A comparison of the results obtained from a test series carried out at the Technical University of Denmark with those obtained by means of the suggested design method shows little difference, the maximum deviation in bolt forces being about 8%. The tests show that, due to strain hardening in the end plate, a significant strength reserve exists beyond the yield load of the connection.
+
+
+    
+        AU - W. Scott McNary
+    
+        AU - Daniel P. Abrams
+    
+
+TI - Mechanics of Masonry in Compression
+PT - Journal Article
+DP - 1985
+TA - Journal of Structural Engineering
+PG - 857-870
+VI - 111
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1985)111:4(857) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28857%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28857%29
+SO - Journal of Structural Engineering 1985-04-01 111(4): 857-870
+AB - Strength and deformation of clay‐unit masonry under uniaxial concentric compressive force were investigated. Biaxial tension‐compression tests of bricks and triaxial compression tests of mortar were done to establish constitutive relations for each material. Mortar strengths and brick types were varied. Interaction effects of these two materials were examined using a theory proposed by others. A numerical model based on this theory was used to compute the force‐deformation relationship for a stack‐bond prism. Results of the analysis were compared with measured strengths and deformations of test prisms. Results of the study indicated that mechanics of clay‐unit masonry in compression could be well represented with a relatively simple model, and the most significant parameter to consider was the dilatant behavior of the mortar.
+
+
+    
+        AU - Peter LePoer Darvall
+    
+        AU - Priyantha Anuruddha Mendis
+    
+
+TI - Elastic‐Plastic‐Softening Analysis of Plane Frames
+PT - Journal Article
+DP - 1985
+TA - Journal of Structural Engineering
+PG - 871-888
+VI - 111
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1985)111:4(871) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28871%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28871%29
+SO - Journal of Structural Engineering 1985-04-01 111(4): 871-888
+AB - Softening of reinforced concrete sections at advanced curvatures in flexure is taken into account in collapse load analysis of frames. The analysis employs a trilinear elastic‐plastic‐softening approximation to real moment‐curvature curves, and elastic unloading and reloading from the softening curve is assumed. Formulas for hinge length in reinforced concrete flexural members are reviewed. Elements of a stiffness matrix for elastic elements with softening portions are derived. The stiffness matrix allows extension of the capability of an existing computer program for elastic‐plastic analysis to softening or hardening. Several examples demonstrate the application of computer program PAWS (Plastic Analysis with Softening) to concrete frame structures. A steeper softening slope reduces both the number of hinges formed before collapse and the collapse load, compared with elastic‐plastic behavior. Values of critical softening parameters for first or later formed hinges may be found using PAWS, and theoretical values are confirmed. Quite small softening parameters lead to large reductions in static collapse and shakedown loads, especially when there are significant residual moments.
+
+
+    
+        AU - Nat W. Krahl
+    
+        AU - Demir I. Karsan
+    
+
+TI - Axial Strength of Grouted Pile‐to‐Sleeve Connections
+PT - Journal Article
+DP - 1985
+TA - Journal of Structural Engineering
+PG - 889-905
+VI - 111
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1985)111:4(889) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28889%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28889%29
+SO - Journal of Structural Engineering 1985-04-01 111(4): 889-905
+AB - A new equation for the calculation of axial load transfer in grouted pile‐to‐sleeve connections, either with or without shear keys, is proposed. The general form of the equation was obtained from an ultimate strength formulation for a predicted failure mode of the connection. The ultimate strength equation states that the axial strength of the connection is equal to the sum of two terms: First, the strength of the adhesion and friction between the pile and grout, and, second, the product of the confined strength of the grout and the ratio of the shear key's height to its spacing. The first term was estimated from test results. The second term was estimated from both theoretical considerations and test results, with good agreement between the two approaches. The design equation proposed was obtained by applying separate factors of safety to the two terms. Comparison of the design equation to test data gave a safety index of 3.96 for connections without shear keys, and 4.80 for connections with shear keys. These values imply efficient and reliable design when using this design equation. The design equation has been written into the latest revision to the American Petroleum Institute code of recommended practice.
+
+
+    
+        AU - Anil K. Chopra
+    
+        AU - Solomon C.‐S. Yim
+    
+
+TI - Simplified Earthquake Analysis of Structures with Foundation Uplift
+PT - Journal Article
+DP - 1985
+TA - Journal of Structural Engineering
+PG - 906-930
+VI - 111
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1985)111:4(906) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28906%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28906%29
+SO - Journal of Structural Engineering 1985-04-01 111(4): 906-930
+AB - Simplified analysis procedures are developed to consider the beneficial effects of foundation‐mat uplift in computing the earthquake response of structures, which respond essentially as single‐degree‐of‐freedom systems in their fixed‐base condition. These analysis procedures are presented for structures attached to a rigid foundation mat, which is supported on rigid foundation soil or flexible foundation soil modeled as two spring‐damper elements. Winkler foundation with distributed spring‐damper elements, or a viscoelastic half‐space. In these analysis procedures, the maximum earthquake‐induced base shear and deformation for an uplifting structure are computed directly from the earthquake response spectrum. It is demonstrated that the simplified analysis procedures provide results for the maximum base shear and deformation to a useful degree of accuracy for practical structural design.
+
+
+    
+        AU - Shan Somayaji
+    
+
+TI - Composite Beam Design Using Interaction Diagram
+PT - Journal Article
+DP - 1985
+TA - Journal of Structural Engineering
+PG - 933-938
+VI - 111
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1985)111:4(933) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28933%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28933%29
+SO - Journal of Structural Engineering 1985-04-01 111(4): 933-938
+AB - The interaction diagram approach for design of prestressed concrete members is extended for design of composite prestressed beams with one or more than one critical section. A systematic approach for the selection of prestressing force and eccentricity is presented and compared with the conventional approach which is one of trial and error. In addition, the use of the interaction diagram and the resulting valid domain provides a visual description concerning the safety of the cross section as well as clues for modifications in the design when it is found unsafe.
+
+
+    
+        AU - Emil Simiu
+    
+        AU - Erik M. Hendrickson
+    
+        AU - William A. Nolan
+    
+        AU - Ingram Olkin
+    
+        AU - Clifford H. Spiegelman
+    
+
+TI - Multivariate Distributions of Directional Wind Speeds
+PT - Journal Article
+DP - 1985
+TA - Journal of Structural Engineering
+PG - 939-943
+VI - 111
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1985)111:4(939) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28939%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28939%29
+SO - Journal of Structural Engineering 1985-04-01 111(4): 939-943
+AB - The probability of failure of a structure or structural element subjected to wind forces depends, in large part, on the distribution of extreme wind speeds acting on the structure. In the past, distributions of extreme wind speeds were based on extreme wind data without regard to wind direction, and probabilities of failure were computed accordingly. A method is presented herein for calculating failure probabilities by using directional wind speed data as obtained from weather station records. The method takes advantage of the weak correlations found among wind speeds from different directions and the property of extreme value random variables that zero correlation implies statistical independence. The method is applicable to any type of structure, including structures exhibiting aerodynamic amplification or aeroelastic effects. In addition, it is shown that, in practice, the necessary distributions can be estimated almost as accurately from data obtained from readily available published documents as from data obtained from original weather records.
+
+
+    
+        AU - C. H. Chang
+    
+
+TI - Discussion of &#x201c;<i>Post&#x2010;Buckling Behavior</i>&#x201d; by Alexander Chajes (October, 1983)
+PT - Journal Article
+DP - 1985
+TA - Journal of Structural Engineering
+PG - 947-947
+VI - 111
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1985)111:4(947) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28947%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28947%29
+SO - Journal of Structural Engineering 1985-04-01 111(4): 947-947
+
+
+    
+        AU - R. J. Hoyle
+    
+        AU - R. Y. Itani
+    
+
+TI - Discussion of &#x201c;<i>Bibliography on Lumber and Wood Panel Diaphragms</i>&#x201d; by John Peterson (December, 1983)
+PT - Journal Article
+DP - 1985
+TA - Journal of Structural Engineering
+PG - 947-948
+VI - 111
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1985)111:4(947.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28947.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281985%29111%3A4%28947.2%29
+SO - Journal of Structural Engineering 1985-04-01 111(4): 947-948
+
+

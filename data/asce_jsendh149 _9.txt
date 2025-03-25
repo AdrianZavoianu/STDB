@@ -1,0 +1,454 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Richard Yip Je Too
+    
+        AU - Hiroshi Isoda
+    
+
+TI - Seismic Performance of CLT Shear Wall Infilled Hybrid Steel Frames with Concealed Steel Plates and Drift Pin Connections
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023111
+VI - 149
+IP - 9
+AID - 10.1061/JSENDH.STENG-12074 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12074
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12074
+SO - Journal of Structural Engineering 2023-09-01 149(9): 04023111
+AB - The rapid growth of urban populations and the environmental concerns associated with this growth challenge city planners and developers to consider more sustainable building systems. In Japan, the recent change in the law governing building standards and introduction of cross-laminated timber (CLT) offer the prospect of a further extension of the height of timber buildings to the high-rise category. Because of that, many researchers have begun to research the possibility of hybridizing CLT with steel-framed structures to increase the performance of buildings utilizing CLT. This paper presents the test and numerical results of cyclic loading experiments performed upon CLT shear wall infilled hybrid steel frames with concealed metal plates and drift pin (DP) connections. For the failure modes of the tests, shear failure of CLT at around 1/50–1/30  rad were observed in almost all specimens, except the specimen with slender steel beams, which led the CLT to out-of-plane deformation. The load sharing effect between two components were also evaluated, showing that the steel and CLT infill worked closely together to resist the lateral load. After the experiments, a numerical model was developed using the nonlinear finite analysis software SNAP V7.0 to predict the results of the experiments. The model was developed based on the results of element tests conducted previously, was validated using the test results, and can potentially serve as the basis for an appropriate form of methodology with which to design future CLT-steel hybrid structures for service in seismically active regions.
+
+
+    
+        AU - Soheil Shafaei
+    
+        AU - Amit Varma
+    
+        AU - Devin Huber
+    
+        AU - Ron Klemencic
+    
+
+TI - Lateral Load Behavior of C-PSW/CFs Using Steel Members as Boundary Elements
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023112
+VI - 149
+IP - 9
+AID - 10.1061/JSENDH.STENG-12085 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12085
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12085
+SO - Journal of Structural Engineering 2023-09-01 149(9): 04023112
+AB - Composite plate shear walls/concrete-filled (C-PSW/CFs), also known as SpeedCore systems, are a relatively new structural member in American codes and standards. Prior research has focused primarily on C-PSW/CF walls with either flange/closure plates or filled composite members as boundary elements. Walls without boundary elements have also been studied, but they are no longer permitted by the American Institute of Steel Construction (AISC 341-22). The reason is that composite walls without boundary elements do not provide adequate ductility for seismic design. This paper presents the results of experimental and numerical studies conducted to evaluate the cyclic lateral load behavior of C-PSW/CFs using hot-rolled structural steel members as boundary elements. The steel web plates of the C-PSW/CF specimens were connected to each other using threaded tie bars with double nut connections. Composite interaction between the steel and concrete infill was achieved using the tie bars and additional shear studs welded to the boundary elements. The composite walls were embedded and anchored to reinforced concrete foundation blocks using welded deformed bar anchors. The experimental investigations focused on the cyclic lateral load-drift responses including test observations and limit states, moment-rotation response of the plastic hinge and the section moment-curvature relationship, overall lateral stiffness, strength, and displacement ductility. The experimental results show that the specimens exceeded their nominal flexural capacities calculated using the plastic stress distribution method or fiber-based section modeling using measured material properties. The specimens had plastic hinge rotation capacity greater than 0.028&nbsp;rad. and displacement ductility ratio greater than 5.2. Detailed 3D nonlinear inelastic finite element models and simpler fiber-based macro models of the tested specimens were developed and benchmarked using experimental results. The detailed 3D finite element models can reasonably simulate the global and local behavior of the specimens, and are recommended for conducting further parametric studies of composite wall design details. Simpler fiber-based macro models can efficiently simulate the cyclic lateral load behavior of the specimens, and are recommended for modeling C-PSW/CFs while simulating the behavior of multi-story building structures.
+
+
+    
+        AU - Houlin Xu
+    
+        AU - A. Abdullah Dönmez
+    
+        AU - Hoang T. Nguyen
+    
+        AU - Zdeněk P. Bažant
+    
+
+TI - What We Can and Cannot Learn from a Single Shear Test of a Very Large RC Beam
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023113
+VI - 149
+IP - 9
+AID - 10.1061/JSENDH.STENG-12242 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12242
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12242
+SO - Journal of Structural Engineering 2023-09-01 149(9): 04023113
+AB - In the existing database on shear load capacity, tests of very large beams are scarce. Valuable additions to the database have recently been made in 2021 at the University of California, Berkeley (UCB), and in 2015 at the University of Toronto. These two tests were the largest ever among the standard three-point-bend type tests conducted so far. They verified the effects of beam size and of steel stirrups on the ultimate load, Vu, provided that the same concrete and steel are used. The present analysis, which deals in detail only with the UCB test, shows that the subsequent public blind competitions to predict the Vu measured in both tests were meritless and potentially misleading. The reason is that, similar to design codes, the only information provided to the competitors (besides the E modulus) was the required concrete compression strength, fc′, whereas the mean compressive and tensile strengths, fracture energy, initial creep data, and so on, were not provided. The fault of a competition of this kind is evidenced by (1)&nbsp;finite-element fracture simulations, (2)&nbsp;analysis of the huge statistical scatter of a database of 784 tests and a previous database in which fc′ was also the only concrete property used, like in the design code, and (3)&nbsp;estimation of the statistical error due to anchoring code provisions to the classical shear strength approximation 2fc′ (psi), which was set at about 65% below the mean of the data cloud in the database. The winning prediction of the UCB competition had an error of only 2.7% of the measured failure load, even though the probability of success is here shown to have been between 0.14% and 8.46%, with 0.90% being the best estimate. Hence, competitions of this type are, in essence, a lottery. Furthermore, the fact that the winning predictions in both competitions happened to be obtained by cross-section strain analysis based on beam mechanics, and no fracture mechanics, is potentially misleading. This, of course, does not detract from the value of the UCB and Toronto experiments as important and unique additions to the database and as verifications of the load capacity for the particular concrete used.
+
+
+    
+        AU - Shih-Ho Chao
+    
+        AU - Ghassan Almasabha
+    
+        AU - Brandon Price
+    
+        AU - Chatchai Jiansinlapadamrong
+    
+
+TI - A Horizontal Stiffener Detailing for Shear Links at the Link-to-Column Connection in Eccentrically Braced Frames
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023114
+VI - 149
+IP - 9
+AID - 10.1061/JSENDH.STENG-12090 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12090
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12090
+SO - Journal of Structural Engineering 2023-09-01 149(9): 04023114
+AB - This study investigates the performance and viability of a horizontal stiffener detailing (HSD) to (1)&nbsp;be used at the link-to-column connection in a D-braced eccentrically braced frame layout where conventional link-to-column connections show poor performance, (2)&nbsp;minimize the overstrength factor of shear links caused by the hardening of link flanges, and (3)&nbsp;mitigate an undesirable failure mechanism previously observed in shear links fabricated using ASTM A992 steel. HSD and conventional stiffener detailing (CSD) were tested using W460×60&nbsp;sections under two loading protocols, including one simulating near-collapse excitation. While the flanges of CSD shear links are greatly stiffened by vertical stiffeners, webs of HSD shear links exhibit inelastic buckling at large rotation angles. This allows the flanges to freely deform, thereby reducing the likelihood of brittle fracture at the flange connections, as well as undesirable link overstrength induced by the flange contribution. This study shows that the horizontal stiffener configuration developed a ductile failure mechanism resulting from gradually increasing local buckling in the web. The strength degradation of links with horizontal stiffener detailing was much more gradual due to the ever-increasing web buckling, unlike the sudden brittle fracture at the flange-to-column face of links with CSD. This research shows that the HSD is a viable and economic alternative for shear links, which has the potential to decrease welding in the shear link while exhibiting adequate seismic performance. HSD also maintains a low overstrength factor and utilizes a simplistic design approach. Finally, the bolted extended end-plate connection and its details at the link ends used in the test experiment provided a viable solution for replaceable links.
+
+
+    
+        AU - Benjamin N. Hayes
+    
+        AU - Maria Koliou
+    
+        AU - John W. van de Lindt
+    
+
+TI - Seismic Behavior of Balloon Frame Cross-Laminated Timber Connections
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023115
+VI - 149
+IP - 9
+AID - 10.1061/JSENDH.STENG-11984 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11984
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11984
+SO - Journal of Structural Engineering 2023-09-01 149(9): 04023115
+AB - Cross-laminated timber (CLT) is an innovative building material that has become increasingly popular in midrise building construction due to its rapid assembly capability, environmental friendliness, and beneficial strength-to-weight ratio. Currently, CLT balloon-style construction requires the engineering team to use the alternative means procedure within design standards for areas of high seismicity in the US. This study experimentally investigated the behavior of CLT balloon-style construction connections and characterized their behavior. Various wall-to-floor and panel-to-panel connections were identified in the test matrix and tested under monotonic and cyclic loads. A series of full-scale CLT shear wall tests focusing on the response of connections was conducted, adopting a biaxial loading protocol to characterize connection and system response to loading in two directions.
+
+
+    
+        AU - Ho-Jun Lee
+    
+        AU - Hong-Gun Park
+    
+        AU - Hyeon-Jong Hwang
+    
+
+TI - Flexure-Shear Capacity of Perforated Steel Beams Reinforced with Novel Ring Plates
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023116
+VI - 149
+IP - 9
+AID - 10.1061/JSENDH.STENG-12200 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12200
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12200
+SO - Journal of Structural Engineering 2023-09-01 149(9): 04023116
+AB - A web opening at the end zone of an I-section steel beam decreases the load-carrying capacity of the steel member. In the present study, a reinforcement method for circular web opening was investigated, applying novel half-ring plates for better economy. To validate the structural performance of the proposed reinforcement, cyclic loading tests were performed on cantilever beams having a web opening adjacent to the plastic hinge zone. The test parameters were shear span-to-depth ratio (i.e.,&nbsp;L/d=4.9 or 2.9), opening diameter-to-beam depth ratio (i.e.,&nbsp;H/d=0.5 or 0.67), and ring-to-opening diameter ratio (i.e.,&nbsp;2R/H=1.3, 1.5, or 1.7). The test results showed that the ring plates successfully strengthened the web opening, developing a plastic hinge at the beam end. Further, irrespective of the design parameters and failure modes, the load-carrying capacity of the reinforced specimens was maintained up to large inelastic deformation. This result indicates that the plate-reinforcing method is effective for increasing both strength and deformation capacity of the perforated beams. To evaluate the flexure-shear capacity of the reinforced opening, an existing model for circular web opening without reinforcement was modified. The predicted flexure-shear interactions agreed well with the test strengths. On the basis of the test results, design considerations for the proposed reinforcement method are recommended.
+
+
+    
+        AU - Zizhou Ding
+    
+        AU - Ahmed Elkady
+    
+
+TI - Semirigid Bolted Endplate Moment Connections: Review and Experimental-Based Assessment of Available Predictive Models
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023117
+VI - 149
+IP - 9
+AID - 10.1061/JSENDH.STENG-11797 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11797
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11797
+SO - Journal of Structural Engineering 2023-09-01 149(9): 04023117
+AB - Semirigid bolted endplate moment connections are widely used in construction practice. These connections are mainly designed to resist gravity, wind, and low to moderate seismic loads. In elastoplastic designs and nonlinear system-level simulations, it is key to accurately predict or model the connection response (i.e.,&nbsp;stiffness, strength, and ductility), rather than employing the simplified pinned or rigid idealization. Several researchers developed different empirical, analytical, and mechanical models within the past five decades to predict the connection’s full response or key response parameters. These models are generally developed and validated based on a limited experimental and/or simulation data set; hence, their accuracy and general applicability are not well established. The potential limitations of existing models arise from the complexity of flexible connections’ response due to the multitude of deforming components and the interactions between them. Accordingly, the objective of this study is to provide a comprehensive review of existing numerical models and their main assumptions and features, and to assess their accuracy. Emphasis is placed on flush and extended endplate connections, being the most commonly used connection types. The robustness of 16 numerical models was thoroughly assessed using an experimental database of more than 1,200 specimens that was recently collated. The assessment demonstrates the inaccuracy of existing models in predicting the connection fundamental response quantities, particularly the elastic rotational stiffness and ductility. The advantages and disadvantages of each model are highlighted to guide future efforts to develop more accurate models in support of performance-based engineering.
+
+
+    
+        AU - Sheldon C. Twizell
+    
+        AU - Xiao Lin “Dimple” Ji
+    
+        AU - Ali Imanpour
+    
+        AU - Robert G. Driver
+    
+
+TI - Lateral–Torsional and Distortional Buckling of I-Shaped Welded Steel Girders
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023118
+VI - 149
+IP - 9
+AID - 10.1061/JSENDH.STENG-11961 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11961
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11961
+SO - Journal of Structural Engineering 2023-09-01 149(9): 04023118
+AB - This paper presents the experimental testing and numerical simulations of four full-scale I-shaped welded steel girders to examine their lateral–torsional buckling (LTB) and lateral–distortional buckling (LDB) behaviors and evaluate the adequacy of the associated provisions in North American steel design standards. The test specimens and setup are first presented, followed by the experimental test results used to assess the inelastic LTB and LDB behaviors. A corroborated finite-element model is then used to further evaluate the influences of web distortion on the flexural response of the girders and to assess the adequacy of the design provisions when applied to girders with web depth-to-thickness ratios close to the Class 2/3, or compact/noncompact boundary (i.e.,&nbsp;h/w≈90). The results show that LDB, in combination with inelastic LTB, influences the flexural response and resistance of welded steel girders with webs of this slenderness. Furthermore, the North American steel design provisions may overestimate the flexural moment resistance of such girders.
+
+
+    
+        AU - Jie Wang
+    
+        AU - Jin Di
+    
+        AU - Qian Zhang
+    
+        AU - Fengjiang Qin
+    
+        AU - Pengfei Men
+    
+
+TI - Local Buckling of Axially Compressed Welded H-Section Stub Columns Using Q420–Q960 Steel
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023119
+VI - 149
+IP - 9
+AID - 10.1061/JSENDH.STENG-12107 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12107
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12107
+SO - Journal of Structural Engineering 2023-09-01 149(9): 04023119
+AB - There is a lack of reliable research regarding the current engineering specifications considering the broad applications of high-strength steel (HSS) in civil engineering. Axial compression tests were performed on 12 HSS welded H-section stub columns using Q420–Q960 grade steels to study their local buckling behavior. In addition, we performed a parametric analysis using a finite-element model (FEM). Prior to the tests, the initial geometric imperfections and material properties of the specimens were measured to ensure that they satisfy the relevant engineering specifications. Twelve specimens exhibited typical local buckling. The axial deformation and axial strain were analyzed, and the utilization rate of the steel strength decreases with an increase in the yield strength and width–thickness ratio. Furthermore, a close relationship was observed between the occurrence of local buckling in the flange and the web. The results also indicate that the postbuckling strength of the axially compressed HSS welded H-section stub columns with slender sections cannot be ignored. The test results were used to verify the accuracy of the FEM, which considers the initial geometric imperfections and welding residual stress. For the Q420–Q960 steel welded H-section stub columns, parametric analysis was performed using the verified FEM to evaluate the limits of the width–thickness ratio and ultimate axially compressed bearing capacity. To apply current European, American, and Chinese codes, the modification factors for the width-thickness ratio limit and ultimate bearing capacity are given.
+
+
+    
+        AU - Weijian Zhao
+    
+        AU - Kai Jiang
+    
+        AU - Yuanzhang Yang
+    
+
+TI - Numerical Simulation of Bent Corner of FRP Stirrups with Rectangular Cross Sections
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023120
+VI - 149
+IP - 9
+AID - 10.1061/JSENDH.STENG-11950 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11950
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11950
+SO - Journal of Structural Engineering 2023-09-01 149(9): 04023120
+AB - Due to the strength reduction at the bent corners of fiber-reinforced polymer (FRP) stirrups, the high tensile strength of FRP reinforcement cannot be fully utilized in concrete structures. Although numerous experimental investigations have been conducted to study the reduced bent-corner strength, the mechanism of the strength reduction at bent corners has not been fully understood. This paper presents numerical research into the bent-corner strength of FRP stirrups with rectangular cross sections. Refined finite-element models are established based on Hashin’s failure criterion and their validities are verified against six groups of 18 FRP stirrup specimens. Analyses of stress concentration in the elastic range and damage accumulation afterward are conducted to explain the mechanism of strength reduction at the bent corners of FRP stirrups. Further parametric analyses are conducted to quantitatively evaluate the contributing factors to the bent-corner strength and an empirical prediction equation is proposed. This research shows that the bond, compressive stress from concrete, and FRP material anisotropy are the critical contributors to the tensile stress concentration in the elastic range at the bent corners, which accounts for 7%, 48%, and 45% of the tensile stress concentration, respectively. The parametric analyses show that better bonding at the bent corners could potentially result in lower strength; the concrete properties and FRP width have limited influence on the bent-corner strength; and the bent-corner strength has logarithmic relation with the bent radius and thickness ratio of (R/t). This work reveals the critical mechanism of strength reduction of FRP stirrups at bent corners in concrete structures and potentially provides the opportunity for more efficient material use of FRP reinforcement.
+
+
+    
+        AU - Xinyi Cheng
+    
+        AU - Benoit P. Gilbert
+    
+        AU - Chunhao Lyu
+    
+        AU - Hong Guan
+    
+
+TI - Strain Rate Effect on the Embedment Mechanical Properties and Fracture Behavior of Softwood Laminated Veneer Lumbers: Implications to Timber Connections
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023121
+VI - 149
+IP - 9
+AID - 10.1061/JSENDH.STENG-12508 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12508
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12508
+SO - Journal of Structural Engineering 2023-09-01 149(9): 04023121
+AB - This paper experimentally investigates the influence of the strain rate experienced during earthquake and progressive collapse events on mechanical properties affecting the design of softwood laminated veneer lumber timber connections. The parallel and perpendicular to grain embedment stiffness and strength, tension strength perpendicular to grain, and Mode I and II fracture energies were examined under four levels of strain rates. Results showed that the embedment stiffness and strength increased by up to 35% from the quasi-static to dynamic strain rates, whereas the embedment ductility decreased by up to 17%. The fracture energies and tension strength perpendicular to grain were found to be mostly insensitive to the investigated range of strain rates. Furthermore, the influence of the strain rate on the behavior of timber connections is analyzed and discussed by (1)&nbsp;using the experimental data in the European standard design equations for single and double shear connections; and (2)&nbsp;quasi-statically and dynamically testing one connection type with two different fastener spacings. Results showed that for the connections investigated, the dynamic strength can be up to 30% higher than the quasi-static one, however, the dynamic ductility of the connections can be reduced substantially by up to 32.5%.
+
+
+    
+        AU - Shashank Gupta
+    
+        AU - Brett Banfill
+    
+        AU - Vasant Matsagar
+    
+
+TI - MDOF Modeling and Blast Dynamic Behavior of Curtain Wall with Variable Damping Approach
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023122
+VI - 149
+IP - 9
+AID - 10.1061/JSENDH.STENG-12228 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12228
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12228
+SO - Journal of Structural Engineering 2023-09-01 149(9): 04023122
+AB - In the present paper, a semi-active damping control approach is proposed for the resilient design of façades subjected to extreme loads in the form of blast excitation. A 4&nbsp;degrees of freedom (4DOF) model is developed to explore the effectiveness of the controlled variable damping, obtained by introducing magnetorheological (MR) dampers at the anchorage points of the curtain wall (CW). The modified Bouc-Wen model is incorporated into the multi-degree of freedom (MDOF) model and fuzzy logic control (FLC) is used to obtain continuously variable command voltage for damper coils, and thereby variable damping in the CW system. Dynamic displacement responses are evaluated for a specific system under different levels of blast loading to assess the structural integrity of the CW components, i.e.,&nbsp;the glass and the frame. Pressure-impulse (PI) iso-damage curves are obtained for three damage states: glass cracking, membrane tearing, and frame yielding. Detailed parametric studies are carried out to demonstrate the versatility and superiority of the semi-active controlled variable damping approach toward the blast-resilient design of glass façades.
+
+
+    
+        AU - Yun Zhou
+    
+        AU - Baozheng Zhang
+    
+        AU - Hyeon-Jong Hwang
+    
+        AU - Jinnan Hu
+    
+        AU - Kai Qian
+    
+        AU - Zhengrong Zhu
+    
+        AU - Weijian Yi
+    
+        AU - Heng Pan
+    
+        AU - Su-Min Kang
+    
+
+TI - Static Load Test on Progressive Collapse Resistance of Precast Prestressed Hollow Core Slabs
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023123
+VI - 149
+IP - 9
+AID - 10.1061/JSENDH.STENG-11902 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11902
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11902
+SO - Journal of Structural Engineering 2023-09-01 149(9): 04023123
+AB - Precast prestressed hollow core slabs (PPHCSs) are widely used in the construction of multistory cross-wall structures, but the floors are vulnerable to progressive collapse induced by unexpected loadings due to weak links between PPHCSs. Despite this fact, limited studies have been carried out on the progressive collapse resistance of PPHCSs. In this study, quasi-static tests were conducted to evaluate the progressive collapse resistance of PPHCSs. The test parameters were the types of connectors [i.e.,&nbsp;single rebar connector (S1), double rebar connector (S2), partially debonded rebar connector (S3), kinked rebar connector (S4), and partial hinge rebar connector (S5)]. The progressive collapse resistance including the load-carrying capacity, deformation capacity, failure modes, and main load-resisting mechanism was evaluated. The energy dissipation capacity of all specimens was estimated based on the energy balance principle, and the energy dissipation capacity of S5 was 91%, 303%, 190%, and 85% greater than that of S1–S4, respectively. Further, the pseudo-static response of each specimen was calculated using a simplified dynamic assessment method. The test results revealed that all specimens generated effective compressive arch action and catenary action, and the ultimate strength (72.56&nbsp;kN) of S5 using partial hinge was 64%, 334%, 110%, and 45% greater than that of S1–S4, respectively.
+
+
+    
+        AU - Duhang Yi
+    
+        AU - Yuanqing Fan
+    
+        AU - Yi Pan
+    
+        AU - Jiacong Yuan
+    
+
+TI - Seismic Behavior of Predamaged Mortise-and-Tenon Joints Reinforced Using Viscoelastic Dampers
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023124
+VI - 149
+IP - 9
+AID - 10.1061/JSENDH.STENG-12395 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12395
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12395
+SO - Journal of Structural Engineering 2023-09-01 149(9): 04023124
+AB - Mortise-tenon joints are the key load-bearing and energy-dissipating connections in conventional timber structures. The stiffness and damping ratio completely degradation of the key joints in an existing wooden frame due to resistance to several seismic events. Accordingly, an efficient and appropriate repair and reinforcement method for damaged mortise and tenon connections is needed. This paper follows a direct displacement-based design procedure to quantify the mechanical performance parameters of viscoelastic dampers, thus supplementing the two degradation characteristics of earthquake-damaged joints in a conventional timber structure. The reinforced joints are designed for performance objectives that restore the seismic abilities and limit the tenon pull-out. Meanwhile, the maximum rotation angle of the reinforced joints satisfies the Chinese code-based rotation angle limit value of 0.033&nbsp;rad requirement. For this purpose, quasistatic cyclic predamaged tests were first conducted on twelve mortise-tenon joints with four connection configurations. Subsequently, the predamaged joints were reinforced with a designed viscoelastic damper and reloaded. Test results indicated that the original cracks did not propagate in the design rotation angle limit of 0.1&nbsp;rad after adding a damper. Moreover, smaller lengths of tenon pull-out, lower strength degradations, excellent bearing capacities, and sufficient energy dissipation capacities were demonstrated by the reinforced joints.
+
+
+    
+        AU - Seon-Hu Kim
+    
+        AU - Cheol-Ho Lee
+    
+
+TI - Experimental Investigation of Cold-Formed High Strength Steel K Joints
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023125
+VI - 149
+IP - 9
+AID - 10.1061/JSENDH.STENG-12500 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12500
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12500
+SO - Journal of Structural Engineering 2023-09-01 149(9): 04023125
+AB - One of the main challenges in applying high strength steel to tubular structures is appropriate design of the welded joints between high strength steel tubular members, i.e.,&nbsp;high strength steel tubular joints. Although certain design standards have provided design guidance for tubular joints with steel grades up to S460 or S700, it is generally agreed that current design provisions for high strength steel tubular joints recommended by the design standards need further validation based on experimental evidence. Results of a recent testing program on cold-formed high strength steel K joints are presented in this paper to augment the test database of high strength steel tubular joints and evaluate related design provisions in the revised draft of EN 1993-1-8 (prEN 1993-1-8) including the material factor and the yield ratio limit (fy≤0.8fu). The material factor 0.9 for grade 460 steel is found to be appropriate for the ductile chord failure (plastification) of circular hollow section (CHS) K gap joints. However, it is observed that brace fracture can also be involved in the failure of CHS K gap joints when high strength steel is used, although this kind of limit state is currently not covered by prEN 1993-1-8. For CHS K overlap joints and box section K gap joints fabricated from grade 460 steels, the prEN 1993-1-8 equations provide unconservative design resistances or design resistances with insufficient margin of safety. Particularly, it is pointed out that the widely accepted rules to determine the effective width properties may be unconservative for high strength steel joints.
+
+
+    
+        AU - Y. P. Sun
+    
+        AU - G. C. Cai
+    
+
+TI - Seismic Behavior of Circular Concrete Columns Reinforced by Low Bond Ultrahigh Strength Rebars
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023126
+VI - 149
+IP - 9
+AID - 10.1061/JSENDH.STENG-10296 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-10296
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-10296
+SO - Journal of Structural Engineering 2023-09-01 149(9): 04023126
+AB - To develop a resilient reinforced concrete frame structure, the seismic performance of circular concrete columns reinforced by low bond ultrahigh strength (LBUS) rebars is investigated experimentally in this paper. Eight 1/3-scale circular columns with LBUS rebars confined by spirals or steel plates were tested. Compared with the columns with high strength reinforcements with a normal bond, the columns with LBUS rebars exhibited better seismic performance and higher self-centering regardless of their lateral confinement methods. This is explained by the strong restoring force provided by the ultrahigh steel rebars and the small physical damage of concrete surrounding LBUS rebars’ surface during large deformations. All the features reduce the degradation of the load-carrying capacity of the columns induced by the P-Δ effect and serious spalling of concrete cover. Several models for predicting the hysteretic response and the energy dissipation capacity of the columns were proposed and their accuracy and reliability was presented by comparing them with their experimental results. The results prove that it is possible to achieve a resilient reinforced concrete (RC) column with a high self-centering capability up to the drift ratio of 3.0% using the LBUS rebars, after which the column’s load-carrying remains almost the same or continues to increase until a drift ratio of 5.0% is reached.
+
+
+    
+        AU - Hongyu Chen
+    
+        AU - Hongguang Zhu
+    
+        AU - Yaowen Yang
+    
+        AU - Xiandong Kang
+    
+        AU - Fei Wang
+    
+
+TI - Experimental and Numerical Analysis of Prestressed Prefabricated Self-Centering IMS Composite Frame Joints
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023127
+VI - 149
+IP - 9
+AID - 10.1061/JSENDH.STENG-11658 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11658
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11658
+SO - Journal of Structural Engineering 2023-09-01 149(9): 04023127
+AB - Full-scale model tests of three integral prestressed prefabricated frame structure system (IMS) prestressed friction joint specimens under low cyclic loading were conducted to explore the factors influencing the hysteretic behavior of a new joint. The use of a high-strength grouting material (steel fiber) for joints was found to delay the damage of the grouting material under repeated loads and cause reduction of effective prestress. Additionally, replacing the prestressed reinforcement with unbonded prestresssed reinforcement in the precast column and the open channel near the column maximized the deformation capacity of the structure and reduced the structural damage and stiffness degradation in later stages. With an increase in the length of the unbonded section, the peak load of the specimen decreased and the energy consumption was worsened. To enhance the energy consumption of the joint, this study proposes a hybrid connection joint between the energy-consuming and prestressed reinforcements in the open slot. Using ABAQUS numerical modeling and analysis, the joint structure was further optimized and the variations in the energy consumption capacity of the hybrid joint with the position of the prestressed reinforcement, the proportions for the local weakening of energy-dissipating reinforcement, and the bonding mode were obtained. The numerical results demonstrated that the seismic performance index of the hybrid joint was comparable to or even higher than that of the cast-in-situ joint and indicated excellent self-centering and damage recover capacity.
+
+
+    
+        AU - M. Pharand
+    
+        AU - J.-P. Charron
+    
+
+TI - Experimental Investigation of the Shear Resistance Mechanism on Hybrid NSC-UHPC Predamaged and Undamaged Unidirectional Bridge Slabs
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04023128
+VI - 149
+IP - 9
+AID - 10.1061/JSENDH.STENG-12162 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12162
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12162
+SO - Journal of Structural Engineering 2023-09-01 149(9): 04023128
+AB - This paper investigates the shear behavior of unidirectional hybrid slabs made of a normal-strength concrete (NSC) substrate and an ultrahigh-performance concrete (UHPC) overlay on the tensile side. The impacts of two important aspects on the shear behavior were studied. First, various strengthening configurations (thickness, with or without NSC substitution, with existing and/or new rebars) were investigated, specifically two configurations scarcely studied in the scientific literature. Second, the state of damage of the NSC slab prior to the overlay application was examined for the first time. The hybrid slabs tested behaved monolithically until the establishment of a composite mechanical action occurring at up to 1.66 times the reference shear resistance. The composite mechanical action offered structural hardening with significant increase of shear resistance up to 2.50 times the reference shear resistance. Strain distribution and reorganization was monitored on the slabs using digital image correlation technology, and showed creation of a strut and tie system in four successive steps. Both the UHPC thickness and the total area of longitudinal rebar had a significant impact on the ultimate shear resistance. The effect of the load history on the ultimate shear resistance was limited, and partly masked by the combined effect of the type of NSC-UHPC interface and the overlay configuration influencing the crack pattern.
+
+
+    
+        AU - Knut Andreas Kvåle
+    
+        AU - Aksel Fenerci
+    
+        AU - Øyvind Wiig Petersen
+    
+        AU - Anders Rønnquist
+    
+        AU - Ole Øiseth
+    
+
+TI - Data Set from Long-Term Wave, Wind, and Response Monitoring of the Bergsøysund Bridge
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04723002
+VI - 149
+IP - 9
+AID - 10.1061/JSENDH.STENG-12095 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12095
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12095
+SO - Journal of Structural Engineering 2023-09-01 149(9): 04723002
+AB - Wind, wave, displacement, and acceleration data have been collected in a measurement campaign on Norway’s Bergsøysund Bridge, an end-supported pontoon bridge, between the years 2014 and 2018. The data set is now available in an open-access research entry for free access and download. The data are collected in two hierarchical data format (h5) files, with sampling rates of 2 and 10&nbsp;Hz, downsampled from the raw sampling rate of 200&nbsp;Hz. The data have undergone some minimal signal processing and adjustment. Some examples of how to import and browse through the data using an openly available Python package are also given.
+
+

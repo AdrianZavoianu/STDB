@@ -1,0 +1,279 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - A. M. Kanvinde
+    
+        AU - D. A. Grilli
+    
+        AU - F. Zareian
+    
+
+TI - Rotational Stiffness of Exposed Column Base Connections: Experiments and Analytical Models
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 549-560
+VI - 138
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0000495 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000495
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000495
+SO - Journal of Structural Engineering 2012-05-01 138(5): 549-560
+AB - The rotational flexibility of column base connections is often ignored in structural simulation of moment frames in which the bases are assumed to be either fixed or pinned. Although structural response is sensitive to base flexibility, methods to properly characterize base flexibility are not readily available. Motivated by these issues, a new approach to characterize the rotational flexibility of exposed column base connections is presented in this paper. The method leverages existing design procedures for base connection design, such that the rotational stiffness may be calculated with modest effort once the design has been completed. The method is validated through comparison with nine experiments, which interrogate a range of parameters including base-plate size and thickness, level of axial load, anchor-rod strength, and concrete strength. The comparison between the test and the predicted values indicates that, on average, the method predicts the stiffness with accuracy, such that the average test-to-predicted ratio is 0.89. The method is particularly accurate for conditions in which the moment-to-axial-load ratio is large, whereas it overestimates the stiffness of connections with high axial load, relative to the applied moment. A detailed analysis of the results is presented, accompanied by a discussion of the limitations of the proposed approach.
+
+
+    
+        AU - Matthew Fadden
+    
+        AU - Jason McCormick
+    
+
+TI - Cyclic Quasi-Static Testing of Hollow Structural Section Beam Members
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 561-570
+VI - 138
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0000506 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000506
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000506
+SO - Journal of Structural Engineering 2012-05-01 138(5): 561-570
+AB - The efficient compression, torsion, and bending behavior of hollow structural sections (HSS) combined with their high strength-to-weight ratio provide an opportunity to further their use in seismic applications and improve on structural performance. However, current applications of HSS in seismic systems are restricted because of a limited understanding of their cyclic bending behavior. To characterize the behavior of HSS under pure bending and determine limiting values for their use up to large rotation levels, 11 different HSS beam members ranging in size from HSS 203.2×101.6×6.4  mm to HSS 304.8×152.4×6.4  mm with thickness of 6.4 and 9.5&nbsp;mm are tested under cyclic bending loads. The moment-rotation results suggest that the width-thickness and depth-thickness ratios are important in determining whether a stable plastic hinge can be sustained during cycling, ensuring adequate ductility. Cycling effects associated with increasing rotation levels and multiple cycles at the same level are considered with respect to the degradation of the moment capacity, rotation capacity, secant stiffness, and energy dissipation. It is clear that the influence of the width-thickness ratio and depth-thickness ratio is not independent of one other. Flange strains also provide an understanding of how yielding propagates along the length of the member and at what point local buckling begins to occur. In general, the findings suggest that HSS can be used in cyclic bending applications provided that their parameters are selected carefully to ensure stable plastic hinging behavior.
+
+
+    
+        AU - Yoshiaki Goto
+    
+        AU - Kosuke Mizuno
+    
+        AU - Ghosh Prosenjit Kumar
+    
+
+TI - Nonlinear Finite Element Analysis for Cyclic Behavior of Thin-Walled Stiffened Rectangular Steel Columns with In-Filled Concrete
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 571-584
+VI - 138
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0000504 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000504
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000504
+SO - Journal of Structural Engineering 2012-05-01 138(5): 571-584
+AB - The strength, ductility, and energy dissipation capacity of thin-walled, stiffened rectangular concrete-filled steel columns (thin-walled stiffened RCFT columns) subjected to cyclic loads are significantly upgraded by filling with concrete the internal hollow space of rectangular steel tube with longitudinal stiffeners and diaphragms. However, because of the accumulation of plastic strains and the high tensile stress concentration in thin-walled steel columns, metal fracture sometimes occurs before the columns develop their high strength and ductility. To elucidate the behavior of CFT columns and prevent the premature failure resulting from metal fracture, it is necessary to develop some geometrically and materially nonlinear finite element (FE) models that can accurately take into account important factors such as cyclic local buckling, stress and strain concentrations in the steel tube, confinement of the in-filled concrete, and interface action between steel tube and in-filled concrete. In this paper an accurate and yet, numerically stable FE model, which fully includes these important factors, is proposed. The accuracy of the proposed model is confirmed by comparison with the existing cyclic-loading tests on thin-walled stiffened RCFT columns. By utilizing the numerical results obtained by the proposed FE model, the upgrading mechanism and metal fracture of thin-walled stiffened RCFT columns are discussed in detail.
+
+
+    
+        AU - Paolo Franchin
+    
+        AU - Paolo E. Pinto
+    
+
+TI - Method for Probabilistic Displacement-Based Design of RC Structures
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 585-591
+VI - 138
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0000492 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000492
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000492
+SO - Journal of Structural Engineering 2012-05-01 138(5): 585-591
+AB - An approximate method is proposed for seismic design of reinforced concrete (RC) structures to meet multiple structural performance requirements expressed in terms of exceedance probabilities. The method is approximate in nature and rests on two main results: (1)&nbsp;the closed-form solution for the mean annual rate of exceedance of a limit state and (2)&nbsp;the empirical equal-displacement rule. Compliance with design objectives is obtained through a gradient-based search algorithm in the space of the design variables with reference to a linear elastic proxy of the structure. To this purpose, analytical gradients for Cornell’s formula are derived. An application illustrates the method and its validation through inelastic time-history analysis. From the limited investigation carried out, the method appears to offer satisfactory accuracy.
+
+
+    
+        AU - Svetlana M. Kostic
+    
+        AU - Filip C. Filippou
+    
+
+TI - Section Discretization of Fiber Beam-Column Elements for Cyclic Inelastic Response
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 592-601
+VI - 138
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0000501 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000501
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000501
+SO - Journal of Structural Engineering 2012-05-01 138(5): 592-601
+AB - The paper presents studies of the effect of the number of material integration points at the monitored sections of fiber beam-column elements on the local response of typical structural cross sections under an extensive set of cyclic biaxial load conditions with constant and variable axial load. The study covers wide-flange steel sections and rectangular reinforced concrete sections. The integration over the section uses the midpoint rule and shows that a standard section discretization with relatively few fibers is a good compromise between accuracy and economy of means. The proposed coarse section discretization schemes are computationally efficient while ensuring the accurate representation of important aspects of the three-dimensional response of structural members, such as interaction of axial force with biaxial bending moment, effect of residual stress in steel members, and effect of cracking in reinforced concrete members. The local strain response is also represented with good accuracy by the coarse discretization schemes.
+
+
+    
+        AU - W. Leonardo Cortés-Puentes
+    
+        AU - Dan Palermo
+    
+
+TI - Modeling of RC Shear Walls Retrofitted with Steel Plates or FRP Sheets
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 602-612
+VI - 138
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0000466 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000466
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000466
+SO - Journal of Structural Engineering 2012-05-01 138(5): 602-612
+AB - Advancements in the nonlinear finite-element method have resulted in reliable simulations of response for reinforced concrete (RC) structures, provided that an analysis program with comprehensive models for material and structural behavior is employed. However, a need to provide simple, yet adaptive modeling guidelines for engineers and researchers using these tools exists, specifically for structures retrofitted with external materials for which bond behavior with the existing concrete surface is critical. Nonlinear analyses were conducted in this study to provide modeling procedures that can satisfactorily replicate the response of retrofitted RC shear walls. The retrofitting strategies included bolting of steel plates, bonding of external steel plates and fiber-reinforced polymer (FRP) sheets, and addition of steel plates with delay mechanisms. The modeling used simple rectangular and triangular membrane elements for concrete with smeared internal reinforcement, truss bar elements for external steel and FRP retrofitting materials, and bond-link elements for the bonding interface between steel and FRP to concrete. Critical to the success of the analyses was the development of constitutive bond-slip models for the link elements to simulate slotted steel connections, which function as a delay mechanism, and for anchorage of FRP sheets to concrete foundations. The analyses satisfactorily simulated seismic behavior, including lateral load capacity, displacement capacity, energy dissipation, hysteretic response, slip between the retrofitting material and the concrete structure, and failure mode.
+
+
+    
+        AU - Long Nguyen-Minh
+    
+        AU - Marián Rovňák
+    
+        AU - Toan Tran-Quoc
+    
+
+TI - Punching Shear Capacity of Interior SFRC Slab-Column Connections
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 613-624
+VI - 138
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0000497 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000497
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000497
+SO - Journal of Structural Engineering 2012-05-01 138(5): 613-624
+AB - The paper deals with the punching shear behavior and the capacity of interior steel fiber-reinforced concrete (SFRC) slab-column connections. In the experimental study, the effect of the amount of fibers on the punching shear resistance and cracking behavior of slabs was investigated on a total of 12 small-scale flat slabs of varying dimensions. The results show a significant increase in the punching shear capacity, reduction of the average crack widths, and improved integrity of the SFRC slab-column connections in the postcracking stage in comparison with conventional reinforced concrete slabs. A new semiempirical, fracture-mechanics-based formula for estimation of the punching shear resistance of the interior SFRC slab-column connections is also presented in the paper. Its accuracy was verified through the comparison of the test results provided by the authors with those of other researchers, as well as with some already published formulas. The obtained results show that the proposed formula provides a higher prediction accuracy of the punching shear capacity of the SFRC slab-column connections in comparison with the existing prediction formulas.
+
+
+    
+        AU - Martien Teich
+    
+        AU - Norbert Gebbeken
+    
+
+TI - Structures Subjected to Low-Level Blast Loads: Analysis of Aerodynamic Damping and Fluid-Structure Interaction
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 625-635
+VI - 138
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0000493 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000493
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000493
+SO - Journal of Structural Engineering 2012-05-01 138(5): 625-635
+AB - This paper presents the structural behavior of idealized linear single-degree-of-freedom systems subjected to weak blast loads. The authors derive a new coupling model taking into account fluid-structure interaction (FSI) and aerodynamic damping resulting from the surrounding air. This model contributes to a better understanding of the physical coupling phenomena and can be used for the validation of more complex numerical models. Especially mass and stiffness determine the effects of aerodynamic damping and FSI on the deformations, internal forces, and energy contributions. Although the coupling effects are negligible for stiff or heavy systems (e.g.,&nbsp;reinforced concrete structures), they significantly influence the structural response of flexible and light systems (e.g.,&nbsp;membrane structures or glazing facades). On the basis of the new coupling model, the authors derive a decoupled model incorporating aerodynamic damping and FSI effects. This decoupled model is derived on the basis of an equivalent viscous damping ratio depending on mass and structural stiffness. Finally, a response spectrum is derived, synthesizing the discussed results.
+
+
+    
+        AU - Johnn P. Judd
+    
+        AU - Fernando S. Fonseca
+    
+        AU - Carson R. Walker
+    
+        AU - Paul R. Thorley
+    
+
+TI - Tensile Strength of Varied-Angle Mortise and Tenon Connections in Timber Frames
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 636-644
+VI - 138
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0000468 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000468
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000468
+SO - Journal of Structural Engineering 2012-05-01 138(5): 636-644
+AB - The tensile strength of varied-angle mortise and tenon connections in timber frames is discussed in this paper. Twelve full-size mortise and tenon connections (four 90°, four 67.5°, and four 45°) were tested under monotonic tensile loading. Initial yield modes observed during testing included peg bending, peg shear, tenon tear out, and mortise splitting. Decreased connection angle corresponded to equal or increased tensile strength but decreased ductility. A theoretical method to calculate the tensile strength of mortise and tenon connections is also developed. The method uses a modified set of yield-limit equations supplemented with local-stress-effect (mortise splitting and row tear out) equations to predict tensile strength. The governing theoretical yield modes agree well with yield modes observed during testing. The theoretical tensile strength is reasonably accurate, averaging 14% higher to 9% lower compared with test results. The findings indicate that mortise and tenon connections are significantly stronger when the tenon is oriented radially with respect to the mortise grain, especially in orthogonal connections. As a consequence, tangential loading of the mortise should be avoided.
+
+
+    
+        AU - Ronny Purba
+    
+        AU - Michel Bruneau
+    
+
+TI - Case Study on the Impact of Horizontal Boundary Elements Design on Seismic Behavior of Steel Plate Shear Walls
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 645-657
+VI - 138
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0000490 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000490
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000490
+SO - Journal of Structural Engineering 2012-05-01 138(5): 645-657
+AB - A case study was conducted to investigate the seismic behavior of steel plate shear walls having boundary elements designed by two different philosophies. The first design approach does not guarantee that formation of in-span plastic hinges on horizontal boundary elements (HBEs) will be prevented, whereas the second approach guarantees that plastic hinges can only occur at the ends of HBEs. Pushover and nonlinear time-history analyses were conducted to investigate behavior. Results show that the development of in-span plastic hinges has significant consequences on the behavior of the structure through inducing (1)&nbsp;significant accumulation of plastic incremental deformations on the HBEs; (2)&nbsp;partial yielding of the infill plates; (3)&nbsp;lower global plastic strength compared with values predicted by code equations; and (4)&nbsp;total (elastic and plastic) HBE rotations greater than 0.03&nbsp;radians after the structure was pushed cyclically up to a maximum lateral drift of 3%. Nonlinear time-history analyses also demonstrated that increasing the severity of the ground excitations [i.e., from design basis earthquake (DBE) to maximum considered earthquake (MCE)] acting on the structure with in-span plastic hinge accentuated the accumulation of plastic incremental deformations on the HBEs.
+
+
+    
+        AU - Abdul-Hamid Zureick
+    
+
+TI - Discussion of “LRFD Factors for Pultruded Wide-Flange Columns” by Linda M. Vanevenhoven, Carol K. Shield, and Lawrence C. Bank
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 658-659
+VI - 138
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0000357 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000357
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000357
+SO - Journal of Structural Engineering 2012-05-01 138(5): 658-659
+
+
+    
+        AU - Linda M. Vanevenhoven
+    
+        AU - Carol K. Shield
+    
+        AU - Lawrence C. Bank
+    
+
+TI - Closure to “LRFD Factors for Pultruded Wide-Flange Columns” by Linda M. Vanevenhoven, Carol K. Shield, and Lawrence C. Bank
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 659-660
+VI - 138
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0000524 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000524
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000524
+SO - Journal of Structural Engineering 2012-05-01 138(5): 659-660
+
+
+    
+        AU - Emil Simiu
+    
+        AU - Franklin T. Lombardo
+    
+        AU - DongHun Yeo
+    
+
+TI - Discussion of “Ultimate Wind Load Design Gust Wind Speeds in the United States for Use in ASCE-7” by Peter J. Vickery, Dhiraj Wadhera, Jon Galsworthy, Jon A. Peterka, Peter A. Irwin, and Lawrence A. Griffis
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 660-661
+VI - 138
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0000341 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000341
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000341
+SO - Journal of Structural Engineering 2012-05-01 138(5): 660-661
+
+

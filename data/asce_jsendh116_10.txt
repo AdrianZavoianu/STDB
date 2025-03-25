@@ -1,0 +1,416 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - A. Rutenberg
+    
+        AU - A. Scarlat
+    
+
+TI - Roof Bracing and Effective Length of Columns in One‐Story Industrial Buildings
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2551-2566
+VI - 116
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1990)116:10(2551) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282551%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282551%29
+SO - Journal of Structural Engineering 1990-10-01 116(10): 2551-2566
+AB - The effect of in‐plane roof bracing rigidity on the stability of columns in one‐story industrial buildings with light roofing is investigated. To simplify the analysis, expressions for the equivalent constants of the springs laterally supporting the columns at roof level are derived for common types of bracing, including roof metal decks. Effective length factors for simply supported and fixed‐base columns supporting roof girders and deep trusses, also considering their rotational rigidities, are derived and presented in graphical form. Two numerical examples are given to illustrate the procedure. The examples also demonstrate that the available in‐plane roof rigidity may not be adequate to permit full use of the columns as simply supported.
+
+
+    
+        AU - Sritawat Kitipomchai
+    
+        AU - Faris G. A. Al‐Bermani
+    
+        AU - Siu L. Chan
+    
+
+TI - Elasto‐Plastic Finite Element Models for Angle Steel Frames
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2567-2581
+VI - 116
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1990)116:10(2567) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282567%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282567%29
+SO - Journal of Structural Engineering 1990-10-01 116(10): 2567-2581
+AB - The paper compares two elasto‐plastic models for incorporating the effects of material nonlinearity into a finite element procedure in the large deflection analyses of angle beam columns and trusses. These are the fiber and the lumped plasticity models. In the fiber model, the element cross section is divided into a finite number of elementary areas, from which the sectional rigidities, resisting forces, and moments, allowing for material yielding and strain‐unloading, are calculated. In the lumped plasticity model, the inelastic behavior is defined for the whole cross section. The stress resultants in the cross section interact to produce yielding for the section. Yielding in the element is treated in a lumped manner, in which the plasticity effects are assumed to occur only at generalized locations (plastic hinges), while the element between the hinges remains elastic. Numerical studies of the large deflection behavior of restrained imperfect angle columns, K‐braced angle frames, and of single‐angle web member trusses using the two elasto‐plastic models are presented. Tests on two pairs of angle trusses with web members on either the same side or opposite sides of the chord are described.
+
+
+    
+        AU - Liang‐Jenq Leu
+    
+        AU - Yeong‐Bin Yang
+    
+
+TI - Effects of Rigid Body and Stretching on Nonlinear Analysis of Trusses
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2582-2598
+VI - 116
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1990)116:10(2582) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282582%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282582%29
+SO - Journal of Structural Engineering 1990-10-01 116(10): 2582-2598
+AB - According to the law of rigid body motion, a body initially acted upon by a set of forces in equilibrium will experience no additional straining when subjected to a rigid body motion, and will remain in equilibrium after the rigid body motion. When such a law is not strictly followed in an incremental‐iterative nonlinear analysis, especially in the element force recovery procedure, fictitious forces may occur at each intermediate step, which eventually may result in the deviation of the calculated behavior of a structure from its true response. From the point of view of solution accuracy, the rigid body effect plays a more important role than the stretching effect in determining which higher‐order terms should be included in a force‐recovery procedure. In this paper, both of these effects are considered in the derivation of the nonlinear stiffness matrices for a truss element. Each term involved in the formulation is examined with clear physical meanings given. Comparisons are made with previous results in the numerical examples.
+
+
+    
+        AU - M. P. Saka
+    
+
+TI - Optimum Design of Pin‐Jointed Steel Structures With Practical Applications
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2599-2620
+VI - 116
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1990)116:10(2599) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282599%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282599%29
+SO - Journal of Structural Engineering 1990-10-01 116(10): 2599-2620
+AB - An efficient optimum design algorithm is presented for the pin‐jointed steel structures subjected to multiple load cases. The displacement, stress, buckling, and minimum size constraints are considered in the formulation of the design problem. Optimality criteria approach is employed for handing the displacement restrictions. The stress and buckling limitations are reduced to lower bounds on design variables and treated as similar to those of minimum size constraints. This is achieved by first expressing the allowable critical stresses as specified by the design codes as nonlinear equations, and then solving them to obtain the critical values of design variables. This leads to a straightforward and easy‐to‐program algorithm that is particularly suitable for microcomputers. The numerical examples solved, on the other hand, clearly show the practical applicability and efficiency of the method, even in the case of large structures.
+
+
+    
+        AU - Elizabeth N. Vintzēleou
+    
+        AU - Theodossius P. Tassios
+    
+
+TI - Eccentric Dowels Loaded against Core of Concrete Sections
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2621-2633
+VI - 116
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1990)116:10(2621) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282621%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282621%29
+SO - Journal of Structural Engineering 1990-10-01 116(10): 2621-2633
+AB - A simple analytical model is developed for the prediction of maximum dowel resistance of bars eccentrically placed in concrete cross sections and loaded against the core of the section. According to the model, the maximum dowel resistance of bars having large bottom cover (i.e., when the appearance of bottom splitting cracks is excluded) is a function of the bar diameter, the compressive strength of concrete, the yield stress of steel, as well as the top and the side cover of the bar. The validity of the model is checked by means of a series of tests. The role of several parameters, such as bar diameter, compressive strength of concrete, and yield stress of steel have been thoroughly investigated by researchers. The only parameters considered throughout the present experimental work are the top and the side cover of the bar. It is proved that the maximum dowel resistance values predicted by means of the developed model fit satisfactorily the experimental results.
+
+
+    
+        AU - Chang‐Koon Choi
+    
+        AU - Hyo‐Gyoung Kwak
+    
+
+TI - Optimum RC Member Design With Predetermined Discrete Sections
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2634-2655
+VI - 116
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1990)116:10(2634) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282634%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282634%29
+SO - Journal of Structural Engineering 1990-10-01 116(10): 2634-2655
+AB - This paper develops a simplified, yet effective, algorithm for optimum reinforced concrete (RC) member design. After construction of the data base of predetermined reinforced concrete sections that are arranged in the order of increasing resistant capacities, the relationship between the section identification numbers and the resistant capacities of sections is established by regression and used to obtain an initial solution (section) that satisfies the imposed design constraints. Assuming that there exists an optimum section near the initially selected one, a direct search is conducted to find the discrete optimum solution. The optimization of the entire structure is accomplished through the individual member optimization.
+
+
+    
+        AU - Ser‐Tong Quek
+    
+        AU - Alfredo H.‐S. Ang
+    
+
+TI - Reliability Analysis of Structural Systems by Stable Configurations
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2656-2670
+VI - 116
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1990)116:10(2656) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282656%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282656%29
+SO - Journal of Structural Engineering 1990-10-01 116(10): 2656-2670
+AB - A practical approach for the reliability analysis of structural systems is presented. Practical approximations and simplifications to the theoretical stable‐configuration approach are derived from the cut‐set formulation based on the dominant physical configurations of a given structure. By considering the reliabilities of the initial configuration and those of the dominant configurations (corresponding to one failed component), an estimate of the failure probability of the system is obtained. This estimate, in conjunction with the reliabilities of the remaining components of the structure, is used to select other dominant configurations (corresponding to more failed components). The final system reliability is estimated through the intersection of events corresponding to all the selected dominant configurations. A practical algorithm is suggested, and two numerical examples provided. The approach is shown to be particularly effective for the analysis of the reliability of brittle structural systems, which include the collapse mode of failure.
+
+
+    
+        AU - Patrick D. Zuraski
+    
+        AU - John E. Johnson
+    
+
+TI - Fatigue Strength of Deteriorated Steel Highway Bridges
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2671-2690
+VI - 116
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1990)116:10(2671) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282671%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282671%29
+SO - Journal of Structural Engineering 1990-10-01 116(10): 2671-2690
+AB - The effect of long‐term environmental exposure and an extended history of highway loading was quantitatively determined for steel bridge beams that had been in service more than 50 years. Fatigue tests were conducted on specimens removed from the tension flange of truss stringers salvaged from four bridge replacement projects. Based on the fatigue strength reduction factor Kf, determined on a basis of mean fatigue life for all specimens in one bridge, the fatigue sensitivities encountered were less than that associated with an AASHTO Category C welded connection detail. For individual specimens, the maximum Kf value determined was 3.0. At 36‐ksi (248‐MPa) stress range, average specimen lives exceeded 300,000 cycles for all bridges, for both center‐span (maximum prior stress history) and near‐support (insignificant prior stress history) specimens. The corrosion deterioration experienced by the plain (nonwelded) simple‐span steel bridge beams in this study caused the average fatigue strength to be reduced by approximately one AASHTO fatigue category.
+
+
+    
+        AU - F. Seible
+    
+        AU - C. T. Latham
+    
+
+TI - Horizontal Load Transfer in Structural Concrete Bridge Deck Overlays
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2691-2710
+VI - 116
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1990)116:10(2691) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282691%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282691%29
+SO - Journal of Structural Engineering 1990-10-01 116(10): 2691-2710
+AB - Full‐depth structural concrete overlays in bridge deck rehabilitation require special interface design and construction joint preparation between the old bridge deck and the overlay in order to ensure monolithic structural action of the overlaid bridge superstructure under all loading conditions. The effectiveness of interface dowels for horizontal shear transfer in connection with clean and speciallyroughened contact surfaces is investigated. Preliminary analytical studies of the horizontal shear‐transfer behavior of overlaid reinforced concrete bridge decks and experimental results on the effects of interface preparations and dowels from shearblock tests, full‐scale transverse bridge deck slab panel tests, and a full‐scale prototype bridge deck test are presented. The full‐scale prototype bridge deck test was performed on a section of a reinforced concrete T‐girder bridge that had been in service for 25 years. A detailed account of analytical and experimental investigations of the horizontal load‐transfer behavior is presented, and the basis for simple capacity design considerations for dowel reinforcement in full‐depth structural concrete overlays is provided.
+
+
+    
+        AU - F. Seible
+    
+        AU - C. T. Latham
+    
+
+TI - Analysis and Design Models for Structural Concrete Bridge Deck Overlays
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2711-2727
+VI - 116
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1990)116:10(2711) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282711%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282711%29
+SO - Journal of Structural Engineering 1990-10-01 116(10): 2711-2727
+AB - The horizontal load‐transfer behavior of full‐depth structural concrete overlays used in bridge deck rehabilitation is investigated with a specially developed analytical model and compared with test results from full‐scale experimental investigations. A two‐layer plate element with arbitrary nonlinear horizontal interface behavior was developed for reinforced concrete overlaid slabs of arbitrary plan geometry. Both the nonlinear delamination model of the interlayer and the nonlinear flexural model of the overlaid reinforced concrete slab are described. The overall nonlinear behavior of overlaid reinforced concrete slabs is investigated and compared with tests on full‐scale transverse bridge deck slab panels. Based on the analytical parameter studies and the experimental results, detailed design recommendations for the interface design for full‐depth structural concrete overlays are developed. The adopted philosophy is a capacity design approach that bounds the delamination limit state in an overlaid slab by the flexural plastic‐hinge limit state in a critical bridge section.
+
+
+    
+        AU - Steven M. Cramer
+    
+        AU - William B. Fohrell
+    
+
+TI - Method for Simulating Tension Performance of Lumber Members
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2729-2745
+VI - 116
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1990)116:10(2729) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282729%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282729%29
+SO - Journal of Structural Engineering 1990-10-01 116(10): 2729-2745
+AB - A methodology is described for simulating the tension performance of lumber members. The described methodology uses detailed knowledge of individual board three‐dimensional fiber orientation in a finite element model to predict the fracture behavior that occurs in lumber. Grain‐angle data maps were obtained using previously developed nondestructive measurement techniques and small clear‐wood specimen property tests were conducted to provide model input. In addition to fracture patterns, the methodology accurately predicts the tensile strength of lumber specimens without the aid of empirical adjustment factors. The computational characteristics of the fracture‐related aspects of the model are described. Sample experimental observations are provided, showing the accuracy of the method for predicting fracture patterns, load‐displacement response, and tensile strength of lumber specimens. It is hoped that this methodology will lead to a new fundamental basis for grading lumber and determining allowable design stresses. Discussion is provided on those material characteristics, including within‐board grain‐angle and property variations that make lumber performance difficult to predict.
+
+
+    
+        AU - J. S. Hwang
+    
+        AU - K. C. Chang
+    
+        AU - G. C. Lee
+    
+
+TI - Quasi‐Static and Dynamic Sliding Characteristics of Teflon—Stainless Steel Interfaces
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2747-2762
+VI - 116
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1990)116:10(2747) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282747%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282747%29
+SO - Journal of Structural Engineering 1990-10-01 116(10): 2747-2762
+AB - This paper describes an experimental program of study on the sliding characteristics of Teflon‐stainless steel interfaces. The effects of normal pressure, sliding distance, normal pressure history, sliding velocity, sliding velocity history, normal pressure rate, and sliding work are identified and interpreted. Test results show that the friction force is independent of the normal pressure history and the sliding velocity history, and is also irrelevant to the normal pressure rate. In addition, the dependence of dynamic friction force on the normal contact pressure and the sliding velocity can be uncoupled. The dynamic friction force can be determined by multiplying the quasi‐static friction force by an amplification factor. The reciprocal of the quasi‐static friction coefficient is linearly dependent on the normal pressure only, and the amplification factor is solely a function of velocity. Moreover, the dynamic friction force decays during sliding, and the decaying is a function of excess dynamic sliding work.
+
+
+    
+        AU - Ronald L. Sack
+    
+        AU - Paul M. Giever
+    
+
+TI - Predicting Roof Snow Loads on Gabled Structures
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2763-2778
+VI - 116
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1990)116:10(2763) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282763%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282763%29
+SO - Journal of Structural Engineering 1990-10-01 116(10): 2763-2778
+AB - Probabilistic models are developed from laboratory and field data to predict roof snow loads for cold slippery gabled roofs. The models account for the frequency and amount of snow sliding during an event by using actual measured probabilities. One model is based on temperature and precipitation and the other on degree‐hours and precipitation. Field data are obtained from three gabled roof structures with slopes of 10°, 30°, and 45° during the winter of 1986–1987. Additionally, artificial snow is deposited on small, gabled model roofs in the laboratory. Measured laboratory roof loads are related to prototype snow loads through similitude. Using simulation techniques, with the probabilistic models and 35 yr of meteorological data from the field site, 50‐yr mean recurrence‐interval roof snow loads are calculated and compared to published design standards. The simulated design roof snow loads for gabled structures are larger than those for comparable shed roofs. The standard‐specified design roof snow loads are conservative for the 30° and 45° roofs, and reasonable for 10° roofs.
+
+
+    
+        AU - Shamim A. Sheikh
+    
+        AU - Ching‐Chung Yeh
+    
+
+TI - Tied Concrete Columns under Axial Load and Flexure
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2780-2800
+VI - 116
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1990)116:10(2780) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282780%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282780%29
+SO - Journal of Structural Engineering 1990-10-01 116(10): 2780-2800
+AB - Fifteen 12‐in. (305 mm) square and 9‐ft (2.74 m) long reinforced concrete columns were tested under flexure to large inelastic deformations while simultaneously subjected to constant axial load. The main purpose of this research was to investigate the behavior of column sections confined by rectilinear ties. Major variables considered in this program included: (1) Distribution of longitudinal and lateral steel, including unsupported longitudinal bars and supplementary cross‐ties with 90° hooks; (2) level of axial load (0.46fc′Ag to 0.78fc′Ag); (3) amount of lateral steel (0.8% to 1.6% of core volume), and (4) spacing of ties (2‐1/8 in. to 6‐13/16 in. [54–173 mm]). Test results indicate that a larger number of laterally supported longitudinal bars results in better performance of columns. Unsupported longitudinal bars and cross‐ties with 90° hooks confine concrete effectively only at small deformations and result in rapid deterioration of column behavior at a later stage, particularly under high axial load levels. The amount of lateral steel and the level of axial load have significant effects on the column behavior.
+
+
+    
+        AU - J. N. Yang
+    
+        AU - A. Akbarpour
+    
+        AU - G. Askar
+    
+
+TI - Effect of Time Delay on Control of Seismic‐Excited Buildings
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2801-2814
+VI - 116
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1990)116:10(2801) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282801%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282801%29
+SO - Journal of Structural Engineering 1990-10-01 116(10): 2801-2814
+AB - The sensitivity of a system time delay with respect to the performance of control systems for seismic‐excited buildings is examined. The effect of a system time delay depends on the particular control algorithm and the particular control system used. Four control algorithms feasible for applications to conttrol of seismic‐excited buildings have been studied. These include the linear quadratic optimal control algorithm and three instantaneous optimal algorithms proposed recently. The sensitivity analysis for each control algorithm is performed using a simulation approach. Both the active tendon control system and the active mass damper have been considered, and the tall building is idealized by a shear‐beam lumped‐mass discrete system. Numerical examples are worked out to demonstrate the criticality and tolerance of a system time delay for each control system. It is shown that a time delay always results in a degradation for the efficiency of a control system and that the tolerance for a system time delay is quite stringent for cases investigated.
+
+
+    
+        AU - Kenneth W. Shushkewich
+    
+
+TI - Moment‐Curvature Relationships for Partially Prestressed Concrete Beams
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2815-2823
+VI - 116
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1990)116:10(2815) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282815%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282815%29
+SO - Journal of Structural Engineering 1990-10-01 116(10): 2815-2823
+AB - A simple unified set of equations is presented for the determination of stresses in cracked or uncracked partially prestressed concrete sections. A variety of concrete shapes, including rectangular beams, I‐beams, T‐beams, and inverted T‐beams, can be considered. Multiple layers of prestressing and/or reinforcing arbitrarily located anywhere within the cross section can easily be handled. Continuity of all parameters (stresses, strains, and section properties) is maintained at cracking, as the neutral axis moves from the bottom flange to the web, and again as the neutral axis moves from the web to the top flange. This allows the moment‐curvature diagram to be constructed for any partially prestressed concrete beam in the elastic range. The equations are fully compatible with those required for a time‐dependent analysis. A sample problem is included.
+
+
+    
+        AU - Tsau Yueh Wang
+    
+        AU - Ross B. Corotis
+    
+        AU - Bruce Ellingwood
+    
+
+TI - Limit State Sensitivity of Structural Frames Subjected to Cyclic Forces
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2824-2841
+VI - 116
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1990)116:10(2824) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282824%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282824%29
+SO - Journal of Structural Engineering 1990-10-01 116(10): 2824-2841
+AB - The reliability of structural systems often is analyzed under the assumption that the system limit states are not dependent on load path. Although brittle systems are known to be load‐path dependent, limit states for ductile frames usually are assumed to be independent of the manner in which the loads are applied. In this study, the dependence of limit states of a single‐story and multi‐story ductile frame on load path is investigated. For certain cyclic load cases, the strength of the structure decreases significantly and load‐path dependence is apparent. It is observed that this can be related to a ratcheting type phenomenon of the structure, and depends on the load sequencing and the degree of nonlinear behavior within each cycle. A load‐path‐independent lower bound limit state is formulated using shakedown theory. Reliability analyses of the different limit states are performed to determine the importance of load‐path dependence on computed system reliability.
+
+
+    
+        AU - Bin Chen
+    
+        AU - S. T. Mau
+    
+
+TI - Numerical Simulation of Behavior of Spirally Reinforced Columns
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2842-2860
+VI - 116
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1990)116:10(2842) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282842%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282842%29
+SO - Journal of Structural Engineering 1990-10-01 116(10): 2842-2860
+AB - From experimental studies, the strength of concrete columns is known to be enhanced by lateral reinforcement. The quantitative correlation of the strength and the lateral reinforcement configuration remains difficult. In this paper, a nonlinear finite element procedure is developed to simulate the behavior of centrally loaded spirally reinforced circular columns. The concrete is characterized by a carefully calibrated nonlinear material model, which is coupled with a smearedcrack model to cover both compression and tension stress states. The accuracy of the finite element simulation is established through comparisons with experimental results. A parametric study is then carried out to study the confining mechanism and to generate data for actual‐size columns. It is found that the confining stress at the core of the column correlates well with an approximated formula used to develop strength formulas. The existing strength formulas, however, tend to overestimate the strength of columns with heavy spiral reinforcement. Based on the combined experimental and numerical simulation data, a new empirical strength formula is suggested.
+
+
+    
+        AU - Salah E. El‐Metwally
+    
+        AU - F. Ashour
+    
+        AU - W. F. Chen
+    
+
+TI - Instability Analysis of Eccentrically Loaded Concrete Walls
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2862-2880
+VI - 116
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1990)116:10(2862) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282862%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282862%29
+SO - Journal of Structural Engineering 1990-10-01 116(10): 2862-2880
+AB - In this paper, a computer‐based numerical technique for the prediction of the instability load/length of concrete walls is developed. The wall is treated as a beam‐column and is generally subjected to axial force and two end moments. A wall strip is treated here as a plane‐strain problem. Any material models of concrete exhibiting different behaviors in compression and in tension can be implemented in this analysis procedure. The load‐deflection curves with both the ascending and descending branches are predicted by a new numerical technique based essentially on the Newmark method combined with the concept of equivalent column for computing the instability load of the beam‐column. It is found that for concrete walls within the usual slenderness ratios, material failure prevails and their load‐carrying capacities are very sensitive to a small change in end eccentricities.
+
+
+    
+        AU - Abolhassan Astaneh
+    
+        AU - Marwan N. Nader
+    
+
+TI - Experimental Studies and Design of Steel Tee Shear Connections
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2882-2902
+VI - 116
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1990)116:10(2882) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282882%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A10%282882%29
+SO - Journal of Structural Engineering 1990-10-01 116(10): 2882-2902
+AB - A tee‐framing shear connection consists of a steel tee section connected to a beam web and to a supporting member such as a column. The main role of the tee‐framing shear connections is to transfer end shear reaction of simply supported beams to the supporting members. Usually, bolt groups or weld lines are used to connect the tee element to the beam web and to the support. An experimental investigation of the actual behavior of tee‐framing shear connections is conducted by testing nine full‐size beam‐to‐column‐joint assemblies. The connections are subjected to realistic combinations of shear forces and rotations. The research establishes six failure modes for these connections. The studies indicate that the tee‐framing connections tested are sufficiently flexible to be considered simple connections. A summary of the experimental research is presented. The experimental data and associated analytical studies are used to adapt mechanical models of the failures and to develop and propose new design procedures.
+
+

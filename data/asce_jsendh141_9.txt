@@ -1,0 +1,649 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Russell P. Burrell
+    
+        AU - Hassan Aoude
+    
+        AU - Murat Saatcioglu
+    
+
+TI - Response of SFRC Columns under Blast Loads
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014209
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001186 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001186
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001186
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014209
+AB - Research has shown that the addition of steel fibers to concrete results in improved postcracking tensile capacity leading to enhanced toughness, ductility, and damage tolerance. These performance enhancements make steel fiber-reinforced concrete (SFRC) an ideal material for use in the blast-resistant design of structures. Research in the literature is conflicting on the performance of SFRC at high strain rates. There is also very limited research on the performance of SFRC structural components under blast loads. This paper presents the results of a research program investigating the blast performance of reinforced concrete and steel fiber-reinforced concrete columns. In the experimental program half-scale columns were constructed and exposed to different simulated blast pressure–impulse combinations using the state-of-the art shock-tube testing facility at the University of Ottawa. The test parameters included transverse reinforcement spacing (nonseismic and seismic detailing) as well as steel fiber content (0 to 1.5% by volume of concrete). The results show that SFRC improves the blast performance of columns in terms of maximum and residual displacements as well as damage tolerance and elimination of secondary blast fragments. Furthermore, the results demonstrate that the use of seismic detailing improves blast performance. Finally, the paper examines the suitability of using single-degree-of-freedom (SDOF) analysis to predict the blast response of the SFRC columns tested in the research program.
+
+
+    
+        AU - Wouter A. van Beerschoten
+    
+        AU - Alessandro Palermo
+    
+        AU - David Carradine
+    
+
+TI - Experimental Testing of Posttensioned Timber Frames under Gravity Loading
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014210
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001179 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001179
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001179
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014210
+AB - This paper describes the experimental testing campaign of one-bay and two-bay posttensioned timber frames under gravity loading. Long-span box beams, made of radiata pine laminated veneer lumber, were connected to columns using only the compressive force introduced by posttensioning tendons. The use of tendons with a draped profile resulted in not only semirigid beam-column connections, but also an initial precamber. Both aspects helped to satisfy deflection design limits. The load-deflection behavior of the beams, the increase in posttensioning force during testing, and the connection behavior are evaluated. Of particular interest is the gap opening of the connection, which showed a distinct bilinear moment-rotation behavior. The application of posttensioning tendons to timber frames can more than double the load-carrying capacity at serviceability limit state.
+
+
+    
+        AU - Abdolreza Ataei
+    
+        AU - Mark A. Bradford
+    
+        AU - Hamid R. Valipour
+    
+
+TI - Moment-Rotation Model for Blind-Bolted Flush End-Plate Connections in Composite Frame Structures
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014211
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001147 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001147
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001147
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014211
+AB - This paper develops both a three-parameter power model and a Ramberg-Osgood model for quantifying the moment—rotation characteristics of a blind-bolted flush end-plate system that connects a composite beam to a concrete-filled steel tubular (CFST) column in a steel framed building structure. By default, these connections are semirigid, and accurate analyses of structures including them necessitate quantitative knowledge of their moment-rotation response. A detailed three-dimensional (3D) nonlinear-continuum–based finite element model of the connection region including the composite beam, flush end-plate, blind bolts and the concrete-filled steel tube is developed in this paper. This sophisticated FE model can capture the pertinent physical, geometrical, and contact nonlinearities, and its accuracy is verified against experimental data reported elsewhere in the literature. The calibrated FE model is then employed for a parametric study in which the effects of the slab reinforcement ratio, the thickness of the slab, the degree of the shear connection, the diameter of the blind bolts as well as the pretension force in them and their yield stress, the depth of the beam, and the thickness of the flush end-plate are investigated. The results of the parametric study are employed to calibrate moment-rotation relationships, which are proposed in a convenient analytic form. It is shown that the proposed model predicts the moment-rotation response of blind-bolted flush end-plate composite beam-to-CFST column connections with good accuracy, and it provides a valuable empirical modeling that can be used in the computer design of composite framed building frames in the new paradigm of design by advanced analysis.
+
+
+    
+        AU - Giorgia Giardina
+    
+        AU - Max A. N. Hendriks
+    
+        AU - Jan G. Rots
+    
+
+TI - Damage Functions for the Vulnerability Assessment of Masonry Buildings Subjected to Tunneling
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014212
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001162 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001162
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001162
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014212
+AB - This paper describes a new framework for the assessment of potential damage caused by tunneling-induced settlement to surface masonry buildings. Finite element models in two and three dimensions, validated through comparison with experimental results and field observations, are used to investigate the main factors governing the structural response to settlement. Parametric analyses are performed on the effect of geometrical and structural features, like the building dimensions, the nonlinear behavior of masonry, and soil-structure interactions. These results are used to create a framework of an overall damage model that correlates the analyzed parameters with the risk of the building being damaged by a given level of settlement. The proposed vulnerability framework has the potential to be developed as a decision and management tool for the evaluation of the risk associated with underground excavations in urban areas.
+
+
+    
+        AU - Hideaki Kato
+    
+        AU - Takahiro Mori
+    
+        AU - Nobuo Murota
+    
+        AU - Masaru Kikuchi
+    
+
+TI - Analytical Model for Elastoplastic and Creep-Like Behavior of High-Damping Rubber Bearings
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014213
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001181 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001181
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001181
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014213
+AB - In the present study, a new analytical model of high-damping rubber bearings (HDRBs) for time-history analysis is proposed. The proposed model is used in the evaluation of elastoplastic and creep-like behavior of HDRBs under bidirectional seismic and strong wind loading. The analytical model was developed by reducing the degrees of freedom of a new type of constitutive law that was proposed by the authors for finite-element analysis of seismic isolation bearings. First, the validity of the proposed model for time-history response analysis was examined through various tests of HDRBs under unidirectional and bidirectional loading. The analytical results agreed well with the test results. Next, wind loading tests were conducted and the reproducibility of creep-like behavior of HDRBs under wind loading was evaluated. The effectiveness of the proposed model was verified by the tests, and the limitations of the applicability of the proposed model were determined.
+
+
+    
+        AU - Eva Caldová
+    
+        AU - Petr Vymlátil
+    
+        AU - František Wald
+    
+        AU - Anna Kuklíková
+    
+
+TI - Timber Steel Fiber–Reinforced Concrete Floor Slabs in Fire: Experimental and Numerical Modeling
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014214
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001182 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001182
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001182
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014214
+AB - Timber–concrete composite floors represent an efficient possibility for strengthening timber beam ceilings and stiffening timber frame structures. The results of this construction method are higher stiffness and load bearing capacity, improved sound insulation, and better fire resistance. Replacing conventional RC with an innovative and efficient material, such as fiber RC, leads to improvements in the construction progress, material properties, and load transfer and to a reduction in the slab thickness. The subject of this paper is the numerical simulation of the behavior of composite timber-fiber concrete floor, consisting of a fiber concrete slab and timber beams. The primary point of this work is to explore the membrane action of the fiber concrete slab with timber beams and investigate the behavior of the load floor structure by using finite-element (FE) models. This paper presents a three-dimensional FE model developed to predict the mechanical behavior of timber-fiber concrete composite floors, to derive simpler models for representing the partially protected composite floors in fire. The analysis of these structures is nonlinear and considers the orthotropic behavior for timber and isotropic behavior for concrete. The description of the model, general parameters, and values are given in this paper. All modeling was prepared by using an FE software program. The numerical models are validated against the results of full-scale furnace, material property, push-out, and beam tests.
+
+
+    
+        AU - Yufen Zhou
+    
+        AU - Suren Chen
+    
+
+TI - Dynamic Simulation of a Long-Span Bridge-Traffic System Subjected to Combined Service and Extreme Loads
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014215
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001188 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001188
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001188
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014215
+AB - Long-span bridges support busy traffic and experience considerable wind loads on the bridge decks nearly every day. In addition to these two major service loads, some extreme loads such as earthquake, vehicle collision, or blast may also occur on the bridges simultaneously. Excessive dynamic responses of the bridge under extreme and service loads may not only cause local member damage, serviceability issues, or even global failure of the bridge structure, but also traffic safety concern on moving vehicles. A general simulation platform is established to investigate the dynamic performance of the bridge-traffic system under multiple service and extreme loads. The fully coupled bridge-traffic interaction model is developed by coupling the mode-based bridge model and all individual moving vehicles of the simulated stochastic traffic flow considering excitations from bridge deck roughness and other external dynamic loads. Through the established simulation platform, the global dynamic responses of the bridge and each individual vehicle subjected to various service and extreme loads can be rationally predicted in the time domain. As a demonstration, the proposed strategy is applied to a bridge-traffic system consisting of a prototype long-span cable-stayed bridge and stochastic traffic subjected to the excitations of road surface roughness, turbulent wind, and seismic ground motions. The vertical and lateral responses for the bridge and a representative vehicle are obtained and analyzed in different loading scenarios. Some observations are made based on the performance of both the prototype bridge and representative vehicle subjected to multiple dynamic loads.
+
+
+    
+        AU - Yu-Chen Ou
+    
+        AU - Ngoc-Minh Tran
+    
+        AU - Cheng-Cheng Chen
+    
+        AU - Hung-Jen Lee
+    
+
+TI - Panel Zone Shear Behavior of Through-Flange Connections for Steel Beams to Circular Concrete-Filled Steel Tubular Columns
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014216
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001187 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001187
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001187
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014216
+AB - This research investigated the panel zone shear behavior of a proposed through-flange connection for steel beams to circular concrete-filled steel tubular (CFT) columns. Four exterior beam-column specimens were designed and tested using cyclic loading applied to the beam end. Three design variables were examined: concrete infill in the column tube, stiffeners to the column tube in the panel zone, and the width of the through-flange plates. Test results showed significant panel zone shear yielding for all specimens. Failure of the specimens was caused by fracture of the column tube near the through-flange plates and crushing of concrete at the stiffener side in the panel zone if concrete infill was present. The use of concrete infill, stiffeners, and 25% wider through-flange plates increased the peak applied load by 156, 7, and 14%, respectively. A model that considers crushing of concrete at the stiffener side as failure mode was proposed to calculate the panel zone shear strength contribution from concrete. If confined concrete strength was used, the panel zone shear strengths calculated with concrete contribution based on the proposed model were, on average, 8% more conservative than the test results. If unconfined concrete strength was used, the calculated panel zone shear strengths were, on average, 63% more conservative than the test results. The panel zone shear strengths calculated with concrete contribution based on the ACI 318 and ACI 352&nbsp;R methods were, on average, 46 and 39% more conservative than the test results, respectively.
+
+
+    
+        AU - Mehdi Ben Ftima
+    
+        AU - Bruno Massicotte
+    
+
+TI - Utilization of Nonlinear Finite Elements for the Design and Assessment of Large Concrete Structures. I: Calibration and Validation
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014217
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001160 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001160
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001160
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014217
+AB - This two-part paper is an application of advanced nonlinear finite-element analyses (ANFEA) for the design or assessment of large concrete structures. It presents an innovative application of ANFEA that reveals many important aspects of numerical modeling and safety verification, starting from the material up to the structural level and going from calibration and validation to the prediction level. A complex hydraulic structure with large members and nonconventional boundary conditions is taken as the target design structure (TDS). Following a two-step procedure that was proposed in a previous paper, the model error is first computed for two candidate concrete models (part 1). Using the selected concrete model and the corresponding model error, the global resistance factor is computed in a second step for the TDS (part 2). This first part is related to the calibration and validation assessments for the ANFEA models of concrete structures. These issues can be viewed as two basic steps within the verification and validation process (V&amp;V) that has been adopted in other engineering fields. In the calibration procedure, the size effect phenomenon, which is a major parameter for the TDS, is considered. The distinction between size effect statistical (material) and deterministic (energetic) components is highlighted, and a new approach for considering each contribution is presented. The validation process is undertaken from the material to the structural level. It is shown through this process that the use of only the compressive strength of concrete and the yield stress of reinforcement are sufficient with one candidate concrete model in order to obtain a relatively low coefficient of variation of model error. The paper illustrates a general methodology that can be applied with any ANFEA software to design or assess the safety level of unusual concrete structures.
+
+
+    
+        AU - Mehdi Ben Ftima
+    
+        AU - Bruno Massicotte
+    
+
+TI - Utilization of Nonlinear Finite Elements for the Design and Assessment of Large Concrete Structures. II: Applications
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014218
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001178 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001178
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001178
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014218
+AB - This second-part article presents applications of advanced nonlinear finite-element analysis for the design of large reinforced-concrete structures. Because shear and the size effect are fundamental aspects of these structures, the first section of this paper is devoted to the prediction of shear failure for very large members more than 3&nbsp;m deep. It is shown that the tendency of shear strength is much less sensitive to size effects for very large members than the predictions of some design code equations. Applications to the draft tube complex structure are then presented in a second part. A comparison of cracking patterns with an existing powerhouse is performed at the service level. It is shown that thermal effects have an important effect on the final cracking pattern. The draft tube model is then analyzed up to failure. Following a new design methodology proposed by the authors in a previous paper, and using the model error properties computed in part 1, the global resistance factor is computed for the ultimate level. The effects of temperature, nominal shear reinforcement, and lateral confinement are discussed.
+
+
+    
+        AU - Mohammad Z. Afifi
+    
+        AU - Hamdy M. Mohamed
+    
+        AU - Omar Chaallal
+    
+        AU - Brahim Benmokrane
+    
+
+TI - Confinement Model for Concrete Columns Internally Confined with Carbon FRP Spirals and Hoops
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014219
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001197 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001197
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001197
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014219
+AB - Recent years have seen valuable research work and widespread applications of fiber-reinforced polymer (FRP) bars as flexural and shear reinforcement for concrete structures. Nonetheless, the axial compression behavior of FRP reinforced concrete (RC) columns has not yet been defined. This study introduces equations and a confinement model to predict the stress-strain envelope responses of RC columns reinforced with carbon-FRP bars (CFRP) and confined by CFRP spirals or hoops. The model takes into account the effect of many parameters such as transverse reinforcement configuration, longitudinal reinforcement ratio, volumetric ratio, and the size and spacing of spirals or hoops. Results of analysis using the proposed confinement model were verified by means of a series of experiments with full-scale circular CFRP-RC columns. The proposed equations have been shown to predict accurately confined concrete core stress, corresponding concrete strain, and prepeak and postpeak stress-strain relationships for the tested CFRP-RC column specimens.
+
+
+    
+        AU - Bing Li
+    
+        AU - Chee Lai Leong
+    
+
+TI - Experimental and Numerical Investigations of the Seismic Behavior of High-Strength Concrete Beam-Column Joints with Column Axial Load
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014220
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001191 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001191
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001191
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014220
+AB - This paper presents the experimental findings of high-strength concrete (HSC) interior beam-column joints under column axial compressive loading. Eight full-scale interior beam-column joints with varying degrees of reinforcement detailing were subjected to a constant column axial compressive load and quasi-static horizontal cyclic load. The test revealed that HSC improved the bond condition of bars with a larger diameter due to the higher achievable bond stress, thereby allowing for the use of longitudinal beams of a larger diameter. Parametric studies via finite-element (FE) modeling were performed to study the influence of various parameters on the strength and bond of HSC beam-column joints. The study confirmed that reinforcement of larger diameter can be used in HSC beams with the improvement in the bond condition. The presence of axial compressive load improved the bond stress of HSC beam-column joint but a threshold limit should be applied. Last, two standards were reviewed and improvements to the design equations were proposed.
+
+
+    
+        AU - Mohamed H. Harajli
+    
+        AU - Elie G. Hantouche
+    
+
+TI - Effect of Active versus Passive Confinement on Seismic Response of Wide RC Columns with Lap Splices
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014221
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001196 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001196
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001196
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014221
+AB - The results of an experimental study on seismic bond strengthening of spliced reinforcement in wide RC columns using external confinement are presented. Two types of confinement techniques were evaluated and compared, as follows: (1)&nbsp;a combination of external carbon fiber-reinforced polymer (CFRP) jacket and CFRP anchors, and (2)&nbsp;active confinement by means of pretensioned steel anchor rods. The effectiveness of the different strengthening techniques was evaluated by comparing with test results of companion as-built columns, and earthquake-designed columns which were detailed in accordance with the seismic provisions of a national building code. The columns were subjected to a quasi-static cyclic loading, simulating regions of high seismic hazard. In addition to the type of the strengthening system used, the test variables included area and diameter of the column longitudinal reinforcement. The as-built columns suffered bond and load degradation immediately after yielding of the spliced reinforcement. The actively confined specimens developed considerably larger lateral load, drift, and energy dissipation capacities than the as-built specimens, and performed better than the specimens strengthened using a combination of CFRP jacket and CFRP anchors, and even slightly better than the earthquake-designed specimens. A simple approach is presented for designing the strengthening systems required for effective bond strengthening.
+
+
+    
+        AU - A. Kivell
+    
+        AU - A. Palermo
+    
+        AU - A. Scott
+    
+
+TI - Complete Model of Corrosion-Degraded Cyclic Bond Performance in Reinforced Concrete
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014222
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001195 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001195
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001195
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014222
+AB - This paper investigates the effects of deterioration due to corrosion on monotonic and cyclic bond performance. Forty-two monotonic and cyclic pullout tests were undertaken on well-confined corroded reinforced concrete specimens, with corrosion levels ranging from 0 to 25% reinforcement mass loss. Experimental results were used in the development of a corrosion-dependent cyclic bond-slip model that recreates the effects of corrosion on reinforcement bond. The model allows for alteration of the monotonic pullout curve along with altered damage relationships under cyclic loading to account for corrosion of reinforcement. Impressed current techniques were used to achieve the desired level of corrosion, and the results of this research provide a term of comparison for future studies on specimens subject to natural corrosion processes.
+
+
+    
+        AU - Jiun-Wei Lai
+    
+        AU - Stephen A. Mahin
+    
+
+TI - Strongback System: A Way to Reduce Damage Concentration in Steel-Braced Frames
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014223
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001198 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001198
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001198
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014223
+AB - This paper examines a newly developed seismic force-resisting system: the strongback system (SBS). To achieve improved seismic performance, this system combines aspects of a traditional concentric braced frame with a mast to form a hybrid system. The mast acts like a strong back to help resist the tendency of concentric braced frames to concentrate damage in one or a few stories during severe seismic excitations. The purpose of the strongback system is to promote uniform story drifts over the height of a structure. Three SBS prototypes were designed and analyzed considering a variety of earthquake excitations. Computed responses are compared with responses for three other braced frame systems. Results of quasi-static inelastic analyses, both monotonic and cyclic, are presented to demonstrate differences in the fundamental hysteretic behavior of the braced frame systems considered. A series of nonlinear dynamic response history analyses were then performed to compare the global and local dynamic response of each system. Results show that the SBS can effectively reduce the concentration of deformations using the proposed design strategy. Simplified cost analyses demonstrated the economic feasibility of incorporating the SBS for newly constructed buildings located in seismically active regions.
+
+
+    
+        AU - R. Crocetti
+    
+        AU - T. Sartori
+    
+        AU - R. Tomasi
+    
+
+TI - Innovative Timber-Concrete Composite Structures with Prefabricated FRC Slabs
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014224
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001203 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001203
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001203
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014224
+AB - This paper concerns the development of innovative composite floor systems, comprising timber beams and prefabricated concrete slabs. For the development of this new system, two properties were regarded as vital, as follows: (1)&nbsp;good stiffness, and (2)&nbsp;a high degree of prefabrication. Shear connection systems installed using completely dry processes were used. Innovative and very efficient materials, such as fiber-reinforced concrete (FRC) and modified wood, were used for the manufacture of the specimens. The research reported in this paper was conducted in two phases, as follows: (1)&nbsp;the mechanical properties of different shear connectors were investigated (Phase A), and (2)&nbsp;on the basis of these experiment’s results a second investigation was carried out in order to study the behavior of full-scale timber-concrete composite slabs (Phase B). During Phase A four different configurations, with a total of eight specimens, were laboratory tested in shear. During Phase B two full-scale floor elements, each with a different shear connection system, were laboratory tested in bending. The two shear connector systems used in the investigation were (1)&nbsp;shear anchor-keys of furfurylated wood, and (2)&nbsp;inclined steel tubes. Both of the proposed connection systems performed more than satisfactorily, showing a very high degree of composite action even at load levels close to the failure load. Moreover, it appeared that the assembling of the prefabricated fiber-reinforced concrete slab with the underlying beams occurred in an extremely easy manner.
+
+
+    
+        AU - S. Kmet
+    
+        AU - M. Mojdis
+    
+
+TI - Adaptive Cable Dome
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014225
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001189 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001189
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001189
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014225
+AB - This paper describes a newly developed Levy form adaptive cable dome, which has the ability to alter its stiffness configuration and stress properties to adapt its behavior to current loading conditions. This novel structure contains sensors that detect forces in the system and an action member that adjusts its stiffness and stress state, making the structure more rigid or flexible, depending upon the actual load applied. This system consists of 42 tensioned cables, 6 compressed struts, and a central strut that is designed to function as an actuator. Results of the experimental and theoretical analyses are compared. Tests are aimed at verifying the cable dome’s ability to adapt its state of stress to changing load cases to maintain the reliability of the system. Tests confirmed the functionality of the developed adaptive system and the applicability of the proposed equipment, software, computational models, and control commands. Results demonstrate that the behavior of the adaptive cable dome obtained by tests generally can be closely predicted numerically with nonlinear finite element analyses.
+
+
+    
+        AU - Lydell Wiebe
+    
+        AU - Constantin Christopoulos
+    
+
+TI - Performance-Based Seismic Design of Controlled Rocking Steel Braced Frames. I: Methodological Framework and Design of Base Rocking Joint
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014226
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001202 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001202
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001202
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014226
+AB - Controlled rocking steel braced frames (CRSBFs) are being developed as a seismic force resisting system that can be constructed economically to avoid structural damage and residual deformations following an earthquake. In a CRSBF, selected columns are permitted to uplift from the foundation in response to severe seismic loading, and posttensioning and energy dissipation are selected to control the magnitude of the rocking response. Despite extensive experimental testing to demonstrate that this behavior is stable and repeatable, there has been a lack of comprehensive guidance for potential designers of CRSBFs. This paper proposes a performance-based design methodology for CRSBFs, which consists of defining the performance objectives, designing the base rocking joint based on a single-degree-of-freedom (SDOF) model, and capacity protecting the rest of the structure for the maximum forces expected during the rocking response. This paper focuses on the design of the base rocking joint, while Part II proposes a method for capacity designing the rest of the structure with due consideration of higher-mode effects. This paper shows how to design the base rocking joint to achieve a targeted response based on the results of 30,492 analyses of SDOF systems with flag-shaped hystereses. The SDOF results suggest that the rotation demands on the rocking joint depend on the initial stiffness of the system. For structures with initial periods less than about 0.4&nbsp;s, the base rocking joint requires smaller force reduction factors than are codified for ductile seismic force-resisting systems, but much larger force reduction factors could be used for structures with longer initial periods, provided that the frame members are capacity designed and that there is sufficient deformation capacity in the posttensioning and energy dissipation elements. These conclusions are validated by considering the peak and residual displacement response of three example structures at two seismic hazard levels.
+
+
+    
+        AU - Lydell Wiebe
+    
+        AU - Constantin Christopoulos
+    
+
+TI - Performance-Based Seismic Design of Controlled Rocking Steel Braced Frames. II: Design of Capacity-Protected Elements
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014227
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001201 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001201
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001201
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014227
+AB - Controlled rocking steel braced frames (CRSBFs) are intended to have a self-centering response that avoids damage to main structural elements. To ensure that all nonlinearity is confined to the intended elements at the rocking joint, the frame must be adequately capacity designed. This requires accurate predictions of the peak forces that are likely to develop in all members of the frame while the rocking mechanism reaches its peak rotation. Previous studies have shown that the peak forces in CRSBF members are likely to be strongly influenced by higher mode effects, but these effects can be mitigated by designing multiple nonlinear mechanisms. This paper proposes methods for estimating the peak forces in frame elements, designing an additional mechanism if it is desired to mitigate higher mode effects, and predicting the reduction in response that will be achieved by adding this mechanism. The methods are validated by designing buildings with two, six, and 12 stories, including three alternative designs that use multiple mechanisms to mitigate the higher mode effects. The six frames are modeled using OpenSees and are subjected to 44 ground motions at the maximum considered earthquake level. The peak forces in the taller frames without additional mechanisms are dominated by higher mode effects, but these effects can be estimated using the proposed method. These forces can also be reduced by designing multiple mechanisms, and the proposed method provides a reasonable design-level prediction of this force reduction.
+
+
+    
+        AU - Stephanie G. Paal
+    
+        AU - Jong-Su Jeon
+    
+        AU - Ioannis Brilakis
+    
+        AU - Reginald DesRoches
+    
+
+TI - Automated Damage Index Estimation of Reinforced Concrete Columns for Post-Earthquake Evaluations
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014228
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001200 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001200
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001200
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014228
+AB - The safety of buildings which have been affected by a natural disaster such as an earthquake is currently evaluated manually by certified inspectors who identify visible damage on the structural elements. This process has been proven to be time-consuming, costly, and can delay the response and recovery. In order to automate this type of assessment, it is necessary to automatically determine the damage state of the individual structural members. Previously, the writers have created novel methods for automated detection of RC columns as well as significant damage on the column surfaces (spalling and cracking). This paper presents a novel method of automatically determining the damage state of RC columns in RC frame buildings based only on the automatically detected damage and column information. In addition, the novel method automatically determines an associated engineering demand parameter, residual drift capacity. All of the methods previously developed by the writers are combined with the method presented in this paper and the results are compared with those of manual assessment procedures. The method was implemented using computer software and its effectiveness was confirmed with this comparison.
+
+
+    
+        AU - Dipti Ranjan Sahoo
+    
+        AU - Shih-Ho Chao
+    
+
+TI - Stiffness-Based Design for Mitigation of Residual Displacements of Buckling-Restrained Braced Frames
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014229
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001204 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001204
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001204
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014229
+AB - Buckling-restrained braced frames (BRBFs) are often used as primary seismic force resisting systems to achieve the desired seismic performance of building frames. However, significant residual displacements of these systems may cause concerns on their postearthquake performance, especially under long duration earthquakes and strong aftershocks. Although backup moment frames (MFs) along with the BRBFs, referred to as dual systems, can be used to mitigate their residual interstory drifts, there is no design criterion on how to determine the section sizes in the MF for this purpose. In the research reported in this paper, a simple mitigation technique was developed, which relies on a stiffness-based design in which the residual interstory drifts can be effectively controlled by increasing the elastic story stiffness using column sections with a higher moment of inertia. Nonlinear time-history analyses were carried out on low-to-high rise BRBFs for a set of 20 design basis earthquake (DBE) level ground motions to evaluate their residual interstory drift response for both pinned and rigid beam-to-column connections. Based on these analytical results, a simple expression is also proposed for predicting the residual drift ratios of low-to-high rise BRBFs.
+
+
+    
+        AU - Ying Sun
+    
+        AU - Yue Wu
+    
+        AU - Ye Qiu
+    
+        AU - Yukio Tamura
+    
+
+TI - Effects of Free-Stream Turbulence and Reynolds Number on the Aerodynamic Characteristics of a Semicylindrical Roof
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014230
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001209 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001209
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001209
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014230
+AB - The influences of free-stream turbulence and Reynolds number on the aerodynamic characteristics of a semicylindrical roof have been investigated experimentally under uniform flow conditions. Grids were used to generate homogeneous turbulent flows with turbulence intensities varying from 5.7 to 12.2%. The diameters, D, of the semicylindrical roof models were 0.2 and 0.6&nbsp;m. The Reynolds numbers based on D ranged from 6.90×104 to 8.28×105 in smooth flow and from approximately 6.06×104 to 4.79×105 in grid-generated turbulent flow. Measurements of the surface pressure indicated that, in smooth flow, the mean and RMS pressure distributions became Reynolds number independent when R&gt;4.14×105. The introduction of turbulence has caused a premature transition of the separated shear layer from laminar to turbulent. Increasing free-stream turbulence helps to remarkably reduce the mean and fluctuating drag force at lower Reynolds number, R&lt;1.46×105. There is also a relatively significant reduction in the mean lift force as the turbulence intensity increases when R&gt;1.46×105. The data also suggested that the effects of turbulence essentially depend on the turbulence intensity and the ratio of turbulence length scale to cylinder diameter. The small-scale turbulence was better able to interact with the surface boundary layer before and after separation and thus dramatically increased the pressure fluctuations in both the top and wake regions.
+
+
+    
+        AU - Richard J. Balling
+    
+        AU - Jacob S. Lee
+    
+
+TI - Simplified Model for Analysis and Optimization of Skyscrapers with Outrigger and Belt Trusses
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014231
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001210 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001210
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001210
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014231
+AB - A simplified skyscraper model (SSM) based on dominant degrees of freedom and superelements was developed and implemented in a spreadsheet for use in preliminary design of skyscrapers with outrigger and belt trusses. The SSM was used to analyze and optimize the linear and nonlinear response to gravity, wind, and seismic loading of four configurations of an example 100-story skyscraper. Results from the SSM were compared with those from a detailed finite element model (DFEM), and the difference was less than 1% for displacement and 6% for maximum stress. The SSM properly predicted the deflected shape of the core including curvature reversals typical of skyscrapers with outrigger and belt trusses. The speed of execution, data preparation, data extraction, and optimization were found to be much faster with the SSM than with the DFEM.
+
+
+    
+        AU - Mei-Ni Su
+    
+        AU - Ben Young
+    
+        AU - Leroy Gardner
+    
+
+TI - Continuous Beams of Aluminum Alloy Tubular Cross Sections. I: Tests and FE Model Validation
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014232
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001214 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001214
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001214
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014232
+AB - The aims of this study are to generate experimental data and develop numerical models for aluminum alloy continuous beams, and to utilize the results to underpin the development of revised design methods for indeterminate structures. This paper presents an experimental program and finite-element (FE) analyses for two-span continuous beams (i.e.,&nbsp;five-point bending) of square and rectangular hollow sections (SHSs and RHSs). The experimental program comprised 27 five-point bending tests with three different positioning of loads. The testing procedures and key results are reported. The test specimens were manufactured by extrusion, with 18 of grade 6061-T6 and 9 of grade 6063-T5 heat-treated aluminum alloys. The test specimens were nonslender sections, and mostly of Class 1 proportions. Generally, the specimens failed by the formation of a collapse mechanism comprising three plastic hinges. The distances between the supports and the loading points were varied in order to form the first plastic hinge in different locations, to achieve different load levels between the first hinge and collapse, and to change the rotation demands on the first hinge that formed. The FE models were developed and failure was defined as either when a plastic collapse mechanism was formed or the material fracture strain was reached on the tension flange, whichever occurred first. The numerical models were first validated against the experimentally obtained load-deflection responses, as well as the failure modes. The experimental and FE ultimate loads were both found to be beyond the theoretical loads corresponding to the formation of the first hinge as well as the calculated plastic collapse loads. A key characteristic of aluminum alloy, strain hardening, is shown to be particularly significant in both the experimental program and the numerical investigation. The validated FE models are used to generate numerical results through parametric studies in the companion paper. The development of design rules for indeterminate aluminum alloy structural systems is then described.
+
+
+    
+        AU - Mei-Ni Su
+    
+        AU - Ben Young
+    
+        AU - Leroy Gardner
+    
+
+TI - Continuous Beams of Aluminum Alloy Tubular Cross Sections. II: Parametric Study and Design
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014233
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001215 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001215
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001215
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014233
+AB - Aluminum alloys are employed in a range of structural engineering applications, supported by many international design standards, but plastic design methods are generally not permitted. In the second part of this study, an extensive numerical parametric study is conducted to assess the effect of key parameters, such as cross section slenderness, cross section aspect ratio, and moment gradient on the strength, strain hardening, and moment redistribution behavior of aluminum alloy continuous beams. The key input parameters and findings are reported herein. Based on both the experimental and parametric numerical results, the design provisions of the American, Australian/New Zealand, and European specifications as well as the traditional plastic design method, the plastic hinge method, and the continuous strength method (CSM) for indeterminate structures, the scope of which is extended in the present study, have been evaluated. The design strengths predicted by the three specifications were found to be rather conservative, while the predications of the latter three methods are more precise and consistent. The results reveal that strain hardening at the cross-sectional level and moment redistribution at the global system level have significant influence on the performance of stocky (plastic and compact sections) aluminum alloy members, which should be accounted for in design. Following reliability analysis, proposals are made for revised design provisions.
+
+
+    
+        AU - Tian-Yi Song
+    
+        AU - Lin-Hai Han
+    
+        AU - Zhong Tao
+    
+
+TI - Structural Behavior of SRC Beam-to-Column Joints Subjected to Simulated Fire Including Cooling Phase
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04014234
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001211 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001211
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001211
+SO - Journal of Structural Engineering 2015-09-01 141(9): 04014234
+AB - This paper presents the test results of three steel-reinforced concrete (SRC) columns to SRC beam joints under combined loading and fire. Simulated fires, including heating and cooling phases with different heating times, were applied to the lower part of the three composite joint specimens. Failure modes, concrete cracking, concrete spalling, and deformation development were observed or measured. The test results indicate that heating time affects the postfire residual bearing capacity significantly. A finite-element analysis (FEA) model was developed to simulate the response of SRC beam-to-column joints in whole loading sequences, including initial loading, heating, cooling, and postfire loading. Some key influencing factors, such as the creep of steel at high temperatures, slippage between the steel and concrete, and residual stresses in the H-shaped steel, were considered in the model. On the basis of the verified FEA model, the development of the rotation angle between the beam and column, which cannot be measured by testing, was calculated and discussed.
+
+
+    
+        AU - Ye Xia
+    
+        AU - Chengqing Wu
+    
+        AU - Zhong-Xian Li
+    
+
+TI - Optimized Design of Foam Cladding for Protection of Reinforced Concrete Members under Blast Loading
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 06014010
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001190 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001190
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001190
+SO - Journal of Structural Engineering 2015-09-01 141(9): 06014010
+AB - A load-cladding-structure (LCS) model was used to study the mitigating effect provided by metallic foam cladding against blast loading on reinforced concrete (RC) structural members. The model considered the interactions between an external blast load, a protecting foam cladding, and a target RC structural member. The effectiveness of the LCS model was validated by field blast tests conducted in 2009. The validated model was then used to derive pressure impulse diagrams of the foam-protected RC members. Afterwards, two nondimensional parameters representing the relationship between the foam cladding and the target RC member were characterized. Using the suggested nondimensional parameters, normalized pressure-impulse (p−i) diagrams for the foam-protected RC members were generated. The effects of the two nondimensional parameters on the p−i diagrams were investigated by comparing the corresponding asymptotes. Based on the predicted results, an optimized design of the foam cladding for RC structural members was suggested.
+
+
+    
+        AU - Lydell Wiebe
+    
+        AU - Constantin Christopoulos
+    
+
+TI - Erratum for “Performance-Based Seismic Design of Controlled Rocking Steel Braced Frames. I: Methodological Framework and Design of Base Rocking Joint” by Lydell Wiebe and Constantin Christopoulos
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 08214001
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001234 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001234
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001234
+SO - Journal of Structural Engineering 2015-09-01 141(9): 08214001
+
+
+    
+        AU - Lydell Wiebe
+    
+        AU - Constantin Christopoulos
+    
+
+TI - Erratum for “Performance-Based Seismic Design of Controlled Rocking Steel Braced Frames. II: Design of Capacity-Protected Elements” by Lydell Wiebe and Constantin Christopoulos
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 08215001
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001235 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001235
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001235
+SO - Journal of Structural Engineering 2015-09-01 141(9): 08215001
+
+
+    
+        AU - Christos Zeris
+    
+
+TI - Erratum for “Seismic Response of Rocking Oscillators on a Soft Story: Elastic Response” by Christos Zeris
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 08215002
+VI - 141
+IP - 9
+AID - 10.1061/(ASCE)ST.1943-541X.0001282 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001282
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001282
+SO - Journal of Structural Engineering 2015-09-01 141(9): 08215002
+
+

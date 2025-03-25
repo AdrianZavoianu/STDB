@@ -1,0 +1,381 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU -  
+    
+
+TI - The State-of-the-Art of Computer Graphics Applications in Structural Engineering
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 459-504
+VI - 101
+IP - 3
+AID - 10.1061/JSDEAG.0004003 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004003
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004003
+SO - Journal of the Structural Division 1975-03-01 101(3): 459-504
+AB - This report provides a survey of the ways in which computer graphics is used in engineering practice, particularly in structural engineering. The Committee attempted not only to survey the uses to which computer graphics was being put, but also to critically evaluate the uses, and to give recommendations for desirable work. Not all of these goals were met, but each of these areas is discussed.
+
+
+    
+        AU - John Roorda
+    
+
+TI - Tendon Control in Tall Structures
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 505-521
+VI - 101
+IP - 3
+AID - 10.1061/JSDEAG.0004004 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004004
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004004
+SO - Journal of the Structural Division 1975-03-01 101(3): 505-521
+AB - Slender structures that experience troublesome vibrations may be damped by either active or passive means. Active damping, which requires an external energy source, may be implemented by means of a feedback control mechanism composed of a motion-sensing device, an electrohydraulic servomechanism, and a pair of tendons to create a control torque at some point on the structure. The transfer characteristics of the controlled structure for displacement, velocity, and acceleration input are first examined, with special regard for stability limitations. Then the response amplitude curves are obtained, and finally the response of the controlled structure to random (white noise) excitation is studied. The results show that the stiffness of the tendons, the response time of the servomechanism, and the motion sensor characteristics play an important part in the control scheme. Significant reductions in response can be achieved with appropriate values for these three control parameters.
+
+
+    
+        AU - Cheng-Shung Lin
+    
+        AU - Alexander C. Scordelis
+    
+
+TI - Nonlinear Analysis of RC Shells of General Form
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 523-538
+VI - 101
+IP - 3
+AID - 10.1061/JSDEAG.0004005 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004005
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004005
+SO - Journal of the Structural Division 1975-03-01 101(3): 523-538
+AB - A general finite element method of analysis is developed to analyze reinforced concrete shells of general form and slabs of arbitrary geometry under dead load and monotonically increasing live loads. The method can be used to trace the load-deformation response and crack propagation through the elastic, inelastic, and ultimate ranges. The nonlinear analysis includes cracking with a tension stiffening effect and the elastoplastic behavior of the concrete and steel reinforcement. The coupling between the membrane action and the bending action due to material asymmetry is also included. Validity of the method is studied by comparing analytical results with experimental data. It is found that the tension stiffening effect has a significant influence on the post-cracking response of underreinforced concrete structures. The importance of the failure criteria and flow rules is also studied.
+
+
+    
+        AU - Avigdor V. Rutenberg
+    
+        AU - Wai K. Tso
+    
+
+TI - Torsional Analysis of Perforated Core Structure
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 539-550
+VI - 101
+IP - 3
+AID - 10.1061/JSDEAG.0004006 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004006
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004006
+SO - Journal of the Structural Division 1975-03-01 101(3): 539-550
+AB - A simple method for torsional analysis of perforated core wall structures considering shear deformation is presented. The governing differential equation is derived from compatibility using open section thin-wall torsion-bending theory. The method is compared with conventional analysis in which shearing strains are ignored to show that for a narrow band of openings or stiff connecting beams the conventional analysis overestimates the rotational stiffness of the core wall assembly. This is also borne out by the experimental evidence. Since the governing differential equation has the same form as that of the conventional solution, existing tables and graphs can be used to obtain the deformations and internal forces.
+
+
+    
+        AU - R. Shankaran Nair
+    
+
+TI - Linear Structural Analysis of Multistory Buildings
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 551-565
+VI - 101
+IP - 3
+AID - 10.1061/JSDEAG.0004007 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004007
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004007
+SO - Journal of the Structural Division 1975-03-01 101(3): 551-565
+AB - A technique is developed for the analysis of two or three-dimensional multistory building frames subjected to a general system of loads. Floors are assumed to be perfectly rigid in their own plane and the structural framing system is treated as an assemblage of interconnected plane frames; there are no restrictions on the orientation or manner of interconnection of these frames. The torsional stiffness of all members is neglected. Within the limitations of these assumptions, the analysis is exact; conditions of displacement-compatibility and equilibrium are fully satisfied at all joints in the structure, including those at lines of intersection of two or more frames. The partitioning of the structure into plane frames forms the basis for a substructure technique that is employed in the analysis. A computer program based on the proposed method of analysis was used to analyze several large multistory buildings on two computers of widely differing capacities. These analyses demonstrate the effectiveness of the proposed technique.
+
+
+    
+        AU - David J. Harman
+    
+        AU - William H. Walker
+    
+
+TI - Analysis of Tall Buildings Using Member Groups
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 567-583
+VI - 101
+IP - 3
+AID - 10.1061/JSDEAG.0004008 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004008
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004008
+SO - Journal of the Structural Division 1975-03-01 101(3): 567-583
+AB - An approximate three-dimensional method is presented for static and dynamic lateral-load analysis of tall reinforced concrete buildings. Input preparation and computer expense are variable relative to the detail and accuracy required. Although only selected floors are described, the mathematical model is a constrained counterpart of a corresponding detailed model. Arrangements of coupled and interconnected shear walls combined with frames are analyzed. Flexural and shear strains of beams, slabs, columns, and walls and axial strains of columns and walls are treated directly. For a 43-story building, the two approximate analyses presented cost approximately one-quarter and one-third of the detailed analysis. Compared to the detailed solution, the fundamental modes and several subsequent natural modes and periods were very accurate.
+
+
+    
+        AU - Rimas Vaicaitis
+    
+        AU - Masanobu Shinozuka
+    
+        AU - Masaru Takeno
+    
+
+TI - Response Analysis of Tall Buildings to Wind Loadings
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 585-600
+VI - 101
+IP - 3
+AID - 10.1061/JSDEAG.0004009 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004009
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004009
+SO - Journal of the Structural Division 1975-03-01 101(3): 585-600
+AB - A Monte Carlo technique is used for the response analysis of continuous structures to wind loading. The wind forces corresponding to drag, acting along-wind direction and lift, and acting across wind are considered. The fluctuating wind velocity field is taken as a stationary Gaussian random process with mean zero. The modal time-domain approach is used for response calculations with the generalized random forces being generated numerically on a digital computer. The results are used to study the effect on structural response by aerodynamic damping, higher order turbulence, wind inertia, and vortex shedding.
+
+
+    
+        AU - Jong-Cherng Peir
+    
+        AU - C. Allin Cornell
+    
+
+TI - Closure to “Spatial and Temporal Variability of Live Loads”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 603-604
+VI - 101
+IP - 3
+AID - 10.1061/JSDEAG.0004010 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004010
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004010
+SO - Journal of the Structural Division 1975-03-01 101(3): 603-604
+
+
+    
+        AU - Wayne C. Kroenke
+    
+        AU - Martin J. Gutzwiller
+    
+        AU - Robert H. Lee
+    
+
+TI - Closure to “Finite Element for Reinforced Concrete Frame Study”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 605-605
+VI - 101
+IP - 3
+AID - 10.1061/JSDEAG.0004011 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004011
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004011
+SO - Journal of the Structural Division 1975-03-01 101(3): 605-605
+
+
+    
+        AU - Daniel Roos
+    
+
+TI - Closure to “Evaluations of Computer Charging Policies”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 606-606
+VI - 101
+IP - 3
+AID - 10.1061/JSDEAG.0004012 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004012
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004012
+SO - Journal of the Structural Division 1975-03-01 101(3): 606-606
+
+
+    
+        AU - Ganpat S. Pandit
+    
+        AU - Manak B. Mawal
+    
+
+TI - Closure to “Tests of Concrete Columns in Torsion”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 606-608
+VI - 101
+IP - 3
+AID - 10.1061/JSDEAG.0004013 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004013
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004013
+SO - Journal of the Structural Division 1975-03-01 101(3): 606-608
+
+
+    
+        AU - Christian Meyer
+    
+
+TI - Closure to “Solution of Linear Equations—State-of-the-Art”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 608-609
+VI - 101
+IP - 3
+AID - 10.1061/JSDEAG.0004014 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004014
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004014
+SO - Journal of the Structural Division 1975-03-01 101(3): 608-609
+
+
+    
+        AU - William R. Hibbard
+    
+        AU - Peter F. Adams
+    
+
+TI - Closure to “Subassemblage Technique for Asymmetric Structures”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 609-610
+VI - 101
+IP - 3
+AID - 10.1061/JSDEAG.0004015 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004015
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004015
+SO - Journal of the Structural Division 1975-03-01 101(3): 609-610
+
+
+    
+        AU - Ganpat S. Pandit
+    
+
+TI - Discussion of “Torsional Strength of Prestressed Concrete Beams”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 610-612
+VI - 101
+IP - 3
+AID - 10.1061/JSDEAG.0004017 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004017
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004017
+SO - Journal of the Structural Division 1975-03-01 101(3): 610-612
+
+
+    
+        AU - Ganpat S. Pandit
+    
+        AU - Nanik Tanwani
+    
+
+TI - Discussion of “Fracture and Stress-Strain Relationship of Concrete under Triaxial Compression”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 613-615
+VI - 101
+IP - 3
+AID - 10.1061/JSDEAG.0004018 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004018
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004018
+SO - Journal of the Structural Division 1975-03-01 101(3): 613-615
+
+
+    
+        AU - Max L. Porter
+    
+        AU - Carl E. Ekberg
+    
+
+TI - Discussion of “Composite Steel-Concrete Construction”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 615-616
+VI - 101
+IP - 3
+AID - 10.1061/JSDEAG.0004019 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004019
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004019
+SO - Journal of the Structural Division 1975-03-01 101(3): 615-616
+
+
+    
+        AU - Gilbert H. Béguin
+    
+
+TI - Discussion of “Composite Steel-Concrete Construction”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 616-618
+VI - 101
+IP - 3
+AID - 10.1061/JSDEAG.0004020 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004020
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004020
+SO - Journal of the Structural Division 1975-03-01 101(3): 616-618
+
+
+    
+        AU - Ken P. Chong
+    
+
+TI - Discussion of “Post-Local-Buckling Behavior of Continuous Beams”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 619-621
+VI - 101
+IP - 3
+AID - 10.1061/JSDEAG.0004021 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004021
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004021
+SO - Journal of the Structural Division 1975-03-01 101(3): 619-621
+
+
+    
+        AU - Himat T. Solanki
+    
+
+TI - Discussion of “Torsion-Bending-Shear Interaction for Concrete Beams”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 621-623
+VI - 101
+IP - 3
+AID - 10.1061/JSDEAG.0004022 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004022
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004022
+SO - Journal of the Structural Division 1975-03-01 101(3): 621-623
+
+
+    
+        AU - Max A. M. Herzog
+    
+
+TI - Erratum for “Ultimate Static Strength of Plate Girders from Tests”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 610-610
+VI - 101
+IP - 3
+AID - 10.1061/JSDEAG.0004016 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004016
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004016
+SO - Journal of the Structural Division 1975-03-01 101(3): 610-610
+
+

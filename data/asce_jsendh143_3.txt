@@ -1,0 +1,418 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Amit Kanvinde
+    
+
+TI - Predicting Fracture in Civil Engineering Steel Structures: State of the Art
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 03116001
+VI - 143
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001704 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001704
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001704
+SO - Journal of Structural Engineering 2017-03-01 143(3): 03116001
+AB - Fracture is an extreme limit state in steel structures, often precipitating structural failure or serious loss of function. Methods to predict fracture in civil structures include traditional approaches developed in other disciplines (mechanical or aerospace engineering) subsequently adopted in structural engineering, as well as approaches to characterize earthquake-induced fractures originating within civil engineering. Developed over nearly six decades, the state of the art is composed of theories and models that address fracture over multiple scales and are targeted toward disparate application scenarios. The paper examines these approaches from a structural engineering standpoint, considering trade-offs in accuracy and expense, while identifying areas for improvement. Traditional approaches (including linear elastic and elastic plastic fracture mechanics) are presented, followed by newer local approaches that are better suited for scenarios where traditional approaches are inapplicable. By simulating micromechanisms such as microvoid growth as well as granular cleavage, local approaches address fracture under large-scale yielding, ultralow-cycle fatigue (which occurs during earthquakes), and low-stress triaxiality, all of which are important in civil structures. The physical basis for these approaches is outlined, with a summary of best practices for calibration and application. However, these local approaches have limitations as well, and often require substantial resources for successful implementation. With this background, optimal fracture assessment strategies are outlined for common structural scenarios, considering accuracy and cost. Limitations of the entire fracture modeling framework are summarized because they pertain to mainstream adoption within structural engineering research and practice. As the profession moves toward accurate performance characterization, it is anticipated that research will accelerate to overcome these limitations.
+
+
+    
+        AU - C. Kelly Herrick
+    
+        AU - Mervyn J. Kowalsky
+    
+
+TI - Out-of-Plane Buckling of Ductile Reinforced Structural Walls due to In-Plane Loads
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016182
+VI - 143
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001660 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001660
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001660
+SO - Journal of Structural Engineering 2017-03-01 143(3): 04016182
+AB - Reinforced structural walls are often implemented as a lateral force resisting system in multistory buildings, designed to deform elastically under wind loads and form plastic hinges at their base under seismic excitation. Past research suggests plastic tensile demands and subsequent load reversals can cause a plastic, localized lateral instability in walls. Although lateral stability is addressed by some building codes, plastic buckling is rarely directly addressed. In 2010 and 2011, New Zealand experienced earthquakes that damaged many structural wall buildings, and plastic buckling was observed. This paper re-examines two existing local buckling models using a range of data sources. A review of prior experimental work assesses the models’ accuracy at predicting plastic buckling capacities. A parametric study on a range of walls examines the variables most influential to affect plastic buckling capacities. Additionally, three nonlinear time history analyses of buildings subjected to the 2010 and 2011 New Zealand earthquakes are presented and compared with field observations to assess each buckling model’s accuracy. The findings’ impacts are discussed and revisions to the buckling models are suggested. Recommendations are provided for future research on local instability of structural walls.
+
+
+    
+        AU - Xilin Lu
+    
+        AU - Xiangliang Dang
+    
+        AU - Jiang Qian
+    
+        AU - Ying Zhou
+    
+        AU - Huanjun Jiang
+    
+
+TI - Experimental Study of Self-Centering Shear Walls with Horizontal Bottom Slits
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016183
+VI - 143
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001673 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001673
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001673
+SO - Journal of Structural Engineering 2017-03-01 143(3): 04016183
+AB - This paper introduces a new design form for prestressed shear walls with horizontal bottom slits utilizing cast-in-place technology. Horizontal slits are placed symmetrically at the wall-foundation interface of prestressed shear walls while the concrete in the middle of the wall width remains connected with the foundation. Furthermore, unbonded prestressed tendons inside the wall are adopted to provide self-centering ability. Tests on prestressed self-centering shear walls with horizontal bottom slits under cyclic loading were conducted to investigate their seismic performance. Test results were analyzed from the tests, and a comparison was made among traditional shear wall and self-centering shear walls with horizontal bottom slits of different configurations. The experimental results indicate that the tested cast-in-place shear walls exhibit excellent self-centering ability with the lateral load capacity similar to traditional shear walls. The quantity and distribution range of the cracking in the walls were significantly reduced, to the advantage of damage reduction. The flexural/shear deformations and the strains of the walls were limited to a very low level as the deformations were concentrated at the bottom of the shear walls. According to the results of the tests, an analysis method was presented to calculate the flexural strength of the proposed shear walls.
+
+
+    
+        AU - Zhan Shu
+    
+        AU - Jian Zhang
+    
+        AU - Satish Nagarajaiah
+    
+
+TI - Dimensional Analysis of Inelastic Structures with Negative Stiffness and Supplemental Damping Devices
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016184
+VI - 143
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001658 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001658
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001658
+SO - Journal of Structural Engineering 2017-03-01 143(3): 04016184
+AB - A negative stiffness device (NSD) has been proposed as an innovative way for seismic protection of structures. It was shown both numerically and experimentally to improve the performance of inelastic structures when it is appropriately designed for the given application. In order to systematically evaluate the effects of a NSD, dimensional analysis is used in this study to quantify the structural responses as the function of input ground motion characteristics, model parameters of structure and NSD, as well as supplemental damping. To facilitate this, a simplified yet parameterized numerical model is first proposed to mimic the observed responses of the tested prototype NSD. The dimensional analysis is then conducted on a single degree of freedom (SDOF) system equipped with both a NSD and a nonlinear damper. By comparing the dimensionless structural responses for the cases of (1)&nbsp;inelastic structure only, (2)&nbsp;inelastic structure with nonlinear damper, and (3)&nbsp;inelastic structure with both nonlinear damper and NSD when subject to various pulse type motions, the effectiveness of a NSD is investigated thoroughly. Finally, the optimal ranges of NSD model parameters are also identified.
+
+
+    
+        AU - Lassaad Mhamdi
+    
+        AU - Thomas Schumacher
+    
+        AU - Lindsay Linzer
+    
+
+TI - Retracted: Characterization of Flexural and Shear Cracks in Reinforced Concrete Beams Using Moment Tensor Inversion from Acoustic Emission Signals
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016185
+VI - 143
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001666 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001666
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001666
+SO - Journal of Structural Engineering 2017-03-01 143(3): 04016185
+AB - Quantitative characterization of fracture mechanisms in concrete is a challenging problem that has not been convincingly solved to date. Several monitoring approaches have been proposed to capture and characterize different fracture mechanisms and warn against potential sudden structural failure. However, due to the complex nature of concrete, often only qualitative approaches are applied, which are unable to accurately characterize fracture sources in concrete due to intricate and simultaneously occurring fracture processes and significant measurement noise. In this study, the authors further investigate the feasibility of employing a monitoring approach that combines the seismology-based method of moment tensor inversion (MTI) with the acoustic emission (AE) technique for the quantitative characterization of flexural and shear cracks in reinforced concrete beams. To evaluate this approach in a realistic large-scale setting, the authors conducted two laboratory experiments on two separate normal-weight reinforced concrete beams of the same overall dimensions: 305 mm×610 mm×4.88 m (12 in.×24  in.×16  ft). Such large-scale experiments are scarce and only very few studies have been conducted to date. One beam was designed to fail in flexure and the second one in shear. According to the proposed approach, AE signals recorded from concrete cracking were inverted using a MTI code that the authors modified to visualize stereographic projections appropriate for structural testing, in order to study the sources of fracture and infer their nature. Furthermore, the authors employed a new high-fidelity point-contact sensor that measures actual displacements, which is the input required for a MTI. The results show that the cracks produced during loading of the flexure beam are dominantly tensile (81%) while the cracks from the shear beam were dominated by shearing (73%). These findings demonstrate the potential of the MTI method for quantitative structural-health monitoring (SHM) of large-scale reinforced concrete beams.
+
+
+    
+        AU - Hussam Mahmoud
+    
+        AU - Guo Cheng
+    
+
+TI - Framework for Lifecycle Cost Assessment of Steel Buildings under Seismic and Wind Hazards
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016186
+VI - 143
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001663 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001663
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001663
+SO - Journal of Structural Engineering 2017-03-01 143(3): 04016186
+AB - Despite the importance of considering multiple extreme events when designing structures, the current treatment of multiple hazard design in code provisions and assessment guidelines is rather vague. This is primarily because design and assessment of structures have traditionally been geared toward meeting the demand of a single hazard. In recent years, there has been a spike in interest by researchers and engineers in evaluating and designing structures for different hazard combinations. In this paper, a probabilistic framework is provided for assessing design alternatives based on estimating the lifecycle cost for two steel buildings with different heights subjected to different seismic and wind intensities. The intensities are specified based on probability of exceedance as per code standards. The total lifecycle cost is estimated using the initial cost and failure cost where the failure cost is a function of the probability of failure, which is calculated based on specified performance objectives that are evaluated using nonlinear time-history analyses in combination with the first-order reliability method. The analysis results clearly show that obtaining a minimum lifecycle cost depends on the probability of exceedance being combined for every hazard and the natural frequency of the structure considered. The results highlight the importance of considering lifecycle cost as an essential component of performance-based engineering for the design of new structural systems to meet the demand of multiple hazards.
+
+
+    
+        AU - Ronald L. Sack
+    
+        AU - Richard J. Nielsen
+    
+        AU - Bruce R. Godfrey
+    
+
+TI - Evolving Studies of Ground Snow Loads for Several Western U.S. States
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016187
+VI - 143
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001679 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001679
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001679
+SO - Journal of Structural Engineering 2017-03-01 143(3): 04016187
+AB - In 1988, ASCE began publishing a nationwide ground snow load map that requires local studies to be completed in areas where the varied terrain and complex weather patterns result in extreme variations in ground snow between the valleys, plains, and mountains. Several states in the Midwest and the Northeast regions have published region-specific descriptions of their ground snow loads. In 1964, approximately 11 states in the Western United States began publishing their individual reports that reflect local knowledge and case studies. Several states in the West (Western United States) have published two or more editions of their reports and maps. With the improvements over the past five decades in computing capabilities, database management, and cartography, the evolving and improved results of these studies can be observed. Idaho has produced three editions of their ground snow load reports, and the evolving process can be traced by perusing these three versions.
+
+
+    
+        AU - Ioannis Gidaris
+    
+        AU - Jamie E. Padgett
+    
+        AU - Andre R. Barbosa
+    
+        AU - Suren Chen
+    
+        AU - Daniel Cox
+    
+        AU - Bret Webb
+    
+        AU - Amy Cerato
+    
+
+TI - Multiple-Hazard Fragility and Restoration Models of Highway Bridges for Regional Risk and Resilience Assessment in the United States: State-of-the-Art Review
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016188
+VI - 143
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001672 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001672
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001672
+SO - Journal of Structural Engineering 2017-03-01 143(3): 04016188
+AB - Highway bridges are one of the most vulnerable constituents of transportation networks when exposed to one or more natural hazards, such as earthquakes, hurricanes, tsunamis, and riverine floods. To facilitate and enhance prehazard and posthazard event mitigation and emergency response strategies of transportation systems and entire communities, probabilistic risk and resilience assessment methodologies have attracted increased attention recently. In this context, fragility and restoration models for highway bridges subjected to a range of hazards are essential tools for efficient and accurate quantification of risk and resilience. This paper provides a comprehensive review of state-of-the-art fragility and restoration models for typical highway bridge classes that are applicable for implementation in multihazard risk and resilience analyses of regional portfolios or transportation networks in the United States. An overview of key gaps in the literature is also presented to guide future research.
+
+
+    
+        AU - Chang-Soo Kim
+    
+        AU - Hong-Gun Park
+    
+        AU - In-Rak Choi
+    
+        AU - Kyung-Soo Chung
+    
+
+TI - Effect of Sustained Load on Ultimate Strength of High-Strength Composite Columns Using 800-MPa Steel and 100-MPa Concrete
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016189
+VI - 143
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001676 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001676
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001676
+SO - Journal of Structural Engineering 2017-03-01 143(3): 04016189
+AB - To investigate the effect of sustained loads on the ultimate strength of high-strength composite columns using grade 800-MPa steel and 100-MPa concrete, ultimate load tests were performed after long-term loading. Two concrete-encased steel (CES) columns were tested under concentric loading, and a CES column and a concrete-filled steel tube (CFT) column were tested under eccentric loading. The test results showed that stress-relaxation in the concrete and gradual stress-transfer to the steel and longitudinal bars occurred, and the ultimate shrinkage strain and ultimate creep coefficient of the high-strength concrete were estimated as 553&nbsp;μϵ and 1.44, which are lower than those of normal-strength concrete but belong to the ranges specified in concrete standards. To confirm the tests, a numerical parametric study was performed, considering the age-adjusted effective modulus and relaxation. The results of the experimental and numerical studies showed that, in the case of the high-strength composite columns, the sustained load increased deformation (axial strain and curvature) at service load conditions, but the detrimental effect on the ultimate strength was not significant. The factors for the long-term effect specified in current design codes gave good predictions for the long-term effective flexural stiffness.
+
+
+    
+        AU - Aaron J. Daley
+    
+        AU - D. Brad Davis
+    
+        AU - Donald W. White
+    
+
+TI - Shear Strength of Unstiffened Steel I-Section Members
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016190
+VI - 143
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001639 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001639
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001639
+SO - Journal of Structural Engineering 2017-03-01 143(3): 04016190
+AB - Ultimate shear strengths of 20 unstiffened I-girder specimens from the literature and seven new specimens designed to fill gaps in the experimental data are compared with predictions from models recommended by Basler, Höglund, and Lee and colleagues. Basler’s model, which is based solely on an idealized web shear buckling resistance, is shown to be accurate for webs with slenderness between 60 and 100. However, it is very conservative for members with typical plate girder web slenderness ratios. Höglund’s methods, which aim to characterize the shear postbuckling capacity of unstiffened webs, are found to be accurate to conservative. The method by Lee and colleagues, which aims to predict the shear postbuckling strength of webs with widely spaced stiffeners, is accurate on average. However, this method significantly overpredicts the strength of several specimens. A proposed adaptation of Höglund’s recommendations from a 1997 article matches the current AISC shear buckling strength equations for stocky web panels, is very simple to apply, and provides predictions that are in between those of Höglund’s methods. This adaptation of Höglund’s equations gives shear resistances that are as high as 3.66&nbsp;times the capacity from Basler’s model. The specific characteristics of the different shear resistance equations are discussed, and recommendations for potential further improvement are offered. The interaction between the shear and moment capacities is found to be insignificant, although many of the specimens are subjected simultaneously to shears and moments close to the calculated nominal strengths. Resistance factors are computed to facilitate potential inclusion in modern specifications.
+
+
+    
+        AU - Christopher J. Motter
+    
+        AU - David C. Fields
+    
+        AU - John D. Hooper
+    
+        AU - Ron Klemencic
+    
+        AU - John W. Wallace
+    
+
+TI - Steel-Reinforced Concrete Coupling Beams. I: Testing
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016191
+VI - 143
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001670 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001670
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001670
+SO - Journal of Structural Engineering 2017-03-01 143(3): 04016191
+AB - Structural steel-reinforced concrete (SRC) coupling beams are an alternative to conventional and diagonal rebar-reinforced concrete coupling beams. To address gaps in previous testing that was used to develop design recommendations, four large-scale, flexure-yielding, cantilever SRC coupling beams were embedded, without inclusion of auxiliary transfer bars and bearing plates, into reinforced concrete structural walls. Beams were tested by applying quasi-static, reversed-cyclic shear loading to the coupling beam, and moment and shear to the top of the wall to create cyclic tension and compression fields across the embedment region. The primary test variables were the structural steel section embedment length, beam span length (aspect ratio), quantities of wall boundary longitudinal and transverse reinforcement, and applied wall loading (moment, shear, and axial load). Favorable performance, characterized by minimal pinching and asymmetry in the load-deformation response and concentration of damage at the beam–wall interface, was associated with long embedment length, moderate-to-light wall demands, and heavy wall boundary reinforcement. Reduced embedment length, large wall demands, and light wall boundary reinforcement led to reduced performance, with increased pinching, asymmetry, and cyclic degradation evident in the load-deformation response and significant damage in the embedment region.
+
+
+    
+        AU - Christopher J. Motter
+    
+        AU - David C. Fields
+    
+        AU - John D. Hooper
+    
+        AU - Ron Klemencic
+    
+        AU - John W. Wallace
+    
+
+TI - Steel-Reinforced Concrete Coupling Beams. II: Modeling
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016192
+VI - 143
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001671 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001671
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001671
+SO - Journal of Structural Engineering 2017-03-01 143(3): 04016192
+AB - Using test results presented in previous studies, design and modeling recommendations for steel-reinforced concrete (SRC) coupling beams are provided for both code-based (prescriptive) design approaches and performance-based design approaches. Procedures for computing both nominal and expected (upper bound) moment and shear strengths are described. For embedment, a capacity design approach is recommended in which the provided embedment strength exceeds the expected beam strength. Two approaches are recommended for determination of effective stiffness, one based on using a rigid beam (for flexure and shear) along with an interface rotational spring, since test results from the literature indicate that the majority of the coupling-beam deformations were associated with interface slip/extension, and an alternative approach where the effective stiffness is based on the beam aspect ratio or beam length. Additional parameters are provided to define deformation capacity at significant strength loss (to complete the backbone relations) and to address cyclic degradation.
+
+
+    
+        AU - Wenying Zhang
+    
+        AU - Mahsa Mahdavian
+    
+        AU - Yuanqi Li
+    
+        AU - Cheng Yu
+    
+
+TI - Experiments and Simulations of Cold-Formed Steel Wall Assemblies Using Corrugated Steel Sheathing Subjected to Shear and Gravity Loads
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016193
+VI - 143
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001681 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001681
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001681
+SO - Journal of Structural Engineering 2017-03-01 143(3): 04016193
+AB - The paper presents experimental and numerical investigation of cold-formed steel (CFS)–framed walls sheathed with corrugated steel sheets. The new wall technology is considered as an alternative shear wall configuration for midrise buildings at strong earthquake and high-wind regions because of its attributes of noncombustibility and higher structural performance than the conventional shear wall types. However, design provisions of such corrugated sheathed CFS-framed shear walls have not been included in the current design standards. To establish comprehensive database information and to observe the performance of the bearing wall for the first time, a test program of full-scale wall assemblies using corrugated steel sheathing was conducted. The test specimens included both shear wall specimens and bearing wall specimens under lateral and vertical/gravity loading. In accordance with the full-scale tests, a numerical model was developed in a computer program, and seismic performance assessment was evaluated through nonlinear time history analysis, i.e.,&nbsp;incremental dynamic analysis using a methodology proposed by FEMA. The paper presents the results of the experiments and numerical simulations and produces appropriate seismic performance factors for this new lateral-resisting system.
+
+
+    
+        AU - Lakshmi Subramanian
+    
+        AU - Donald W. White
+    
+
+TI - Reassessment of the Lateral Torsional Buckling Resistance of I-Section Members: Uniform-Moment Studies
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016194
+VI - 143
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001686 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001686
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001686
+SO - Journal of Structural Engineering 2017-03-01 143(3): 04016194
+AB - The I-section member lateral torsional buckling (LTB) resistance equations of the unified provisions underlying the current AISC and AASHTO specifications are a fit to a large body of experimental test data. It has been observed that finite-element (FE) test simulations commonly predict smaller capacities than the AISC/AASHTO LTB equations, especially in the inelastic LTB region. One reason for this disconnect is the fact that the residual stresses and geometric imperfections are often approximated by conservative nominal values in test simulations. Another reason for the discrepancy is the common lack of consideration of inelastic effective length effects within calibrations to experimental test results. This paper recommends improvements to the current LTB resistance equations to address these shortcomings. The impact of inelastic end restraint in representative beam LTB experimental tests is illustrated through FE test simulations. In addition, extensive test simulation results are presented, based on reduced residual stresses and geometric imperfections determined in separate research, which illustrate the quality of the proposed prediction equations for I-section members of various cross section types subjected to uniform moment.
+
+
+    
+        AU - Lauren Mudd
+    
+        AU - David Rosowsky
+    
+        AU - Chris Letchford
+    
+        AU - Frank Lombardo
+    
+
+TI - Joint Probabilistic Wind–Rainfall Model for Tropical Cyclone Hazard Characterization
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016195
+VI - 143
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001685 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001685
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001685
+SO - Journal of Structural Engineering 2017-03-01 143(3): 04016195
+AB - Often, rainfall-induced flooding has been the greatest factor influencing property loss and loss of life in major tropical cyclone events. However, a lack of an extensive historical rainfall record has long served as an obstacle to furthering the understanding of tropical cyclone–related rainfall. Advances have been made in the last few decades in rainfall observational techniques, allowing for the development of robust statistical tropical cyclone rainfall models. However, these current models are unable to capture statistical variability in rainfall intensities (i.e.,&nbsp;only mean rainfall rates can be predicted) or they cannot simulate rainfall over land. A new tropical cyclone rainfall model is developed herein using satellite rainfall observations, in which the tropical cyclone rainfall is modeled through a Weibull distribution conditioned upon maximum surface wind speed and sea surface temperature (SST). Satellites are able to capture rainfall observations in the most extreme events, unlike surface rain gauges, which tend to fail under high winds, thereby allowing for the consideration of the rainfall climatology of stronger tropical cyclone events. The rainfall model developed herein was then coupled with state-of-the-art probabilistic tropical cyclone models and future projected climate change scenarios, allowing for the concomitant characterization of tropical cyclone hazards (wind speed, rain rate, and storm size) and the assessment of possible changes in the tropical cyclone hazards in a future climate state. In results obtained from tropical cyclone simulations performed herein under a postulated future climate scenario, in which no technology or policies have been implemented to reduce greenhouse gas emissions, tropical cyclones are projected to intensify. The intensification seen in the simulation results is accompanied by a reduction in size, meaning the magnitude of the extreme wind and rainfall hazards are projected to increase, whereas the affected area is projected to decrease. Additionally, this simulated intensification implies events that are considered extreme in the current climate will occur more frequently in the future climate scenario, paving the way for possible exceedance of critical design values.
+
+
+    
+        AU - Ahmed H. Ali
+    
+        AU - Hamdy M. Mohamed
+    
+        AU - Brahim Benmokrane
+    
+
+TI - Strength and Behavior of Circular FRP-Reinforced Concrete Sections without Web Reinforcement in Shear
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016196
+VI - 143
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001684 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001684
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001684
+SO - Journal of Structural Engineering 2017-03-01 143(3): 04016196
+AB - Considerable experimental research work has been conducted to quantify the shear strength Vcf of rectangular concrete members reinforced with fiber-reinforced polymer (FRP) bars. In contrast, no research seems to have investigated circular concrete members reinforced with FRP bars under shear loads. This paper reports on a study on the behavior and shear strength of full-scale circular concrete beams reinforced with longitudinal FRP bars. The beams, which measured 3,000&nbsp;mm in length by 500&nbsp;mm in diameter, were tested under four-point bending. The test parameters included the longitudinal reinforcement ratio and the modulus of elasticity of the reinforcing bars. Steel, glass-FRP, and carbon-FRP bars were used in the experimental program. The experimental results were compared with current codes and design guidelines as well as to recently developed shear design equations appearing in the literature. The comparison indicates that the shear capacity of FRP-reinforced concrete members with circular cross sections may be determined with the Vcf approaches developed for rectangular sections provided that certain modifications are made to take into account the effective shear depth and equivalent breadth.
+
+
+    
+        AU - Delphine Sonck
+    
+        AU - Jan Belis
+    
+
+TI - Lateral-Torsional Buckling Resistance of Castellated Beams
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016197
+VI - 143
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001690 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001690
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001690
+SO - Journal of Structural Engineering 2017-03-01 143(3): 04016197
+AB - The existing design expressions for the lateral-torsional buckling behavior of castellated beams conflict. Furthermore, they do not take into account the detrimental effect of the residual stress modification attributable to the fabrication process, which was only recently demonstrated by the authors. This makes these design rules possibly unsafe. In this paper, the lateral-torsional buckling behavior of doubly symmetric castellated beams loaded by a constant bending moment is investigated numerically. The numerical model, including the modified residual stresses, was validated by comparing its results with experimental results. A preliminary design approach is proposed based on the current European guidelines for the calculation of the lateral-torsional buckling resistance of I-section beams. According to the proposed approach, the lateral-torsional buckling resistance of castellated beams can be determined using the cross-sectional properties calculated at the center of the web opening. The modification of the residual stresses during the fabrication process results in resistances that lie approximately one buckling curve lower.
+
+
+    
+        AU - Abdullahi M. Salman
+    
+        AU - Yue Li
+    
+
+TI - Multihazard Risk Assessment of Electric Power Systems
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016198
+VI - 143
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0001688 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001688
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001688
+SO - Journal of Structural Engineering 2017-03-01 143(3): 04016198
+AB - Electric power systems are susceptible to damage due to natural hazards such as hurricanes and earthquakes. Considerable effort has been made to develop methodologies for assessing the reliability of electric power systems under a single hazard such as hurricanes or earthquakes. However, there are parts of the world, such as the coastal areas of South Carolina, which are affected by both hazards. In such regions, more comprehensive risk assessment can be achieved when the focus is shifted from single-hazard to multihazard analysis. There is, therefore, a need to develop methods for quantifying the risk posed by the combined effect of multiple hazards on structures and infrastructure systems in these regions. This paper presents a framework for multihazard risk assessment of electric power systems subjected to seismic and hurricane wind hazards. The framework includes hazard and structural component vulnerability models, system reliability analysis, and multihazard risk assessment. A notional electric power network assumed to be located in Charleston, New York, and Seattle is used to demonstrate the proposed framework. The framework can be used for predisaster preparation, mitigation, and postdisaster response planning.
+
+

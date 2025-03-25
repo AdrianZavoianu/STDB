@@ -1,0 +1,764 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Sherif El-Tawil
+    
+
+TI - Stepping Down, Stepping Up: Same Outstanding Journal
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 01820001
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002943 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002943
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002943
+SO - Journal of Structural Engineering 2021-03-01 147(3): 01820001
+
+
+    
+        AU - Karen Angeles
+    
+        AU - Dimitrios Patsialis
+    
+        AU - Alexandros A. Taflanidis
+    
+        AU - Tracy L. Kijewski-Correa
+    
+        AU - Aimee Buccellato
+    
+        AU - Charles Vardeman
+    
+
+TI - Advancing the Design of Resilient and Sustainable Buildings: An Integrated Life-Cycle Analysis
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04020341
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002910 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002910
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002910
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04020341
+AB - A holistic evaluation of a building’s environmental impact must include a thorough accounting of both its operating and embodied energies, inclusive of the influence of hazard-induced damage and repairs. Unfortunately, these considerations are notoriously absent in today’s practice owing to a traditionally segmented approach to the design process that has perpetuated interoperability challenges between existing commercial tools. In response to this and other limitations of existing approaches, this paper offers an integrated life-cycle assessment (iLCA) that (1)&nbsp;considers the effects of site-specific climate and exposure to wind and seismic hazards on a building’s embodied and operating energy, (2)&nbsp;adopts an assembly-based approach to reveal the specific components influencing performance outcomes, (3)&nbsp;accommodates both risk-neutral and risk-adverse perspectives, and (4)&nbsp;addresses interoperability challenges that limit access to the data stored within commercial building information models. The resulting iLCA is partitioned into a sustainability workflow, with modules dedicated to embodied and operating energy, and a resilience workflow, sequencing modules for hazard characterization, structural response, damage, and repair/loss. A custom parser leverages semantic technologies to efficiently extract geometry and material information from the underlying data structures of Revit building information models; this parser ultimately supplies the required building data to each module. A unifying probabilistic framework is then adopted to quantify life-cycle performance, in terms of repair costs and total (embodied and operating) energy, with emphasis placed on expanding the statistical descriptions of performance to support both risk-neutral and risk-averse decision-making. The iLCA is applied to a case study office building at two sites to demonstrate the effects of climate and wind and seismic hazards on the performance of specific components over different service lives, inclusive of potential performance variability due to hazard exposure. The framework is further leveraged to examine how different sources of uncertainty, or assumptions surrounding the quantification of this uncertainty, impact life-cycle performance estimates.
+
+
+    
+        AU - Maarten Fortan
+    
+        AU - Barbara Rossi
+    
+
+TI - Lateral Torsional Buckling of Welded Stainless Steel I-Profile Beams: Experimental Study
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04020342
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002927 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002927
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002927
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04020342
+AB - In this paper, an experimental program is presented consisting of 13 experiments on welded stainless steel I-profile beams subjected to lateral torsional buckling, in which 11 specimens are made of the lean duplex stainless grades EN 1.4062 and EN 1.4162, while the last two specimens are made of the austenitic grade EN 1.4404. The beam heights are 160, 210, and 260&nbsp;mm, and the beams have a constant flange width of 160&nbsp;mm. This results in three different strong axis elastic section moduli but similar weak axis bending resistances. The range of beam buckling length covers slenderness values from 0.30 to 0.76. The geometrical imperfections of the specimens were measured using digital image correlation (DIC). The web was first measured along its whole length. Then, the beam was placed on its fork supports, and the imperfection was then remeasured once more to check the influence of both gravity and test setup. Traditional four-point bending tests were carried out, and during which, the displacements were measured using linear variable differential transformer (LVDTs), inclinometers, and DIC. In this paper, the measured ultimate moments, together with results of experiments collected in the literature, are compared to the design rules provided in EN 1993-1-4, for which a safe but rather conservative design is obtained, and to the recent proposal of Taras and Greiner dedicated to carbon steel beams. The latter provides better results for high slenderness values but can be further improved.
+
+
+    
+        AU - Masayuki Tai
+    
+        AU - Yoshitomo Nagamine
+    
+        AU - Tetsuhiro Shimozato
+    
+        AU - Yoshiaki Tamaki
+    
+
+TI - Residual Clamping Force for Corroded Tension-Control Bolts
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04020343
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002933 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002933
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002933
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04020343
+AB - This study investigated the residual clamping force for corroded tension-control bolts and the effect of each part on force reduction. A finite-element analysis revealed that bolt head section loss, and in particular bolt head diameter reduction, does not reduce the clamping force as much as a decrease in nut width. The root sum square value of the reductions, which is converted into nut width reduction, is proposed as an indicator for estimating the residual clamping force for corroded tension-control bolts. To verify the validity of the proposed method, the residual clamping force of corroded bolts cut from actual steel bridges was measured. The experimental results showed that the accuracy of the proposed method was ±15%.
+
+
+    
+        AU - A. B. Sturm
+    
+        AU - P. Visintin
+    
+        AU - D. J. Oehlers
+    
+
+TI - Mechanics of Shear Failure in Fiber-Reinforced Concrete Beams
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04020344
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002934 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002934
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002934
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04020344
+AB - In this paper, a new model, which can be solved either numerically or analytically, is presented for predicting the shear strength of fiber-reinforced concrete beams. This approach is based on predicting the sliding capacity of an inclined crack through the application of fundamental partial-interaction and shear friction theories. A segmental approach is applied to predict this capacity because it has been shown to be able to produce simple analytical solutions while explicitly allowing for the influence of fiber reinforcement and tension stiffening. Once developed, the model is validated against a range of experimental tests and its accuracy is compared to both codified approaches and other approaches in the literature.
+
+
+    
+        AU - Manuel Buitrago
+    
+        AU - Pedro A. Calderón
+    
+        AU - Juan J. Moragues
+    
+        AU - Yezid A. Alvarado
+    
+        AU - José M. Adam
+    
+
+TI - Load Limiters on Temporary Shoring Structures: Tests on a Full-Scale Building Structure under Construction
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04020345
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002948 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002948
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002948
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04020345
+AB - Temporary shoring structures are used in the construction of reinforced concrete buildings to transmit the loads of newly poured slabs onto the lower floors. The main problems involved in the use of shores/props are: (1)&nbsp;the possibility of having higher loads than those initially foreseen, and (2)&nbsp;the structural efficiency and cost of the system, which is normally oversized due to being designed to bear the maximum load of the most demanding building operation. This paper describes a test carried out on a full-scale one-story building to analyze the behavior of load limiters (LLs) installed on shores under actual construction loading conditions. The theoretical approach and development of this new LL concept were described in previous papers. Because these LLs still had not been tested in actual buildings, this paper covers the existing need for a test in the form of a “proof of concept.” It also includes computer simulations and recommendations for the use of LLs.
+
+
+    
+        AU - Azin Ghaffary
+    
+        AU - Mohamed A. Moustafa
+    
+
+TI - Performance-Based Assessment and Structural Response of 20-Story SAC Building under Wind Hazards through Collapse
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04020346
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002911 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002911
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002911
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04020346
+AB - With the increasing occurrence of extreme wind events (e.g.,&nbsp;hurricanes) and growing interest in performance-based wind engineering, a better understanding of the structural response and collapse under extreme wind loads is needed. Studying the inelastic nonlinear response of buildings through collapse under wind hazards can lead to safer structures and inform future economic designs. The objective of this paper is to investigate the performance of a 20-story steel moment-resisting frame, from the SAC project, under wind loads at different wind speeds. SAC is a joint venture between the Structural Engineers Association of California (SEAOC; the S in SAC), the Applied Technology Council (ATC; the A in SAC), and California Universities for Research in Earthquake Engineering (CUREe; the C in SAC). The building design was first assessed for compliance based on the latest code requirements. Next, a nonlinear dynamic analysis under three different hazard levels was used to conduct a performance-based assessment. The analysis showed that the building conservatively meets the different performance targets. The building was deliberately underdesigned, which resulted in an 18% reduction in used materials, to conduct a comparative nonlinear response analysis and performance-based assessment. The nonlinear analysis for both building designs was extended under increased wind loads through collapse. Overall, the different parts of the study confirm that current code methods can lead to overly conservative structural designs and suggest that incorporating a performance-based approach along with a well-controlled nonlinear response under extreme wind events can lead to safer and more economical designs and is worthy of further investigations.
+
+
+    
+        AU - Jin Wang
+    
+        AU - Gregory A. Kopp
+    
+
+TI - Comparisons of Aerodynamic Data with the Main Wind Force–Resisting System Provisions of ASCE 7-16. I: Low-Rise Buildings
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04020347
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002925 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002925
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002925
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04020347
+AB - This study assesses the wind load provisions for low-rise buildings with Chapters 27 and 28 in ASCE 7-16 and analyzes the dependence of the aerodynamics on the building geometric parameters. A systematic analysis of an aerodynamic database was used for this purpose. The mean and gust-factored uplift, base shear, and area-averaged wall pressure coefficients acting on the building surfaces comprise the main focus of this work. The results indicate that Chapter 27 captures the increasing tendency of roof uplift coefficients with larger roof heights reasonably well. The base shear obtained from the database is observed to vary with roof height, but conflicts with the design wind loads of ASCE 7-16. The ratio of roof height, H, to the horizontal plan dimension parallel to wind direction, L, is the critical nondimensional geometric parameter to model the uplift, leeward wall, and side wall pressure trends for low-rise buildings. It is also observed that the uplift can be used as a predictor of the side wall pressure coefficients for low-rise buildings. The Chapter 28 provisions conservatively envelop the data for relatively low buildings, but underestimate the wind loads for H/L&gt;0.5.
+
+
+    
+        AU - Jin Wang
+    
+        AU - Gregory A. Kopp
+    
+
+TI - Comparisons of Aerodynamic Data with the Main Wind Force–Resisting System Provisions of ASCE 7-16. II: Mid- and High-Rise Buildings
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04020348
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002922 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002922
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002922
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04020348
+AB - The purpose of this study is to investigate the effects of building geometry on tall-building aerodynamics, accompanying the analysis for low-rise buildings found in the companion paper. Aerodynamic data for total of 30 rectangular-plan buildings were obtained in wind tunnel experiments. This work tested building configurations with plan aspect ratios, L/B (where L is the horizontal dimension parallel to the wind and B is the across-wind dimension) ranging from 0.25 to 4 and height ratios, H/W (where H is roof height and W is the least horizontal dimension) ranging from 1 to 12. Additionally, this work made systematical comparisons with wind load provisions in Chapter&nbsp;27 of ASCE 7-16. Buildings with ratios of H/W&gt;∼4 have aerodynamic coefficients that are approximately constant, which means that this can be a practical aerodynamic definition of high-rise buildings. There is continuous variation of the aerodynamic coefficients for H/W&lt;4 such that differentiation of mid-rise and low-rise buildings may be considered as arbitrary from an aerodynamics perspective. Wind load coefficients for mid-rise buildings are observed to be lower than for high-rise buildings. However, for both mid-rise and high-rise buildings, largest load coefficients are observed for L/B∼0.67. The plan ratio of L/B captures the variation of the load coefficients for high-rise buildings. For lower buildings, both L/B and H/W ratios are needed to define the wind loads.
+
+
+    
+        AU - Tilak Pokharel
+    
+        AU - Helen M. Goldsworthy
+    
+        AU - Emad F. Gad
+    
+
+TI - Tensile Behavior of Groups of Double-Headed Anchored Blind Bolts within Concrete-Filled Square Hollow Sections under Cyclic Loading
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04020349
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002929 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002929
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002929
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04020349
+AB - In this paper, the cyclic behavior of groups of double-headed anchored blind bolts (DHABBs), which are anchored within concrete-filled square hollow sections (CFSHSs), is investigated. The DHABB used in this study consists of a conventional headed anchored blind bolt (HABB) with one additional head, between the existing end head in the embedded region and head next to the tube wall. A series of full-scale experiments were conducted on the pull-out behavior of groups of DHABBs under cyclic loading. The specimens consisted of groups of two DHABBs, four DHABBs, and four DHABBs with one through bolt (TB). The effects of load distribution between individual bolts and of internal concrete cones overlapping from individual blind bolts are also investigated. The failure mode and sequence, cracking pattern, and the strain distribution for each test are explained in detail. A comprehensive three-dimensional (3D) finite element model was developed and the results were shown to compare well with the experimental results. The finite element (FE) model was then used in parametric studies to ascertain the influence of various parameters on the behavior of blind bolted connections. The effect of tube thickness, flange and web thickness of T-stub, sizes and configurations of DHABBs, and TB and the concrete compressive strength were investigated. Among them, the flange thickness of the T-stub was found to be the parameter that has the largest effect on the tensile behavior of blind bolted connections.
+
+
+    
+        AU - Masoomeh Mirrashid
+    
+        AU - Hosein Naderpour
+    
+
+TI - Innovative Computational Intelligence-Based Model for Vulnerability Assessment of RC Frames Subject to Seismic Sequence
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04020350
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002921 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002921
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002921
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04020350
+AB - Previous earthquakes have shown that for structures that experience a significant ground motion with only minor damage, there is a likelihood of severe damage or complete collapse during the aftershocks. Due to the importance of such seismic sequences in structural engineering investigations, in this study, the vulnerability of RC frames under subsequent earthquakes is evaluated using computational intelligence (CI) in three phases. In the first phase, an optimized fuzzy system (Fuzzy-TLBO) is presented to estimate the used capacity of the story by considering the damage state of beams, columns, joints, and also the drift. The second phase includes two soft computing models to determine the used capacity of the frame under mainshock using indicators of the soil, record, and the structure, simultaneously. The final phase utilizes two soft computing methods with the same goal of the second phase in which the initial vulnerability of the frame concluded from the mainshock is also introduced to the estimators. These three approaches, with high accuracy in their outputs, have several benefits and applications, especially in seismic studies. They can calculate the overall output of an RC frame under loads without needing a nonlinear time-history analysis. Furthermore, they consider the effects of beams, columns, joints, and also the drift in the final output. Therefore, the proposed models in this research are a very comprehensive approach compared to the available methodologies, which only consider drift as the engineering demand parameter.
+
+
+    
+        AU - Hossein Heydarinouri
+    
+        AU - Masoud Motavalli
+    
+        AU - Alain Nussbaumer
+    
+        AU - Elyas Ghafoori
+    
+
+TI - Development of Mechanical Strengthening System for Bridge Connections Using Prestressed CFRP Rods
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04020351
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002923 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002923
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002923
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04020351
+AB - Stringer-to-floor beam web-to-web double-angle connections are among the most fatigue-prone elements in old riveted bridges. These connections are often designed to carry only shear loads. However, in these elements, fatigue damage occurs because of the out-of-plane deformation of the connections, which is ignored in the original design. In this study, a new retrofitting system is developed to reduce the out-of-plane deformation of the connections using prestressed carbon fiber-reinforced polymer (CFRP) rods. The proposed system consists of a mechanical wedge-barrel anchor to hold the prestressed CFRP rod and a clamping system to attach to the parent structure and to transmit forces via friction. A series of finite-element (FE) simulations was conducted to optimize the size and performance of the retrofit system. Laboratory static pull-off tests were conducted and different failure modes were studied and discussed. A novel test setup (with four supports) was designed for testing the steel connections. The effect of the geometrical imperfections during the installation of the connection was carefully investigated using the FE models and was verified through laboratory the tests. Laboratory fatigue tests were conducted on steel connections with the same dimensions as those in a railway bridge. The designed retrofit system was found to be capable of reducing the stresses at the angle connections by more than 40%. The results of the fatigue tests demonstrated that the designed system could survive more than 11  million load cycles without any fatigue damage or any indication of a loss in the CFRP prestressing level.
+
+
+    
+        AU - Qiyang Tan
+    
+        AU - Bin Wu
+    
+        AU - Pengfei Shi
+    
+        AU - Guoshan Xu
+    
+        AU - Zhen Wang
+    
+        AU - Jianyun Sun
+    
+        AU - Dawn E. Lehman
+    
+
+TI - Experimental Performance of a Full-Scale Spatial RC Frame with Buckling-Restrained Braces Subjected to Bidirectional Loading
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04020352
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002928 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002928
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002928
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04020352
+AB - To investigate the performance of a RC frame with buckling-restrained braces (RCF-BRB) subjected to bidirectional earthquakes, a full-scale two-story RCF-BRB was tested using substructural pseudodynamic, quasi-static, and pushover techniques. The test results showed that the RCF-BRB designed based on the current Chinese building codes exhibited reliable seismic performance, because the selected performance objectives were achieved in the tests. The specimen displayed an effective and stable energy-dissipating capacity even when the interstory drift exceeded 3%. The pushover test revealed excellent deformation capacity of the RCF-BRB, because the interstory drift ratio reached 5.9% in both loading directions. Compared with conventional gusset plates, the unconstrained gusset plates reduced the damage of the RC members significantly. The strut-and-tie model was confirmed to be reliable for the design of discontinuity regions (D-regions) of the RC beam ends with unconstrained gusset plates.
+
+
+    
+        AU - Jianhan Yu
+    
+        AU - Ted Stathopoulos
+    
+        AU - Mingshui Li
+    
+
+TI - Estimating Exposure Roughness Based on Google Earth
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04020353
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002913 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002913
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002913
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04020353
+AB - Exposure roughness is significant in the evaluation of design wind loads. The roughness length (z0) is a key parameter to determine the exposure coefficient. In current wind load provisions, z0 is determined generally according to the exposure categories. However, subjective interpretation of upstream roughness by designers may lead to disagreements of exposure type. To address this issue, a more accurate method of determining the value of z0 is proposed in this paper. This approach uses morphometric methods in combination with the application of Google Earth Pro or equivalent. A three-dimensional modeling methodology is proposed which is based on the two-dimensional images captured in Google Earth Pro. The city center of London, UK and Tampa International Airport, US are chosen as case studies to verify the accuracy of the proposed method by comparison with available measured data. The comparison shows that this method works well for the estimation of z0 of upstream exposure.
+
+
+    
+        AU - Minh Toan Huynh
+    
+        AU - Cao Hung Pham
+    
+        AU - Colin A. Rogers
+    
+        AU - Gregory J. Hancock
+    
+
+TI - Structural Behavior of Screwed Connections in Cold-Formed Steel Beams
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04020354
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002937 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002937
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002937
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04020354
+AB - Two test series were carried out on angle cleat connections between cold-formed channels as beams and rectangular hollow sections as support members. The objective of the tests was to determine the effect of connection rotation from the beam on the shear capacity of the connection. Self-drilling screws were used to attach the channels to the angle cleats with the failure limit states always occurring in this part of the connection. A dual actuator test apparatus that could apply controlled displacement and rotation to the beams was used. The specimens contained different thicknesses of the channels, which allowed for two limit states involving failure modes of the screws fracturing in shear and bearing as well as tilting failure of the screws in the channel sheet material. The experimental results show the effect of rotation on reducing the shear capacity of the screwed connections. An analytical model for the connection is developed using the relation between the bearing force and deformation of the individual screw connections.
+
+
+    
+        AU - Atsushi Suzuki
+    
+        AU - Kanako Abe
+    
+        AU - Kaho Suzuki
+    
+        AU - Yoshihiro Kimura
+    
+
+TI - Cyclic Behavior of Perfobond-Shear Connectors Subjected to Fully Reversed Cyclic Loading
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04020355
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002955 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002955
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002955
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04020355
+AB - In general, a steel beam is assembled with a concrete slab using shear connectors. Recently, perfobond-shear connectors have been attracting interest because of their high shear stiffness and strength. Nevertheless, the mechanical behavior and performance of perfobond-shear connectors under a reversed cyclic stress remain unclear. For this study, cyclic loading tests were conducted on the component model of a composite beam possessing different configurations of perfobond-shear connectors, different diameters of transversal reinforcement, and different concrete strengths. The stress transfer mechanisms among components are revealed based on experimentally obtained results. Furthermore, the applicability of earlier evaluation formulas is investigated in terms of the ultimate shear strength and the load–displacement relation. Finally, a novel evaluation equation is proposed for perfobond-shear connectors subjected to fully reversed cyclic stress, reflecting the mechanical interrelation between the dowel plate and the concrete inside of the rib hole.
+
+
+    
+        AU - Mohammad Aghababaei
+    
+        AU - Christian Okamoto
+    
+        AU - Maria Koliou
+    
+        AU - Takuya Nagae
+    
+        AU - Chris P. Pantelides
+    
+        AU - Keri L. Ryan
+    
+        AU - Andre R. Barbosa
+    
+        AU - Shiling Pei
+    
+        AU - John W. van de Lindt
+    
+        AU - Shideh Dashti
+    
+
+TI - Full-Scale Shake Table Test Damage Data Collection Using Terrestrial Laser-Scanning Techniques
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04020356
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002905 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002905
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002905
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04020356
+AB - This paper presents the use of modern survey techniques, particularly light detection and ranging (LiDAR) scanning, to collect time-sensitive information before and after shake table experiments. Two full-scale, three-story residential buildings were tested simultaneously on the largest shake table in the world. The focus of this study is on the use of LiDAR to document observations during these tests. The challenges experienced during this study prompted the development of a formalized survey procedure using LiDAR scanning techniques, which can be used by other researchers when planning to collect such time-sensitive data from similar experimental programs. In this paper, damage assessment through visual inspection, which is commonly performed during full-scale tests, is compared to postexperiment assessments using postprocessed LiDAR-derived point clouds. Various examples of damage to structural and nonstructural components, including columns, bracing, partition walls, and façades, are illustrated through postshaking visual inspections as well as LiDAR-derived point clouds. The feasibility of making accurate measurements using LiDAR point clouds, and automatically detecting damage using the point-to-point cloud comparison, is presented. Finally, the relationship between observations through traditional instruments (e.g.,&nbsp;accelerometers and laser meters) and LiDAR is discussed. In one example, the measurements from eight laser meters around the buildings are used to validate the measurements obtained using LiDAR point clouds. It is concluded that observations through LiDAR are complementary to those from traditional instruments, while permanent/residual displacements after the tests can be measured from both traditional and modern instruments.
+
+
+    
+        AU - Justin R. Brown
+    
+        AU - Minghao Li
+    
+        AU - Alessandro Palermo
+    
+        AU - Stefano Pampanin
+    
+        AU - Francesco Sarti
+    
+
+TI - Experimental Testing of a Low-Damage Post-Tensioned C-Shaped CLT Core-Wall
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04020357
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002926 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002926
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002926
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04020357
+AB - The development of strong and stiff lateral load-resisting systems (LLRS) is essential for mid-rise and high-rise timber buildings. On the other hand, within a seismic design philosophy, strength/stiffness and ductility/drift capacity typically appear as opposite target parameters, depending on the acceptable level of damage. For improved stiffness and strength, core-wall tubular structural forms commonly are used for taller reinforced concrete (RC) buildings. This paper presents an experimental study of a new type of LLRS in cross-laminated timber (CLT). A post-tensioned C-shaped CLT core-wall mainly using screwed connections was designed and tested under unidirectional and bidirectional cyclic loading. It was found that the mixed-angle screwed connection solution was the most effective. The highest partial composite action of 60%–70% was reached and the core-wall system stiffness at serviceability limit state increased more than four times compared with a decoupled test with only friction between the CLT panels. The (unbonded) post-tensioning technology provided strong and stiff core-wall base connections with recentering capability and small residual displacements. The experimental test results confirmed that significant system strength/stiffness and ductility/drift capacity can be achieved in a post-tensioned C-shaped CLT core-wall system with minimal damage through careful connection detailing.
+
+
+    
+        AU - Hyunjin Ju
+    
+        AU - Deuckhang Lee
+    
+        AU - Min-Kook Park
+    
+        AU - Shazim Ali Memon
+    
+
+TI - Punching Shear Strength Model for Reinforced Concrete Flat Plate Slab–Column Connection without Shear Reinforcement
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04020358
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002939 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002939
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002939
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04020358
+AB - Many existing studies on punching shear in a RC flat plate slab without shear reinforcement consider uncracked concrete in the compression zone or the aggregate interlock mechanism in the cracked tension zone as shear resistance to external shear forces. However, recent studies have provided clear experimental evidence indicating interdependency between the resistance mechanisms in uncracked and cracked concretes. This study aims to extend the dual potential capacity model (DPCM) for estimating the punching shear strengths of RC slabs. The proposed model can consider both the shear resistance mechanisms of the compression and tension zones by introducing dual demand curves and corresponding potential capacity curves based on a robust theoretical background. In addition, a simplified method was also developed for a better applicability, and test results collected from existing studies were compared against those estimated from the proposed methods and design code models. Based on a total of 224 punching shear test results, the proposed methods were verified, and their analytical accuracy was also compared with those estimated by design codes. The punching shear strengths estimated by the proposed method agreed well with the test results regardless of key variables. The estimation presented the average and coefficient of variation (COV) of the ratio of calculated to tested strength equal to 1.023 and 17%, and the simplified model showed 0.993 and 15.9%, respectively.
+
+
+    
+        AU - Junxin Wang
+    
+        AU - Cunming Ma
+    
+        AU - Elena Dragomirescu
+    
+        AU - Xin Chen
+    
+        AU - Yang Yang
+    
+
+TI - Two-Dimensional Aerodynamic Admittance of a Flat Closed-Box Bridge
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04020359
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002949 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002949
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002949
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04020359
+AB - Wind tunnel tests were carried employing two different free-stream turbulent flow fields and one harmonic vertical gust profile conditions, and pressure measurements of the buffeting force on six separated strips of a flat closed-box bridge-deck section model were recorded. Two-dimensional aerodynamic admittance functions (2D-AAF) were obtained using one- and two-wavenumber computational theory, respectively. An empirical expression for determining the 2D-AAF for flat closed-box bridge decks in free-stream turbulence was proposed based on the extensive results of the experimental data. This study indicates that the 2D-AAF of the flat closed-box bridge deck is higher than the Sears function in the low-frequency range, and the aerodynamic admittance remains almost constant for reduced frequencies in the range of 0–0.145. For a given bridge section, its 2D-AAF is unique and related only to the geometry of the deck cross section, regardless of whether or not the strip assumption is valid. The fluctuating pressure near the leading edge of the bridge deck in the harmonic vertical gust was obviously much larger than that obtained in free-stream turbulent wind fields, which significantly affects the magnitude of the lift force.
+
+
+    
+        AU - Stevan Gavrilovic
+    
+        AU - Terje Haukaas
+    
+
+TI - Seismic Loss Estimation Using Visual Damage Models
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04020360
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002936 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002936
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002936
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04020360
+AB - This paper presents models for visual damage, together with a methodology for seismic loss estimation based on that type of damage prediction. The methodology predicts repair cost, duration, and labor hours. The visual damage models address reinforced concrete slabs, columns, and shear walls. A damage mesh discretizes the building components into regions in which the stresses and strains are expected to influence the observable surface damage. Mimicking the considerations of post earthquake inspectors, repair actions are selected based on the visual damage. The repair actions, in conjunction with a construction costing database, provide detailed and up-to-date seismic loss estimates. Two case studies are presented, the first addressing a reinforced concrete shear wall, whose repair cost and duration are compared with an existing state-of-the-art seismic loss methodology. A comprehensive study of a six-storey residential building subjected to earthquake ground motions is also presented. The analysis, which is characterized by an unprecedented level of model granularity, demonstrates the advantages of considering finite element responses beyond interstory drift ratio when predicting damage. The results also show how the ground shaking duration, and the damage accumulated during the initial part of the shaking, influence the subsequent repairs.
+
+
+    
+        AU - An Nhien Truong
+    
+        AU - Cao Hung Pham
+    
+        AU - Gregory J. Hancock
+    
+
+TI - Power-Actuated Fasteners Connecting Cold-Formed Sheet Steels under Monotonic Tension Loading
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04020361
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002920 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002920
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002920
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04020361
+AB - A total of 105 cross-tension tests were conducted to investigate the strength and behavior of power-actuated fastener (PAF) connections under quasi-static monotonic tensile loading. Three types of PAF were used to join sheets with thicknesses ranging from 0.75 to 4.00&nbsp;mm to thicker plates with thicknesses ranging from 3.00 to 20.0&nbsp;mm. All of the steel materials were high-strength cold-formed steel, except for the 20-mm-thick steel, which was hot-rolled steel. The studied parameters were the type and diameter of the fasteners and the thicknesses of the top and base steel materials. The majority of the specimens failed by pull-out failure, although some thinner sheets failed by transverse fracture of the top sheet. The test results reveal that PAF connections exhibit a high tensile capacity as long as a sufficient embedment length is provided. A model is proposed to evaluate the pull-out strength of PAF connections based on the base material strength and the average embedded diameter and embedment length of the fastener. The proposed model produces a mean of test-to-prediction ratio equal to 1.02 with a coefficient of variation ranging from 0.12 to 0.16. Reliability analyses were carried out and resulted in a resistance factor of 0.56–0.69 for Load and Resistance Factor Design.
+
+
+    
+        AU - Bonisha Borah
+    
+        AU - Hemant B. Kaushik
+    
+        AU - Vaibhav Singhal
+    
+
+TI - Development of a Novel V-D Strut Model for Seismic Analysis of Confined Masonry Buildings
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04021001
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002941 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002941
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002941
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04021001
+AB - Confined masonry (CM) offers an affordable and seismically safe building typology, which is already a widespread construction technique in several seismically-prone countries, and is currently evolving as a popular construction technique in many other countries. This building system has shown phenomenal performance in the past seismic events; however, its engineering behavior has not been established sufficiently due to significant variation in materials used and lack of research in understanding the complex composite behavior under different loading conditions. Significant gaps exist in research, especially in reliable methods of seismic analysis and design; consequently, modeling a CM building still fails to be a persuasive choice. The primary objective of this study is to develop a simple generalized numerical model that can reliably predict the nonlinear behavior of CM walls under seismic loads. A comparative numerical study was first carried out to assess a suitable model for CM walls based on the realistic simulation of axial forces in tie-columns and tie-beam deflection under the action of gravity loads. A new macro-model “V-D strut model” was finally developed for the analysis of CM walls under the action of both gravity and seismic loads. Due care was taken to simulate not only the initial stiffness and strength of CM walls but also to characterize their failure modes in a simplified way using an effective shear strength of masonry estimated by carrying out a parametric finite element study. The effectiveness of the V-D strut model was validated by an accurate prediction of the lateral load response of several CM walls tested previously.
+
+
+    
+        AU - Jeeric Penales
+    
+        AU - Jamshid Zohrehheydariha
+    
+        AU - Sreekanta Das
+    
+        AU - Bennett Banting
+    
+
+TI - Structural Behavior of Masonry Beams with Alternative Shear Reinforcement
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04021002
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002940 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002940
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002940
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04021002
+AB - Shear reinforcement, or stirrups, for reinforced masonry beams made of concrete blocks are placed inside the cells of the units. Since it is a requirement by masonry standards for shear stirrups to hook around the longitudinal reinforcement, the placement of conventional steel rebar as shear reinforcement in 200 mm (8&nbsp;in.) or narrower masonry beams becomes challenging. Even the smallest size steel rebar available in Canada [10M or 11.3&nbsp;mm (0.44&nbsp;in.) actual diameter rebar], a standard hook detail is difficult for a mason to accommodate within field construction conditions. Hence, the current study investigated two different alternative shear stirrup configurations, namely, the use of 8-mm (5/16  in.) diameter smooth steel bars and the use of commercially available repurposed bed joint wire reinforcement. The current study showed that the masonry beams with the alternative stirrup details exhibited similar ductility as the masonry beam built with conventional steel rebar. The beam containing the bed joint wire as shear stirrups enhanced the capacity of the beam slightly more than the beams with conventional rebar and with the 8&nbsp;mm (5/16  in.) smooth bar. Most importantly, the use of bed joint wire as shear reinforcement reduced crack width in a similar manner as the conventional rebar. In addition, the study found that the Canadian and American standards overestimated the shear strength of narrow masonry beams. The present study also found that the directionally based strength reduction factor (Chi factor, χ) recommended in the Canadian design standard is overly conservative.
+
+
+    
+        AU - Siha A
+    
+        AU - Changdong Zhou
+    
+        AU - Ligan Yang
+    
+
+TI - Experimental Study on Axial Compression Behavior on Circular Timber Columns Strengthened with CFRP Strips and Near-Surface Mounted Steel Bars
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04021003
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002931 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002931
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002931
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04021003
+AB - To investigate the working mechanism and reinforcement effectiveness of the ancient timber columns strengthened with carbon fiber reinforced polymer (CFRP) strips and near-surface mounted steel bars, in this paper, 42 timber columns have been tested under axial compression, which considered the arrangement modes of CFRP strips, number of near-surface mounted steel bars, and different strengthening ways as the main influencing factors. Based on the test results, failure modes of specimens and materials were analyzed, compressive bearing capacity and ultimate deformation of each specimen were obtained, and load-displacement curves of timber columns were diagramed. Moreover, the load-strain curves of specimens were obtained through the data collected using an extensometer, and the deformation compatibility performance of three different materials was evaluated according to the strain comparison. The test results indicate that the wrapped CFRP strips way and near-surface mounted method can work together to mutually boost the reinforcement effectiveness. The proposed composite reinforcement method can significantly improve the bearing capacity and deformation performance of timber columns. Moreover, the increase in the number of CFRP strips and steel bars generates a marked enhancement in timber columns’ compression performance. The load-strain curves of timber, steel bars, and CFRP strips are in good agreement, and the percentage differences of three different materials’ strains are almost lower than 20%, illustrating that three types of materials have acceptable deformation compatibility performance.
+
+
+    
+        AU - Qiu Sheng Li
+    
+        AU - Xiao Li
+    
+        AU - P. W. Chan
+    
+
+TI - Impact of a Fifty-Year-Recurrence Super Typhoon on Skyscrapers in Hong Kong: Large-Scale Field Monitoring Study
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04021004
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002930 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002930
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002930
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04021004
+AB - This paper investigates the impact of Super Typhoon Mangkhut on Hong Kong, especially the wind effects on high-rise buildings, based on 24-h-long field measurement records collected from the two tallest skyscrapers (484 and 420&nbsp;m in height) in the metropolis and six meteorological stations on different types of terrain on September 16, 2018. Mangkhut corresponded to a 50-year return period and was the most violent typhoon since wind records in Hong Kong began in 1946. In this large-scale monitoring study, the wind characteristics of Mangkhut over different terrains are investigated using the climate records by anemometers and a weather surveillance radar, the wind-excited structural responses of the monitored skyscrapers are analyzed according to measurements by accelerometers and a global navigation satellite system, the structural dynamic properties are estimated by the random decrement technique and the Bayesian spectral density approach, and both rigid and aeroelastic modeling techniques for wind tunnel testing are validated by in-situ measurements during the typhoon. This study aims to enhance the understanding of strong typhoon-generated wind characteristics over different terrains and provide comprehensive information for the wind-resistant design of high-rise buildings in tropical cyclone-prone regions.
+
+
+    
+        AU - Yao Cui
+    
+        AU - Xiaozhuo Xu
+    
+        AU - Tracy C. Becker
+    
+        AU - Wei Zhang
+    
+
+TI - Incorporating Frame Action into Seismic Design of Gusset Plates
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04021005
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002959 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002959
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002959
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04021005
+AB - Gusset plates connect the brace and frame in concentrically braced frames (CBFs). Failure at the interface of gusset plates with the beam or column will result in an inability to achieve energy dissipation through brace buckling and yielding of the brace in tension and failure of the connection before the brace. Traditional design methods for the gusset plate beam or column interfaces in CBFs often consider only forces from brace action. Although studies have shown that forces from frame action can be significant, the complex stress distribution in the gusset plate makes it difficult to effectively evaluate their effects. Neglecting or inaccurately evaluating the frame action may result in unreasonable estimation of the forces in gusset plates, leading to failure at the interface connections. In this paper, the brace action and the frame action forces on gusset plates are systematically explored through an experimental test of CBFs. The proposed design method combines two models for brace action and frame action. Finally, the proposed design method is validated against results from CBF experiments. The proposed design method estimates the magnitude and orientation of the gusset plate interface forces with different configurations of CBFs well.
+
+
+    
+        AU - Jiecheng Xiong
+    
+        AU - Jun Chen
+    
+
+TI - Open Access and Updated Human-Induced Load Data Set
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04720003
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002932 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002932
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002932
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04720003
+AB - This paper reports a dataset that provides force time histories of various types of human-induced loads, including walking, jumping, and bouncing activities guided by metronome or music. The dataset contains 3,518 records collected from six experimental campaigns. Ground reaction forces of test subjects were measured using high-precision force plates for individuals and small groups, and the displacements of certain body parts of the test subjects were measured using three-dimensional motion capture technology for large crowds. All data records were converted to a unified format and uploaded to a published dataset. An accompanying website of the human-induced load dataset has also been designed and put online. The website provides a publicly available and type-classified data source of human-induced loads. The dataset will be updated by adding new measurements from both the authors and other researchers. To the author’s knowledge, this dataset is the first open access dataset for research on human-induced loads, which is of great significance to future studies on new and advanced load models to understand the crowd load mechanisms under different circumstances and to spark broader data sharing in this area. Moreover, this dataset helps design engineers select real human-induced loads for a time history analysis of structures and fosters future collaboration among researchers and engineers.
+
+
+    
+        AU - Yiqiu Lu
+    
+        AU - Richard S. Henry
+    
+
+TI - Data Set for Cyclic Tests of Eleven Lightly Reinforced Concrete Walls
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 04720004
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002942 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002942
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002942
+SO - Journal of Structural Engineering 2021-03-01 147(3): 04720004
+AB - A series of reinforced concrete wall tests were conducted at the University of Auckland to address the lack of experimental data on flexure-dominant lightly reinforced concrete walls that are common in multistorey buildings in regions of low or moderate seismicity. The experimental program comprised 11 rectangular reinforced concrete walls that were subjected to pseudo-static cyclic loading. The tests were used to investigate minimum vertical reinforcement provisions for reinforced concrete walls and formed the basis for revisions to the New Zealand Concrete Structures Standard NZS 3101 and the US Building Code Requirements for Structural Concrete ACI 318. The recorded documentation and data collected throughout the test program have provided a high-quality dataset that is a valuable resource to researchers investigating the seismic behavior of reinforced concrete walls. The dataset is published and publicly available on DesignSafe-CI with the project number PRJ-1648. The methodology of the data collection is described, and a road map for navigating the dataset is presented to support future use of the archived dataset.
+
+
+    
+        AU - Aikaterini P. Kyprioti
+    
+        AU - Alexandros A. Taflanidis
+    
+        AU - Andrew B. Kennedy
+    
+
+TI - Dissipation Effects of Coastal Vegetation on Nearshore Structures under Wave Runup Loading
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 06020010
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002902 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002902
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002902
+SO - Journal of Structural Engineering 2021-03-01 147(3): 06020010
+AB - Inundation events caused by hurricanes or tsunamis pose a substantial risk to the integrity of coastal infrastructure; however, their impact on the built environment can be greatly altered by natural and anthropogenic obstacles or disturbances to the flow, such as vegetation or neighboring structures. This paper investigates the impact of coastal vegetation on shoreline structural vulnerability due to wave runup loading. Using numerical simulation data, the load (base shear) and momentum flux are computed as a function of vegetation characteristics (length and density) for different excitation intensities (wave heights) at the location of a shoreline structure. This information is then used to estimate structural fragility. Motivated by recent reconnaissance data from Hurricane Matthew in 2016, emphasis is placed on the out-of-plane failure of infill masonry walls. Extension to a different structural typology, that of a reinforced concrete frame, is also discussed. Comparisons between different vegetation characteristics and the bare-earth case demonstrate the wave dissipation and reduction of structural fragility (and therefore ultimately vulnerability) achieved when vegetation is present for the investigated case-study structures.
+
+
+    
+        AU - Omar A. Sediek
+    
+        AU - Tung-Yu Wu
+    
+        AU - Sherif El-Tawil
+    
+        AU - Jason McCormick
+    
+
+TI - Discussion of “Experimental Evaluation and Numerical Modeling of Wide-Flange Steel Columns Subjected to Constant and Variable Axial Load Coupled with Lateral Drift Demands” by Julien Cravero, Ahmed Elkady, and Dimitrios G. Lignos
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 07020019
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002946 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002946
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002946
+SO - Journal of Structural Engineering 2021-03-01 147(3): 07020019
+
+
+    
+        AU - Julien Cravero
+    
+        AU - Ahmed Elkady
+    
+        AU - Dimitrios G. Lignos
+    
+
+TI - Closure to “Experimental Evaluation and Numerical Modeling of Wide-Flange Steel Columns Subjected to Constant and Variable Axial Load Coupled with Lateral Drift Demands” by Julien Cravero, Ahmed Elkady, and Dimitrios G. Lignos
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 07020020
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002945 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002945
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002945
+SO - Journal of Structural Engineering 2021-03-01 147(3): 07020020
+
+
+    
+        AU - Luca Caracoglia
+    
+
+TI - Review of <i>Wind Effects on Structures: Modern Structural Design for Wind</i>, 4th Edition by Emil Simiu and DongHun Yeo
+PT - Journal Article
+DP - 2021
+TA - Journal of Structural Engineering
+PG - 07520001
+VI - 147
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0002944 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0002944
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002944
+SO - Journal of Structural Engineering 2021-03-01 147(3): 07520001
+
+

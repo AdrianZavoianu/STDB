@@ -1,0 +1,449 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Fernando Gomez
+    
+        AU - Yuguang Fu
+    
+        AU - Tu Hoang
+    
+        AU - Kirill Mechitov
+    
+        AU - Billie F. Spencer
+    
+
+TI - Estimation of Dynamic Interstory Drift in Buildings Using Wireless Smart Sensors
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024044
+VI - 150
+IP - 6
+AID - 10.1061/JSENDH.STENG-12482 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12482
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12482
+SO - Journal of Structural Engineering 2024-06-01 150(6): 04024044
+AB - Interstory drift response is one of most important quantities to quickly assess performance and damages in buildings. Nevertheless, direct measurement of interstory drift is difficult and expensive, because a stationary reference is required to attach measurement devices. With the goal of accurate and fast reference-free estimation, this paper proposes a new strategy to determine dynamic interstory drifts using accelerations. In particular, a Tikhonov regularization is adopted in a generalized minimization problem to achieve an efficient and stable finite impulse response (FIR) filter. Furthermore, due to independent clocks in wireless sensors, accurate time synchronization of the records is critical; consequently, a strategy for accurate synchronization is also presented. Finally, the proposed strategy has been deployed on edge devices for onboard real-time interstory drift estimation. The proposed method for dynamic interstory drift estimation is validated, first, by numerical simulation using earthquake records as base excitation of linear and nonlinear buildings, as well as through laboratory shake table experiments. Both numerical and lab test results show good agreement of dynamic interstory drifts between the measured value and estimated results, demonstrating the efficacy of the proposed method to estimate the dynamic displacements of seismically excited structures.
+
+
+    
+        AU - Nagaraju Mallepogu
+    
+        AU - Mahendrakumar Madhavan
+    
+
+TI - Ultimate Shear Capacity of the Cold-Formed Steel Torsionally Restrained Beam-to-Column Moment Connection with a Three-Bolted Clip Angle and Flange Cleat
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024045
+VI - 150
+IP - 6
+AID - 10.1061/JSENDH.STENG-12724 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12724
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12724
+SO - Journal of Structural Engineering 2024-06-01 150(6): 04024045
+AB - In the current research work, the shear capacity of the cold-formed steel (CFS) three-bolted clip angle (CA) beam-to-column moment connection (3BM) is investigated with 45 laboratory test results. The 3BM connection comprises a three-bolted CA connector that connects the web portions and a bolted flange cleat (FC) that connects the flange portions of the beam and column; in comparison, the three-bolted shear connection (3BS) connects only the web portions of the beam and column. The presence of the FC improved the shear strength of the 3BM connection over the 3BS connection and it is quantified using a coefficient called the “rigidity factor (β).” A shift in the failure mode of CAs from shear local buckling in a 3BS connection to tearing failure in a 3BM connection was observed as the FC resists beam torsional deformation and delays the early local buckling of the CA. The existing design shear equation of the 3BS connection is improved by expressing it as a function of CA failure modes. Following the same trend, the existing design shear method for the CFS moment connection is improved by incorporating the failure modes of the CA boundary conditions along with the geometric and material properties of both the CA and FC for the present 3BM connection. In addition, an empirical shear design equation is suggested for the 3BM connection. The design factors of the proposed 3BM shear equations for load and resistance factor design, limit state design, and allowable strength design methods were evaluated from the reliability study.
+
+
+    
+        AU - Huseyin Saglik
+    
+        AU - Ali Etemadi
+    
+        AU - Airong Chen
+    
+        AU - Rujin Ma
+    
+
+TI - Constitutive Model and Mechanical Properties of Grade 8.8 and 10.9 High-Strength Bolts at Elevated Temperatures
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024046
+VI - 150
+IP - 6
+AID - 10.1061/JSENDH.STENG-12629 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12629
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12629
+SO - Journal of Structural Engineering 2024-06-01 150(6): 04024046
+AB - This paper presents an experimental study on the determination of the mechanical behaviors of Grade 8.8 and 10.9 high-strength bolts at elevated temperatures. Strength reduction coefficients are obtained based on test results at temperatures ranging from 20°C to 900°C, for both yield and ultimate stresses. Simplified expressions are presented to identify the strength reduction factors at considered temperatures. At 400°C, the yield and ultimate strengths of bolts decrease by 30%–35% for both grades compared to those in ambient temperature. Yield strengths are 30% and 20% of yield strengths of Grade 8.8 and 10.9 bolts at ambient temperature, respectively, when the temperature exceeds 500°C. The ultimate strength decreases slightly slower than the yield strength at high temperatures. Although the decrease in ultimate strength follows the decrease in yield strength at elevated temperatures, it is slightly slower. About 3%–6% of yield and ultimate strengths at ambient temperature remain for both grades at 700°C. Moreover, a series of expressions are provided to obtain the full range stress–strain curve of high-strength bolts at elevated temperatures. Comprehensive literature studies are taken into consideration to propose a more generalized description of the stress–strain curves. The proposed model can be fully drawn by only using elastic modulus, yield, and ultimate stresses at ambient temperature. It is shown that the proposed model has enough efficiency to describe the general material behavior at elevated temperatures.
+
+
+    
+        AU - Chao Dou
+    
+        AU - Yi Ru
+    
+        AU - Zi-Qin Jiang
+    
+        AU - Yan Wang
+    
+
+TI - Lateral Resistant Behavior of Grid-Reinforced Steel Corrugated Shear Walls
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024047
+VI - 150
+IP - 6
+AID - 10.1061/JSENDH.STENG-12285 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12285
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12285
+SO - Journal of Structural Engineering 2024-06-01 150(6): 04024047
+AB - This paper investigated the lateral resistant behavior of grid-reinforced steel corrugated shear walls (GR-SCSWs), which are applied to shear walls with large width-to-height ratio. By revealing the resistant mechanism, the stiffness requirement of the subgrid, the wall–frame interaction, and the overall lateral resistance were studied. First, compared with ordinary steel corrugated shear walls, the lateral resistant behavior of GR-SCSWs and the bending moment of the boundary column were analyzed. Second, the threshold stiffness ratio was defined for the subgrid, and design suggestions were proposed to ensure that the infill panel has high and stable in-plane lateral resistance. Finally, the yielding development and shear force distribution in GR-SCSWs were explored, and an improved plate–frame interaction (PFI) model and formulas predicting the lateral resistance curve of GR-SCSWs were established by numerical analysis and theoretical derivations. It was found that, due to the full out-of-plane restraining effect of the subgrid, the GR-SCSW with optimized subpanels can achieve an in-plane shear yielding mechanism. GR-SCSWs can resist lateral loading with an appropriate yield sequence from the infill panel to the subgrid and then to the boundary frame. The modified PFI model proposed fully considered the interaction between the infill grid-reinforced panel and the boundary frame, while the theoretical formulas agreed with the FEA results and can be used to predict the lateral resistant curve and shear force distribution of GR-SCSWs.
+
+
+    
+        AU - Emily Williamson
+    
+        AU - Chris P. Pantelides
+    
+        AU - Hans-Erik Blomgren
+    
+        AU - Douglas Rammer
+    
+
+TI - Seismic Performance of Timber Frames with Timber Buckling-Restrained Braces
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024048
+VI - 150
+IP - 6
+AID - 10.1061/JSENDH.STENG-12877 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12877
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12877
+SO - Journal of Structural Engineering 2024-06-01 150(6): 04024048
+AB - The building industry requires the development of a ductile lateral force–resisting system made of mass timber to allow mass timber to continue to grow in popularity as the primary structural building material. A timber frame with mass ply lam (MPL) beams and columns with a timber buckling-restrained brace (TBRB) was subjected to a quasi-static cyclic loading protocol defined according to the qualification procedure of conventional buckling-restrained braces (BRBs). Two of the TBRBs in this study included a carbon fiber–reinforced polymer (CFRP) wrap to help confine the two ends of the mass ply panel (MPP) casing and improve the performance of the brace. The experiments showed that the TBRB without any CFRP wrap met the requirements for qualification of conventional BRBs, and the mass timber braced frame was able to reach a drift ratio of 3.0%. The TBRB with CFRP wraps met the requirements for qualification of conventional BRBs; the confinement provided by the CFRP wraps postponed failure of the TBRB by enabling the steel core to reach a maximum strain of 3.1% in both tension and compression and the mass timber braced frame to reach a maximum drift ratio of 4.5%.
+
+
+    
+        AU - Tongxu Liu
+    
+        AU - Jean-Philippe Charron
+    
+
+TI - Analytical Model for Calculating Shear Capacity of NSC Beams Strengthened by UHPC Lateral Layers
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024049
+VI - 150
+IP - 6
+AID - 10.1061/JSENDH.STENG-12866 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12866
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12866
+SO - Journal of Structural Engineering 2024-06-01 150(6): 04024049
+AB - The utilization of ultrahigh-performance concrete (UHPC) as lateral or U-shaped thin layers to strengthen the shear-deficient normal-strength concrete (NSC) beams is an effective and promising way to increase their stiffness and shear capacity. However, the lack of an accurate analytical model to estimate the shear capacity of UHPC-strengthened beams could be a critical obstacle to its further application. This paper presents a new analytical model for calculating the shear capacity of UHPC-lateral-strengthened beams, which is the first to be based on the simplified modified compression field theory (SMCFT). The model is also distinguished by considering the full compressive and tensile stress–strain curves of UHPC instead of only using their ultimate strengths. By assuming a complete strain transfer at the NSC–UHPC interface and the coincidence of the principal stress and strain axes in the NSC substrate and UHPC layers, the strain compatibility between the two components are included in the shear calculation. The model predictions were validated in two steps, first by using principal strain measurements in the shear span of five beams from digital image correlation (DIC) data to confirm the strain evaluation of the model, and second by reproducing the shear capacities of 12 beams from five experimental campaigns. Results showed a clear agreement between the strains calculated by the analytical model and those measured in experiments. The shear capacities of UHPC-lateral-strengthened beams calculated by the analytical model obtained a very high accuracy and a low variance to replicate experimental results. The model allows evaluation of the contributions of each beam components (NSC substrate, stirrups, and UHPC layers). Results confirmed that the increase in the shear capacity of strengthened beams mainly comes from the high tensile strength of the UHPC and the thickness of the UHPC layer, as well as the improved contribution of the stirrups.
+
+
+    
+        AU - Yuqing Tan
+    
+        AU - Yanhui Liu
+    
+        AU - Ji Dang
+    
+        AU - Akira Igarashi
+    
+        AU - Takehiko Himeno
+    
+        AU - Yuki Hamada
+    
+
+TI - Stress-Softening Behavior of High-Damping Rubber Bearings at Low Temperatures
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024050
+VI - 150
+IP - 6
+AID - 10.1061/JSENDH.STENG-13253 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13253
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13253
+SO - Journal of Structural Engineering 2024-06-01 150(6): 04024050
+AB - High-damping rubber (HDR) bearings exhibit obvious initial stress hardening at lower ambient temperatures and stress softening under cyclic loading. The phenomenon of stress softening is usually referred to as the Mullins effect, which is often considered to be influenced by the rubber composition, the vulcanization profile used to manufacture the bearing, and the past strain history. The Mullins effect is temperature dependent and is larger at lower temperatures. In addition, the stiffness of HDR bearings decreases at a higher inner temperature caused by the self-heating of HDR materials under cyclic loading. Hence, the stress softening is attributed to the coupled temperature and Mullins effects. It is necessary to clarify the coupled temperature and Mullins effects on the mechanical behavior of HDR bearings to introduce them as seismic isolation devices for bridges in cold and earthquake-prone regions. In this study, a random polymer (RP) model was developed with consideration of the coupled temperature and Mullins effects for HDR bearings at low temperatures. The parameters of the RP model were identified using the hysteresis loops of HDR bearings in the cyclic loading and hybrid simulation tests with a temperature-controlled loading system at low temperatures. The accuracy of the RP model was verified by comparing the numerical seismic responses of a bridge isolated with HDR bearings using the proposed model with hybrid simulation results.
+
+
+    
+        AU - Shuli Wei
+    
+        AU - Jian Wang
+    
+        AU - Jinping Ou
+    
+
+TI - A Novel Assembled Pendulum-Type ATMD for Structural Vibration Control
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024051
+VI - 150
+IP - 6
+AID - 10.1061/JSENDH.STENG-12951 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12951
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12951
+SO - Journal of Structural Engineering 2024-06-01 150(6): 04024051
+AB - This paper presents the design, modeling, and characterizing tests of an assembled freely pendulum-type active tuned mass damper (AP-ATMD) for structural vibration control, highlighting its unique features such as noncontact force transmission, nonextra stiffness, and damping members. This device can operate passively as a tuned mass damper (TMD) with optimal tuning when environmental disturbances are minimal, or it can engage efficiently in active control when significant disturbances are present. The AP-ATMD mainly consists of a robust suspension system, an arc-shaped mass block with permanent magnets (PMs), and an arc-shaped electromagnetic motor. Notably, both the electromagnetic motor and the mass block have identical curvatures. A laboratory prototype of the AP-ATMD was designed and fabricated for the purpose of characterizing tests. Furthermore, an electromechanical model based on the Bouc–Wen hysteresis loop was developed to accurately characterize the active force behavior generated by the device. The parameters of this model were identified through a series of characterizing tests of the prototype AP-ATMD under harmonic excitations, and subsequently were validated under random excitation. The results confirmed the efficacy of the proposed electromechanical model in precisely capturing the active force behavior across a wide array of operational conditions. Finally, a numerical simulation of a 3-story frame with the AP-ATMD installed was conducted. The outcomes of the simulation highlighted the AP-ATMD’s ability to reduce structural responses significantly. Moreover, the system employing the proposed electromechanical model outperformed a linear model, demonstrating a superior reduction in structural response.
+
+
+    
+        AU - Jin Di
+    
+        AU - Jie Wang
+    
+        AU - Yuxuan Han
+    
+        AU - Xiankui Wei
+    
+        AU - Heng Zhu
+    
+        AU - Fengjiang Qin
+    
+
+TI - Parametric Analysis of the Flexural Bearing Capacity and Ductility of Hybrid Steel I-Section Beams
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024052
+VI - 150
+IP - 6
+AID - 10.1061/JSENDH.STENG-13123 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13123
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13123
+SO - Journal of Structural Engineering 2024-06-01 150(6): 04024052
+AB - Considering the advantages of hybrid steel I-section beams in reducing engineering costs and fully utilizing the mechanical properties of steel, and the lack of research on their ductility, hybrid steel I-section beams were tested to analyze the effects of the plate width–thickness ratio and steel strength matching on the flexural bearing capacity and ductility. The steel strength matching of the hybrid steel I-section beam with a high steel strength utilization rate and good ductility was related closely to the section size. Additionally, a parametric analysis based on the finite- element method was performed for further study. The steel strength ratio φ of the web to the flange with the best ductility was less than 1, and φ decreased with an increase in flange steel strength. The steel strength utilization rate and ductility decreased with an increase in φ. Based on the parametric analysis results, the optimal range of φ in hybrid-steel I-section beams with flange steel strength of 460–690&nbsp;MPa was 0.56–1. The plate width–thickness ratio limit of the ductile section decreased with the decrease of φ. Considering the plate interaction and steel strength matching, a sectional ductility design method is proposed that is more applicable to hybrid steel I-section beams than existing methods.
+
+
+    
+        AU - Göktuğ Tüfekci
+    
+        AU - Serdar Soyöz
+    
+
+TI - Effect of Horizontal-Vertical Coupling on the Seismic Performance of Unanchored Nonstructural Components in a Triple Friction Pendulum Base-Isolated Building
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024053
+VI - 150
+IP - 6
+AID - 10.1061/JSENDH.STENG-12400 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12400
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12400
+SO - Journal of Structural Engineering 2024-06-01 150(6): 04024053
+AB - The coupling behavior in the structural response caused by the multicomponents of ground motions in friction pendulum base-isolated buildings can change the response of nonstructural contents. This research investigates the seismic performance of freestanding nonstructural components in a hypothetical 4-story reinforced concrete triple friction pendulum (TFP) base-isolated medical facility using a suite of 11 ground-motion pairs, including their vertical components. Floor accelerations in vertical and horizontal directions were employed as excitation for the rocking response of rigid blocks. In comparison with the horizontal-only floor accelerations, the horizontal-vertical (H-V) coupling behavior in the floor accelerations had a substantial effect on the rocking response of nonstructural contents, small and slender ones in particular. Consequently, the direct effect of vertical ground motions and the H-V coupling phenomenon on the seismic performance of nonstructural components need to be carefully evaluated for critical facilities, especially the friction pendulum–type base-isolated buildings, to quantify the damage level of unanchored components.
+
+
+    
+        AU - Bowen Zeng
+    
+        AU - Yong Li
+    
+
+TI - Formulation, Implementation, and Validation of a 3D Damage-Plasticity Cohesive-Interface Model with Multiple Yield Surfaces for Cyclic Modeling of Mortar Joints
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024054
+VI - 150
+IP - 6
+AID - 10.1061/JSENDH.STENG-12558 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12558
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12558
+SO - Journal of Structural Engineering 2024-06-01 150(6): 04024054
+AB - The mechanical behavior of mortar joints can be described by means of the cohesive interface element in the mesoscale modeling of masonry structures. In this paper, a novel three-dimensional (3D) constitutive model for the cohesive interface element under cyclic loading is presented. The proposed constitutive model is formulated in the damage-plasticity theoretical framework with the following unique features: (1)&nbsp;two smooth hyperbolic yield surfaces, capable of capturing various failure modes of mortar joints; (2)&nbsp;two damage scalars Dt and Dc to characterize the stiffness degradation; (3)&nbsp;two damage functions ξt(Dt) and ξc(Dc) to describe the strength softening; and (4)&nbsp;an unassociated flow rule to capture the dilatancy behavior. The proposed constitutive model is implemented in the general-purpose finite-element package Abaqus using the user subroutine UMAT. The developed model was validated at the masonry-component level using a mortar-jointed specimen under indirect cyclic tensile loading and three masonry couplets under compressive-shear loading, and then at the structural level using two unreinforced masonry walls characterized by two distinct failure modes. The validation results show that the developed constitutive model is capable of modeling mortar joints and masonry structures with good performance.
+
+
+    
+        AU - Wei Wang
+    
+        AU - Zhaowei Xu
+    
+        AU - Yiping Wang
+    
+        AU - Xiangyun Xu
+    
+        AU - Qing Huo
+    
+        AU - Xiaodong Song
+    
+        AU - Guangrui Yang
+    
+
+TI - Influence of Explosive Shape on the Response of Steel Plates under Blast Loading
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024055
+VI - 150
+IP - 6
+AID - 10.1061/JSENDH.STENG-13252 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13252
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13252
+SO - Journal of Structural Engineering 2024-06-01 150(6): 04024055
+AB - In the protective engineering field, close-range explosions produce more energy and are more likely to cause severe damage to building structures than long-range explosions. In current standards, close-range explosions are defined as an explosion with a scale distance of less than 1.2  m/kg1/3. Besides, the steel plate’s dynamic response is critical, especially under the blast loads generated by different shapes of explosives. For cylindrical explosives most commonly used in military and engineering, this study carried out experimental and numerical simulation studies on steel plates under the close-range air blast loads generated by different H/D cylindrical explosives (0.5≤H/D≤3.0). First, close-range air blast load tests were performed to study the failure modes of steel plates at different scale distances. The height-to-bottom diameter H/D ratio was defined as the shape factor of cylindrical explosive, and the effect of H/D on the failure deformation and dynamic response of the steel plate was quantitatively studied. Finally, the characteristics of shock waves generated by cylindrical explosives with different H/D were analyzed to determine the influence of H/D on the spatial distribution of shock waves. The results showed that with the increase of H/D, the steel plate deformation and damage gradually decreased. When the scale distance was more significant than or equal to 0.38, there was no crack in the steel plate, and the residual deflection gradually reduced with the increase of H/D. Despite the different scale distances, the residual deflections showed similar trends with increasing H/D. When the scale distance was less than or equal to 0.30, the steel plate cracked, and the crack area gradually decreased with increased H/D.
+
+
+    
+        AU - Yonghui An
+    
+        AU - Guojie Zhou
+    
+        AU - Ranting Cui
+    
+        AU - Huihui Li
+    
+        AU - Jinping Ou
+    
+
+TI - Ductile Fracture Prediction Framework of Low Yield Point Steel LYP225 under Monotonic Loading: Experiment and Simulation
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024056
+VI - 150
+IP - 6
+AID - 10.1061/JSENDH.STENG-13067 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13067
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13067
+SO - Journal of Structural Engineering 2024-06-01 150(6): 04024056
+AB - Low yield point (LYP) structural steels had been developed and used for the seismic energy dissipating, however, the fracture of various LYP steel energy dissipation components may lead to progressive collapse of structures. To address this issue, the fracture behavior of LYP steels under various stress states were comprehensively investigated using experiments, theoretical analysis, and numerical simulations in this work. There are three meaningful contribution points. First, an improved weighted average (WA) method and dichotomy-based optimization are proposed to calibrate true stress–strain relation after necking onset. The maximum deviation for the prediction of full-range tensile load-displacement behavior based on the proposed WA method is less than 3%, which is better than the existing WA methods. Second, a modified ductile fracture model is developed to identify the fracture of LYP steels under various stress states. Comparison results among existing fracture models, the proposed fracture model and tests indicate that the fracture plastic strain can be more reasonably predicted by the proposed ductile fracture model than the existing models. Thirdly, an advanced ductile fracture prediction framework is proposed to simulate the complete tensile behavior of structural steels. Based on the proposed framework and object-oriented programming technique, the complete tensile behavior can be accurately and conveniently predicted by employing the proposed WA model, proposed ductile fracture model and developed user defined material subroutine. The verified WA method and ductile fracture model would contribute to predicting the failure of structural steel members, connections, welds and structures. It is meaningful to prevent casualties and property losses resulting from the subsequent structural progressive collapse.
+
+
+    
+        AU - Hyeon-Jin Kim
+    
+        AU - Mok-in Park
+    
+        AU - Hong-Gun Park
+    
+        AU - Eun-Sang Park
+    
+
+TI - Deformation Capacity of Columns with 700 MPa Longitudinal Reinforcement and Hoops
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024057
+VI - 150
+IP - 6
+AID - 10.1061/JSENDH.STENG-13117 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13117
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13117
+SO - Journal of Structural Engineering 2024-06-01 150(6): 04024057
+AB - To study the effect of Grade 700&nbsp;MPa longitudinal rebars and hoops on the deformation capacity of RC and composite columns, eight rectangular columns were tested under cyclic lateral loading and uniform axial compression. The test parameters were the hoop type (rectangular or spiral hoops), hoop spacing, the use of composite steel section, and the shape of cross section (square column or rectangular wall-column section). All columns exhibited ductile behavior after flexural yielding. Compared to rectangular hoops and crossties, spiral hoops significantly enhanced the deformation capacity of RC and composite columns by providing lateral confinement and by restraining local buckling and tensile fractures of longitudinal rebars. On the other hand, the use of embedded steel section had limited effect on the deformation capacity because of the relatively low yield strength of the steel section. In the case of wall-column section, as the section depth increased, the deformation capacity decreased due to the increased shear demand. Existing nonlinear analysis modeling methods were applied to the test specimens. The prediction results underestimated the tested deformation capacity, particularly for columns with spiral hoops.
+
+
+    
+        AU - Huawen Ye
+    
+        AU - Zhihao Fen
+    
+        AU - Jianxi He
+    
+        AU - Jialin Deng
+    
+
+TI - Analytical Solution for Bending Deformation of Steel–Concrete Composite Beams Considering Nonlinear Interfacial Slip
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024058
+VI - 150
+IP - 6
+AID - 10.1061/JSENDH.STENG-13096 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13096
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13096
+SO - Journal of Structural Engineering 2024-06-01 150(6): 04024058
+AB - This study proposes a closed-form explicit, exact analytical model for bending deformation accounting for the interface nonlinearity in regular steel–concrete composite beams with partial shear connectors. A nonlinear shear load–slip equation that facilitates theoretical derivation and numerical simulation analysis was introduced to consider the nonlinear effects of partial shear interaction on composite structures. Applying the principle of minimum potential energy and the variational principle, a theoretical model was then proposed for the bending deformation and interface slip of a simply supported steel–concrete composite beam under varied load conditions. Using a trigonometric series, slip displacement and bending deflection functions were devised based on the undetermined coefficient method. A unified solution was also proposed for the beam’s bending rigidity, taking into account nonlinear interface slip. The analytical solutions’ applicability and accuracy were validated by comparing with existing experimental literature. Furthermore, a parametric study using the validated numerical nonlinear model demonstrated the influences of the stud spacing, the nonlinear interfacial effect, and the span-to-depth ratio of composite beams. This research can be referred to the accurate deformation estimation of composite beams.
+
+
+    
+        AU - Muhammad Naeem Tahir
+    
+        AU - Ehab Hamed
+    
+
+TI - Thermomechanical Response of Profiled Metal-Faced Insulating Sandwich Panels: Testing and Analysis
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024059
+VI - 150
+IP - 6
+AID - 10.1061/JSENDH.STENG-12428 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12428
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12428
+SO - Journal of Structural Engineering 2024-06-01 150(6): 04024059
+AB - The durability of profiled metal-faced insulating sandwich panels (MFISPs) in terms of exposure to high temperatures and thermal cycles is critical for their use in civil engineering applications. In this paper, a total of 20 full-scale panels made with two different thicknesses were tested under instantaneous lateral pressure loading at ambient conditions as well as under various combinations of high temperatures, thermal cycles, and lateral pressure. The pressure was applied through a vacuum chamber whereas thermal blankets were used for sustained and cyclic thermal exposure of the panels. Each thermal cycle entailed 24&nbsp;h of time duration with a temperature range of 20–80°C. The results show a consistent reduction in the initial stiffness, local buckling pressure, and strength of the panels when they were loaded at high temperatures. These reductions were more substantial (up to 24%) under the combined effects of high temperature (80°C), thermal cycles, and pressure loading. The study also shows that the thickness of the foam core can play an important role in controlling the local buckling capacity and strength of the MFISPs. A nonlinear finite-element analysis was also conducted with a relatively good correlation with the test results. The numerical results provide further insights into the structural response and explain certain aspects that could not be obtained from the tests. Given that MFISPs are typically used for roof panels, where the combination of high temperatures and wind load is inevitable at certain regions, the results presented in this work are recommended for consideration in their design.
+
+
+    
+        AU - Thomas Tannert
+    
+        AU - Adam Gerber
+    
+        AU - Alexander Salenikovich
+    
+
+TI - Short-Term, Long-Term, and Vibration Performance of TCC Floors Using Mass-Timber Panels
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024060
+VI - 150
+IP - 6
+AID - 10.1061/JSENDH.STENG-12831 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12831
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12831
+SO - Journal of Structural Engineering 2024-06-01 150(6): 04024060
+AB - The increasing availability of mass timber panels has expanded the possibilities for using timber-concrete-composite (TCC) flat floors beyond the traditional TCC T-beams. While TCC floors often easily satisfy ultimate limit state requirements, their stiffness, vibration characteristics, and long-term performance are critical design considerations. This research aimed to validate the bending, vibration, and long-term performance for nine different TCC floor systems through full-size tests with a span of 5.8&nbsp;m. The tested floor systems used laminated-veneer-lumber, laminated-strand lumber, and cross-laminated-timber (CLT) panels connected to a concrete slab with and without an interlayer. Three types of shear connections were employed: self-tapping screws; glued-in steel mesh; and a combination of STS and adhesive bond. First, the shear connection properties were determined via 54 small-scale push-out tests. Then, 18 floors were tested in bending and vibration shortly after fabrication, and an additional nine floors were subjected to service loading for 32&nbsp;months under variable climatic conditions, after which they were subjected to bending and vibration tests. The results confirmed that the calculations based on the γ-method accurately predict the stiffness, natural frequency, and governing failure modes of TCC floors. The long-term exposure to service loading had minimal effect (within 10%) on resistance, stiffness, and natural frequency of TCC floors, except for the TCC using CLT, which showed the highest creep deflection and stiffness reduction among the tested configurations.
+
+
+    
+        AU - Yuichi Sato
+    
+        AU - Kazuhiro Naganuma
+    
+
+TI - Crack Width Analyses of 50-Story Reinforced Concrete Building by Parallelized Discrete-Like Crack Model
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 05024001
+VI - 150
+IP - 6
+AID - 10.1061/JSENDH.STENG-12446 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12446
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12446
+SO - Journal of Structural Engineering 2024-06-01 150(6): 05024001
+AB - The discrete-like crack model (DLCM), a crack-analysis scheme incorporated with the nonlinear finite element method, is redeveloped for parallelism. The algorithm of the new DLCM based on the theory of bond redistribution is implemented through the OpenMP interface and enables analyses of a 50-story building with more than four million degrees of freedom. The analysis considers the drying shrinkage and creep during the construction and service periods, static pushover loading, and a time history of a near-fault strong ground motion. The amount of cracks is quantified as the total length that occurs on the concrete surfaces. The structural damage due to compression softening exhibits a strong correlation with the length of cracks with opening widths larger than 2&nbsp;mm. The analyzed building becomes unrepairable when the total length of the &gt;2  mm wide cracks exceeds 50&nbsp;m. However, the occurrence of such serious damage induced by any seismic vibrations ever recorded is unlikely. “There’s no art to find the mind’s construction in the face,” so King Duncan said. However, we can consider the search for structural damages on concrete surfaces a form of art. The presence of cracks proves the life of a reinforced concrete building, similar to a person’s history engraved as wrinkles and scars on their face. Our novel parallel numerical scheme, namely, the discrete-like crack model (DLCM), traces not only the long history of a building starting from its construction but also resolves the issue of unexpected near-fault pulse-type earthquakes into detailed profiles. In this case study, DLCM is employed to assess structural damage using a percentage of cracks that extend up to 100&nbsp;km on the entire concrete surfaces of a 50-story residential building. The profiles of cracks, stresses, and strains articulate the building’s past and current status and render the possibility to improve the quality of living in the future.
+
+
+    
+        AU - Niel C. Van Engelen
+    
+
+TI - Erratum for “Evaluation of Design Equations for Critical Properties of Reinforced Elastomeric Bearings and Recommended Revisions”
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 08224004
+VI - 150
+IP - 6
+AID - 10.1061/JSENDH.STENG-13684 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13684
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13684
+SO - Journal of Structural Engineering 2024-06-01 150(6): 08224004
+
+

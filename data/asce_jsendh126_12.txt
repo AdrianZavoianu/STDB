@@ -1,0 +1,280 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - C. Dale Buckner
+    
+
+TI - Editor's Note
+PT - Journal Article
+DP - 2000
+TA - Journal of Structural Engineering
+PG - 1379-1379
+VI - 126
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2000)126:12(1379) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281379%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281379%29
+SO - Journal of Structural Engineering 2000-12-01 126(12): 1379-1379
+
+
+    
+        AU - Linda M. Hanagan
+    
+        AU - Ernest C. Kulasekere
+    
+        AU - Kirthi S. Walgama
+    
+        AU - Kamal Premaratne
+    
+
+TI - Optimal Placement of Actuators and Sensors for Floor Vibration Control
+PT - Journal Article
+DP - 2000
+TA - Journal of Structural Engineering
+PG - 1380-1387
+VI - 126
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2000)126:12(1380) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281380%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281380%29
+SO - Journal of Structural Engineering 2000-12-01 126(12): 1380-1387
+AB - Lightweight floor systems are susceptible to excessive levels of vibration caused by occupant activities such as walking, dancing, and aerobics. Ongoing research utilizes active control to reduce vibration. Placement of multiple actuators and sensors for effective vibration control of flexible systems such as floors is a challenging task. The method proposed in this paper simultaneously determines optimal placements for multiple actuators, sensors, and appropriate output feedback gains of the controller. Instead of carrying out the controller design in the analog domain and then applying a transformation to arrive at a digital implementation, the proposed algorithm provides a digital controller directly. This allows lower sampling rates to be used at the implementation stage. To obtain faster settling times in the presence of external disturbances, a performance index that penalizes system states exponentially is utilized. The nonlinearities associated with actuator saturation due to force/stroke limitations is considered explicitly in the optimization. The proposed algorithm uses an interpolation scheme in case only partial knowledge of the mode shape is available. Hence it is applicable to a wider class of 2D structures that do not possess closed-form expressions for modal shapes and for which one has to resort to finite-element or experimental modal analysis.
+
+
+    
+        AU - Steven M. Cramer
+    
+        AU - John M. Drozdek
+    
+        AU - Ronald W. Wolfe
+    
+
+TI - Load Sharing Effects in Light-Frame Wood-Truss Assemblies
+PT - Journal Article
+DP - 2000
+TA - Journal of Structural Engineering
+PG - 1388-1394
+VI - 126
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2000)126:12(1388) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281388%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281388%29
+SO - Journal of Structural Engineering 2000-12-01 126(12): 1388-1394
+AB - Load sharing among repetitive wood members interconnected by structural sheathing strengthens light-frame assemblies beyond that assumed in designing a single member. A repetitive member factor of 1.15 applied to bending resistance has been traditionally included in wood design standards to account for this effect. The focus of this study was to quantify load-sharing effects on members in metal-plate-connected wood trusses. This was accomplished using a detailed structural analysis model and statistical characterizations of lumber stiffness and strength properties. Monte Carlo simulations were conducted on six common truss configurations and one dimension lumber joist floor where wood member properties were randomly selected from distributions representing properties of the lumber grade. The assemblies were analyzed with and without attached sheathing to directly quantify the load-sharing effects in the system. The computed mean load-sharing factors ranged from 1.06 to 1.24 in the truss assemblies and from 1.17 to 1.19 for the joist assembly. The load-sharing factors were found to be applicable to wood truss members subject to tensile or compressive forces in addition to bending forces.
+
+
+    
+        AU - Maria A. Parisi
+    
+        AU - Maurizio Piazza
+    
+
+TI - Mechanics of Plain and Retrofitted Traditional Timber Connections
+PT - Journal Article
+DP - 2000
+TA - Journal of Structural Engineering
+PG - 1395-1403
+VI - 126
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2000)126:12(1395) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281395%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281395%29
+SO - Journal of Structural Engineering 2000-12-01 126(12): 1395-1403
+AB - The rehabilitation of old historic buildings often requires retrofitting traditional timber connections. Experimental and numerical methods were used in this work to study the elastic and postelastic behavior of the birdsmouth joint, which is used with great frequency in old timber roof structures, especially in the Mediterranean and Alpine regions. After a preliminary inspection of several buildings to acquire data on existing assemblages, an experimental program of testing full-scale samples under monotonic and cyclic loads was undertaken. Different configurations with parameters related to geometry, loading, and material properties were studied using a finite-element model of the connection; the results were calibrated with experimental results. The behavior of various joints was also investigated using a simplified physical model. The leading roles of friction, axial compression, and joint dimensions in determining the joint capacity and postelastic behavior have been highlighted and quantified. Different types of retrofitting methodologies based on the insertion of metal parts were examined and compared on an experimental basis.
+
+
+    
+        AU - Y. J. Ge
+    
+        AU - H. Tanaka
+    
+
+TI - Aerodynamic Stability of Long-Span Suspension Bridges under Erection
+PT - Journal Article
+DP - 2000
+TA - Journal of Structural Engineering
+PG - 1404-1412
+VI - 126
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2000)126:12(1404) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281404%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281404%29
+SO - Journal of Structural Engineering 2000-12-01 126(12): 1404-1412
+AB - The aerodynamic instability of a long-span suspension bridge with a shallow streamlined box girder is a serious engineering concern, particularly during the early deck erection stage. Its characteristics are significantly influenced by the sequence of deck erection. Using the Höga Kusten Bridge in Sweden as an example, this paper presents an analytical and experimental discussion regarding the evolution of flutter characteristics for a long-span suspension bridge, and a comparison of different erection sequences and analytical prediction of more stable configurations. The general feature of the flutter limit evolution with the erection program of midspan to pylons, which was previously evidenced by wind tunnel tests, has been successfully reproduced analytically, and the advantages of keeping nonsymmetric deck configurations were confirmed. The pylon to midspan program has never been employed for long-span girder bridges, but it was found to be, at least, aerodynamically favorable.
+
+
+    
+        AU - Shun-ichi Nakamura
+    
+
+TI - GPS Measurement of Wind-Induced Suspension Bridge Girder Displacements
+PT - Journal Article
+DP - 2000
+TA - Journal of Structural Engineering
+PG - 1413-1419
+VI - 126
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2000)126:12(1413) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281413%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281413%29
+SO - Journal of Structural Engineering 2000-12-01 126(12): 1413-1419
+AB - A new method using the Global Positioning System (GPS) was proposed to directly measure the suspension bridge girder displacements induced by wind forces. The field measurements were carried out using this system on an existing suspension bridge during the strong wind season. The semistatic displacements of the girders were successfully obtained, and agreed well with the numerically predicted values and the wind tunnel test results. The spectral densities of the displacements measured by GPS corresponded with the numerical results by the finite-element method analysis and the forced vibration test results. The gust response of the girder due to the turbulence of the wind flow was evaluated from the acceleration records measured by accelerometers and compared with the GPS data. The mode frequencies of both results showed good agreement in the low-frequency range and the spectral peaks estimated by the accelerometers corresponded to the GPS values with good accuracy. It is concluded that the GPS method is reliable and useful to clarify the semistatic and gust response behaviors of long-span bridges.
+
+
+    
+        AU - John W. van de Lindt
+    
+        AU - John M. Niedzwecki
+    
+
+TI - Methodology for Reliability-Based Design Earthquake Identification
+PT - Journal Article
+DP - 2000
+TA - Journal of Structural Engineering
+PG - 1420-1426
+VI - 126
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2000)126:12(1420) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281420%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281420%29
+SO - Journal of Structural Engineering 2000-12-01 126(12): 1420-1426
+AB - This study presents a methodology to rank the possible earthquake events through the estimation of a reliability importance parameter, which is a function of each event's magnitude M and site-to-source distance R. This allows one to rank the importance of each design earthquake not in terms of the acceleration of a single-degree-of-freedom oscillator, but rather in terms of the displacement-based reliability of a multiple-degree-of-freedom representation of the structure. A simulation procedure is introduced that couples a technique similar to seismic hazard analysis with performance-based reliability estimates that consider interstory drift criteria. The simulation procedure allows for the inclusion of response spectra uncertainty and structural resistance uncertainties in the mass, stiffness, and damping at each story level. The reliability importance factor leads to the definition of a cumulative earthquake hazard function. This function may be used as a basis in selecting the number of design earthquakes one wishes to use depending upon the desired complexity of the analysis. Two illustrative examples are presented.
+
+
+    
+        AU - Jann N. Yang
+    
+        AU - Jin-H. Kim
+    
+        AU - Anil K. Agrawal
+    
+
+TI - Resetting Semiactive Stiffness Damper for Seismic Response Control
+PT - Journal Article
+DP - 2000
+TA - Journal of Structural Engineering
+PG - 1427-1433
+VI - 126
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2000)126:12(1427) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281427%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281427%29
+SO - Journal of Structural Engineering 2000-12-01 126(12): 1427-1433
+AB - Recently, a semiactive hydraulic stiffness damper operating in the resetting mode, referred to as the resetting semiactive stiffness damper (RSASD), was shown to be effective in reducing the structural response due to dynamic loads. In this paper, a general resetting control law based on the Lyapunov theory is proposed for an RSASD. The performance of such a resetting controller and of a switching control method are investigated through extensive numerical simulations using different types of earthquake excitations. Simulation results indicate that an RSASD is more effective in suppressing the building response subject to earthquakes than a switching semiactive stiffness damper. Likewise, the performance of a particular control method depends on the types of earthquake excitations.
+
+
+    
+        AU - James T. Baylot
+    
+
+TI - Effect of Soil Flow Changes on Structure Loads
+PT - Journal Article
+DP - 2000
+TA - Journal of Structural Engineering
+PG - 1434-1441
+VI - 126
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2000)126:12(1434) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281434%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281434%29
+SO - Journal of Structural Engineering 2000-12-01 126(12): 1434-1441
+AB - Current methods of analyzing the response of buried structures to ground shock loads consider the effects of structure response on structure loads, but do not consider the effects of structure motion on the soil flow near the structure and subsequent changes in the structure loads and response. Analyses of the effects of these soil flow changes for a high explosive detonation very close to a structure have not been reported until now. In this paper, dynamic finite-element analyses, including the detonation of high explosives in the soil, are used to determine the changes in soil flow and structure loads. These analyses demonstrate that the soil flow near the structure changes significantly due to structure motion, and neglecting these changes in flow causes the underprediction of late-time loads and structure response.
+
+
+    
+        AU - Y. C. Wang
+    
+        AU - V. K. R. Kodur
+    
+
+TI - Research Toward Use of Unprotected Steel Structures
+PT - Journal Article
+DP - 2000
+TA - Journal of Structural Engineering
+PG - 1442-1450
+VI - 126
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2000)126:12(1442) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281442%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281442%29
+SO - Journal of Structural Engineering 2000-12-01 126(12): 1442-1450
+AB - When exposed to fire, steel loses stiffness and strength; to limit this loss of strength and stiffness, external fire protection is provided to the steel structural members to satisfy required fire resistance ratings. However, the current practice of providing fire protection is based on the behavior of single elements under idealistic situations; as such, it is conservative and does not represent the realistic fire behavior of real structures. Recently, there has been a spurt of worldwide research activities aimed at minimizing such fire protection costs. These studies have mainly focused on understanding the realistic fire behavior of complete structures and on developing innovative systems with inherent fire resistance. Feasible solutions are now emerging, in which the external fire protection may be completely removed, in certain situations, without compromising the fire safety of steel structures. This paper reviews some of the recent developments in this field and describes one particular system in some detail. This system uses the conventional composite slab/steel beam flooring system in conjunction with concrete-filled steel tubular columns. Research studies at the United Kingdom's Building Research Establishment and the National Research Council of Canada suggest that it might be possible, through proper design, to eliminate fire protection for steel in this system.
+
+
+    
+        AU - Hong C. Rhim
+    
+        AU - Oral Büyüköztürk
+    
+
+TI - Wideband Microwave Imaging of Concrete for Nondestructive Testing
+PT - Journal Article
+DP - 2000
+TA - Journal of Structural Engineering
+PG - 1451-1457
+VI - 126
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2000)126:12(1451) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281451%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281451%29
+SO - Journal of Structural Engineering 2000-12-01 126(12): 1451-1457
+AB - Radar has the potential of becoming a powerful and effective tool for the nondestructive testing of concrete structures. An advancement of the method can be achieved through the understanding of the interaction between electromagnetic waves and concrete, and the identification of optimum radar measurement parameters for probing concrete. For the determination of optimum parameters, systematic radar measurements are needed in tandem with the implementation of proper signal processing techniques for imaging. This paper presents the results of such radar measurements, which are made using a wideband imaging radar with different frequency ranges. Inverse synthetic aperture radar is used for the measurements of laboratory-size concrete specimens having three different types of internal configurations. The signal processing algorithms implemented to obtain two-dimensional and three-dimensional imagery of concrete targets from radar measurements are also discussed. For the concrete specimens and measurement setup used in this study, 2–3.4 GHz waveforms are found to be adequate for the concrete thickness measurement, 3.4–5.8 GHz waveforms are adequate for the detection of delamination, and 8–12 GHz waveforms are adequate for the detection of inclusions embedded inside concrete.
+
+
+    
+        AU - H. P. Hong
+    
+
+TI - Assessment of Reliability of Aging Reinforced Concrete Structures
+PT - Journal Article
+DP - 2000
+TA - Journal of Structural Engineering
+PG - 1458-1465
+VI - 126
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2000)126:12(1458) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281458%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281458%29
+SO - Journal of Structural Engineering 2000-12-01 126(12): 1458-1465
+AB - Aggressive environment and in-service loading can cause the resistance degradation of existing reinforced concrete structures. They must be considered for the safety evaluation and service-life prediction of deteriorating structures. This paper presents an integrated approach for time-dependent system reliability analysis considering the stochastic nature of load processes, uncertainties in strength, degradation initiation time, and strength degradation mode. The approach takes into account the partial correlation among the failures of structural elements, which arises from the fact that elements of a structural system are subjected to the same load processes and/or dependent on some common basic random variables. The approach is efficient, since it does not require simulation. Analysis results obtained by using the proposed approach indicate that the reliability of series systems is relatively insensitive to the correlation between the failure of structural elements. However, the reliability of parallel system is highly sensitive to the correlation. The use of the time-dependent reliability obtained by neglecting possible correlation as a safety measure, therefore, should be avoided.
+
+
+    
+        AU - Q. S. Li
+    
+
+TI - Buckling of Flexural-Shear Plates
+PT - Journal Article
+DP - 2000
+TA - Journal of Structural Engineering
+PG - 1466-1474
+VI - 126
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2000)126:12(1466) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281466%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281466%29
+SO - Journal of Structural Engineering 2000-12-01 126(12): 1466-1474
+AB - In this paper, tall buildings with shear-wall structures and with narrow rectangular plane configuration are modeled as flexural-shear plates for buckling analysis. The differential equations that govern the buckling behavior of flexural-shear plates, with and without considering shear deformation of shear-wall structures, are established. The general solutions of uniform flexural-shear plates with various end conditions are derived and used to obtain the eigenvalue equation for multistep flexural-shear plates. The new exact approach that combines the transfer matrix method and the derived closed-form solutions is presented for the buckling analysis of multistep flexural-shear plates. The exact solutions for buckling of nonuniform flexural-shear plates are derived for two types of distributions of variable stiffness. It is proved that a flexural-shear plate with two edges free in the longitudinal direction can be simplified as a flexural bar and that a multistep uniform flexural-shear plate may be treated as a nonuniform plate with a continuously varying cross section for buckling analysis. A numerical example demonstrates that the present methods are easy to implement and efficient for analyzing the entire and partial buckling of multistep flexural-shear plates, with or without considering shear deformation of shear-wall structures, subjected to axial loads acting on the top of each step plate.
+
+
+TI - Reviewers for the <b><i>Journal of Structural Engineering</i></b>
+PT - Journal Article
+DP - 2000
+TA - Journal of Structural Engineering
+PG - 1475-1482
+VI - 126
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2000)126:12(1475) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281475%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282000%29126%3A12%281475%29
+SO - Journal of Structural Engineering 2000-12-01 126(12): 1475-1482
+
+

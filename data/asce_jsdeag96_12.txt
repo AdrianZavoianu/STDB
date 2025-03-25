@@ -1,0 +1,337 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Toshikazu Takeda
+    
+        AU - Mete A. Sozen
+    
+        AU - N. Norby Nielsen
+    
+
+TI - Reinforced Concrete Response to Simulated Earthquakes
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 2557-2573
+VI - 96
+IP - 12
+AID - 10.1061/JSDEAG.0002765 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002765
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002765
+SO - Journal of the Structural Division 1970-12-01 96(12): 2557-2573
+AB - A series of reinforced concrete specimens has been subjected to static tests as well as periodic and simulated earthquake motions to develop realistic analytical models for the earthquake response of the elements and materials involved. During some of the dynamic tests the specimen responded with a displacement of the order of six times the initial yield deflection. The stiffness and energy absorbing capacity of the specimens changed considerably and, at times, very rapidly during the dynamic tests. A realistic conceptual model for predicting the dynamic response of a reinforced concrete member should be based on a static force-displacement relationship which reflects the changes in stiffness for loading and unloading as a function of the previous loading history. The dynamic response calculated on the basis of the proposed force-displacement relationship resulted in satisfactory agreement with the measured response. With the hysteresis loops defined by the proposed force-displacement relationship, it was not necessary to invoke additional sources of energy absorption for a satisfactory prediction of the dynamic response.
+
+
+    
+        AU - Salman H. Abu-Sitta
+    
+
+TI - Cooling Towers Supported on Columns
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 2575-2588
+VI - 96
+IP - 12
+AID - 10.1061/JSDEAG.0002766 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002766
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002766
+SO - Journal of the Structural Division 1970-12-01 96(12): 2575-2588
+AB - Stresses due to the individual effects of forces, moments and deformations at the base of a hyperboloidal cooling tower are presented. With the assumption that the column-spacing is sufficiently small to permit taking an average stiffness per unit length, forces and moments in a loaded cooling tower, supported on columns, are calculated for different column stiffnesses and different load distributions in the circumferential direction. It is shown that: all base displacements have finite values, membrane (not bending) stiffness of the column is important and column effect is noticeable when bending noments are significant.
+
+
+    
+        AU - Leonard Spunt
+    
+
+TI - Optimization of Redundant Prestressed Structures
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 2589-2606
+VI - 96
+IP - 12
+AID - 10.1061/JSDEAG.0002767 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002767
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002767
+SO - Journal of the Structural Division 1970-12-01 96(12): 2589-2606
+AB - The load index approach to structural optimization is extended to similar or mixed element systems with statically determinate or redundant prestressed configurations and under multiple load conditions. Employing component optimization expressions reduces the problem to an unconstrained search through a space defined in terms of variables which express the relative orientation of component elements and the redundant loads. It is shown that a minimum weight truss may be prestressed redundant under a single external load condition if the internal prestress is considered as a separate load condition, i.e., the truss must not fail under the internal prestress in the absence of the applied load. Multiple load truss applications show that additional weight savings over previous analyses can be realized by optimizing bar orientation and redundant load. Optimizing of redundant loads, however, will in general require a turnbuckle in series with a flexible spring in order to maintain a unique prestress under multiple load conditions.
+
+
+    
+        AU - Jeremy Isenberg
+    
+        AU - Samy Adham
+    
+
+TI - Analysis of Orthotropic Reinforced Concrete Structures
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 2607-2624
+VI - 96
+IP - 12
+AID - 10.1061/JSDEAG.0002768 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002768
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002768
+SO - Journal of the Structural Division 1970-12-01 96(12): 2607-2624
+AB - A mathematical model is derived for stress-strain properties of reinforced concrete. The model is obtained form stress-strain relations of reinforcing steel and plain concrete, and from considering slip in bond between them. The stress-strain relations for plain concrete are based on experimental data obtained under uniaxial, biaxial and triaxial compressive stress, and biaxial tensile and compressive stress. The model stress-strain relation in each principal stress direction is affected by the other two prinicpal stresses. The form of the stress-strain relation and the manner in which it is affected by the lateral principal stresses is different in tension and compressoin. A bilinear tensile-stress-strain relation is used to represent the elastic-plastic properties of the reinforcing steel. Until cracking occurs, properties of the model depend entirely on the concrete. After cracking, a composite modulus is used which reflects the combined stiffness of steel and concrete and takes into account the extent to which bond between steel and concrete is broken.
+
+
+    
+        AU - Charles A. Miller
+    
+        AU - Sidney A. Guralnick
+    
+
+TI - Creep Deflection of Reinforced Concrete Beams
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 2625-2638
+VI - 96
+IP - 12
+AID - 10.1061/JSDEAG.0002769 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002769
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002769
+SO - Journal of the Structural Division 1970-12-01 96(12): 2625-2638
+AB - A procedure is outlined for predicting the time-dependent deflection of statically determinate, singly reinforced concrete beams subjected either to long-term sustained load or to repeated cycles of sustained load. Creep behavior of plain concrete is represented by means of a linear viscoelastic model. Numerical solutions are obtained for the resulting system of equilibrium equations; graphs giving peak values of deflection, neutral axis location, and concrete and steel stresses are presented. The time history of each variable is fitted with an exponential, and nomographs are given to define the values of the exponents. A procedure is presented for using this data to compute the response of beams subjected to cycles of sustained load.
+
+
+    
+        AU - William L. Galligan
+    
+        AU - Delos V. Snodgrass
+    
+
+TI - Machine Stress Rated Lumber: Challenge to Design
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 2639-2651
+VI - 96
+IP - 12
+AID - 10.1061/JSDEAG.0002770 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002770
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002770
+SO - Journal of the Structural Division 1970-12-01 96(12): 2639-2651
+AB - Machine stress rating (MSR) principles of nondestructive testing improve the design potential of lumber through segregation by modulus of elasticity as well as by identification of allowable fiber stress levels through combined MOE and visual criteria. Although significantly more accurate in grading for elasticity than conventional visual grading, use of MSR lumber in conventional housing has been influenced by the paradoxes of stiffness criteria that exist in present wood design. In more engineered use such as trusses, MSR lumber has been employed extensively because of its ability to identify lumber capable of use at high fiber stress levels. In laminated beam design, where both stiffness and strength are important, acceptance hinges on development of design specifications to accomodate the potential that has been demonstrated in exploratory full-sized beam tests. Progress with advanced lumber grading systems is dependent upon enlightened progress in structural design with lumber.
+
+
+    
+        AU - Max Reiss
+    
+
+TI - Discussion of “Spandrel-Slab Interaction”
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 2666-2668
+VI - 96
+IP - 12
+AID - 10.1061/JSDEAG.0002771 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002771
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002771
+SO - Journal of the Structural Division 1970-12-01 96(12): 2666-2668
+
+
+    
+        AU - Clarence T. Gordon
+    
+        AU - William L. Klehm
+    
+
+TI - Closure to “Conventionally Reinforced Nuclear Containments”
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 2669-2669
+VI - 96
+IP - 12
+AID - 10.1061/JSDEAG.0002772 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002772
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002772
+SO - Journal of the Structural Division 1970-12-01 96(12): 2669-2669
+
+
+    
+        AU - Tauchao C. Fan
+    
+
+TI - Closure to “Design Parameters for Thermal Shock Problems”
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 2670-2671
+VI - 96
+IP - 12
+AID - 10.1061/JSDEAG.0002773 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002773
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002773
+SO - Journal of the Structural Division 1970-12-01 96(12): 2670-2671
+
+
+    
+        AU - Arthur N.L. Chiu
+    
+
+TI - Closure to “Response of Structures to Time-Varying Wind Loads”
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 2671-2671
+VI - 96
+IP - 12
+AID - 10.1061/JSDEAG.0002774 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002774
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002774
+SO - Journal of the Structural Division 1970-12-01 96(12): 2671-2671
+
+
+    
+        AU - Eivind Hognestad
+    
+
+TI - Discussion of “Current European Views on Structural Safety”
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 2671-2672
+VI - 96
+IP - 12
+AID - 10.1061/JSDEAG.0002775 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002775
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002775
+SO - Journal of the Structural Division 1970-12-01 96(12): 2671-2672
+
+
+    
+        AU - G. M. Mills
+    
+        AU - V. P. Mital
+    
+
+TI - Discussion of “Crack Width Control in Reinforced Concrete Two-Way Slabs”
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 2673-2674
+VI - 96
+IP - 12
+AID - 10.1061/JSDEAG.0002776 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002776
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002776
+SO - Journal of the Structural Division 1970-12-01 96(12): 2673-2674
+
+
+    
+        AU - Tamirisa V.S.R. Apparao
+    
+
+TI - Discussion of “Hyperbolic Functions for Prestress Loss and Camber”
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 2674-2675
+VI - 96
+IP - 12
+AID - 10.1061/JSDEAG.0002777 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002777
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002777
+SO - Journal of the Structural Division 1970-12-01 96(12): 2674-2675
+
+
+    
+        AU - Wei-Wen Yu
+    
+
+TI - Discussion of “Rational Design of Light Gage Beams”
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 2675-2677
+VI - 96
+IP - 12
+AID - 10.1061/JSDEAG.0002778 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002778
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002778
+SO - Journal of the Structural Division 1970-12-01 96(12): 2675-2677
+
+
+    
+        AU - Melvin W. Jackson
+    
+
+TI - Discussion of “Concrete Containments for Reactors—State of Art”
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 2677-2679
+VI - 96
+IP - 12
+AID - 10.1061/JSDEAG.0002779 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002779
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002779
+SO - Journal of the Structural Division 1970-12-01 96(12): 2677-2679
+
+
+    
+        AU - Frederic T. Mavis
+    
+
+TI - Discussion of “Two-Dimensional Cable Analysis”
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 2679-2680
+VI - 96
+IP - 12
+AID - 10.1061/JSDEAG.0002780 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002780
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002780
+SO - Journal of the Structural Division 1970-12-01 96(12): 2679-2680
+
+
+    
+        AU - Ernest F. Masur
+    
+
+TI - Discussion of “Bounding of Frame Buckling Loads”
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 2680-2682
+VI - 96
+IP - 12
+AID - 10.1061/JSDEAG.0002781 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002781
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002781
+SO - Journal of the Structural Division 1970-12-01 96(12): 2680-2682
+
+
+    
+        AU - W. F. Chen
+    
+
+TI - Effects of Initial Curvature on Column Strength
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 2685-2691
+VI - 96
+IP - 12
+AID - 10.1061/JSDEAG.0002782 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002782
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002782
+SO - Journal of the Structural Division 1970-12-01 96(12): 2685-2691
+AB - Herein the two types of initial curvature: initial curvature on maximum strength of columns of rectangular cross section, and initial curvature on the maximum strength of a column, are examined for various shapes of column cross section.
+
+

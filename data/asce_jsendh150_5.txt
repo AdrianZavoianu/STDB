@@ -1,0 +1,441 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Yu-Xu Guo
+    
+        AU - Feng Xi
+    
+        AU - Bo Yang
+    
+        AU - De-Yang Kong
+    
+        AU - Shagea Alqawzai
+    
+        AU - Yu Chen
+    
+
+TI - Study of I-Shape Steel Beams Subjected to Combined Fire and Impact Loading and Failure Assessment Method
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024028
+VI - 150
+IP - 5
+AID - 10.1061/JSENDH.STENG-12855 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12855
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12855
+SO - Journal of Structural Engineering 2024-05-01 150(5): 04024028
+AB - To investigate the dynamic response and fire performance of steel beams under high temperature, drop hammer impact tests and numerical simulations were conducted on steel beams subjected to high temperatures. Three finite element (FE) models were established using the element coupling method to predict the impact dynamic behavior of the steel beams under the combined effects of fire and impact loads. The reliability and applicability of the developed FE models in predicting the impact dynamic response of steel beams in fire was examined through comparison of numerical results with experimental results. Based on the experimentally and numerically observed failure modes, a generalized plastic yield criterion for I-shaped steel beams section was proposed, which considers the synergistic effects of axial force, shear force, bending moment, strain rate, and temperature with the plastic deformation of the entire cross section as the criterion. The interaction functions and spatial characteristics between internal forces were presented. A new generalized yield (G-Y) method for evaluating the failure of components due to plastic hinges development without restricting the load type was proposed based on four types of interaction relationships combination, and the sensitivity of the G-Y method to different parameters for assessing the development of plastic hinges was systematically studied. Based on the proposed G-Y method, the mechanical behavior of steel beam subjected to multiple extreme load coupling effects was revealed.
+
+
+    
+        AU - David B. Roueche
+    
+        AU - Guangzhao Chen
+    
+        AU - Mariantonieta Gutierrez Soto
+    
+        AU - Sabarethinam Kameshwar
+    
+        AU - Amir Safiey
+    
+        AU - Trung Do
+    
+        AU - Franklin T. Lombardo
+    
+        AU - Jordan O. Nakayama
+    
+        AU - Brandon M. Rittelmeyer
+    
+        AU - Alejandro Palacio-Betancur
+    
+        AU - Garrett Demaree
+    
+
+TI - Performance of Hurricane-Resistant Housing during the 2022 Arabi, Louisiana, Tornado
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024029
+VI - 150
+IP - 5
+AID - 10.1061/JSENDH.STENG-12986 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12986
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12986
+SO - Journal of Structural Engineering 2024-05-01 150(5): 04024029
+AB - Mitigating tornado damage remains a critical challenge for communities throughout much of the United States. Enhanced construction techniques typically used in hurricane-prone regions are often recommended as at least part of the solution, but the effectiveness of these techniques lacks empirical evaluation. This study investigates the performance of modern wood-frame residential structures in Arabi, LA, constructed to hurricane-resistant standards, that were impacted by a strong tornado on March 22, 2022. Field teams deployed beginning March 25, 2022, just three days after the tornado touched down, capturing perishable data on the building performance using vehicle-mounted surface-level panoramic cameras, forensic engineering investigations, and unmanned aerial systems. This paper describes the field deployments and identifies common failure mechanisms observed by the field teams. Analytical fragility functions are developed based on the load path observations and compared to empirical fragility functions generated from linking the building performance observations with wind speed estimates at each building derived from a parametric wind field model conditioned to tree-fall patterns. The study finds that despite the frequent use of hurricane-resistant hardware, such as hurricane straps and anchor bolts, key weak links elsewhere in the load path compromised the resistance and led to premature failures. The agreement between the empirically- and analytically-derived fragility functions was lacking, demonstrating the challenges that remain in understanding near-surface tornado wind loading and structural response. Nonetheless, the study provides a consensus framework for future tornado assessments that can help improve our understanding of tornado loading through the utilization of reconnaissance data. Further, the study findings on deficiencies in the load paths of homes in hurricane-prone regions have practical value to risk assessments and future construction practices.
+
+
+    
+        AU - Martina Sciomenta
+    
+        AU - Chiara Bedon
+    
+        AU - Massimo Fragiacomo
+    
+
+TI - Experimental and Numerical Column Buckling Analysis of Hardwood Cross-Laminated Timber Panels
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024030
+VI - 150
+IP - 5
+AID - 10.1061/JSENDH.STENG-12394 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12394
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12394
+SO - Journal of Structural Engineering 2024-05-01 150(5): 04024030
+AB - This paper investigates experimentally and numerically the buckling behavior of three-layered cross-laminated timber (CLT) panels under in-plane axial compression. The main aim is to assess the panels’ ultimate limit load and their typical failure mechanisms. A total of 14 specimens were tested. Seven of them were homogeneous (HO series), entirely made of beech, whereas the others were hybrid (HB series), made of beech (outer layers) and Corsican pine (inner layer). The tests gave evidence of a rather stable column buckling capacity for CLT panels, with evidence of major failure mode due to bending. In some cases, rolling shear and delamination were highlighted as additional failure mechanisms. Finally, further assessment of experimental evidence is provided by extended analytical calculations (based on existing formulations, including the Eurocode 5 approach) and even finite-element (FE) numerical analyses for the examined three-layer CLT compositions. Comparative results are discussed in terms of structural performance, capacity, and weakness of analytical models for CLT solutions.
+
+
+    
+        AU - Hiroshi Yasumoto
+    
+        AU - Amit Kanvinde
+    
+        AU - Chia-Ming Uang
+    
+        AU - Rupa Garai
+    
+
+TI - Simulation-Based Fracture Assessment of Seismic Moment Frame Connections with Box Columns
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024031
+VI - 150
+IP - 5
+AID - 10.1061/JSENDH.STENG-13042 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13042
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13042
+SO - Journal of Structural Engineering 2024-05-01 150(5): 04024031
+AB - Welded connections between beams and built-up box columns in steel moment frames require the attachment of continuity plates to the inside of the column using complete-joint-penetration (CJP) groove welds. Electroslag welding (ESW) is often used to weld at least one of the four sides of each continuity plate to the inside of the box column. These welds are susceptible to fracture due to decreased material toughness and installation of containment plates that create a notch condition. Finite-element simulations are presented to examine the effect of design and detailing parameters on the fracture of these connections, as assessed through conventional fracture mechanics as well as continuum damage mechanics. The results indicate that improved bevel details in the containment plate and reduced beam section (RBS) connections strongly mitigate fracture demands, whereas both eccentricity in the weld with respect to the continuity plate and unequal beam and column flange widths exacerbate demands. The beam and column size, as well as beam web weld access hole details, have only a modest effect on the demands. Simulations are also conducted to examine column-wall thickness limits beyond which continuity plates may not be required. These suggest that limits similar to those specified for wide-flanged columns may not provide adequate performance. Limitations of the study are presented, along with directions for future work.
+
+
+    
+        AU - Pedram Mortazavi
+    
+        AU - Oh-Sung Kwon
+    
+        AU - Constantin Christopoulos
+    
+
+TI - Seismic Performance Assessment of Steel EBFs with Conventional and Replaceable Yielding Links Designed with ASCE 7-16
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024032
+VI - 150
+IP - 5
+AID - 10.1061/JSENDH.STENG-13093 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13093
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13093
+SO - Journal of Structural Engineering 2024-05-01 150(5): 04024032
+AB - This paper presents an extensive numerical study on the seismic performance of steel eccentrically braced frames (EBFs) designed according to the ASCE 7-16 standard. A series of EBF building structures ranging from 2 to 12 stories located in downtown Los Angeles are designed with different yielding links, including conventional and replaceable links. The performance of the structures is investigated through nonlinear time-history analyses (NLTHAs) under a suite of 40 ground motions, selected and scaled to match the target uniform hazard spectrum. The peak deformations are first examined to assess the performance of the buildings as well as the design procedure. Residual deformations are also evaluated and critically compared with acceptable limits, to provide insight into the downtime and recovery time of EBFs after major earthquakes. Previous studies have demonstrated that the response of stable yielding systems to major earthquakes is often accompanied by significant residual deformations, and that residual drifts exceeding 0.5% can cause hindrance to the buildings occupants. In EBFs, in addition to residual drifts, residual link rotations are also relevant and expected to be more severe due to the localization of inelastic deformations in the yielding link. For replaceable modular yielding links, significant residual link rotations after major earthquakes will hinder repairs and the link replacement process, which is one of the important design objectives. The performance of EBFs is also compared with what was observed in previous studies for buckling restrained braced frames and special moment resisting frames. In the end, the results from the extensive NLTHAs are used to establish a relationship between peak drifts and peak link rotations in EBFs.
+
+
+    
+        AU - Zixiang Zhang
+    
+        AU - Yu Bao
+    
+
+TI - New Macroscopic Model for Simulating the Dynamic Behavior of Elastomeric Bearings
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024033
+VI - 150
+IP - 5
+AID - 10.1061/JSENDH.STENG-12455 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12455
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12455
+SO - Journal of Structural Engineering 2024-05-01 150(5): 04024033
+AB - Elastomeric isolation bearings exhibit complex coupled horizontal-vertical behavior. Most existing macroscopic models simulate the quasistatic test results well but have deficiencies in simulating the dynamic behavior of bearings. In this paper, the experimental observations of previous dynamic bearing tests were investigated. The simulation capacity of existing macroscopic models was checked by comparison with the test data. The results show that the calculated axial load and hysteresis loops exhibit undesired oscillations under dynamic excitation. The intrinsic deficiency of existing models in simulating the dynamic response of a bearing was identified as the coupling or off-diagonal terms in the tangent stiffness matrix and the variation of vertical stiffness of the model. Motivated from this key observation, a new macroscopic model was developed to account for the dynamic behavior of bearings, followed by the suggestion of its numerical implementation. Through the introduction of a new axial load expression, the tangent stiffness matrix of the new model was semidecoupled, and the vertical stiffness of the new model remains unchanged, which reduced the interaction between the horizontal and vertical behavior. The simulation capacity of the new model was then validated by comparison with previous test data. The results show that the new model effectively captures the axial load variation and hysteresis loop of the bearings under dynamic excitations. Moreover, it was found that the consideration of the bearing height improved the simulation accuracy, and the size effect of the bearing is critical for isolated structures with large bearing-to-superstructure-height ratio, such as low- to medium-span bridges.
+
+
+    
+        AU - Gregory Georgiou
+    
+        AU - Ahmed Elkady
+    
+
+TI - ANN-Based Model for Predicting the Nonlinear Response of Flush Endplate Connections
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024034
+VI - 150
+IP - 5
+AID - 10.1061/JSENDH.STENG-13119 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13119
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13119
+SO - Journal of Structural Engineering 2024-05-01 150(5): 04024034
+AB - Predicting the moment-rotation response parameters of semirigid steel connections can be challenging given the many components contributing to the connection’s elastic and plastic deformations. This is the case for the popular flush endplate beam-to-column connections (FEPCs). The literature has highlighted the limitations of current analytical, mechanical, and traditional empirical models in providing accurate predictions of the FEPCs’ moment-rotation response. Considering this limitation, machine-learning methods have gained wide attention recently in structural engineering applications to address problems associated with complex structural deformation and damage phenomena. To that end, the superior nonlinearity of artificial neural networks (ANN) is employed herein to predict the response characteristics of FEPCs. A large data set of about 200 specimens, collected from past experimental programs, is utilized to train the ANN for predicting the bilinear response of FEPCs including strain hardening. The paper describes the deduction of the response parameters from test data using data fitting, the determination of significant geometric, material, and layout features, the ANN architecture and algorithms, and the accuracy metrics of the new model. The Shapley algorithm is used to explain the inner workings of the model. A computer tool as well as a descriptive guide to the mathematical construction of the ANN are provided to aid with model implementation in practice.
+
+
+    
+        AU - Bin Wang
+    
+        AU - Minehiro Nishiyama
+    
+        AU - Songye Zhu
+    
+
+TI - Development of a Novel Anchorage System for Shape Memory Alloy Bars in Self-Centering Structures
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024035
+VI - 150
+IP - 5
+AID - 10.1061/JSENDH.STENG-12480 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12480
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12480
+SO - Journal of Structural Engineering 2024-05-01 150(5): 04024035
+AB - Shape memory alloys (SMAs) show great potential in self-centering structures because of their appealing superelastic feature and good energy dissipation capability. The mechanical properties of SMA bars have been extensively studied over the past decades. However, the characteristics of smooth surface and poor machinability of the SMA bars, especially the widely used nickel–titanium SMAs, bring challenges to the anchorage systems in practical applications. This existing limitation is especially prominent for SMA bars designed to be used at the critical deformation locations of structural members or in seismic devices experiencing extreme working conditions. For this reason, this paper develops a novel hybrid threaded-swaged anchorage system to overcome the limitations of the current SMA mechanical splices. The uniaxial behavior of the threaded-swaged anchorage systems under different loading conditions was investigated experimentally with emphasis on the seismic application-oriented responses. Furthermore, the influence of eccentricity on the anchorage system was also considered to evaluate the SMA bars with large end rotation induced by the rocking behavior of the self-centering structures during earthquake shaking. Test results reveal that the performance of the proposed anchorage system is satisfactory with stable behavior under different loading conditions, which can provide a promising anchorage solution for SMA bars used in seismic resilient design. Moreover, a practical design method for this anchorage system is proposed for implementation in seismic applications.
+
+
+    
+        AU - Jinyu Lu
+    
+        AU - Zhiyin Xu
+    
+        AU - Jilei Liu
+    
+
+TI - Traversal Topology-Finding Method of Tensegrity Structure Based on Dynamic Programming
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024036
+VI - 150
+IP - 5
+AID - 10.1061/JSENDH.STENG-13180 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13180
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13180
+SO - Journal of Structural Engineering 2024-05-01 150(5): 04024036
+AB - Tensegrity structures, which consist of tension cables and compression rods, are widely used in various fields. It is particularly important to find the tensegrity with definite geometric configuration for the following research and application. This paper presents a traversal topology-finding method for tensegrity structures based on dynamic programming algorithm and ground structure method. After the designer has given the cable topology, the dynamic programming is adopted to realize the traversal selection of the rod. In order to reduce the traversal space and realize the constraint of rod length type, the rod is classified according to length. Compared with existing topology-finding methods, the algorithm can not only output all feasible topologies but also incorporate structural constraints, such as rod length type and prestressed stability, into the calculation process. Four tensegrity numerical examples illustrate the feasibility and effectiveness of the topology-finding method.
+
+
+    
+        AU - Yao Chen
+    
+        AU - Jiayao Shi
+    
+        AU - Chenhao Lu
+    
+        AU - Jian Feng
+    
+        AU - Pooya Sareh
+    
+
+TI - Hierarchical Clustering-Based Collapse Mode Identification and Design Optimization of Energy-Dissipation Braces Inspired by the Triangular Resch Pattern
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024037
+VI - 150
+IP - 5
+AID - 10.1061/JSENDH.STENG-12805 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12805
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12805
+SO - Journal of Structural Engineering 2024-05-01 150(5): 04024037
+AB - In recent years, energy-dissipation devices have gained significant attention in seismic protection engineering because of their effectiveness in mitigating the destructive effects of earthquakes. Inspired by an origami pattern invented by Ron Resch, in this study, we propose a novel type of energy-dissipation brace to guide the deformation process and prevent the global buckling of engineering structures. To this end, a parametric geometric model is developed, followed by exploring the effects of different geometric parameters on structural collapse modes. Subsequently, by using hierarchical clustering, the collapse modes are classified into four groups. Finally, an optimal design is introduced to improve energy absorption during quasi-static axial crushing while reducing the initial peak force. The results show specific parameters play a decisive role in determining the collapse modes of the structures. Each group is associated with a particular force-displacement curve characterized by specific properties. We demonstrate that the proposed structural design optimization process reduces the initial peak force by 15.6% without affecting the specific energy absorption. This study provides insights into the application of origami-inspired structures in the design and development of high-performance energy-dissipation braces.
+
+
+    
+        AU - Kaidong Wu
+    
+        AU - Zhe Xing
+    
+        AU - Guoqiang Li
+    
+        AU - Haosong Chang
+    
+
+TI - Fire Behavior of Prestressed Stayed Columns: Critical Temperature and Mode Transition
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024038
+VI - 150
+IP - 5
+AID - 10.1061/JSENDH.STENG-12921 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12921
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12921
+SO - Journal of Structural Engineering 2024-05-01 150(5): 04024038
+AB - Prestressed stayed columns are vulnerable to the stiffness loss in fire. This study aims to reveal the fire resistance and failure behavior of this system. Based on the theoretical optimum prestress, the fire behavior of prestressed stayed columns is investigated using transient state analysis within ABAQUS version 6.14.4 with both the uniform and nonuniform temperature distributions considered. Results show that the stayed columns’ approximate failure is above 600°C, and the system usually fails with stay slackening and sometimes with stay retension. If the reflective symmetric buckling mode is dominant and the linear buckling loads of reflective and rotational symmetric modes are numerically close, unstable behavior such as ‘mid-span reverse’ and ‘mode transition’ can be observed in conjunction with stay slackening at the heating stage. For the nonuniform temperature distribution, ‘mode transition’ occurs in most cases, but this transition only reduces the critical temperature significantly in the preceding special cases. Prestress is recommended to be higher than the theoretical optimum prestressing level to avoid premature stay slackening and ‘mode transition’, but for the preceding special cases with nonuniform temperature distribution, raising prestressing levels may reduce the critical temperature owing to the different failure modes from obvious ‘mode transition’. This study would provide basis to establish the design guidance for stayed columns in fire in the future. Prestressed stayed columns are vulnerable to fire due to material weakening and instability. This study aims to investigate the failure temperature, and reveal the failure mechanism of this system in fire. Results show that the stayed columns approximate failure was above 600°C, and the system usually fails with stay slackening and complicated deflection. For the stayed columns with specific buckling behavior, the deformed shape at the heating stage is unstable, and the deflection direction and deformation features may change accidentally. This behavior reduces the fire resistance of this system and leads to accidental large deformation. This study can provide a basis to establish the design guidance for stayed columns in fire, and give suggestions for the response prediction and collapse warning for the stayed columns exposed to fire.
+
+
+    
+        AU - M. Z. Naser
+    
+
+TI - Integrating Machine Learning Models into Building Codes and Standards: Establishing Equivalence through Engineering Intuition and Causal Logic
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024039
+VI - 150
+IP - 5
+AID - 10.1061/JSENDH.STENG-12934 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12934
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12934
+SO - Journal of Structural Engineering 2024-05-01 150(5): 04024039
+AB - The traditional approach to formulating building codes often is slow and labor-intensive, and may struggle to keep pace with the rapid evolution of technology and domain findings. Overcoming such challenges necessitates a methodology that streamlines the modernization of codal provisions. This paper proposes a machine learning (ML) approach to append a variety of codal provisions, including those of empirical, statistical, and theoretical natures. In this approach, a codal provision (i.e.,&nbsp;equation) is analyzed to trace its properties (e.g.,&nbsp;engineering intuition and causal logic). Then a ML model is tailored to preserve the same properties and satisfy a collection of similarity and performance measures until declared equivalent to the provision at hand. The resulting ML model harnesses the predictive capabilities of ML while arriving at predictions similar to the codal provision used to train the ML model, and hence it becomes possible to use in lieu of the codal expression. This approach was examined successfully for seven structural engineering phenomena contained within various building codes, including those in North America and Australia. The findings suggest that the proposed approach could lay the groundwork for implementing ML in the development of future building codes.
+
+
+    
+        AU - Andres Rodriguez-Burneo
+    
+        AU - Jose I. Restrepo
+    
+        AU - Joel P. Conte
+    
+        AU - Jose E. Andrade
+    
+        AU - Ares Rosakis
+    
+        AU - Vahe Gabuchian
+    
+        AU - John Harmon
+    
+        AU - Arpit Nema
+    
+        AU - Andrea Pedretti
+    
+
+TI - Seismic-Response Assessment of Multiblock Tower Structures for Energy Storage: 1/25 Scale
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024040
+VI - 150
+IP - 5
+AID - 10.1061/JSENDH.STENG-13144 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13144
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13144
+SO - Journal of Structural Engineering 2024-05-01 150(5): 04024040
+AB - This paper discusses the results of 1∶25 scale shake table tests evaluating the seismic response of multiblock tower structures (MTSs) conceived as energy storage systems. The tests described here are a part of a comprehensive research campaign involving smaller physical models, computational model validation, and the theoretical background required to compare results across scales. The 6.46-m-high MTSs consisted of over 7,000 concrete blocks stacked vertically without any bonding agent, interacting only by friction and rocking. Three MTSs were tested under two different ground motions. Dynamic digital image correlation (DIC) and low-cost micro electrical mechanical system (MEMS) accelerometers were used for dynamic response measurements. Towers 1 and 3, subjected to repeated strong-intensity earthquake ground motions, collapsed during the third repetition due to the accumulation of residual displacements. Tower 2 was subjected to a single near-fault ground motion representing an extreme event and collapsed during the test. Different collapse mechanisms were identified in the test program. Data collected from individual blocks showed in-plane and out-of-phase block rotation and sliding, which contributed to the system’s energy dissipation during the tests.
+
+
+    
+        AU - Noor Azim Mohd. Radzi
+    
+        AU - Roszilah Hamid
+    
+        AU - Azrul A. Mutalib
+    
+        AU - A. B. M. A. Kaish
+    
+
+TI - Thermal and Structural Behavior of Fire-Exposed Beam–Column Connections Consisting of Corbels Cast with Columns and Continuity Bars
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024041
+VI - 150
+IP - 5
+AID - 10.1061/JSENDH.STENG-12811 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12811
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12811
+SO - Journal of Structural Engineering 2024-05-01 150(5): 04024041
+AB - Beam–column connections with corbels supporting the beams and continuity reinforcement protruding from the columns, also known as composite connections, are often used in construction as an alternative to monolithic cast-in-place connections. Since they are halfway between fully rigid and pin connections, these semirigid composite systems require more in-depth investigation, especially concerning their behavior at high temperatures and in fire. Compared with fully rigid connections, the primary advantage of semirigid systems is that they allow the use of precast beams. Unlike pin connections, semirigid systems allow a certain degree of fixity at beam ends after the in-place casting of the top of the beams. This study focused on the designs of two full-size specimens representing the region of the connection comprising the column stub, corbel, and beam extremity cast and tested in ambient conditions and under standard fire exposure to compare their performance with two monolithic specimens tested under the same conditions. The study also develops a numerical model of the connection using a finite-element discretization (ANSYS software) to conduct a sequential analysis of the thermal and static behavior of the connection. The numerical results are shown to satisfactorily fit the deflection curves, crack patterns, and actual conditions of the specimen after failure. The semirigid connection is stiff at ambient and medium temperatures but behaves as a pin connection at high temperatures. Further, the moment redistribution with a decreasing hogging moment at the beam ends and higher sagging moment at the midspan shows that semirigid beam–column connections are more vulnerable at high temperatures than monolithic connections.
+
+
+    
+        AU - Ryan T. Stevens
+    
+        AU - Matthew H. Hebdon
+    
+        AU - Matthew R. Eatherton
+    
+
+TI - Seismic Behavior of Steel Moment Frame Connections with Repairs in the Plastic Hinge Region
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024042
+VI - 150
+IP - 5
+AID - 10.1061/JSENDH.STENG-12970 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12970
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12970
+SO - Journal of Structural Engineering 2024-05-01 150(5): 04024042
+AB - Steel moment frames develop large drift capacity and dissipate seismic energy through inelastic deformation in the plastic hinge region near the beam-to-column connection. To discourage fracture in this region, known as the protected zone, attachments are limited to arc spot welds and power-actuated fasteners for decking attachment. Other attachments or defects like shear studs, bolts, holes, gouges, and notches must be removed and repaired by grinding or by a combination of grinding and welding. These requirements are given in the AWS D1.8/D1.8M seismic welding code, but there have been no full-scale connection tests with these repairs in the plastic hinge region. For that reason, this research evaluated the performance of moment connections with repairs by testing six full-scale reduced beam section moment connections with W24×62 and W36×150 beams. The following defects and repairs were included in the beam protected zone: 3.17-mm (1/8-in.)-deep notches repaired by grinding, 6.35-mm (1/4-in.)-deep notches repaired by welding, and sharp 6.35-mm and 9.53-mm (1/4-in. and 3/8-in.) semicircular notches. The specimens were tested in an exterior column configuration and subjected to the cyclic special moment frame qualification displacement protocol given in ANSI/AISC 341. All four specimens with repairs maintained substantial flexural strength through cycles of 5% story drift ratio and satisfied special moment frame qualification criteria. It is concluded that the AWS D1.8/D1.8M repairs resulted in sufficient ductility for use in special moment frames within the range of parameters tested. The two specimens with unrepaired sharp notches experienced fractures propagating from the notches, causing substantial loss of flexural strength during cycles of 3% or 4% story drift ratio.
+
+
+    
+        AU - Xinyao Xie
+    
+        AU - Zi-Xiong Guo
+    
+        AU - Syed Humayun Basha
+    
+
+TI - Out-of-Plane Performance of Lightweight AAC Infills within RC Frames Using Noncontact Full-Field Strain Measurement Technique
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024043
+VI - 150
+IP - 5
+AID - 10.1061/JSENDH.STENG-12626 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12626
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12626
+SO - Journal of Structural Engineering 2024-05-01 150(5): 04024043
+AB - The present research aimed at investigating the out-of-plane (OOP) behavior of autoclaved aerated concrete (AAC) block masonry to further advance their application as structural infills considering different parameters (slenderness ratios, central window opening, and loading conditions) using a noncontact optical full-field strain measuring method. The fundamental behavior of AAC blocks and masonry assemblages were also assessed under different loads (compression, shear, and flexure) and verified with the design requirements. The development of arch-resisting mechanisms, OOP deformation profiles, cracking patterns, and damage mechanisms were assessed. Comprehensive comparative analysis was conducted to examine the OOP behavior of AAC block infilled frames with similarly constructed solid clay brick masonry infills. Further, an effort was made to review the requirements of the available design provisions and empirical models to envisage the OOP load and deformation capacities of AAC block masonry infills. The experimental investigation determined that lower slenderness ratio (15.1) specimens attained higher OOP load-bearing capacity (&gt;3.5 times) and energy consumption (&gt;2.1 times) compared with slender specimens (30.2). The presence of a window opening (11.3% area ratio) and repeated loading did not reveal significant reductions in OOP load (&lt;15%) and deformation (0.83–0.94 times) capacities compared with the monotonic loading counterpart. The OOP arch-resisting mechanism vanished (capacity dropped to 20%–40% peak), and the failure was sudden due to the disintegration of the cross section and OOP fall-out of damaged components, demonstrating the OOP vulnerability of AAC infill. Crack widths and OOP deformation after vertical splitting cracks formation were precisely apprehended using the full-field strain measuring digital image correlation technique.
+
+
+    
+        AU - Nasrollah Alinejad
+    
+        AU - Sejin Kim
+    
+        AU - Sungmoon Jung
+    
+
+TI - Wind-Tunnel Testing of Low- and Midrise Buildings under Heterogeneous Upwind Terrains
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04724001
+VI - 150
+IP - 5
+AID - 10.1061/JSENDH.STENG-12684 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12684
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12684
+SO - Journal of Structural Engineering 2024-05-01 150(5): 04724001
+AB - An extensive series of wind-tunnel experiments were conducted in the Boundary Layer Wind Tunnel (BLWT) Experimental Facility (EF) at the University of Florida (UF) to investigate the effect of heterogenous terrain on wind flow and pressure distributions on building surfaces. Many studies have already been performed on the effect of upwind terrain on wind characteristics and wind loads on buildings. Previous tests in wind tunnels were mainly designed for uniform upwind terrain or simple two-dimensional roughness changes (e.g.,&nbsp;smooth-to-rough change or vice versa). Using the wind-tunnel facility at the UF, we were able to perform an extensive series of tests on heterogeneous upwind terrains. The first part of the testing was focused on wind characteristics by measuring the three components of wind velocity when wind flow passed over different complex upwind terrains. The second part of the testing was intended to obtain the aerodynamic loads of wind over complex terrains on low-rise and midrise building models. The data and metadata are publicly available on the DesignSafe-CI repository under the DOI of 10.17603/Ds2-6hg9-R131. Researchers and practicing engineers can use the collected data to understand the effect of heterogeneous upwind terrain better.
+
+
+    
+        AU - Ghazaleh M. Laleh
+    
+        AU - Ying Tian
+    
+        AU - Sarah L. Orton
+    
+
+TI - Erratum for “Collapse Resistance of Reinforced Concrete Frame Beams under Sustained Loads”
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 08224003
+VI - 150
+IP - 5
+AID - 10.1061/JSENDH.STENG-12784 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12784
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12784
+SO - Journal of Structural Engineering 2024-05-01 150(5): 08224003
+
+

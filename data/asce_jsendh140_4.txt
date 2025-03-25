@@ -1,0 +1,504 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Xian Xu
+    
+        AU - Fengxian Sun
+    
+        AU - Yaozhi Luo
+    
+        AU - Yan Xu
+    
+
+TI - Collision-Free Path Planning of Tensegrity Structures
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013084
+VI - 140
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000900 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000900
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000900
+SO - Journal of Structural Engineering 2014-04-01 140(4): 04013084
+AB - Path planning is a crucial step in shape control of tensegrity structures. A mathematical model for the path planning problem of tensegrities is proposed. Both external collision and internal collision are considered. A procedure combining trajectory tracking with collision checking is established and used as a local planner. An algorithm based on rapidly-exploring random trees (RRT), called RRT-Connect, is adopted as the global planner for the problem. The RRT-Connect algorithm integrated with the local planner is used to search collision-free paths for shape control of tensegrity structures. Typical examples are carried out. The proposed scheme is verified by the results of the examples.
+
+
+    
+        AU - Luca Facconi
+    
+        AU - Giovanni Plizzari
+    
+        AU - Frank Vecchio
+    
+
+TI - Disturbed Stress Field Model for Unreinforced Masonry
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013085
+VI - 140
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000906 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000906
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000906
+SO - Journal of Structural Engineering 2014-04-01 140(4): 04013085
+AB - The traditional smeared crack macromodels for the analysis of masonry structures consider masonry as a homogeneous material with the effects of mortar joints included in an average sense. This approach, suitable for the analysis of large structures, implicitly excludes the possibility of representing local elastic and inelastic mechanisms involving mortar joints. In this study, an innovative formulation based on the disturbed stress field model (DSFM) is proposed for the analysis of unreinforced masonry structures. The advancement introduced by the model lies in the possibility of simulating the global average behavior of the composite material in combination with the local nonlinear shear slip response of both bed and head joints. This paper describes the formulation of the model; as well, it presents results obtained from the simulation of tests performed on shear walls demonstrating the ability of the DSFM to reproduce the structural response of masonry structures.
+
+
+    
+        AU - Mina Seif
+    
+        AU - Benjamin Schafer
+    
+
+TI - Design of Locally Slender Structural Steel Columns
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013086
+VI - 140
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000889 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000889
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000889
+SO - Journal of Structural Engineering 2014-04-01 140(4): 04013086
+AB - The primary objective of this paper is to evaluate and compare design methods for locally slender steel columns. Three design methods utilized for such columns in the United States are explored: (1)&nbsp;the Q-factor method; (2)&nbsp;the unified effective width method; and (3)&nbsp;the direct strength method. The design strength formulas for locally slender W-section columns for all methods are provided in a common notation. The expressions highlight the prominent role of elastic local (cross-section) slenderness. A nonlinear shell finite-element analysis parametric study on short, intermediate, and long columns is conducted to explore the divergence in the design methods as a function of local slenderness. Recommendations for advancing the design methods are offered. In particular, based on the parametric study, an effective width method alternative is provided.
+
+
+    
+        AU - A. P. Russell
+    
+        AU - K. J. Elwood
+    
+        AU - J. M. Ingham
+    
+
+TI - Lateral Force–Displacement Response of Unreinforced Masonry Walls with Flanges
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013087
+VI - 140
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000863 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000863
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000863
+SO - Journal of Structural Engineering 2014-04-01 140(4): 04013087
+AB - The experimental in-plane force-displacement response of unreinforced masonry (URM) walls with flanges (return walls) subjected to pseudo-static cyclic lateral loading is presented. Each wall failed in a diagonal tension mode followed by bed-joint sliding. The effect of wall flanges was an increase in the displacement capacity of the in-plane loaded wall, in comparison with an in-plane loaded wall without flanges. The measured shear strengths of the walls were compared with an analytical model for determining the limiting diagonal tension strength of the walls, with a high level of correlation. The initial stiffness of the shear walls before the effective yield was compared with the initial stiffness as determined using conventional principles of mechanics for homogeneous materials, and it was found that with some approximations the initial stiffness could be satisfactorily determined. Because the bed-joint sliding failure mechanism exhibited by the walls is a deformation-controlled action, there is further displacement capacity beyond the effective yield displacement, and it was found that the walls could sustain in-plane lateral forces to a drift of at least 0.7%. Recommendations are provided for a general force-displacement relationship, which is consistent with the experimental data and can be used for modeling URM walls and improving acceptance criteria, such as those specified in ASCE/SEI 41-06.
+
+
+    
+        AU - Y. Chen
+    
+        AU - P. Visintin
+    
+        AU - D. J. Oehlers
+    
+        AU - U. J. Alengaram
+    
+
+TI - Size-Dependent Stress-Strain Model for Unconfined Concrete
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013088
+VI - 140
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000869 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000869
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000869
+SO - Journal of Structural Engineering 2014-04-01 140(4): 04013088
+AB - The stress-strain behavior of concrete under compression, both in the ascending and descending branches, is crucial in determining both the strength and ductility of reinforced concrete members. This material property is generally determined directly from compression tests of cylinders or prisms. However, it is widely recognized that this material property depends on both the size and shape of the test specimen and the method of measurement. This paper shows that concrete deformation because of compression is both a material property and a shear-friction mechanism and that by taking both of these deformations into account it is possible to derive a stress-strain relationship that is size-dependent. This paper also shows how the stress-strain from cylinder tests of one specific length can be modified to determine the stress-strain relationship for any size of a cylinder. With this new procedure, the authors reanalyzed the results from 380 published tests on unconfined concrete to extract size-dependent strains at the peak stress and then used these results in existing curve-fitting models to produce size-dependent stress-strain models for unconfined concrete. This paper shows how these size-dependent stress-strain models can be used in a size-dependent deformation-based approach to quantify both the strength and ductility of reinforced concrete members.
+
+
+    
+        AU - Zhimin Wu
+    
+        AU - Xue Zhang
+    
+        AU - Jianjun Zheng
+    
+        AU - Yu Hu
+    
+        AU - Qingbin Li
+    
+
+TI - Bond Behavior of Plain Round Bars Embedded in Concrete Subjected to Biaxial Lateral Tensile-Compressive Stresses
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013089
+VI - 140
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000872 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000872
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000872
+SO - Journal of Structural Engineering 2014-04-01 140(4): 04013089
+AB - Owing to its importance to the assessment and design of reinforced concrete structures, the bond behavior of steel bars in concrete has been extensively studied. This paper presents an experimental investigation into the bond behavior of plain round bars embedded in concrete subjected to biaxial orthogonal lateral tensile-compressive stresses. A total of 174 pull-out specimens with different strengths of concrete, bar diameters, and combinations of lateral stresses were tested. The experimental results showed that, for a given lateral compressive stress, the bond strength decreases, but the slip at the peak bond stress increases as the lateral tensile stress increases. For a given lateral tensile stress, the bond strength increases, but the slip at the peak bond stress decreases with an increase in lateral compressive stress. Based on the experimental results, an empirical bond stress-slip relationship is proposed. It is shown that, for different strengths of concrete, bar diameters, and combinations of lateral stresses, the empirical bond stress-slip relationship is in good agreement with the experimental results.
+
+
+    
+        AU - Marwan T. Shedid
+    
+        AU - Wael W. El-Dakhakhni
+    
+
+TI - Plastic Hinge Model and Displacement-Based Seismic Design Parameter Quantifications for Reinforced Concrete Block Structural Walls
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013090
+VI - 140
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000883 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000883
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000883
+SO - Journal of Structural Engineering 2014-04-01 140(4): 04013090
+AB - A practical alternative to the traditional rectangular cross sections of reinforced masonry structural wall systems is to alter the wall ends to allow for smaller compression zone depths, and thus higher curvatures to develop under increased seismic lateral loads. Despite the significantly enhanced seismic performance of flanged and end-confined masonry structural walls compared with their rectangular counterparts, seismic design parameters related to the former two types of walls have not been widely investigated. In addition, prescriptive design requirements for rectangular walls are under continuous development to meet the ongoing research findings in this area. The focus of the current study is to extract specific seismic design parameters of these three types of masonry walls having different end configurations for different aspect ratios when tested under reversed cyclic loads. The parameters investigated include the equivalent plastic hinge lengths, lp, the hysteretic damping levels and the trend of period shift corresponding to stiffness reduction with increased top wall drift. Three approaches were considered to evaluate the equivalent plastic hinge lengths, lp. The analyses showed that, following a widely accepted approach, the lp values at ultimate loads using the theoretical curvatures and experimental displacement ductility levels were approximately 40, 15, and 20% of the wall length for the rectangular, flanged, and end-confined walls, respectively. A mechanics-based model, accounting for the variation in curvature profile following yielding, strain penetration inside concrete foundation and the effects of inclined flexure-shear cracking, to determine wall top displacements was proposed. At 1% lateral drift, the calculated hysteretic damping ratios were found to be approximately 20% for all walls. At a displacement ductility level of 5.0, corresponding to almost no strength degradation, the period increased by at least 70% compared to that at first yield.
+
+
+    
+        AU - Chang-Soo Kim
+    
+        AU - Hong-Gun Park
+    
+        AU - Kyung-Soo Chung
+    
+        AU - In-Rak Choi
+    
+
+TI - Eccentric Axial Load Capacity of High-Strength Steel-Concrete Composite Columns of Various Sectional Shapes
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013091
+VI - 140
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000879 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000879
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000879
+SO - Journal of Structural Engineering 2014-04-01 140(4): 04013091
+AB - Two concrete-filled steel tube columns and four concrete-encased steel columns using high-strength steel (yield strength fys=913, 806, and 812&nbsp;MPa) and high-strength concrete (compressive strength fc′=94, 113, 104, and 184&nbsp;MPa) were tested to investigate the effect of various sectional shapes and configurations on the eccentric axial load carrying capacity. This study focused on maximizing the contribution of the high-strength steel, preventing early crushing of the concrete (1)&nbsp;by using steel tubes or closely spaced ties for lateral confinement, (2)&nbsp;by using ultra high-strength (200&nbsp;MPa) concrete with a high-crushing strain, and (3)&nbsp;by placing L-shaped steel sections at the corners of the cross section. The test results showed that the steel tube successfully restrained early concrete crushing and developed its full plastic stress; unlike expectation, early crushing occurred in the ultra high-strength concrete column; and the concrete-encased L-section column had higher peak strength and flexural stiffness than the conventional concrete-encased H-section columns. For the design of the concrete-filled columns, the conventional plastic design method is applicable, whereas the strain-compatibility method should be used for the design of the concrete-encased columns with limited lateral confinement.
+
+
+    
+        AU - Peng Pan
+    
+        AU - Xuchuan Lin
+    
+        AU - Alexandre Lam
+    
+        AU - Haowen Chen
+    
+        AU - Lieping Ye
+    
+
+TI - Monotonic Loading Tests of Ring-Beam Connections for Steel Reinforced Concrete Columns and RC Beams
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013092
+VI - 140
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000911 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000911
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000911
+SO - Journal of Structural Engineering 2014-04-01 140(4): 04013092
+AB - Many types of connections between steel reinforced concrete (SRC) columns and reinforced concrete (RC) beams have been proposed. These connections are usually difficult to design and complex to construct. This study proposes a new ring-beam connection for SRC columns and RC beams. The force transfer mechanism is as follows. The shear forces and bending moments of the RC beams are first transferred to the ring-beam connections and then to the SRC columns. A series of monotonic bending and shear tests was carried out to verify the applicability and effectiveness of the new ring-beam connections for use in structures. These connections were of two different types: orthogonal and nonorthogonal. Ring-beam connections with appropriate designs are shown to satisfy the strong connection/weak beam requirement. Finally, simple design methods for the longitudinal reinforcements and stirrups of the different elements are proposed based on the test and analysis results.
+
+
+    
+        AU - Jaime Cervera Bravo
+    
+        AU - Carlos Vázquez Espí
+    
+        AU - Mariano Vázquez Espí
+    
+
+TI - Two Near-Optimal Layouts for Trusslike Bridge Structures Bearing Uniform Weight between Supports
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013093
+VI - 140
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000905 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000905
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000905
+SO - Journal of Structural Engineering 2014-04-01 140(4): 04013093
+AB - Although the primary objective on designing a structure is to support the external loads, the achievement of an optimal layout that reduces all costs associated with the structure is an aspect of increasing interest. The problem of finding the optimal layout for bridgelike structures subjected to a uniform load is considered. The problem is formulated following a theory on economy of frame structures, using the stress volume as the objective function and including the selection of appropriate values for statically indeterminate reactions. It is solved in a function space of finite dimension instead of using a general variational approach, obtaining near-optimal solutions. The results obtained with this profitable strategy are very close to the best layouts known to date, with differences of less than 2% for the stress volume, but with a simpler layout that can be recognized in some real bridges. This strategy could be a guide to preliminary design of bridges subject to a wide class of costs.
+
+
+    
+        AU - Tae-Sung Eom
+    
+        AU - Hyeon-Jong Hwang
+    
+        AU - Hong-Gun Park
+    
+        AU - Chang-Nam Lee
+    
+        AU - Hyoung-Seop Kim
+    
+
+TI - Flexural Test for Steel-Concrete Composite Members Using Prefabricated Steel Angles
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013094
+VI - 140
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000898 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000898
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000898
+SO - Journal of Structural Engineering 2014-04-01 140(4): 04013094
+AB - In the proposed composite [prefabricated steel-reinforced concrete (PSRC)] column, steel angles located at the corners of the cross section are weld connected with tie bars to provide a bond for the steel angles, shear resistance, and lateral confinement. In this paper, simply supported PSRC specimens were tested to investigate their flexural strength and ductility. For comparison, a conventional concrete-encased H-section specimen was also tested. The test parameters were the steel ratio of the angle section and the spacing of the tie bars. The flexural, shear, and bond strengths of the test specimens correlated well with predictions. The flexural strength and stiffness of the PSRC specimens were significantly greater than those of the conventional composite specimen with the same steel area. However, at large inelastic deformations, the PSRC specimens were vulnerable to the bond failure between the steel angle and concrete and the tensile fracture of the angle at the weld-connection to the tie bars. When the bond strength between the steel angles and concrete was greater than the demand, the PSRC specimens exhibited ductile behavior after flexural yielding.
+
+
+    
+        AU - Michael G. Gray
+    
+        AU - Constantin Christopoulos
+    
+        AU - Jeffrey A. Packer
+    
+
+TI - Cast Steel Yielding Brace System for Concentrically Braced Frames: Concept Development and Experimental Validations
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013095
+VI - 140
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000910 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000910
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000910
+SO - Journal of Structural Engineering 2014-04-01 140(4): 04013095
+AB - The Yielding Brace System is a highly ductile bracing system in which seismic energy is dissipated by the yielding fingers of a specially engineered cast steel connector. When the brace is severely loaded in tension and compression, the fingers yield in flexure, thus providing a full, symmetric hysteresis. Second-order geometric effects result in an increase in postyield stiffness at large displacements. The mechanics of the system are first presented, including several first principle equations used to predict a connector’s response. These equations are then used to design a prototype connector. The geometry of this prototype is evaluated using nonlinear finite element analysis. Following this analysis, the results of full-scale axial component testing of the prototype are discussed. These results include tensile coupon tests from material taken directly from unyielded portions of the test specimens. The prototype design and testing program presented demonstrate that the Yielding Brace System is a ductile connector that can enhance the energy dissipation and displacement capacity of braced frames. Good agreement between predicted and experimental response showed that the mechanics of the connector were well understood and that the method used to design the prototype was effective in meeting the targeted performance.
+
+
+    
+        AU - Dongun Ryu
+    
+        AU - Anil C. Wijeyewickrema
+    
+        AU - Mohamed A. ElGawady
+    
+        AU - M. A. K. M. Madurapperuma
+    
+
+TI - Effects of Tendon Spacing on In-Plane Behavior of Posttensioned Masonry Walls
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013096
+VI - 140
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000849 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000849
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000849
+SO - Journal of Structural Engineering 2014-04-01 140(4): 04013096
+AB - In-plane behavior of unbonded posttensioned clay brick masonry walls are investigated using detailed finite-element (FE) models. FE models of three walls having different aspect ratios of 1.50, 1.00, and 0.67 are developed. Effects of tendon spacing on in-plane behavior of these walls are investigated using different tendon spacings ranging from 0.61&nbsp;m (2&nbsp;ft) to 3.81&nbsp;m (12.5&nbsp;ft). In addition, the effects of having different horizontal reinforcement ratios of 0%, 0.1%, and 0.5% on the in-plane behavior of the walls were investigated. The stresses in the tendons are calculated using different approaches, and then the flexural strength of each wall is calculated and compared with those obtained from the numerical analysis. The simulation results show that for spacing between tendons up to 2&nbsp;m (6.6&nbsp;ft), ignoring the elongation in the tendon in calculating the flexural strength results in too conservative design. For these walls, it is more appropriate to use equations provided by the Masonry Standard Joint Committee for out-of-plane behavior of masonry walls. For spacing between tendons greater than 2&nbsp;m (6.6&nbsp;ft), ignoring the elongation in tendons and using the effective posttensioning force to calculate the flexural strength agree well with those obtained from the FE analyses. The FE analyses showed that adding shear reinforcement for walls with tendon spacing smaller than 2&nbsp;m (6.6&nbsp;ft) does not improve the shear strength of the walls. However, for walls having spacing between tendons greater than 2&nbsp;m (6.6&nbsp;ft), even with small amount of shear reinforcement, the shear strength increases significantly.
+
+
+    
+        AU - William J. Kirkham
+    
+        AU - Rakesh Gupta
+    
+        AU - Thomas H. Miller
+    
+
+TI - State of the Art: Seismic Behavior of Wood-Frame Residential Structures
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013097
+VI - 140
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000861 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000861
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000861
+SO - Journal of Structural Engineering 2014-04-01 140(4): 04013097
+AB - There are about 80&nbsp;million single-family dwellings (SFDs) in the United States, predominantly of wood-frame construction. Of these, 68% are owner-occupied. A home is typically the largest single investment of a family, and is often not covered by earthquake insurance, even where it is available. Of all the houses in America, 50% were built before 1974, and 76% built before 1990. Most wood-frame SFDs (WFSFDs) were built to prescriptive code provisions before seismic requirements were introduced. After the introduction of seismic design requirements, the importance of examining structures as an assembly of connected elements became more common. Much of the seismic design information on SFD construction is based on educated opinion or limited research. This review examines research that can be applied to WFSFD seismic analysis and the design and retrofit of existing WFSFDs. The review is intended to cover most readily available papers published in major U.S. journals and at major conferences in the area of seismic modeling, testing and evaluation. The state of the art is reviewed of seismic experimentation and seismic evaluation, and observations and recommendations are provided for future research.
+
+
+    
+        AU - Y. D. Kim
+    
+        AU - Donald W. White
+    
+
+TI - Transverse Stiffener Requirements to Develop Shear-Buckling and Postbuckling Resistance of Steel I-Girders
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013098
+VI - 140
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000867 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000867
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000867
+SO - Journal of Structural Engineering 2014-04-01 140(4): 04013098
+AB - Traditionally, the design of transverse stiffeners in the AISC and AASHTO specifications has been based on two criteria: a moment of inertia requirement to ensure near-zero lateral deflection of the stiffeners at the web shear buckling load, and an area requirement to ensure that the transverse stiffeners can serve as verticals in an effective Pratt truss in the postbuckling condition of the web. However, multiple investigators have found that the transverse stiffener response is dominated by bending actions caused by restraint of the out-of-plane deformation of the web panels. As such, the latest AASHTO and AISC specifications have adopted transverse stiffener sizing rules that focus solely on a transverse stiffener moment of inertia requirement. This paper summarizes various details of the underlying research leading to the development of these new rules and outlines the proper application of the new specification provisions.
+
+
+    
+        AU - Badr M. Abou-Zeid
+    
+        AU - Wael W. El-Dakhakhni
+    
+        AU - A. Ghani Razaqpur
+    
+        AU - S. Foo
+    
+
+TI - Time-Response Analysis of Arching Unreinforced Concrete Block Walls Subjected to Blast Loads
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013099
+VI - 140
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000893 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000893
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000893
+SO - Journal of Structural Engineering 2014-04-01 140(4): 04013099
+AB - The new ASCE59-11 standards currently limit the use of unreinforced masonry (URM) walls in blast-resistant construction, regardless of the wall boundary conditions. This is attributable in part to the lack of experimental and analytical studies focusing on evaluating the response of URM walls under blast when the walls are forced to arch between the surrounding frame members. In this paper, the out-of-plane displacement response and structural stability of one-way vertical arching URM walls subjected to blast loads are investigated. A simple bilinear moment-rotation relationship is developed to simulate the arching wall responses. The model takes into account the masonry material strength, thrust forces, and wall geometry. Time-response analyses were performed using both single-degree-of-freedom (SDOF) and two-degrees-of-freedom (2DOF) models. Both models take into account the rocking phenomenon and second-order effects. Responses generated by both models were validated using experimental data reported previously. For preliminary design, performance charts were developed to correlate the effects of the wall slenderness ratio, masonry strength, and block size to the wall response under different levels of blast loads. The developed model and charts can be used as simple and quick calculation tools to estimate the required thickness, height, and strength of the wall under an expected blast threat when hardening of URM walls is necessary, with arching being considered as one of the alternatives.
+
+
+    
+        AU - Christopher A. Trautner
+    
+        AU - Rasko P. Ojdrovic
+    
+
+TI - Comparison of Directional and Envelope Wind Load Provisions of ASCE 7
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013100
+VI - 140
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000868 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000868
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000868
+SO - Journal of Structural Engineering 2014-04-01 140(4): 04013100
+AB - ASCE 7-10 allows the design of the main wind force resisting system (MWFRS) of buildings with a mean roof height of less than 18.3&nbsp;m (60&nbsp;ft) by using either the directional procedure of Chapter 27 or the envelope procedure of Chapter 28 (sometimes referred to as the all heights and low-rise procedures, respectively). These two procedures were developed based on research that used very different methodologies to develop enveloped wind loads. As a result, the two methods may predict very different wind loads and subsequent structural behavior. This paper presents motivation for the research and a comparison of the structural demands calculated by using the two procedures; identifies some situations for which the low-rise procedures may give unconservative MWFRS member loads, proposes changes to the provisions, and identifies avenues for future research.
+
+
+    
+        AU - Noritsugu Yanagi
+    
+        AU - Cheng Yu
+    
+
+TI - Effective Strip Method for the Design of Cold-Formed Steel Framed Shear Wall with Steel Sheet Sheathing
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013101
+VI - 140
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000870 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000870
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000870
+SO - Journal of Structural Engineering 2014-04-01 140(4): 04013101
+AB - The cold-formed steel framed shear wall sheathed with steel sheet sheathing (CFS-SSSW) is a code-approved lateral force resisting system for light-framed construction. The American Iron and Steel Institute provides design provisions for CFS-SSSWs. However, the nominal strengths of CFS-SSSWs published in the current standard were based on full-scale experiments which were subjected to limitations in both wall configurations and material properties. This paper presents an analytical design method, the effective strip method, developed for predicting the nominal strength of CFS-SSSWs. The proposed design approach shows good agreements with test results. The statistical assessment indicates that the new design method is reliable and provides designers an alternate tool to determine the strength of CFS-SSSWs without conducting full-scale shear wall tests.
+
+
+    
+        AU - Nina Wieczorek
+    
+        AU - Wolf-Jürgen Gerasch
+    
+        AU - Raimund Rolfes
+    
+        AU - Harald Kammerer
+    
+
+TI - Semiactive Friction Damper for Lightweight Pedestrian Bridges
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013102
+VI - 140
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000880 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000880
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000880
+SO - Journal of Structural Engineering 2014-04-01 140(4): 04013102
+AB - In many cases, structural damping of lightweight structures is quite low. Therefore, additional damping systems have to be applied. These systems are, in most instances, passive ones. Concerning lightweight structures, live loads become decisive with respect to the eigenfrequencies of the system affected. Resultant changes in dynamic behavior lead to a loss of the optimal adjustment of the passive systems, which is often followed by disturbing vibrations. This in turn leads directly to an impairment of serviceability. Semiactive damping systems can solve these problems by actively reacting to changes of the system. The following article focusses on the development of a semiactive friction damper using piezoelectric stack actuators in order to reduce the vibrations of a large-scale model of a pedestrian bridge.
+
+
+    
+        AU - G. Campione
+    
+
+TI - Flexural and Shear Resistance of Steel Fiber–Reinforced Lightweight Concrete Beams
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013103
+VI - 140
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000887 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000887
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000887
+SO - Journal of Structural Engineering 2014-04-01 140(4): 04013103
+AB - In the present paper an analytical model is proposed that is able to determine the shear resistance of lightweight reinforced concrete beams with longitudinal bars, in the presence of reinforcing steel fibers. The model is based on the evaluation of the resistance contribution resulting from beam and arch actions. For the resistance contribution of main bars in tension, the residual bond adherence of steel bars and the crack spacing of reinforced concrete (RC) beams in the presence of fibers are considered. The contribution in terms of postcracking resistance in the tension zone of the beams is also included. The model was verified on the basis of experimental data available in the literature and is able to include the following variables in the resistance provision: diameter and number of steel bars, depth to shear span ratio, resistance of materials and fiber characteristics, crack spacing, tensile stress in main bars, residual bond resistance, postcracking tensile resistance, and size effects. Finally, some of the more recent analytical expressions able to predict the shear resistance of fibrous concrete beams are mentioned and a comparison is made with experimental data.
+
+
+    
+        AU - D. N. Lacroix
+    
+        AU - G. Doudak
+    
+        AU - Khaled El-Domiaty
+    
+
+TI - Retrofit Options for Light-Frame Wood Stud Walls Subjected to Blast Loading
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013104
+VI - 140
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000885 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000885
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000885
+SO - Journal of Structural Engineering 2014-04-01 140(4): 04013104
+AB - This paper presents the results of an experimental program, where a total of eight retrofitted walls were subjected to blast loading, simulated by shock waves using the University of Ottawa’s shock tube. Four different external retrofit options were considered and their behavior in terms of failure mode, stiffness, and strength were documented. Nonlinear single-degree-of-freedom (SDOF) modeling was performed using material models developed specifically for each retrofit. In general, good agreement was found between the predicted level of damage and calculated displacement using the model and the measured behavior. The study shows that a significant increase in stiffness and strength can be achieved.
+
+
+    
+        AU - Mohamed Elsharawy
+    
+        AU - Khaled Galal
+    
+        AU - Ted Stathopoulos
+    
+
+TI - Design Wind Loads Including Torsion for Rectangular Buildings with Horizontal Aspect Ratio of 1.6
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 06013006
+VI - 140
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000974 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000974
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000974
+SO - Journal of Structural Engineering 2014-04-01 140(4): 06013006
+AB - Limited information is available regarding wind-induced torsional loads on buildings. This paper presents results of tests carried out in a boundary-layer wind tunnel using building models with the same plan dimensions (aspect ratio of 1.6) and located in a simulated open terrain exposure for different wind directions. Synchronized wind pressure measurements allowed estimating instantaneous base-shear forces and torsional moments on the tested rigid building models. Results were normalized and presented in terms of shear and torsional coefficients for two load cases, namely: maximum torsion and corresponding shear, and maximum shear and corresponding torsion. Comparison of the wind-tunnel test results with current torsion- and shear-related provisions in the American standard demonstrates good agreement for low-rise buildings but differences for medium-rise buildings.
+
+

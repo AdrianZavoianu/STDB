@@ -1,0 +1,432 @@
+
+
+
+
+
+
+
+
+
+
+TI - Editor's Note  
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 715-715
+VI - 122
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1996)122:7(715) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28715%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28715%29
+SO - Journal of Structural Engineering 1996-07-01 122(7): 715-715
+
+
+    
+        AU - Anurag Jain
+    
+        AU - Nicholas P. Jones
+    
+        AU - Robert H. Scanlan
+    
+
+TI - Coupled Flutter and Buffeting Analysis of Long-Span Bridges 
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 716-725
+VI - 122
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1996)122:7(716) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28716%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28716%29
+SO - Journal of Structural Engineering 1996-07-01 122(7): 716-725
+AB - Analytical determination of the flutter and buffeting responses of long-span suspended bridges to wind excitation has predominantly been accomplished by single-mode-based methods. Proclivity towards design and construction of even longer span bridges has elevated the possibility of aerodynamic coupling of the flexural and torsional modes of vibration. A comprehensive, frequency-domain procedure developed to capture this multimode aeroelastic and aerodynamic response is presented in this paper. This new procedure is applied to evaluate the coupled response of a cable-stayed bridge. A quantitative assessment of the modal interactions at flutter and in the buffeting response is made to highlight the presence and effects of modal coupling. The multimode responses are then compared to single-mode and pseudomultimode results. As an extreme example, the bridge deck flutter derivatives were replaced with those of an airfoil to further investigate the ability of this approach to capture aeroelastic and aerodynamic coupling.
+
+
+    
+        AU - Jeffrey A. Laman
+    
+        AU - Andrzej S. Nowak
+    
+
+TI - Fatigue-Load Models for Girder Bridges 
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 726-733
+VI - 122
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1996)122:7(726) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28726%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28726%29
+SO - Journal of Structural Engineering 1996-07-01 122(7): 726-733
+AB - A fatigue-live-load model is developed for steel girder bridges. The database for the model is obtained by weigh-in-motion (WIM) measurements. Five bridge structures were selected for testing to determine the site-specific truck parameters and component-specific stress spectrum. The database includes 22,000 truck files, each consisting of gross vehicle weight (GVW), axle weights, and axle spacing. Stress cycles were measured at the midspan of all bridge girders and results are presented as cumulative distribution functions. The WIM measurements confirm that truck loads are strongly site-specific. The results also indicate a significant variation in stress spectrum between girders. A three-axle truck is proposed to represent the truck traffic. For sites with 10and 11-axle trucks, an additional four-axle truck is proposed. The developed fatigue live load model is verified using fatigue-damage analysis to compare the model with measured results.
+
+
+    
+        AU - Yong-Lin Pi
+    
+        AU - N. S. Trahair
+    
+
+TI - In-Plane Inelastic Buckling and Strengths of Steel Arches 
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 734-747
+VI - 122
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1996)122:7(734) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28734%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28734%29
+SO - Journal of Structural Engineering 1996-07-01 122(7): 734-747
+AB - The in-plane inelastic buckling and strengths of circular steel I-section arches are investigated using a finite-element program for the nonlinear inelastic analysis. The elastic-plastic-strain-hardening behavior of the arches is determined by taking into account the effects of the arch curvature, large deformations, high-order deformed curvatures, material inelasticity, initial crookedness, and residual stresses. Radial loads uniformly distributed around the arch axis, concentrated loads, and loads distributed along the horizontal projection of the arch are studied, which induce either uniform compression or combined bending and compression in the arch. The effects of initial crookedness, rise-to-span ratio, residual stresses, and dead load to total load ratio on the in-plane inelastic stability and strengths of steel arches in uniform compression and in combined compression and bending are investigated.
+
+
+    
+        AU - Pratyoosh Gupta
+    
+        AU - S. T. Wang
+    
+        AU - G. E. Blandford
+    
+
+TI - Lateral-Torsional Buckling of Nonprismatic I-Beams 
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 748-755
+VI - 122
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1996)122:7(748) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28748%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28748%29
+SO - Journal of Structural Engineering 1996-07-01 122(7): 748-755
+AB - A finite-element formulation for the lateral-torsional buckling analysis of nonprismatic I-beams is developed. The formulation is capable of analyzing continuous I-beams with a linear or quadratic taper within acceptable accuracy. The influence of warping deformations of the section and location of the member loads at different cross-section points are included in the formulation. Finite-element solution convergence is studied based on available experimental and numerical results. A parametric study on the lateral-torsional buckling strength is carried out for different forms and degrees of taper, loading, and support conditions for single-span and two-span continuous beams. The buckling strength of beams with various degrees of taper and number of spans are also investigated.
+
+
+    
+        AU - Yiching Lin
+    
+        AU - J. Y. Richard Yen
+    
+        AU - Chen-Fung Chen
+    
+
+TI - Tracing Initiation and Propagation of Cracks in Composite Slabs 
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 756-761
+VI - 122
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1996)122:7(756) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28756%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28756%29
+SO - Journal of Structural Engineering 1996-07-01 122(7): 756-761
+AB - This paper presents test results obtained from studies aimed at determining whether the impact-echo method, a nondestructive test technique based on the use of transient stress waves, can be used to trace the initiation and propagation of cracks in composite slabs subjected to static loads. The number of shear studs in the specimens was designed to satisfy the requirement of the American Institute of Steel Construction Allowable Stress Design (ASD) specifications for full-composite and 80 partial-composite structures. To trace the initiation and propagation of cracks in the specimens, impact-echo tests were carried out at steps with different load levels. Throughout the test, the strains of shear studs were also measured to verify the results obtained from the impact-echo tests. It is shown that changes in the impact-echo responses are the key to detecting the formation of a crack in the composite slabs. The location of the crack can be determined by the impact-echo method. Results also show that the strains of shear studs start to have sharp increases after the applied load corresponding to the presence of cracks. Besides the conventional measurement devices, this study successfully introduces a newly developed nondestructive technique used for detecting cracks in concrete specimens to add valuable information to experimental results for better interpretation of structural failure mechanism.
+
+
+    
+        AU - Majid Sarraf
+    
+        AU - Michel Bruneau
+    
+
+TI - Cyclic Testing of Existing and Retrofitted Riveted Stiffened Seat Angle Connections 
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 762-775
+VI - 122
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1996)122:7(762) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28762%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28762%29
+SO - Journal of Structural Engineering 1996-07-01 122(7): 762-775
+AB - A typical riveted stiffened seat angle connection taken from an 83-year-old building was tested to investigate its actual hysteretic behavior and potential moment resistance. Results show that such existing connections can develop a considerable moment resistance, but pinched hysteretic curves indicate they have a relatively low energy dissipation capability. Analytical models for prediction of the moment capacity of these connections are also developed and predicted results based on these models are found to be in good agreement with the test results. Then, two retrofitting schemes are proposed to improve the connection's hysteretic behavior, and the adequacy of the suggested retrofits is verified experimentally. First, the addition of ductile knee-braces is investigated. A “selective welding” approach is developed as a second retrofitting technique. The design philosophy of each retrofitting scheme is explained, and analytical procedures to predict the moment capacity of retrofitted connections are presented. Experimentally obtained hysteretic curves are presented, improvements in the behavior of connections are noted, and comparison with analytical predictions are made.
+
+
+    
+        AU - V. K. R. Kodur
+    
+        AU - T. T. Lie
+    
+
+TI - Fire Resistance of Circular Steel Columns Filled with Fiber-Reinforced Concrete 
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 776-782
+VI - 122
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1996)122:7(776) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28776%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28776%29
+SO - Journal of Structural Engineering 1996-07-01 122(7): 776-782
+AB - A numerical model to calculate the temperatures, deformations, and fire resistance of loaded circular hollow steel columns filled with steel fiber-reinforced concrete is presented. For the purpose of use in the numerical model, the mechanical and thermal properties of steel fiber-reinforced concrete, expressed as a function of temperature, were determined. Predictions from the numerical model are compared with experimental data. The results indicate that the model is capable of predicting the fire resistance of circular hollow steel columns filled with fiber-reinforced concrete with an accuracy that is adequate for practical purposes. The model can be used to evaluate the fire resistance of circular steel columns filled with fiber-reinforced concrete for any value of the significant parameters—such as load, column section dimensions, column length, and concrete strength—without the necessity of testing.
+
+
+    
+        AU - Jyrki Kullaa
+    
+
+TI - Dimensional Analysis of Bond Modulus in Fiber Pullout 
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 783-787
+VI - 122
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1996)122:7(783) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28783%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28783%29
+SO - Journal of Structural Engineering 1996-07-01 122(7): 783-787
+AB - To evaluate the stress-crack opening relationship of fiber-reinforced composites, the properties of the constituents and the fiber-matrix interface should be known. The properties of the fibers and the matrix can fairly easy be determined, whereas those of the interface must be measured indirectly. In several fiber pullout analyses, a linear relationship between the bond shear stress and the slip is assumed in the elastic range. In this paper, the value of the bond modulus is studied using dimensional analysis and the finite element method. The value of the bond modulus was seen to depend on the fiber diameter, fiber volume content, and the modulus of elasticity of the fiber and the matrix. A diagram is shown, from which the values for the bond modulus can be read. The numerical results agree reasonably with the theory by Budiansky et al. However, the results are substantially higher than the limited available experimental data. A possible reason is that the Poisson's contraction can cause the debonding near the fiber free end even with low pullout loads.
+
+
+    
+        AU - Y. H. Chai
+    
+
+TI - Sectional Depth of Prestressed Concrete Beams with Excess Capacity 
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 788-793
+VI - 122
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1996)122:7(788) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28788%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28788%29
+SO - Journal of Structural Engineering 1996-07-01 122(7): 788-793
+AB - In this paper, the requirements for the sectional depth of prestressed concrete beams satisfying the permissible stress limits are examined. An explicit expression for the member depth is derived in terms of three geometric parameters characterizing the cross section. It can be shown that the governing equation for the depth of prestressed concrete beams is a cubic equation consisting of only one real root. For design, an approximate solution is proposed for the beam depth, and the approximate solution is shown to provide good accuracy within the practical range of loadings and span lengths. The solution for sectional depth, however, does not guarantee a feasible section for the member, and a check on adequate cover for the prestressing tendon must be made during design.
+
+
+    
+        AU - Mark G. Stewart
+    
+
+TI - Serviceability Reliability Analysis of Reinforced Concrete Structures 
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 794-803
+VI - 122
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1996)122:7(794) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28794%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28794%29
+SO - Journal of Structural Engineering 1996-07-01 122(7): 794-803
+AB - A probabilistic model is developed to estimate immediate, creep, and shrinkage deflections. Monte Carlo simulation is used to estimate deflections and probabilities of serviceability failure (lifetime and for each 8 yr tenancy) for reinforced concrete beams sized according to the span-to-depth ratio serviceability requirements of Australian, British, and American Concrete Structures Codes. Serviceability failure is defined to occur when a deflection exceeds an allowable deflection limit as a result of flexure. It was found that the span-to-depth ratio serviceability requirements of these codes produce significantly different serviceability reliabilities. This is probably a consequence of the fact that the serviceability specifications of these codes have not been subjected to code calibration. A code-calibration exercise considering load factors, loading combinations, and/or allowable deflection limits may minimize these variations in serviceability reliabilities.
+
+
+    
+        AU - Fatma Y. Kocer
+    
+        AU - Jasbir S. Arora
+    
+
+TI - Design of Prestressed Concrete Transmission Poles: Optimization Approach 
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 804-814
+VI - 122
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1996)122:7(804) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28804%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28804%29
+SO - Journal of Structural Engineering 1996-07-01 122(7): 804-814
+AB - Design of prestressed concrete transmission poles is formulated as an optimization problem by identifying design variables, a cost function, and constraints. Example problems are solved, and solutions are compared with published results. Several other cases of the examples are solved to investigate the effect of certain parameters on optimum design as well as to show the flexibility of the optimum design process. The optimization problem has mixed discrete-integer-continuous design variables, and two approaches are used to solve it. The first approach uses branch and bound algorithm for discrete variables, an enumeration method for integer variables, and sequential quadratic programming for continuous variables. The second approach uses genetic algorithms for all variables. It is concluded that the optimum design process gives more economical designs compared to the conventional design process. Once the optimum design problem is formulated and implemented into a software, many variations in the problem conditions and parameters can be studied in a relatively short time, leading to better designs.
+
+
+    
+        AU - Shyh-Rong Tzan
+    
+        AU - Chris P. Pantelides
+    
+
+TI - Annealing Strategy for Optimal Structural Design 
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 815-827
+VI - 122
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1996)122:7(815) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28815%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28815%29
+SO - Journal of Structural Engineering 1996-07-01 122(7): 815-827
+AB - An annealing method is presented for obtaining the optimal design of structural systems. The method uses a random sequence of designs to determine the optimal design. In performing the optimization, the method uses two desirable features: the first is to achieve an automatic reduction of the search range, and the second is to perform sensitivity analysis for the design variables. The present method is not as effective as classical optimal design methods for problems with constraints arising from static loads. However, the method requires less iterations to converge compared to other simulated annealing methods. The present method is advantageous over classical methods for problems with constraints arising from dynamic loading. By contrast, classical optimization methods for problems with constraints arising from dynamic loading either fail to converge or produce designs which may be local minimums. Numerical examples illustrate how the present strategy succeeds while classical optimal design methods fail.
+
+
+    
+        AU - A. Ebrahimpour
+    
+        AU - L. L. Fitts
+    
+
+TI - Measuring Coherency of Human-Induced Rhythmic Loads Using Force Plates 
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 829-831
+VI - 122
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1996)122:7(829) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28829%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28829%29
+SO - Journal of Structural Engineering 1996-07-01 122(7): 829-831
+AB - This paper presents the results of an experimental study on measuring and quantifying the coherency of crowd-rhythmic movements. Two instrumented force plates were used to independently measure the load-time histories of sets of two volunteer subjects performing rhythmic movements. Subjects were asked to synchronize their motion to audible signals played at various frequencies. We observed that the coherency of motion varies as a function of the frequency of motion. In addition to auditory effect, the coherency is controlled by a visual effect (i.e, subjects synchronize their motion with respect to the musical beat and movements of one another). Statistics of the coherency of motion are presented for subjects standing in two different orientations, and a suitable type of probability-distribution function is suggested.
+
+
+    
+        AU - Michael H. Triche
+    
+        AU - James A. Richardson
+    
+
+TI - Pseudo Three-Dimensional Finite Element 
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 832-835
+VI - 122
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1996)122:7(832) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28832%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28832%29
+SO - Journal of Structural Engineering 1996-07-01 122(7): 832-835
+AB - A pseudo three-dimensional finite element was developed to efficiently model a wood-strand composite. The element is similar to the three-dimensional brick element; however, it contains only two degrees of freedom (DOF) at each node. Both the stress-strain and strain-displacement relationships were modified from the traditional relationships in developing the new element. Specifically, the element uses approximate relationships for two of the three shear strains and eliminates the normal stress in one of the three principal directions. The element was tested against the three-dimensional brick element for a specific application and performed well. The suitability of the element for other applications would require further comparative analysis, which is beyond the scope of the present note. Formulation details are given, thereby allowing further investigative studies to determine the feasibility of using the element to model interfaces and similar situations, where reduction in computational effort is warranted.
+
+
+    
+        AU - Frank L. Stahl
+    
+
+TI - Discussion: Safety Analysis of Suspension-Bridge Cables: Williamsburg Bridge 
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 837-838
+VI - 122
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1996)122:7(837) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28837%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28837%29
+SO - Journal of Structural Engineering 1996-07-01 122(7): 837-838
+
+
+    
+        AU - John Matteo
+    
+        AU - George Deodatis
+    
+        AU - David P. Billington
+    
+
+TI - Closure to “Safety Analysis of Suspension‐Bridge Cables: Williamsburg Bridge” by John Matteo, George Deodatis, and David P. Billington
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 837-837
+VI - 122
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1996)122:7(837.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28837.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28837.2%29
+SO - Journal of Structural Engineering 1996-07-01 122(7): 837-837
+
+
+    
+        AU - Ryszard Dabrowski
+    
+
+TI - Discussion: Parameters Affecting Distortional Buckling of Tapered Steel Members 
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 838-838
+VI - 122
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1996)122:7(838) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28838%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28838%29
+SO - Journal of Structural Engineering 1996-07-01 122(7): 838-838
+
+
+    
+        AU - Hamid Reza Ronagh
+    
+        AU - Mark Andrew Bradford
+    
+
+TI - Closure to “Parameters Affecting Distortional Buckling of Tapered Steel Members” by Hamid Reza Ronagh and Mark Andrew Bradford
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 838-838
+VI - 122
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1996)122:7(838.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28838.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28838.2%29
+SO - Journal of Structural Engineering 1996-07-01 122(7): 838-838
+
+
+    
+        AU - Patricio A. A. Laura
+    
+        AU - Daniel R. Avalos
+    
+        AU - Hilda A. Larrondo
+    
+
+TI - Discussion: Simplified Analysis of Rectangular Plates with Stepped Thickness 
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 839-840
+VI - 122
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1996)122:7(839) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28839%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28839%29
+SO - Journal of Structural Engineering 1996-07-01 122(7): 839-840
+
+
+    
+        AU - Hideo Takabatake
+    
+        AU - Takayuki Imaizumi
+    
+        AU - Kunihiro Okatomi
+    
+
+TI - Closure to “Simplified Analysis of Rectangular Plates with Stepped Thickness” by Hideo Takabatake, Takayuki Imaizumi, and Kunihiro Okatomi
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 839-840
+VI - 122
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1996)122:7(839.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28839.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28839.2%29
+SO - Journal of Structural Engineering 1996-07-01 122(7): 839-840
+
+
+TI - Book Review
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 841-841
+VI - 122
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1996)122:7(841) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28841%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A7%28841%29
+SO - Journal of Structural Engineering 1996-07-01 122(7): 841-841
+
+

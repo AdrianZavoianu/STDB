@@ -1,0 +1,579 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Navid Attary
+    
+        AU - John W. van de Lindt
+    
+        AU - Vipin U. Unnikrishnan
+    
+        AU - Andre R. Barbosa
+    
+        AU - Daniel T. Cox
+    
+
+TI - Methodology for Development of Physics-Based Tsunami Fragilities
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016223
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001715 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001715
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001715
+SO - Journal of Structural Engineering 2017-05-01 143(5): 04016223
+AB - Tsunamis affect coastal regions around the world, resulting in fatalities and catastrophic damage to communities. Fragility functions form the basis of most risk and resilience analyses at the individual structure level, thereby allowing physical infrastructure components to be included at the community level. For tsunami loading, the vast majority of fragilities that have been developed are based on postevent observations in the field, which are usually specific to the site of the event. In this paper, a methodology to generate physics-based tsunami fragility functions is proposed, using vector intensity measures, such as tsunami flow depth and flow velocity and several combinations thereof. The proposed methodology relies on Monte Carlo Simulation for consideration of material uncertainties and includes epistemic uncertainties in the tsunami force calculation. The ability of different tsunami intensity measures (flow depth, flow velocity, and momentum flux), which are common in the literature, to predict the response of structures are investigated, and a new intensity measure (kinematic moment of momentum flux) that represents overturning moment of a structure for tsunami fragility curves is proposed. The methodology is illustrated using an application example consisting of a steel moment frame structure and fragility functions based on the kinematic moment of momentum flux are presented and shown to be a better predictor with less epistemic uncertainty.
+
+
+    
+        AU - Cao Wang
+    
+        AU - Quanwang Li
+    
+        AU - Hao Zhang
+    
+        AU - Bruce R. Ellingwood
+    
+
+TI - Modeling the Temporal Correlation in Hurricane Frequency for Damage Assessment of Residential Structures Subjected to Climate Change
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016224
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001710 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001710
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001710
+SO - Journal of Structural Engineering 2017-05-01 143(5): 04016224
+AB - Severe hurricanes in coastal areas have caused enormous human and economic losses. Furthermore, the intensity and frequency of future hurricanes may increase due to the potential impact of climate change. Due to common underlying climatological causes, interrelations may exist between successive hurricane events. This paper proposes a novel approach for modeling the temporal correlation in hurricane frequency and develops an analytical method that reflects this correlation to estimate the statistical properties of cumulative hurricane damage. The method provides a closed-form solution to the mean and variance of hurricane damage, and can be used to assess the impacts of temporal correlation and nonstationarity in hurricane events quantitatively. The applicability of the method is demonstrated through a case study of Miami-Dade County, Florida, in which it is found that the nonstationarity in hurricane events increases the mean value of hurricane damage over a future period of 100&nbsp;years, while the temporal correlation increases its variance.
+
+
+    
+        AU - Yiqiu Lu
+    
+        AU - Richard S. Henry
+    
+        AU - Ronald Gultom
+    
+        AU - Quincy T. Ma
+    
+
+TI - Cyclic Testing of Reinforced Concrete Walls with Distributed Minimum Vertical Reinforcement
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016225
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001723 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001723
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001723
+SO - Journal of Structural Engineering 2017-05-01 143(5): 04016225
+AB - During the 2010/2011 Canterbury earthquakes in New Zealand, several reinforced concrete (RC) walls in multistory buildings formed only a limited number of cracks at the wall base with a fracture of vertical reinforcement observed. Recent research suggests that walls designed with minimum vertical reinforcement in accordance with current New Zealand standards may not exhibit large ductility during earthquakes. To investigate this theory further, a total of six flexure dominant RC walls with two layers of distributed vertical reinforcement in accordance with minimum requirements were tested. The test walls were typical of multistory RC walls in regions with moderate seismicity in New Zealand and were used to examine the effect of shear span ratio, axial load, and reinforcement ties in the wall end region. The experimental results confirmed that the current minimum vertical reinforcement limits are insufficient to ensure that a large number of secondary flexural cracks will occur in the plastic hinge region. The lateral-load response of the walls was controlled by one or two main large flexural cracks at the wall base. This behavior greatly reduced the spread of plasticity and resulted in several potential issues, such as limited drift capacity and premature reinforcement buckling or fracture. Recommendations are provided related to minimum vertical reinforcement requirements, plastic hinge length assumptions, ultimate drift capacity, and antibuckling reinforcement.
+
+
+    
+        AU - Zhenyu Yao
+    
+        AU - Kim J. R. Rasmussen
+    
+
+TI - Perforated Cold-Formed Steel Members in Compression. I: Parametric Studies
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016226
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001635 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001635
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001635
+SO - Journal of Structural Engineering 2017-05-01 143(5): 04016226
+AB - This paper presents a comprehensive parametric study on the ultimate strength of perforated cold-formed steel columns using the finite element (FE) package ABAQUS. FE models were developed for columns predisposed to local (L), distortional (D), and global (G) buckling failures. The parametric study involved five cross-section types (i.e.,&nbsp;C, stiffened C, Z, rack, and hat sections), five widths of holes, four lengths of holes, four different sizes of hole spacings, three material properties, two magnitudes and various directions of geometric imperfections, and three buckling modes (i.e.,&nbsp;L, D, and G) and all of the possible interactions between them (i.e.,&nbsp;LD, LG, DG, and LDG). Ultimate strengths, as well as failure modes, were obtained from the analyses and are plotted against the current codified direct strength method (DSM) in AS/NZS 4600. Significant discrepancies between the numerical results and the DSM-predicted strengths were observed due to the influence of holes, the interaction of buckling modes, and occasionally the inherent limitations of the DSM itself. The effects of column length, material properties, and centroid shift due to perforation are also discussed. A data pool including 146,207 column-ultimate strengths were obtained, most of which were used to formulate new design equations for perforated thin-walled columns based on the direct strength method, as presented in a companion paper.
+
+
+    
+        AU - Zhenyu Yao
+    
+        AU - Kim J. R. Rasmussen
+    
+
+TI - Perforated Cold-Formed Steel Members in Compression. II: Design
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016227
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001636 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001636
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001636
+SO - Journal of Structural Engineering 2017-05-01 143(5): 04016227
+AB - The parametric study of the ultimate strength of perforated cold-formed steel columns is presented in a companion paper. The parameters include five cross-section types (i.e.,&nbsp;C, stiffened C, Z, rack, and hat sections), five hole widths, four hole lengths, four hole spacings, three material properties, two magnitudes and various directions of geometric imperfections, and three buckling modes (i.e.,&nbsp;L, D, and G) and all the possible interactions between them (i.e.,&nbsp;LD, LG, DG, and LDG). Based on the extensive range of strength data obtained, four design methods based on the direct strength method (DSM) are evaluated, including the existing AS/NZS 4600 DSM (Australia Standard 2005), Design Option 4 by Moen and Schafer (2011), and two sets of proposed methods. All these methods are complemented by a reliability analysis deriving appropriate resistance factors. The proposed methods are based on Design Option 4 and include DG interaction. They only require the inputs of elastic local and distortional buckling loads based on gross section properties, which is a significant simplification compared to the methods based on net section properties. Additionally, Proposed Method 1 uses a uniform penalty factor to ensure the satisfaction of the overall resistance factor of 0.85, while Proposed Method 2 adopts a factor based on a regression analysis involving parameters such as the dimensions of holes and cross-sections. Proposed Method 2 outperforms all the other methods in terms of a reduced overall scatter in prediction and an increased overall reliability. This method can also be used for nonperforated columns with a better performance than the current AS/NZS 4600 DSM (Australia Standard 2005).
+
+
+    
+        AU - Ho-Jun Lee
+    
+        AU - In-Rak Choi
+    
+        AU - Hong-Gun Park
+    
+
+TI - Eccentric Compression Strength of Rectangular Concrete-Filled Tubular Columns Using High-Strength Steel Thin Plates
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016228
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001724 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001724
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001724
+SO - Journal of Structural Engineering 2017-05-01 143(5): 04016228
+AB - An experimental study was performed to investigate the structural behavior of thin-walled rectangular concrete-filled tubular (RCFT) columns. This study mainly focused on the effects of a high-strength steel slender section on the overall eccentric compression capacity. The test parameters included the width-to-thickness ratio of steel plates, yield strength of steel plates, and use of stiffeners. Five specimens were tested under eccentric axial loading. In the slender-section specimens, despite early local buckling, significant postbuckling reserve strength developed. Consequently, the predictions of a current specification significantly underestimated the load-carrying capacity of the slender-section specimens. The specimens strengthened with vertical stiffeners exhibited enhanced strength and ductility, attaining the plastic capacity of the composite section. Furthermore, a design method of vertical stiffener was developed for high-strength steel RCFT columns.
+
+
+    
+        AU - Hesham M. El-Emam
+    
+        AU - Hani A. Salim
+    
+        AU - Hossam E. M. Sallam
+    
+
+TI - Composite Patch Configuration and Prestress Effect on SIFs for Inclined Cracks in Steel Plates
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016229
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001727 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001727
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001727
+SO - Journal of Structural Engineering 2017-05-01 143(5): 04016229
+AB - The fatigue life of steel bridges can be extended by externally bonding carbon fiber–reinforced polymer (CFRP) patches to the damaged elements to arrest the crack propagation. In this paper, the influence of the patch pretension level, stiffness, and fiber orientation on the stress intensity factor levels are investigated. A three-dimensional finite-element model of the double-sided CFRP patch-strengthened specimen is used to study the fracture behavior of an inclined edge crack under different combinations of loading Modes I and II. The introduction of a compressive stress by pretensioning of the CFRP patch prior to bonding produced a significant reduction of up to 70% in stress intensity factors (SIFs) for different crack lengths, which led to increasing the remaining fatigue life of the steel member. The increase in the CFRP patch-to-steel axial stiffness ratio reduced the SIFs by up to 30%. The optimum benefit of using the CFRP patch to reduce mode I SIF was accomplished when the patch axial stiffness was about 50% of or below the steel plate stiffness. Furthermore, orienting the fibers perpendicular to the crack direction is not necessarily the most effective in arresting the crack propagation. The effectiveness of the fiber orientation in the composite patch depends mainly on both the loading direction and the crack inclination angle.
+
+
+    
+        AU - Tianyou Tao
+    
+        AU - Hao Wang
+    
+        AU - Teng Wu
+    
+
+TI - Comparative Study of the Wind Characteristics of a Strong Wind Event Based on Stationary and Nonstationary Models
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016230
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001725 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001725
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001725
+SO - Journal of Structural Engineering 2017-05-01 143(5): 04016230
+AB - Inherent time-varying trends of wind records are frequently captured in recent field measurements of tropical cyclones. These observations indicate a nonstationary process that deviates from the traditional stationary assumption. In this study, a strong wind event from a landfall typhoon recorded at Sutong Bridge site (Jiangsu Province, China) in 2008 is selected for the investigation of stationary and nonstationary wind characteristics. Since the extraction of the underlying trend is usually determined by experience, a self-adaptive method is presented to automatically isolate the time-varying mean based on the signal stationarity. Once the trend is removed, the residual turbulence will naturally be stationary. Accordingly, two categories of fluctuating wind speeds are then obtained by subtracting constant or time-varying means from original wind samples. Based on the traditional stationary model and two recent nonstationary models, stationary and nonstationary turbulent wind characteristics, e.g.,&nbsp;turbulence intensity, gust factor, peak factor, turbulence integral scale, and power spectral density (PSD), are comparatively investigated and compared with the recommendations from relevant building codes and standards. The results highlight the importance of the nonstationary considerations. In addition, the evolutionary power spectral density (EPSD) of fluctuating wind is discussed to examine the short-term stationary assumption in the calculation of time-frequency turbulence spectrum. A general empirical EPSD is derived and demonstrated effective and efficient in engineering applications.
+
+
+    
+        AU - Shiping Yin
+    
+        AU - Yang Yang
+    
+        AU - Tao Ye
+    
+        AU - Yao Li
+    
+
+TI - Experimental Research on Seismic Behavior of Reinforced Concrete Columns Strengthened with TRC under Corrosion Environment
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016231
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001713 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001713
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001713
+SO - Journal of Structural Engineering 2017-05-01 143(5): 04016231
+AB - Textile-reinforced concrete (TRC) possesses excellent bearing capacity and anticrack and corrosion-resistance abilities, which make it suitable for reinforcing concrete structures in harsh environments. However, the seismic performance of TRC-strengthened concrete columns under chloride corrosion remains unknown. Therefore, a corrosion test was conducted by the electrochemical method on seven steel-reinforced concrete (RC) columns; of these columns, two were used as the control columns, and the other five were strengthened with TRC. The corroded specimens were tested by low cyclic loading in this study, and the effects of the corrosion ratio and different reinforcement methods on the seismic behavior were studied. The results show that TRC reinforcement can effectively reduce the effect of chloride ions on steel corrosion and delay the development of cracks in concrete. The hysteresis curve, initial stiffness, and deformation capacity of the columns strengthened with TRC are superior to those of unstrengthened columns in the same corrosion environment. The displacement ductility factor of the strengthened columns decreases with the increasing corrosion ratio in different corrosion environments, while the constraint efficiency of the TRC increases. The method of reinforcement before corrosion is better than that of corrosion before reinforcement in terms of the ductility and stiffness degradation. The test shows that TRC reinforcement can effectively improve the seismic capability of RC columns in a corrosion environment.
+
+
+    
+        AU - Andrew D. Sen
+    
+        AU - Marsha A. Swatosh
+    
+        AU - Ryan Ballard
+    
+        AU - Daniel Sloat
+    
+        AU - Molly M. Johnson
+    
+        AU - Charles W. Roeder
+    
+        AU - Dawn E. Lehman
+    
+        AU - Jeffrey W. Berman
+    
+
+TI - Development and Evaluation of Seismic Retrofit Alternatives for Older Concentrically Braced Frames
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04016232
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001738 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001738
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001738
+SO - Journal of Structural Engineering 2017-05-01 143(5): 04016232
+AB - Concentrically braced frames (CBFs) have been used for seismic-lateral-force resisting systems for many years, but prior to approximately 1988, they were not designed to promote ductile response using capacity-based design. These older, nonductile CBFs (NCBFs) have been investigated in prior research that identified severe deficiencies in these systems, but some deficiencies had more detrimental consequences than others. This paper describes a research study to evaluate retrofit strategies for NCBFs. Welded and bolted continuous and split shear-plate connections, end-plate connections, split double-angle connections, and integrated gusset-shear plate connections were investigated. Retrofit strategies included brace replacement, concrete in-fill of a locally slender brace, weld overlay, bolt reinforcement, development of in-plane brace buckling, and the use of buckling-restrained braces. In all cases, system deformation capacity was enhanced, and the extent of improvement depended on connection configuration, connection demand-to-capacity ratios, and bracing type.
+
+
+    
+        AU - Cristian Vulcu
+    
+        AU - Aurel Stratan
+    
+        AU - Adrian Ciutina
+    
+        AU - Dan Dubina
+    
+
+TI - Beam-to-CFT High-Strength Joints with External Diaphragm. I: Design and Experimental Validation
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017001
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001709 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001709
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001709
+SO - Journal of Structural Engineering 2017-05-01 143(5): 04017001
+AB - The paper presents the outcomes of an experimental program developed and carried out with the aim of characterizing the behavior of two types of moment-resisting joints in multistory frames of concrete-filled high-strength steel rectangular hollow section (RHS) columns and mild carbon steel beams. The paper describes the design approach and displays the specific detailing for the two joint typologies: with reduced beam section (RBS) and with cover plates (CP). In spite of the various past and recent studies which were focused on the evaluation of full-strength welded beam-to-concrete-filled-tube (CFT) column joints, particular design procedures are missing at the European level. The objectives of the current research were to (1)&nbsp;development a design procedure for welded beam-to-CF-RHS joints, (2)&nbsp;experimental validation of the of the design procedure, and (3)&nbsp;assessment of the seismic performance. The monotonic and cyclic tests evidenced a good conception and design of the RBS and CP joints. In particular, the current study proved the feasibility of using higher steel grades in columns and joint components, and the use of an external diaphragm for the transfer the loads from the beam to the side walls of the RHS steel tube. The seismic performance of the joints was proved adequate, the joints sustaining rotation capacities larger than the 40&nbsp;mrad at the significant damage performance level.
+
+
+    
+        AU - Cristian Vulcu
+    
+        AU - Aurel Stratan
+    
+        AU - Adrian Ciutina
+    
+        AU - Dan Dubina
+    
+
+TI - Beam-to-CFT High-Strength Joints with External Diaphragm. II: Numerical Simulation of Joint Behavior
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017002
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001693 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001693
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001693
+SO - Journal of Structural Engineering 2017-05-01 143(5): 04017002
+AB - The paper presents the outcome of a finite-element numerical investigation program developed and carried out in connection to a set of experimental investigations performed on welded beam-to-column joints, with columns realized as concrete-filled tubes (CFT) with rectangular hollow sections (RHS). The current study was aimed to calibrate a set of numerical models, to conduct a parametric study, and to validate the proposed design procedure. Joint models were calibrated, and additional parameters were investigated numerically, such as: influence of the concrete core, influence of the axial force in the column, response of one-way and two-way joints. It was shown that (1)&nbsp;the influence of concrete core was proved to be low for the single sided RBS or CP joint assemblies, but significant corresponding to joints with strengthened beam, (2)&nbsp;the response of the joint assembly was not affected by the presence of the axial compression force in the column, and (3)&nbsp;the connection solution with external diaphragms was characterized by an adequate response considering one-way and two-way joints. The current study evidenced a good conception and design of the reduced beam section (RBS) and cover plate (CP) joints. In particular, the study proved the feasibility of using higher steel grades in columns and joint components, and the use of an external diaphragm for the transfer the loads from the beam to the side walls of the rectangular hollow section (RHS) steel tube.
+
+
+    
+        AU - Yuxi Zhang
+    
+        AU - Dale G. Karr
+    
+
+TI - Determining Ice Pressure Distribution on a Stiffened Panel Using Orthotropic Plate Inverse Theory
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017003
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001716 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001716
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001716
+SO - Journal of Structural Engineering 2017-05-01 143(5): 04017003
+AB - Inverse algorithms are presented for calculating the variable pressure acting on a stiffened steel plate. The analytical models are formulated to calculate the quasi-static pressure caused by contact of lake ice driven primarily by thermal expansion and winds. Loading pressures are calculated using strain measurements from a stiffened plate installed on a Keweenaw Peninsula lighthouse in Lake Superior. The ice sheet was essentially stationary through the winter months. The linear relationships between pressure and strain values are obtained by both strip beam theory and orthotropic plate theory. Because the inverse solutions are not necessarily unique, multiple approaches are developed and compared. Fourier pressure terms are calculated from the strain measurements using the inverse orthotropic plate theory algorithms. Two of the approaches are applied using orthotropic plate theory to reflect the variability of the ice: the first submodel presumes the pressure acts over the entire plate; the second submodel presumes the pressure acts only within the depth of the measured ice thickness. Favorable comparisons are made of results determined from orthotropic plate theory to results from finite-element (FE) analyses. A truncated singular value expansion (TSVE) method is applied to retain the robustness of the inverse process for the second submodel. Both inverse approaches show results with satisfying accuracy and efficiency compared to the FE analysis. In addition, laboratory calibration and an examination using the recorded data from field measurements exhibit the effectiveness of the presented approach. Inverse strip beam theory and the inverse orthotropic methods are applied for the evaluations. Through the recorded winter season 2013–2014, the peak ice pressures calculated by the inverse orthotropic plate theories are in the range of 3.5&nbsp;MPa for the local contact ice pressures and a maximum of 3.0&nbsp;MPa for the average ice pressures over the entire plate.
+
+
+    
+        AU - Matej Fischinger
+    
+        AU - Peter Kante
+    
+        AU - Tatjana Isakovic
+    
+
+TI - Shake-Table Response of a Coupled RC Wall with Thin T-Shaped Piers
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017004
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001718 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001718
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001718
+SO - Journal of Structural Engineering 2017-05-01 143(5): 04017004
+AB - A shake-table test of a 1:3 scale model of a thin, lightly reinforced concrete (RC), 5-story coupled wall, representing a typical apartment building with a high wall-to-floor area ratio, was performed. The wall consisted of two T-shaped piers, faced to each other by the webs, which were connected at each story level by the coupling beam and slab. The wall was subjected to a series of uniaxial and biaxial seismic excitations. Two different structural details providing different degrees of confinement were used at the free edges without boundary columns. The lightly confined free edges of the flanges (using hairpin transverse reinforcement) behaved satisfactorily in the case of moderate seismic demand. Due to the beam–slab interaction and the slab, which was considerably ticker than in typical buildings, the coupling beams were much stronger than expected, causing brittle shear failure of the overloaded wall piers under bidirectional excitation. The analyzed wall developed substantial strength and low ductility. The main observations of the experiment were confirmed by the results of postexperimental analytical studies performed using a three-dimensional (3D) multiple vertical-line element model, which has been incorporated into a well-known open-code program system.
+
+
+    
+        AU - Ji Dang
+    
+        AU - Huihui Yuan
+    
+        AU - Akira Igarashi
+    
+        AU - Tetsuhiko Aoki
+    
+
+TI - Multiple-Spring Model for Square-Section Steel Bridge Columns under Bidirectional Seismic Load
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017005
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001735 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001735
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001735
+SO - Journal of Structural Engineering 2017-05-01 143(5): 04017005
+AB - In this study, the multiple-spring (MS) model with the curve-approximated hysteresis rule is proposed for the nonlinear seismic response simulation of bidirectionally loaded hollow square-section steel columns such as cantilever type steel piers. To represent the nonlinear hysteresis behavior of the column, an effective and simple optimization procedure is introduced to identify the free parameters of the model. A parameter determination approach for approximate modeling in preliminary design calculations is also introduced. The results of quasi-static and pseudodynamic tests using bidirectional loading are compared with the simulation results to verify the accuracy of the proposed model. The proposed method is shown to be advantageous in achieving accurate simulation of the seismic response of a bridge model involving bidirectionally loaded steel columns, especially the hysteretic force-displacement relationship and time history of the dynamic response.
+
+
+    
+        AU - Wei Wang
+    
+        AU - Xinlong Du
+    
+        AU - Yunfeng Zhang
+    
+        AU - Yiyi Chen
+    
+
+TI - Experimental Investigation of Beam-Through Steel Frames with Self-Centering Modular Panels
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017006
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001743 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001743
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001743
+SO - Journal of Structural Engineering 2017-05-01 143(5): 04017006
+AB - The beam-through steel frame with self-centering modular panels (BTSF-SCMPs) is a new seismic load–resisting system that combines the ease of assembly of the beam-through main frame with the lateral stiffness and recentering capabilities of SCMPs. The SCMP is designed as a posttensioned steel moment-resisting frame, and in this study, three types of SCMPs with slightly different configurations were fabricated and tested. Columns of the main frame are floor-by-floor connected to the through beam, whereas the prefabricated SCMPs are installed to the prespecified bays of the main frame. Tension-only bracings installed to the main frame or SCMP are intended to serve as replaceable fuse elements. A series of experimental tests were conducted to investigate the cyclic loading behavior of the BTSF-SCMPs with three different types of SCMPs. The experimental results show that the BTSF-SCMP is capable of recentering upon unloading while retaining moderate energy dissipation capacity provided by the tension-only bracings. Also, because of the SCMP, after severe cyclic loading, the BTSF-SCMP system with newly replaced bracings and reused main frame exhibits almost identical stiffness, strength, and recentering ability as that of the original system.
+
+
+    
+        AU - Chang-Jiu Jiang
+    
+        AU - Zhou-Dao Lu
+    
+        AU - Ling-Zhi Li
+    
+
+TI - Shear Performance of Fire-Damaged Reinforced Concrete Beams Repaired by a Bolted Side-Plating Technique
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017007
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001726 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001726
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001726
+SO - Journal of Structural Engineering 2017-05-01 143(5): 04017007
+AB - The aim of this paper is to study the shear performance of fire-damaged reinforced concrete (RC) beams repaired by the bolted side-plating (BSP) technique. A total of six RC beams were fabricated and five were exposed to fire in accordance with standard temperature curves. Then the damaged beams were retrofitted with the BSP technique and four-point bending shear tests were conducted. The development of the temperature and deformation of RC beams under fire, the failure mode, the shear capacity and deformability, and the relative slips between the bolted steel plates and the RC beams were investigated. The displacement and strain fields were also obtained using the digital image correlation (DIC) technique. The testing results indicated that the shear capacity, stiffness, and ductility of the damaged RC beams were recovered after they were repaired by the BSP technique. The strengthening effect increases as the plate depth increases and the bolt spacing decreases. Relative longitudinal and transverse slips between the two structural components of the BSP beams were observed, and the number of anchor bolts exerted crucial influence on the degree of partial interaction between the bolted steel plates and the RC beams.
+
+
+    
+        AU - Qiwen Chen
+    
+        AU - Bassem Andrawes
+    
+
+TI - Cyclic Stress–Strain Behavior of Concrete Confined with NiTiNb-Shape Memory Alloy Spirals
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017008
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001728 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001728
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001728
+SO - Journal of Structural Engineering 2017-05-01 143(5): 04017008
+AB - Recent studies showed that concrete confinement using shape memory alloy (SMA) spirals is a promising technique for seismic retrofitting of reinforced concrete columns that lack flexural ductility. This technique is applied by wrapping prestrained SMA wires around concrete columns and activating the confining pressure by heating the wires. This study is the first step toward understanding the behavior of NiTiNb-SMA–confined concrete both experimentally and analytically. The paper aims at investigating the cyclic behavior of NiTiNb-SMA–confined concrete, and using the test results to develop an empirical stress–strain model for NiTiNb-SMA–confined concrete. A series of uniaxial cyclic tests are performed on NiTiNb-SMA–confined concrete cylinders having different concrete strengths, confining pressures, and loading protocols. The test results show that the effectiveness of NiTiNb-SMA confinement on strength and ductility enhancement increases as active confining pressure increases; and in the studied range of normal strength concrete, the residual stress is independent of concrete strength. The study also proposes empirical equations to predict stress–strain behavior of NiTiNb-SMA–confined concrete, including the peak stress, residual stress, and ultimate stress and strain of SMA-confined concrete.
+
+
+    
+        AU - Wen-Qiang Jiang
+    
+        AU - Yao-Peng Liu
+    
+        AU - Siu-Lai Chan
+    
+        AU - Zhang-Qi Wang
+    
+
+TI - Direct Analysis of an Ultrahigh-Voltage Lattice Transmission Tower Considering Joint Effects
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017009
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001736 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001736
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001736
+SO - Journal of Structural Engineering 2017-05-01 143(5): 04017009
+AB - Transmission towers play an important role in transmitting electricity in a power grid safely and reliably. In traditional design practice, the second-order P-Δ (frame side sway) and P-δ (member curvature) effects and joint effects such as load eccentricities, slippage effects, and semirigid connection are commonly ignored in analysis. Great discrepancy is frequently noted between full-scale tower tests and numerical simulations using first-order linear analysis. In this paper, second-order direct analysis is used and slippage of bolted joints as well as semirigid connection behavior are taken into account. Member initial bowing and frame out-of-plumbness imperfections are considered in the present study, which is verified by full-scale test on an ultrahigh-voltage (UHV) lattice transmission tower. The technique of semirigid design and simulation of joint stiffness for load eccentricity by simple modeling for transmission towers meeting the requirements for direct analysis with verification by a full-scale test is unavailable in literature and proposed in this paper. Furthermore, the influences of joint slippage on the deflection and load behavior of the studied towers are quantified and reported.
+
+
+    
+        AU - David Grilli
+    
+        AU - Robert Jones
+    
+        AU - Amit Kanvinde
+    
+
+TI - Seismic Performance of Embedded Column Base Connections Subjected to Axial and Lateral Loads
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017010
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001741 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001741
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001741
+SO - Journal of Structural Engineering 2017-05-01 143(5): 04017010
+AB - Embedded column base (ECB) connections are used in mid- to high-rise steel moment frames to transfer base moments and forces into the footing. These connections, which feature a steel column embedded into a concrete footing, are used when exposed base plate connections are unfeasible for providing the requisite strength or stiffness. Results from five full-scale tests on ECB connections are presented to examine their seismic response. The test specimens, representing prevalent construction practice, were subjected to cyclic lateral deformations in the presence of an axial (tensile or compressive) load. Test variables included embedment depth, axial load, and column size. Damage was observed in the form of concrete crushing in the bearing zones ahead of the column flanges, shear cracking in the joint panel region, and flexural cracking of the entire footing. Two types of failure were observed: (1)&nbsp;gradual loss of strength due to concrete crushing ahead of the flange and (2)&nbsp;upward pryout of concrete on the tension side of the connection. The former mode was dominant in the specimens with deeper (762&nbsp;mm) embedments, whereas the latter was dominant in shallower (508&nbsp;mm) embedments. These failure modes and experimental measurements suggest that the base moment is resisted through a combination of horizontal bearing stresses on the column flanges and vertical bearing stresses on the embedded base plate. All specimens sustained significant deformations (2–7% column drift) prior to load loss or failure. It is determined that even if designed as rotationally fixed, the specimens have significant flexibility, which must be considered in simulation and design. Limitations of the study are discussed, and suggestions are provided for the development of a strength model based on the experimental findings.
+
+
+    
+        AU - Jungil Seo
+    
+        AU - Amit H. Varma
+    
+
+TI - Experimental Behavior and Design of Steel Plate Composite-to-Reinforced Concrete Lap Splice Connections
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017011
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001711 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001711
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001711
+SO - Journal of Structural Engineering 2017-05-01 143(5): 04017011
+AB - Steel-plate composite (SC) walls can be anchored to reinforced concrete (RC) foundations or connected to RC walls using lap-splice connections. These lap-splice connections consist of steel rebar or dowels that are fully developed (Ld) in the RC portion and embedded (Lemb) in the SC wall. Tension forces are transferred from the steel faceplates of the SC wall to the steel rebar or dowels using stud anchors and ties welded to the steel faceplates. The efficiency-of-force transfer depends on the dowel embedment length (Lemb), the number of stud anchors and ties engaged (n), the eccentricity or distance between the steel faceplates and dowel bars (α), and the tie bar reinforcement ratio (ρt). This paper presents the results of experimental investigations conducted in Japan and in the United States to evaluate the pullout (tension) strength and ductility of these lap-splice connections. The parameters included in the tests were Lemb, n, α, and ρt. The effects of eccentricity (offset distance between dowel bars and steel faceplates) on the axial tension behavior of SC-to-RC lap-splice connections were also investigated. Detailed numerical models were developed to gain additional insight into the behavior and force transfer in lap-splice connections. The results from the experimental and numerical investigations were used to propose design and detailing recommendations for lap-splice connections.
+
+
+    
+        AU - Justin A. Murray
+    
+        AU - Mehrdad Sasani
+    
+
+TI - Collapse Resistance of a Seven-Story Structure with Multiple Shear-Axial Column Failures Using Hybrid Simulation
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017012
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001746 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001746
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001746
+SO - Journal of Structural Engineering 2017-05-01 143(5): 04017012
+AB - The postfailure behavior of nonductile reinforced concrete columns under seismic loadings, and the system-level behaviors that can resist collapse after such failures, are not well understood due in part to limitations in the available experimental data. In this study, a pseudodynamic hybrid simulation was performed in order to capture the response of a seven-story reinforced concrete frame structure (height to width ratio of 1.6) under unidirectional pulse-type ground motion. Two full-scale first story columns were physically tested, one of which was a corner column under additional compression due to overturning moment. Both columns experienced shear and axial failures and completely lost their lateral and vertical load-carrying capacities. In both columns, the measured lateral deformation within the damaged region was larger than the total additional column drift during shear failure, as other regions of the column unloaded. The separation of concrete across the failure plane is shown to have significant effects on axial strength and stiffness loss in the failing columns. The hybrid nature of the simulation allowed for system-level study, including the relative importance of the frames and floor system to load redistribution after column failure.
+
+
+    
+        AU - Shahriar Quayyum
+    
+        AU - Tasnim Hassan
+    
+
+TI - Initial Residual Stresses in Hot-Rolled Wide-Flange Shapes: A Computational Technique and Influence on Structural Performances
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 04017013
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001739 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001739
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001739
+SO - Journal of Structural Engineering 2017-05-01 143(5): 04017013
+AB - Wide-flange members are hot-rolled to their final shapes and subsequently air-cooled, during which residual stresses are developed due to nonuniform cooling. Both global and local flange-buckling strengths and the seismic performance of W-shaped columns are influenced by initial residual stresses (IRSs). Hence, it is essential to accurately predict the magnitude and distribution of IRSs to investigate their influence on structural performance. However, most of the literature either ignores IRSs or assumes their simplified distribution. This study developed a simple computational scheme to simulate IRSs and their distribution in hot-rolled W shapes. The IRS simulation technique is validated against the measured data in the literature for different W-shape sizes. Good conformity is observed between the simulated and measured data. IRSs due to uneven cooling can be as high as one-half of the yield stress and can significantly affect the load-carrying capacity and deformation of W-shaped members. The numerical scheme developed provides a simple experimentally validated technique for simulating IRSs in hot-rolled W shapes for use in structural analysis and design of moment-resisting connections and frames.
+
+
+    
+        AU - Sinan Xiao
+    
+        AU - Zhenzhou Lu
+    
+        AU - Feifei Qin
+    
+
+TI - Estimation of the Generalized Sobol’s Sensitivity Index for Multivariate Output Model Using Unscented Transformation
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 06016005
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001721 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001721
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001721
+SO - Journal of Structural Engineering 2017-05-01 143(5): 06016005
+AB - Global sensitivity analysis is frequently applied to models with multivariate output. The generalized Sobol’s sensitivity index has been defined to evaluate the importance of input variables on the multivariate output, and the corresponding Monte Carlo simulation (MCS) has been proposed to estimate this index. However, MCS needs a large number of samples for the estimation of the index, which is time-consuming for practical engineering application. The unscented transformation (UT) is a sampling method for estimating the mean and covariance of model output with known mean and covariance of input variables, and it needs much fewer samples than MCS. Thus the estimation of the generalized Sobol’s index for multivariate output by use of UT is proposed in this paper to decrease the computational cost. The proposed estimation by use of UT includes double-loop sampling and single-loop sampling, and the efficiency of the latter is higher than the former. Numerical and engineering examples demonstrate the accuracy and high efficiency of UT.
+
+
+    
+        AU - Ali Imanpour
+    
+        AU - Robert Tremblay
+    
+        AU - Ali Davaran
+    
+        AU - Christopher Stoakes
+    
+        AU - Larry A. Fahnestock
+    
+
+TI - Erratum for “Seismic Performance Assessment of Multitiered Steel Concentrically Braced Frames Designed in Accordance with the 2010 AISC Seismic Provisions” by Ali Imanpour, Robert Tremblay, Ali Davaran, Christopher Stoakes, and Larry A. Fahnestock
+PT - Journal Article
+DP - 2017
+TA - Journal of Structural Engineering
+PG - 08217001
+VI - 143
+IP - 5
+AID - 10.1061/(ASCE)ST.1943-541X.0001734 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001734
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001734
+SO - Journal of Structural Engineering 2017-05-01 143(5): 08217001
+
+

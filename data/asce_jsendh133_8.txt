@@ -1,0 +1,395 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Sashi K. Kunnath
+    
+
+TI - Editor’s Note
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1049-1050
+VI - 133
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2007)133:8(1049) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281049%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281049%29
+SO - Journal of Structural Engineering 2007-08-01 133(8): 1049-1050
+
+
+    
+        AU - F. N. Catbas
+    
+        AU - S. K. Ciloglu
+    
+        AU - O. Hasancebi
+    
+        AU - K. Grimmelsman
+    
+        AU - A. E. Aktan
+    
+
+TI - Limitations in Structural Identification of Large Constructed Structures
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1051-1066
+VI - 133
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2007)133:8(1051) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281051%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281051%29
+SO - Journal of Structural Engineering 2007-08-01 133(8): 1051-1066
+AB - The objective of this paper is to discuss the limitations in structural identification of large constructed structures. These limitations arise due to the geometric complexity, uncertain boundary and continuity conditions, loading environment, and the imperfect knowledge and errors in modeling such large constructed facilities. In this paper, the writers present their studies on developing a mixed microscopic-structural element level three-dimensional finite-element (FE) modeling of a long-span bridge structure and its structural system identification by integrating various experimental techniques. It is shown that a reasonable level of confidence (50–90%) can be achieved with a model that is calibrated using global and local structural monitoring data with a sufficiently high spatial resolution. The reliability of the global attributes, such as boundary and continuity conditions that may be identified and simulated by means of field-calibrated models using only dynamic test results (globally calibrated models), may appear to be high (as much as 90%). However, the reliability that should be expected for local stress fields is shown to be an entirely different matter, and a calibration based on just dynamic testing would be unable to reveal the confidence in simulated local responses. This is especially true for long-span bridges, because the resolutions of the dynamic test grids are often quite sparse due to the large size of the structures. In this paper, the writers illustrate that the density, modality, and bandwidth of experimental data should be carefully evaluated and matched to the size and complexity of a constructed system before claiming that a FE model is validated. It is also shown that even more than three dozen acceleration measurement points, two dozen strain measurements, and a continuous surveillance of wind and temperature were barely sufficient for a credible structural identification of a long-span bridge.
+
+
+    
+        AU - Erin Santini Bell
+    
+        AU - Masoud Sanayei
+    
+        AU - Chitra N. Javdekar
+    
+        AU - Eugene Slavsky
+    
+
+TI - Multiresponse Parameter Estimation for Finite-Element Model Updating Using Nondestructive Test Data
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1067-1079
+VI - 133
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2007)133:8(1067) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281067%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281067%29
+SO - Journal of Structural Engineering 2007-08-01 133(8): 1067-1079
+AB - Structural health monitoring using field measurements has developed into a major research area, responding to an increasing demand for evaluating the integrity of civil engineering structures. Model updating through parameter estimation is a key tool in a successful structural health monitoring program. A method for parameter estimation is developed for simultaneous use of static and modal nondestructive test data called the “multiresponse” parameter estimation. An error function normalization technique is also developed to facilitate effective multiresponse parameter estimation. This normalization technique can mitigate some of the numerical issues encountered during the parameter estimation procedure. However, this technique does not degrade the integrity of the parameter estimation procedure. Multiresponse parameter estimation provides an increased level of flexibility and feasibility of model updating for structural health monitoring. This paper presents full integration of static and modal nondestructive test data using both stiffness-based and mass-based error functions for structural health monitoring. A benchmark laboratory grid model of a bridge deck is utilized to illustrate application of both normalization and multiresponse parameter estimation for updating the stiffness and mass parameters using nondestructive test data.
+
+
+    
+        AU - Seung Dae Kim
+    
+        AU - Chi Won In
+    
+        AU - Kelly E. Cronin
+    
+        AU - Hoon Sohn
+    
+        AU - Kent Harries
+    
+
+TI - Reference-Free NDT Technique for Debonding Detection in CFRP-Strengthened RC Structures
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1080-1091
+VI - 133
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2007)133:8(1080) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281080%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281080%29
+SO - Journal of Structural Engineering 2007-08-01 133(8): 1080-1091
+AB - This study attempts to develop a real-time debonding monitoring system for carbon fiber-reinforced polymer (CFRP) strengthened structures by continuously inspecting the bonding condition between the CFRP layer and the host structure. The uniqueness of this study is in developing a new concept and theoretical framework of nondestructive testing (NDT) in which debonding is detected without relying on previously obtained baseline data. The proposed reference-free damage diagnosis is achieved based on the concept of time reversal acoustics (TRA). In TRA, an input signal at an excitation point can be reconstructed if the response signal measured at another point is reemitted to the original excitation point after being reversed in the time domain. Examining the deviation of the reconstructed signal from the known initial input signal allows instantaneous identification of damage without requiring a baseline signal representing the undamaged state for comparison. The concept of TRA has been extended to guided wave propagations within the CFRP-strengthened reinforced concrete (RC) beams to improve the detectability of local debonding. Monotonic and fatigue load tests of large-scale CFRP-strengthened RC beams are conducted to demonstrate the potential of the proposed reference-free debonding monitoring system.
+
+
+    
+        AU - Tianyu Xiang
+    
+        AU - Renda Zhao
+    
+        AU - Tengfei Xu
+    
+
+TI - Reliability Evaluation of Vehicle–Bridge Dynamic Interaction
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1092-1099
+VI - 133
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2007)133:8(1092) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281092%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281092%29
+SO - Journal of Structural Engineering 2007-08-01 133(8): 1092-1099
+AB - The reliability of vehicle–bridge dynamic interaction is evaluated. A time domain transfer matrix method for dynamic analysis is proposed. Using the idea of the Newmark-
+
+β
+
+ method, the partial differential equation of beam vibration is transformed into a differential equation. Then, this differential equation is solved by the transfer matrix method. By using D’Alembert’s principle, the dynamic equations of vehicle–bridge interaction can be formulated. An iteration scheme is adopted to deal with the coupled terms in dynamic equations of vehicle–bridge system. Through integrating the first-order reliability method and transfer matrix method, the dynamic reliability of the vehicle–bridge system is studied. Through two numerical examples, the effects of system parameters on dynamic reliability of the vehicle–bridge system are investigated.
+
+
+    
+        AU - Gilberto Mosqueda
+    
+        AU - Bozidar Stojadinovic
+    
+        AU - Stephen A. Mahin
+    
+
+TI - Real-Time Error Monitoring for Hybrid Simulation. Part I: Methodology and Experimental Verification
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1100-1108
+VI - 133
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2007)133:8(1100) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281100%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281100%29
+SO - Journal of Structural Engineering 2007-08-01 133(8): 1100-1108
+AB - The hybrid simulation test method is a versatile technique for evaluating the seismic performance of structures by seamlessly integrating both physical and numerical simulations of substructures into a single test model. Hybrid simulation results have been shown to be reliable by comparison to shake-table simulations when propagation of experimental errors is successfully mitigated. Techniques have been proposed to assess the severity of experimental errors prior to or after tests have been completed. In this paper, an error monitoring method is presented that predicts the reliability of the test results in real time using data that is readily available. Two error monitors are derived based on estimates of energy added to the hybrid simulation as a result of errors in the experimental setup. The proposed method can provide valuable decision-making information by generating early warnings of unacceptable levels of experimental errors. The warning signals can serve as an indicator to pause the simulation, examine the source of error, and correct the problem, preferably before the specimen is irreparably damaged. Use of the proposed hybrid simulation error monitors to provide a measure of confidence of the quality of the test results is verified in two hybrid simulations.
+
+
+    
+        AU - Gilberto Mosqueda
+    
+        AU - Bozidar Stojadinovic
+    
+        AU - Stephen A. Mahin
+    
+
+TI - Real-Time Error Monitoring for Hybrid Simulation. Part II: Structural Response Modification due to Errors
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1109-1117
+VI - 133
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2007)133:8(1109) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281109%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281109%29
+SO - Journal of Structural Engineering 2007-08-01 133(8): 1109-1117
+AB - Hybrid simulation results have been shown to be highly sensitive to measurement and control errors associated with experimental substructures. In particular, systematic control errors due to the response lag of servohydraulic actuators can substantially modify the computed hybrid model response. This paper examines the changes in the hybrid model response resulting from experimental errors and verifies the use of hybrid simulation error monitors (HSEM) presented in a companion paper to predict these changes. The effects of a restoring force time delay on the hybrid model response are first examined by deriving a transfer function for such a system. In addition, numerical simulations of hybrid simulations with induced systematic and random errors are used to study the effects of experimental errors on the linear and nonlinear seismic response of structures. The numerical models with simulated experimental errors are then used to examine the relationship between HSEM and more common performance measures for quantifying the accuracy of the simulations. Based on these numerical studies, appropriate threshold values for HSEM can be determined to detect in real time whether the specified level of unacceptable accuracy has been exceeded in a hybrid simulation.
+
+
+    
+        AU - W. C. Pang
+    
+        AU - D. V. Rosowsky
+    
+        AU - S. Pei
+    
+        AU - J. W. van de Lindt
+    
+
+TI - Evolutionary Parameter Hysteretic Model for Wood Shear Walls
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1118-1129
+VI - 133
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2007)133:8(1118) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281118%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281118%29
+SO - Journal of Structural Engineering 2007-08-01 133(8): 1118-1129
+AB - The hysteretic behavior of wood shear walls subjected to cyclic loading exhibit highly nonlinear force-displacement responses. There exists a careful balance between model complexity and necessary accuracy. In fact, the most widely used models for hysteretic behavior utilize piecewise-linear functions with static parameters to model the nonlinear hysteretic response and are often unable to capture some of the significant characteristics observed under experimental testing. This paper describes a new evolutionary parameter hysteretic model (EPHM) and illustrates its use in a number of applications including the development of seismic fragility curves. The proposed model is validated using the results of two full-scale shake table tests and eight cyclic shear wall tests with varying wall configurations and tested using different loading protocols. Good agreement is observed between the EPHM model and the test data. The EPHM is shown to be a better choice of hysteretic model than a static parameter model for performance-based seismic design applications when accurate prediction of displacement throughout the entire deformation demand range is required.
+
+
+    
+        AU - Mark Andrew Bradford
+    
+        AU - Tao Wang
+    
+        AU - Yong-Lin Pi
+    
+        AU - R. Ian Gilbert
+    
+
+TI - In-Plane Stability of Parabolic Arches with Horizontal Spring Supports. I: Theory
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1130-1137
+VI - 133
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2007)133:8(1130) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281130%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281130%29
+SO - Journal of Structural Engineering 2007-08-01 133(8): 1130-1137
+AB - This paper investigates the in-plane elastic stability of a shallow parabolic arch with horizontal spring supports subjected to a uniformly distributed vertical load. A virtual work formulation is used to establish both the nonlinear equilibrium equations and the buckling equilibrium equation for shallow arches. Analytical solutions for the in-plane buckling loads of shallow arches subjected to this loading regime are obtained, and a closed-form solution for the in-plane antisymmetric bifurcation buckling load and an approximation to the symmetric snap-through buckling load of shallow arches are proposed. Comparisons with the finite-element predictions of these buckling loads, together with the measured buckling loads of arches tested in the laboratory and reported in the companion paper, demonstrate that the analytical solutions are accurate. It is found that the effects of the stiffness of the horizontal springs on the buckling load and buckling behavior of arches are significant, and that the buckling load of an arch increases with an increase in the flexibility of the horizontal springs at the supports. Values of the slenderness that delineate the buckling modes increase with an increase of the flexibility of the horizontal springs. Values of the slenderness that distinguish between an arch (for which buckling is possible) and a beam curved in elevation (that cannot buckle in plane) also increase with an increase of the flexibility of the horizontal springs.
+
+
+    
+        AU - Tao Wang
+    
+        AU - Mark Andrew Bradford
+    
+        AU - R. Ian Gilbert
+    
+        AU - Yong-Lin Pi
+    
+
+TI - In-Plane Stability of Parabolic Arches with Horizontal Spring Supports. II: Experiments
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1138-1145
+VI - 133
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2007)133:8(1138) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281138%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281138%29
+SO - Journal of Structural Engineering 2007-08-01 133(8): 1138-1145
+AB - In the companion paper, the nonlinear elastic stability analysis of a shallow parabolic arch with horizontal spring supports was investigated. The solution for the in-plane antisymmetric bifurcation buckling load and an approximate solution for the symmetric snap-through buckling load for shallow arches were proposed, and the effects of the stiffness of the horizontal springs on the buckling load and buckling behavior of arches were studied. When the stiffness of each of the spring supports is the same, the structural configuration replicates that of a tied arch with roller supports. This paper reports short-term experimental studies undertaken on two shallow parabolic reinforced concrete arches. The two supports of each arch were connected by a steel tie. The arches failed in an antisymmetric bifurcation buckling mode well before the maximum stress in the concrete reached its compressive strength. Both the load–deflection response and the buckling load are compared with theoretical predictions that incorporate various degrees of nonlinearity in their formulation, including the predictions derived in the companion paper.
+
+
+    
+        AU - M. Overend
+    
+        AU - G. A. Parke
+    
+        AU - D. Buhagiar
+    
+
+TI - Predicting Failure in Glass—A General Crack Growth Model
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1146-1155
+VI - 133
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2007)133:8(1146) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281146%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281146%29
+SO - Journal of Structural Engineering 2007-08-01 133(8): 1146-1155
+AB - The successful design of glass as a structural element depends mainly on the ability to predict failure with accuracy and ease. Over the last 
+
+30
+years
+
+ various failure prediction models have been put forward for determining the load bearing capacity of glass, some of which have been adopted in national codes of practice. The differences between these models translate into a wide range of glass strength and glass thickness values in glass design. This paper compares the mathematical formulations of a number of existing failure prediction models, and the differences between these models are identified and discussed. From these comparisons a general crack growth model (GCGM) based on established statistical failure theory and linear elastic fracture mechanics is proposed. The performance of the existing models and the proposed GCGM is compared by physical and numerical investigations. The proposed model is shown to provide a basis for an accurate and automated method for determining the tensile strength of glass subjected to static loads and valid for any geometry and support condition.
+
+
+    
+        AU - John W. van de Lindt
+    
+        AU - Thang Nguyen Dao
+    
+
+TI - Evolutionary Algorithm for Performance-Based Shear Wall Placement in Buildings Subjected to Multiple Load Types
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1156-1167
+VI - 133
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2007)133:8(1156) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281156%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281156%29
+SO - Journal of Structural Engineering 2007-08-01 133(8): 1156-1167
+AB - Shear walls have very high in-plane stiffness and strength, which can be used to simultaneously resist large horizontal loads and support gravity loads, making them quite advantageous in many structural engineering applications. Structures must perform safely when subjected to numerous types of loading while still remaining aesthetic and fully functional. The nature of shear wall design in building structures is a difficult task, particularly if one wants to place the shear walls in such a way that the cost is minimal while still satisfying specific performance objectives when subjected to natural and human-induced loads. This paper presents the concept and formulation of an evolutionary algorithm for shear wall placement for several different load types under competing objectives and several simplified illustrative examples are presented for demonstration purposes. The example applications include cases for (1) static wind load; (2) dynamic blast load for a small car load of explosives; and (3) dynamic blast load for a semitrailer load of explosives. A three-dimensional finite-element model was developed and applied to analyze the performance requirements and was fully coupled in time with the evolutionary algorithm in order to identify the optimal solution. The evolutionary algorithm coupled with the numerical structural model presented herein shows promise for many different building subassemblies and components beyond shear walls. It is envisioned that this type of algorithm can be extended to include all types of building assemblies (i.e., columns and beams), resulting in an increased general robustness of building regardless of hazard type.
+
+
+    
+        AU - Yao-Zhi Luo
+    
+        AU - Xian Xu
+    
+        AU - Fang Wu
+    
+
+TI - Accurate Stiffness Matrix for Nonprismatic Members
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1168-1175
+VI - 133
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2007)133:8(1168) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281168%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281168%29
+SO - Journal of Structural Engineering 2007-08-01 133(8): 1168-1175
+AB - In this note, the transfer matrix method is adopted to deduce general expressions for the components of the stiffness matrix and equivalent node load vector of nonprismatic members, and the effect of warping is not considered. State vectors are introduced to describe the nodal forces and displacements of a structural member. The relation between the state vectors of the left node and the right node of the member is given by a matrix referred to as the transfer matrix. It is found that the stiffness matrix of the member can be expressed in terms of the transfer matrix. Therefore, an accurate expression for the stiffness matrix can be obtained as long as the corresponding transfer matrix can be accurately determined. The method proposed is a general procedure for the stiffness matrix derivation of both continuous nonprismatic members and discontinuous nonprismatic members. The correctness of the obtained stiffness expressions is verified by two simple numerical examples.
+
+
+    
+        AU - Peng Pan
+    
+        AU - Makoto Ohsaki
+    
+        AU - Hiroshi Tagawa
+    
+
+TI - Shape Optimization of H-Beam Flange for Maximum Plastic Energy Dissipation
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1176-1179
+VI - 133
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2007)133:8(1176) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281176%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281176%29
+SO - Journal of Structural Engineering 2007-08-01 133(8): 1176-1179
+AB - The purpose of this paper is to show that the performance of a structural component is drastically improved utilizing shape optimization considering inelastic responses. Optimal flange shapes are found as an example for an H-beam to show that the energy dissipation capacity is significantly improved by shape optimization. The forced displacement is given at the free end of the cantilever beam so that the average deformation angle reaches the specified value. The constraint is given for the maximum equivalent plastic strain at the welded section. Global optimal solutions are searched by a heuristic approach called simulated annealing, which is successfully combined with a commercial finite-element analysis code ABAQUS for elastoplastic analysis. It is shown in the examples that the maximum plastic strains near the welded section are reduced and the plastic deformation is widely distributed around the reduced section of the optimal solution; thus, allowing large energy dissipation under small maximum plastic strain. The results show the advantage of the optimal shape over the conventional circular cut.
+
+
+    
+        AU - Chiu Jen Ku
+    
+        AU - Jack Edward Cermak
+    
+        AU - Li-Shu Chou
+    
+
+TI - Biased Modal Estimates from Random Decrement Signatures of Forced Acceleration Responses
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1180-1185
+VI - 133
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2007)133:8(1180) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281180%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281180%29
+SO - Journal of Structural Engineering 2007-08-01 133(8): 1180-1185
+AB - The following study investigates a parameter identification problem of a linear dynamic system resulting from forced acceleration responses without any knowledge of input forces. When such a forced acceleration response is used by the random decrement technique, the formed random decrement signature of the acceleration response has an additional amount from the random decrement signature of the input force. The random decrement signatures obtained from a three degrees of freedom dynamic system excited by white noise forces are used to show the identification problem using the Ibrahim time domain algorithm. Results reveal that the random decrement signatures of the white noise forces corrupt the random decrement signatures of the acceleration responses, leading to the biased estimates of the modal parameters, especially for the damping estimates. To avoid the random decrement signatures of input forces in the random decrement signatures of the forced acceleration responses, a solution is provided for the use of the random decrement technique.
+
+
+    
+        AU - X. Q. Zhu
+    
+        AU - S. S. Law
+    
+
+TI - Nonlinear Characteristics of Damaged Reinforced Concrete Beam from Hilbert-Huang Transform
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1186-1191
+VI - 133
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2007)133:8(1186) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281186%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281186%29
+SO - Journal of Structural Engineering 2007-08-01 133(8): 1186-1191
+AB - This note studies the signatures of nonlinear characteristics in the vibration response of a reinforced concrete beam with cracks using Hilbert-Huang transform with reference to their possible use for detecting damage in reinforced concrete structures. The measured vibration signal from different cracked states of the beam are decomposed into intrinsic mode function (IMF) using empirical mode decomposition with the Hilbert-Huang spectrum computed for each of them. The time history of the instantaneous frequency of the beam, obtained from the IMF, is found correlating with the opening and closure of cracks. The effects of amplitude modulation and the Gibb’s phenomenon in the instantaneous frequency fluctuation have been separately quantified. The acceleration-frequency or the amplitude-frequency relationship in one cycle of vibration show distinctly the nonlinear vibration characteristics, and the damping ratio and instantaneous frequency change could be two good indicators of damage in the reinforced concrete beam under study.
+
+
+    
+        AU - T. T. Soong
+    
+
+TI - Review of Principles of Passive Supplemental Damping and Seismic Isolation by C. Christopoulos and A. Filiatrault
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1192-1192
+VI - 133
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(2007)133:8(1192) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281192%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A8%281192%29
+SO - Journal of Structural Engineering 2007-08-01 133(8): 1192-1192
+
+

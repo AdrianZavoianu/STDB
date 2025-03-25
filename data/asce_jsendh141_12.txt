@@ -1,0 +1,652 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - J. S. Love
+    
+        AU - M. J. Tait
+    
+
+TI - Multiple Tuned Liquid Dampers for Efficient and Robust Structural Control
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015045
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001290 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001290
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001290
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015045
+AB - In traditional tuned liquid damper (TLD) installations, TLD tank(s) are tuned to a single optimal frequency as determined by well-known dynamic vibration absorber theory. A multiple tuned liquid damper (MTLD) is created when the sloshing frequencies are distributed over a range near the structural frequency. In this paper, an equivalent mechanical model for a structure–MTLD system is developed. A third-order nonlinear multimodal model is employed to assess nonlinear fluid affects and serve as independent model verification. To the authors’ knowledge, this is the first time the nonlinear energy dissipation associated with damping screens and the nonlinear coupling amongst sloshing modes has been considered for MTLD systems. MTLD systems consisting of one (traditional TLD), two, and three tanks are used to reduce the resonant response of a single degree of freedom structure. The MTLD provides structural control that is superior to a traditional TLD. The MTLD is less sensitive to the structural excitation amplitude, which enables the device performance to be maintained at low amplitude excitations associated with common wind events. The MTLD is also shown to be more robust to changes to the structure’s natural frequency than the traditional TLD. Since many TLD installations require multiple tanks to satisfy space restrictions, the findings of this paper are highly relevant to structural engineering. This paper shows that by slightly altering the fluid depth of each tank, improved structural control performance can be achieved at little additional cost.
+
+
+    
+        AU - Sawekchai Tangaramvong
+    
+        AU - Di Wu
+    
+        AU - Wei Gao
+    
+        AU - Francis Tin-Loi
+    
+
+TI - Response Bounds of Elastic Structures in the Presence of Interval Uncertainties
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015046
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001297 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001297
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001297
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015046
+AB - A mathematical-programming (MP)-based approach is proposed to directly determine the two extreme [(1)&nbsp;minimum, and (2)&nbsp;maximum] bounds of some static response quantity for elastic structures subject to the simultaneous application of interval applied forces and interval elastic material properties. Such a direct determination scheme reformulates the interval finite-element (FE) analysis into a pair of standard nonlinear programming (NLP) problems that can be solved by any available NLP code. Not only does the proposed method advantageously bypass any computationally expensive combinatorial searches to capture the response limits, but it can also directly accommodate any dependency in the interval data. Some examples are presented to illustrate the robustness and efficiency of the method.
+
+
+    
+        AU - Paul Heerema
+    
+        AU - Marwan Shedid
+    
+        AU - Dimitrios Konstantinidis
+    
+        AU - Wael El-Dakhakhni
+    
+
+TI - System-Level Seismic Performance Assessment of an Asymmetrical Reinforced Concrete Block Shear Wall Building
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015047
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001298 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001298
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001298
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015047
+AB - In this study, a two-story reinforced concrete block scaled building was tested to failure under fully reversed quasi-static displacement-controlled loading. The building’s seismic force-resisting system (SFRS) consisted of eight structural walls in total, with four walls, aligned along the loading direction, placed asymmetrically to result in a center of rigidity eccentricity from the floor center of mass of approximately 20% of the building width, evaluated on the basis of elastic analysis. The other four orthogonal walls were placed symmetrically around the building floor center of mass to provide torsional restraints to the building. As such, the focus of the paper is on evaluating the influence of twist as a system-level aspect on the ductility capacity of the building and the ductility and strength demands of its wall components. This paper presents the details of the building SFRS and wall configurations and characteristics and the main test observations and results. This is followed by analyses of the experimental results that showed that, at the system level, each wall would be subjected to significantly different displacement/strength demands throughout the building’s loading history. These different demand levels are functions of the interaction between the system-level twist response and the resulting displacement demands imposed on each wall component and the subsequent load redistribution following different component damage. The study showed that the variation in the inelastic response characteristics of the different walls comprising the building’s SFRS and wall strength contributions to the overall building capacity and the subsequently mobilized ductility levels are all factors that should be considered when evaluating the overall building SFRS performance.
+
+
+    
+        AU - Bin Cheng
+    
+        AU - Jianlei Wang
+    
+        AU - Peng Shi
+    
+
+TI - Improving the Compression Behaviors of Perforated Plates with Slotted Holes Using Strengthening Stiffeners
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015048
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001276 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001276
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001276
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015048
+AB - This research focuses on the strengthening methods used for improving the compression behaviors of plates perforated by slotted holes, as provided in steel bridge pylons for the purposes of access and service. The rectangular plates that were investigated each have a centric slotted hole and are simply supported on four edges in the out-of-plane direction. Three types of strengthening stiffeners, ringed stiffener (RS), flat stiffener (FS), and longitudinal stiffener (LS), are considered. Uniaxial compression tests are first conducted for 41 specimens, of which seven are unstrengthened plates and 34 are strengthened plates. Stress concentrations, failure patterns, and elasto-plastic ultimate strengths are experimentally investigated. Finite element models are further developed to predict the ultimate strengths of plates with various dimensions. The FE results are validated by the test data. The influences of nondimensional parameters including plate aspect ratio, stiffener slenderness ratio, and stiffener thickness on ultimate strengths are revealed on the basis of numerous parametric studies. Comparisons in strengthening efficiencies of stiffeners are also made by considering stiffener weight. The simplified formulations used for predicting the compression strengths of strengthened plates are proposed. The net cross-sectional area–based strength, including stiffeners, is also recommended for the strength approximation in engineering applications.
+
+
+    
+        AU - Wei Li
+    
+        AU - Lin-Hai Han
+    
+        AU - Tak-Ming Chan
+    
+
+TI - Performance of Concrete-Filled Steel Tubes subjected to Eccentric Tension
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015049
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001304 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001304
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001304
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015049
+AB - Concrete-filled steel tubular (CFST) members have been used in various kinds of construction projects. They can be subjected to tension when they are used as chord members in trusses or subjected to combined tension and bending in building columns. However, to date research on the behavior of CFST members under eccentric tension is still limited. This paper thus presents both experimental and numerical investigations on the eccentrically loaded CFST tensile members. The experimental parameters include the eccentricity of the load and the steel ratio of the cross section. The failure modes show that the in-filled concrete works effectively with the steel tube, and the outer tube improves the crack pattern of the concrete. The finite-element (FE) model is also developed and validated by experimental results. The validated FE model is then used to assess the load and moment distributions as well as the load-moment interaction relationship. Finally, the load-carrying capacities of CFST members under eccentric tension are discussed.
+
+
+    
+        AU - Negar Elhami Khorasani
+    
+        AU - Paolo Gardoni
+    
+        AU - Maria Garlock
+    
+
+TI - Probabilistic Fire Analysis: Material Models and Evaluation of Steel Structural Members
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015050
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001285 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001285
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001285
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015050
+AB - This paper provides a methodology to perform probabilistic analysis of steel structural members under fire loading. As part of developing the methodology, probabilistic models are proposed for mechanical and thermal properties of steel and thermal properties of insulating materials. The two important mechanical properties of steel that significantly influence the results are (1)&nbsp;yield strength, and (2)&nbsp;modulus of elasticity. The models developed for thermal properties include specific heat, thermal conductivity, and thermal strain of steel; and density, thermal conductivity and specific heat for insulating materials. A Bayesian statistical approach is used to develop the proposed probabilistic models using the data available in the literature. The proposed probabilistic models are compared to the available deterministic models from codes and standards. After models are developed for temperature-dependent material properties, a procedure to perform probabilistic analysis of a steel member and an application of the developed models for material properties is explained. A probabilistic analysis of the member makes it possible to calculate the probability of failure and the cumulative distribution function for failure time of the member. The procedure is illustrated with a case study, where the probabilistic performance of a steel perimeter column is examined under thermal loading.
+
+
+    
+        AU - Thomas K. Thiis
+    
+        AU - Michael O’Rourke
+    
+
+TI - Model for Snow Loading on Gable Roofs
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015051
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001286 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001286
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001286
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015051
+AB - A particularly large database containing simultaneous measurements of roof and ground snow loads were analyzed for the purpose of establishing a simple empirical model for gable roof snow loads. Due to the nature of the database, the model was developed specifically for unheated structures with nonslippery roof surfaces. As such, it is expected to provide conservative load estimates for heated structures and structures with slippery roof surfaces. The model results are compared to corresponding provisions for balanced and unbalanced snow loads in various United States and European codes and load standards.
+
+
+    
+        AU - Giorgio Monti
+    
+        AU - Floriana Petrone
+    
+
+TI - Shear Resisting Mechanisms and Capacity Equations for Composite Truss Beams
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015052
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001266 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001266
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001266
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015052
+AB - This paper deals with the development of shear capacity equations for composite truss beams (CTBs). These equations are obtained from a purposely developed mechanics-based shear model. As opposed to commonly used approaches for the design of these structural elements, where the shear capacity is attained when the first pair of web steel bars yields, in this case the shear capacity is expressed as that causing n pairs of web steel bars to yield before concrete crushes. In this way, the performance of CTBs is maximized. Two different capacity equations are proposed: one, derived from an analytical method, explicitly takes into account the contribution of concrete to shear capacity, and the other, following most current codes, does not consider such contribution. The accuracy of the proposed capacity equations has been verified against the results of nonlinear analyses and experimental tests conceived and conducted to this aim. The comparison confirmed both the consistency of the proposed mechanical model with the experimental observations, and the capability of the capacity equations to predict the shear capacity of CTBs.
+
+
+    
+        AU - Jinrong Liu
+    
+        AU - Ying Tian
+    
+        AU - Sarah L. Orton
+    
+        AU - Aly M. Said
+    
+
+TI - Resistance of Flat-Plate Buildings against Progressive Collapse. I: Modeling of Slab-Column Connections
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015053
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001294 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001294
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001294
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015053
+AB - A macromodel for slab-column connections is created for use in the system-level progressive collapse analyses of reinforced concrete flat-plate structures. The proposed model jointly uses shell and connector elements to simulate the complex behavior of slabs. Shell elements are used to simulate the flexural response of slab and the load redistribution over floor slabs. The connector elements, which permit simulating separation of slab from column on a punching failure, are defined with nonlinear responses for primary bending moment and torsion. A deformation-based punching failure criterion is defined for connector elements to simulate the punching failure at a slab-column connection and failure propagation. Parameters defining concrete tension stiffening behavior under static loading, including the peak tensile stress and the tensile strain when stress degrades to zero, are calibrated from two experiments. To ensure applicability, the proposed model is validated by 24 large-scale tests conducted on isolated slab-column connection specimens subjected to concentric gravity loading, torsional loading, and uneven gravity loading.
+
+
+    
+        AU - Jinrong Liu
+    
+        AU - Ying Tian
+    
+        AU - Sarah L. Orton
+    
+
+TI - Resistance of Flat-Plate Buildings against Progressive Collapse. II: System Response
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015054
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001295 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001295
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001295
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015054
+AB - Using a macromodeling approach and alternate path method, dynamic and static analyses are performed to assess the progressive collapse resistance of a multistory reinforced concrete flat-plate building lacking structural integrity reinforcement in the slabs. Two loading scenarios, instantaneous removal of an exterior column and interior column, are considered. The dynamic analyses examine the potential of progressive collapse of the building, the dynamic demands on global and local nonlinear deformations, the effects of strain rate in materials, and the development of compressive membrane action. The effectiveness of an energy-based nonlinear static analysis procedure is examined for equivalently estimating the peak dynamic global and local responses caused by sudden column removal. The analyses indicate that older flat-plate buildings are vulnerable to progressive collapse; the combined effects from strain rate and compressive membrane action can significantly increase punching resistance; energy-based nonlinear static analysis can approximate the peak dynamic loading response especially for instantaneous exterior column removal.
+
+
+    
+        AU - R. Imani
+    
+        AU - G. Mosqueda
+    
+        AU - M. Bruneau
+    
+
+TI - Finite Element Simulation of Concrete-Filled Double-Skin Tube Columns Subjected to Postearthquake Fires
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015055
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001301 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001301
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001301
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015055
+AB - Detailed finite-element (FE) analyses were conducted using commercial software to simulate the behavior of concrete-filled double-skin tube (CFDST) columns subjected to postearthquake fires. The main goal of these simulations was to replicate results from a series of experiments that first subjected CFDST columns to different levels of seismic damage by applying cyclic lateral loading, and then fire testing of the same specimens in a furnace. The numerical simulations paralleled the experiments in the loading sequence. Different material models and modeling techniques were assessed in terms of reproducing experimental observations including local failure modes such as steel tube buckling. Results from the cyclic loading simulations including residual deformations were maintained as initial conditions for the subsequent thermal-stress analysis to simulate the fire testing phase of the experiments. A sequentially coupled nonlinear thermal-stress analysis was conducted on the models of CFDST columns to study the effects of exposure to a standard fire (time-temperature) curve. Numerical simulations using material properties adopted from European general rules for structural fire design provided a reasonable comparison to experimental results for both during and postfire situations.
+
+
+    
+        AU - Hong-Gun Park
+    
+        AU - Ho-Jun Lee
+    
+        AU - In-Rak Choi
+    
+        AU - Sung-Bae Kim
+    
+        AU - Sung-Soon Park
+    
+
+TI - Concrete-Filled Steel Tube Columns Encased with Thin Precast Concrete
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015056
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001303 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001303
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001303
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015056
+AB - An experimental study was performed to investigate the axial-flexural load-carrying capacity of concrete-filled steel tube columns encased with thin precast concrete (PC). Six eccentrically loaded columns and one concentrically loaded column were tested. To prevent the premature failure of the concrete encasement, various reinforcement details such as studs, steel fiber, welded wire mesh, and cross ties were used. The maximum axial loads of the specimens agreed with the strengths predicted by current design codes, although in some specimens, the load-carrying capacity decreased immediately after the peak strength owing to early spalling of the concrete encasement. On the basis of the test results, the use of fiber-reinforced concrete is recommended to increase the ductility of columns by restraining the spalling of the concrete encasement.
+
+
+    
+        AU - Jinwon Shin
+    
+        AU - Andrew S. Whittaker
+    
+        AU - David Cormie
+    
+
+TI - Incident and Normally Reflected Overpressure and Impulse for Detonations of Spherical High Explosives in Free Air
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015057
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001305 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001305
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001305
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015057
+AB - Air-blast parameters, including incident and reflected peak overpressures and impulses, and shock-front arrival times, are typically estimated for protective design using charts developed by Kingery and Bulmash. The charts underpredict incident and normally reflected peak overpressures and incident impulse near the face of the charge. Numerical analyses of detonations of spherical charges of trinitrotoluene in free air are performed using a verified and validated computational fluid dynamics (CFD) code to understand the shortcomings of current approaches for calculating incident and normally reflected overpressures and impulses, and for shock-front arrival time. New equations and design charts are proposed based on CFD calculations.
+
+
+    
+        AU - Trevor D. Hrynyk
+    
+        AU - Frank J. Vecchio
+    
+
+TI - Capturing Out-of-Plane Shear Failures in the Analysis of Reinforced Concrete Shells
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015058
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001311 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001311
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001311
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015058
+AB - A procedure for nonlinear analysis of RC slabs and shell structures is presented. Cracked RC is treated as an orthotropic material governed by a smeared rotating crack procedure and the constitutive formulations of the disturbed stress field model. The analysis procedure is implemented within the framework of a finite-element program employing layered thick-shell elements that consider out-of-plane (through-thickness) shear deformations. A simple modification method employing an effective shear strain concept is introduced to improve the out-of-plane performance of the layered shell element for RC applications. The adequacy of the procedure is verified using test data of RC members controlled by out-of-plane shear failure mechanisms and elements under combined in-plane and out-of-plane loading scenarios. The nonlinear finite-element program is shown to be suitable for elements exhibiting ductile or brittle responses, and the shear modification method introduced is found to be capable of capturing out-of-plane shear failures.
+
+
+    
+        AU - Weian Liu
+    
+        AU - Tara C. Hutchinson
+    
+        AU - Andreas G. Gavras
+    
+        AU - Bruce L. Kutter
+    
+        AU - Manouchehr Hakhamaneshi
+    
+
+TI - Seismic Behavior of Frame-Wall-Rocking Foundation Systems. I: Test Program and Slow Cyclic Results
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015059
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001264 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001264
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001264
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015059
+AB - The mechanism of foundation rocking has received much attention recently due to its appealing seismic resistant features, namely, self-centering tendency and energy dissipation capability. It is well recognized, however, that other inelastic mechanisms will contribute to a system’s seismic resistance. Considering the strength difference between a rocking footing and a shear wall structural fuse, and the system symmetry, six different two-story-two-bay frame-wall-foundation building models were constructed and tested in a geotechnical centrifuge. In this paper, the test program and experimental results when the models were subjected to slow cyclic loading are presented. A companion paper presents results from the dynamic phase of testing. Results indicate that, with the aid of foundation rocking, the system behaves in a ductile and stable manner with no strength degradation, even when the model is pushed to a drift of more than 2.5%. Importantly, when structural and foundation component strengths are approximately equal, the hysteretic energy is reasonably distributed among the superstructure inelastic components and the rocking foundations. Finally, numerical analyses predictions demonstrate comparable local and global response to measurements obtained during the experiments.
+
+
+    
+        AU - Weian Liu
+    
+        AU - Tara C. Hutchinson
+    
+        AU - Andreas G. Gavras
+    
+        AU - Bruce L. Kutter
+    
+        AU - Manouchehr Hakhamaneshi
+    
+
+TI - Seismic Behavior of Frame-Wall-Rocking Foundation Systems. II: Dynamic Test Phase
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015060
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001313 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001313
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001313
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015060
+AB - This paper presents the earthquake response of three low-rise frame-wall-foundation centrifuge building models, including a structural hinging-dominated, foundation rocking-dominated, and balanced design model. The models were designed such that the capacities of the dominant inelastic elements varied; however, each was subjected to a similar sequence of earthquake shaking in a 30-g centrifuge environment to facilitate comparison. Experimental results reveal that the traditional frame-wall building with a strong foundation (i.e.,&nbsp;a hinging-dominated system) has the least potential to recover from displacements induced during earthquake shaking. As a result, this system suffered the most significant residual deformation. In contrast, systems with rocking foundations sustained a smaller peak roof acceleration, residual drift, and peak base shear despite the relatively larger peak transient drift demand. Consistent with slow cyclic test results, dissipated hysteretic energy was reasonably distributed amongst superstructure and substructure inelastic components in the balanced model during moderate and high intensity shaking.
+
+
+    
+        AU - Radek Hajek
+    
+        AU - Marek Foglar
+    
+
+TI - Numerical and Experimental Analysis of the Effect of Rigid Barriers on Blast Wave Propagation
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015061
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001308 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001308
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001308
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015061
+AB - Many terrorist attacks have been carried out in recent years, such as in Oslo, Norway (2011), and more recently in Boston, Massachusetts, and in Volgograd, Russia (both 2013). Terrorist attacks target primarily public facilities, such as railway stations, government buildings, embassies, and the transport infrastructure. Research on the effect of blast loading on structures and interiors has gained considerable attention. Although there are many types of terrorist attacks, this paper focuses specifically on bomb attacks. Two different types of bomb attacks can be distinguished. In Oslo and Boston, the explosion occurred in an open space. In Volgograd, the explosion occurred inside a confined space. This paper primarily focuses on the type of bombing observed in Volgograd by presenting reduced-scale experiments on the effect of rigid barriers on blast wave propagation in the confined space of a railway station. The experimental data set was used for calibrating numerical finite-element models for use in predicting pressure-wave propagation. Very good agreement has been achieved between the experimental results and the numerical model results. The experimental results and also the numerical modeling results showed no significant effect of solid rectangular barriers in reducing the peak overpressure of the air shock wave in the area behind the barriers. Although the results indicate some effect on lowering the peak overpressure, this is limited to the area directly behind the barrier. At a greater distance, the effect diminishes rapidly and the pressure wave reverts to almost its original strength. In front of the barriers, the overpressure is increased, because the shock wave is reflected by the rigid barrier surface. The main benefit of such barriers would be that they absorb potentially harmful flying debris carried by the blast winds.
+
+
+    
+        AU - M. Campidelli
+    
+        AU - M. J. Tait
+    
+        AU - W. W. El-Dakhakhni
+    
+        AU - W. Mekky
+    
+
+TI - Inference of Blast Wavefront Parameter Uncertainty for Probabilistic Risk Assessment
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015062
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001299 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001299
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001299
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015062
+AB - Probabilistic risk assessment methodologies are typically employed to optimize resource allocations for blast risk mitigation schemes, which may be necessary for the design of new blast resistant facilities as well as the hardening of existing construction. A key aspect of any blast risk assessment methodology is the quantification of uncertainty inherent in the prediction of shock wave parameters. In this study, a blast pressure database that was generated from arena testing using live explosives is used to infer the probability distributions that best represent the model error affecting the prediction of four key wavefront parameters, namely: the peak pressure, specific impulse, duration, and waveform coefficient of the positive pressure phase. Confidence intervals are given for the descriptors of each distribution and their percentiles. In addition, two sets of partial factors are developed for the blast-resistant design of structures requiring high level of protection (LOP) based on a simplified reliability approach. Two recent North American standards addressing the design of buildings subjected to blast loads recommend load combinations in which a partial load factor of 1.0 is applied to blast induced actions. Although this approach aligns with the current design practice followed in the case of rare events (e.g.,&nbsp;earthquakes), it may not be applicable in the case of blast loads as a result of the degree of uncertainty present even when a design basis threat is quantified. To account for this uncertainty, partial factors for the major wavefront parameters of the reflected shock wavefront are presented.
+
+
+    
+        AU - Phe Van Pham
+    
+        AU - Magdi Mohareb
+    
+
+TI - Nonshear Deformable Theory for Analysis of Steel Beams Reinforced with GFRP Plate Closed-Form Solution
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015063
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001312 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001312
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001312
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015063
+AB - The present study complements recent published work by developing a general closed-form solution for the analysis of steel beams reinforced with glass-fiber-reinforced plastic (GFRP) plates under general loading and boundary conditions. Comparisons against three-dimensional (3D) finite-element (FE) solutions indicate that the solution accurately captures the transverse-longitudinal and predominantly lateral responses. For predominantly torsional responses, the solution is shown to provide good predictions when the shear modulus of the adhesive layer is weak. For cases where the shear modulus is stiff, the present theory is found to lead to an overly stiff response. Careful examination of strain profiles as predicted by the 3D FE analyses provides valuable insight on the reason for the overly stiff behavior in such cases and shows the necessity of incorporating transverse shear deformation effects into the formulation.
+
+
+    
+        AU - Tuan Ngo
+    
+        AU - Chao Ding
+    
+        AU - Raymond Lumantarna
+    
+        AU - Abdallah Ghazlan
+    
+        AU - Marc Zobec
+    
+
+TI - Structural Performance of Double-Skin Façade Systems Subjected to Blast Pressures
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015064
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001317 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001317
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001317
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015064
+AB - The main function of a building façade system is to provide comfort and protection to interior building spaces. In a blast event, façade components become the weakest part of a building and the blast-induced shock wave may breach the facade and injure building occupants due to flying debris. There is increasing popularity in the use of double-skin façade systems (DSFSs) in modern façade construction because of their energy efficiency advantages. In addition to their improved energy performance, DSFSs can increase the blast-resistant capacity of a building. However, due to the complex structural interactions between DSFSs and blast-pressure waves, there is a lack of design codes that account for the performance of DSFSs under blast loading. This paper reports on an experimental program of analogical DSFSs that consist of steel panels as opposed to glass panels, subjected to a 250&nbsp;kg equivalent TNT charge weight at a stand-off distance of 52&nbsp;m (250&nbsp;kg @ 52&nbsp;m). Three different DSFS compartments with varying ventilation areas were tested. Numerical analyses of the structural responses of a DSFS were then conducted based on the pressures recorded in the experiment. A comparative study was conducted on the blast performance of glass panels, based on the design procedures of current standards and numerical techniques. It was found that the current standards for double-glazed insulating glass (IG) units greatly overestimated the blast performance of DSFSs by simplifying the load-sharing factors. This paper further identifies the critical parameters of DSFSs when assessing their responses to blast pressures.
+
+
+    
+        AU - Guoqing Huang
+    
+        AU - Hua He
+    
+        AU - Kishor C. Mehta
+    
+        AU - Xiaobo Liu
+    
+
+TI - Data-Based Probabilistic Damage Estimation for Asphalt Shingle Roofing
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015065
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001300 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001300
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001300
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015065
+AB - Asphalt shingles on residential building roofs are susceptible to damage, and often blow off, during windstorms. The loss of shingles can also result in damage to the content in the interior of a residence by allowing the penetration of rain. This paper presents the data-based probabilistic damage estimation procedure to predict wind-induced damage on asphalt shingle roofing, using wind pressure data from wind tunnel testing. First, the probability distribution of peak wind pressure over a certain period for pressure data associated with each measurement tap is estimated. Then, the failure probability of the shingle associated with each tap and the damage ratio for the entire roofing shall be determined. Finally, a neural network is adopted to predict the wind-induced damage ratio for asphalt roof shingles considering multiple contributing factors such as wind speed, wind angle of attack, building sizes, roof slope, and terrain roughness.
+
+
+    
+        AU - S. T. Ke
+    
+        AU - Y. J. Ge
+    
+        AU - L. Zhao
+    
+        AU - Y. Tamura
+    
+
+TI - Stability and Reinforcement Analysis of Superlarge Exhaust Cooling Towers Based on a Wind Tunnel Test
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015066
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001309 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001309
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001309
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015066
+AB - The rigid pressure measurement and aero–elastic vibration measurement were performed to the largest exhaust cooling tower in Asia. Through analyses, the surface wind pressure distribution, multitower proportional coefficient, and wind-induced vibration coefficient of the exhaust cooling towers from the most unfavorable wind direction were obtained. On this basis, finite-element software and self-made repreprocessing and postprocessing programs were employed to analyze the ultimate load-carrying capacity and overall and local stabilities of exhaust cooling tower in three conditions, which include (1)&nbsp;no opening, (2)&nbsp;opening without strengthening, and (3)&nbsp;opening with different strengthening schemes, then the ultimate load-carrying capacity of exhaust cooling tower during construction under different load combinations was also analyzed. For cooling tower with opening, obvious stress aggregation was found near the opening, and the minimum safety factor for local stability of the tower throat area was 4.27. An effective strengthening scheme was proposed for such problem, e.g.,&nbsp;the stress aggregation and local instability near the opening were effectively eliminated, and the critical wind speed for overall destabilization of exhaust cooling tower was increased. During the construction of exhaust cooling tower, as the constructed height increases, the critical wind speed for overall destabilization gradually decreases. When 100 template layers are constructed, the critical wind speed is 119.4  m/s, which is much higher than the designed wind speed of 49.0  m/s; and when the most unfavorable wind speed for destabilization was applied as regulated wind pressure, the wind speed for overall buckling destabilization is 69.1  m/s. With the consideration of internal suction, the critical wind speed for destabilization decreases by about 30%. In this paper, some useful conclusions can be used for reference in wind-resistant design of superlarge exhaust cooling towers.
+
+
+    
+        AU - Poureya Bazargani
+    
+        AU - Perry Adebar
+    
+
+TI - Interstory Drifts from Shear Strains at Base of High-Rise Concrete Shear Walls
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015067
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001306 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001306
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001306
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015067
+AB - Shear strains may have negligible influence on maximum displacements at the top of slender shear walls, but may significantly increase interstory drift ratios at lower levels where gravity-load columns are often less flexible. A nonlinear finite-element (FE) model calibrated with experimental results confirmed that large shear strains occur in flexural tension regions of concrete walls due to vertical tension strains in the presence of diagonal cracks and in the absence of demand on the horizontal shear reinforcement. A fan of diagonal cracks will form at the base of flexurally hinging walls independent of the shear stress level. A parametric study confirmed that a principal strain angle of 75° can be used to estimate shear strains from vertical tension strains. Thus interstory drift ratios due to shear strains can be estimated from the easily calculated flexural demands. A simple and safe estimate of interstory drift ratio due to shear strains is 60% of the global drift ratio. Interstory drift ratios from shear strains up to 0.8% have been measured in slender wall tests.
+
+
+    
+        AU - A. Deifalla
+    
+
+TI - Torsional Behavior of Rectangular and Flanged Concrete Beams with FRP Reinforcements
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015068
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001322 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001322
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001322
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015068
+AB - The demand for sustainable future infrastructures calls for new and innovative alternatives to avoid the problems associated with the conventional methods of construction. Fiber-reinforced polymer (FRP) bars have superior properties over conventional steel, mainly being noncorrosive. The objective of this study is to propose a model for predicting the full torsional behavior of concrete beams with the following: (1)&nbsp;carbon (C) or glass (G) FRP reinforcements, (2)&nbsp;different cross section shapes, and (3)&nbsp;adhesively bonded FRP stirrups or bent FRP stirrups. A brief recount of the findings from previous works is presented. Two previous models were adapted, and several new features were added to them, including but not limited to (1)&nbsp;recommending appropriate constitutive models for both the FRP and the concrete and (2)&nbsp;proposing failure criteria based on the experimentally observed failure modes. In addition, the first model was extended from an original strength model to a full behavior model (modified Collins). Moreover, the ability to analyze unsymmetrical beams with FRP reinforcements under torsion was added to the second model (modified Deifalla). The modified Deifalla model showed a slightly better agreement with the experimental results compared with the modified Collins model. In addition, modified Deifalla was capable of calculating the transversal strain at different faces of the cross section with a reasonable agreement compared to the experimentally observed ones. However, the modified Collins model was simpler than the modified Deifalla model. Further experimental data are needed before these findings can be generalized and refined.
+
+
+    
+        AU - Alexander W. Lamb
+    
+        AU - Christopher D. Eamon
+    
+
+TI - Load Height and Moment Factors for Doubly Symmetric Wide Flange Beams
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015069
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001332 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001332
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001332
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015069
+AB - An analytical procedure is used to study the effects of moment gradient and load height on the elastic stability of wide flange steel beams. Lateral torsional buckling is the limit state considered. Solutions are developed for a series of general moment functions which are produced by continuous load types with possible end moments. For each load type, an equivalent uniform moment factor is developed. Additionally, a load height factor is developed to modify the equivalent uniform moment factor for these load types where loading is applied above the shear center. Solutions are processed numerically using a Taylor series polynomial approximation. Results are presented in terms of an equivalent uniform moment factor and a load height factor. Comparison with national code procedures for moment factor show discrepancies that are conservative in some circumstances by up to 51% and unconservative in others by up to 8%. The largest discrepancies occur under the effect of reverse curvature bending and load position above the shear center. Results for load position show that members loaded above their shear center are more susceptible to lateral torsional buckling than those loaded at their shear center. Some design examples are presented using the load height factors developed.
+
+
+    
+        AU - Amir Arablouei
+    
+        AU - Venkatesh Kodur
+    
+
+TI - Critical Factors Governing Crack Propagation at the Interface of Fire Insulation and Slender Steel Trusses
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015070
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001324 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001324
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001324
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015070
+AB - This article presents a numerical approach in which the implicit finite element method and fracture mechanics concepts are applied to simulate crack propagation at the interface of fire insulation and truss members in steel framed buildings. An intrinsic cohesive zone model (CZM) in conjunction with contact interaction analysis is applied to model the progression of fracture at the interface of fire insulation and slender steel truss members. Experimentally determined cohesive zone properties are utilized to simulate the progressive delamination in three types of commercially available spray-applied fire-resistive material (SFRM) applied on a truss chord. The numerical model, which is initially validated against the previously conducted fracture experiments, is employed to perform a sensitivity analysis with respect to CZM parameters, SFRM elastic modulus, and thickness of SFRM. Results obtained from a sensitivity study are subsequently utilized to define a delamination characteristic parameter (dch) that could represent the interdependency among the influencing factors, namely elastic modulus, thickness, fracture energy, and displacement ductility over the cohesive zone. Further, the strain ductility demand in steel, at which delamination of SFRM is initiated and subsequently gets completely detached, is quantified and related to dch. Results from analysis show that there is a power-law relationship between dch and strain ductility demand of steel at the onset of delamination and complete detachment. For instance, by increasing the dch value from 0.2 to 2, the strain ductility demand of steel at the onset of delamination dramatically reduces from 18 to 6; however, beyond a dch value of 2, a steady trend is noticed.
+
+
+    
+        AU - Ruo-qiang Feng
+    
+        AU - Jihong Ye
+    
+        AU - Baochen Zhu
+    
+
+TI - Behavior of Bolted Joints of Cable-Braced Grid Shells
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015071
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001320 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001320
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001320
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015071
+AB - The type of joint used is important with respect to the behavior of grid shells. Prototype static experiments and numerical analyses were conducted to study the mechanical behaviors of a new type of joint: bolted joints of cable-braced grid shells. The actions of the bending moment, the shear force, and the axial force were all considered in static experiments and numerical analyses of the bolted joints of cable-braced grid shells. To evaluate the in-plane and out-of-plane bending stiffness and the strength of the bolted joints, the behaviors of the bolted joints were compared with those of rigid joints. The main conclusions are as follows. First, the failure of bolted joints results from either buckling at the end of the tube or fracturing of the bolts. The failure of rigid joints results from buckling at the end of the tube. The failure of bolted joints without steel shims results from the fracturing of the bolts. Second, bolted joints can be considered to be out-of-plane, semirigid joints and in-plane, pinned joints. The use of steel shims greatly improved the static behavior of the bolted joints, and the shims changed the transferring path of the axial force on the bolted joints.
+
+
+    
+        AU - Quanwang Li
+    
+        AU - Cao Wang
+    
+
+TI - Updating the Assessment of Resistance and Reliability of Existing Aging Bridges with Prior Service Loads
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 04015072
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001331 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001331
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001331
+SO - Journal of Structural Engineering 2015-12-01 141(12): 04015072
+AB - The successful past performance of an existing bridge is evidence of its resistance, which reduces the uncertainty associated with the resistance and so increases the bridge reliability. However, the resistance deterioration and increases in traffic load may negate this effect. In this paper, statistical techniques are used to combine the prior estimate of time-dependent resistance with new information from the service load history, thereby obtaining an updated estimate of bridge resistance, as well as an updated reliability for subsequent years. The application of the method is illustrated using an existing bridge. The influences of the intensity and nonstationarity of service load history and the shape and variance of deterioration function on updated estimates of bridge resistance and reliability are examined using parametric examples. It is found that the updated resistance of an existing bridge with ever-increasing traffic load is close to that of the same bridge with a stationary traffic load process if the load intensities at the latest stage of the two-load process are identical; however, the updated reliability of the bridge is greatly reduced considering the increase of traffic load with time. The statistics of the deterioration function has a significant effect on both the updated resistance and reliability of the bridge, while the shape of the deterioration function has a significant effect on the updated reliability only. The estimate of initial bridge resistance can also be updated by the proposed method, but the updating effect is insignificant compared with the updating of current resistance.
+
+
+    
+        AU - Hakan Yalciner
+    
+        AU - Serhan Sensoy
+    
+        AU - Ozgur Eren
+    
+
+TI - Seismic Performance Assessment of a Corroded 50-Year-Old Reinforced Concrete Building
+PT - Journal Article
+DP - 2015
+TA - Journal of Structural Engineering
+PG - 05015001
+VI - 141
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0001263 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001263
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0001263
+SO - Journal of Structural Engineering 2015-12-01 141(12): 05015001
+AB - Deterioration due to corrosion becomes a more serious problem when future earthquakes with unpredicted intensity and time are considered. Therefore, the prediction of performance levels of corroded reinforced concrete structures is important to prevent serious premature damage. In this study, a corroded, 50-year-old high school building was analyzed by considering corrosion effects and is presented here as a case study. The relevant data obtained from the structure were used to predict its performance level for different time periods by combining two major effects of corrosion. Deformation due to bond-slip relationships and loss in cross-sectional areas of reinforcement bars were examined as a function of corrosion rate for five corrosion levels. Plastic hinges were defined as a consequence of corrosion effects, and they were used to perform nonlinear push-over analyses. Incremental dynamic analysis was then performed for 20 individual earthquake ground motion records to predict the structure’s time-dependent performance levels as a function of corrosion rate. Results showed that corrosion had a serious effect on the performance levels of the school building considered in this study by decreasing bond strength.
+
+

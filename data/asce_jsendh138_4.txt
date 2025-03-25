@@ -1,0 +1,184 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Lip H. Teh
+    
+        AU - Drew D. A. Clements
+    
+
+TI - Block Shear Capacity of Bolted Connections in Cold-Reduced Steel Sheets
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 459-467
+VI - 138
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000478 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000478
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000478
+SO - Journal of Structural Engineering 2012-04-01 138(4): 459-467
+AB - This paper examines the mechanisms for block shear failures of bolted connections in steel plates postulated in the design equations specified in the North American, European, and Australian steel structures codes. It explains that there is only one feasible mechanism for the limit state of conventional block shear failure, that which involves tensile rupture and shear yielding, regardless of the steel material ductility. It describes the fundamental shortcomings of various code equations for determining the block shear capacity of a bolted connection. Based on the tensile rupture and shear yielding mechanism, an in-plane shear lag factor, and the active shear resistance planes identified in the present work, this paper proposes a rational equation that is demonstrated to provide more accurate results than all the code equations in predicting the block shear capacities of bolted connections in G450 steel sheets subjected to concentric loading. The resistance factor of 0.8 for the proposed equation is computed with respect to the LRFD approach given in the North American specification for the design of cold-formed steel structures.
+
+
+    
+        AU - Yared Shifferaw
+    
+        AU - B. W. Schafer
+    
+
+TI - Inelastic Bending Capacity of Cold-Formed Steel Members
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 468-480
+VI - 138
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000469 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000469
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000469
+SO - Journal of Structural Engineering 2012-04-01 138(4): 468-480
+AB - The objective of this paper is to provide and verify a general design method for prediction of inelastic bending capacity in cold-formed steel members potentially subject to local, distortional, and/or lateral-torsional buckling modes. An extensive experimental database of tested cold-formed steel beams is collected and indicates that inelastic reserve in the bending capacity of thin-walled cold-formed steel members is more common than typically assumed. Elementary mechanics for inelastic reserve are reviewed and simplified expressions provided for connecting the strain demand to the inelastic bending capacity in the range between the yield moment and the fully plastic moment. The strain capacity that can be sustained in inelastic local and inelastic distortional buckling is investigated through existing experiments coupled with nonlinear finite-element (FE) analysis. The nonlinear FE models provide a comprehensive means to investigate the relationship between cross-section slenderness, normalized strain capacity, and the resulting bending strength. A design approach for inelastic lateral-torsional buckling is provided on the basis of the hot-rolled steel AISC Specification. The resulting relationships for inelastic local, distortional, and lateral-torsional buckling are provided in a Direct Strength Method format for potential adoption in the cold-formed steel American Iron and Steel Institute (AISI) Specification. The provided design method is assessed against available data and shown to be a reliable predictor of inelastic bending capacity in cold-formed steel members.
+
+
+    
+        AU - G. P. Cimellaro
+    
+        AU - S. Piantà
+    
+        AU - A. De Stefano
+    
+
+TI - Output-Only Modal Identification of Ancient L’Aquila City Hall and Civic Tower
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 481-491
+VI - 138
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000494 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000494
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000494
+SO - Journal of Structural Engineering 2012-04-01 138(4): 481-491
+AB - The ancient masonry city hall in L’Aquila, Italy (Margherita Palace) that was severely damaged during the L’Aquila earthquake in April 2009 has been subjected to ambient vibration tests to determine its dynamic characteristics such as the natural frequencies, mode shapes, and damping ratios. The processing of ambient vibration responses is performed with three output-only identification approaches: (1)&nbsp;the frequency-domain decomposition, (2)&nbsp; random decrement (RD) technique combined with the eigensystem realization algorithm (ERA), and (3)&nbsp;the natural excitation technique (NExT) combined with ERA. Measurements were made in the palace and in the civic tower using 15&nbsp;sensors in three different configurations, and the ambient vibration tests involved the simultaneous measurements of longitudinal and lateral vibrations. Lateral vibration modes for the civic tower were identified clearly; a total of five modal shapes and frequencies were identified in the frequency range 0 to 7&nbsp;Hz. The modal identification in the palace was more difficult because of the severe damage; however, the two bending modes in the perpendicular directions were identified. The comparison of the three experimental techniques shows good agreement, confirming the reliability of the three identification methods. The results of the modal identification have been used to update the finite-element model of the palace.
+
+
+    
+        AU - John W. van de Lindt
+    
+        AU - Shiling Pei
+    
+        AU - Weichiang Pang
+    
+        AU - Seyed Masood Hassanzadeh Shirazi
+    
+
+TI - Collapse Testing and Analysis of a Light-Frame Wood Garage Wall
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 492-501
+VI - 138
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000472 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000472
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000472
+SO - Journal of Structural Engineering 2012-04-01 138(4): 492-501
+AB - Light-frame wood (woodframe) buildings have been tested at full-scale sparingly around the world, primarily due to the cost associated with such testing and a general lack of facilities large enough to test at system level. The data from the tests that have been performed are used to help develop nonlinear time history analysis models that can predict the behavior of woodframe buildings during strong ground shaking. It is difficult to test buildings to the point of collapse because such tests can damage costly test equipment, i.e.,&nbsp;the shake table. This paper presents the results of a dynamic collapse test on a light-frame wood garage wall and the results of a numerical model to simulate the wall behavior all the way to the collapse point. The tested wall was heavily damaged as a result of subjecting it to a ground motion recorded during the 1995 Kobe earthquake. Then, 85% of a near-fault ground motion recording from the Northridge earthquake was used, which immediately collapsed the test specimen. A specialized wood shear wall analysis program, formulated using a corotational formulation and large deformation theory, was utilized to model the garage wall. The numerical model provided a good prediction (predicted the peak wall displacements to within 15% of the measured values), but as a direct result of the observed failure mechanism of the wall, it was determined that additional contact elements were needed in the model. Failure was observed at the sill plate of the garage wall returns and also in the sheathing due to a moment failure where the header connected to the wall returns. Finally, it was observed that variability in the stiffness of the hold-down connections has a significant influence on the uplift predictions.
+
+
+    
+        AU - S. Ali Ghafari Oskoei
+    
+        AU - Ghyslaine McClure
+    
+
+TI - New Robust Linearized Seismic Analysis Method For Tall Guyed Telecommunication Masts
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 502-513
+VI - 138
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000470 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000470
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000470
+SO - Journal of Structural Engineering 2012-04-01 138(4): 502-513
+AB - Design of tall telecommunication masts is usually governed by serviceability criteria under high wind conditions, typically combined with icing in cold climates. However, there is a need for seismic design checks for guyed masts constructed in zones with moderate to high seismicity, as is routinely prescribed for buildings in modern codes. There have been few efforts towards proposing a robust simplified method of general applicability for the seismic analysis of tall masts. These structures can be represented by the simple concept of a continuous beam-column (the lattice mast) on nonlinear elastic supports (the guy cable clusters at various stay levels). In this study, the guy cables are replaced by equivalent linear lumped parameters (stiffness, mass, and viscous damping) and the effects of their interaction with the mast stiffness and inertia on the structural characteristics are discussed. The approach was tested with nine case studies of real telecommunication masts subjected to five different seismic inputs and further validated with more analysis for two selected masts under the effects of 81 recorded Californian earthquakes.
+
+
+    
+        AU - K. T. Tse
+    
+        AU - K. C. S. Kwok
+    
+        AU - Yukio Tamura
+    
+
+TI - Performance and Cost Evaluation of a Smart Tuned Mass Damper for Suppressing Wind-Induced Lateral-Torsional Motion of Tall Structures
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 514-525
+VI - 138
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000486 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000486
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000486
+SO - Journal of Structural Engineering 2012-04-01 138(4): 514-525
+AB - The implementation of a vibration control system has always been associated with considerable capital and long-standing maintenance costs, resulting in limited practical applications of damping devices. The notion of a massive implementation cost is largely the result of a lack of cost analysis of vibration control systems in the literature. This paper presents the structural design of a wind-sensitive tall building at various design stages and the results of a collaborative study with two damper construction companies on the cost estimation of a control device. A series of wind tunnel pressure tests were conducted on a 1∶400 scale model to determine the translational and torsional wind forces acting on the studied building. A structural optimization was subsequently employed to reduce the excessive top deflection, and a smart tuned mass damper was implemented at the final design stage to meet occupant comfort criteria. The details of each structural design stage, the implementation of vibration control devices, and a collaborative study on damper cost are outlined in this paper.
+
+
+    
+        AU - Gregory A. Kopp
+    
+        AU - Eri Gavanski
+    
+
+TI - Effects of Pressure Equalization on the Performance of Residential Wall Systems under Extreme Wind Loads
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 526-538
+VI - 138
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000476 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000476
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000476
+SO - Journal of Structural Engineering 2012-04-01 138(4): 526-538
+AB - During strong windstorms, sheathing and siding on residential, wood-framed, wall systems have commonly failed. In the current study, a clear difference is observed in the rate of failure occurrence for wall sheathing above or below the eaves. This observation can be explained from tests examining ultimate capacities and pressure equalization of both single- and multilayer residential, wood-framed, wall systems using realistic fluctuating loads. The results indicate that pressure equalization is a critical parameter in the performance of both the cladding and exterior sheathing. With interior sheathing included, significant pressure equalization was observed to occur across the exterior sheathing, because pressure equalization is observed to increase with load (and damage) levels. This substantially increases the ultimate capacity of these wall systems; however, the construction details of the various exterior layers play an important role in the levels of pressure equalization across each layer.
+
+
+    
+        AU - L. Rhode-Barbarigos
+    
+        AU - C. Schulin
+    
+        AU - N. Bel Hadj Ali
+    
+        AU - R. Motro
+    
+        AU - I. F. C. Smith
+    
+
+TI - Mechanism-Based Approach for the Deployment of a Tensegrity-Ring Module
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 539-548
+VI - 138
+IP - 4
+AID - 10.1061/(ASCE)ST.1943-541X.0000491 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000491
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000491
+SO - Journal of Structural Engineering 2012-04-01 138(4): 539-548
+AB - Tensegrity structures are spatial systems composed of tension and compression components in a self-equilibrated prestress stable state. Although the concept is over 60 years old, few tensegrity-based structures have been used for engineering purposes. Tensegrity-ring modules are deployable modules composed of a single strut circuit that, when combined, create a hollow rope. The “hollow-rope” concept was shown to be a viable system for a tensegrity footbridge. This paper focuses on the deployment of pentagonal ring modules for a deployable footbridge application. The deployment sequence of a module is controlled by adjusting cable lengths (cable actuation). The geometric study of the deployment for a single module identified the path space allowing deployment without strut contact. Additionally, a deployment path that reduces the number of actuated cables was found. The number of actuated cables is further reduced by employing continuous cables. A first-generation prototype was used to verify both findings experimentally. The structural response during both unfolding and folding is studied numerically using the dynamic relaxation method. The deployment-analysis algorithm applies cable-length changes first to create finite mechanisms allowing deployment and then to find new equilibrium configurations. Therefore, the actuation-step size is identified as the most critical parameter for a successful deployment analysis. Finally, it is shown that the deployability of the footbridge does not affect its element sizing because stresses during deployment are lower than in-service values.
+
+

@@ -1,0 +1,564 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Salam Al-Rubaye
+    
+        AU - Marc Maguire
+    
+        AU - Brennan Bean
+    
+
+TI - Design Ground Snow Loads: Historical Perspective and State of the Art
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 03122001
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003339 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003339
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003339
+SO - Journal of Structural Engineering 2022-06-01 148(6): 03122001
+AB - This paper reviews the development of snow load research since the contemporary introduction and calibration of the ANSI A58-1982 provisions (and subsequent ASCE 7-88). The ASCE 77-88 ground snow loads were based on the data and methods available at the time and subsequently updated in 1995. The provided loads are based on 50-year mean recurrence intervals, with design loads for each category being obtained through a combination of partial safety and importance factors. Changes and improvements in snow load design over the last 40&nbsp;year necessitate a reconsideration of the original calibration of these safety and importance factors. This paper discusses the need for a movement away from a uniform-hazard snow load design approach in combination with uniform load and importance factors, in favor of reliability-targeted design snow loads. This paper reviews the concept of reliability targeted loads as a means of meeting the ASCE 7 goal of uniform risk/reliability in the US. This paper further describes the incremental changes in both reliability and snow load research that will culminate in a change from uniform hazard (i.e. 50-year) loads to uniform-reliability loads. The purpose of this paper is to describe the motivation for, and historical context of E 7, the forthcoming changes to design ground snow loads in ASCE 7-22. Furthermore, the paper discusses the future of snow load prediction and its impact on the engineer and the code, particularly in regards to the implications of climate change for future snow load design.
+
+
+    
+        AU - Zuopeng Wen
+    
+        AU - Haiwei Xu
+    
+        AU - Wenjuan Lou
+    
+
+TI - Galloping Stability Criterion for a 3-DOF System Considering Aerodynamic Stiffness and Inertial Coupling
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022048
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003328 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003328
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003328
+SO - Journal of Structural Engineering 2022-06-01 148(6): 04022048
+AB - Inertial coupling and aerodynamic stiffness play important roles in the prediction of galloping stability but have rarely been considered in previous studies. By considering both factors together, a galloping stability criterion framework for a three-degree-of-freedom (3-DOF) system with various translational and torsional frequency combinations was established based on quasi-steady theory. For a system with discrete frequencies, analytical solutions of eigenvalue real parts were derived using a step-by-step perturbation method. A perturbation method based on repeated eigenvalues was used to solve a system with two close translational frequencies and the corresponding analytical solution. When a system had tuned 3-DOF frequencies, an alternative galloping stability criterion considering the influence of aerodynamic stiffness was proposed to estimate galloping under high wind speed. Wind tunnel test results and numerical simulations of a six-bundle conductor with D-shaped icing were employed to verify the validity of the proposed galloping stability criterion framework. Comparisons of the proposed criterion with other existent galloping theories showed that both aerodynamic stiffness and inertial coupling have significant effects on the initiation of galloping. The contribution of inertial coupling becomes significant under high wind speeds where a higher aerodynamic stiffness emerges. Applying an eccentric mass can improve the galloping stability of a system by producing gravity stiffness and inertial coupling. This finding may provide practical guidance for antigalloping design.
+
+
+    
+        AU - R. Laguardia
+    
+        AU - P. Franchin
+    
+
+TI - Risk-Based Optimization of Bracing Systems for Seismic Retrofitting of RC Buildings
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022049
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003335 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003335
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003335
+SO - Journal of Structural Engineering 2022-06-01 148(6): 04022049
+AB - This paper presents a risk-based optimal design procedure for seismic retrofitting of existing RC buildings with dissipative bracing systems. The procedure extended to retrofit interventions an existing method for probabilistic displacement-based design of new RC buildings. Performance objectives for multiple performance levels or limit states were formulated in terms of maximum mean annual frequency of exceedance (MAF) modeled with closed-form equations based on a second-order approximation of the hazard curve. Retrofit design variables included the characteristics of the braces, conceived as a series arrangement of an elastoplastic dissipative device and a steel truss. To make the gradient-based optimization procedure suitable for practical application, the response under seismic loading was obtained by means of response spectrum analyses for multiple hazard levels, which in turn required the use of linear equivalent models to describe the inelastic behavior of both braces and RC members. Specific member-level expressions for secant stiffness and dissipated energy were used for this purpose. A multistory low-code, height-irregular RC frame taken from an existing building was adopted as a case study. Results in terms of brace properties, interstory drift ratio profiles for each hazard level, and MAF of exceedance were shown and discussed. Finally, the procedure was validated computing MAF of exceedance by means of inelastic response-history analyses carried out within a multistripe analysis scheme, with natural ground motion records selected to match hazard-consistent conditional spectra.
+
+
+    
+        AU - Yukai Zhong
+    
+        AU - Yao Sun
+    
+        AU - Ou Zhao
+    
+        AU - Leroy Gardner
+    
+
+TI - Structural Response and Residual Capacity of S700 High-Strength Steel CHS Columns after Exposure to Elevated Temperatures
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022050
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003341 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003341
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003341
+SO - Journal of Structural Engineering 2022-06-01 148(6): 04022050
+AB - The structural behavior and residual capacity of S700 high-strength steel circular hollow section (CHS) columns after exposure to elevated temperatures were studied through testing and numerical modeling. The testing program was conducted on 10 S700 high-strength steel CHS columns and comprised heating and cooling of the specimens as well as postfire material testing, measurements of initial geometric imperfections, and pin-ended column tests. Numerical simulations were subsequently performed, where finite element models were built and validated with reference to the experimental results and afterward used to conduct parametric studies to obtain further numerical data. Given that there are no specific provisions for the design of steel structures after exposure to elevated temperatures, the relevant room-temperature design buckling curves were evaluated, using postfire material properties, for their applicability to S700 high-strength steel CHS columns after exposure to elevated temperatures, based on the experimental and numerical data. The evaluation results indicated that the buckling curves prescribed in the American specification and Australian standard lead to accurate and consistent residual capacity predictions for S700 high-strength steel CHS columns after exposure to elevated temperatures, while the Eurocode buckling curve yields conservative predictions of residual capacity. A revised Eurocode buckling curve was then proposed, and resulted in a higher level of accuracy than its original counterpart.
+
+
+    
+        AU - Minjie Zhu
+    
+        AU - Michael H. Scott
+    
+
+TI - A PFEM Background Mesh for Simulating Fluid and Frame Structure Interaction
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022051
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003334 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003334
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003334
+SO - Journal of Structural Engineering 2022-06-01 148(6): 04022051
+AB - Hydrodynamic loading is an important consideration for the design and safety of coastal structures prone to tsunami hazards. Simulating the response of frame structures to tsunami loading requires an efficient and flexible computational approach that combines fluid elements with line (frame) elements in either two-dimensional or three-dimensional models. A background mesh approach incorporates flexible and nonlinear frame structures for the particle finite-element method (PFEM) with a fixed fluid mesh and a local moving fluid mesh surrounding the frame structure. With this approach, models of frame structures are able to interact with fluid flow considering the damaged structural state after an earthquake. The implementation and numerical simulations show the advantages and flexibility of this method. The simulations support future development of physics-based fragility functions for probabilistic postearthquake tsunami hazard assessment methodologies.
+
+
+    
+        AU - Hai-Bin Huang
+    
+        AU - Ting-Hua Yi
+    
+        AU - Hong-Nan Li
+    
+        AU - Hua Liu
+    
+
+TI - Sparse Bayesian Identification of Temperature-Displacement Model for Performance Assessment and Early Warning of Bridge Bearings
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022052
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003354 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003354
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003354
+SO - Journal of Structural Engineering 2022-06-01 148(6): 04022052
+AB - Bearings usually play numerous important functionalities such as deformation regulation, load transfer, and seismic isolation in bridges. A better mastery of their service performance is increasingly desired for bridge owners. In the present study, a novel sparse Bayesian temperature-displacement relationship (TDR) model is proposed to characterize and predict the bearing displacement responses induced by temperature actions in a probabilistic manner, based on the use of long-term structural health monitoring (SHM) data. Compared with the traditional deterministic TDR model, the newly proposed model can deal with two critical problems: (1)&nbsp;most of temperature difference terms barely have effects on bearing displacement responses, leading to the sparsity of model parameters; and (2)&nbsp;uncertainties will inevitably arise from factors such as measurement noise and inherent randomness, resulting in the uncertainty of model parameters. Therefore, it enables to account for the uncertainty associated with the predictions of temperature-induced bearing displacement responses. By combining the probabilistic prediction results with the reliability and anomaly analysis principles, a reliability index is adopted to assess the service performance of bearings subjected to extreme temperature actions. In addition, an anomaly index is defined to determine whether there are performance degradations and then trigger early warnings for the degraded bearings. The long-term SHM data from an in-service long-span railway bridge is employed for effectiveness verifications. The results show that the sparse Bayesian TDR model can achieve effective probabilistic predictions for temperature-induced bearing displacement responses and the reliability and anomaly indices are favorable for bearing performance assessment and early warning.
+
+
+    
+        AU - Han Sun
+    
+        AU - Henry V. Burton
+    
+        AU - Jonathan P. Stewart
+    
+        AU - John W. Wallace
+    
+
+TI - Development of a Generalized Cross-Building Structural Response Reconstruction Model Using Strong Motion Data
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022053
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003336 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003336
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003336
+SO - Journal of Structural Engineering 2022-06-01 148(6): 04022053
+AB - Models for reconstructing seismic response demands across multiple buildings can aid in cluster-level rapid postearthquake damage assessment. Response demands from 188 buildings affected by 25 earthquakes were used to develop a cross-building response reconstruction model. A structural response prediction model (SRPM) was developed, which is based on a modern ground motion model with added “building response” terms. A kriging algorithm is used to interpolate the within-event residuals which, together with the SRPM, form a generalized cross-building response reconstruction (CBRR) model. Given the recorded responses for a subset of instrumented buildings in a cluster, the demands in the uninstrumented buildings can be reconstructed by combining the median values generated from the SRPM and estimated within-event residuals for a given site obtained from the kriging model.
+
+
+    
+        AU - Anastasia Athanasiou
+    
+        AU - Mohamad Dakour
+    
+        AU - Siamak Pejmanfar
+    
+        AU - Lucia Tirca
+    
+        AU - Ted Stathopoulos
+    
+
+TI - Multihazard Performance-Based Assessment Framework for Multistory Steel Buildings
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022054
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003331 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003331
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003331
+SO - Journal of Structural Engineering 2022-06-01 148(6): 04022054
+AB - The paper proposes a uniform multihazard performance-based design framework for multistory steel buildings. Damage of structural and nonstructural components is associated with interstory drifts, residual drifts, and floor acceleration thresholds. Predefined measures that are meaningful to stakeholders, e.g.,&nbsp;repair costs, are used to assess the performance of the building subjected to independent winds and earthquakes. The novelty of the procedure lies in: (1)&nbsp;developing a multihazard assessment methodology for buildings subjected to earthquake and wind, where both events are critical, (2)&nbsp;assessing the margin of safety for multi-story concentrically braced frame (CBF) buildings subjected to wind, using wind tunnel data for the simulation of case specific wind histories, and (3) evaluating the economic losses caused by multihazard damage, when allowing for controlled inelastic deformations of the CBF braces under wind excitations in moderate seismic regions. The implementation of response history analysis at the design level and beyond, combined with the probabilistic estimation of non-collapse losses, reduces significantly the conservatism in prescriptive wind design and promotes resilience under multihazard excitations.
+
+
+    
+        AU - Xiao Ding Bu
+    
+        AU - Jeffrey A. Packer
+    
+
+TI - RHS-to-RHS Zero-Gap K-Connections
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022055
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003343 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003343
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003343
+SO - Journal of Structural Engineering 2022-06-01 148(6): 04022055
+AB - The design of a rectangular hollow-section K-connection in which the branches are welded toe-to-toe to the chord is not permitted at present in design guides and codes. To illustrate the feasibility of such connections, two full-scale cold-formed welded rectangular hollow-section K-connection laboratory tests, including one control specimen and one zero-gap specimen, are presented. A new chord face shear analytical model based on a yield-line mechanism is proposed for such connections, and its validity was evaluated against the experiments. Nonlinear finite-element connection models were built and validated against the laboratory tests, and a numerical parametric study was performed on similar connections with a broader range of parameters. From the results of the finite-element study, an empirical connection strength model was also generated by regression curve-fitting. Based on the experimental and numerical data, the proposed chord face shear analytical model is recommended for design of rectangular hollow-section zero-gap K-connections. The gap size can also be increased up to the summation of the two branch thicknesses.
+
+
+    
+        AU - Gholamreza Gholipour
+    
+        AU - A. H. M. Muntasir Billah
+    
+
+TI - Nonlinear Analysis of Shear-Deficient Beams Strengthened Using UHPFRC under Combined Impact and Blast Loads
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022056
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003368 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003368
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003368
+SO - Journal of Structural Engineering 2022-06-01 148(6): 04022056
+AB - The dynamic response of shear deficient (SD) beams constructed with ultrahigh performance fiber reinforced concrete (UHPFRC) is evaluated in this study. Additionally, a comparison is made with adequately reinforced (AR) beams when subjected to sole impact and blast loads and their combinations using finite-element (FE) simulations in LS-DYNA software. To explore more efficient and optimal strengthening designs using UHPFRC under extreme loads, the influences of the thickness of a UHPFRC cover (tU) and different strengthening schemes of a UHPFRC cover are investigated through a parametric study. Also, a new approach is proposed for calculating the damage index, based on the residual shear capacities of the beams, by performing a multiphase loading procedure to describe the damage states of the UHPFRC-constructed beams quantitatively. From the FE simulations, it is found that the use of UHPFRC in the whole cross-section of the beam has more positive effects on the strength enhancements of the SD beams compared to the AR beam, especially when the beams are exposed to combined actions of impact and blast loads. Furthermore, the tU of 10 and 30&nbsp;mm are recognized as the optimal UHPFRC thicknesses in strengthening the SD beam under the sole impact and combined impact-blast loads, respectively. However, tU=20  mm is accepted as an optimal thickness for the AR beams under sole and combined loads. Also, the applications of UHPFRC on the two sides of the SD beam and as a U-shaped cover represent more efficient designs in the strengthening trend of the SD beams when subjected to the sole impact and combined impact-blast loads, respectively.
+
+
+    
+        AU - Yousef Darestani
+    
+        AU - Jamie Padgett
+    
+        AU - Abdollah Shafieezadeh
+    
+
+TI - Parametrized Wind–Surge–Wave Fragility Functions for Wood Utility Poles
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022057
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003319 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003319
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003319
+SO - Journal of Structural Engineering 2022-06-01 148(6): 04022057
+AB - Wood poles are among key components of the overhead grid infrastructure that are highly vulnerable to wind hazards. In coastal regions where hurricanes are often accompanied with a storm surge, in addition to high wind pressure, poles may experience significant surge and wave loads with the potential of triggering multiple failure mechanisms. However, multihazard pole fragility models that consider various modes of failure are lacking. This paper proposed a set of parameterized fragility models that are a function of wind-, surge-, and wave-related intensity measures and properties of poles. For this purpose, a design of experiment was conducted to generate realizations of intensity measures and pole-specific deterministic and uncertain parameters. For each realization, the state of survival/failure of pole was estimated for each mode of failure. Subsequently, for each class of pole and soil type, a logistic regression was carried out to generate fragility models for pole rupture at the ground line and pole overturning due to foundation failure. The results indicated that both pole rupture and foundation failure can be significant modes of failure conditioned on the type of soil. For example, for medium-strength cohesive soils, both modes of failure were significant, whereas for very-stiff-strength cohesive soils, pole rupture was the dominant mode of failure. The results of this study are key for risk and resilience analysis of coastal electric power systems and provide useful insights for decision making and risk management processes.
+
+
+    
+        AU - Bin Du
+    
+        AU - Zheng He
+    
+        AU - Wanliang Jiang
+    
+        AU - Xiang Guo
+    
+        AU - Guohui Huang
+    
+
+TI - Design-Oriented Energy Capacity Spectrum Method for Seismic Performance Control of Precast Concrete Structures with Semirigid Connections
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022058
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003357 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003357
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003357
+SO - Journal of Structural Engineering 2022-06-01 148(6): 04022058
+AB - To effectively control the seismic performance of precast concrete (PC) frames with semirigid connections under strong earthquakes, a damage-oriented energy capacity spectrum method is proposed under the performance-based seismic design (PBSD) framework. The energy dissipation capacity (EDC) spectrum corresponding to an equivalent single-degree-of-freedom (SDOF) system of a PC frame is derived based on the Coffin–Manson low-cycle fatigue model of connections and expressed as a function of the displacement response. The related parameters are experimentally and numerically calibrated. To ensure consistency with the EDC spectrum, the hysteretic energy demand (HED) spectrum is developed based on a pseudo-acceleration spectrum, a ductility spectrum, and two energy spectra. The relation between the connection damage and structural damage is employed to establish the damage-oriented EDC spectra. The performance point is iteratively determined, from the intersection points of the EDC and HED spectra at different damage levels, until the specified objective overall damage performance is satisfied. The implementation of the damage-oriented design procedure on a 12-story PC frame with semirigid connections indicates that the EDC spectra corresponding to the three modes agree well with the predictions, and the overall damage indexes obtained from the time history analyses (THAs) are consistent with those obtained from the solution of the performance points. The damage performance objective for PC frames with semirigid connections can be attained by adjusting the design yield moments of the connections by exploiting their adaptability.
+
+
+    
+        AU - Ahmed Yassin
+    
+        AU - Lydell Wiebe
+    
+        AU - Mohamed Ezzeldin
+    
+
+TI - Seismic Design and Performance Evaluation of Controlled Rocking Masonry Shear Walls without Posttensioning
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022059
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003347 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003347
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003347
+SO - Journal of Structural Engineering 2022-06-01 148(6): 04022059
+AB - Unbonded posttensioned controlled rocking masonry walls (PT-CRMWs) have been increasingly studied in the last decades due to their promising results regarding seismic resilience. However, implementing posttensioning (PT) has still some drawbacks, such as construction challenges, PT losses, and yielding during a seismic event. In response, this study investigates a newly proposed energy dissipation-controlled rocking masonry wall (ED-CRMW), which eliminates the use of unbonded posttensioned bars and relies instead on gravity loads to self-center the wall to its vertical plumb while incorporating an energy dissipation (ED) device to limit seismic displacements. The study presents a design approach for the proposed system, including the influence of higher mode effects. In this respect, a multispring macro model is developed using OpenSees and validated against recent experimental results by the authors. Next, as no distinct values are yet provided in ASCE 7, the seismic response modification factor is investigated using collapse risk analysis. Specifically, using the validated model, nonlinear static and dynamic analyses are performed to 20 ED-CRMW archetypes with different design configurations. The results demonstrate that the design objectives were achieved and that a seismic response modification factor of 7 assigned to the selected design configurations meets the FEMA P695 acceptance criteria for seismic collapse risk under the maximum considered earthquake (MCE).
+
+
+    
+        AU - Lee-Sak An
+    
+        AU - Yeun Chul Park
+    
+        AU - Sang Hyeon Lee
+    
+        AU - Ho-Kyung Kim
+    
+
+TI - Evaluating the Threshold for Corrosion-to-Fatigue Crack Transition Using a Corroded Steel Plate from an In-Service Bridge
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022060
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003351 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003351
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003351
+SO - Journal of Structural Engineering 2022-06-01 148(6): 04022060
+AB - The linear elastic fracture mechanics (LEFM)–based approach has been widely applied to investigate the threshold for corrosion-to-fatigue crack transition in the corrosion fatigue process. However, investigations to determine the transition threshold of generally corroded steel are still insufficient. In the present study, the threshold for the corrosion-to-fatigue crack transition was investigated via fatigue testing of naturally corroded steel plates. The specimens were procured from the corroded U-ribs obtained from a cable-stayed bridge that has been in operation for more than 30&nbsp;years. Profiles of the corroded surface were obtained via three-dimensional scanning. Stress intensity factor ranges and stress concentration factors were examined as potential indicators of a threshold for corrosion-to-fatigue crack transition. These factors, however, proved to be inappropriate. Modified stress intensity factor range was proposed to consider the shape-dependent effect of stress concentration from corrosion damage, and a consistent threshold of corrosion-to-fatigue crack transition was identified. These results are a novel finding whereby the corrosion-to-fatigue crack transition could occur when the modified stress intensity factor range exceeds 600  MPa√mm.
+
+
+    
+        AU - Hezi Y. Grisaro
+    
+
+TI - Dimensionless Pressure-Impulse Diagrams for Elastic Plastic and Elastic Plastic with Hardening Structural Members for SDOF Structural Systems
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022061
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003355 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003355
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003355
+SO - Journal of Structural Engineering 2022-06-01 148(6): 04022061
+AB - A pressure-impulse (P-I) diagram provides a quick tool to assess the resistance of a structural system to blast loads, based on a nonlinear single-degree-of-freedom (SDOF) analysis. Thus, instead of performing many SDOF analyses, the P-I diagram is the limit curve representing the combination of pressure and impulse for which the designed damage of the structure is achieved (commonly defined by the allowed maximum displacement). In this paper, nonlinear SDOF equations are represented in a dimensionless form for linear-elastic, elastic-plastic, and elastic plastic with hardening systems. Dimensionless P-I diagrams are derived for triangular blast load, and they are represented by the dimensionless parameters of the problem. Based on regression analysis, simplified empirical equations are developed to quickly calculate the dimensionless and absolute P-I diagram for a given case without performing any additional structural or numerical analysis. The accuracy of the suggested method is proved by statistical parameters and by a case study showing its capabilities. The study is limited to a solution of a classical SDOF system but may be extended to a more realistic scenario in which an equivalent SDOF equation is commonly adopted.
+
+
+    
+        AU - A. H. M. Muntasir Billah
+    
+        AU - Asif Iqbal
+    
+
+TI - Effect of Seismic Isolation on Fragility of Bridges with Scoured Foundations
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022062
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003370 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003370
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003370
+SO - Journal of Structural Engineering 2022-06-01 148(6): 04022062
+AB - Flood-induced scour has been identified as a major cause of bridge collapse around the world. Although the seismic response of bridges with scoured foundations has been studied extensively, there is limited information on how seismic isolation impacts the dynamic behavior of bridges that have scoured foundations and experience an earthquake. Although both scour and seismic isolation affect bridge natural frequencies, the combined effect of these two are relatively scarce in the earthquake engineering field. This study explores the consequence of pier scour on the seismic behavior of base-isolated bridges. A base-isolated, multispan, continuous concrete girder bridge with a scoured foundation, located in Western Canada, is considered for this purpose. Two isolation bearing types, a friction pendulum system (FPS) and lead rubber bearings (LRB), are considered in this study. For isolated bridges, the failure probability under the combined action of scour and earthquake hazard is evaluated considering different combinations of seismic and flood hazards at the bridge site. Through extensive nonlinear analysis under combined seismic and scour hazard, this study compares the seismic performance and failure probability of isolated bridges using fragility curves and fragility surfaces. The outcomes lead to more clear identification of the most critical condition for the design of base-isolated bridges subjected to multiple hazards.
+
+
+    
+        AU - Taylor Marchment
+    
+        AU - Jay Sanjayan
+    
+
+TI - Lap Joint Reinforcement for 3D Concrete Printing
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022063
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003361 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003361
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003361
+SO - Journal of Structural Engineering 2022-06-01 148(6): 04022063
+AB - Extrusion three-dimensional (3D) concrete printing (3DcP) is an automated construction technology that involves the layer-by-layer deposition of stiff concrete to build a structure without formworks. The interlayer strength is compromised by weak bonds and lack of vertical reinforcements. The bar-penetration technique is a 3DcP reinforcement method where reinforcing bar is inserted vertically through freshly printed layers. Application of a cement paste to the bar during penetration has proven to increase the bar to matrix bond. To be effective as continuous reinforcement, a sequential vertical lapping of bars is considered. For this method to be effective, an understanding of minimum lap length in 3DcP requirements is crucial. This study investigates center- and off-center-lapped samples with lap lengths of 20, 17, 14, and 11 times the bar diameter, subjected to three-point bending tests. Failure modes and crack patterns were recorded and compared with single-bar-penetrated samples. Results and findings were further validated by the printing and testing of a large-scale wall section. Comparisons with small scale results and design calculations showed promising structural performance.
+
+
+    
+        AU - Shaohua He
+    
+        AU - Quanfeng Li
+    
+        AU - Gang Yang
+    
+        AU - Xuan Zhou
+    
+        AU - Ayman S. Mosallam
+    
+
+TI - Experimental Study on Flexural Performance of HSS-UHPC Composite Beams with Perfobond Strip Connectors
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022064
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003366 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003366
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003366
+SO - Journal of Structural Engineering 2022-06-01 148(6): 04022064
+AB - In order to explore the flexural performance of high-strength steel (HSS)/ultrahigh performance concrete (UHPC) composite beams, a total of six HSS-UHPC composite beams with varying levels of interfacial shear connectivity, arrangements of perfobond strip connectors (PBL), and variable thicknesses of concrete decks were fabricated and tested. The failure mode, flexural stiffness, load-deflection curve, strain history, and interfacial slippages obtained from the composite beams are presented and discussed. Experimental results indicated that despite the lightweight feature of such a hybrid system, the HSS-UHPC composite beams exhibited high flexural stiffness and favorable ductility. As the level of shear connectivity decreases, the bending resistance of HSS-UHPC composite beams decreases, while the beams’ ductility exhibits slight enhancement. The PBL arrangement has crucial effects on the behavior of HSS-UHPC composite beams, and the beams’ ductility was improved by approximately 48.9% by alternating uniformly distributed PBLs to a nonuniform distribution pattern. Experimental results also highlighted the influence of the UHPC deck thickness on the flexural performance of the composite beams. As compared to an 80.0&nbsp;mm-thick UHPC deck, the 100.0&nbsp;mm-thick UHPC deck witnessed increases in bending stiffness, yield moment, and ultimate resistance of the composite beam by 19.8%, 22.8%, and 14.6%, respectively. Comparisons between the results obtained from the tests and analytical procedures for predicting HSS-UHPC composite beams resistances were performed to assess the feasibility of existing design approaches. Results of the study confirmed that equations recommended by GB 50017-2017 have favorable accuracy in calculating the bending resistance of HSS-UHPC composite beams with uniformly distributed PBLs, while for HSS-UHPC composite beams with nonuniformly distributed PBLs, both the AASHTO LRFD and Ban et&nbsp;al. equations are recommended.
+
+
+    
+        AU - Jia-Liang Le
+    
+        AU - Zdeněk P. Bažant
+    
+
+TI - Spontaneous Collapse Mechanism of World Trade Center Twin Towers and Progressive Collapse in General
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022065
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003342 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003342
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003342
+SO - Journal of Structural Engineering 2022-06-01 148(6): 04022065
+AB - The collapse of the World Trade Center (WTC) Towers during the terrorist attacks on September 11, 2001, remains one of the most tragic catastrophes in the field of structural engineering. This paper first reviews a mathematical model that explains the process of the total collapse of the Twin Towers and shows that the downward collapse progression below the impacted floors was spontaneous. The model is based on a continuum description of the motion of the crush front and captures various types of energy dissipation during the collapse. The predictions of this model match all the observations, including the video records of the first few seconds of motion of both towers, the seismic records of the collapse durations for both towers, the mass and size distributions of comminuted concrete particles, and the fast expansion of dust clouds during collapse with the booms generated. This catastrophe provoked general interest in other types of progressive collapse of buildings. This is the subject of the second part of this paper, in which a three-dimensional stochastic computational model for the collapse of RC frame buildings is presented. The occurrence probabilities of different collapse patterns are predicted. The model is further extended to investigate the delayed collapse behavior of RC frames. The results of the analysis shed light on the emerging trend of probabilistic analysis and design of structures against progressive collapse.
+
+
+    
+        AU - Kang Zhou
+    
+        AU - Qiu-Sheng Li
+    
+        AU - Xu-Liang Han
+    
+
+TI - Modal Identification of Civil Structures via Stochastic Subspace Algorithm with Monte Carlo–Based Stabilization Diagram
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022066
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003353 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003353
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003353
+SO - Journal of Structural Engineering 2022-06-01 148(6): 04022066
+AB - The stochastic subspace algorithm is one of the most widely used structural identification techniques, which is generally involved with the stabilization diagram for estimating modal parameters. However, the conventional stabilization diagram has an inherent problem: some spurious modes may be identified as stable results, resulting in adverse effects on structural modal identification. To address this critical issue, this paper proposes an improved stochastic subspace algorithm involving a Monte Carlo–based stabilization diagram. Through a numerical simulation study, the good performance of the Monte Carlo–based stabilization diagram for discriminating the poles denoting the physical modes from those representing spurious modes is demonstrated. The numerical simulation results show that the proposed method can estimate structural modal parameters with high accuracy and robustness. Moreover, the proposed method is applied to field measurements on a 600-m-high skyscraper during Super Typhoon Mangkhut, and the results verify the applicability and effectiveness of the proposed method to field measurements. This paper aims to provide an effective tool for accurate estimation of modal parameters of civil structures.
+
+
+    
+        AU - Gongling Chu
+    
+        AU - Wei Wang
+    
+        AU - Yunfeng Zhang
+    
+
+TI - Experimental and Numerical Study of Near-Fault Seismic Performance of 2-Story Steel Framed Building with Self-Centering Modular Panels
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022067
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003359 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003359
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003359
+SO - Journal of Structural Engineering 2022-06-01 148(6): 04022067
+AB - This paper presents the full-scale shake-table test and numerical simulation study results of a 2-story beam-through steel frame (BTSF) equipped with self-centering modular panels (SCMPs) subjected to near-fault ground motion records. A SCMP is a portable self-centering device that can be inserted and bolted to steel frames to provide lateral force resistance with recentering capability and replaceable seismic fuse devices for energy dissipation. Previous research works have been done on the analytical study, quasi-static cyclic loading testing, and numerical study of the general seismic behavior of the SCMP systems with different energy dissipation components including tension-only braces, slit steel plate shear walls (SWs), and hysteretic dampers. An important aim of this study is to experimentally verify the seismic performance of full-scale steel frame structures with SCMPs via shaking-table tests capable of applying pulselike ground motion. A literature review of previous research works suggested that near-fault ground motions can amplify the dynamic response of structures and cause more extensive damage compared with far-fault ground motion records. To achieve this goal of studying the effect of near-fault ground motion records on the test structure installed with SCMPs, a nonlinear finite-element (FE) model has been developed for a parametric study in which a set of near-fault ground motion records were used as base excitation to the structure model. The nonlinear dynamic analysis results showed that the test structure exhibited self-centering capability under both design-basis earthquake (DBE) and maximum considered earthquake (MCE) cases. Additionally, the effect of energy dissipation capacity on the test structure’s response is also discussed.
+
+
+    
+        AU - Alok Dua
+    
+        AU - Abass Braimah
+    
+        AU - Manish Kumar
+    
+
+TI - Influence of Standoff Distance on the Response of RC Columns Subjected to Close-In Explosions
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022068
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003360 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003360
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003360
+SO - Journal of Structural Engineering 2022-06-01 148(6): 04022068
+AB - Threats involving terrorist attacks using large amounts of explosives are less likely due to the complexity of acquiring them without alerting security agencies. A plausible threat tactic is to detonate small quantities of concealed explosives in contact with critical load-bearing structural members to compromise the structure’s stability, leading to its partial or complete collapse. This paper investigates the response of reinforced concrete (RC) columns subjected to blast loads from a small standoff. Columns in buildings are commonly cladded for aesthetics or concealment and can thus be used to create a small standoff distance between the explosive and the column. In this study, three full-scale columns were subjected to blast loads from 115-g and 500-trinitrotoluene (TNT) charge masses placed at 50- and 100-mm standoff distances. The postblast residual axial load capacities of the damaged columns were obtained experimentally. The results were compared to benchmark results from RC columns subjected to the same explosive mass detonated in contact with the columns. The results of the experimental studies indicate that the small standoff distance significantly reduced the column damage. Furthermore, a validated LS-DYNA numerical model has been developed and used in parametric studies to evaluate the effects of various design parameters on the behavior of columns under blast loading. The predominant failure mode of columns subjected to blast loading at scaled distances below 0.1  m/kg1/3 was a local material failure in the core and shear/flexural failure when the scaled distance was above 0.1  m/kg1/3. The numerical results indicate that the Hopkinson–Cranz scaling law is not applicable at small-scaled distances.
+
+
+    
+        AU - Pallab Jyoti Das
+    
+        AU - Sajal Kanti Deb
+    
+
+TI - Seismic Performance Evaluation of a New Hybrid Buckling Restrained Brace under Cyclic Loading
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022069
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003372 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003372
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003372
+SO - Journal of Structural Engineering 2022-06-01 148(6): 04022069
+AB - This paper presents an experimental investigation on the evaluation of the seismic performance of a new hybrid buckling restrained brace (HyBRB) under cyclic load. Detailed design steps adopted for the HyBRB design are reported in this paper. The analytical method for estimation of critical loads corresponding to buckling mode formation of the steel core inside the restrainer has been presented. The design targets achieved for the HyBRB are ease of inspection of the detachable BRB core to facilitate replacement of the steel core after a seismic event, if necessary, and enhanced energy-dissipation capacity through restrained buckling about both weak and strong axes of the core. The proposed HyBRB has displayed stable hysteretic behavior with good energy-dissipation capacity in low to high levels of the core strain range. Permanent deformation about the strong axis of the core was observed on unfastening of the restrainers, although restrained buckling of the core was observed about the weak axis in lower displacement amplitudes. Analytical simulation was carried out using a phenomenological model to simulate the experimental behavior. The simulated axial force-deformation hysteresis loops were found to be in close agreement with those obtained from experimental investigation.
+
+
+    
+        AU - X. Z. Cui
+    
+        AU - H. P. Hong
+    
+
+TI - On the Gaussian and Non-Gaussian Characteristics of Nonstationary Seismic Ground Motions
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04022070
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003340 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003340
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003340
+SO - Journal of Structural Engineering 2022-06-01 148(6): 04022070
+AB - In earthquake engineering, seismic ground motions are most often modelled as a nonstationary Gaussian process. A few studies indicated that seismic ground motions should be treated as a nonstationary non-Gaussian process, by showing that the kurtosis coefficient of the historical ground motion records is much greater than three. These findings and conclusions are queried in the present study, which analyzes a large number of historical ground motion records. Our results indicate that while the mixture marginal distribution of the acceleration of the records is non-Gaussian with a heavy distribution tail, the mixture marginal distribution of the standardized record, defined by the time-varying record to its standard deviation, is only mildly non-Gaussian. We point out that the mixture marginal distribution of a nonstationary Gaussian process may not be Gaussian. The implication of these observations in simulating records is explained. The sampled nonstationary Gaussian/non-Gaussian records are used to compare the responses of single-degree-of-freedom systems. The results indicate that the error introduced by adopting the Gaussian assumption is small, suggesting that the ground motions could be assumed to be a nonstationary Gaussian process with sufficient accuracy, especially if structures that are not very stiff are considered.
+
+
+    
+        AU - Hongfan Wang
+    
+        AU - Qian Chen
+    
+        AU - Anil K. Agrawal
+    
+        AU - Sherif El-Tawil
+    
+        AU - Baidurya Bhattacharya
+    
+        AU - Waider Wong
+    
+
+TI - Dynamic Response and Progressive Collapse of a Long-Span Suspension Bridge Induced by Suspender Loss
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 05022001
+VI - 148
+IP - 6
+AID - 10.1061/(ASCE)ST.1943-541X.0003367 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003367
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003367
+SO - Journal of Structural Engineering 2022-06-01 148(6): 05022001
+AB - Although long-span suspension bridges play a vital role in the transportation infrastructure, their resistance to disproportionate collapse resulting from locally induced damage has not yet been adequately investigated. In this study, computational simulation is used to shed light on how a prototype long-span suspension bridge responds to sudden loss of suspenders. Several scenarios were considered, with a focus on the total number of suspenders lost, their locations, and mode of removal. An increasing number of suspenders were removed either sequentially (i.e.,&nbsp;one at a time) or simultaneously (i.e.,&nbsp;multiple suspenders removed at the same time) until progressive collapse of the bridge was triggered. The simulation results showed that the bridge exhibited increasing levels of damage as the number of removed suspenders increased, and that the most critical location for suspender removal was near the middle of the bridge. It is shown that the sequential loss of a group of suspenders led to bridge responses that are almost identical with the simultaneous loss of the same group of suspenders. It is also argued that suspension bridges like the prototype system under consideration are highly robust.
+
+

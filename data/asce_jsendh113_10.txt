@@ -1,0 +1,440 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Mas A. M. Herzog
+    
+
+TI - Simplified Design of Unstiffened and Stiffened Plates
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 2111-2124
+VI - 113
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1987)113:10(2111) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282111%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282111%29
+SO - Journal of Structural Engineering 1987-10-01 113(10): 2111-2124
+AB - Based on a reevaluation of 490 tests by different researchers, simple design formulas for the ultimate strength of unstiffened and stiffened steel plates under in‐plane compression without or with lateral loads are presented. These formulas take advantage of the empirical formulation of column‐type curves that allow the consideration of all relevant parameters (e.g., plate slenderness, column slenderness, and stitfener slenderness) and three grades (low, average, and high) of geometric imperfections and residual welding stresses. It is not necessary to introduce effective plate widths. The influence of lateral loads is covered by an interaction formula.
+
+
+    
+        AU - Zdeněk P. Bažant
+    
+        AU - Siddik Şener
+    
+
+TI - Size Effect in Torsional Failure of Concrete Beams
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 2125-2136
+VI - 113
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1987)113:10(2125) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282125%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282125%29
+SO - Journal of Structural Engineering 1987-10-01 113(10): 2125-2136
+AB - The paper examines whether the size effect law for failures due to distributed cracking, recently derived from fracture mechanics arguments, is applicable to torsional failure of unreinforced or longitudinally reinforced concrete beams of rectangular cross section without stirrups. The test data available in the literature are used for this purpose. They confirm that a size effect is present and does not disagree with the size effect law. However, the data range is so narrow and their scatter so large that the precise form of the size effect cannot be identified. A simple, theoretically based formula to take the size effect into account is suggested.
+
+
+    
+        AU - Troels Brøndum‐Nielsen
+    
+
+TI - Concrete Sections Unoeb Biaxial Bending
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 2137-2144
+VI - 113
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1987)113:10(2137) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282137%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282137%29
+SO - Journal of Structural Engineering 1987-10-01 113(10): 2137-2144
+AB - The general cases of cracked reinforced or prestressed concrete sections under axial load and biaxial or uniaxial bending in the serviceability and ultimate limit states have been treated in four previous papers. This paper is limited to serviceability limit state analyses of cross sections without prestressing or axial load and with trapezoidal or triangular compression zones. The effect of shrinkage is not covered. The approach suggested in this paper is simpler and about 50 times faster than the general method. The analysis may be carried out without the aid of a programmable computer. However, such a computer facilitates the calculation considerably. The concrete on the tension side of the neutral axis is assumed to be unable to transfer stresses, so the shape of this part of the cross section has no influence on the analysis. The reinforcement can be distributed arbitrarily over the cross section.
+
+
+    
+        AU - Mehrdad Soltani
+    
+        AU - Ross B. Corotis
+    
+
+TI - Reliability of Random Structural Systems and Load Space Reduction
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 2145-2159
+VI - 113
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1987)113:10(2145) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282145%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282145%29
+SO - Journal of Structural Engineering 1987-10-01 113(10): 2145-2159
+AB - The reliability of redundant structural systems is computed in load space. The limit state curve is determined using a nonlinear structural analysis program, and system reliability is evaluated as load vectors are simulated and identified as being in the safe or unsafe region. For the case of random strength variables, a distribution function is associated with the limit state curve. Structures are examined as load space dimension is reduced from seven to either two or three. It is shown that a three‐dimensional load space formulation has the potential to provide a reasonable approximation of system reliability of structural systems.
+
+
+    
+        AU - Manfred Keuser
+    
+        AU - Gerhard Mehlhorn
+    
+
+TI - Finite Element Models for Bond Problems
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 2160-2173
+VI - 113
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1987)113:10(2160) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282160%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282160%29
+SO - Journal of Structural Engineering 1987-10-01 113(10): 2160-2173
+AB - In the finite element analysis of reinforced concrete structures the modeling of bond‐slip between the reinforcement and concrete requires the use of special elements. In the past, various elements have been developed for this purpose. The behavior of the elements and the quality of the results are influenced mainly by the displacement function of the elements, the density of the element mesh, and the bond stressslip relations. In this paper the effects of different approaches for the displacement function and the bond stress‐slip relation are investigated.
+
+
+    
+        AU - Hassan I. A. Hegab
+    
+
+TI - Energy Analysis of Double‐Plane Cable‐Stayed Bridges
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 2174-2188
+VI - 113
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1987)113:10(2174) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282174%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282174%29
+SO - Journal of Structural Engineering 1987-10-01 113(10): 2174-2188
+AB - A new method for the torsional analysis of cable‐stayed bridges is presented. The method is based on the potential energy of the stayed girder, and the solution is obtained through an iterative procedure. The iterative procedure is reasonably convergent and only a small number of Fourier terms is sufficient. The method is simple and quick and suitable for use on electronic computers as well as pocket calculators. The computer program prepared by the writer solves any doubleplane cable‐stayed bridge in seconds. Numerical examples on two‐ and three‐span bridges are worked out using the new method. If the bridge is loaded symmetrically about its longitudinal centerline, the problem reduces to the case of a single‐plane cable‐stayed bridge.
+
+
+    
+        AU - Per Tveit
+    
+
+TI - Considerations for Design of Network Arches
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 2189-2207
+VI - 113
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1987)113:10(2189) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282189%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282189%29
+SO - Journal of Structural Engineering 1987-10-01 113(10): 2189-2207
+AB - Network arches can be defined as those with inclined hangers with multiple intercetions. In network tied arch bridges, the arch and the tie can be made more slender than in other arch bridges. The tie is usually a concrete slab roadway with longitudinal prestress. For load cases that relax a few hangers, network arches act very much like trusses. Thus, they have little bending in the tie and the arches. To avoid relaxation, the hangers should not be inclined too steeply. Too small an inclination of the hangers will increase the bending moments due to concentrated loads. Compared with similar spans of conventional steel bridges, the network arch usually saves half the weight of steel. During erection, the arch and hangers, supplemented by a light lower chord, can support a concrete roadway while it is being cast. The network arch is most appropriate when local conditions lead to acceptance of structural members above the roadway. This seems to occur more often for railway bridges than for road bridges.
+
+
+    
+        AU - Sing‐Ping Chiew
+    
+        AU - Seng‐Lip Lee
+    
+        AU - Nandivaram E. Shanmugam
+    
+
+TI - Experimental Study of Thin‐Walled Steel Box Columns
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 2208-2220
+VI - 113
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1987)113:10(2208) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282208%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282208%29
+SO - Journal of Structural Engineering 1987-10-01 113(10): 2208-2220
+AB - An experimental investigation of the ultimate load behavior of thin‐walled box columns is reported. Small‐scale steel box column models are subjected to concentric or eccentric compressive loading and the failure brought about by local, overall, or interaction buckling. The effects of plate width‐thickness ratio and column slenderness on the ultimate load‐carrying capacity of box columns are shown to be significant. The test results were found to agree reasonably well with the theoretical predictions.
+
+
+    
+        AU - J. Dario Aristizabal‐Ocfaoa
+    
+
+TI - Seismic Behavior of Slender Coupled Wall Systems
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 2221-2234
+VI - 113
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1987)113:10(2221) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282221%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282221%29
+SO - Journal of Structural Engineering 1987-10-01 113(10): 2221-2234
+AB - This paper provides the design engineer with applicable information on the seismic behavior of reinforced‐concrete, slender coupled wall systems and its constitutive elements (i.e., coupling beams and structural walls). A review of available experimental information is presented. Significant design parameters as well as research needs are identified. It is concluded that a reasonable balance must be maintained between the stiffnesses, strengths, and available rotational ductilities of walls and coupling elements. Thus, the overall response of tall buildings resisting severe lateral loads through coupled walls is that of a ductileand‐tough‐beam strong‐wall system. The coupling elements must be the major suppliers of hysteretic damping and the walls the major suppliers of lateral stiffness and strength. The importance of proper anchorage of the flexural steel and confinement reinforcement is emphasized. Design recommendations on the ultimate design of structural walls and coupling elements are presented.
+
+
+    
+        AU - Morris Israel
+    
+        AU - Bruce Ellingwood
+    
+        AU - Ross Corotis
+    
+
+TI - Reliability‐Based Code Formulations for Reinforced Concrete Buildings
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 2235-2252
+VI - 113
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1987)113:10(2235) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282235%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282235%29
+SO - Journal of Structural Engineering 1987-10-01 113(10): 2235-2252
+AB - The current version of ACI Standard 318 on reinforced concrete design uses an overall resistance factor on structural action to account for uncertainty in the resistance variables. Partial resistance factors also may be used to address the different sources of variability directly; such a format may be advantageous for reinforced concrete. First‐order, second‐moment reliability analysis methods are used to develop partial resistance factors that are compatible with the load requirements of ANSI Standard A58.1‐1982. Flexure, compression plus bending, and shear limit states are analyzed. The consistency of reliabilities afforded by alternate resistance factor formats are compared, and the performance from a reliability viewpoint of certain key code provisions is investigated.
+
+
+    
+        AU - Abul Hasnat
+    
+        AU - Ali A. Akhtanizzamam
+    
+
+TI - Beams with Small Rectangular Opening Under Torsion, Bending, and Shear
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 2253-2270
+VI - 113
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1987)113:10(2253) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282253%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282253%29
+SO - Journal of Structural Engineering 1987-10-01 113(10): 2253-2270
+AB - A set of generalized strength equations based on the skewbending model has been developed to predict the torsional strength and failure mode of reinforced concrete beams with or without a small transverse opening. A torsion‐bending‐shear interaction surface is generated using the proposed strength equations. Twenty‐four rectangular reinforced‐concrete beams containing a transverse opening of constant dimensions were grouped into four different series and were tested under various combinations of torsion, bending, and shear. The parameters were the ratio between top and bottom longitudinal reinforcement, the torsion‐moment ratio, and the moment‐shear ratio. Close agreement is observed between the theoretical predictions and the test results of the writers and of other investigators.
+
+
+    
+        AU - Nicholas S. Trahair
+    
+        AU - John P. Papangelis
+    
+
+TI - Flexural‐Torsional Buckling of Monosymmetric Arches
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 2271-2288
+VI - 113
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1987)113:10(2271) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282271%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282271%29
+SO - Journal of Structural Engineering 1987-10-01 113(10): 2271-2288
+AB - A flexural‐torsional buckling theory is developed for arches of monosymmetric cross section. Nonlinear strain‐displacement relations are derived for the axial and shear strains, and these are substituted into the second variation of the total potential to obtain the buckling equation. Closed form solutions are obtained for arches subjected to equal and opposite end moments and for arches and rings subjected to a uniformly distributed radial load. The solutions are compared with previous theoretical results.
+
+
+    
+        AU - A. S. Veletsos
+    
+        AU - K. W. Dotson
+    
+        AU - C. E. Ventura
+    
+
+TI - Dynamic Response of Simple Systems to Periodic Forces
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 2289-2307
+VI - 113
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1987)113:10(2289) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282289%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282289%29
+SO - Journal of Structural Engineering 1987-10-01 113(10): 2289-2307
+AB - A study of the response of single‐degree‐of‐freedom, viscously damped linear systems to non‐harmonic periodic excitations is presented, so as to elucidate the effects of the various factors involved and to present information with which salient aspects of the response may be identified readily. Both the steady‐state response and the absolute maximum transient response of the system are examined. The maximum steady‐state response is also compared with the corresponding transient response induced by the first cycle of the forcing function. Special attention is paid to the behavior of low‐frequency, compliant systems which are becoming of increasing importance in offshore construction.
+
+
+    
+        AU - Helmut M. Haydl
+    
+
+TI - Bending of Interstice Walls in Circular Silos
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 2311-2315
+VI - 113
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1987)113:10(2311) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282311%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282311%29
+SO - Journal of Structural Engineering 1987-10-01 113(10): 2311-2315
+AB - Circular concrete silos are often arranged in clusters, thus forming additional storage spaces, called interstices or interstice bins. Methods of analysis for calculating maximum bending moments and axial force in the interstice wall are summarized and a more realistic theoretical model is proposed. Simple equations are proposed which are directly applicable to silo design. These formulas account for the realistic inclusion of proper boundary conditions in the computer model.
+
+
+    
+        AU - C. Y. Wang
+    
+
+TI - Approximate Formulas for Buckling of Heavy Column with End Load
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 2316-2320
+VI - 113
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1987)113:10(2316) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282316%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282316%29
+SO - Journal of Structural Engineering 1987-10-01 113(10): 2316-2320
+AB - An approximate stability condition is derived for a column with one end fixed and the other end free, under its self weight, and an end load at its free end. This stability condition is accurate for low values of self weight.
+
+
+    
+        AU - Sigurdur T. Thoroddsen
+    
+
+TI - Discussion of &#x201c;<i>Wind Induced Lateral&#x2010;Torsional Motion of Buildings</i>&#x201d; by Andrew Tallin and Bruce Ellingwood (Oct., 1985)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 2323-2323
+VI - 113
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1987)113:10(2323) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282323%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282323%29
+SO - Journal of Structural Engineering 1987-10-01 113(10): 2323-2323
+
+
+    
+        AU - Andrew Tallin
+    
+        AU - Bruce Ellingwood
+    
+
+TI - Closure to &#x201c;<i>Wind Induced Lateral&#x2010;Torsional Motion of Buildings</i>&#x201d; by Andrew Tallin and Bruce Ellingwood (Oct., 1985)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 2323-2323
+VI - 113
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1987)113:10(2323.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282323.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282323.2%29
+SO - Journal of Structural Engineering 1987-10-01 113(10): 2323-2323
+
+
+    
+        AU - René Maquoi
+    
+        AU - Jean‐Pierre Jaspart
+    
+
+TI - Discussion of &#x201c;<i>Moment Rotation Curves for Bolted Connections</i>&#x201d; by Yoke Leong Yee and Robert E. Melchers (March, 1986, Vol. 112, No. 3)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 2324-2327
+VI - 113
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1987)113:10(2324) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282324%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282324%29
+SO - Journal of Structural Engineering 1987-10-01 113(10): 2324-2327
+
+
+    
+        AU - Yoke Leong Yee
+    
+        AU - Robert E. Melchers
+    
+
+TI - Closure to &#x201c;<i>Moment Rotation Curves for Bolted Connections</i>&#x201d; by Yoke Leong Yee and Robert E. Melchers (March, 1986, Vol. 112, No. 3)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 2327-2329
+VI - 113
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1987)113:10(2327) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282327%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282327%29
+SO - Journal of Structural Engineering 1987-10-01 113(10): 2327-2329
+
+
+    
+        AU - Theodor Krauthammer
+    
+
+TI - Discussion of &#x201c;<i>Effectiveness Factor for Shear in Concrete Beams</i>&#x201d; by B. deV. Batchelor, H. K. George, and T. I. Campbell (June, 1986, Vol. 112, No. 6)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 2329-2331
+VI - 113
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1987)113:10(2329) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282329%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282329%29
+SO - Journal of Structural Engineering 1987-10-01 113(10): 2329-2331
+
+
+    
+        AU - B. deV. Batchelor
+    
+        AU - Herbert K. George
+    
+        AU - T. Ivan Campbell
+    
+
+TI - Closure to &#x201c;<i>Effectiveness Factor for Shear in Concrete Beams</i>&#x201d; by B. deV. Batchelor, H. K. George, and T. I. Campbell (June, 1986, Vol. 112, No. 6)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 2331-2332
+VI - 113
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1987)113:10(2331) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282331%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282331%29
+SO - Journal of Structural Engineering 1987-10-01 113(10): 2331-2332
+
+
+TI - Erratum: “Combined Bending and Axial Loading in Lumber” by Andrew H. Buchanan (December, 1986, Vol. 112, No. 12)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 2333-2333
+VI - 113
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1987)113:10(2333) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282333%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282333%29
+SO - Journal of Structural Engineering 1987-10-01 113(10): 2333-2333
+
+
+TI - Erratum: “Seismic Performance of Precast Prestressed Concrete Piles” by S. Banerjee, J. F. Stanton, and N. M. Hawkins (February, 1987, Vol. 113, No. 2)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 2333-2333
+VI - 113
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(1987)113:10(2333.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282333.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A10%282333.2%29
+SO - Journal of Structural Engineering 1987-10-01 113(10): 2333-2333
+
+

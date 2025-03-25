@@ -1,0 +1,397 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Subhash C. Anand
+    
+        AU - David T. Young
+    
+
+TI - Finite Element Model for Composite Masonry
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 2637-2651
+VI - 108
+IP - 12
+AID - 10.1061/JSDEAG.0006096 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006096
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006096
+SO - Journal of the Structural Division 1982-12-01 108(12): 2637-2651
+AB - A two-dimensional composite element is developed in this study that is capable of predicting the out-of-plane interlaminar shearing stresses between the brick and block wythes without using a three-dimensional finite element model. This composite element is utilized in two-dimensional analyses in a plane-strain condition. The results of these analyses are compared with those using the plane-strain finite element models. These comparisons indicate that the two-dimensional composite element models predict interlaminar shearing stresses in the collar joint that are in good agreement with those obtained from the plane-strain models. Although the composite element is initially developed for only elastic conditions in an unreinforced collar joint without any consideration to fracture and failure, these criteria can be easily incorporated in the proposed model.
+
+
+    
+        AU - C. Michael Donoghue
+    
+
+TI - Composite Beams with Web Openings: Design
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 2652-2667
+VI - 108
+IP - 12
+AID - 10.1061/JSDEAG.0006097 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006097
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006097
+SO - Journal of the Structural Division 1982-12-01 108(12): 2652-2667
+AB - A general method for the analysis and design of composite steel-concrete beams with openings centered in the web of the steel section is developed. The approach is based on ultimate strength concepts and allows for the presence of variable amounts of reinforcements in the web and partial shear connection. Design equations and a worked example are presented.
+
+
+    
+        AU - Theodore V. Galambos
+    
+        AU - T. A. Reinhold
+    
+        AU - Bruce Ellingwood
+    
+
+TI - Serviceability Limit States: Connection Slip
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 2668-2680
+VI - 108
+IP - 12
+AID - 10.1061/JSDEAG.0006098 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006098
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006098
+SO - Journal of the Structural Division 1982-12-01 108(12): 2668-2680
+AB - The serviceability limit state for slip of bolted steel joints is the slip-resistance. The statistical properties of the parameters which define this resistance are presented and analyzed. Based on these properties, and using First-Order Second-Moment probabilistic analysis, limit-states design criteria are developed for friction-grip bolted joints.
+
+
+    
+        AU - Helmut Floegl
+    
+        AU - Herbert A. Mang
+    
+
+TI - Tension Stiffening Concept Based on Bond Slip
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 2681-2701
+VI - 108
+IP - 12
+AID - 10.1061/JSDEAG.0006099 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006099
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006099
+SO - Journal of the Structural Division 1982-12-01 108(12): 2681-2701
+AB - Consideration of tension stiffening in reinforced concrete panels by means of so-called “tension stiffening factors,” appearing in total and incremental equilibrium equations, has proved to be very effective. These factors result from bond slip between the reinforcement and the surrounding concrete. They are directly proportional to the average bond stress between adjacent cracks, the crack spacing, the cosine of the angle enclosed by the normal to the crack, and the reinforcement and inversely proportional to the average steel stress and the diameter of the reinforcement. The proposed concept does not require introduction of relative displacements. The method is applied to predict the short-term behavior of panels. The Finite Element Method is used as an analysis tool. Results agree well with experimental values obtained by other researchers. If, however, tension stiffening is disregarded, failure loads are underestimated whereas steel stresses are overestimated.
+
+
+    
+        AU - Shamim A. Sheikh
+    
+        AU - S. M. Uzumeri
+    
+
+TI - Analytical Model for Concrete Confinement in Tied Columns
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 2703-2722
+VI - 108
+IP - 12
+AID - 10.1061/JSDEAG.0006100 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006100
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006100
+SO - Journal of the Structural Division 1982-12-01 108(12): 2703-2722
+AB - An analytical model for the confinement mechanisms in tied columns has been developed. The model is based on the test results reported previously. A complete stress-strain curve for confined concrete is proposed. The strength of the confined concrete is calculated by using the concept of the effectively confined concrete area within the nominal concrete core. The area of the effectively confined concrete is determined by the tie spacing, the distribution of longitudinal steel around the core perimeter and the resulting tie configuration. According to the model, better distribution of longitudinal steel and smaller tie spacing result in higher strength and ductility of concrete. Other variables examined include the volumetric ratio of lateral reinforcement and the characteristics of steel. The results from the model agree well with the test results. Practical examples demonstrating the application of the model have been presented. Building code requirements for confinement are examined and it has been concluded that in certain circumstances the Codes provisions may be unsafe, while in others they may be unnecessarily conservative.
+
+
+    
+        AU - Theodore Stathopoulos
+    
+
+TI - Wind Pressures on Low Buildings with Parapets
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 2723-2736
+VI - 108
+IP - 12
+AID - 10.1061/JSDEAG.0006101 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006101
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006101
+SO - Journal of the Structural Division 1982-12-01 108(12): 2723-2736
+AB - The effect of parapets on the wind loading of low-rise buildings has been examined in the past, primarily under conditions of uniform flow not representing the variation of the mean speed with height and the turbulence characteristics of the natural wind. This paper presents the results of a recent experimental study carried out in a boundary layer wind tunnel in order to determine the wind loads on low-rise buildings of different configurations with and without parapets. Data show that the addition of parapets reduces the magnitude of roof peak suction coefficients with values greater than about 1.75 for open country and about 3.0 for suburban exposures, whereas lower suction values remain unaffected or slightly increase. On the other hand, parapets tend to increase the mean suction locally close to roof corners. The implication of the data presented for current Standards and Codes of Practice is analyzed and suggestions are made.
+
+
+    
+        AU - Lawrence D. Bruesch
+    
+
+TI - Forest Service Timber Bridge Specifications
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 2737-2746
+VI - 108
+IP - 12
+AID - 10.1061/JSDEAG.0006102 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006102
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006102
+SO - Journal of the Structural Division 1982-12-01 108(12): 2737-2746
+AB - Approximately one half of the 12,000 Forest Service road and trail bridges are constructed of wood or have wood as a major component. The number constructed each year fluctuates with the cost of timber and the complexity of the individual bridges. The typical Forest Service road bridge is a pressure treated, single span, single lane, 40 ft. long structure with timber abutments, glu-lam or solid sawn stringers, laminated deck, timber curbs and rail posts, and a steel deep beam railing. Design, with minor exceptions such as truck loadings and railing, is in accordance with the AASHTO Standard Specifications for Highway Bridges. Installation is controlled by Forest Service Standard Specifications for Construction of Roads and Bridges. The specifications are quite similar to the FP-79 specifications developed by the Federal Highway Administration. There are regional differences depending on availability of construction materials and on the environmental conditions.
+
+
+    
+        AU - M. Z. Cohn
+    
+        AU - M. Bartlett
+    
+
+TI - Computer-Simulated Flexural Tests of Partially Prestressed Concrete Sections
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 2747-2765
+VI - 108
+IP - 12
+AID - 10.1061/JSDEAG.0006103 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006103
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006103
+SO - Journal of the Structural Division 1982-12-01 108(12): 2747-2765
+AB - Partially prestressed concrete is redefined in terms of three variables related to the total amount of steel reinforcement, the proportion of high strength to total amount of steel reinforcement, and the degree of prestressing of the high grade steel. This definition enables any structural concrete section design to be identified by a point in the three dimensional space of the chosen variables. Limit states for all types of structural concrete sections are also defined. A computer program for the analysis of structural concrete sections is developed and used to trace the loading history of 264 computer-simulated tests. Two series of tests explore the extreme cases of maximum permissible prestressing and maximum mixed reinforcement index. The effects of the three primary variables above inelastic behavior and ductility of partially prestressed concrete sections are investigated.
+
+
+    
+        AU - F. Wayne Klaiber
+    
+        AU - Kenneth F. Dunker
+    
+        AU - Wallace W. Sanders
+    
+
+TI - Strengthening of Single-Span Steel-Beam Bridges
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 2766-2780
+VI - 108
+IP - 12
+AID - 10.1061/JSDEAG.0006104 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006104
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006104
+SO - Journal of the Structural Division 1982-12-01 108(12): 2766-2780
+AB - The use of post-tensioning to increase the strength of steel beams in beam and concrete-slab bridges is shown to be feasible. The purpose of the study is to determine a technique for increasing the capacity of the bridges to meet today's loadings. The results of testing a half-scale model of an existing bridge indicate that post-tensioning can be used with only minor deck cracking. Comparisons of the data from the model with results using orthotropic plate theory indicate that this theory can be used as a preliminary design methodology for determining the required prestress force and its location for strengthening existing bridges.
+
+
+    
+        AU - Michael J. O'Rourke
+    
+        AU - Robert Redfield
+    
+        AU - Peter von Bradsky
+    
+
+TI - Uniform Snow Loads on Structures
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 2781-2798
+VI - 108
+IP - 12
+AID - 10.1061/JSDEAG.0006105 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006105
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006105
+SO - Journal of the Structural Division 1982-12-01 108(12): 2781-2798
+AB - Data on ground and roof snow loads for 199 structures are analyzed. Relationships between ground-to-roof conversion factor for uniform roof loads and parameters such as roof slope, exposure and thermal characteristics are investigated. The conversion factor was found to be most strongly influenced by exposure. On the average, there was about a 35% difference in conversion factors for windswept and sheltered roofs. The conversion factor was influenced to a lesser degree by thermal characteristics. On the average, there was about a 20% difference in conversion factors for heated and unheated structures. Roof slopes between 0° and 35 ° did not have an observable effect upon the conversion factors. An expected value relationship for the conversion factor was established. The variation of observed values about the expected value was modeled by a log-normal error term with a standard deviation for ln(ε) = 0.42. Comparisons with existing codes and standards indicate that their recommended conversion factors are, on average, larger than measured values.
+
+
+    
+        AU - John E. Behan
+    
+        AU - Colin O'Connor
+    
+
+TI - Creep Buckling of Reinforced Concrete Columns
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 2799-2818
+VI - 108
+IP - 12
+AID - 10.1061/JSDEAG.0006106 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006106
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006106
+SO - Journal of the Structural Division 1982-12-01 108(12): 2799-2818
+AB - An analysis is described for the long-term buckling behavior of reinforced concrete columns using the superposition model for creep analysis. The analysis considers the complete strain history and allows for cracking and age-hardening of concrete. The analysis is nonlinear, providing for yielding of steel and the inelastic response of the concrete at all levels of stress. The shape of the deflected column is determined in the analysis, and is not constrained to any particular geometry. Allowance is made for initial imperfection and eccentricity of loading. The only assumptions made are that full composite action exists between steel and concrete, and a linear strain profile exists for combined axial force and bending. The results of 51 short-term and 16 long-term tests are presented. The analysis gives excellent prediction of short-term load capacities and deflected shapes. A reasonable estimate for life under long-term loads is obtained. A method is given for the accurate estimation of long-term load capacities, which agrees well with the results of tests.
+
+
+    
+        AU - Arcady V. Koretsky
+    
+        AU - Ross W. Pritchard
+    
+
+TI - Assessment of Relaxation Loss Estimates for Strands
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 2819-2836
+VI - 108
+IP - 12
+AID - 10.1061/JSDEAG.0006107 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006107
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006107
+SO - Journal of the Structural Division 1982-12-01 108(12): 2819-2836
+AB - Significant variations in the techniques of measuring relaxation losses in prestressing strands and in the relaxation values recommended by the Australian and International Standards and Design Codes are discussed. A specially designed test frame is reported and its capabilities are demonstrated on a series of twenty-five relaxation tests. Areas of particular emphasis are test method, relaxation losses during first minute after completion of stressing, isothermal relationships between the relaxation values at 1,000 hours and at ultimate, and the time dependent relaxation relationships when steam curing is employed. It is concluded on the basis of the test data obtained that test equipment should be more rigidly specified and standardized and that modifications are required to the current methods of estimating the magnitude of the strand relaxation. Modifications to the Australian Standards are suggested.
+
+
+    
+        AU - Joseph A. Yura
+    
+        AU - Mikkel A. Hansen
+    
+        AU - Karl H. Frank
+    
+
+TI - Bolted Splice Connections with Undeveloped Fillers
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 2837-2849
+VI - 108
+IP - 12
+AID - 10.1061/JSDEAG.0006108 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006108
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006108
+SO - Journal of the Structural Division 1982-12-01 108(12): 2837-2849
+AB - The use of undeveloped filler plates has a definite influence on the loading and deformation behavior of bolted splice joints. Two replicate tests were completed on each of five different filler plate assemblages. Bolted splice joints were tested with fillers ranging from 0-0.75 in. (0-19.05 mm) in thickness. Single-ply and multi-ply fillers were used. Deformations, slip loads, and ultimate loads were studied for the filler combinations. Increasing the thickness of undeveloped fillers causes a significant increase in the deformation at maximum load but only a slight decrease in ultimate load. Comparison of test results to the AASHTO and AISC specifications are made along with recommendations for design.
+
+
+    
+        AU - Dann H. Hall
+    
+
+TI - Closure to “Proposed Steel Column Strength Criteria”
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 2853-2855
+VI - 108
+IP - 12
+AID - 10.1061/JSDEAG.0006109 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006109
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006109
+SO - Journal of the Structural Division 1982-12-01 108(12): 2853-2855
+
+
+    
+        AU - James M. Nau
+    
+
+TI - Discussion of “An Evaluation of Inelastic Seismic Design Spectra”
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 2855-2856
+VI - 108
+IP - 12
+AID - 10.1061/JSDEAG.0006110 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006110
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006110
+SO - Journal of the Structural Division 1982-12-01 108(12): 2855-2856
+
+
+    
+        AU - Stephen A. Mahin
+    
+        AU - Vitelmo V. Bertero
+    
+
+TI - Closure to “An Evaluation of Inelastic Seismic Design Spectra”
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 2857-2858
+VI - 108
+IP - 12
+AID - 10.1061/JSDEAG.0006111 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006111
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006111
+SO - Journal of the Structural Division 1982-12-01 108(12): 2857-2858
+
+
+    
+        AU - J. G. Church
+    
+        AU - L. A. Clark
+    
+
+TI - Discussion of “Prediction of Temperatures in Concrete Bridges”
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 2858-2859
+VI - 108
+IP - 12
+AID - 10.1061/JSDEAG.0006112 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006112
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006112
+SO - Journal of the Structural Division 1982-12-01 108(12): 2858-2859
+
+
+    
+        AU - Malcolm J. S. Hirst
+    
+
+TI - Discussion of “Prediction of Temperatures in Concrete Bridges”
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 2860-2860
+VI - 108
+IP - 12
+AID - 10.1061/JSDEAG.0006113 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006113
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006113
+SO - Journal of the Structural Division 1982-12-01 108(12): 2860-2860
+
+
+    
+        AU - Yehuda J. Sokal
+    
+        AU - Allan Churchward
+    
+
+TI - Closure to “Prediction of Temperatures in Concrete Bridges”
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 2860-2861
+VI - 108
+IP - 12
+AID - 10.1061/JSDEAG.0006114 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006114
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006114
+SO - Journal of the Structural Division 1982-12-01 108(12): 2860-2861
+
+
+    
+        AU - Ralejs Tepfers
+    
+
+TI - Erratum for “Lapped Tensile Reinforcement Splices”
+PT - Journal Article
+DP - 1982
+TA - Journal of the Structural Division
+PG - 2861-2861
+VI - 108
+IP - 12
+AID - 10.1061/JSDEAG.0006115 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0006115
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0006115
+SO - Journal of the Structural Division 1982-12-01 108(12): 2861-2861
+
+

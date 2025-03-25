@@ -1,0 +1,596 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Ezio Giuriani
+    
+        AU - Giovanni Plizzari
+    
+        AU - Cristiano Schumm
+    
+
+TI - Role of Stirrups and Residual Tensile Strength of Cracked Concrete on Bond
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 1-18
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(1) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%281%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%281%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 1-18
+AB - The local bond‐slip law of an anchored ribbed bar after the splitting of its surrounding concrete is studied. Particular attention is devoted to understanding the reason why several experimental results show a different variability of this law along the bar. Actually, the bond is governed by the local confining action, which can vary; and its variability depends on both concrete mechanical properties and geometrical characteristics of the specimen. A significant contribution to this action is due to the transverse reinforcement and the residual tensile strength of splitted concrete. Another contribution is due to the structural characteristics, such as the transverse support restraints and possible lateral loads. A refined analytical model involving the local mechanical properties of concrete and the interaction phenomena between the principal and transverse reinforcement is developed. Experimental confirmations of the theoretical results are also presented. Finally, diagrams that are significant for design are shown, giving indications of the minimum transverse reinforcement needed to prevent splitting failure and to limit the opening of the splitting crack.
+
+
+    
+        AU - Chia‐Ming Uang
+    
+
+TI - Establishing <i>R</i> (or Rw) and Cd Factors for Building Seismic Provisions
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 19-28
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(19) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%2819%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%2819%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 19-28
+AB - This paper derives the basic formulas for establishing the response modification factor R and the displacement amplification factor Cd used in the National Earthquake Hazards Reduction Program (NEHRP) recommended provisions. An extension of the approach is used to derive the system modification factor Rw used in the 1988 Uniform Building Code. These terms are primarily functions of both the structural overstrength and structural ductility factors. Because of the empirical nature of the NEHRP recommended values for these factors, it is difficult to justify the relative values between R and Cd factors for most of the building systems. The structural overstrength factor, which can be determined from analytical studies, depends on structural redundancy, story drift limitations, multiple load combinations, strain hardening, participation of nonstructural elements, and other parameters. Although the ductility factor of an individual structural member can be determined experimentally, there is no general agreement within the profession of how the concept of ductility factor should be applied at the structural system level.
+
+
+    
+        AU - Stephen E. Dritsos
+    
+
+TI - Distortion of Concrete Box Beams due to Eccentric Transverse Loads
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 29-47
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(29) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%2829%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%2829%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 29-47
+AB - A study of the distortion of thin‐walled concrete trapezoidal single‐ and double‐cell box beams due to eccentric loading at an arbitrary transverse position on the top flange is presented. The governing equation for the distortional angle is developed and compared to the corresponding equation for the case in which the load is over the external web. In addition, the mathematical analogy with the differential equation for a beam on an elastic foundation is established. Expressions for the stresses and forces due to distortion are obtained in closed form. A sensitivity analysis of the effect of arbitrary transverse position of the load is also presented.
+
+
+    
+        AU - Parviz Soroushian
+    
+        AU - Kienuwa Obasaki
+    
+        AU - Shashidhara Marikunte
+    
+
+TI - Analytical Modeling of Bonded Bars under Cyclic Loads
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 48-60
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(48) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%2848%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%2848%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 48-60
+AB - A new modeling technique for predicting the behavior of deformed bars anchored in concrete is developed. In the model, the bond between steel and concrete is simulated with discrete springs that connect the bar to concrete along the anchorage length. The simulation technique is based on the displacement method of analysis. Unlike other approaches, the new model does not require iterative solution of the governing nonlinear equations. This technique involves the construction of the tangent stiffness matrix of the anchorage for use in an incremental solution algorithm. The model is thus very time‐efficient for computer analysis. The proposed model is used for simulating the behavior of bonded bars with common types of boundary conditions. The analytical results are compared with results of monotonic and cyclic tests. The model can be used for efficient idealization of anchorages in analytical studies of structural subassemblies and complete structural systems.
+
+
+    
+        AU - Ray W. James
+    
+        AU - Gary W. Raba
+    
+
+TI - Behavior of Welded Steel Water‐Storage Tank
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 61-79
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(61) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%2861%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%2861%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 61-79
+AB - The performance of a recently constructed welded steel water‐storage tank, believed to be the largest of its kind in the world, is monitored for thermal and live‐load (internal pressure) strains during initial filling. The experimental investigation and data are presented, along with an evaluation of the performance of the tank. Also presented for comparison to the measured stresses are predicted hoop and meridional stress distributions for approximate theories of cylindrical shell behavior. A finite element model using axisymmetric solid elements is used to account for the effects of nonuniform wall thickness and to model base restraint. Differences in predicted and analytical stresses are discussed. Differences due to unknown base restraint are observed and explained. Other observed differences, generally indicating conservative design procedures, are not conclusively explained, but two possible explanations are presented, including residual fabrication stresses and systematic measurement errors.
+
+
+    
+        AU - Patrick D. Zuraski
+    
+
+TI - Continuous‐Beam Analysis for Highway Bridges
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 80-99
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(80) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%2880%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%2880%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 80-99
+AB - Continuous‐beam bridges may be analyzed in a very concise manner for situations of constant‐flexural stiffness (EI), symmetrical structures with interior spans of equal length. When load is applied to only one span, all end moments may be directly determined from simple calculations using coefficients derived on the basis of the compatibility of joint rotations, without iteration or simultaneous equations. Results from multiple loads in several spans may then be obtained by superposition. Closed‐form expressions are presented herein for end moments in continuous beams with three or four spans followed by a presentation of the general formulation for any number of spans, which provides an efficient algorithm suitable for interactive microcomputer usage. Practical applications of the method are illustrated by providing closed‐form expressions for bending moments caused by both dead load and lane load in continuous‐beam highway bridges, and by suggesting a simple procedure for treating as a single unit the several concentrated loads from a bridge‐design vehicle. The technique can easily be customized to suit the needs of individual designers.
+
+
+    
+        AU - Timothy L. Jacobs
+    
+
+TI - Chance‐Constrained Optimization Model for Structural Design
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 100-110
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(100) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28100%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28100%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 100-110
+AB - A mixed‐integer chance‐constrained optimization model is presented for structural design. The model incorporates the probabilistic nature of the loadings experienced throughout the life of the structure and can be used to investigate the trade‐offs between cost and the probability of failure. Design constraints are originally expressed as probability statements, in which the design parameters are considered to be random variables with established probability distributions. The chance constraints impose lower bounds on the likelihood or chance that specified failure criteria are exceeded for each structural member. Using the cumulative distribution function for each design parameter, the chance constraints may be expressed as deterministic equivalent constraints. Possible design solutions are limited to combinations of available standard sections using binary decision variables. An example is presented using a one‐story, one‐bay steel frame, and the results are compared with those obtained through conventional design procedures.
+
+
+    
+        AU - Yoshiaki Goto
+    
+        AU - Satsuki Suzuki
+    
+        AU - Wai‐Fah Chen
+    
+
+TI - Bowing Effect on Elastic Stability of Frames under Primary Bending Moments
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 111-127
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(111) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28111%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28111%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 111-127
+AB - A refined method of analysis for the elastic stability of rigid frames considering the prebuckling deformations due to primary bending moment is proposed. It differs from the method presented originally by Chwalla, and later by Mansur et al. and Lu, in that the proposed method considers precisely the bowing effect in the determination of axial displacements and leads to a symmetric tangent stiffness matrix. The Chwalla method ignores this effect, leading to an asymmetric matrix. Based on the results of our numerical studies, the nonlinear behavior of portal frames is classified into three types (i.e. bifurcation, limit‐load instability, and monotonic increasing) according to the values of structural parameters. Further, it is found that the primary bending moment does not always reduce the buckling load of portal frames. These results are quite different from those obtained previously by the Chwalla method.
+
+
+    
+        AU - Timothy D. Hogue
+    
+        AU - Ahmet E. Aktan
+    
+        AU - Andres Hoyos
+    
+
+TI - Localized Identification of Constructed Facilities
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 128-148
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(128) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28128%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28128%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 128-148
+AB - A general constructed facility identification methodology that permits synthesis of localized flexibility coefficients is presented. An application of it to a region of an in‐situ concrete bridge is also described. Rigorous analytical investigation and modeling is undertaken first; dynamic testing using low stress level and easily induced impact excitation are executed next. Modal parameters except for damping ratios are identified, then the mass matrix is estimated, and then the flexibility matrix is derived. Model parameters are altered rationally; and a very good match between experimental and model flexibilities is attained. This is accomplished despite the existence of several closely spaced modes and the use of a simple identification algorithm. A static test is conducted to validate the dynamic test‐based identification. A very strong agreement is shown between static and dynamic test results. Analytical modeling, field testing, and data reduction are found to be highly interrelated tasks. Remarks on needed further research in each of these areas is presented.
+
+
+    
+        AU - Grzegorz Gajer
+    
+        AU - Peter F. Dux
+    
+
+TI - Simplified Nonorthogonal Crack Model for Concrete
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 149-164
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(149) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28149%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28149%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 149-164
+AB - A new material model that accounts for fracture of concrete is presented. The model is based on the crack‐band concept, providing a formulation suitable for application in the analysis of reinforced concrete structures. The material model features simplified representations of both nonorthogonal cracking and the influence of this cracking on local material stiffnesses. At an integration point, only one primary crack of fixed direction and one rotating crack are allowed to develop. Although the cracks are nonorthogonal to a varying degree during loading, their effect is assessed approximately on softening moduli in orthogonal directions and thus coupling effects are accounted for simply. Numerical examples show the satisfactory performance of this pseudo‐nonorthogonal fracture model.
+
+
+    
+        AU - Lin Su
+    
+        AU - Goodarz Ahmadi
+    
+        AU - Iradj G. Tadjbakhsh
+    
+
+TI - Performance of Sliding Resilient‐Friction Base‐Isolation System
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 165-181
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(165) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28165%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28165%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 165-181
+AB - Combining the desirable features of the Electricite de France (EDF) base isolator and the resilient‐friction base‐isolation (R‐FBI) system, a modified design for a base isolation system is proposed. Seismic performance of this isolator, which is referred to as the sliding resilient‐friction (SR‐F) base‐isolation system, for a nonuniform shear beam structure is studied. Displacement and acceleration response spectra of the base‐isolated structure for different earthquakes are evaluated. Parametric studies on variations in properties of the SR‐F base isolator are also carried out. The peak responses are compared with those obtained for base‐isolated shear beam structures that use the EDF and the R‐FBI systems, as well as with those for the fixed‐base shear‐beam structure. The SR‐F system effectively reduces the peak acceleration responses without generating large base displacements. Furthermore, the peak responses are not sensitive to severe variations in frequency contents and amplitude of the ground acceleration.
+
+
+    
+        AU - H. M. Aktan
+    
+        AU - W. Youssef‐Agha
+    
+        AU - O. D. Olowokere
+    
+
+TI - Response of Low‐Rise Steel Frames with Fabrication Errors
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 182-196
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(182) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28182%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28182%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 182-196
+AB - An evaluation of the errors that usually occur during the fabrication and erection of bolted connections of steel frames is presented. Specifically, the significance of fabrication errors on the serviceability of low‐rise steel frames under wind and low‐level seismic action is studied. The moment rotation relationship of a partially restrained (PR) top and seat angle connection is developed based on behavior models that include the effects of each fabrication error. Nonlinear analysis of a low‐rise steel frame under lateral wind action and low‐level seismic load are performed. The comparative seismic responses of frames with and without fabrication errors are presented in the form of response amplification factors, in which the maximum interstory drift of the frame is plotted with respect to the fundamental frequency. The frame response under wind effect is compared to frames with no fabrication efforts.
+
+
+    
+        AU - David J. Stevens
+    
+        AU - Theodor Krauthammer
+    
+
+TI - Analysis of Blast‐Loaded, Buried RC Arch Response. I: Numerical Approach
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 197-212
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(197) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28197%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28197%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 197-212
+AB - The physical processes that govern the dynamic interaction between a soil continuum and an abutting or embedded structure are very complex and, often, highly nonlinear, requiring a numerical approach for the solution of such problems. Given the scarcity of experimental studies relative to any particular combination of structure, soil, and loading, the development of efficient analytical/computational tools is important in order to: (1) Understand the complex nonlinear response observed experimentally; (2) perform parametric studies; and (3) develop design guidelines. The approach outlined in this paper represents one attempt at expanding the state‐of‐the‐art in dynamic soil‐structure interaction modeling. In this approach, a hybrid numerical method, which merges the finite difference technique with the finite element method, is combined with a nonlocal continuum damage/plasticity model for concrete, a viscous cap plasticity model for dry sand, and an elastic/strain hardening plasticity model for steel, as described in Part I. (Part II, which immediately follows this paper, presents the application of this approach to the analysis of two soil‐structure systems for which test data are available; in these tests, buried, reinforced concrete arches of different geometries and materials were subjected to surface‐generated blast loads.)
+
+
+    
+        AU - David J. Stevens
+    
+        AU - Theodor Krauthammer
+    
+        AU - Dipankar Chandra
+    
+
+TI - Analysis of Blast‐Loaded, Buried RC Arch Response. Part II: Application
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 213-234
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(213) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28213%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28213%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 213-234
+AB - A hybrid numerical approach, which combines the finite difference technique and the finite element method, is coupled with a nonlocal continuum damage/plasticity model for plain concrete, a rate‐dependent cap model for soil, and an elastic/strain hardening plasticity model for steel. The resulting approach is applied in the analyses of two shallow buried reinforced concrete arches that were blast loaded (using explosive‐generated pressures applied to the soil surface) in separate test programs. The geometry and structural detailing of the two specimens are different, as are the soil properties, depths of burial, and the surface blast pressures. The comparisons between the predictions and the test results are shown to agree well overall. The numerical results are discussed in light of the test data in order to better understand the structural mechanisms that develop during testing. The discrepancies between the test data and the numerical results are discussed and corrections to the model are proposed.
+
+
+    
+        AU - Adnan Kuyucular
+    
+
+TI - Prestressing Optimization of Concrete Slabs
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 235-254
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(235) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28235%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28235%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 235-254
+AB - An algorithm to minimize prestressing steel in concrete slabs is presented; it is based on elastic theory and uses the finite element method. The influence‐line method and the equivalent‐load approach are reviewed and the latter is employed to compute the effects of prestressing. The cable weight of concrete slabs can be minimized by using nonuniform tendon layouts, but this problem requires iteration; since the moments and the prestressing force of a section depend on the tendon layout. A computer program that calculates the effects of different cable groupings and external loadings is developed. Considering certain cable layouts, these individual solutions are then manually superimposed and the sections are checked to determine whether they abide by the allowable stress limits. The best solution, which yields the minimum weight of prestressing reinforcement, is then obtained systematically. The advantage and importance of the algorithm is illustrated by solving three examples.
+
+
+    
+        AU - J. A. Puckett
+    
+        AU - D. L. Wiseman
+    
+
+TI - Compound Strip Method for Folded Plates with Connecting Elements
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 255-267
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(255) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28255%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28255%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 255-267
+AB - The compound strip method is extended to include folded plate structures with connecting elements. The potential energy formulation common to the finite strip method is retained, and a direct stiffness technique for incorporating connecting elements is developed. The stiffnesses of connecting elements attached to the plate system at discrete points are written with respect to local element degrees of freedom, which are then transformed into forms consistent with the nodal parameters of the finite strips. The additional stiffnesses of grounded columns and connecting elements are derived in this manner and added directly to the finite strip stiffness. The combined use of rotation transformations and displacement parameter interpolation to model connecting elements with arbitrary orientations has not previously been applied to the finite strip method.
+
+
+    
+        AU - D. L. Wiseman
+    
+        AU - J. A. Puckett
+    
+
+TI - Applications of Compound Strip Method for Folded Plates with Connecting Elements
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 268-285
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(268) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28268%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28268%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 268-285
+AB - The compound strip method (CSM) is extended to include folded plate structures with frame elements in this paper, the second of two. The mathematical development of the CSM is described in the first paper and the application of the CSM is illustrated herein. Example analyses include a folded plate roof supported by rigid diaphragms, a folded plate roof supported by a flexible frame, a contrived folded plate system consisting of two plates connected by two skewed strut elements, and a box‐girder bridge with various cross‐bracing configurations. Experimental data in conjunction with conventional finite elements are employed for comparison of accuracy and computational effort.
+
+
+    
+        AU - Annibale L. Materazzi
+    
+
+TI - Discussion of &#x201c;<i>Evaluation of Compressive Strength of Masonry Walls by Limit Analysis</i>&#x201d; by Luigi Biolzi (October, 1988, Vol. 114, No. 10)
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 288-291
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(288) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28288%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28288%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 288-291
+
+
+    
+        AU - Peter G. Buckland
+    
+
+TI - Discussion of &#x201c;<i>Bridge Reliability Evaluation Using Load Tests</i>&#x201d; by Andrzej S. Nowak and T. Tharmabala (October, 1988, Vol. 114, No. 10)
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 291-291
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(291) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28291%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28291%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 291-291
+
+
+    
+        AU - Andrzej S. Nowak
+    
+        AU - T. Tharmabala
+    
+
+TI - Closure to &#x201c;<i>Bridge Reliability Evaluation Using Load Tests</i>&#x201d; by Andrzej S. Nowak and T. Tharmabala (October, 1988, Vol. 114, No. 10)
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 291-292
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(291.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28291.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28291.2%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 291-292
+
+
+    
+        AU - Fariborz Barzegar
+    
+
+TI - Discussion of &#x201c;<i>Elasto&#x2010;Plastic Cracking Analysis of Reinforced Concrete</i>&#x201d; by C. Channakeshava and K. T. Sundara Raja Iyengar (November, 1988, Vol. 114, No. 11)
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 292-294
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(292.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28292.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28292.2%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 292-294
+
+
+    
+        AU - C. Channakeshava
+    
+        AU - K. T. Sundara Raja Iyengar
+    
+
+TI - Closure to &#x201c;<i>Elasto&#x2010;Plastic Cracking Analysis of Reinforced Concrete</i>&#x201d; by C. Channakeshava and K. T. Sundara Raja Iyengar (November, 1988, Vol. 114, No. 11)
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 294-298
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(294.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28294.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28294.2%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 294-298
+
+
+    
+        AU - M. Nasser Darwish
+    
+
+TI - Discussion of &#x201c;<i>Layering of RC Membrane and Plate Elements in Nonlinear Analysis</i>&#x201d; by Fariborz Barzegar (November, 1988, Vol. 114, No. 11)
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 298-299
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(298.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28298.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28298.2%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 298-299
+
+
+    
+        AU - Fariborz Barzegar
+    
+
+TI - Closure to &#x201c;<i>Layering of RC Membrane and Plate Elements in Nonlinear Analysis</i>&#x201d; by Fariborz Barzegar (November, 1988, Vol. 114, No. 11)
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 299-300
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(299.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28299.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28299.2%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 299-300
+
+
+    
+        AU - Riccardo Zandonini
+    
+
+TI - Discussion of &#x201c;<i>Design Rules of Built&#x2010;Up Members in Load and Resistance Factor Design</i>&#x201d; by Lian Duan and Wai&#x2010;Fah Chen (November, 1988, Vol. 114, No. 11)
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 300-303
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(300.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28300.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28300.2%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 300-303
+
+
+    
+        AU - Lian Duan
+    
+        AU - Wai‐Fah Chen
+    
+
+TI - Closure to &#x201c;<i>Design Rules of Built&#x2010;Up Members in Load and Resistance Factor Design</i>&#x201d; by Lian Duan and Wai&#x2010;Fah Chen (November, 1988, Vol. 114, No. 11)
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 303-304
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(303.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28303.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28303.2%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 303-304
+
+
+    
+        AU - Hassan I. A. Hegab
+    
+
+TI - Discussion of &#x201c;<i>Analysis of Cable&#x2010;Stayed Bridges Supported by Flexible Towers</i>&#x201d; by Fakhry Aboul&#x2010;ella (December, 1989, Vol. 114, No. 12)
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 304-305
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(304.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28304.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28304.2%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 304-305
+
+
+    
+        AU - Fakhry Aboul‐ella
+    
+
+TI - Closure to &#x201c;<i>Analysis of Cable&#x2010;Stayed Bridges Supported by Flexible Towers</i>&#x201d; by Fakhry Aboul&#x2010;ella (December, 1989, Vol. 114, No. 12)
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 306-307
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(306) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28306%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28306%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 306-307
+
+
+    
+        AU - Dionisio Bernal
+    
+
+TI - Discussion of &#x201c;<i>Scheme to Improve Numerical Analysis of Hysteretic Dynamic Systems</i>&#x201d; by Roberto Villaverde and Russell C. Lamb (January, 1989, Vol. 115, No. 1)
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 307-308
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(307.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28307.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28307.2%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 307-308
+
+
+    
+        AU - Roberto Villaverde
+    
+        AU - Russell C. Lamb
+    
+
+TI - Closure to &#x201c;<i>Scheme to Improve Numerical Analysis of Hysteretic Dynamic Systems</i>&#x201d; by Roberto Villaverde and Russell C. Lamb (January, 1989, Vol. 115, No. 1)
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 309-310
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(309) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28309%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28309%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 309-310
+
+
+TI - Reviewers of the <i>Journal of Structural Engineering</i>
+PT - Journal Article
+DP - 1991
+TA - Journal of Structural Engineering
+PG - 311-323
+VI - 117
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1991)117:1(311) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28311%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281991%29117%3A1%28311%29
+SO - Journal of Structural Engineering 1991-01-01 117(1): 311-323
+
+

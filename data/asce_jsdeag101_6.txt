@@ -1,0 +1,314 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Peter P. Cole
+    
+        AU - John F. Abel
+    
+        AU - David P. Billington
+    
+
+TI - Buckling of Cooling-Tower Shells: State-of-the-Art
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 1185-1203
+VI - 101
+IP - 6
+AID - 10.1061/JSDEAG.0004072 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004072
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004072
+SO - Journal of the Structural Division 1975-06-01 101(6): 1185-1203
+AB - Various analytical, experimental, and numerical contributions to the buckling analyses of large hyperbolic cooling towers are summarized. The previously published results for axisymmetric pressures and asymmetric wind loadings of hyperboloids are compared to new bifurcation predictions by a finite element method. A limited series of wind-tunnel tests remain the only standard against which various analytical and numerical approaches can be judged. However, numerical studies seem most promising for investigating the effect of such design factors as variable thickness, flexible supports, and edge stiffening.
+
+
+    
+        AU - Peter P. Cole
+    
+        AU - John F. Abel
+    
+        AU - David P. Billington
+    
+
+TI - Buckling of Cooling-Tower Shells: Bifurcation Results
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 1205-1222
+VI - 101
+IP - 6
+AID - 10.1061/JSDEAG.0004073 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004073
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004073
+SO - Journal of the Structural Division 1975-06-01 101(6): 1205-1222
+AB - This paper describes studies of bifurcation buckling of hyperboloids used for large-scale cooling towers. Those studies include the effects of flexible supports, combined loadings from wind, dead weight, and temperature, shell cracking, different variations in the wind pressure distribution, and changes in the shell thickening. Comparisons are made between numerical and wind-tunnel results. The finite element formulation used is examined and results are presented for the tower at the Trojan Nuclear Power Plant on the Columbia River, Oregon.
+
+
+    
+        AU - Porpan Vacharajittiphan
+    
+        AU - Nicholas S. Trahair
+    
+
+TI - Flexural-Torsional Buckling of Curved Members
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 1223-1238
+VI - 101
+IP - 6
+AID - 10.1061/JSDEAG.0004074 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004074
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004074
+SO - Journal of the Structural Division 1975-06-01 101(6): 1223-1238
+AB - A method of analyzing the elastic flexural-torsional buckling of plane curved I-section members is developed. The solutions of the in plane bending equation are substituted into the out-of-plane buckling equations which become linearized. These buckling equations, which contain the bending and torsion differential equations and the boundary and warping equations, are solved numerically by the method of finite integrals, and the critical load is obtained iteratively. Very good agreement is obtained between the results and known solutions. The method can also be used to give more accurate solutions for the buckling of curved as well as initially straight members by using the in plane geometry of the loaded member just before flexural-torsional buckling occurs instead of the unloaded geometry.
+
+
+    
+        AU - Robert D. Cook
+    
+
+TI - Avoidance of Parasitic Shear in Plane Element
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 1239-1253
+VI - 101
+IP - 6
+AID - 10.1061/JSDEAG.0004075 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004075
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004075
+SO - Journal of the Structural Division 1975-06-01 101(6): 1239-1253
+AB - A method for avoiding parasitic shear in displacement-based finite elements is proposed. Internal degrees-of-freedom are not required, and the resulting element is valid whether rectangular or of general quadrilateral shape. The element is improved by adding internal degrees-of-freedom, but it is questionable whether the improvement is worth the added computational expense. The new elements may be immediately adapted to the analysis of solids of revolution. Computational test has shown that the new elements, with or without internal degrees-of-freedom, pass the patch test in axisymmetric problems. The test cases considered were radial loads on a disk of constant thickness and axial loads on a cylinder of constant thickness. Non-rectangular elements were used in both cases. The proposed method of formulation might similarly benefit the eight-node linear isoparametric solid element. As there are many ways to divide a hexahedron into component tetrahedra, the crudest acceptable division must be sought in order to achieve computational efficiency.
+
+
+    
+        AU - Jon A. Peterka
+    
+        AU - Jack E. Cermak
+    
+
+TI - Wind Pressures on Buildings-Probability Densities
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 1255-1267
+VI - 101
+IP - 6
+AID - 10.1061/JSDEAG.0004076 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004076
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004076
+SO - Journal of the Structural Division 1975-06-01 101(6): 1255-1267
+AB - By use of available statistics of building sites describing wind magnitude and direction, calculation of the recurrence interval for peak pressures may be performed if the probability distribution of pressure fluctuations is assumed, e.g., a Gaussian distribution. To perform the analysis adequately, the statistics of pressure fluctuations and their relationship to the governing physical parameters must be known. Fluctuating pressure data have been obtained on a scale model of an actual structure placed in a wind tunnel which simulated the characteristics of the atmospheric wind. The data were analyzed to obtain the probability distribution of the pressure fluctuations. The results show a remarkable similarity in probability distribution for large areas of the structure. In regions of positive pressure, the pressure distribution can be represented adequately by a Gaussian relationship. In regions of negative pressure, deviations from a Gaussian distribution are significant and can lead to a substantial underestimation of peak pressures if that distribution were assumed.
+
+
+    
+        AU - Subhash Chandra Maiti
+    
+
+TI - Plastic Rotations in Continuous Encased Beams
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 1269-1281
+VI - 101
+IP - 6
+AID - 10.1061/JSDEAG.0004077 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004077
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004077
+SO - Journal of the Structural Division 1975-06-01 101(6): 1269-1281
+AB - Reported are test results of rotation capacities of 11 two-span continuous encased beams. Composite beams consisting of steel-joists of variable moments of inertia, encased in concrete, were tested under single and two-point loadings. Beams of both rectangular and T-cross sections were tested. A method of computing the magnitude of plastic rotation at the hinge sections and the redistribution of ments is proposed.The total measured rotations over the plastic lengths corresponding to different hinge sections of the beams, compared well with the theoretical rotations. Consequently,a close agreement has been noticed for the degree of redistribution of moments obtained in tests and that predicted on the basis of the proposed moment-curvature relationship.
+
+
+    
+        AU - Wei-Wen Yu
+    
+        AU - Charles S. Davis
+    
+
+TI - Closure to “Cold-Formed Steel Members with Perforated Elements”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 1285-1285
+VI - 101
+IP - 6
+AID - 10.1061/JSDEAG.0004078 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004078
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004078
+SO - Journal of the Structural Division 1975-06-01 101(6): 1285-1285
+
+
+    
+        AU - Wilfred W. C. Siu
+    
+        AU - Niels C. Lind
+    
+
+TI - Closure to “Some Aspects of Office Design Live Loads”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 1285-1286
+VI - 101
+IP - 6
+AID - 10.1061/JSDEAG.0004079 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004079
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004079
+SO - Journal of the Structural Division 1975-06-01 101(6): 1285-1286
+
+
+    
+        AU - M. C. Stamato
+    
+        AU - E. Mancini
+    
+
+TI - Closure to “Three-Dimensional Interaction of Walls and Frames”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 1286-1287
+VI - 101
+IP - 6
+AID - 10.1061/JSDEAG.0004080 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004080
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004080
+SO - Journal of the Structural Division 1975-06-01 101(6): 1286-1287
+
+
+    
+        AU - Negussie Tebedge
+    
+        AU - Lambert Tall
+    
+
+TI - Closure to “Linear Stability Analysis of Beam Columns”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 1287-1288
+VI - 101
+IP - 6
+AID - 10.1061/JSDEAG.0004081 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004081
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004081
+SO - Journal of the Structural Division 1975-06-01 101(6): 1287-1288
+
+
+    
+        AU - Subhash C. Anand
+    
+
+TI - Closure to “Stress Distributions Around Shallow Buried Rigid Pipes”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 1288-1290
+VI - 101
+IP - 6
+AID - 10.1061/JSDEAG.0004082 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004082
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004082
+SO - Journal of the Structural Division 1975-06-01 101(6): 1288-1290
+
+
+    
+        AU - Isadore K. Silverman
+    
+        AU - John R. Mays
+    
+
+TI - Closure to “Shallow Spherical Shells Under Apex Loads”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 1290-1290
+VI - 101
+IP - 6
+AID - 10.1061/JSDEAG.0004083 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004083
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004083
+SO - Journal of the Structural Division 1975-06-01 101(6): 1290-1290
+
+
+    
+        AU - F. Cheong-Siat-Moy
+    
+        AU - K. Takanashi
+    
+
+TI - Discussion of “Subassemblage Concept for Tall Frame Analysis”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 1291-1293
+VI - 101
+IP - 6
+AID - 10.1061/JSDEAG.0004085 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004085
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004085
+SO - Journal of the Structural Division 1975-06-01 101(6): 1291-1293
+
+
+    
+        AU - F. Cheong-Siat-Moy
+    
+
+TI - Discussion of “Preliminary Plastic Design of Tall Steel Frames”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 1294-1294
+VI - 101
+IP - 6
+AID - 10.1061/JSDEAG.0004086 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004086
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004086
+SO - Journal of the Structural Division 1975-06-01 101(6): 1294-1294
+
+
+    
+        AU - Nimitchai Snitbhan
+    
+
+TI - Discussion of “Rotational Capacity of Prestressed Concrete Beams”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 1295-1296
+VI - 101
+IP - 6
+AID - 10.1061/JSDEAG.0004087 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004087
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004087
+SO - Journal of the Structural Division 1975-06-01 101(6): 1295-1296
+
+
+    
+        AU - Edgar Lightfoot
+    
+        AU - Andrew P. Le Messurier
+    
+
+TI - Erratum for “Elastic Analysis of Frameworks with Elastic Connections”
+PT - Journal Article
+DP - 1975
+TA - Journal of the Structural Division
+PG - 1291-1291
+VI - 101
+IP - 6
+AID - 10.1061/JSDEAG.0004084 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0004084
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0004084
+SO - Journal of the Structural Division 1975-06-01 101(6): 1291-1291
+
+

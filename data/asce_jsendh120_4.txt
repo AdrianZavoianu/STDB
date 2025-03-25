@@ -1,0 +1,409 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Ram Kumar
+    
+        AU - G. C. Nayak
+    
+
+TI - Numerical Modeling of Tensile Crack Propagation in Concrete Dams
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 1053-1074
+VI - 120
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1994)120:4(1053) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281053%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281053%29
+SO - Journal of Structural Engineering 1994-04-01 120(4): 1053-1074
+AB - Recent experience has demonstrated that concrete dams designed with traditional procedures may be vulnerable to damage from excessive tensile stresses. Presence of these tensile stresses and the determination of risk level has necessitated the development of new mathematical models. Linear elastic fracture mechanics (LEFM) is applicable to large structures such as dams because of their very limited fracture process zone. In this paper, a discrete crack approach is preferred because of the basic requirement of LEFM for a line crack and its suitability in modeling of the mixed‐mode or curvilinear crack paths likely to occur in dams. Parametric studies made on 100 and 200‐m high solid, gravity dams reveal that the most significant parameters affecting the tensile stresses and stress‐intensity factor (SIF) are ER/EC, B/H, and the type of singularity at the heel. Preformed cracks certainly relieve tension from the dam body as well as foundation rock, and their location can be ascertained successfully by LEFM.
+
+
+    
+        AU - Siu Lai Chan
+    
+        AU - Goman Wai Ming Ho
+    
+
+TI - Nonlinear Vibration Analysis of Steel Frames with Semirigid Connections
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 1075-1087
+VI - 120
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1994)120:4(1075) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281075%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281075%29
+SO - Journal of Structural Engineering 1994-04-01 120(4): 1075-1087
+AB - To obtain an accurate insight into the behavior of most realistic steel frames, joint flexibility should be allowed for in the analysis. So far, most research work is concentrated on the linear and nonlinear static analysis of steel frames with flexible connections. Very few papers were contributed to the dynamic and vibration analysis of these types of frames. This paper proposes a numerical method for linear and nonlinear vibration analysis of frames with semirigid connections. The special features about this method are the derivation and the use of a shape function with end springs to formulate the element matrices. The effects of initial stress and of the change of joint stiffness due to the applied load are accounted for in the suggested method, which is believed to be more general than the existing methods for vibration analysis of flexibly connected steel frames.
+
+
+    
+        AU - Toshitsugu Saka
+    
+        AU - Yoshiya Taniguchi
+    
+
+TI - Buckling Behavior of Square‐and‐Diagonal Double‐Layer Grid
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 1088-1102
+VI - 120
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1994)120:4(1088) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281088%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281088%29
+SO - Journal of Structural Engineering 1994-04-01 120(4): 1088-1102
+AB - Square‐and‐diagonal double‐layer grids mean both “square‐on‐diagonal” and “diagonal‐on‐square” grids. When the grids are pin‐jointed, they may give rise to unstable higher‐order deformations corresponding to the unstable mode due to the relative rotations of pyramidal units. In practical design, the unstable deformations are often restrained by boundary members and so forth. The buckling behavior and the effects of boundary members are experimentally and theoretically studied in this paper for grids constructed by a bolted jointing system. In the analysis, a member model consisting of a uniform member, rigid end parts and rotational springs is used. As a result, it is found that the unstable deformations appear in the buckling mode of diagonal‐on‐square grids, but do not clearly appear in the case of square‐on‐diagonal grids. The boundary members are effective for the buckling load of diagonal‐on‐square grids, but not effective for square‐on‐diagonal grids. The postbuckling behaviors of the two grids are clearly shown experimentally.
+
+
+    
+        AU - Y. Sakumoto
+    
+        AU - T. Yamaguchi
+    
+        AU - T. Okada
+    
+        AU - M. Yoshida
+    
+        AU - S. Tasaka
+    
+        AU - H. Saito
+    
+
+TI - Fire Resistance of Fire‐Resistant Steel Columns
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 1103-1121
+VI - 120
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1994)120:4(1103) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281103%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281103%29
+SO - Journal of Structural Engineering 1994-04-01 120(4): 1103-1121
+AB - This paper is to verify the fire resistance of columns made from fire‐resistant (FR) structural steel by means of a full‐scale loaded heat test and numerical analysis. Because of the elements contained, FR steel has higher strength than conventional structural steel at elevated temperatures. Its 0.2% proof stress at 600°C is equal to or greater than two‐thirds the value specified at room temperature. Rock wool, ceramic fire protection, and foaming‐type intumescent coating were used as fire‐protection materials. Using Japanese codes, the high‐temperature strength of steel can be exhibited with building members, the fire‐protection thickness can be reduced below what is required for conventional steel columns, and 1‐h fire resistance can be obtained by intumescent coating with a lower insulation property. Also, deformation and fire‐resistance time can be simulated from the mechanical properties at elevated temperatures and elastoplastic thermal deformation analysis. Furthermore, this study is based on Japanese codes, and results will differ if based on ASTM codes.
+
+
+    
+        AU - John F. Muller
+    
+        AU - Peter F. Dux
+    
+
+TI - Fatigue of Prestressed Concrete Beams with Inclined Strands
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 1122-1139
+VI - 120
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1994)120:4(1122) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281122%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281122%29
+SO - Journal of Structural Engineering 1994-04-01 120(4): 1122-1139
+AB - This paper presents the results of laboratory cyclic testing of pretensioned concrete beams with hold‐downs operating in the cracked or partially prestressed condition. It is shown that the fatigue life of inclined strand is low due to flexural action in strand at cracks. This results from the noncoincidence of crack‐opening direction and strand direction. A pattern of regular, fine cracks is desirable. However, the usual pattern features dominant cracking at hold‐downs. Based on experimental data a lower‐bound fatigue‐life equation is proposed. The equation indicates that for a fatigue life of 2,000,000 cycles the stress range in inclined strand should be restricted to 70 MPa for either pretensioned or posttensioned construction. The research suggests that in situations where heavy service loadings are frequent (e.g. railway bridges on heavy haul coal and mineral lines), partially prestressed design featuring inclined strand should be avoided.
+
+
+    
+        AU - Stavros Syngellakis
+    
+        AU - Esmat S. Kameshki
+    
+
+TI - Elastic Critical Loads for Plane Frames by Transfer Matrix Method
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 1140-1157
+VI - 120
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1994)120:4(1140) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281140%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281140%29
+SO - Journal of Structural Engineering 1994-04-01 120(4): 1140-1157
+AB - The transfer matrix methodology is adapted to the stability analysis of unbraced frames. A nonbranching chain of members is generated by partitioning the structure at floor levels. Geometric nonlinearity is accounted for by introducing the stability functions into the member stiffness and the flexural effect of axial forces into the equations of equilibrium. Field and station transfer matrices are derived on the basis of a minimum number of only the essential degrees of freedom per floor level. Displacements and internal forces are determined by a direct procedure that combines a gradual increase of the applied load with iteration at each load level. The critical load is located to a specified degree of accuracy on the first singularity of the appropriate solution matrix. The developed formulation accounts for joint and base flexibility as well as lateral load and fixed‐end moments effects. The accuracy and efficiency of its computer implementation are tested through comparison of its predictions with results obtained experimentally or by other analytical methods.
+
+
+    
+        AU - G. D. Hahn
+    
+        AU - X. Liu
+    
+
+TI - Torsional Response of Unsymmetric Buildings to Incoherent Ground Motions
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 1158-1181
+VI - 120
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1994)120:4(1158) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281158%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281158%29
+SO - Journal of Structural Engineering 1994-04-01 120(4): 1158-1181
+AB - The behavior of unsymmetric buildings excited by incoherent seismic ground motions is studied, and the assessments and information reported make it possible to gain valuable insight into the resulting dynamic response. The effects of the ground motion incoherence and of the structural eccentricity are first considered independently of one another, and attempts are made to identify their relative importance. The torsional effects induced by the incoherence actions are interpreted in terms of normalized accidental eccentricities; and comparisons are made of these eccentricities with the value of 0.05 specified by design codes. Such comparisons form a frame of reference for the assessment of the importance of the torsional effects resulting from the ground motion incoherence. The coupled effects of incoherence and eccentricity are then considered, and it is reported that they can be approximately represented by proper combinations of the corresponding independent effects, under conditions that are of practical importance. This approximation leads to the definition of effective modified eccentricities, which can be useful for the appreciation of the torsional effects induced in building structures by earthquakes.
+
+
+    
+        AU - Yook‐Kong Yong
+    
+        AU - P. Balaguru
+    
+
+TI - Behavior of Reinforced High‐Strength‐Concrete Corbels
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 1182-1201
+VI - 120
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1994)120:4(1182) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281182%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281182%29
+SO - Journal of Structural Engineering 1994-04-01 120(4): 1182-1201
+AB - Results of an experimental investigation on the behavior of corbels made with high‐strength concrete in excess of 40 MPa are presented. A total of 16 life‐size corbels were tested, two of which were unreinforced. The primary variables of the investigation were presence of horizontal force, reinforcement ratio, and shear‐span‐to‐depth (a/d) ratio. Silica‐fume and high‐range water‐reducing admixtures were used to obtain the high‐strength concrete. All 14 reinforced concrete corbels failed in a stable manner. The primary steel yielded before failure in all cases but one. The behavior of the corbels during testing and the analysis of results indicate that high‐strength concrete may be rationally incorporated into designs of corbels. The truss analogy model provided relatively accurate strength predictions compared with the American Concrete Institute's procedure. The code limit of 5.5 MPa (800 psi) for maximum average shear stress limits the full use of the available shear strength of high‐strength corbels.
+
+
+    
+        AU - A. Fafitis
+    
+        AU - Y. H. Won
+    
+
+TI - Nonlinear Finite Element Analysis of Concrete Deep Beams
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 1202-1220
+VI - 120
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1994)120:4(1202) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281202%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281202%29
+SO - Journal of Structural Engineering 1994-04-01 120(4): 1202-1220
+AB - The salient features and concepts of a model developed recently are reviewed. The parameters of the model are the peak compressive stress of concrete, initial elastic modulus, and tangential Poisson's ratio. The peak stress is assumed equal to the compressive strength of standard cylindrical concrete specimens, the Poisson's ratio is calculated by a proposed empirical equation. Predictions of the model compare favorably with experimental data on small specimens reported by various investigators. The model was implemented with the finite element method and several deep beams were analyzed and compared with experimental data. The strain softening characteristics of the model allowed satisfactory predictions of the response up to failure. The areas where cracks developed and the propagation of the crack zones up to the final collapse of the beam were predicted and compared with experimental data. Finally the model was used to predict the behavior of square panels subjected to in‐plane axial and shear forces as well as pure shear. The predictions are satisfactory.
+
+
+    
+        AU - A. K. H. Kwan
+    
+
+TI - Simple Method for Approximate Analysis of Framed Tube Structures
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 1221-1239
+VI - 120
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1994)120:4(1221) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281221%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281221%29
+SO - Journal of Structural Engineering 1994-04-01 120(4): 1221-1239
+AB - Framed tube structures are particularly suitable for tall buildings. They act primarily like cantilevered box beams and since they generally have much larger lateral dimensions than the internal shear wall cores, they are more effective in resisting the overturning moments of the lateral loads. However, due to flexural and shear flexibilities of the frame members, the basic beam bending actions of the framed tubes are complicated by the occurrence of shear lag, which could significantly affect the stress distributions in the frame panels and reduce the lateral stiffnesses of the structures. In this paper, a simple hand‐calculation method is proposed for approximate analysis of framed tube structures with the shear lag effects taken into account. This method is suitable for quick evaluations during the preliminary design stage and can provide a better understanding of the effects of various parameters on the overall structural behavior. Numerical examples are given to demonstrate the ease of application and accuracy of the proposed method.
+
+
+    
+        AU - Dionisio Bernal
+    
+
+TI - Viscous Damping in Inelastic Structural Response
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 1240-1254
+VI - 120
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1994)120:4(1240) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281240%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281240%29
+SO - Journal of Structural Engineering 1994-04-01 120(4): 1240-1254
+AB - The behavior of initially orthogonal damping during inelastic response is examined. It is shown that in systems with massless coordinates, or where a subset of the total number of degrees‐of‐freedom (DOF) is associated with small inertias, loss of damping orthogonality can lead to the generation of spurious damping forces. Analytical inspection illustrates that these forces depend on the form of the damping matrix and on the changes in the statical relationship between primary and secondary DOF introduced by yielding. Numerical results are obtained to validate the analytical observations and to examine the quantitative significance of the spurious forces on the computed response. It is shown that in systems with massless coordinates the potential for spurious behavior is obviated when the damping matrix is assembled restricting the exponents of the Caughey series to zero or negative. The foregoing constrain, which is equivalent to requiring that massless coordinates be condensed from the stiffness prior to assembly of the damping, is shown to be necessary for the damping matrix to be unique for a given set of modal damping ratios.
+
+
+    
+        AU - Sudip S. Bhattacharjee
+    
+        AU - Pierre Léger
+    
+
+TI - Application of NLFM Models to Predict Cracking in Concrete Gravity Dams
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 1255-1271
+VI - 120
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1994)120:4(1255) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281255%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281255%29
+SO - Journal of Structural Engineering 1994-04-01 120(4): 1255-1271
+AB - Smeared crack analysis models based on a nonlinear fracture mechanics (NLFM) crack propagation criterion are considered to study the two‐dimensional static fracture behavior of plain concrete structures. A coaxial rotating crack model (CRCM) and a fixed crack model with a variable shear resistance factor (FCM‐VSRF), both using a secant stiffness formulation, are considered in studying the behaviors of a notched shear beam, a model concrete gravity dam, and a full‐scale concrete gravity dam: all have been experimentally or numerically investigated in the past. The responses obtained from smeared crack analyses are compared with those reported in the literature by other investigators. The CRCM appears to perform better than the FCM‐VSRF in alleviating the stress‐locking phenomenon generally observed in smeared crack analyses. However, the crack profiles predicted by the rotating crack model are prone to the directional bias caused by finite element meshes of the elementary beam problem and the model concrete dam. The two smeared crack propagation models (CRCM and FCM‐VSRF) provide reasonable responses when a full‐scale concrete gravity dam is analyzed.
+
+
+    
+        AU - J. Dario Aristizabal‐Ochoa
+    
+
+TI - K&#x2010;Factor for Columns in any Type of Construction: Nonparadoxical Approach
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 1272-1290
+VI - 120
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1994)120:4(1272) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281272%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281272%29
+SO - Journal of Structural Engineering 1994-04-01 120(4): 1272-1290
+AB - Simple closed‐form formulas are presented that evaluate the slenderness K‐factor for columns in construction types 1, 2, or 3, with sidesway uninhibited, partially inhibited, and totally inhibited. The formulas are also applied to the stability of frames (unbraced, partially braced, and totally braced) with rigid, semirigid and simple connections. The proposed formulas are more general and simpler to apply than the well‐known alignment charts and the results are within 2.5% and 1% of the theoretical values of the braced and unbraced cases, respectively. Simple criteria are proposed that define the concepts of partially braced columns and minimum amount of diagonal bracing (truss bracing) in bent frames. Various examples are presented in detail that demonstrate the effectiveness and accuracy of the proposed formulas.
+
+
+    
+        AU - David C. Nemir
+    
+        AU - Yingjie Lin
+    
+        AU - Roberto A. Osegueda
+    
+
+TI - Semiactive Motion Control Using Variable Stiffness
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 1291-1306
+VI - 120
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1994)120:4(1291) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281291%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281291%29
+SO - Journal of Structural Engineering 1994-04-01 120(4): 1291-1306
+AB - This paper presents a theory for the control and containment of structural motion in civil and space structures. Potential uses include the limiting of seismic damage in a skyscraper and motion control in a space station. The approach falls into the domain of semiactive control as the technique requires the dynamic alteration of system stiffness, an approach that requires minimal energy to implement. The control objective is to alter stiffness on‐line in such a way as to shift the modal distribution of energy that is within the system from low modes to higher modes, which have an accelerated rate of energy removal via viscous damping. Feasibility is demonstrated through simulation studies of a truss structure subjected to both sinusoidal and random disturbances.
+
+
+    
+        AU - C. C. Chang
+    
+        AU - Henry T. Y. Yang
+    
+
+TI - Instantaneous Optimal Control of Building Frames
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 1307-1326
+VI - 120
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1994)120:4(1307) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281307%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281307%29
+SO - Journal of Structural Engineering 1994-04-01 120(4): 1307-1326
+AB - A control algorithm based on the instantaneous optimal closed‐loop control technique is presented for the control of buildings subjected to earthquake excitations. It is proposed that the building frames be modeled using finite elements, with a two‐node six‐degree‐of‐freedom planar frame element as a basic tool for the example analysis. The instantaneous optimal closed‐loop control algorithm is derived in second‐order form using the Newmark integration scheme. The weighting matrices are so chosen that the instantaneous control technique is unconditionally stable. Examples of the optimal control of a three‐bay 10‐story steel building frame are illustrated using base isolators and active tendons. The input excitations chosen are based on the NS component of the ground acceleration record of the 1940 El Centro earthquake. Results on the reduction of the dynamic response and the control effectiveness of the passive, active, and hybrid control designs are presented and discussed.
+
+
+    
+        AU - Raj Siddharthan
+    
+        AU - Mahmoud El‐Gamal
+    
+        AU - Emanuel A. Maragakis
+    
+
+TI - Investigation of Performance of Bridge Abutments in Seismic Regions
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 1327-1346
+VI - 120
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1994)120:4(1327) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281327%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281327%29
+SO - Journal of Structural Engineering 1994-04-01 120(4): 1327-1346
+AB - Bridge abutments designed using the conventional strength‐based approach have performed satisfactorily when located above the water table. Only some of the assumptions used in the conventional approach are indeed conservative. This paper attempts to quantify the extent of the influence of various assumptions on permanent abutment displacement. Abutment displacements were computed by modifying an existing rigid‐plastic model to take into account the increase in residual lateral thrust caused by cyclic loading. A database of displacements for typical short and tall abutments designed using the conventional approach was generated from 22 recorded excitation histories obtained in earthquakes with a magnitude of 6.5 to 7.0. The study shows that the abutments designed according to the conventional approach will not undergo large displacements in moderate to large earthquakes.
+
+
+    
+        AU - Perry Adebar
+    
+        AU - Weishi He
+    
+
+TI - Influence of Membrane Forces on Transverse‐Shear Reinforcement Design
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 1347-1366
+VI - 120
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1994)120:4(1347) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281347%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281347%29
+SO - Journal of Structural Engineering 1994-04-01 120(4): 1347-1366
+AB - A procedure is presented for the design of transverse reinforcement in concrete slabs and walls subjected to combined transverse shear, membrane forces, and bending moments, such as what commonly occurs in ice walls of concrete offshore structures. The slab or wall is treated as an equivalent beam in the principal transverse‐shear direction, and a unified shear‐design procedure based on the modified compression field theory is used to design the reinforcement. The method includes a rational concrete contribution, making it suitable for members with little or no transverse reinforcement. The biaxial membrane strains at the level of the flexural tension reinforcement are estimated using a generalized truss (sandwich) model, assuming cracked‐linear response of concrete. The normal‐strain component in the principal transverse‐shear direction is assumed analogous to the longitudinal strain in a beam. Comparisons of the proposed design method with a complex three‐dimensional analysis model and some recent experimental results show very good agreement.
+
+
+    
+        AU - Gilbert H. Béguin
+    
+
+TI - Discussion of &#x201c;<i>Reinforced Concrete Beams with Plates Glued to their Soffits</i>&#x201d; by Deric John Oehlers (August, 1992, Vol. 118, No. 8)
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 1368-1369
+VI - 120
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1994)120:4(1368) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281368%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281368%29
+SO - Journal of Structural Engineering 1994-04-01 120(4): 1368-1369
+
+
+    
+        AU - Deric John Oehlers
+    
+
+TI - Closure to &#x201c;<i>Reinforced Concrete Beams with Plates Glued to their Soffits</i>&#x201d; by Deric John Oehlers (August, 1992, Vol. 118, No. 8)
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 1369-1372
+VI - 120
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1994)120:4(1369) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281369%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281369%29
+SO - Journal of Structural Engineering 1994-04-01 120(4): 1369-1372
+
+
+    
+        AU - Mack G. Gardner‐Morse
+    
+        AU - Dryver R. Huston
+    
+
+TI - Erratum: "Modal Identification of Cable&#x2010;Stayed Pedestrian Bridges" (November, 1993, Vol. 119, No. 11)
+PT - Journal Article
+DP - 1994
+TA - Journal of Structural Engineering
+PG - 1373-1373
+VI - 120
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1994)120:4(1373) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281373%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281994%29120%3A4%281373%29
+SO - Journal of Structural Engineering 1994-04-01 120(4): 1373-1373
+
+

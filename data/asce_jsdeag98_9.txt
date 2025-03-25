@@ -1,0 +1,411 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU -  
+    
+
+TI - Basic Design Criteria of the Recommended Lateral Force Requirements and Commentary
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1913-1922
+VI - 98
+IP - 9
+AID - 10.1061/JSDEAG.0003323 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003323
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003323
+SO - Journal of the Structural Division 1972-09-01 98(9): 1913-1922
+AB - The review by the Ad Hoc Committee is limited, as charged, to basic principles. The committee recommends that paid consultants, knowledgeable and expert in structural engineering, in earthquake engineering and in structural dynamics, and knowing the practical elements that enter into structural design from the point of view of practicing engineers, be retained on a reimbursable basis to formulate the code and write the Commentary. The several good parts of the present code should be retained and the other parts replaced by practical provisions based upon current knowledge and technology.
+
+
+    
+        AU - Edward H. Power
+    
+        AU - John W. Fisher
+    
+
+TI - Behavior and Design of Shingle Joints
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1923-1941
+VI - 98
+IP - 9
+AID - 10.1061/JSDEAG.0003324 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003324
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003324
+SO - Journal of the Structural Division 1972-09-01 98(9): 1923-1941
+AB - Seven shingle joints of A572 steel were fastened with 7/8-inc. (22.3-mm) A325 bolts; the remaining 2 joints were fastened with 7/8-in. (22.3-mm) Huckbolts. The variables covered in this investigation were the An/As ratio, the total number of fasteners in the joint, the number of fasteners per region and the number of regions. The average shear strength of shingle joints was shown to decrease with joint length which is similar to butt joints. A comparison between the theoretical and experimental results indicated that the theoretical predictions are reliable for the load-deformation behavior, the ultimate strength, as well as the distribution of load in the main and combined lap plates of shingle joints. Various design methods approximating the distribution of load in the joint elements are compared with the experimental load partitions at the working load level. For design a modification of existing methods is proposed.
+
+
+    
+        AU - Eric F. P. Burnett
+    
+        AU - R. Clement S. Rajendra
+    
+
+TI - Influence of Joints in Panelized Structural Systems
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1943-1955
+VI - 98
+IP - 9
+AID - 10.1061/JSDEAG.0003325 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003325
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003325
+SO - Journal of the Structural Division 1972-09-01 98(9): 1943-1955
+AB - Multistory residential structures are partially well suited to panelization and thus industrialization. Compared to the cast-in-place coupled shear wall, the panelized structure is less rigid and not necessarily monolithic. Moreover, joint performance is often critical with respect to both serviceability and safety. For a representative series of apartment buildings with similar floor plans a cast-in-place, a full panelized and a semipanelized (i.e., wall panels only) solution are compared. A finite element procedure (SHWALI) was used for the analysis. The significance of the floor-to-wall interconnection, the horizontal joint and the vertical joint between load-bearing panels are evaluated with reference to the various limiting design states. Relative to codified recommendations for the design and construction of large panel buildings the structural implications of using panelized construction are examined.
+
+
+    
+        AU - Mohammed H. Baluch
+    
+        AU - John E. Goldberg
+    
+        AU - Severino L. Koh
+    
+
+TI - Finite Element Approach to Plane Microelasticity
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1957-1964
+VI - 98
+IP - 9
+AID - 10.1061/JSDEAG.0003326 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003326
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003326
+SO - Journal of the Structural Division 1972-09-01 98(9): 1957-1964
+AB - The object of the investigation reported herein was to explore the applicability of the finite element technique to the stress and deformation analysis of multidimensional bodies of microelastic materials. For simplicity, the presentation has been restricted to micropolar materials. No particular difficulty is, however, envisioned if the more general case of a micromorphic material is considered. The strain-energy density and the constitutive equations were calculated for both plane strain and plane stress. Subsequently, the stiffness matrix was developed for a simple triangular finite element. Results presented are applicable to a large class of practical problems, some of which will be covered in a subsequent paper. From this investigation, it is clear that the same process may be extended to elements of other shapes, higher-order elements for plane problems, flexural elements and elements of three-dimensional bodies.
+
+
+    
+        AU - Robert M. Korol
+    
+        AU - Archibald N. Sherbourne
+    
+
+TI - Strength Predictions of Plates in Uniaxial Compression
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1965-1986
+VI - 98
+IP - 9
+AID - 10.1061/JSDEAG.0003327 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003327
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003327
+SO - Journal of the Structural Division 1972-09-01 98(9): 1965-1986
+AB - The prediction of the ultimate load for rectangular plates is obtained from the intersection of an elastic postbuckling loading path and a rigid-plastic unloading path. The former expresses post-buckling stability and uniqueness, affected by membrane forces and imperfections at large transverse displacements; the latter, insensitive to imperfections, illustrates the reduction in plastic limit load carrying capacity with changes in geometry which occur in a plastic mechanism at large displacements. The ultimate load predicted by this method is shown to bound the true ultimate load of the plate obtainable by an incremental analysis; the resulting solution, while approximate only and applicable to a range of moderately thick plates, is considerably less cumbersome to obtain and estimates the capacity of the plate reasonably well.
+
+
+    
+        AU - Michael S. Troitsky
+    
+        AU - Abul K. Azad
+    
+
+TI - Bending and Torsion in Orthotropic Deck Box Girder
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1987-2003
+VI - 98
+IP - 9
+AID - 10.1061/JSDEAG.0003328 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003328
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003328
+SO - Journal of the Structural Division 1972-09-01 98(9): 1987-2003
+AB - Analytical and experimental studies are made on a simple span, single cell box girder bridge model with orthotropic deck having open ribs, to find and compare stresses under static loads. A method is proposed to find stresses in the cantilever portion of the deck. Torsional stresses in the box cell due to eccentric loading is calculated using the analogy to a beam on elastic foundation. For experimental studies the model is fabricated from plexiglass whose material properties are also determined.
+
+
+    
+        AU - Thomas Lee Wilkinson
+    
+
+TI - Analysis of Nailed Joints with Dissimilar Members
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 2005-2013
+VI - 98
+IP - 9
+AID - 10.1061/JSDEAG.0003329 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003329
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003329
+SO - Journal of the Structural Division 1972-09-01 98(9): 2005-2013
+AB - In order to predict the slope of the load-slip curve of two-member nailed wood joints under lateral load, a theoretical method of analysis is derived based on the theory of beams on elastic foundations. The method derived allows analysis of joints where the members are dissimilar in properties and thickness. It also accounts for nails of different sizes and materials, and for wood of different species by incorporating a foundation modulus determined from an elastic bearing constant proportional to the wood density. Values of the elastic bearing constant are presented for various types of joints. Experimental verification of the theoretical expressions are presented.
+
+
+    
+        AU - William L. Armstrong
+    
+
+TI - Dynamic Testing of Curved Bridge—Huyck Stream
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 2015-2030
+VI - 98
+IP - 9
+AID - 10.1061/JSDEAG.0003330 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003330
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003330
+SO - Journal of the Structural Division 1972-09-01 98(9): 2015-2030
+AB - A curved steel girder bridge was field tested in Rensselaer, New York. Described are the results of the tests in terms of measurements of stress, deflection, rotation, and general behavior of the structure. The bridge tested is a four-girder, simple-span structure with center line span length of 95 ft, and center line radius of 162 ft built with radial supports. The test vehicle was a semitrailer combination which was loaded to simulate as HS20-44 design loading. Dynamic as well as static (crawl) runs were performed.
+
+
+    
+        AU - Jacob Glück
+    
+        AU - Menachem Gellert
+    
+
+TI - Buckling of Lateral Restrained Thin-Walled Cantilevers of Open Cross Section
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 2031-2042
+VI - 98
+IP - 9
+AID - 10.1061/JSDEAG.0003331 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003331
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003331
+SO - Journal of the Structural Division 1972-09-01 98(9): 2031-2042
+AB - Herein is a method for determining the buckling load of lateral and torsional restrained thin walled cantilever of open cross section under uniform distributed axial load. It is assumed that the restraining medias are distributed along an axis parallel to the axis of the bar. It is supposed that the shear forces in the restraining medias are proportional to the derivatives of the respective displacement. This kind of restraints appears in the analysis of multistory structures in which the lateral and vertical loads are resisted by common action of shear walls and frames. The analytical model of such structures is a vertical cantilever with a thin walled open cross section representing the shear wall, lateral and torsional restraint. The restraining media idealizes the frames, which may be assumed to have the previously mentioned properties. The solution of the problem leads to a system of three third order homogenous differential equations with variable coefficients. The solution selected is in the form of an infinite power series.
+
+
+    
+        AU - Sheng-taur Mau
+    
+        AU - Robert G. Sexsmith
+    
+
+TI - Minimum Expected Cost Optimization
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 2043-2058
+VI - 98
+IP - 9
+AID - 10.1061/JSDEAG.0003332 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003332
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003332
+SO - Journal of the Structural Division 1972-09-01 98(9): 2043-2058
+AB - A probabilistic optimum design approach is presented with minimum expected cost as the design objective. Statically determinate trusses are used to demonstrate the approach. The minimization of expected cost is shown to be equivalent to minimum weight with a probability of failure constraint. Sensitivity studies of safety index, cost of failure, and material and load parameters are presented. A simple design aid is included for the expected cost optimization of statically determinate trusses with random strength and deterministic load.
+
+
+    
+        AU - Bogdan O. Kuzmanovic
+    
+
+TI - Some Design Problems of Large Box Girder Bridges
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 2059-2077
+VI - 98
+IP - 9
+AID - 10.1061/JSDEAG.0003333 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003333
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003333
+SO - Journal of the Structural Division 1972-09-01 98(9): 2059-2077
+AB - First, the procedures for analyzing asymmetrical transverse loads on box girders and the related problem of intermediate diaphragm trusses were analyzed. Three different methods were used to cross-check the results: one based on influence lines derived by the accurate elastic analysis of box girders and two approximate methods with simplified statistical model where box girder is transformed to an equivalent plate girder. Second, the stability problems of thin plates forming the box girder were investigated. Using buckling coefficients now available for different geometry and stress conditions of the panel under consideration, the spacing of longitudinal stiffeners was obtained graphically. Transverse stiffeners were designed in two different ways: (1) as verticals of a double Pratt truss; and (2) as intermediate stiffeners for two adjacent panels.
+
+
+    
+        AU - Walter Podolny
+    
+        AU - John F. Fleming
+    
+
+TI - Historical Development of Cable-Stayed Bridges
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 2079-2095
+VI - 98
+IP - 9
+AID - 10.1061/JSDEAG.0003334 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003334
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003334
+SO - Journal of the Structural Division 1972-09-01 98(9): 2079-2095
+AB - The development of cable-stayed bridges is traced from 1784 to the present. The first modern cable-stayed bridge, the Stromsund Bridge, was completed in 1955 in Sweden. Economic comparisons indicate that cable-stayed bridges fill the void between continuous girder bridges and suspension bridges. In a direction transverse to the longitudinal axis of the bridge, there are two basic cable arrangements; either a single or double plane. In elevation, there are four basic cable configurations: radiating, harp, fan and the star. Cable-stayed bridge towers are of various types to suit site conditions, design conditions and cable geometry. Various types of bridge decks have been employed; a few have been of prestressed concrete, but for the most part they have been steel bridge decks. Three types of strand configuration are employed in the cables: the helically wound, parallel wire and the locked coil strand.
+
+
+    
+        AU - K. S. Rajagopalan
+    
+        AU - Umakanta Behera
+    
+        AU - Phil M. Ferguson
+    
+
+TI - Total Interaction Method for Torsion Design
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 2097-2117
+VI - 98
+IP - 9
+AID - 10.1061/JSDEAG.0003335 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003335
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003335
+SO - Journal of the Structural Division 1972-09-01 98(9): 2097-2117
+AB - The validity of Behera's total interaction theory for design of reinforced concrete beams (and a simplification thereof) is demonstrated by comparison with more than 200 test beams from various investigations. Numerical design examples and added test data show that a given combination of shear-torque-moment in a given beam size can be satisfied by quite different ratios of the longitudinal steel added for torsion to the total stirrup steel used. Although extra longitudinal steel is not significant factor in resisting pure torsion, it is a major (and possibly a decisive) factor under the combined loading. The optional designs offer possible economies over the ACI 318-71 Code method. Tests by Ma of six beams having unsymmetrical top and bottom longitudinal steel are also reported. The preliminary indication is that any strength loss with unsymmetrical longitudinal steel is largely overcome by extending bars a distance beyond the points of inflection.
+
+
+    
+        AU - Clifford O. Hays
+    
+
+TI - Discussion of “Tangent Stiffness Method for Biaxial Bending”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 2125-2126
+VI - 98
+IP - 9
+AID - 10.1061/JSDEAG.0003336 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003336
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003336
+SO - Journal of the Structural Division 1972-09-01 98(9): 2125-2126
+
+
+    
+        AU - Linton E. Grinter
+    
+
+TI - Discussion of “Hardy Cross and the Rise of Numerical Methods”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 2127-2128
+VI - 98
+IP - 9
+AID - 10.1061/JSDEAG.0003337 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003337
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003337
+SO - Journal of the Structural Division 1972-09-01 98(9): 2127-2128
+
+
+    
+        AU - Richard G. Redwood
+    
+
+TI - Discussion of “Tests on Beams with Reinforced Web Openings”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 2129-2132
+VI - 98
+IP - 9
+AID - 10.1061/JSDEAG.0003338 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003338
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003338
+SO - Journal of the Structural Division 1972-09-01 98(9): 2129-2132
+
+
+    
+        AU - James W. Chai
+    
+
+TI - Discussion of “Automated Design of Trusses for Optimum Geometry”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 2133-2133
+VI - 98
+IP - 9
+AID - 10.1061/JSDEAG.0003339 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003339
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003339
+SO - Journal of the Structural Division 1972-09-01 98(9): 2133-2133
+
+
+    
+        AU - Alan A. Chapman
+    
+        AU - Gary C. Hart
+    
+
+TI - Approximate Modal Analysis of Multistory One-Bay Frames
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 2137-2141
+VI - 98
+IP - 9
+AID - 10.1061/JSDEAG.0003341 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003341
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003341
+SO - Journal of the Structural Division 1972-09-01 98(9): 2137-2141
+AB - Presented herein is a comparison between several structural modeling techniques for estimating the lateral natural frequencies of vibration for multistory one-bay frames. The study is subdivided in two phases: the analytical models including lateral floor translation, rigid joint rotation, and axial deformation.
+
+
+    
+        AU - John F. Abel
+    
+        AU - Chandrakant S. Desai
+    
+
+TI - Comparison of Finite Elements for Plate Bending
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 2143-2148
+VI - 98
+IP - 9
+AID - 10.1061/JSDEAG.0003342 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003342
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003342
+SO - Journal of the Structural Division 1972-09-01 98(9): 2143-2148
+AB - The purpose herein is to reconsider the earlier results for plate elements in a form which attempts to relate accuracy to computational effort. However, the qualitative analysis and the methods of comparison are also relevant to finite elements for types of problems other than plate bending.
+
+
+    
+        AU - B. V. Rangan
+    
+
+TI - Collapse Loads for Continuous Slabs with Orthotropic Reinforcement
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 2149-2154
+VI - 98
+IP - 9
+AID - 10.1061/JSDEAG.0003343 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003343
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003343
+SO - Journal of the Structural Division 1972-09-01 98(9): 2149-2154
+AB - This technical note presents the development of an approximate analysis for moment fields and collapse loads of orthotropically reinforced slabs.
+
+
+    
+        AU - Jitendra N. Kar
+    
+        AU - Anil K. Pal
+    
+
+TI - Erratum for “Strength of Fiber-Reinforced Concrete”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 2134-2134
+VI - 98
+IP - 9
+AID - 10.1061/JSDEAG.0003340 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003340
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003340
+SO - Journal of the Structural Division 1972-09-01 98(9): 2134-2134
+
+

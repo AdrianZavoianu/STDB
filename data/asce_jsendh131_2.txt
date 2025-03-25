@@ -1,0 +1,556 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Sashi K. Kunnath
+    
+
+TI - Editor’s Note
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 201-202
+VI - 131
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2005)131:2(201) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28201%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28201%29
+SO - Journal of Structural Engineering 2005-02-01 131(2): 201-202
+
+
+    
+        AU - Eduardo Miranda
+    
+        AU - Shahram Taghavi
+    
+
+TI - Approximate Floor Acceleration Demands in Multistory Buildings. I: Formulation
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 203-211
+VI - 131
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2005)131:2(203) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28203%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28203%29
+SO - Journal of Structural Engineering 2005-02-01 131(2): 203-211
+AB - An approximate method to estimate floor acceleration demands in multistory buildings responding elastically or practically elastic when subjected to earthquake ground motion is presented. The method can be used to estimate floor acceleration demands at any floor level for a given ground motion record. The dynamic characteristics of the building are approximated by using a simplified model based on equivalent continuum structure that consists of a combination of a flexural beam and a shear beam. Closed-form solutions for mode shapes, period ratios, and modal participation factors are presented. The effect of reduction of lateral stiffness along the height is investigated. It is shown that the effect of reduction in lateral stiffness on the dynamic characteristics of the structure is small in buildings that deflect laterally like flexural beams. For other buildings, approximate correction factors to the closed-form solutions of the uniform case are presented to take into account the effects of reduction of lateral stiffness. Approximate dynamic properties of the building are then used to estimate acceleration demands in the building using modal analysis.
+
+
+    
+        AU - Shahram Taghavi
+    
+        AU - Eduardo Miranda
+    
+
+TI - Approximate Floor Acceleration Demands in Multistory Buildings. II: Applications
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 212-220
+VI - 131
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2005)131:2(212) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28212%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28212%29
+SO - Journal of Structural Engineering 2005-02-01 131(2): 212-220
+AB -  The accuracy of an approximate method to estimate floor acceleration demands in multistory buildings responding elastically or practically elastic when subjected to earthquake ground motion is investigated. Modal analysis is used in combination with approximate dynamic characteristics computed using a simplified continuous model that is fully defined with only four parameters. The accuracy of the method is first evaluated by comparing the response computed with the approximate method to that computed with response history analyses of complete finite element models of two generic buildings available in the literature. A comparison of exact and approximate dynamic characteristics is presented. Approximate peak floor acceleration demands and its variation along the height of the buildings are compared to exact demands when the buildings are subjected to an ensemble of 20 ground motions. The accuracy of the method is then evaluated by comparing floor acceleration demands computed with the approximate method to those recorded in four instrumented buildings in California. Results show that the approximate method produces good results with a very small computational effort.
+
+
+    
+        AU - Javier Avilés
+    
+        AU - Luis Eduardo Pérez-Rocha
+    
+
+TI - Influence of Foundation Flexibility on 
+R&#x3bc;
+ and 
+C&#x3bc;
+ Factors
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 221-230
+VI - 131
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2005)131:2(221) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28221%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28221%29
+SO - Journal of Structural Engineering 2005-02-01 131(2): 221-230
+AB - Strength-reduction 
+
+(
+Rμ
+)
+
+ and displacement-modification 
+
+(
+Cμ
+)
+
+ factors have been extensively studied in the past for firm ground, and even for soft soils considering site effects, but always excluding soil–structure interaction. In this work, they are investigated for a single elastoplastic structure with flexible foundation excited by vertically propagating shear waves. The concepts developed earlier for fixed-base yielding systems are extended to account for soil–structure interaction. This is done by use of the simplified reference model and a nonlinear replacement oscillator recently proposed by the writers. Numerical evaluations are conducted for typical system configurations, using the great 1985 Michoacan earthquake recorded at one site representative of the lakebed zone in Mexico City. Results are compared with those corresponding to the fixed-base case. It is found that the site effects observed by other writers for the rigid-base condition are increased or decreased by soil–structure interaction, depending on the period ratio of the structure and site. Finally, it is shown how a site-dependent reduction rule proposed elsewhere for fixed-base systems should be adjusted for interacting systems using the information presented.
+
+
+    
+        AU - Houman Ghalibafian
+    
+        AU - Carlos E. Ventura
+    
+        AU - Gouri S. Bhuyan
+    
+
+TI - Seismic Interaction between Flexible Conductors and Electrical Substation Equipment
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 231-239
+VI - 131
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2005)131:2(231) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28231%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28231%29
+SO - Journal of Structural Engineering 2005-02-01 131(2): 231-239
+AB - High-voltage flexible conductors are employed to interconnect equipment items in electrical substations located on seismically active regions to carry the electricity from one equipment item to another. They have sufficient slack to allow the conductor to accommodate the relative displacements of the adjacent interconnected equipment under seismic loading. However, additional forces due to the dynamic response of the conductor during severe shaking, and its interaction with the interconnected equipment, could cause additional unpredicted forces resulting in damage or failure of the equipment. This paper presents the results of a project to investigate the dynamic behavior of these conductors and their interaction with the interconnect equipment. The project included performing quasi-static and dynamic tests on one of the most commonly used configurations of these conductors in substations throughout the province of British Columbia in Canada. The results of this investigation demonstrated that there can be significant dynamic force amplification due to dynamic interaction of the flexible conductors with the equipment, and showed that the dynamic effect of these conductors must be considered when evaluating the seismic demand of interconnected equipment.
+
+
+    
+        AU - Tetsuhiko Aoki
+    
+        AU - K. A. S. Susantha
+    
+
+TI - Seismic Performance of Rectangular-Shaped Steel Piers under Cyclic Loading
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 240-249
+VI - 131
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2005)131:2(240) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28240%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28240%29
+SO - Journal of Structural Engineering 2005-02-01 131(2): 240-249
+AB - The purpose of this experimental work is to investigate the seismic resistance characteristics of rectangular-shaped steel bridge piers commonly found in rigid frames, concerning the cross-sectional aspect ratios. To this end, seven specimens were tested under cyclic lateral loads. Six of them were under constant compressive axial load and one was under variable axial load. At first, the effects of web to flange aspect ratio (
+
+W∕F
+
+ ratio) on the differences between actual and estimated yield displacements, yield loads and flexural stiffness were examined. 
+
+W∕F
+
+ ratio of around 2.0 was found to offer minimum difference between those values. Secondly, the effects of 
+
+W∕F
+
+ ratio on ultimate strength, ductility, and energy dissipation capacity were determined. The highest strength was observed in columns with a 
+
+W∕F
+
+ ratio of about 2.0 while the highest ductility and cumulative energy dissipation capacity were in those with a 
+
+W∕F
+
+ ratio of around 1.60. Also, the effect of varying axial load on the strength was examined and found to be relatively small. Finally, finite element analyses were conducted and predictions were compared with test results.
+
+
+    
+        AU - Jun Jin
+    
+        AU - Sherif El-Tawil
+    
+
+TI - Evaluation of FEMA-350 Seismic Provisions for Steel Panel Zones
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 250-258
+VI - 131
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2005)131:2(250) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28250%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28250%29
+SO - Journal of Structural Engineering 2005-02-01 131(2): 250-258
+AB - Steel panel zone design provisions have undergone large changes in the past four decades. The recently introduced FEMA-350 (2000) guidelines are substantially different from previous provisions, and are no longer a function of the plastic strengths of the panel zone and adjoining beams. Rather, they are based on the premise that the framing beams and the panel zone both yield simultaneously to promote controlled inelastic participation of both components. This paper evaluates and discusses the new provisions based on an examination of published test data and the results of transient analyses of buildings with four-, eight-, and sixteen-story moment resisting steel frames. The limited test results reviewed do not confirm the adequacy of the new panel zone provisions and furthermore suggest that panel zone deformation demands could be affected by connection detailing. The frame analysis results show that the FEMA-350 provisions lead to a rather low level of panel zone participation. A discussion of design implications and research needs is provided.
+
+
+    
+        AU - Jeffrey W. Berman
+    
+        AU - Michel Bruneau
+    
+
+TI - Experimental Investigation of Light-Gauge Steel Plate Shear Walls
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 259-267
+VI - 131
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2005)131:2(259) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28259%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28259%29
+SO - Journal of Structural Engineering 2005-02-01 131(2): 259-267
+AB - This paper describes the prototype design, specimen design, experimental setup, and experimental results of three light-gauge steel plate shear wall concepts. Prototype light-gauge steel plate shear walls are designed as seismic retrofits for a hospital structure in an area of high seismicity, and emphasis is placed on minimizing their impact on the existing framing. Three single-story test specimens are designed using these prototypes as a basis, two specimens with flat infill plates (thicknesses of 
+
+0.9
+mm
+
+) and a third using a corrugated infill plate (thickness of 
+
+0.7
+mm
+
+). Connection of the infill plates to the boundary frames is achieved through the use of bolts in combination with industrial strength epoxy or welds, allowing for mobility of the infills if desired. Testing of the systems is done under quasi-static conditions. It is shown that one of the flat infill plate specimens, as well as the specimen utilizing a corrugated infill plate, achieve significant ductility and energy dissipation while minimizing the demands placed on the surrounding framing. Experimental results are compared to monotonic pushover predictions from computer analysis using a simple model and good agreement is observed.
+
+
+    
+        AU - Carlos Graciano
+    
+
+TI - Strength of Longitudinally Stiffened Webs Subjected to Concentrated Loading
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 268-278
+VI - 131
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2005)131:2(268) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28268%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28268%29
+SO - Journal of Structural Engineering 2005-02-01 131(2): 268-278
+AB - Longitudinal stiffening increases the ultimate strength of plate girder webs subjected to compressive edge load, commonly referred to as patch loading. This increase in most design codes has been disregarded. Therefore, this paper presents the background of three design models developed to quantify this increase in ultimate strength. The first model is based on the regression analysis of experimental results carried out around the world. The second is based on a modification of the yield line method used for unstiffened plate girders. Finally, the third one is based on a buckling curve approach. The third model is the most complete, accounting for stiffener properties, and also provides the best agreement with test results.
+
+
+    
+        AU - N. Kosteski
+    
+        AU - J. A. Packer
+    
+        AU - R. S. Puthli
+    
+
+TI - Notch Toughness of Internationally Produced Hollow Structural Sections
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 279-286
+VI - 131
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2005)131:2(279) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28279%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28279%29
+SO - Journal of Structural Engineering 2005-02-01 131(2): 279-286
+AB - Since the Northridge and Kobe earthquakes in the 1990s, with their numerous brittle fractures of steel members and welded connections, there is much more awareness of material notch toughness for all applications where dynamic loading is a design condition. As a result, there has been renewed attention directed at assessment of the notch toughness of steel sections, along with tightening of requirements for welding consumables in welded joints. This paper reports on the Charpy V-Notch (CVN) toughness of contemporary hollow structural sections (HSS) manufactured by companies in North America, South America, and Europe. The hollow sections were produced as: hot-formed HSS; cold-formed HSS (electric resistance welded); and cold-formed plus stress-relieved HSS (electric resistance welded). Also, the range of parameters covered in the experimental study included specimen orientation (longitudinal versus transverse), cross-section location (flats, corner, and weld seam), and face exposure (interior face of tube versus exterior face). In total, 557 CVN specimens have been impact tested.
+
+
+    
+        AU - Richard P. Clarke
+    
+
+TI - Non-Bouc Degrading Hysteresis Model for Nonlinear Dynamic Procedure Seismic Design
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 287-291
+VI - 131
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2005)131:2(287) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28287%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28287%29
+SO - Journal of Structural Engineering 2005-02-01 131(2): 287-291
+AB - Exhaustive nonlinear dynamic procedure (NDP) analysis requires a degrading hysteresis model expressed as a differential equation. The classical form of differential equation hysteresis model is the Bouc–Wen model which is smoothly varying, and most other such models developed subsequently have the Bouc–Wen model as the core. In this paper an alternative differential equation endochronic plasticity model is presented. A computational model for the system identification of the parameters is also presented and the resulting model is applied to the experimental results of lateral cyclic in-plane tests on 20 retrofitted masonry walls. Data and analysis of the identification procedure results are presented as well as sample plots of the calculated versus experimental hysteresis loops. It is found that the model yields generally acceptable agreement with the experimental results and that the proposed model resulted in a stable and inexpensive parameter identification process.
+
+
+    
+        AU - Yutian Shao
+    
+        AU - Seyed Aval
+    
+        AU - Amir Mirmiran
+    
+
+TI - Fiber-Element Model for Cyclic Analysis of Concrete-Filled Fiber Reinforced Polymer Tubes
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 292-303
+VI - 131
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2005)131:2(292) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28292%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28292%29
+SO - Journal of Structural Engineering 2005-02-01 131(2): 292-303
+AB - In recent years, concrete-filled fiber reinforced polymer (FRP) tube (CFFT) has been used as precast piles, girders, and pier columns in federally funded innovative bridge projects around the country. While the monotonic behavior of CFFT columns is studied rather extensively, their cyclic response is not yet fully understood. This paper presents a comprehensive composite beam–column fiber element for large displacement nonlinear inelastic analysis of CFFT beam columns. A two-dimensional three-node combined element is used with 
+
+13
+degrees
+
+ of freedom, including five for each end node and three for the middle node. The constitutive models for cyclic loading of FRP and concrete are described. The model is verified against the available cyclic test data of an earlier study on six CFFTs with and without internal steel reinforcement. A study is carried out to evaluate the effect of CFFT parameters on its hysteretic response, and to compare the response with reinforced concrete (RC) and concrete-filled steel tubes (CFSTs). The study shows the feasibility of designing CFFT columns with comparable hysteretic performance to RC columns. However, hysteretic response of CFFT columns cannot measure up to their CFST counterparts, unless their superior durability is considered in the selection process.
+
+
+    
+        AU - Wonseok Chung
+    
+        AU - Elisa D. Sotelino
+    
+
+TI - Nonlinear Finite-Element Analysis of Composite Steel Girder Bridges
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 304-313
+VI - 131
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2005)131:2(304) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28304%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28304%29
+SO - Journal of Structural Engineering 2005-02-01 131(2): 304-313
+AB - This paper investigates the behavior of composite steel girder bridges by means of sophisticated three-dimensional nonlinear finite-element (FE) analyses. The bridge model is such that the deck is represented by shear flexible shell elements and the structural steel girder is idealized by Timoshenko beam elements. The full composite action between slab and girder is guaranteed by multipoint constraints. Both the bridge deck and steel girder are divided into a number of layers to account for the cracking and yielding through their depth. This paper also presents a reinforced concrete material model, which utilizes a strain decomposition approach. The strain decomposition technique enables the explicit inclusion of physical behavior across the cracked concrete surface, such as aggregate interlock and dowel action, rather than intuitively defining the shear retention factor. The proposed material model is integrated into the commercial FE software ABAQUS shell elements through a user-supplied material subroutine. The FE results have been compared to experimental results reported by other researchers. The proposed bridge FE model is capable of predicting the initial cracking load level, the ultimate load capacity, and the crack pattern with good accuracy.
+
+
+    
+        AU - Sungjin Bae
+    
+        AU - Alexa M. Mieses
+    
+        AU - Oguzhan Bayrak
+    
+
+TI - Inelastic Buckling of Reinforcing Bars
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 314-321
+VI - 131
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2005)131:2(314) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28314%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28314%29
+SO - Journal of Structural Engineering 2005-02-01 131(2): 314-321
+AB - Predicting behavior of concrete members subjected to large inelastic deformations caused by extreme loads, such as earthquakes, plays an important role in assessing stable deformation capacities of concrete structures. An objective of the research is to contribute to the development of a constitutive relationship that predicts the behavior of reinforcing bars under compression given the geometric and material properties. By developing a constitutive relationship for the reinforcing bars under compression, conventional sectional analyses can be extended to incorporate the buckling of longitudinal reinforcement. This will enable an engineer to evaluate the pre- and postbuckling behavior of reinforcing bars under compression given the material properties and geometric nature of the problem, and hence evaluate the impact of the rebar buckling on the deformation capacity of reinforced concrete members at plastic hinges. This paper presents results from an experimental program for bar buckling in which a total of 162 reinforcing bar specimens were tested under monotonic compression loads. In addition, a simple analytical model that can be incorporated in the conventional section analysis is presented.
+
+
+    
+        AU - W. Moerman
+    
+        AU - L. Taerwe
+    
+        AU - W. De Waele
+    
+        AU - J. Degrieck
+    
+        AU - J. Himpe
+    
+
+TI - Measuring Ground Anchor Forces of a Quay Wall with Bragg Sensors
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 322-328
+VI - 131
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2005)131:2(322) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28322%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28322%29
+SO - Journal of Structural Engineering 2005-02-01 131(2): 322-328
+AB - The use of optical fiber sensors for monitoring civil engineering structures is increasing continuously. One of the most frequently applied sensor types is the so-called Bragg sensor, which is primarily used to measure structural deformations. Due to some inherent advantages these sensors are ideally suited for long-term monitoring purposes. This paper describes the development of a load cell, based on Bragg sensors, to measure the forces in the ground anchors of a quay wall. After a short introduction on structural monitoring and the principles of a Bragg sensor, the concept of the load cell is discussed. Three ground anchors of a quay wall in Evergem, Belgium have been instrumented. After calibration in the laboratory, the load cells have been used to measure the prestressing forces imposed on the anchors. The results show that the developed instrumentation is very well suited for this purpose. For more than one year, the anchor forces have been monitored at regular points in time. This indicates a dependence of the anchor forces on environmental temperature variations.
+
+
+    
+        AU - Ming Liu
+    
+        AU - Dan M. Frangopol
+    
+
+TI - Time-Dependent Bridge Network Reliability: Novel Approach
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 329-337
+VI - 131
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2005)131:2(329) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28329%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28329%29
+SO - Journal of Structural Engineering 2005-02-01 131(2): 329-337
+AB - A novel reliability-based approach to evaluating the overall performance of a bridge network and to assessing the reliability importance of individual bridges to the bridge network is presented. The new concepts of the time-dependent bridge network reliability and bridge reliability importance factor (RIF) are introduced. A bridge network is regarded as an assembly of nodes, points, and links. The bridge network reliability is formulated in terms of connectivity between the origin and destination locations. However, this formulation can be extended to include traffic capacity and impacts of bridge maintenance activities on economy, environment, and society. Reliability importance factor is defined as the sensitivity of the bridge network reliability to changes in individual bridge system reliability. This clearly represents the reliability importance of individual bridges in the network. Based on a bridge network topology, a series-parallel path model is created to compute the bridge network reliability using network theories and techniques. This novel approach is illustrated on a group of fourteen existing bridges of different material and structural types located in Colorado. This study provides the basis of a network-level bridge management system where lifetime reliability and life-cycle costs are the key considerations for optimal bridge maintenance strategies.
+
+
+    
+        AU - D. Rosowsky
+    
+        AU - D. S. Gromala
+    
+        AU - P. Line
+    
+
+TI - Reliability-Based Code Calibration for Design of Wood Members Using Load and Resistance Factor Design1
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 338-344
+VI - 131
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2005)131:2(338) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28338%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28338%29
+SO - Journal of Structural Engineering 2005-02-01 131(2): 338-344
+AB - The procedures underlying the load and resistance factor design (LRFD) format for engineered wood construction combine elements of reliability analysis with the experience gained from decades of successful use of allowable stress design procedures. However, the judgments applied in much of the early development or LRFD hinged directly on the load factors and underlying load distribution assumptions in the 1993 version of the ASCE 7 load standard. Since that time, load factors in ASCE 7 have changed several times and additional information is available regarding load distributions. Assumptions regarding resistance statistics also have evolved during the past decade. For example, early reliability analyses were based on resistance distributions derived from individual data sets. Unfortunately, this approach is confounded by often significant differences that occur between data sets. This approach also neglects the self-calibrating nature of engineered wood product specifications. This paper examines the range of computed reliability indices that result from updating the assumed load statistics and assumed resistance statistics. Several load cases involving dead, live, snow, and wind load are examined. The reference structural configuration is a simple flexural member. The results show that the range of computed reliability indices is most significantly influenced by regional variations in load statistics. While these results also show slight differences in computed reliability indices from one engineered wood product to another, these differences are not judged to be significant. The results of this study will not only assist the Structural Engineering Institute Design of Engineered Wood Construction Standards Committee in their upcoming revision of ASCE 16, but can also serve as a template for other material standards committees (steel, concrete) as they update their LRFD specifications to reflect evolutionary changes in ASCE 7.
+
+
+    
+        AU - Johnn P. Judd
+    
+        AU - Fernando S. Fonseca
+    
+
+TI - Analytical Model for Sheathing-to-Framing Connections in Wood Shear Walls and Diaphragms
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 345-352
+VI - 131
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2005)131:2(345) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28345%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28345%29
+SO - Journal of Structural Engineering 2005-02-01 131(2): 345-352
+AB - A new analytical model for sheathing-to-framing connections in wood shear walls and diaphragms is discussed in this paper. The model represents sheathing-to-framing connections using an oriented pair of nonlinear springs. Unlike previous models, the new analytical model is suitable for both monotonic and cyclic analyses and does not need to be scaled or adjusted. Furthermore, the analytical model may be implemented in a general purpose finite element program, such as ABAQUS, or in a specialized structural analysis program, such as CASHEW. To illustrate, the responses of a 
+
+4.88×14.6
+m
+
+ plywood diaphragm and a 
+
+2.44×2.44
+m
+
+ oriented strand board shear wall are predicted using the new analytical model.
+
+
+    
+        AU - Harry E. Williams
+    
+        AU - Clive L. Dym
+    
+
+TI - Using Rotations to Obtain Compatibility Equations for Statically Indeterminate Trusses
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 353-358
+VI - 131
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2005)131:2(353) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28353%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28353%29
+SO - Journal of Structural Engineering 2005-02-01 131(2): 353-358
+AB - This paper presents a new way of determining the compatibility conditions for statically indeterminate trusses. It is based on equations relating the angular displacements (rotations) of truss elements to the corresponding extensions obtained by requiring the displacements of the truss structure to be compatible, i.e., single valued. This new angular displacement method is likely to be most advantageous for planar trusses, but less likely so for three-dimensional structures.
+
+
+    
+        AU - J. W. van de Lindt
+    
+        AU - D. V. Rosowsky
+    
+
+TI - Strength-Based Reliability of Wood Shearwalls Subject to Wind Load
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 359-363
+VI - 131
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2005)131:2(359) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28359%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28359%29
+SO - Journal of Structural Engineering 2005-02-01 131(2): 359-363
+AB - Wood shearwalls provide the majority of the lateral force resistance in light-frame wood construction, which makes up the vast percentage of residential and some percentage of commercial construction in the United States. One of the objectives of a recent Structural Engineering Institute (SEI) special project entitled “Re-evaluation of LRFD for engineered wood products: Keeping pace with changes in ASCE 7” was to evaluate the reliability of wood shearwalls designed using AF&amp;PA/ASCE 16. This technical note describes the evaluation procedure and presents results from an analysis of wood shearwalls subject to wind load considering the ultimate strength (capacity) limit state. In addition to ultimate capacity, statistical distributions of the deformations at ultimate capacity were determined. The resistance of each wall was determined from a monotonic pushover analysis, which uses existing load–slip fastener data to determine the monotonic behavior of a wood shearwall. The wind load statistics were determined as a function of the nominal (code-specified) values using existing load models. Reliability indices for wood shearwalls built using 8d common nails [
+
+3.3
+mm
+
+ 
+
+(0.131
+in.)
+
+ diameter] and subject to the 
+
+50
+year
+
+ design wind load ranged from 
+
+β=3
+
+ to 3.5. The percent drift at ultimate (neglecting uplift) ranged from 1.6 to 2%.
+
+
+    
+        AU - M. A. Hussain
+    
+        AU - R. G. Driver
+    
+
+TI - Discussion of “Retrofit of Reinforced Concrete Columns Using Partially Stiffened Steel Jackets” by Yan Xiao and Hui Wu
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 364-365
+VI - 131
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2005)131:2(364) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28364%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28364%29
+SO - Journal of Structural Engineering 2005-02-01 131(2): 364-365
+
+
+    
+        AU - Yan Xiao
+    
+        AU - Hui Wu
+    
+
+TI - Closure to “Retrofit of Reinforced Concrete Columns Using Partially Stiffened Steel Jackets” by Yan Xiao and Hui Wu
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 365-365
+VI - 131
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2005)131:2(365) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28365%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28365%29
+SO - Journal of Structural Engineering 2005-02-01 131(2): 365-365
+
+
+    
+        AU - Yan Xiao
+    
+        AU - Hui Wu
+    
+
+TI - Closure to “Retrofit of Reinforced Concrete Columns Using Partially Stiffened Steel Jackets” by Yan Xiao and Hui Wu
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 365-366
+VI - 131
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2005)131:2(365.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28365.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A2%28365.2%29
+SO - Journal of Structural Engineering 2005-02-01 131(2): 365-366
+
+

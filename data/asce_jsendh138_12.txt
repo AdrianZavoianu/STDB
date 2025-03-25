@@ -1,0 +1,271 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Minghao Li
+    
+        AU - Frank Lam
+    
+        AU - Borjen Yeh
+    
+        AU - Tom Skaggs
+    
+        AU - Doug Rammer
+    
+        AU - James Wacker
+    
+
+TI - Modeling Force Transfer around Openings in Wood-Frame Shear Walls
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1419-1426
+VI - 138
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0000592 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000592
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000592
+SO - Journal of Structural Engineering 2012-12-01 138(12): 1419-1426
+AB - This paper presented a modeling study on force transfer around openings (FTAO) in wood-frame shear walls detailed for FTAO. To understand the load transfer in the walls, this study used a finite-element model WALL2D, which is able to model individual wall components, including framing members, sheathing panels, oriented panel-frame nailed connections, framing connections, hold-down connections, and strap connections for reinforcing the corners of openings. The various wall models were validated through laboratory testing of 12 full-scale 2.44×3.66&nbsp;m&nbsp;(8′×12′) shear wall configurations, which included a variety of opening types and sizes. At the wall design load level, the predicted strap forces around openings also agreed well with the test results, in contrast with four simplified analytical methods commonly used in designing shear walls with openings detailed for FTAO. This wall model thus presents a useful tool to check the accuracy of the simplified methods and develop a better understanding of the behavior of wood-frame shear walls with openings.
+
+
+    
+        AU - Gang-Won Jang
+    
+        AU - Myung-Jin Kim
+    
+        AU - Yoon Young Kim
+    
+
+TI - Analysis of Thin-Walled Straight Beams with Generally Shaped Closed Sections Using Numerically Determined Sectional Deformation Functions
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1427-1435
+VI - 138
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0000582 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000582
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000582
+SO - Journal of Structural Engineering 2012-12-01 138(12): 1427-1435
+AB - This investigation presents one-dimensional static and eigenvalue analyses of thin-walled straight beams with generally shaped closed single-cell or multicell sections. For accurate beam analysis, sectional warping and distortional deformations should be considered in addition to the standard Timoshenko displacement field, but it is difficult to obtain the deformation functions analytically for arbitrarily shaped sections. Thus, a numerical method is proposed to obtain sectional deformations for any arbitrarily shaped sections. Once the deformations are identified, they can be integrated over a cross section to yield one-dimensional higher order beam equations. For the numerical determination, the cross section of a thin-walled beam is modeled as a beam frame, where the warping and distortional deformation functions of the section are identified as the eigenmodes of the frame model; the lowest few energy mode sets of in-planar and out-of-planar modes are selected as the distortional and warping deformation functions, respectively. The validity of this approach is checked by comparing the present results with shell finite-element results. For numerical tests, several thin-walled closed sections, including those with flanges or varying wall thicknesses, are considered. The effect of the number of selected warping and distortion sets on solution convergence is also investigated.
+
+
+    
+        AU - D. Hernández-Figueirido
+    
+        AU - M. L. Romero
+    
+        AU - J. L. Bonet
+    
+        AU - J. M. Montalvá
+    
+
+TI - Influence of Slenderness on High-Strength Rectangular Concrete-Filled Tubular Columns with Axial Load and Nonconstant Bending Moment
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1436-1445
+VI - 138
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0000590 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000590
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000590
+SO - Journal of Structural Engineering 2012-12-01 138(12): 1436-1445
+AB - Forty-nine experimental tests were conducted on rectangular and square tubular columns filled with high-strength concrete (f′c=90&nbsp;MPa) subjected to axial load and a nonconstant bending moment distribution. The test parameters were the length (2, 3, and 4 m), the cross-section aspect ratio (square or rectangular), the wall thickness (4 or 5 mm), and the ratio of the top and bottom first-order eccentricities r=etop/ebottom (1, 0.5, 0, and −0.5). The effect of slenderness combined with the influence of variable curvature is compared with the design loads from AISC 360-10 and Eurocode 4. The results show that, for the slender elements of this experimental campaign, both codes present a similar error close to 4%. The small error margin indicates that both standards are applicable to high-strength concrete, although the concrete tested is outside the upper bond of Eurocode 4 and AISC’s specifications. However, there are particular cases that present excessive unsafe errors. These errors correspond to the cases where the second-order effects are more important and are attributable to an overestimation of the flexural stiffness E·I, which indicates that it needs correction.
+
+
+    
+        AU - Huiyong Ban
+    
+        AU - Gang Shi
+    
+        AU - Yongjiu Shi
+    
+        AU - Yuanqing Wang
+    
+
+TI - Residual Stress Tests of High-Strength Steel Equal Angles
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1446-1454
+VI - 138
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0000585 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000585
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000585
+SO - Journal of Structural Engineering 2012-12-01 138(12): 1446-1454
+AB - Residual stress is one of the most important imperfections of steel structure members because of its significant effects on buckling behavior. To quantify the residual stresses in 420-MPa high-strength steel hot-rolled equal angle sections, an experimental study was conducted by using the sectioning method. The residual stress magnitudes and distributions for 15 sections were obtained, and the effects of the width-thickness ratios were clarified. Based on the test results, it was found that the ratio between the residual stress and the steel yield strength for 420-MPa steel equal angles was much smaller than that of normal strength steel angles; however, the distribution was analogous. The residual magnitudes significantly correlated with the width-thickness ratios of the legs. In addition, calculation formulas for the residual stress magnitudes were proposed in which the width-thickness ratios of the angle legs were taken into account, and three distribution models were established to be incorporated in the buckling analysis. The fundamental research and conclusions presented may provide useful experimental data and calculation methods for further studies on the residual stress and buckling behavior of high-strength steel members.
+
+
+    
+        AU - Tsutomu Iwashita
+    
+        AU - Jeffrey A. Packer
+    
+        AU - Juan-Carlos de Oliveira
+    
+
+TI - Defect Tolerance for Cast Steel Connections in Braced Frames
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1455-1464
+VI - 138
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0000583 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000583
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000583
+SO - Journal of Structural Engineering 2012-12-01 138(12): 1455-1464
+AB - During the last decade, various steel casting products for steel building structures have been developed, such as connectors between brace members and gusset plates in braced frames. Some casting products are welded to steel sections such as tubular members and I-section members in building structures, where these members are expected to develop their capacity during a large-scale earthquake. In this situation, brittle fracture can be another concern of the casting products if there are defects in the connections. A study of defect tolerance for cast steel connections is therefore very important to prevent brittle fracture from weld defects or casting defects. This paper describes defect tolerances for cast steel connections in braced frames and explores the possibility of brittle fracture from assumed defects in typical cast steel connectors. A parametric study, which investigates the sensitivity of brittle fracture to defect size, defect location, and material mismatch effects, is described through cast steel connector models. A toughness scaling model is used for evaluating the occurrence of brittle fracture from assumed defects in the models.
+
+
+    
+        AU - Sanda Koboevic
+    
+        AU - Jonathan Rozon
+    
+        AU - Robert Tremblay
+    
+
+TI - Seismic Performance of Low-to-Moderate Height Eccentrically Braced Steel Frames Designed for North American Seismic Conditions
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1465-1476
+VI - 138
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0000433 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000433
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000433
+SO - Journal of Structural Engineering 2012-12-01 138(12): 1465-1476
+AB - The global seismic response of 3- and 8-story eccentrically braced frames (EBFs), designed for western and eastern North American locations, is studied using nonlinear time history analysis. Analytical models were built in three computer programs. Similar maximum forces were obtained, but the inelastic deformation predictions at the element and global structural levels showed sensitivity to the modeling employed. This feature should be considered in seismic performance assessment or design. Current design methods failed to predict interstory drifts and plastic link rotations, but the study confirmed the strong correlation between the two parameters associated with rigid-plastic behavior. The influence of yielding and flexural buckling of frame members, other than the links on the global frame performance, was evaluated using the OpenSees model. It was confirmed that the flexural yielding of outer beams is acceptable for EBFs with short and intermediate links, if the combined flexural strength of the braces and beams is at least equal to the expected end-link moments and the braces can resist the associated axial force-bending moment demand. Inelastic response of braces and columns in such frames did not negatively impact the overall frame behavior.
+
+
+    
+        AU - Bennett R. Banting
+    
+        AU - Wael W. El-Dakhakhni
+    
+
+TI - Force- and Displacement-Based Seismic Performance Parameters for Reinforced Masonry Structural Walls with Boundary Elements
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1477-1491
+VI - 138
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0000572 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000572
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000572
+SO - Journal of Structural Engineering 2012-12-01 138(12): 1477-1491
+AB - There is a need to evaluate existing, and introduce new, masonry construction techniques within a performance-based seismic design context to advance their adoption in the next generation of seismic design codes in North America. In this regard, a reinforced masonry (RM) structural wall system that incorporates confining boundary elements in the plastic hinge region presently lacks specific design requirements in the Masonry Standards Joint Committee and Canadian Standards Association S304.1 design codes. In addition, RM structural wall systems are omitted completely from the plan to develop a new performance-based seismic design methodology laid out by FEMA 445. This paper presents experimental results of four specially detailed RM structural walls subjected to fully reversed cycles of displacement-controlled loading as tested by the authors. In addition, the resulting analysis also includes one wall from a previous study for comparison purposes. All walls were detailed with lateral reinforcing ties confining a grouted core and four vertical reinforcement bars located at each of the wall ends. The design and detailing of the walls represented a range of parameters that would be anticipated to vary within low-to-medium-rise RM buildings. Each of the half-scale walls had overall dimensions of 1.8×4.0&nbsp;m but varied by the level of applied axial load, the presence of interstory floor slabs, and the presence of confining boundary elements above the first-story height. The results of this experimental program indicate that boundary elements delayed the onset of buckling in the vertical reinforcement and reduced the impact of face-shell spalling on overall wall strength degradation. At 20% degradation from ultimate strength, the top drifts ranged from 1.82 to 3.73% and the displacement ductilities ranged from 6.6 to 15.2. This study is the first of a series of studies at McMaster University currently focused on introducing a broad set of experimental evidence aiming at establishing a new category of RM seismic force resisting systems in North American building codes.
+
+
+    
+        AU - Jun He
+    
+
+TI - Response Spectral Characteristics and Reliabilities of Linear Structures to Both Intensity and Frequency Content Time-Varying Earthquake Loads
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1492-1504
+VI - 138
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0000600 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000600
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000600
+SO - Journal of Structural Engineering 2012-12-01 138(12): 1492-1504
+AB - A numerical method for estimating the useful spectral characteristics of responses of classically damped linear elastic structures to the Yeh-Wen model of fully nonstationary random earthquake loads is developed. The derivation of the method is carried out in three steps. First, the stationary Gaussian white noise process in the space of a frequency modulation function is transformed to the uniformly modulated Gaussian white noise process in the time space. Second, the numerical computation procedure for the unit impulse response functions in the time domain of the Clough-Penzien filters modified in the space of a frequency modulation function is proposed. Finally, the numerical solutions for the useful spectral characteristics of responses of linear structures to the Yeh-Wen model are given, from which the first-passage reliability problem can be solved by using Vanmarcke’s approximation. Numerical investigation of a simple oscillator shows the effect of the frequency modulation functions on the numerical results and computational efficiency of the developed method. The numerical analysis of the spectral characteristics and first-passage probabilities of a response of a supertall television tower demonstrates how to implement the numerical method in practical applications.
+
+
+    
+        AU - X. D. Zhi
+    
+        AU - G. B. Nie
+    
+        AU - F. Fan
+    
+        AU - S. Z. Shen
+    
+
+TI - Vulnerability and Risk Assessment of Single-Layer Reticulated Domes Subjected to Earthquakes
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1505-1514
+VI - 138
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0000589 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000589
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000589
+SO - Journal of Structural Engineering 2012-12-01 138(12): 1505-1514
+AB - In order to provide a good understanding of the damage states of single-layer reticulated domes under earthquake loading, a number of increment dynamic analyses are carried out on domes with different spans, rise-span ratios, roof weights, and other parameters. A model is proposed for the quantitative evaluation of damage. The damage states for single-layer reticulated domes are defined based on their structural dynamic performance and corresponding damage factors. The vulnerability of single-layer reticulated domes is shown using fragility curves with different damage states. A model of probability distribution for seismic hazard, structural damage probability, and various losses, including direct and indirect economic loss and maimed and fatality loss, is discussed for assessing risk. The risk assessment of a single-layer reticulated dome is performed for different seismic intensities for its loss or fatality acceptability.
+
+
+    
+        AU - Iman Ghorbanirenani
+    
+        AU - Robert Tremblay
+    
+        AU - Pierre Léger
+    
+        AU - Martin Leclerc
+    
+
+TI - Shake Table Testing of Slender RC Shear Walls Subjected to Eastern North America Seismic Ground Motions
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1515-1529
+VI - 138
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0000581 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000581
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000581
+SO - Journal of Structural Engineering 2012-12-01 138(12): 1515-1529
+AB - This paper presents shake table test results on two identical 1:0.429 scaled, 8-story moderately ductile RC shear wall specimens under the expected high-frequency ground motion in eastern North America. The walls were designed and detailed according to the seismic provisions of the NBCC 2005 and CSA-A23.3-04 standards. The objectives were to validate and understand the inelastic responses and interaction of shear and flexure and axial loads in the plastic hinge zones of the walls taking into consideration the higher-mode effects. One specimen was tested under incremental ground motion intensities ranging from 40 to 120% of the design level. The intensity range was increased from 100 to 200% for the second specimen. The response of the walls was significantly affected by the second mode, causing an inelastic flexural response to develop at the base as well as at the sixth level. Dynamic amplification of the base shear forces was also observed in both walls. In the second wall, which was tested in the undamaged condition, peak base shear forces occurred prior to significant inelastic rotation and the contribution to concrete of shear resistance exceeded the value used in the design. Once inelastic rotation had developed that contribution corresponded to the value obtained using a value of 0.18 for the reduction factor accounting for concrete cracking. Inelastic rotation in the upper wall region was found to limit the force demand imposed by the higher-mode response.
+
+
+    
+        AU - Fabian R. Rojas
+    
+        AU - James C. Anderson
+    
+
+TI - Pounding of an 18-Story Building During Recorded Earthquakes
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1530-1544
+VI - 138
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0000541 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000541
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000541
+SO - Journal of Structural Engineering 2012-12-01 138(12): 1530-1544
+AB - During the San Fernando Earthquake (1971), two of the three triaxial recording instruments placed in an 18-story steel building in Los Angeles recorded the impact with an adjacent reinforced concrete parking structure. This provided an excellent opportunity to evaluate the modeling of such an event using current computer programs (time step, structure damping, impact damping, and use of a gap element) to evaluate the effect of the impact on the strength demands and evaluate the design implications (necessary separation). Although only the base recorder worked during the Northridge Earthquake, it was possible to evaluate the computer modeling using the San Fernando data, and then use the model to evaluate the building behavior under the stronger Northridge Earthquake (1994). Results of the numerical model indicate an agreement with the extensive cracking identified by the results of a damage investigation following the Northridge Earthquake in the two moment resistant transverse frames of the steel building. Much of this damage in the lower 10 floors of the transverse frames was probably because of the impact with the adjacent parking structure at the fifth floor level. Damage in the upper portion is thought to be because of the increase response in the higher modes of vibration caused by the impact and horizontal setback of the building at the fifth level.
+
+
+TI - Reviewers
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 1545-1553
+VI - 138
+IP - 12
+AID - 10.1061/(ASCE)ST.1943-541X.0000707 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000707
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000707
+SO - Journal of Structural Engineering 2012-12-01 138(12): 1545-1553
+
+

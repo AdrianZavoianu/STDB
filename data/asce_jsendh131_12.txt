@@ -1,0 +1,483 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Sashi K. Kunnath
+    
+
+TI - EDITOR’S NOTE
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1781-1782
+VI - 131
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2005)131:12(1781) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281781%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281781%29
+SO - Journal of Structural Engineering 2005-12-01 131(12): 1781-1782
+
+
+    
+        AU - Z. Q. Chen
+    
+        AU - X. D. Yu
+    
+        AU - G. Yang
+    
+        AU - B. F. Spencer
+    
+
+TI - Wind-Induced Self-Excited Loads on Bridges
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1783-1793
+VI - 131
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2005)131:12(1783) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281783%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281783%29
+SO - Journal of Structural Engineering 2005-12-01 131(12): 1783-1793
+AB - To investigate the frequency and amplitude effects on flutter derivatives, as well as the nonlinear characteristics of the aerodynamic forces on bridge sections, a vibration excitation system was designed and built for forced vibration experiments in the wind tunnel. Based on experimental results, it was shown that flutter derivatives are moderately dependent of the amplitude and frequency. The fast Fourier transform was also applied to investigate the nonlinearity of the aerodynamic forces. Results indicated that responses of thin-plate and streamlined sections were close to linear. However, the response of bluff sections contained relatively large higher order harmonics, even when the sectional model was driven by a small amplitude and nearly pure sinusoidal excitation.
+
+
+    
+        AU - Hongjin Kim
+    
+        AU - Hojjat Adeli
+    
+
+TI - Wind-Induced Motion Control of 76-Story Benchmark Building Using the Hybrid Damper-TLCD System
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1794-1802
+VI - 131
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2005)131:12(1794) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281794%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281794%29
+SO - Journal of Structural Engineering 2005-12-01 131(12): 1794-1802
+AB - The tuned liquid column damper (TLCD) has recently been advanced for vibration control of structures subjected to wind loading. The effectiveness of the semiactive TLCD system and the hybrid viscous fluid damper-TLCD control system recently proposed by the writers is investigated for control of wind-induced motion of high-rise buildings. Simulations are performed on a 76-story building benchmark control problem subjected to wind tunnel test data and stochastic wind loads. It is shown that the semiactive TLCD control system performs comparably to a sample active tuned mass damper (ATMD) system and thus is an attractive alternative to the ATMD system. More significantly, it is shown that the hybrid viscous fluid damper-TLCD system reduces the response of the building substantially more than the semiactive TLCD system at every natural frequency of the building. Furthermore, the hybrid damper-TLCD system is robust in terms of the stiffness modeling error for control of both displacement and acceleration responses. The simulation results show that the proposed hybrid viscous fluid damper-TLCD system can perform effectively under various wind loading conditions.
+
+
+    
+        AU - Yaw-Jeng Chiou
+    
+        AU - Pang-An Hsiao
+    
+
+TI - Large Displacement Analysis of Cyclically Loaded Inelastic Structures
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1803-1810
+VI - 131
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2005)131:12(1803) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281803%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281803%29
+SO - Journal of Structural Engineering 2005-12-01 131(12): 1803-1810
+AB - An explicit finite element numerical model for the study of nonlinear transient responses of cyclically loaded inelastic structures is presented in this study. The convected material frame approach, which is a modification of the co-rotational approximation, is used to deal with the large geometric behavior of structures. The Dafalias–Popov two-surface model is adopted to describe the uniaxial cyclic inelastic material behavior. The gradual plastification through the cross section and along the member length, the Bauschinger effect, strain hardening, and residual stresses produced during hysteretic plastic deformation are considered in the analysis. The structures subjected to horizontal triangular wave load, sine wave load, earthquake load, and horizontal harmonic wave load are studied. The numerical results show that the present approach is capable of simulating the nonlinear transient responses of frame structures.
+
+
+    
+        AU - Bulent N. Alemdar
+    
+        AU - Donald W. White
+    
+
+TI - Displacement, Flexibility, and Mixed Beam–Column Finite Element Formulations for Distributed Plasticity Analysis
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1811-1819
+VI - 131
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2005)131:12(1811) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281811%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281811%29
+SO - Journal of Structural Engineering 2005-12-01 131(12): 1811-1819
+AB - This paper presents several beam–column finite element formulations for full nonlinear distributed plasticity analysis of planar frame structures. The fundamental steps within the derivation of displacement-based, flexibility-based, and mixed elements are summarized. These formulations are presented using a total Lagrangian corotational approach. In this context, the element displacements are separated into rigid-body and deformational (or natural) degrees of freedom. The element rigid-body motion is handled separately within the mapping from the corotational to global element frames. This paper focuses on the similarities and differences in the element formulations associated with the element natural degrees of freedom within the corotational frame. The paper focuses specifically on two-dimensional elements based on Euler–Bernoulli kinematics; however, the concepts are also applicable to general beam–column elements for three-dimensional analysis. The equations for the consistent tangent stiffness matrices are presented, and corresponding consistent element state determination algorithms are explained. Numerical examples are provided to compare the performance of the above elements.
+
+
+    
+        AU - Young Mook Yun
+    
+        AU - Byung Hun Kim
+    
+
+TI - Optimum Design of Plane Steel Frame Structures Using Second-Order Inelastic Analysis and a Genetic Algorithm
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1820-1831
+VI - 131
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2005)131:12(1820) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281820%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281820%29
+SO - Journal of Structural Engineering 2005-12-01 131(12): 1820-1831
+AB - A genetic algorithm (GA)-based optimum design algorithm and a program incorporated with the refined plastic hinge analysis method, one of the second-order inelastic analysis methods, are presented. In the refined plastic hinge analysis method, geometric nonlinearity is considered by using the stability functions of beam-column members, and the material nonlinearity is considered by using the gradual stiffness degradation model that includes the effects of residual stresses, moment redistributions by the occurrence of plastic hinges, and geometric imperfections of members. In the genetic algorithm, the tournament selection method and micro-GAs are employed. The fitness function for the genetic algorithm is expressed as an unconstrained function composed of objective and penalty functions. The objective and penalty functions are expressed, respectively, as the weight of steel frames and the constraint functions accounting for the requirements of load-carrying capacity, serviceability, ductility, and constructability. To verify the appropriateness of the proposed method, the optimum design results of several plane steel frames obtained by the present study incorporating the refined plastic hinge analysis method are compared with those by others incorporating the AISC-LRFD elastic, geometric nonlinear, and plastic zone analysis methods.
+
+
+    
+        AU - Tetsuya Yabuki
+    
+        AU - Yasunori Arizumi
+    
+        AU - Fumishige Akamine
+    
+        AU - Le-Wu Lu
+    
+
+TI - Nonlinear Effect on Instability of Steel Columns under Dynamic Axial Loads
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1832-1840
+VI - 131
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2005)131:12(1832) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281832%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281832%29
+SO - Journal of Structural Engineering 2005-12-01 131(12): 1832-1840
+AB - The usual methods of investigating dynamic instability concentrate on elastic instabilities. These standard methods are limited because the strength of the structural component is independent of how much spread there is in the unloading and reloading of the yielding parts in the cross section and along the length of the component. Therefore, such methods are of limited practical use in assessing the performance of actual structures. This paper examines inelastic dynamic instabilities of steel columns alternately subjected to a steady axial force and an alternating dynamic axial force. The variable factors considered include the support condition and the frequency of the periodic axial force. During dynamic loading the amplitude behavior of the inelastic nonlinear column at the instability condition was found to be different from that of the elastic linear column at the resonance condition. It was also found that the presence of the material nonlinearity makes the instability regions different from those given by the solution of Mathieu’s equation for linear, elastic columns.
+
+
+    
+        AU - Toshiyuki Fukumoto
+    
+        AU - Koji Morita
+    
+
+TI - Elastoplastic Behavior of Panel Zone in Steel Beam-to-Concrete Filled Steel Tube Column Moment Connections
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1841-1853
+VI - 131
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2005)131:12(1841) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281841%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281841%29
+SO - Journal of Structural Engineering 2005-12-01 131(12): 1841-1853
+AB - Subassemblage tests were conducted on the panel zone within steel beam-to-concrete filled steel tube (CFT) column moment connections made from high-strength material to investigate their elastoplastic behavior. The writers propose a nonlinear shear force–deformation model for the panel zone in beam-to-column CFT connections for predicting the elastoplastic behavior of the panel zones. The proposed model includes a superposed model based on a trilinear shear–deformation relationship for the steel tube superposed on one for the concrete core, and a simple model provided as a trilinear model having a yield strength point and an ultimate strength point for this panel zone, as a practical model for design. The writers also propose a method for evaluating load resistance, in which a new theoretical compression strut mechanism is utilized, taking into account the confinement of the tube flange. The results predicted using the superposed and the simple model are found to agree approximately with the experimental results up to a large shear deformation of 
+
+0.04
+rad
+
+.
+
+
+    
+        AU - Cheol-Ho Lee
+    
+        AU - Sang-Woo Jeon
+    
+        AU - Jin-Ho Kim
+    
+        AU - Chia-Ming Uang
+    
+
+TI - Effects of Panel Zone Strength and Beam Web Connection Method on Seismic Performance of Reduced Beam Section Steel Moment Connections
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1854-1865
+VI - 131
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2005)131:12(1854) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281854%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281854%29
+SO - Journal of Structural Engineering 2005-12-01 131(12): 1854-1865
+AB - This paper presents test results on eight reduced beam section (RBS) steel moment connections. The testing program addressed web connection type (bolted versus welded) and panel zone (PZ) strength as the key variables. Specimens with medium PZ strength were designed to promote energy dissipation from both PZ and RBS regions such that expensive doubler plates were not needed. Both strong and medium PZ specimens with a welded web connection were able to provide satisfactory connection rotation capacity for special moment-resisting frames. However, specimens with a bolted web connection performed poorly due to premature brittle fracture of the beam flange at the weld access hole. A plausible explanation for the higher incidence of base metal fracture in bolted web specimens was presented based on the measured strain data. Test results from this study and by others showed that panel zones could easily develop a plastic rotation of 
+
+0.01
+rad
+
+ without causing distress to the beam flange groove welds. At this deformation level, the amount of beam distortion (i.e., buckling) was about one half that developed in strong PZ specimens. A criterion for a balanced PZ strength that improves the plastic rotation capacity while reducing the amount of beam buckling is proposed.
+
+
+    
+        AU - J. W. Park
+    
+        AU - S. M. Kang
+    
+        AU - S. C. Yang
+    
+
+TI - Experimental Studies of Wide Flange Beam to Square Concrete-Filled Tube Column Joints with Stiffening Plates Around the Column
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1866-1876
+VI - 131
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2005)131:12(1866) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281866%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281866%29
+SO - Journal of Structural Engineering 2005-12-01 131(12): 1866-1876
+AB - The strength and stiffness of wide flange beams to rectangular tube column joints are reduced significantly if the connections are not reinforced. However, the reinforcement for the connections can be complex and increase the fabrication costs significantly because the tube columns are closed sections. This paper describes the force transfer mechanism and the cyclic performance of wide flange beams to square concrete-filled tube column joints reinforced with stiffening plates around the column. The first phase of this research program was to assess the force transfer mechanism at the joint using an analytical yield line method. An experimental program was conducted to verify the proposed model. The test results showed that the derived nominal strength equation provided a reasonable prediction. As the second phase of the research program, full-scale joint subassemblage tests were conducted to assess the cyclic performance of the joints. A total of seven specimens were tested under cyclic loading. Test results showed that total rotation of 
+
+0.04
+rad
+
+ which is required for special moment resisting frames could be obtained.
+
+
+    
+        AU - Zdeněk P. Bažant
+    
+        AU - Qiang Yu
+    
+
+TI - Designing Against Size Effect on Shear Strength of Reinforced Concrete Beams Without Stirrups: I. Formulation
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1877-1885
+VI - 131
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2005)131:12(1877) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281877%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281877%29
+SO - Journal of Structural Engineering 2005-12-01 131(12): 1877-1885
+AB - The shear failure of reinforced concrete beams is a very complex fracture phenomenon for which a purely mathematical approach is not possible at present. However, detailed modeling of the fracture mechanism is not necessary for establishing the general form of the size effect. The first part of this paper shows that the general approximate mathematical form of the size effect law to be calibrated by experimental data can be deduced from two facts: (1) the failure is caused by cohesive (or quasibrittle) fracture propagation; and (2) the maximum load is attained only after large fracture growth (rather than at fracture initiation). Simple dimensional analysis yields the asymptotic properties of size effect, which are characterized by: (1) a constant beam shear strength 
+
+
+vc
+
+
+ (i.e., absence of size effect) for sufficiently small beam depths; and (2) the linear elastic fracture mechanics size effect 
+
+
+vc
+∼
+d−1∕2
+
+
+ for very large beam depths 
+d
+. Together with the recently established small- and large-size second-order asymptotic properties of the cohesive (or fictitious) crack model, this suffices to unambiguously support a size effect formula of the general approximate form 
+
+
+vc
+=
+v0
+
+(1+d∕
+d0
+)−1∕2
+
+
+
+ (where 
+
+
+v0
+,
+
+d0
+
+
+ are constants), which was proposed in 1984 for shear failure of beams on the basis of less general and less fundamental arguments. Verification and calibration are left for Part II of this paper which follows.
+
+
+    
+        AU - Zdeněk P. Bažant
+    
+        AU - Qiang Yu
+    
+
+TI - Designing Against Size Effect on Shear Strength of Reinforced Concrete Beams Without Stirrups: II. Verification and Calibration
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1886-1897
+VI - 131
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2005)131:12(1886) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281886%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281886%29
+SO - Journal of Structural Engineering 2005-12-01 131(12): 1886-1897
+AB - After theoretical derivation of the general form of the size effect formula for beam shear in the preceding Part I, this Part II presents experimental verification by least-square fitting of those existing individual data sets that have a broad size range. Subsequently, empirical prediction formulas for the size effect parameters, consisting of the asymptotic small-size strength 
+v0
+ and the transitional size 
+d0
+, are calibrated by least-square regression of (1) a recent American Concrete Institute database with 398 data points, and (2) a combination of this database with large-scale Japanese tests and Northwestern reduced-scale model tests. Previous alternative proposals for dealing with the size effect in beam shear are also discussed.
+
+
+    
+        AU - Olaf Huth
+    
+        AU - Glauco Feltrin
+    
+        AU - Johan Maeck
+    
+        AU - Nedim Kilic
+    
+        AU - Masoud Motavalli
+    
+
+TI - Damage Identification Using Modal Data: Experiences on a Prestressed Concrete Bridge
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1898-1910
+VI - 131
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2005)131:12(1898) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281898%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281898%29
+SO - Journal of Structural Engineering 2005-12-01 131(12): 1898-1910
+AB - Large scale tests with progressive damage on a prestressed concrete highway bridge have been performed to investigate the sensitivity of several damage detection, localization, and quantification methods based on modal parameters. To investigate the quality of modal parameters, the data set of one damage step was analyzed by several output-only identification techniques. Although the bridge was severely cracked, natural frequencies as well as mode shapes display only minor changes. However, the relative changes of mode shapes are larger than those observed for natural frequencies. A novel damage indicator, called mode shape area index, based on changes of mode shapes, has been developed and found as the most sensitive damage detection approach. Damage detection or localization via changes of the flexibility matrix performed better than natural frequencies or mode shapes alone. The application of the direct stiffness calculation and a sensitivity-based model update technique showed results having a high level of ambiguity about the location and quantification of damage also at the highest damage level. Evaluating the information collected in this study the test results indicate that an early stage damage identification in prestressed concrete bridges is hardly possible because of the nearly complete recovery of stiffness after closing of cracks in prestressed concrete and the effect of environmental parameters on modal data.
+
+
+    
+        AU - Nicolas Saenz
+    
+        AU - Chris P. Pantelides
+    
+
+TI - Shear Friction Capacity of Concrete with External Carbon FRP Strips
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1911-1919
+VI - 131
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2005)131:12(1911) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281911%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281911%29
+SO - Journal of Structural Engineering 2005-12-01 131(12): 1911-1919
+AB - Carbon Fiber Reinforced Polymer (CFRP) composite strips were used to strengthen concrete externally at a known failure plane to resist shear friction. The uncracked push-off specimens were externally reinforced with CFRP composites using a reinforcement ratio ranging from 0.3 to 1.2%. The shear friction capacity of plain concrete without steel reinforcement was increased 1.32–3.25 times, and was found to be a function of the shear-to-normal stress ratio. The shear friction strength ranged from 
+
+0.17
+fc′
+
+
+ to 
+
+0.27
+fc′
+
+
+ for the reinforcement ratios studied. Tests with various wrapping schemes showed no evidence that additional shear friction capacity could be developed for a four-sided scheme compared to a two-sided scheme. The shear friction strength of the initially uncracked connections was found using experimental results, which combine the shear friction contribution of concrete and that of concrete–CFRP interaction, similar to current practice for internal steel reinforcement.
+
+
+    
+        AU - A. Caner
+    
+        AU - S. Zlatanic
+    
+        AU - N. Munfah
+    
+
+TI - Structural Fire Performance of Concrete and Shotcrete Tunnel Liners
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1920-1925
+VI - 131
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2005)131:12(1920) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281920%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281920%29
+SO - Journal of Structural Engineering 2005-12-01 131(12): 1920-1925
+AB - Tunnel liners can suffer significant structural damage when exposed to long duration fires. The resulting damage to the tunnel liner can produce casualties, major service disruptions, and financial loss. Structural fire performance studies have generally focused on buildings exposed to standard fires. Tunnel fires typically have high temperatures and heat release rates compared to building fires. In this paper, an analytical method is provided for assessing the structural fire performance of concrete or the shotcrete tunnel liners, by comparing the structural demand and the capacity of the liners in the time domain. The suggested analysis is a combination of a heat transfer analysis and a nonlinear structural analysis that involves such factors as type of fire, concrete mix design, temperature-induced material degradation, and ground–tunnel liner interaction. A case study is provided. Techniques to minimize fire damage are recommended, and practical methods are suggested for repairing the fire-damaged concrete.
+
+
+    
+        AU - Amarjit Singh Bajaj
+    
+        AU - P. Mendis
+    
+
+TI - New Method to Evaluate the Biaxial Interaction Exponent for RC Columns
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1926-1930
+VI - 131
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2005)131:12(1926) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281926%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281926%29
+SO - Journal of Structural Engineering 2005-12-01 131(12): 1926-1930
+AB - A simple and efficient method is presented in this paper to evaluate the interaction exponent for biaxial bending of reinforced concrete (RC) columns. This method avoids the use of tedious methods such as the use of design charts and tables. Results obtained with the proposed method have been compared with various methods utilised in practice. A method is also suggested to calculate the critical values of interaction exponent at a particular design load and an angle of eccentricity at which the adequacy of the section can be checked for design purposes. The method has been validated experimentally.
+
+
+    
+        AU - Quanfeng Wang
+    
+        AU - L. Y. Wang
+    
+
+TI - Estimating Periods of Vibration of Buildings with Coupled Shear Walls
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1931-1935
+VI - 131
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2005)131:12(1931) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281931%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281931%29
+SO - Journal of Structural Engineering 2005-12-01 131(12): 1931-1935
+AB - In this paper the resulting equation for natural vibration of buildings with coupled shear walls is proved to be the forth-order Sturm–Liouville differential equation, and a hand method for determining the first two periods of natural vibration of the buildings is presented. The method is accurate and simple, compared with other calculating methods. Once the structural parameters 
+
+αH
+
+ and 
+μ
+ of coupled shear wall building are computed, the periods of the buildings can be readily obtained. The value of the method is that it will allow a more consistent and accurate use of code formulas for calculating the earthquake induced maximum base shear in a building. Use of the method is economical with respect to both computer time and equipment, e.g., a hand calculator would suffice to handle the calculations of periods of the buildings. This paper is thought to be useful for the practicing engineer.
+
+
+TI - Errata for “Load Rating Versus Reliability Analysis” by Allen C. Estes and Dan M. Frangopol
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1936-1936
+VI - 131
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2005)131:12(1936) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281936%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281936%29
+SO - Journal of Structural Engineering 2005-12-01 131(12): 1936-1936
+
+
+TI - Errata for “Shear Strength Analysis and Prediction for Reinforced Concrete Beams without Stirrups” by Gaetano Russo, Giuliana Somma, and Denis Mitri
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1936-1936
+VI - 131
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2005)131:12(1936.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281936.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281936.2%29
+SO - Journal of Structural Engineering 2005-12-01 131(12): 1936-1936
+
+
+TI - Reviewers
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1937-1944
+VI - 131
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2005)131:12(1937) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281937%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A12%281937%29
+SO - Journal of Structural Engineering 2005-12-01 131(12): 1937-1944
+
+

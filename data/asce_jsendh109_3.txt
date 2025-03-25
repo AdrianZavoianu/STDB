@@ -1,0 +1,384 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Philip R. Calhoun
+    
+        AU - Donald A. DaDeppo
+    
+
+TI - Nonlinear Finite Element Analysis of Clamped Arches
+PT - Journal Article
+DP - 1983
+TA - Journal of Structural Engineering
+PG - 599-612
+VI - 109
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1983)109:3(599) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28599%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28599%29
+SO - Journal of Structural Engineering 1983-03-01 109(3): 599-612
+AB - A curved nonlinear finite element is developed to analyze the behavior of slender high‐rise arches that undergo large deflections. The strain analysis is based on the assumptions that plane cross sections remain plane and strains are small. Rotations are unrestricted. In‐plane bending and buckling modes for deep arches with fixed‐end supports are analyzed. Concentrated loads and interacting concentrated and distributed loads are considered. The problem is formulated as a system of rate equations that govern the quasi‐state deformation of an arch. These equations are integrated using a Runge‐Kutta scheme to obtain load‐deflection response.
+
+
+    
+        AU - Tatsuro Sakimoto
+    
+        AU - Sadao Komatsu
+    
+
+TI - Ultimate Strength Formula for Steel Arches
+PT - Journal Article
+DP - 1983
+TA - Journal of Structural Engineering
+PG - 613-627
+VI - 109
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1983)109:3(613) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28613%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28613%29
+SO - Journal of Structural Engineering 1983-03-01 109(3): 613-627
+AB - Effective slenderness ratios for inelastic lateral buckling of throughtype arches are determined by utilizing an analogy between an arch and a column. A designer can use the effective slenderness ratio to obtain an ultimate stress for arches by substituting it into a column strength formula. The applicability of the proposed formula is examined by comparing its predictions with those of computer simulations. The computer simulations are carried out for isolated single arches of box section and through‐type braced arch bridges composed of twin box‐section ribs. The shape of the arch axis is either parabolic or circular in elevation and the rise‐to‐span ratios are in the range between 0.1 and 0.2. The cross section of the arch member is either uniform or variable along the longitudinal axis. Combined use of steels of different grade, longitudinal residual stresses and the initial lateral crookedness of the arch members are considered. Subject to the limitations for which it was derived, the proposed formula is shown to be sufficiently accurate for preliminary design purposes.
+
+
+    
+        AU - Mohamed Abdel‐Rohman
+    
+        AU - Horst H. Leipholz
+    
+
+TI - Active Control of Tall Buildings
+PT - Journal Article
+DP - 1983
+TA - Journal of Structural Engineering
+PG - 628-645
+VI - 109
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1983)109:3(628) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28628%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28628%29
+SO - Journal of Structural Engineering 1983-03-01 109(3): 628-645
+AB - The active control of a tall building, using tendons, is offered as an alternative control mechanism to that using an active tuned mass damper as this has been done in the Citicorp Center of New York City. It is shown that the tendon control system, when applied to a building subjected to self‐excited wind forces, provides more efficient control than a tuned mass damper system. However, tendon control may need larger forces than the tuned mass damper control. The paper shows systematically, with a numerical example, how to design the optimal control forces for both active tendons and active tuned mass dampers in order to introduce active damping to a tall building, even under nonlinear structural behavior, and the paper provides a comparison between two schemes of control.
+
+
+    
+        AU - J. E. Barry
+    
+        AU - Heino Ainso
+    
+
+TI - Single‐Span Deep Beams
+PT - Journal Article
+DP - 1983
+TA - Journal of Structural Engineering
+PG - 646-663
+VI - 109
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1983)109:3(646) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28646%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28646%29
+SO - Journal of Structural Engineering 1983-03-01 109(3): 646-663
+AB - The multiple Fourier technique is used to compare the stress fields in single span deep beams due to uniform loading at the top edge and at the bottom edge. The method involves the superposition of three stress functions. The first stress function is used to satisfy the boundary conditions on the upper and lower edges of the beam. The second and third stress functions are used to satisfy the boundary conditions on the vertical edges of the beam. This approach allows to satisfy all the required boundary conditions. Contour maps of the stress field reveal the existence of regions of pure tension and pure compression. These regions indicate proneness to spalling, bursting or crushing.
+
+
+    
+        AU - Ahmed M. Abdel‐Ghaffar
+    
+        AU - Lawrence I. Rubin
+    
+
+TI - Lateral Earthquake Response of Suspension Bridges
+PT - Journal Article
+DP - 1983
+TA - Journal of Structural Engineering
+PG - 664-675
+VI - 109
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1983)109:3(664) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28664%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28664%29
+SO - Journal of Structural Engineering 1983-03-01 109(3): 664-675
+AB - The lateral response of suspension bridges to multiple‐support seismic excitations is investigated. A frequency‐domain random‐vibration approach is utilized to take into account not only the differences in ground motion inputs, but also the correlation among the various input motions. The earthquake response of the Golden Gate Suspension Bridge, in San Francisco, California, is analyzed. The ground motion inputs were taken from an array of time histories recovered from the Imperial Valley, California, earthquake (ML?6.6) of October 15, 1979. Mean square displacements of both the cables and the suspended structures, as well as stresses in the later, are calculated. It was found that a relative large number of modes is necessary to obtain a reasonable representation of the response and that uniform ground motion over the entire span is not a good assumption for these long structures since it does not represent the worst possible conditions.
+
+
+    
+        AU - Michalakis C. Constantinou
+    
+        AU - Iradj G. Tadjbakhsh
+    
+
+TI - Probabilistic Optimum Base Isolation of Structures
+PT - Journal Article
+DP - 1983
+TA - Journal of Structural Engineering
+PG - 676-689
+VI - 109
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1983)109:3(676) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28676%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28676%29
+SO - Journal of Structural Engineering 1983-03-01 109(3): 676-689
+AB - The problem of the optimal base isolation system of multistory shear type buildings has been considered in a probabilistic sense. For white noise ground accelerations the response of the structure relative to the base was minimized subject to constraints on the maximum displacements of the base.
+
+
+    
+        AU - James R. Goodman
+    
+        AU - M. Daniel Vanderbilt
+    
+        AU - Marvin E. Criswell
+    
+
+TI - Reliability‐Based Design of Wood Transmission Line Structures
+PT - Journal Article
+DP - 1983
+TA - Journal of Structural Engineering
+PG - 690-704
+VI - 109
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1983)109:3(690) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28690%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28690%29
+SO - Journal of Structural Engineering 1983-03-01 109(3): 690-704
+AB - Several phases of a project seeking to improve the design of wood transmission line structures are presented. Improved information for wood pole strength includes a compilation of results from previous pole tests of new fairly short poles. Strength and stiffness values from a pilot study of transmission‐size poles and poles removed from service are also presented. These tests show that pole strength is significantly reduced by exposure to typical service conditions. In addition, limited tests of new transmission‐size poles show results similar to those of previous tests of new short poles. A load and resistance factor design format with design factors based on reliability concepts is advocated as a practical method to improve design of transmission line structures by achieving a better balance of reliability and economy. The proposed utility use of equations for load and resistance factors containing design quantity variabilities and reliability index values allows the consideration of special conditions and encourages gathering of local data. An illustration of the reliability‐based design method is also included.
+
+
+    
+        AU - Alvar M. Kabe
+    
+        AU - Dixon Rea
+    
+
+TI - Inelastic Earthquake Response of Steel Structures
+PT - Journal Article
+DP - 1983
+TA - Journal of Structural Engineering
+PG - 705-720
+VI - 109
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1983)109:3(705) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28705%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28705%29
+SO - Journal of Structural Engineering 1983-03-01 109(3): 705-720
+AB - Results from experiments in which small three story steel frame structures were subjected to simulated earthquake motions by means of a shaking table are described. The structures, weighing 132 lb (60 kg), and consisting of 1/2 in. × 1/4 in. (13 mm × 6 mm) rectangular columns and rigid beams, were designed to reproduce the overall seismic behavior of shear‐type buildings. The motions caused large inelastic deformations in the first‐story columns. The results of the experiments were used to evaluate the accuracy of a computer program by comparing computed time histories and hysteresis loops with those obtained experimentally. It is concluded that the computer program, DRAIN‐2D, can reproduce the general features in the response of these three story structures to earthquake motions even if there are large excursions into the inelastic range of behavior. However, in order to reproduce the response precisely, the simple bilinear moment‐rotation relationship used to specify nonlinear behavior would have to be modified to account for cyclic strain hardening.
+
+
+    
+        AU - Masanobu Shinozuka
+    
+
+TI - Basic Analysis of Structural Safety
+PT - Journal Article
+DP - 1983
+TA - Journal of Structural Engineering
+PG - 721-740
+VI - 109
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1983)109:3(721) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28721%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28721%29
+SO - Journal of Structural Engineering 1983-03-01 109(3): 721-740
+AB - The present study reviews some of the more significant recent developments in the area of structural reliability analysis, proposes new interpretations for and emphasis in some of these crucial theoretical developments, and introduces additional useful quantities. To be specific, the first‐order second‐moment methods are reviewed. It is then shown that the Lagrange multiplier formulation (and thus any algorithm associated with it) can be used to evaluate the safety index and the location of the design point. Monte Carlo techniques are recommended for use in estimating limit state probabilities as a practical alternative to other methods. The use of the Stokes and Gauss divergence theorem in two‐ and three‐dimensional integral expressions of a limit state probability is suggested in order to reduce the dimensionality of the integrations by one. Finally, it is recommended that the point of maximum likelihood be used as an alternative to the design point based on the advanced firstorder second‐moment method.
+
+
+    
+        AU - Adang Surahman
+    
+        AU - Kamal B. Rojiani
+    
+
+TI - Reliability Based Optimum Design of Concrete Frames
+PT - Journal Article
+DP - 1983
+TA - Journal of Structural Engineering
+PG - 741-757
+VI - 109
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1983)109:3(741) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28741%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28741%29
+SO - Journal of Structural Engineering 1983-03-01 109(3): 741-757
+AB - A reliability based optimum design procedure as a rational approach to optimum structural design is presented. The reliability analysis is based on a first‐order second moment approach. Uncertainties in the structural strength and loading due to inherent variability as well as modeling and prediction errors are included in the formulation. The failure modes considered include failure due to bending, combined axial thrust and bending, and shear. The structural systems investigated are typical office buildings consisting of fourand ten‐story reinforced concrete frames. The procedure to obtain the optimal structure is based on a minimization of the total expected cost, and the optimal risk level is obtained as the value that results in the minimum total expected cost. The total expected cost is taken as the sum of the initial building cost and the loss due to failure. An iterative procedure is used to obtain member dimensions and reinforcing steel areas for prescribed risk levels ranging from 10-2-10-6, and upper, and lower bounds on the total expected cost are computed. For the buildings considered, the optimal risk level ranges from 10-4.1-10-5.4. The proposed optimization procedure can provide an accurate estimate of the optimal level of safety.
+
+
+    
+        AU - Sven Eilif Svensson
+    
+        AU - Carsten Munk Plum
+    
+
+TI - Stiffener Effects on Torsional Buckling of Columns
+PT - Journal Article
+DP - 1983
+TA - Journal of Structural Engineering
+PG - 758-772
+VI - 109
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1983)109:3(758) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28758%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28758%29
+SO - Journal of Structural Engineering 1983-03-01 109(3): 758-772
+AB - Torsional stability of centrally loaded columns, having doubly symmetric sections, often is critical. The torsional stability can be improved by locally placed plates connecting the different flanges of the column partially preventing the section to warp and thus, improving the contribution of warping to the stability resistance. The warping restraint stiffness is used in the determination of the transitional conditions at the stiffeners. These together with the boundary conditions and the linear, homogeneous differential equations formulates the eigenvalue problem. The eigenvalue problem is solved in two ways: (1) One locally placed stiffener and; (2) two locally placed stiffeners arranged symmetric with respect to the column mid span. The solutions are shown in graphs which may be used as design charts. From these graphs it can be seen that the optimal position of the stiffener is about 1/5 or 1/6 of the span for one or two stiffeners. The maximum obtainable increase of the buckling load depends of the proportion of the warping resistance to the torsional resistance. These are presented in graphs.
+
+
+    
+        AU - William Weaver
+    
+        AU - Moshe Eisenberger
+    
+
+TI - Dynamics of Frames With Axial Constraints
+PT - Journal Article
+DP - 1983
+TA - Journal of Structural Engineering
+PG - 773-784
+VI - 109
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1983)109:3(773) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28773%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28773%29
+SO - Journal of Structural Engineering 1983-03-01 109(3): 773-784
+AB - The number of degrees of freedom for the dynamic analysis of plane and space frames may be considerably reduced by introducing axial constraints. Determination of the rank and basis of the constraint matrix by Gauss‐Jordan elimination with pivoting leads to automatic selection of the best set of dependent and independent joint translations. Then a transformation of the equations of motion to generalized coordinates produces a reduced set of equations that may be solved for the dynamic response of the independent joint translations. This technique can be applied in conjunction with the elimination of joint rotations, thereby accomplishing a double reduction without significant loss of accuracy. The procedure described has been programmed on a digital computer for both plane and space frames, with automatic identification of redundant constraints.
+
+
+    
+        AU - Nigel Cooke
+    
+        AU - Peter J. Moss
+    
+        AU - Warren R. Walpole
+    
+        AU - D. Wayne Langdon
+    
+        AU - Mervyn H. Harvey
+    
+
+TI - Strength and Serviceability of Steel Girder Webs
+PT - Journal Article
+DP - 1983
+TA - Journal of Structural Engineering
+PG - 785-807
+VI - 109
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1983)109:3(785) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28785%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28785%29
+SO - Journal of Structural Engineering 1983-03-01 109(3): 785-807
+AB - The experimental behavior of four steel plate girder webs stiffened either transversely or transversely and longitudinally is considered. One aspect of the study is concerned with assessing the influence of residual stresses and strains and initial imperfections on the behavior of the girders at working load and its strength. The serviceability of the girders at working load is an important design aspect and a study of stress levels and panel deflections at this load was made. There are many theoretical methods available to the designer for predicting the shear strength of plate girder webs and a comparison of these predictions made for the test specimens is made with experimental values.
+
+
+    
+        AU - John B. Kennedy
+    
+
+TI - Orientation of Ribs in Waffle‐Slab Skew Bridges
+PT - Journal Article
+DP - 1983
+TA - Journal of Structural Engineering
+PG - 811-816
+VI - 109
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1983)109:3(811) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28811%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28811%29
+SO - Journal of Structural Engineering 1983-03-01 109(3): 811-816
+AB - An experimental study is presented on the structural response of reinforced concrete skew bridges of: (a) orthogonally, (b) nonorthogonally shaped waffle slab constructions, and (c) solid slab construction. The response is examined under elastic and ultimate load conditions. The results show that the orthogonally-shaped waffle slab skew bridge has a better load distribution characteristic, a superior ultimate load-carrying capacity, and less severe stress concentration at the obtuse corners, than the other two types of constructions.
+
+
+    
+        AU - David Surry
+    
+        AU - William Mallais
+    
+
+TI - Adverse Local Wind Loads Induced by Adjacent Building
+PT - Journal Article
+DP - 1983
+TA - Journal of Structural Engineering
+PG - 816-820
+VI - 109
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1983)109:3(816) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28816%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28816%29
+SO - Journal of Structural Engineering 1983-03-01 109(3): 816-820
+AB - A wind tunnel model study of a building complex comprised of two towers of unusual geometry provides a dramatic example of strong aerodynamic interference effects. Local suction loads predicted to occur once per hundred years in one region increased from 20 psf – 60 psf (958 Pa – 2,874 Pa) when the second tower was added to the complex. The aerodynamic rationale for this particular region and other characteristics of the results are analyzed. The results show that, particularly for buildings of unusual geometry, special care should be taken to examine the likely effects of current and future environments.
+
+
+    
+        AU - Sriramulu Vinnakota
+    
+
+TI - Discussion of &#x201c;<i>Inelastic Lateral Torsional Buckling of Beams</i>&#x201d; by Bruce A. Hollinger and C. P. Mangelsdorf (August, 1981)
+PT - Journal Article
+DP - 1983
+TA - Journal of Structural Engineering
+PG - 823-824
+VI - 109
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1983)109:3(823) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28823%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28823%29
+SO - Journal of Structural Engineering 1983-03-01 109(3): 823-824
+
+
+    
+        AU - Hassan I. A. Hegab
+    
+
+TI - Discussion of &#x201c;<i>Inelastic Lateral Torsional Buckling of Beams</i>&#x201d; by Bruce A. Hollinger and C. P. Mangelsdorf (August, 1981)
+PT - Journal Article
+DP - 1983
+TA - Journal of Structural Engineering
+PG - 824-826
+VI - 109
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1983)109:3(824) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28824%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28824%29
+SO - Journal of Structural Engineering 1983-03-01 109(3): 824-826
+
+
+    
+        AU - Prem Krishna
+    
+        AU - Vijaya K. Gupta
+    
+        AU - Ashok K. Ahuja
+    
+        AU - Ashok K. Mittal
+    
+
+TI - Closure to &#x201c;<i>Inelastic Lateral Torsional Buckling of Beams</i>&#x201d; by Bruce A. Hollinger and C. P. Mangelsdorf (August, 1981)
+PT - Journal Article
+DP - 1983
+TA - Journal of Structural Engineering
+PG - 826-827
+VI - 109
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1983)109:3(826) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28826%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28826%29
+SO - Journal of Structural Engineering 1983-03-01 109(3): 826-827
+
+
+TI - Erratum: “Prediction and Control of Pedestrain‐Induced Vibration in Footbridges” by John E. Wheeler (September, 1982)
+PT - Journal Article
+DP - 1983
+TA - Journal of Structural Engineering
+PG - 827-827
+VI - 109
+IP - 3
+AID - 10.1061/(ASCE)0733-9445(1983)109:3(827) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28827%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281983%29109%3A3%28827%29
+SO - Journal of Structural Engineering 1983-03-01 109(3): 827-827
+
+

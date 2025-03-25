@@ -1,0 +1,464 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Tatsuo Nishiki
+    
+        AU - Shunta Shiraishi
+    
+
+TI - Overloads on Japan's 130-mph Railroad Structures
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 1017-1023
+VI - 96
+IP - 6
+AID - 10.1061/JSDEAG.0002592 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002592
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002592
+SO - Journal of the Structural Division 1970-06-01 96(6): 1017-1023
+AB - Rapidly increasing traffic loads on the 130-mph New Tokaido Line of the Japanese National Railways was considered to affect life endurance of the closely designed structures supporting the line and endanger train operation in the future. In 4.5 yr since its opening to traffic on October 1, 1964, the average daily number of passengers has more than tripled from the initial figure of 60,539 while the average daily number of trains increased by about 2.7 times. Passengers much in excess of seating capacity had to be loaded while the original design load had been determined taking the weight of seated passengers only. The future trend of increases in weight and frequency of loadings and its effect were studied elaborately using statistical data and probability theories. It showed that 5% to 6% shortening of life expectancy is probable in certain short-span beams where the frequency and intensity of stresses are relatively high. Design load for future extension of the NTL was revised taking the aforementioned matter into account.
+
+
+    
+        AU - Bernardo J. Deschapelles
+    
+
+TI - Analytical Model for Lateral Load Effect on Buildings
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 1025-1048
+VI - 96
+IP - 6
+AID - 10.1061/JSDEAG.0002593 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002593
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002593
+SO - Journal of the Structural Division 1970-06-01 96(6): 1025-1048
+AB - A mathematical analysis of the elastic deformations and stresses in a vierendeel truss with different chords is presented. The equations of recurrence for the slopes at panel points of both chords are established and from them is formulated the finite difference equation of the panel drift angle. The different parts of the corresponding solutions are classified and their meaning analyzed. Comparison of results encountered with expressions related to a simpler type of structure suggests a frame analogy that leads to a new type of analytical model consisting of a half frame. The solution of the equivalent structure yields with good accuracy the drift angles and the sum of the cross member end moments at the actual structure. The concept of the frame analogy is extended to multiple chord vierendeel trusses, thereby establishing a simple analytical model to solve the lateral load analysis in multistory buildings. Numerical examples illustrate the use and advantages of the proposed technique.
+
+
+    
+        AU - German Gurfinkel
+    
+
+TI - Analysis of Footings Subjected to Biaxial Bending
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 1049-1059
+VI - 96
+IP - 6
+AID - 10.1061/JSDEAG.0002594 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002594
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002594
+SO - Journal of the Structural Division 1970-06-01 96(6): 1049-1059
+AB - Foundations of tall chimneys and towers, bridge piers and columns of multistory buildings are subjected to vertical loads eccentric about both axes of symmetry. The case of large eccentricities, where compressive stresses on the soil develop only over a portion of the area of the footing, was studied in the paper. A numerical procedure using successive approximations and based on Newton-Raphson's Method was developed to determine the maximum stress on the soil. The method is general and can be applied to any soil for which a realistic stress-strain relationship can be found. An illustrative example of a practical design problem was discussed. Three stress-strain relationships, namely linear parabolic and uniform, were used in the solution of the problem. It was shown that the maximum stress depends on the stress-strain relationship assumed for the behavior of the soil. The method may be applied also to study combined axial load and biaxial bending of columns made of masonry and other materials of negligible tensile strength.
+
+
+    
+        AU - Om Dutt
+    
+        AU - Niels C. Lind
+    
+
+TI - Uniqueness Theorem for Nonlinear Plane Frames
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 1061-1067
+VI - 96
+IP - 6
+AID - 10.1061/JSDEAG.0002595 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002595
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002595
+SO - Journal of the Structural Division 1970-06-01 96(6): 1061-1067
+AB - A plane structural framework is considered subject to loading by concentrated or distributed forces or concentrated moments, or prescribed distributed curvature, displacement or rotation (absolute or relative) at the joints. All prescribed quantities are in the plane of the frame. The deformations are assumed to be small, and deformations caused by shear and normal forces are neglected. The moment is assumed to be a monotonically increasing function (with a finite number of discontinuities admitted) of the curvature of each infinitesimal beam element. This frame problem, typical for example of a plane concrete frame subject to miscellaneous loading, support settlements, etc., is presumed to admit a solution; it is shown that such a solution is unique. This theorem of uniqueness is a useful adjunct with certain non-incremental methods of analysis in the literature. A simple continuous beam example illustrates uniqueness in a way that appeals to engineering intuition.
+
+
+    
+        AU - Ramnath N. Swamy
+    
+        AU - Alexios Andriopoulos
+    
+        AU - Dotun Adepegba
+    
+
+TI - Arch Action and Bond in Concrete Shear Failures
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 1069-1091
+VI - 96
+IP - 6
+AID - 10.1061/JSDEAG.0002596 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002596
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002596
+SO - Journal of the Structural Division 1970-06-01 96(6): 1069-1091
+AB - Numerous investigators have suggested that a cracked reinforced beam without web steel behaves like a tied-arch. From a study of strain measurements in steel and on concrete, it is shown that a normally reinforced beam failing in shear behaves essentially like a beam up to failure, in spite of extensive cracking and deformation. External loads can be resisted by arch action only when the web acts in compression. Data reported show that such action can be developed in a beam only when the steel is fully unbonded between strong end anchorages. Arch action enhances the shear resistance of an unbonded beam beyond that of a bonded beam failing in shear but also increases deflection and reduced the flexural capacity. Lack of bond, however, is not a guarantee against shear failure or even diagonal cracking. The surface conditions of the longitudinal steel are shown to have limited influence on ultimate shear resistance.
+
+
+    
+        AU - William G. Byers
+    
+
+TI - Impact from Railway Loading on Steel Girder Spans
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 1093-1103
+VI - 96
+IP - 6
+AID - 10.1061/JSDEAG.0002597 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002597
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002597
+SO - Journal of the Structural Division 1970-06-01 96(6): 1093-1103
+AB - Results of tests on 37 spans indicate that the distribution of impact magnitudes on railway girder bridges can be approximated by a normal distribution if speed and span length are constant. If speed is increased, impact is increased. If span length is increased, impact is decreased. Impacts on open deck and ballast deck spans are compared. Impact is defined in terms of increased (or decreased) structural response to moving load as compared with static load or in terms of vertical acceleration of the load system. Factors contributing to impact from railway loading are described. Application to a probabilistic design code is suggested.
+
+
+    
+        AU - Zaher Shoukry
+    
+        AU - William Thomas Haisch
+    
+
+TI - Bolted Connections with Varied Hole Diameters
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 1105-1118
+VI - 96
+IP - 6
+AID - 10.1061/JSDEAG.0002598 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002598
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002598
+SO - Journal of the Structural Division 1970-06-01 96(6): 1105-1118
+AB - The effect of oversize holes on the slip resistance and ultimate strength of bolted joints is evaluated. Tests were performed on 47 different lap and butt joints. The average slip coefficient of the friction-type butt or lap joint using 3/4 in. and 7/8-in. A325 high-strength bolts was not signficantly reduced with an oversize up to 3/16 in. when a washer is placed under the turned element. When the oversize was increased to 1/4 in. the bolthead had very little contact with the plate and it was difficult to obtain the minimum tension in the bolt. The ultimate shear strength of the bearing-type butt or lap joint using 3/4 in. and 7/8-in. A325 high-strength bolts was not reduced by any significant amount with an oversize of upt o 3/16 in. Upon increasing hte oversize to 1/4 in., the boltheads cut into the plate to such a great extent that the heads almost pulled through the holes.
+
+
+    
+        AU - Nai C. Yang
+    
+
+TI - Interaction of Aircraft and Ground Structure
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 1119-1142
+VI - 96
+IP - 6
+AID - 10.1061/JSDEAG.0002599 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002599
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002599
+SO - Journal of the Structural Division 1970-06-01 96(6): 1119-1142
+AB - The interaction of taxiing aircraft and ground structure consists of three levels of forced vibration. In the first level the aircraft rolls on a smooth surface. The vibration of the aircraft is the source of excitation and the ground structure responds. The second level of forced vibration is the excitation due to surface roughness. The aircraft, in this case, is the responding system. The dynamic increment of the aircraft causes the third level of vibration; that is, the ground structure is again responding to the increment of aircraft load. The problem has been treated theoretically and experimentally. Three dynamic increment factors have been introduced for deflection, moment, and shear of the ground structure. Although the analytical method given herein tends to imply that the ground structure is a framed system, the principle of the analysis should be applicable to airport pavements.
+
+
+    
+        AU - John J. Jonatowski
+    
+        AU - Charles Birnstiel
+    
+
+TI - Inelastic Stiffened Suspension Space Structures
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 1143-1166
+VI - 96
+IP - 6
+AID - 10.1061/JSDEAG.0002600 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002600
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002600
+SO - Journal of the Structural Division 1970-06-01 96(6): 1143-1166
+AB - A numerical procedure is presented for determining the deformational response of three-dimensional suspension structures, stiffened and unstiffened, as the loading is increased from the initial state to the ultimate carrying capacity. The analysis accounts for the nonlinear stress-strain relationship of the cables and, in the case of stiffened structures, the elasto-plastic behavior of the flexural members. The equilibrium equations are based on the deformed state. The structure is assumed subjected to static concentrated loads, applied in any direction, at the joints of the stiffening framework. The effects of support movement are considered in the analysis. Numerical studies of stiffened and unstiffened structures are included.
+
+
+    
+        AU - Surendra P. Shah
+    
+        AU - B. Vijay Rangan
+    
+
+TI - Effects of Reinforcements on Ductility of Concrete
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 1167-1184
+VI - 96
+IP - 6
+AID - 10.1061/JSDEAG.0002601 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002601
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002601
+SO - Journal of the Structural Division 1970-06-01 96(6): 1167-1184
+AB - To study and compare the reinforcing action of stirrups, randomly distributed short fibers, and compression reinforcement in improving ductility of plain concrete, over-reinforced and under-reinforced beams and prisms were tested in continuously increasing as well as cyclic loading. Reinforcement appears to increase ductility primarily by retarding growth of longitudinal microcracks. As a result, although overall ductility of over-reinforced beams was improved by the addition of compression steel, its presence did not significantly influence the behavior of concrete in the compression zone. Stirrups and fibers substantially improved the ductility of concrete as evidenced by the increased ultimate compressive concrete strains and toughness. Spacing of reinforcement appears to have a small influence on cracking and on ductility for a spacing less than about 1 in. Only small size beams and prisms were tested in this investigation.
+
+
+    
+        AU - Paul Zia
+    
+
+TI - What Do We Know about Torsion in Concrete Members?
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 1185-1199
+VI - 96
+IP - 6
+AID - 10.1061/JSDEAG.0002602 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002602
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002602
+SO - Journal of the Structural Division 1970-06-01 96(6): 1185-1199
+AB - Recent research on torsion in concrete members is reviewed and summarized. Different versions of the skewed bending concept are compared and the effect of web reinforcement and prestress on the torsional strength are examined. The validity and limitations of the different torsion-bending and torsion-shear interaction curves as well as several interaction surfaces are reviewed. Several essential areas for additional research on torsion and its inaction with shear and moment are delineated.
+
+
+    
+        AU - Paul H. Wirsching
+    
+        AU - James T.P. Yao
+    
+
+TI - Statistical Methods in Structural Fatigue
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 1201-1219
+VI - 96
+IP - 6
+AID - 10.1061/JSDEAG.0002603 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002603
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002603
+SO - Journal of the Structural Division 1970-06-01 96(6): 1201-1219
+AB - Because of the scatter of fatigue test data, statistical methods are required for the interpretation of the data. A method, which features the Weibull distribution as the basic statistical model, is analyzed. This point estimation method is applicable in cases where the sample sizes are relatively large. Methods for estimating the parameters for the two and three parameter Weibull distributions are summarized. Furthermore, estimates of the confidence intervals for the parameters in the case of the two-parameter family are presented. The paper is a state-of-the-art summary of the methods of employing the Weibull distribution for analysis of experimental data with emphasis on practical application.
+
+
+    
+        AU - Hayes E. Ross
+    
+        AU - Thomas C. Edwards
+    
+
+TI - Wind Induced Vibration in Light Poles
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 1221-1235
+VI - 96
+IP - 6
+AID - 10.1061/JSDEAG.0002604 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002604
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002604
+SO - Journal of the Structural Division 1970-06-01 96(6): 1221-1235
+AB - Modal analysis is applied to obtain a solution to the differential equations of motion of a vibrating cantilevered light pole when subjected to wind forces. Use is made of a high-speed computer in the solution processes. The excitation forces are those caused by vortices which are shed alternately along the cylindrical portion of the vertical support pole. Structural idealization is accomplished by lumping the continuum into discrete masses interconnected by weightless elastic springs. Two typical light poles are analyzed for illustrative purposes.
+
+
+    
+        AU - Robert J. Melosh
+    
+        AU - Rein Luik
+    
+
+TI - Closure to “Multiple Configuration Analysis of Structures”
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 1239-1240
+VI - 96
+IP - 6
+AID - 10.1061/JSDEAG.0002605 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002605
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002605
+SO - Journal of the Structural Division 1970-06-01 96(6): 1239-1240
+
+
+    
+        AU - Conrad P. Heins
+    
+        AU - Charles T.G. Looney
+    
+
+TI - Closure to “Bridge Tests Predicted by Finite Difference Plate Theory”
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 1240-1241
+VI - 96
+IP - 6
+AID - 10.1061/JSDEAG.0002606 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002606
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002606
+SO - Journal of the Structural Division 1970-06-01 96(6): 1240-1241
+
+
+    
+        AU - Ganpat S. Pandit
+    
+
+TI - Discussion of “Local Plastic Buckling of A514 Steel Members”
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 1241-1242
+VI - 96
+IP - 6
+AID - 10.1061/JSDEAG.0002607 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002607
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002607
+SO - Journal of the Structural Division 1970-06-01 96(6): 1241-1242
+
+
+    
+        AU - Ganpat S. Pandit
+    
+
+TI - Discussion of “Plastic Bending of A514 Steel Beams”
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 1242-1243
+VI - 96
+IP - 6
+AID - 10.1061/JSDEAG.0002608 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002608
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002608
+SO - Journal of the Structural Division 1970-06-01 96(6): 1242-1243
+
+
+    
+        AU - Fritz Leonhardt
+    
+        AU - Ganpat S. Pandit
+    
+
+TI - Discussion of “Diagonal Tension Cracking in Concrete Beams with Axial Forces”
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 1243-1246
+VI - 96
+IP - 6
+AID - 10.1061/JSDEAG.0002609 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002609
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002609
+SO - Journal of the Structural Division 1970-06-01 96(6): 1243-1246
+
+
+    
+        AU - James C. Anderson
+    
+        AU - Vitelmo V. Bertero
+    
+        AU - O. A. Glogau
+    
+
+TI - Discussion of “Elasto-Plastic Seismic Response of Reinforced Concrete Frame”
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 1246-1250
+VI - 96
+IP - 6
+AID - 10.1061/JSDEAG.0002610 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002610
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002610
+SO - Journal of the Structural Division 1970-06-01 96(6): 1246-1250
+
+
+    
+        AU - A. C. Walker
+    
+        AU - R. G. Dawson
+    
+
+TI - Discussion of “Effective Width of Thin Plates in Compression”
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 1250-1254
+VI - 96
+IP - 6
+AID - 10.1061/JSDEAG.0002611 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002611
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002611
+SO - Journal of the Structural Division 1970-06-01 96(6): 1250-1254
+
+
+    
+        AU - S. K. Ghosh
+    
+
+TI - Discussion of “Behavior of Concrete Under Compressive Loadings”
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 1254-1256
+VI - 96
+IP - 6
+AID - 10.1061/JSDEAG.0002612 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002612
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002612
+SO - Journal of the Structural Division 1970-06-01 96(6): 1254-1256
+
+
+    
+        AU - H. A. Johansons
+    
+        AU - Robert E. Melchers
+    
+
+TI - Discussion of “Behavior of Simply Supported Slabs”
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 1256-1259
+VI - 96
+IP - 6
+AID - 10.1061/JSDEAG.0002613 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002613
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002613
+SO - Journal of the Structural Division 1970-06-01 96(6): 1256-1259
+
+
+    
+        AU - Chen Pang Tan
+    
+
+TI - Discussion of “Conventionally Reinforced Nuclear Containments”
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 1260-1262
+VI - 96
+IP - 6
+AID - 10.1061/JSDEAG.0002614 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002614
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002614
+SO - Journal of the Structural Division 1970-06-01 96(6): 1260-1262
+
+
+    
+        AU - Richard N. Wright
+    
+
+TI - Interaction of Bents with Box Girders
+PT - Journal Article
+DP - 1970
+TA - Journal of the Structural Division
+PG - 1265-1269
+VI - 96
+IP - 6
+AID - 10.1061/JSDEAG.0002615 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002615
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002615
+SO - Journal of the Structural Division 1970-06-01 96(6): 1265-1269
+AB - It is common practice to construct a pier-cap beam integrally with a box girder bridge. Any loading which causes flexure in the cap beam also causes twisting of the box girder. The torsion in the box girder tends to reduce the bending moments in the pier-cap and the piers. The objective herein is to present an analytic procedure which accounts rationally for this interaction and is easily applied in design.
+
+

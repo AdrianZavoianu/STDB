@@ -1,0 +1,432 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Sashi K. Kunnath
+    
+
+TI - Editors' Note
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1001-1002
+VI - 131
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2005)131:7(1001) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281001%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281001%29
+SO - Journal of Structural Engineering 2005-07-01 131(7): 1001-1002
+
+
+    
+        AU - Ricardo A. Medina
+    
+        AU - Helmut Krawinkler
+    
+
+TI - Evaluation of Drift Demands for the Seismic Performance Assessment of Frames
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1003-1013
+VI - 131
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2005)131:7(1003) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281003%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281003%29
+SO - Journal of Structural Engineering 2005-07-01 131(7): 1003-1013
+AB - This study presents an evaluation of drift demands and their associated uncertainties for nondeteriorating regular moment resisting frame structures subjected to ordinary ground motions (i.e., without near-fault effects). The only source of uncertainty considered is the uncertainty due to differences in the frequency content of the ground motions. The information presented in this study is deemed to be useful for preliminary design and seismic performance assessment in which the performance targets of interest are those related to damage and loss of function (downtime). Thus, the focus is on ductility levels that are not so large that they cause significant cyclic deterioration in the components of the structural system. The dependence of drift demands (the maximum roof drift, the average of maximum story drifts, and the maximum story drift over the height) on relative ground motion intensity, fundamental period, and number of stories is investigated.
+
+
+    
+        AU - Sinan Akkar
+    
+        AU - Ufuk Yazgan
+    
+        AU - Polat Gülkan
+    
+
+TI - Drift Estimates in Frame Buildings Subjected to Near-Fault Ground Motions
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1014-1024
+VI - 131
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2005)131:7(1014) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281014%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281014%29
+SO - Journal of Structural Engineering 2005-07-01 131(7): 1014-1024
+AB - A simple procedure to estimate the local displacement demands in regular frame-type structures that respond in elastic limits is described. Given the spectral displacement and beam-to-column stiffness ratio, the procedure estimates the maximum ground story and maximum interstory drifts along the height of the structure. A total of 145 near-fault ground motions recorded on dense-to-firm soil sites are used for the evaluation of the procedure. The approximate drift demands computed from this procedure and the exact results from 27,550 response history analyses are used for calculating the error statistics. The calculations show that the procedure can be used with confidence for frames with fundamental periods between 
+
+0.3
+
+ and 
+
+1.5
+s
+
+ when they are subjected to near-fault records without pulse. The approximations are in good agreement with the exact response history results of near-fault records with pulse when the fundamental period to pulse period ratio is less than 1.5. The performance of the new procedure is also compared with other approximate methods that are employed for similar purposes. The method can be useful for preliminary design of new structures or rapid assessment of existing buildings.
+
+
+    
+        AU - Sanjay Sahasrabudhe
+    
+        AU - Satish Nagarajaiah
+    
+
+TI - Experimental Study of Sliding Base-Isolated Buildings with Magnetorheological Dampers in Near-Fault Earthquakes
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1025-1034
+VI - 131
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2005)131:7(1025) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281025%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281025%29
+SO - Journal of Structural Engineering 2005-07-01 131(7): 1025-1034
+AB - The increase in bearing displacements of sliding isolated buildings due to near-fault earthquakes, with long-period pulse type of ground motion, is an important problem. Often, supplemental nonlinear passive dampers are incorporated into the isolation system to reduce the base displacements; however, this may increase the interstory drifts and accelerations in the superstructure. Hence, there is a need to examine whether controllable nonlinear dampers can reduce the base displacements without a further increase in superstructure response. In this study, the effectiveness of variable damping, provided by magnetorheological (MR) dampers, in reducing the response of sliding isolated buildings during near-fault earthquakes is investigated using a 1:5 scale steel two-story model. A nonlinear analytical model is developed with due consideration given to the nonlinearities of the friction bearings and the MR damper. A Lyapunov-based control algorithm is developed for control of the MR damper and the building model, and tested on a shake table. Results of passive low/high damping cases and semiactive cases are compared. It is shown that the variable damping reduces base displacements and superstructure responses further than passive low/high damping cases.
+
+
+    
+        AU - Jenn-Shin Hwang
+    
+        AU - Yin-Nan Huang
+    
+        AU - Ya-Hui Hung
+    
+
+TI - Analytical and Experimental Study of Toggle-Brace-Damper Systems
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1035-1043
+VI - 131
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2005)131:7(1035) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281035%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281035%29
+SO - Journal of Structural Engineering 2005-07-01 131(7): 1035-1043
+AB - The toggle-brace mechanism has been recognized as an effective installation configuration of viscous dampers to a stiff structural system. In this paper, a toggle-brace-damper configuration with dampers directly installed to the beam–column joints is presented. To facilitate practical applications, a procedure for determining the relationship between the displacement magnification factor and the geometry of the toggle-brace mechanism is established. Shaking table tests are conducted to investigate the seismic responses of a three-story steel model structure with and without linear viscous dampers. The installation configurations of the dampers include the toggle-brace-damper and the diagonal-brace-damper systems. The test results show that the toggle-brace system is more efficient in enhancing the seismic response control on a stiff structure. However, due to the fact that the gaps existing in the hinge connections of the toggle-brace-damper system may affect the contribution of damping ratio to the structure, special care must be taken when installing toggle-brace-damper systems in practical applications.
+
+
+    
+        AU - M. Naghipour
+    
+        AU - F. Taheri
+    
+        AU - G. P. Zou
+    
+
+TI - Evaluation of Vibration Damping of Glass-Reinforced-Polymer-Reinforced Glulam Composite Beams
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1044-1050
+VI - 131
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2005)131:7(1044) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281044%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281044%29
+SO - Journal of Structural Engineering 2005-07-01 131(7): 1044-1050
+AB - A systematic experimental investigation was conducted to evaluate the damping ratios of unreinforced glulam beams, and glulam beams reinforced with E-glass reinforced epoxy polymer (GRP) plates. The methods considered were the logarithmic decrement, the Hilbert transform, the moving block, and the half band power (HBP) methods. A modification to the HPB method is proposed to improve the method’s accuracy when considering materials with relatively high damping ratios. The influence of the lay up sequence, thickness, and through-the-depth location of the GRP plate on damping of the composite beams is also investigated. The results obtained from our experimental and numerical investigations show that the proposed modification to the HPB method could effectively improve the accuracy of the method when considering the vibration damping of composite materials possessing relatively high level of damping.
+
+
+    
+        AU - S. T. Song
+    
+        AU - Y. H. Chai
+    
+        AU - T. H. Hale
+    
+
+TI - Analytical Model for Ductility Assessment of Fixed-Head Concrete Piles
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1051-1059
+VI - 131
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2005)131:7(1051) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281051%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281051%29
+SO - Journal of Structural Engineering 2005-07-01 131(7): 1051-1059
+AB - Under seismic loading, restraint provided by the anchorage of the pile reinforcement in the pile-cap of a foundation may induce a large curvature demand in the pile. For performance-based design of the foundation, the severity of local damage in the pile may be controlled by limiting the curvature ductility demand in the potential plastic hinge region of the pile. The curvature ductility demand depends on the strength and stiffness of the soil-pile system, as well as the equivalent plastic hinge length of the pile. In this paper, a kinematic model relating the displacement ductility factor to the local curvature ductility demand is proposed. The analytical model, which is amenable for a wide range of pile and soil properties, is useful for the design of fixed-head piles. The versatility of the model is illustrated using a numerical example of a reinforced concrete pile embedded in two soil types currently classified in building codes.
+
+
+    
+        AU - Michael P. Berry
+    
+        AU - Marc O. Eberhard
+    
+
+TI - Practical Performance Model for Bar Buckling
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1060-1070
+VI - 131
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2005)131:7(1060) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281060%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281060%29
+SO - Journal of Structural Engineering 2005-07-01 131(7): 1060-1070
+AB - A practical model has been developed to predict, for a given level of lateral deformation, the likelihood that longitudinal bars in a reinforced concrete column will have begun to buckle. Three relationships linking plastic rotation, drift ratio, and displacement ductility with the onset of bar buckling were derived based on the results of plastic-hinge analysis, moment-curvature analysis, and the expected influence of the confinement reinforcement. These relationships, which account for the effective confinement ratio, axial-load ratio, aspect ratio, and longitudinal bar diameter, were calibrated using observations of bar buckling from cyclic tests of 62 rectangular-reinforced and 42 spiral-reinforced concrete columns. A version of the drift ratio relationship is proposed for earthquake engineering applications. The ratios of the measured displacements at bar buckling to the displacements calculated with the proposed model had a mean of 1.01 and a coefficient of variation of 25% for rectangular-reinforced concrete columns. The corresponding mean and coefficient of variation for spiral-reinforced columns were 0.97 and 24%, respectively.
+
+
+    
+        AU - Xinzhong Chen
+    
+        AU - Ahsan Kareem
+    
+
+TI - Coupled Dynamic Analysis and Equivalent Static Wind Loads on Buildings with Three-Dimensional Modes
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1071-1082
+VI - 131
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2005)131:7(1071) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281071%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281071%29
+SO - Journal of Structural Engineering 2005-07-01 131(7): 1071-1082
+AB - Buildings with either complex geometric shapes or structural systems with noncoincident centers of mass and resistance, or both, may undergo three-dimensional (3D) coupled motions when exposed to spatiotemporally varying dynamic wind loads. To capture the dynamic load effects, this paper presents a framework for the analysis of 3D coupled dynamic response of buildings and modeling of the equivalent static wind loads (ESWLs). This framework takes into account the correlation among wind loads in principle directions and the intermodal coupling of modal response components. The wind loading input for this scheme may be derived either from multiple point synchronous scanning of pressures on building models or through high-frequency force balance (HFFB) measurements. The ESWL for a given peak response is expressed as a linear combination of the background and resonant loads, which respectively reflect the fluctuating wind load characteristics and inertial loads in fundamental modes of vibration. The nuances of utilizing HFFB measurements for buildings with 3D coupled mode shapes are elucidated with a focus on the evaluation of the generalized forces including mode shape corrections, the background and resonant responses, and the associated ESWLs. Utilizing a representative tall building with 3D mode shapes and closely spaced frequencies, the framework for the analysis of coupled dynamic load effects and modeling of 3D ESWLs is demonstrated.
+
+
+    
+        AU - Sri Sritharan
+    
+        AU - Justin Vander Werff
+    
+        AU - Robert E. Abendroth
+    
+        AU - Wagdy G. Wassef
+    
+        AU - Lowell F. Greimann
+    
+
+TI - Seismic Behavior of a Concrete/Steel Integral Bridge Pier System
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1083-1094
+VI - 131
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2005)131:7(1083) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281083%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281083%29
+SO - Journal of Structural Engineering 2005-07-01 131(7): 1083-1094
+AB - This paper summarizes an experimental study on an integral bridge pier system consisting of a concrete column, steel girders, and a box-shaped steel cap beam that is suitable for applications in seismic regions. Using two 
+
+1∕3
+
+-scale test units, the research examined suitable connections between the concrete column and the steel cap beam and between the steel cap beam and steel girders as well as the overall seismic behavior of the proposed system. The anchorage length requirement for the column longitudinal bars governed the depths of the cap beam and girders in the first unit. Employing mechanical anchorage at the ends of the column longitudinal bars, the required anchorage length for the column bars was reduced in the second unit, thereby enabling the use of shallower and lighter cap beam and girders. Both test units exhibited satisfactory seismic response up to the target displacement ductilities with the intentional formation of plastic hinges in the columns. The description of the test units and key experimental results are included in this paper.
+
+
+    
+        AU - Simon Aicher
+    
+        AU - Gerhard Dill-Langer
+    
+
+TI - Effect of Lamination Anisotropy and Lay-Up in Glued-Laminated Timbers
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1095-1103
+VI - 131
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2005)131:7(1095) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281095%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281095%29
+SO - Journal of Structural Engineering 2005-07-01 131(7): 1095-1103
+AB - This paper presents the analysis of glued-laminated timbers (glulam) subjected to tension perpendicular to the fiber direction, hereby taking into account the cylindrical anisotropy of the individual laminations and specific lay-up configurations. The investigations include two- and three-dimensional finite element analyses of prismatic specimens and curved beams. The influences of the board width and the location of the board’s material coordinate system, i.e., of the sawing pattern, were studied parametrically. The stress distributions obtained deviate considerably from results based on simplified orthotropic constitutive theory, which is commonly applied in the analysis of glulam. The study showed a strong influence of the lamination sawing pattern and of the grouping within the glulam cross section. The maximum stress values exceeded the stresses obtained assuming rhombic orthotropy by a factor of about 2–4. The strength relevant Weibull stresses, which smooth the true uneven stress distributions, revealed increases of about 1.4–1.9. This work provides enhanced understanding of glued-laminated timbers in transverse tension loading and can be used as a theoretical tool for optimization of lay-ups.
+
+
+    
+        AU - Peter K. Dean
+    
+        AU - Harry W. Shenton
+    
+
+TI - Experimental Investigation of the Effect of Vertical Load on the Capacity of Wood Shear Walls
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1104-1113
+VI - 131
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2005)131:7(1104) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281104%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281104%29
+SO - Journal of Structural Engineering 2005-07-01 131(7): 1104-1113
+AB - A series of 10 tests were conducted to determine the effect of a vertical load on the lateral load capacity of wood frame shear walls. Static tests were performed on 2.4 m-by
+
+-2.4
+m
+
+ wood walls, for varying vertical load. Tests were conducted with and without hold-down anchors. Specimens were subjected to three half cycles of lateral loading, the final being to failure. The presence of vertical load on a wood frame shear wall was found to have a significant effect on the lateral load capacity of the wall. The ultimate load capacities of walls with hold-down anchors increased by 20 and 28% for walls with a vertical load of 12 and 
+
+25
+kN∕m
+
+, respectively, as compared to the wall without vertical load. The vertical load was also found to have significant effect on the lateral stiffness of the wall. Results also show that hold-down anchors do not add significantly to the strength of the wall when a vertical load equal to the maximum allowable is present. Finally, the results presented suggest that current code specified allowable shear forces are conservative when a vertical load is present; the wall has additional reserve capacity than is reflected by current code specified allowable shears.
+
+
+    
+        AU - Oguz C. Celik
+    
+        AU - Jeffrey W. Berman
+    
+        AU - Michel Bruneau
+    
+
+TI - Cyclic Testing of Braces Laterally Restrained by Steel Studs
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1114-1124
+VI - 131
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2005)131:7(1114) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281114%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281114%29
+SO - Journal of Structural Engineering 2005-07-01 131(7): 1114-1124
+AB - This paper experimentally investigates the cyclic inelastic performance of concentrically braced frames with and without cold formed steel stud (CFSS) infills designed to laterally restrain braces and delay their buckling. Specimens have either diagonal tube or solid bar braces with and without CFSS and U brackets providing out-of-plane and in-plane buckling restraint. Behavioral characteristics of the specimens are quantified with an emphasis on hysteretic energy dissipation. Experimental results show that, at the same ductility levels, the cumulative energy dissipation of braced frames can be significantly increased when CFSS members are used to laterally restrain the braces against buckling. However, when tubular cross sections are used for braces, local buckling led to a reduced fracture life compared to the case without CFSS members. CFSS members appear to be relatively more effective when solid bar braces having large slenderness (tension-only braces) are used, since the difference between dissipated energies obtained with and without studs is substantial.
+
+
+    
+        AU - James E. May
+    
+        AU - Craig C. Menzemer
+    
+
+TI - Strength of Bolted Aluminum Alloy Tension Members
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1125-1134
+VI - 131
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2005)131:7(1125) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281125%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281125%29
+SO - Journal of Structural Engineering 2005-07-01 131(7): 1125-1134
+AB - Aluminum alloy tension members are incorporated in structural and mechanical systems, examples of which include bracing in railcars, members in roof trusses, and transmission towers. In practice, it is difficult to connect all elements of a complex cross section. Procedures used to estimate the net section rupture strength of a tension member through a bolted end connection must account for the accompanying reduction in efficiency. Current provisions within the Aluminum Design Manual fail to adequately address situations other than single or double angle tension members attached by a single leg. During the course of this investigation, 72 aluminum alloy tension members consisting of angles, channels, and structural T’s were fabricated and tested to failure. Variables considered during the course of the study included bolt pattern, connection length, cross-section profile and area, connection eccentricity, and alloy. Experimental results were accompanied by finite-element analysis of several of the test specimens. A design rule is proposed and compared to the experimental data as well as several other methods for calculation of the net section rupture strength.
+
+
+    
+        AU - N. S. Trahair
+    
+
+TI - Nonlinear Elastic Nonuniform Torsion
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1135-1142
+VI - 131
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2005)131:7(1135) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281135%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281135%29
+SO - Journal of Structural Engineering 2005-07-01 131(7): 1135-1142
+AB - This paper is concerned with large twist rotations of elastic thin-walled open section beams that induce additional longitudinal stresses, which exert nonlinear “Wagner” stiffening torques. The nonlinear behavior of a narrow rectangular beam is first analyzed and then extended to elastic beams of general cross section. Expressions are derived for the nonlinear Wagner section constants for narrow rectangular sections, doubly symmetric I sections, and monosymmetric equal angle sections. A general finite element method of analyzing nonlinear torsion is described, and used to develop a computer program FENLT. This program can analyze a beam of general cross section under any combination of concentrated and distributed torques and concentrated bimoments, and which may be prevented from twisting or warping at points along its length. The program is validated by comparison with closed form or numerical solutions for a number of simple examples.
+
+
+    
+        AU - Emil Simiu
+    
+        AU - James J. Filliben
+    
+
+TI - Wind Tunnel Testing and the Sector-by-Sector Approach to Wind Directionality Effects
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1143-1145
+VI - 131
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2005)131:7(1143) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281143%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281143%29
+SO - Journal of Structural Engineering 2005-07-01 131(7): 1143-1145
+AB - We examine the sector-by-sector approach used by some wind tunnel operators to specify extreme wind effects. According to this approach the design of a structural member subjected to wind loads is adequate if the stresses induced by the largest sectorial wind speed with a 
+
+50
+year
+
+ mean recurrence interval does not exceed the maximum allowable wind-induced stress for that member, sectorial wind speeds with a 
+
+50
+year
+
+ mean recurrence interval being estimated separately for each of the eight 45° (or the 16 22.5°) azimuthal sectors. We show that this approach leads to estimates of wind effects that are unconservative (i.e., on the unsafe side), owing to their failure to consider the overall effects of winds blowing from all sectors.
+
+
+    
+        AU - Byoung-Wan Kim
+    
+        AU - Sang-Won Cho
+    
+        AU - Chun-Ho Kim
+    
+        AU - In-Won Lee
+    
+
+TI - Determination of Natural Frequencies and Mode Shapes of Structures Using Subspace Iteration Method with Accelerated Starting Vectors
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1146-1149
+VI - 131
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2005)131:7(1146) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281146%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281146%29
+SO - Journal of Structural Engineering 2005-07-01 131(7): 1146-1149
+AB - Natural frequencies and mode shapes of structures are determined from eigenvalue analysis. This paper proposes a subspace iteration method with an accelerated Lanczos starting subspace for the efficient eigenvalue analysis of structures. The proposed method uses accelerated Lanczos vectors as starting vectors in order to reduce the number of subspace iterations. Accelerated Lanczos starting vectors are generated by employing the repeated forward reduction and back substitution. The proposed method has less computing time than the subspace iteration method with a conventional Lanczos starting subspace when the number of required eigenpairs is relatively small. The efficiency of the proposed method is verified through numerical examples.
+
+
+    
+        AU - Robert Niall
+    
+
+TI - Discussion of “Model for Lateral Excitation of Footbridges by Synchronous Walking” by Shun-ichi Nakamura
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1150-1151
+VI - 131
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2005)131:7(1150) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281150%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281150%29
+SO - Journal of Structural Engineering 2005-07-01 131(7): 1150-1151
+
+
+    
+        AU - Shun-ichi Nakamura
+    
+
+TI - Closure to “Model for Lateral Excitation of Footbridges by Synchronous Walking” by Shun-ichi Nakamura
+PT - Journal Article
+DP - 2005
+TA - Journal of Structural Engineering
+PG - 1151-1152
+VI - 131
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(2005)131:7(1151) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281151%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282005%29131%3A7%281151%29
+SO - Journal of Structural Engineering 2005-07-01 131(7): 1151-1152
+
+

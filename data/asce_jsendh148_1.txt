@@ -1,0 +1,707 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Huajie Wen
+    
+        AU - Hussam Mahmoud
+    
+
+TI - Block Shear Strength of Coped Beam Connections with Double Bolt Lines
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021222
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003155 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003155
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003155
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021222
+AB - Coped beam connections are commonly used in the construction of steel structures. Existing block shear provisions for these connections, with multiple bolt lines, account for the presence of uneven stress distribution only on the tension planes. This is inconsistent with the approach used to evaluate the strength of connections with only one bolt line, in which there is no consideration for the uneven stress distribution in the design equation. In this study, numerical finite-element models are developed, validated, and then used to evaluate the appropriateness of existing code provisions for predicting the strength of coped connections with two bolt lines. The numerical models can capture the full behavior of the connections up to and including complete fracture. The results show that the finite rotational stiffness of the connecting components is the primary cause of irregularity in the stress distribution, causing reduction in connection capacity. The results also show that the most significant shear lag occurs along the shear planes instead of the tension planes, which challenges the philosophy employed in major standards. The results demonstrate the inability of existing code equations to physically capture the behavior of the connection, which can inevitably lead to inconsistent predictions. The results are also used to propose a new design equation for predicting block shear strength in coped beam connections with multiple bolt lines. Additionally, a reliability analysis is conducted to determine the resistance factors of the proposed equations with consistent safety levels.
+
+
+    
+        AU - Dimitrios Kalliontzis
+    
+        AU - Arturo E. Schultz
+    
+        AU - Sri Sritharan
+    
+
+TI - Unbonded Post-Tensioned Structural Masonry Wall with Rubber Interface for Limited-Damage Systems
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021223
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003159 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003159
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003159
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021223
+AB - Unbonded post-tensioned (UPT) tendons have been used in structural masonry walls to enhance the self-centering capability of the walls. However, the lateral displacement capacity of masonry walls with UPT tendons can be compromised by early crushing of the compression toes. To prevent toe crushing, this research study employed rubber pads underneath the bottom corners of a full-scale one-story wall. This concept was investigated by subjecting the wall sequentially to free vibration and quasistatic tests, which minimized damage to the masonry and reduced the strength degradation of the wall with increasing lateral drift. Two major damping components were identified: one is due to the instantaneous impact of the wall on the foundation base, and the other is due to the inelastic action occurring within the rubber pads during the continuous phase of rocking motion. Using the test results, a procedure is presented for designing masonry walls with rubber pads and UPT tendons.
+
+
+    
+        AU - M. Jafarian
+    
+        AU - Y. C. Wang
+    
+        AU - J. Yuan
+    
+
+TI - Temperature Attained in Intumescent Coating–Protected Concrete-Filled Circular Steel Tubular Sections under the Standard Fire Condition
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021224
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003130 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003130
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003130
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021224
+AB - This paper presents the results of an experimental and numerical investigation to obtain a simplified analytical method to calculate intumescent coating thermal conductivity and temperatures of intumescent coating–protected concrete-filled circular steel tubular sections by using an equivalent section factor for the steel section without concrete infill. An important test of correctness of the equivalent steel section factor is that when the resulting thermal conductivity of the intumescent coatings is used in numerical modeling of concrete-filled sections, the steel and concrete core temperatures can be accurately calculated. This paper first reports the experimental results of 32 fire tests conducted on intumescent coating–protected concrete-filled circular sections; experimental variables included coating thickness and circular section dimensions. The fire test results are then used to assess the the accuracy of two existing methods of calculating the equivalent steel section factor. These methods were shown to give a wide range of effective thermal conductivity–temperature relationships for the same intumescent coating and not being able to accurately predict the steel and concrete core temperatures consistently. This paper then proposes a new equation to calculate the equivalent steel section factor, which is demonstrated to be able to more accurately predict the temperatures of intumescent coating–protected concrete-filled steel sections.
+
+
+    
+        AU - F. Walport
+    
+        AU - M. Kucukler
+    
+        AU - L. Gardner
+    
+
+TI - Stability Design of Stainless Steel Structures
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021225
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003165 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003165
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003165
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021225
+AB - The direct analysis method (DAM), featuring second-order elastic analysis with two stiffness reduction factors (τb and τg), is the primary means of stability design for steel structures in AISC 360 and AISI S100. The equivalent provisions for stainless steel structures, which are due to be incorporated into the upcoming AISC 370 and ASCE-8 specifications, are developed in this paper. Stainless steel exhibits a rounded stress–strain response, typically described by the Ramberg–Osgood formulation. The slope of this function (i.e.,&nbsp;the tangent modulus), adjusted to consider the influence of residual stresses, is used to define the stiffness reduction factor τb at a given axial load level to be applied to members in compression to allow for the adverse influence of the spread of plasticity and residual stresses. The dependency of the degree of stiffness reduction on the roundedness of the stress–strain curve, which varies between the different grades of stainless steel is also directly captured through the strain hardening exponent n that features in the Ramberg–Osgood formulation. Values of 0.7 for AISC 370 and 0.9 for ASCE-8 are proposed for the general stiffness reduction factor τg to be applied to all member stiffnesses to account for the development and spread of plasticity, and to ensure a suitable reduction in stiffness for slender members with low axial load levels. The different τg values between the two specifications are required to reflect the different buckling curves and axial-bending interaction expressions employed. The accuracy of the proposed method for the design of stainless steel members and frames is assessed through comparisons with benchmark shell finite-element results. Comparisons are also made against the new provisions in AISC 370 for design by second-order inelastic analysis. The reliability of the design proposals is demonstrated through statistical analyses, where it is shown that a resistance factor ϕ of 0.9 can be adopted.
+
+
+    
+        AU - Fangyuan Dong
+    
+        AU - Zhanhong Li
+    
+        AU - Jiangtao Yu
+    
+        AU - Fangming Jiang
+    
+        AU - Hanpeng Wang
+    
+
+TI - Shaking-Table Test on a Two-Story Timber-Framed Masonry Structure Retrofitted with Ultra-High Ductile Concrete
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021226
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003164 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003164
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003164
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021226
+AB - Timber-framed masonry structures were widely used in eastern Asia as residential buildings. Due to a lack of seismic design, they are vulnerable to major earthquakes. To date, there are limited technologies available for strengthening this category of building with efficiency, safety, and acceptable cost. This study looked at the feasibility of using ultra-high ductile concrete, a type of engineered cementitious composite with a tensile strain capacity exceeding 8%, as a structural material for strengthening timber-framed masonry structures. The one-half-scale Chuan-dou timber-framed masonry structure was tested on a shaking table to effect serious damage; then ultra-high ductile concrete was sprayed on the masonry walls for retrofitting and further strengthening. The seismic analyses of the structure before and after retrofitting were compared, including damage patterns, dynamic properties acceleration response, and displacement response. Even under a seismic intensity of 9.0, the maximum interstory drift of the ultra-high ductile concrete retrofit structure was 0.40% and 2.00% in the longitudinal and lateral directions, respectively. Experimental results demonstrate that ultra-high ductile concrete layers significantly enhance stiffness, ductility, and damage-resistant performance. This research provides a reference for the application of ultra-high ductile concrete layers to retrofit masonry structures.
+
+
+    
+        AU - Vishnupriya Vishnupriya
+    
+        AU - G. W. Rodgers
+    
+        AU - J. G. Chase
+    
+
+TI - Nonlinear Finite-Element Modeling of HF2V Lead Extrusion Damping Devices: Generic Design Tool
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021227
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003170 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003170
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003170
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021227
+AB - Supplemental energy-dissipation devices are increasingly used to protect structures, limiting loads transferred to structures and absorbing significant response energy without sacrificial structural damage. The displacement of the bulged shaft plastically deforms lead in the high force to volume (HF2V) device, dissipating significant energy. HF2V devices are currently designed using limited precision models, so there is variability in force prediction. Further, although the outcome force is predicted, the knowledge of the exact internal mechanisms resulting in these device forces is lacking, limiting insight and predictive accuracy in device design. This study develops a generic finite-element (FEM) model using commercially available software to better understand force generation and aid in precision device design, thus speeding up the overall design and implementation process for uptake and use. The model is applied to 17 experimental HF2V devices of various sizes. The highly nonlinear analysis is run using the software with automatic increments to balance higher accuracy and computational time. The total force output is sum of the friction forces between lead and steel and the contact pressure forces acting between moving shaft and displaced lead. FEM forces and plots of the 17 devices are compared with experimental device forces and test plots. The errors from force comparison for all 17 devices range from −8% (overprediction) to +39% (underprediction) with a mean absolute error of 7.6% and a signed average error of 4.7%, indicating most errors were small. In particular, the standard error (SE) in manufacturing is SE=±14%. Overall, 13 of 17 devices (76%) are within ±1  SE of 14%; 3 of 17 devices (18%) are within ±2  SE (±28%), and the last has −39% error, which is within ±3  SE=±42%. These results show low errors and a distribution of errors compared with experimental results that are within experimental device construction variability. The overall modeling methodology is objective and repeatable, and thus generalizable. The results validate the overall approach with relatively very low error, providing a general modeling methodology for accurate design of HF2V devices.
+
+
+    
+        AU - Jingjie Yang
+    
+        AU - Lei Xu
+    
+        AU - Yu Shi
+    
+        AU - Weiyong Wang
+    
+
+TI - Experimental and Analytical Study of Flexural Buckling of Cold-Formed Steel Quadruple-Limb Built-Up Box Columns
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021228
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003193 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003193
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003193
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021228
+AB - To better understand the mechanical behavior of cold-formed steel (CFS) quadruple-limb built-up box-section (QBB) columns associated with flexural buckling, 12 axial compression tests with different slenderness ratios and screw spacing were conducted. The test results showed that, for a slender specimen (L=2,700 and 3,300&nbsp;mm), when the screw spacing was reduced from 600 to 300&nbsp;mm, the load-bearing capacity increased by about 6%–10%. When the screw spacing was reduced from 600 to 150&nbsp;mm, the load-bearing capacity increased by about 14.6%–17.5%. Arranging end fastener groups can enhance the strength of the column, but it may be cumbersome and uneconomical. A finite-element model (FEM) was developed and calibrated against the test results. A series of parametric analyses was carried out to investigate the effects of the screw spacing and shear stiffness on the elastic buckling load and ultimate load-bearing capacity. Finally, a practical design method was proposed to evaluate the column’s elastic buckling load and load-bearing capacity associated with flexural buckling. Compared with the simulation and test results, the proposed design method was accurate at predicting the load-bearing capacity of the specimens, with a relative difference of less than 6%.
+
+
+    
+        AU - André T. Beck
+    
+        AU - Lucas da Rosa Ribeiro
+    
+        AU - Marcos Valdebenito
+    
+        AU - Hector Jensen
+    
+
+TI - Risk-Based Design of Regular Plane Frames Subject to Damage by Abnormal Events: A Conceptual Study
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021229
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003196 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003196
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003196
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021229
+AB - Constructed facilities should be robust with respect to the loss of load-bearing elements due to abnormal events. Yet, strengthening structures to withstand such damage has a significant impact on construction costs. Strengthening costs should be justified by the threat and should result in smaller expected costs of progressive collapse. In regular frame structures, beams and columns compete for the strengthening budget. In this paper, we present a risk-based formulation to address the optimal design of regular plane frames under element loss conditions. We address the threat probabilities for which strengthening has better cost-benefit than usual design, for different frame configurations, and study the impacts of strengthening extent and cost. The risk-based optimization reveals optimum points of compromise between competing failure modes: local bending of beams, local crushing of columns, and global pancake collapse, for frames of different aspect ratios. The conceptual study is based on a simple analytical model for progressive collapse, but it provides relevant insight for the design and strengthening of real structures.
+
+
+    
+        AU - Ying Wang
+    
+        AU - Hang Lin
+    
+        AU - Zhichao Lai
+    
+        AU - Dong Li
+    
+        AU - Weisheng Zhou
+    
+        AU - Xiaoqiang Yang
+    
+
+TI - Flexural Behavior of High-Strength Rectangular Concrete-Filled Steel Tube Members
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021230
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003192 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003192
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003192
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021230
+AB - This study experimentally and numerically investigates the flexural behavior of high-strength rectangular concrete-filled steel tube (CFST) members. An experimental database including 30 flexural tests on high-strength rectangular CFST members was compiled, and gaps in the existing research were identified. To address these gaps, a total of 14 specimens were tested, considering the effect of tube thickness, compressive strength of concrete, yield stress of steel, and tube height. Detailed finite-element models were also developed and benchmarked for parametric studies. Results from the tests and finite-element analyses indicated the following: (1)&nbsp;the flexural strength increased with the increasing tube thickness, yield stress of steel, tube height, and tube width, while the effect of the compressive strength of concrete was minor; (2)&nbsp;the flexural stiffness increased with the increasing tube thickness, tube height, and tube width, while the effect of the yield stress of steel and compressive strength of concrete was minor; and (3)&nbsp;high-strength CFST members, especially those with high-strength steel tubes, had lower ductility compared with conventional-strength CFST members. Experimental and numerical results were also used to evaluate the applicability of current design provisions (i.e.,&nbsp;AISC 360-16, GB 50936-2014, Eurocode 4, and the AIJ) for estimating the flexural strength and stiffness. The evaluation showed that AISC 360-16 reasonably estimated the flexural strength, while AIJ provided the most accurate estimation of the service-level flexural stiffness.
+
+
+    
+        AU - Le Shen
+    
+        AU - Bo Yang
+    
+        AU - Miao Ding
+    
+        AU - Chen Feng
+    
+        AU - Shagea Alqawzai
+    
+        AU - Mohamed Elchalakani
+    
+        AU - Kang Chen
+    
+
+TI - Experimental Study on the Behavior of a Novel Stiffened Hexagonal CFDST Stub Column under Axial Load
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021231
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003198 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003198
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003198
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021231
+AB - A concrete-filled double skin tube (CFDST) consists of an outer steel tube, an inner steel tube, and the space between them filled with concrete. Existing studies have shown that the buckling of steel tubes can be significant in noncircular CFDST for nonuniform confinement or a large width-thickness ratio. Stiffening of the steel tubes is necessary to fully utilize the strength and improve the load-carrying capacity of CFDST. Against this background, the author proposed a novel stiffened hexagonal CFDST column with steel strips welded on both the inner tube and outer tube to form several closed cavities. This paper presents an experimental study on the axial compressive behavior of this new type of CFDST column. The experimental program consisted of five stiffened hexagonal CFDST specimens and two reference specimens for comparison, and the test variables were the hollow ratio and rib width. The test results showed that the ultimate bearing capacity and ductility of the CFDST specimens were greatly enhanced by the steel strips and ribs. Moreover, the finite-element (FE) method was used to develop a three-dimensional model of the CFDST column subjected to axial loading and validated against the experiment. The average error of the FE analysis when predicting the column bearing capacity was 0.029 compared with experimental results. Based on the FE model, a parametric study was conducted to analyze further the effect of each parameter on the axial behavior. Furthermore, a strength design formula was developed to estimate the compressive strength of the novel hexagonal CFDST column.
+
+
+    
+        AU - Eric Stoddard
+    
+        AU - Matthew Yarnold
+    
+
+TI - Residual Stress and Global Deflection Limits for Future Hot-Rolled Steel Asymmetric I-Beams
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021232
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003204 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003204
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003204
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021232
+AB - Medium-span to long-span floor systems in residential and commercial construction have commonly used steel–concrete composite construction. These composite floor systems have become more structurally efficient with the use of built-up asymmetric steel beam sections. Although structural efficiency is important, a fast and cost-effective solution is paramount. The research presented herein is being conducted for the AISC on hot-rolled asymmetric I-beams (A-shapes) for potential future addition to the AISC Steel Construction Manual. The aim is to adequately proportion these hot-rolled shapes so they match or improve built-up asymmetric beam structural efficiency while increasing the speed and economy of steel–concrete composite floor systems. The initial focus has been placed on steel behavior as a result of the manufacturing process, where residual stresses and deformations can be an issue due to uneven cooling. A better understanding of residual stresses is critical for accurate calculation of the lateral torsional buckling strength during deck casting and placement. In addition, steel mills have expressed concern regarding global deformation of an asymmetric I-shape. As a result, an extensive thermomechanical finite-element modeling approach, using nonlinear thermomechanical properties of steel, was devised to simulate the cooling process of hot-rolled steel shapes. A single model requires up to 50&nbsp;h of processing time using the Texas A&amp;M high-performance computing center. The modeling procedure was validated against accepted residual stress experimental test measurements. Proof-of-concept (POC) A-shape beams were also produced by Nucor. The POC beam cooling profiles were used as further validation. Then, a parametric study was executed that individually altered the top flange width and thickness of two different-depth W-shapes. The parametric study identified a maximum flange width-to-thickness ratio to satisfy a reasonable residual compressive stress limit. The study also found that, despite concerns, global deformations are not an issue for realistic proportions of future hot-rolled asymmetric I-beams.
+
+
+    
+        AU - Saleh Ahmadi Soleimani
+    
+        AU - Dimitrios Konstantinidis
+    
+        AU - Georgios P. Balomenos
+    
+
+TI - Nondestructive Assessment of Elastomeric Bridge Bearings Using 3D Digital Image Correlation
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021233
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003200 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003200
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003200
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021233
+AB - Elastomeric bridge bearings are installed between the bridge superstructure and substructure to accommodate translational and rotational deformations. The manufacturing quality of elastomeric bridge bearings is of high significance because manufacturing defects (such as variations in rubber layer thickness and nonparallel steel laminates) may jeopardize their short- and long-term structural behavior and integrity. Current quality control procedures involve destructive testing of samples of bearings from a lot. This type of testing is time consuming and costly, and thus limited to a relatively small sample size, which may undermine confidence in the quality of remaining bearings in the lot. This paper presents an alternative, vision-based assessment methodology for the nondestructive identification of the internal structure of elastomeric bridge bearings. The methodology capitalizes on the high deformability of rubber and the near inextensibility of the steel laminates, which together result in a unique deformation pattern on the vertical surfaces of a bearing when it is subjected to axial load. This deformation pattern features local extrema in in-plane strain and horizontal displacement fields on the vertical surfaces. These local extrema are analyzed to deduce the thicknesses of the rubber layers and rubber side covers. The methodology is developed based on three-dimensional finite-element analyses (3D-FEA). Then, three-dimensional digital image correlation (3D-DIC) is used in experimental tests to evaluate its capability to identify manufacturing defects in elastomeric bridge bearings. Finally, the methodology is validated against destructive tests. The nondestructive method presented in this study is conducted in conjunction with compressive tests that departments of transportation carry out routinely and is therefore expected to facilitate rapid and cost-effective qualification of elastomeric bridge bearings.
+
+
+    
+        AU - Aristotelis E. Charalampakis
+    
+        AU - George C. Tsiatas
+    
+        AU - Panos Tsopelas
+    
+
+TI - Performance of the Mass-Reduction Design of Multistory Buildings Utilizing Sliding Systems
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021234
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003202 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003202
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003202
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021234
+AB - In this study, the seismic performance of the mass-reduction design of multistory buildings is assessed utilizing sliding isolation systems. The proposed design concept can provide seismic protection by effectively reducing the seismic mass of the structure. This is achieved using floating slabs, i.e.,&nbsp;slabs which are detached from the skeleton of the building. The performance is evaluated on a typical five-story structure against seven pairs of scaled acceleration time histories matching a specific target spectrum. It is shown that the mass-reduction design approach is also effective when highly nonlinear sliding isolation systems are used in the floating slabs. Four different frictional laws and several configurations of floating slabs along the height of the building are examined. The structural response is found to be relatively insensitive to the level of friction, yet higher levels of friction perform better. When the architectural design constraints impose a limited number of isolated slabs, those should be configured consecutively toward the top floors.
+
+
+    
+        AU - Xin Wang
+    
+        AU - Shui Liu
+    
+        AU - Yuwei Shi
+    
+        AU - Zhishen Wu
+    
+        AU - Weidong He
+    
+
+TI - Integrated High-Performance Concrete Beams Reinforced with Hybrid BFRP and Steel Bars
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021235
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003207 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003207
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003207
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021235
+AB - The flexural behavior of concrete beams reinforced with a combination of basalt fiber–reinforced polymer (BFRP) bars and steel bars is investigated herein. Five hybrid BFRP and steel bar RC beams, one pure BFRP-RC beam, and one pure steel-RC beam, were designed based on the principle of equal stiffness and subject to four-point bending tests. The main study parameters included the bar type, ratio of the steel reinforcement area to the BFRP reinforcement area (As/Af), and BFRP bar diameter. The results of the four-point bending tests showed that the hybrid-RC beams had a lower ultimate load and larger ultimate deflection with the increase in As/Af. The tested beams had similar stiffnesses before yielding; the five hybrid-RC beams exhibited an obvious postyielding stiffness as well, which contributes to a higher reserve in both strength and deformability. Comparisons between the experimental values and predicted values of ultimate capacity, deflection, and crack width using design models are also presented herein.
+
+
+    
+        AU - Camilla Lanza
+    
+        AU - Paolo Gardoni
+    
+        AU - Linda Giresini
+    
+        AU - Mauro Sassu
+    
+
+TI - A Stochastic Formulation to Assess the Environmental Impact of the Life-Cycle of Engineering Systems
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021236
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003201 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003201
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003201
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021236
+AB - This paper proposes a stochastic life-cycle assessment (LCA) as a general stochastic formulation to quantify the environmental impact of an engineering system. The assessment is performed in terms of embodied energy, energy consumption, and the carbon footprint during the service life of the system. At the same time, its ability to resist a hazard is considered. The proposed formulation is general and takes into account the effects of shocks (robustness) and gradual deterioration (durability), assessing the greenhouse gas (GHG) emissions due to repair or reconstruction after an undesired event. The formulation is used in an example of a 4-story reinforced concrete (RC) office building, whose construction site is relevantly seismic. Two different seismic design levels are compared.
+
+
+    
+        AU - Runmin Ding
+    
+        AU - Shenggang Fan
+    
+        AU - Lianlian Jia
+    
+        AU - Hang Zhou
+    
+
+TI - Fire-Resistance Design Method for Stainless Steel Tubular X-Joints
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021237
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003213 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003213
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003213
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021237
+AB - An experimental study was carried out on the fire-resistant performance of six stainless steel tubular X-joints. The failure process and behavioral responses of all specimens were determined, and the failure criteria of stainless steel tubular X-joints at elevated temperatures was developed. Numerical simulation was performed of the stainless steel tubular X-joints subjected to fire, and the accuracy of the model was verified by comparison with the experimental results. By referring to the yield line model in the existing specifications, a yield line model that simultaneously considers the deformation of the chord flange and web was established for stainless steel tubular X-joints. Through theoretical derivation and fitting, the prediction formula of failure temperature for stainless steel tubular X-joints without considering the effect of chord preload was obtained and then modified with the finite-element results. The adverse effect of chord preload on the failure temperature of tubular X-joint was explored using parametric analysis, and the expression of the reduction factor of failure temperature for stainless steel tubular X-joints under chord preload was obtained. A fire-resistance design method for stainless steel tubular X-joints under chord preload is proposed.
+
+
+    
+        AU - Junjie Wang
+    
+        AU - Wei Wang
+    
+
+TI - Macromodeling Approach and Robustness Enhancement Strategies for Steel Frame Buildings with Composite Slabs against Column Loss
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021238
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003214 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003214
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003214
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021238
+AB - This study presents a numerical assessment of the behavior of seismically designed steel frame buildings against ground floor column loss. In the designed prototype buildings, moment frames with beam-to-column rigid connections and concentric X-bracing frames resist the lateral force, whereas the steel-concrete composite floor slabs resist the gravity load. Macromodels are used to capture the building response when removing ground floor columns. The macromodels are built with a reduced modeling approach, in which the concrete damage and the local steel fracture behavior are accurately considered. The macromodeling approach is calibrated by high-fidelity models and validated by composite floor test. The validated macromodels are used to investigate the effect of column loss location, total number of floors, floor slab, beam-to-column connection type, adjacent span, and steel brace on the collapse resistance of prototype buildings. To account for sudden column failure, an energy-based approach is used to convert the quasi-static response curves to dynamic response curves. The structural robustness is derived by comparing each column failure case’s dynamic ultimate capacities with corresponding design requirements. Structural robustness enhancement strategies for steel frame buildings under progressive collapse scenarios are summarized and discussed. Moreover, a retrofitted moment-resisting connection with steel strands is proposed to enhance the steel frame buildings’ robustness by providing a second line of defense.
+
+
+    
+        AU - Armando Messina
+    
+        AU - Eduardo Miranda
+    
+
+TI - Frictional Behavior of Low-Cost Steel-Polymer Interfaces for Seismic Isolation
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021239
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003218 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003218
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003218
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021239
+AB - This paper presents the results of an experimental program studying and comparing the frictional behavior of eight different polymers sliding on galvanized steel at velocities up to 350  mm/s, under a normal average pressure of approximately 18&nbsp;MPa. This work focuses on how the coefficient of friction varies as a function of the instantaneous sliding velocity. We used a new type of testing apparatus together with novel loading protocols to study instantaneous values of the coefficient of friction, as opposed to values at peak velocities as typically done in past studies. The data collected in this study allowed a much better examination of the transient increase in frictional force that occurs at motion reversals due to stick-slip. Once the stick-slip effect has subsided, the relationship between the dynamic coefficient of friction and the instantaneous sliding velocity is described very accurately with a logarithmic model. Results from this study indicate that polyethylenes, which cost 5–10 times less than polytetrafluoroethylene (PTFE), sliding on galvanized steel, which costs about a third as much as mirror-finish stainless steel, have similar coefficients of friction to PTFE sliding on stainless steel at high velocities while showing significantly less signs of wear but have a more pronounced stick-slip effect. These findings suggest that seismic isolation may be economically feasible for use in low-rise residential construction by using polyethylenes sliding on galvanized steel.
+
+
+    
+        AU - Huda Munjy
+    
+        AU - Rachelle Habchi
+    
+        AU - Farzin Zareian
+    
+
+TI - Validation of Simulated Earthquake Ground Motions for Displacement Response of Building and Bridge Structures Based on Intensity and Frequency Content Parameters
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021240
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003212 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003212
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003212
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021240
+AB - This paper introduces a statistical methodology, titled vector-based intensity-measure method (VBIM), to validate simulated ground motions for the estimation of structural response parameters and demonstrate its application using case study structures. VBIM combines several intensity measures representative of key ground motion waveform components that affect structural response—including intensity and frequency content parameters—to validate simulated ground motions. Because the validation and the use of simulated ground motions are of interest to engineers and ground motion simulators, the selected waveform parameters used as validation metrics provide easily interpretable proxies for multiple stakeholders. Four time-dependent metrics are considered to assess how the differences in these parameters correlate to the differences in structural response between simulated and recorded ground motions. The study used 2- and 12-story special steel moment-resisting frame (SMRF) buildings and a two-span, cast-in-place concrete bridge as case study structures to showcase the application of VBIM. Results indicate that models of simulated and recorded ground motions that predict structural response based on waveform parameters are similar. Furthermore, Arias intensity is the most significant waveform parameter predicting response for all three case study structures. The difference in Arias intensity between recorded and simulated ground motions strongly correlates to differences in bridge response. The results of this study provide recommendations for ground motion simulators regarding the required accuracy of these key parameters for simulated ground motions to accurately predict structural response while also providing several steps of validation that show similarities between recorded and simulated ground motions.
+
+
+    
+        AU - Hyeon-Jin Kim
+    
+        AU - Hong-Gun Park
+    
+
+TI - Cyclic Loading Test for Composite Walls with U-Shaped Steel Boundary Elements
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021241
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003217 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003217
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003217
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021241
+AB - A steel–concrete composite wall with boundary elements of steel U-section was developed for high structural performance and efficient use of materials. Cyclic lateral loading tests were performed on the proposed walls to investigate the flexural and shear performances. The test parameters included the failure mode of specimens, type of boundary reinforcement, sectional area of steel U-sections, horizontal web reinforcement ratio, and wall thickness. In the flexural yielding specimens, the flexural strengths of the proposed walls were equivalent to those of conventional reinforced concrete (RC) walls with boundary elements of vertical rebars, even though the yield strength of steel plates was 24% less than that of rebars. Further, the use of steel U-sections increased displacement ductility and energy dissipation, providing lateral confinement to the boundary concrete and restraining shear cracking and sliding. In the shear failure-mode specimens, the use of steel U-sections increased the diagonal tension-shear strength of walls. Thus, the shear strength of the composite walls was greater than that of conventional RC walls. The existing design method of JGJ 138 reasonably predicted the shear strength of the proposed composite walls, considering the contribution of boundary steel U-sections.
+
+
+    
+        AU - Guo-Hua Xing
+    
+        AU - Xu Chen
+    
+        AU - Jiao Huang
+    
+        AU - Yu Zhang
+    
+        AU - Osman E. Ozbulut
+    
+        AU - Zhao-Qun Chang
+    
+
+TI - Reinforced Concrete Beams Strengthened in Flexure with Near-Surface Mounted 7075 Aluminum Alloy Bars
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021242
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003219 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003219
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003219
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021242
+AB - The flexural behavior of reinforced concrete (RC) beams strengthened with near-surface mounted (NSM) 7075 aluminum alloy (AA) bars was investigated through experimental testing. In particular, 10 RC beams strengthened with NSM AA bars and one control beam were tested under four-point bending loading. The experimental variables included NSM reinforcement ratio, bonded length of NSM reinforcement, end anchoring of NSM reinforcement, and type of bonding agent. The test results were evaluated in terms of the load-deflection curves, failure modes, ductility, and strains in NSM reinforcements, and the effects of different test parameters on the effectiveness of the proposed strengthening approach were discussed. In addition, analytical models were developed to predict the load-bearing capacities of strengthened beams failed by intermediate crack debonding and concrete cover separation, respectively. The RC beams strengthened with NSM AA bars exhibited a significant improvement in maximum load ranging from 35% to 120% over the reference specimen.
+
+
+    
+        AU - Keun-Hyeok Yang
+    
+        AU - Ju-Hyun Mun
+    
+        AU - Na-Kyung Oh
+    
+
+TI - Flexural Behavior of Lightweight Aggregate Concrete Shear Walls with Boundary Element
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021243
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003221 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003221
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003221
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021243
+AB - This study examined the effects of the unit weight of concrete (ωc) on the flexural performance of shear walls with different amounts (Ash) of transverse reinforcement in the boundary elements. Six shear wall specimens with barbell-shaped cross sections were tested up to failure under a constant axial load and cyclic lateral loads. Backbone curves determined using the cyclic lateral load–displacement of shear walls were compared with predictions obtained using the two-dimensional (2D) nonlinear laminar approach to examine the effect of ωc on the confinement pressure provided by the transverse reinforcement. The test results indicated that lightweight aggregate concrete (LWAC) shear walls exhibited a smaller displacement ductility ratio and cumulative work damage indicator than their normal-weight concrete (NWC) shear wall counterparts. The conservatism of the ACI 318-19 approach using the equivalent stress block for estimating the moment capacity of shear walls was somwhat affected by ωc or Ash. Meanwhile, the confinement by transverse reinforcement in the boundary elements tended to decrease with a decrease in ωc, which resulted in earlier damage to the longitudinal reinforcement and a faster reduction in the applied load at the post-peak performance for LWAC shear walls than for NWC ones with the same Ash. The current 2D nonlinear laminar approach can accurately estimate the overall flexural performance of shear walls made using different types of concrete.
+
+
+    
+        AU - Yi Shao
+    
+        AU - Sarah L. Billington
+    
+
+TI - Impact of UHPC Tensile Behavior on Steel Reinforced UHPC Flexural Behavior
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021244
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003225 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003225
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003225
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021244
+AB - Ultrahigh-performance concrete (UHPC) typically contains short steel fibers with a fiber volume of 2% or larger. This relatively high fiber volume leads to high UHPC tensile strength, typically larger than 8&nbsp;MPa, and constitutes 30%–40% of the UHPC material cost. Recent studies show that if the reinforcing ratio is low, the high tensile strength of UHPC results in a low structural drift capacity (e.g.,&nbsp;less than 2.5%). To lower the cost and improve the ductility of steel-reinforced UHPC (R/UHPC), this study experimentally and numerically explores the relationship between R/UHPC flexural behavior and UHPC material tensile behavior, which is affected by the fiber volume. Experimental variables include reinforcing ratios (0.96% and 2.10%), fiber volumes (0.5%, 1%, and 2%), and two proprietary UHPC materials. Seven simply supported R/UHPC beams are tested. Experimental results show that (1)&nbsp;reducing the fiber volume has little impact on the maximum crack width at the service limit state and the crushing resistance at the ultimate limit state; and (2)&nbsp;with a low reinforcing ratio, reducing fiber volume increases the structural member ductility and provides more failure warnings at the peak load. To understand the relationship between R/UHPC flexural behavior and more possible variations of material properties, a two-level, five-factor factorial experiment was conducted numerically with different combinations of reinforcing ratios, reinforcing steel properties, and UHPC tensile properties. Numerical results show that higher reinforcing ratios, higher steel postyield hardening strength, and lower UHPC tensile strength lead to a more ductile flexural failure. Finally, a minimum reinforcing ratio is validated to mitigate the possibility of low structural drift capacity (e.g.,&nbsp;less than 2.5%).
+
+
+    
+        AU - Hemanth Kumar Chinthapalli
+    
+        AU - Shivam Sharma
+    
+        AU - Anil Agarwal
+    
+
+TI - Fire Behavior and Modeling of Short RC Columns in Pure Axial Compression: Role of Volume, Configuration, and Spacing of Lateral Reinforcement
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021245
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003224 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003224
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003224
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021245
+AB - This paper studies the role of volume, spacing, and configuration of lateral reinforcement on the axial load resisting capacity of reinforced concrete (RC) columns at elevated temperatures. Short RC columns were tested under combined thermal and compressive loading conditions. Columns with different confinement reinforcement volumes, two different lateral reinforcement configurations, and three different lateral reinforcement spacing values were tested as a part of this study. The test results indicate that lateral reinforcement passing through the core of the column is more effective than rectangular lateral reinforcement placed at the perimeter in improving the fire performance of RC columns. Two different numerical approaches, namely, finite element-based approach in combination with a concrete plasticity model and fiber-based sectional analysis approach along with concrete confinement models available in the literature were used to simulate the axial compression behavior of RC columns at elevated temperatures. It was established that some of the popular confinement models developed for ambient temperature conditions could also be used to model the confinement effect at elevated temperatures. Further, a parametric study was conducted to study the role of lateral reinforcement on a broader set of column parameters. It was established that the confinement effect is generally more pronounced at elevated temperatures than at room temperature.
+
+
+    
+        AU - Mathew Reynolds
+    
+        AU - Chia-Ming Uang
+    
+
+TI - Economical Weld Details and Design for Continuity and Doubler Plates in Steel Special Moment Frames
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021246
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003203 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003203
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003203
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021246
+AB - For seismic design of steel special moment frames (SMFs) the current seismic provisions require the use of continuity plates when either the proportion between the beam flange width and column flange thickness is not met or a strength limit state is not satisfied. The provisions require that the weldments between these continuity plates and the column flanges be a complete joint penetration (CJP) groove weld. Full-scale testing of 10 moment frame connections was performed to investigate the design of continuity plates using fillet welds instead of CJP welds. Six of these frames were one-sided connections using the prequalified reduced beam section (RBS) connection. The remaining four were two-sided connections using the prequalified welded unreinforced flange-welded web (WUF-W) connection. While violating the current continuity plate requirements, all 10 connections surpassed the 0.04-rad story drift criterion required by the provisions for SMF connections. The testing has demonstrated that (1)&nbsp;the criteria governing when to use a continuity plate may be relaxed for RBS connections, (2)&nbsp;fillet welds sized to develop the tensile strength of the continuity plate may be used to fasten the continuity plate to the column flange, (3)&nbsp;the required continuity plate thickness may be determined based on a plastic interaction equation, and (4)&nbsp;the width-to-thickness ratio of continuity plates should be limited to prevent instability. It was also found that sizing the doubler plate welds for the shear flow determined from their elastic shear stiffness, as opposed to developing the shear strength of the doubler plate as required on the provisions, was adequate to fasten an elastic doubler plate to a column.
+
+
+    
+        AU - I. A. Tijani
+    
+        AU - Cheng Jiang
+    
+        AU - C. W. Lim
+    
+        AU - Yu-Fei Wu
+    
+
+TI - Eccentrically Loaded Concrete under Nonuniform Passive Confinement
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021247
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003208 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003208
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003208
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021247
+AB - There is no doubt that the strength and ductility of concrete structures can be enhanced significantly by lateral confining with steel or fiber reinforced polymer (FRP). Nevertheless, studying the mechanical response of eccentrically loaded confined concrete has received little attention compared to the study of a concentrically loaded concrete structure. To achieve a better fundamental understanding of the mechanical behavior of eccentrically loaded concrete under nonuniform confinement, an experimental study with analytical modeling was conducted in this work. A total of 100 concrete cubic specimens were tested with eccentric loadings and various lateral confinements from a fabricated apparatus that can simulate and generate passive confining pressure. Furthermore, this study successfully extended a well-established stress-strain model, originally proposed for eccentrically loaded FRP-confined circular concrete columns, to nonuniformly confined concrete cubes. The applicability and modification of this eccentricity-based model are verified and developed with the test results in this work. This paper concluded that there is good accuracy and agreement between the theoretical predictions and test results.
+
+
+    
+        AU - Fahim Sadek
+    
+        AU - Yihai Bao
+    
+        AU - Joseph A. Main
+    
+        AU - H. S. Lew
+    
+
+TI - Evaluation and Enhancement of Robustness for Reinforced Concrete Buildings
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 04021248
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003226 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003226
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003226
+SO - Journal of Structural Engineering 2022-01-01 148(1): 04021248
+AB - Since the events of September 11, 2001, the engineering community has devoted increased attention to evaluating the vulnerability of multistory buildings to disproportionate collapse, including substantial research and standards development. This paper reviews recent research conducted by the NIST on the robustness of RC buildings, including experimental validation of both high-fidelity and reduced-order modeling approaches using measurements from subsystems and an entire building tested under column removal scenarios. A robustness index was developed using pushdown analysis of a structure with initial damage to allow an evaluation and comparison of the disproportionate collapse potential of various structural systems using the validated modeling approaches. It is shown that the robustness index is sensitive to differences in the strength and detailing of the structural system, providing higher values for buildings with more stringent design requirements. Further, the paper presents a novel approach for enhancing the robustness of RC beams through local debonding of tensile reinforcing bars at the joints, where significant cracking occurs after a column loss. Experimental and computational studies were conducted to demonstrate the efficacy of this approach. It is shown that debonding of the bottom bars for a length of two beam depths on each side of a central column results in an improvement of more than 30% in the peak vertical load-carrying capacity under a column removal scenario.
+
+
+    
+        AU - Zhibin Jin
+    
+        AU - Ke Chen
+    
+        AU - Shiling Pei
+    
+
+TI - Cyclic Response of Precast, Hollow Bridge Columns with Postpour Section and Socket Connection
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 06021005
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003220 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003220
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003220
+SO - Journal of Structural Engineering 2022-01-01 148(1): 06021005
+AB - Accelerated bridge construction (ABC) has been used extensively to achieve rapid construction, to reduce traffic congestion and environmental impacts, and to ensure reliable quality control. Precast columns are typically precast with a solid section and then inserted into a socket foundation that is deeper than the maximum dimensions of the column section. To reduce the weight of the precast column and foundation for easy transportation and assembly, an alternative solution was proposed that uses a hollow section column with high-strength concrete and a foundation with a shallow socket. After the column was erected, postpour concrete (PPC) was then poured into the hollow column to a certain depth to strengthen the shear capacity in the plastic hinge region. Two precast columns with different depths of the PPC were investigated experimentally by cyclic loading test and were compared with a cast-in-place (CIP) reference column. The cyclic loading test results showed that the precast, hollow, high-strength concrete column with socket connection exhibited emulative seismic performance of the CIP reference. A deeper PPC section shows to improve the energy-dissipating capacity of the precast column. The effect of the PPC depth on the precast column and footing was investigated both experimentally and numerically.
+
+
+    
+        AU - Mohanad Khazaali
+    
+        AU - Vasileios Christou
+    
+        AU - Paolo Bocchini
+    
+
+TI - Classification Protocol and Comprehensive Database of Vertically Correlated Longitudinal Wind Velocities for Structural Analysis and Risk Assessment
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 06021006
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003227 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003227
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003227
+SO - Journal of Structural Engineering 2022-01-01 148(1): 06021006
+AB - This manuscript presents a streamlined protocol to generate and classify synthetic random wind samples. The manuscript is accompanied with a comprehensive and publicly accessible repository of spatially and temporally correlated wind velocity samples for use in probabilistic structural analysis and design. The samples are classified based on the maximum sustained wind speed (maximum 1-min average), and the 3-s gust wind speed (maximum 3-s average), which are the intensity measures commonly used for structural analysis and fragility development. A comparative analysis showed the difference between the direct application of the intensity measure definition (by moving average) and the popular conversion factors used in practice. A classification based on the moving average analysis was found to result in portfolios of samples in each category that better capture the probabilistic characteristics of wind. To demonstrate the use and the importance of the constructed wind repository, a case study of fragility curves analysis of an elevated water tank steel lattice tower is presented. The developed wind database will allow researchers and engineers to select and use wind time histories for many applications, such as the analysis of tall structures located in open terrain areas.
+
+
+    
+        AU - Viet Le
+    
+        AU - Luca Caracoglia
+    
+
+TI - Practical Approach to Digitally Simulate Nonsynoptic Wind Velocity Profiles and Its Implications on the Response of Monopole Towers
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 06021007
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003228 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003228
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003228
+SO - Journal of Structural Engineering 2022-01-01 148(1): 06021007
+AB - In the numerical simulation of stochastic nonstationary wind loads, rapidly varying wind speed fluctuations about a deterministic mean value typically represent the sole source of random variability. Adopted in deterministic-stochastic methods, this assumption may not fully capture the aleatory nature of a hazard, especially for nonsynoptic outflows such as intense thunderstorms or microbursts with noticeable nose-like mean wind velocity profiles that vary with each occurrence. Such profiles depart from the theory of atmospheric boundary layers. To introduce additional randomness in the digital simulation of these nonsynoptic wind fields and loads, a numerical procedure was developed in this study to generate unique realizations of analytical functions that describe changes in mean wind velocities with elevation. The utility of the proposed procedure for performance-based wind engineering (PBWE) is demonstrated for the fragility analysis of two monopole towers subjected to loads from nonsynoptic thunderstorm outflows.
+
+
+TI - Reviewers
+PT - Journal Article
+DP - 2022
+TA - Journal of Structural Engineering
+PG - 09021001
+VI - 148
+IP - 1
+AID - 10.1061/(ASCE)ST.1943-541X.0003215 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003215
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003215
+SO - Journal of Structural Engineering 2022-01-01 148(1): 09021001
+
+

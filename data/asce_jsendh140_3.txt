@@ -1,0 +1,484 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Erol Kalkan
+    
+        AU - Neal S. Kwong
+    
+
+TI - Pros and Cons of Rotating Ground Motion Records to Fault-Normal/Parallel Directions for Response History Analysis of Buildings
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013062
+VI - 140
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000845 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000845
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000845
+SO - Journal of Structural Engineering 2014-03-01 140(3): 04013062
+AB - According to the regulatory building codes in the United States (e.g.,&nbsp;2010 California Building Code), at least two horizontal ground motion components are required for three-dimensional (3D) response history analysis (RHA) of building structures. For sites within 5&nbsp;km of an active fault, these records should be rotated to fault-normal/fault-parallel (FN/FP) directions, and two RHAs should be performed separately (when FN and then FP are aligned with the transverse direction of the structural axes). It is assumed that this approach will lead to two sets of responses that envelope the range of possible responses over all nonredundant rotation angles. This assumption is examined here, for the first time, using a 3D computer model of a six-story reinforced-concrete instrumented building subjected to an ensemble of bidirectional near-fault ground motions. Peak values of engineering demand parameters (EDPs) were computed for rotation angles ranging from 0 through 180° to quantify the difference between peak values of EDPs over all rotation angles and those due to FN/FP direction rotated motions. It is demonstrated that rotating ground motions to FN/FP directions (1)&nbsp;does not always lead to the maximum responses over all angles, (2)&nbsp;does not always envelope the range of possible responses, and (3)&nbsp;does not provide maximum responses for all EDPs simultaneously even if it provides a maximum response for a specific EDP.
+
+
+    
+        AU - Michael Klippel
+    
+        AU - Andrea Frangi
+    
+        AU - Erich Hugi
+    
+
+TI - Experimental Analysis of the Fire Behavior of Finger-Jointed Timber Members
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013063
+VI - 140
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000851 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000851
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000851
+SO - Journal of Structural Engineering 2014-03-01 140(3): 04013063
+AB - Fire design models for timber structures usually consider both the loss in cross section attributable to charring and the temperature-dependent reduction of strength and stiffness of the uncharred residual cross section. For bonded timber elements such as glued laminated timber beams, it is assumed that the adhesive in use does not significantly influence the resistance of structural timber beams. To investigate the influence of adhesives in bonded timber elements, a comprehensive research project is currently in progress. The aim of this project is the development of a simplified design model for the fire resistance of bonded structural timber elements, taking into account the behavior of the adhesive at elevated temperature. The paper presents the results of an extensive test series on finger-jointed timber members loaded in tension and exposed to a transient ISO 843 standard fire. The fire tests were performed with different adhesives that fulfill current approval criteria for the use in load-bearing timber components in Europe. Taking into account the different failure modes under observation, the results showed no significant influence of the adhesive on the load-bearing capacity of finger-jointed timber boards.
+
+
+    
+        AU - Jann N. Yang
+    
+        AU - Ye Xia
+    
+        AU - Chin-Hsiung Loh
+    
+
+TI - Damage Identification of Bolt Connections in a Steel Frame
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013064
+VI - 140
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000831 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000831
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000831
+SO - Journal of Structural Engineering 2014-03-01 140(3): 04013064
+AB - It is well-known that damage in a structure is a local phenomenon. Based on measured vibration data from sensors, the detection of a local structural damage requires the finite-element formulation for the equations of motion, so that any change in stiffness in a structural element can be identified. However, the finite-element model (FEM) of a complex structure involves a large number of degrees of freedom (DOF), which requires a large number of sensors and involves a heavy computational effort for the identification of structural damages. To overcome such a challenge, we propose the application of a reduced-order model in conjunction with a recently proposed damage detection technique, referred to as the adaptive quadratic sum-square error with unknown inputs (AQSSE-UI). Experimental data for the shake table tests of a 1/3-scale six-story steel frame structure, in which damages of the joints were simulated by loosening the connection bolts, have been available recently. Based on these experimental data, it is demonstrated that the proposed combination of the reduced-order finite-element model and the adaptive quadratic sum-square error with unknown inputs is quite effective for the damage assessment of joints in the frame structure.
+
+
+    
+        AU - Yu-Chen Ou
+    
+        AU - Jianwei Song
+    
+        AU - Ping-Hsiung Wang
+    
+        AU - Leo Adidharma
+    
+        AU - Kuo-Chun Chang
+    
+        AU - George C. Lee
+    
+
+TI - Ground Motion Duration Effects on Hysteretic Behavior of Reinforced Concrete Bridge Columns
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013065
+VI - 140
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000856 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000856
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000856
+SO - Journal of Structural Engineering 2014-03-01 140(3): 04013065
+AB - This study examined seismic behavior under long-duration ground motion in flexural-dominated reinforced concrete bridge columns designed per modern seismic design codes. Two column specimens with identical design parameters were tested. The first column (named CLC) was tested using a long-duration loading protocol developed to represent the number of response cycles expected under long-duration ground motions. The second column (named COC) was tested using a baseline loading protocol with one cycle for each drift loading to obtain baseline behavior for comparison with the behavior of the CLC column. Test results showed that the CLC column had a similar peak strength but a lower ductility capacity compared with the COC column. When drift was 3% or less, the columns showed a similar hysteretic envelop response. However, degradation of stiffness was greater in the CLC column. When drift exceeded 3%, the CLC column started to show greater strength degradation. The relationship between the damage index and damage condition was established. Experimental observations of hysteretic behavior in the two columns revealed that strength degradation is related to maximum displacement and energy dissipation. Stiffness degradation is related to energy dissipation,whereas pinching is related to maximum displacement. The experimental results were used to construct a hysteretic model, which was calibrated with experimental data obtained for the columns under one set of hysteretic parameters. The proposed hysteretic model was used to carry out constant-R and constant-ductility analyses. The constant-R analysis results showed that ductility demand is not necessarily higher during long-duration ground motions than during short-duration ground motions. Ductility demand obtained by the proposed model is generally higher than that obtained by the modified Clough model. The difference between the two models increases as the duration of ground motion and R factor increase and as the period decreases. Constant-ductility plots show that the difference in the ductility factor between the two models is generally within 10% under short-duration ground motions. Under the long-duration ground motions, the ductility factor obtained by the proposed model is up to 20% higher than that in the modified Clough model.
+
+
+    
+        AU - Kensuke Yamamura
+    
+        AU - Osamu Kiyomiya
+    
+
+TI - Shear Capacity Enhancement of Existing Underground Wall Structures Using Postinstalled Reinforcing Bars
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013066
+VI - 140
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000837 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000837
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000837
+SO - Journal of Structural Engineering 2014-03-01 140(3): 04013066
+AB - Existing underground structures constructed prior to the past few decades do not meet the present seismic design code; therefore, these structures do not have sufficient shear strength to withstand large-magnitude earthquakes and shear reinforcement is required. The reinforcement of these structures has not progressed due to the challenges associated with reinforcement methods. Thus, the authors propose a shear reinforcement method using postinstalled reinforcing bars to solve the previously mentioned problems. This method involves the insertion of reinforcing bars with mortar into drilled holes in reinforced concrete walls to achieve a shear bearing capacity similar to that of preinstalled stirrups. To verify the effectiveness of the method, several loading experiments on reinforced concrete specimens using monotonic and cyclic loads were conducted. This method provided a loading capacity that was 80% larger than the capacity provided by the preinstalled stirrups. Furthermore, finite-element analysis studies of the experimental specimens were performed by means of a nonlinear finite-element method not only to reveal the shear bearing mechanism but also to evaluate seismic performance.
+
+
+    
+        AU - Kyung-Jae Shin
+    
+        AU - Swoo-Heon Lee
+    
+        AU - Thomas H.-K. Kang
+    
+
+TI - External Posttensioning of Reinforced Concrete Beams Using a V-Shaped Steel Rod System
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013067
+VI - 140
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000824 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000824
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000824
+SO - Journal of Structural Engineering 2014-03-01 140(3): 04013067
+AB - This study presents the development of an analysis method to predict the moments at first yielding and at ultimate strength of reinforced concrete beams strengthened using a V-shaped posttensioning steel rod system. The analysis requires determination of a total elongation of the external posttensioning rods, which is interdependent upon the neutral axis depth, deflection, and strains and stresses in beam components at both internal steel yielding and ultimate strength stages. The iteration algorithm was computationally programmed. The test results from a total of 14 full-scale beams were used to verify the analysis method that predicts the yield moment, moment capacity, and corresponding unbonded steel rod stresses. Finally, a flexural design method is developed for reinforced concrete beams externally posttensioned using a V-shaped steel rod system.
+
+
+    
+        AU - Robert Jockwer
+    
+        AU - René Steiger
+    
+        AU - Andrea Frangi
+    
+
+TI - State-of-the-Art Review of Approaches for the Design of Timber Beams with Notches
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013068
+VI - 140
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000838 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000838
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000838
+SO - Journal of Structural Engineering 2014-03-01 140(3): 04013068
+AB - Notches are details that significantly reduce the load-carrying capacity of beams made of timber. The amount of reduction was the subject of investigation in numerous studies from an experimental or theoretical point of view. The singular stress distribution around the notch corner can be described by equations based on linear elastic fracture mechanics, fracture energy, or complex solutions. From experimental tests, simplified equations can be proposed. Standards, codes, and handbooks for the design of timber structures are based on such equations. When comparing the dimensions of notched beams tested in experiments with those that are relevant in practical applications, specimens of small dimensions were primarily tested. The application of design approaches verified by tests on specimens of small dimensions and the use of material properties determined from small clear specimens do not account for size effects that are important when working with beams of large dimensions. The influence of duration of load, moisture variation, and cyclic loading on the fracture of the notch has to be studied. An extension of tests on notched beams and relevant material properties that are now gained from small clear specimens to those of large dimensions is necessary.
+
+
+    
+        AU - Yun-Kyu An
+    
+        AU - Hyung Jin Lim
+    
+        AU - Min Koo Kim
+    
+        AU - Jin Yeol Yang
+    
+        AU - Hoon Sohn
+    
+        AU - Chang Guen Lee
+    
+
+TI - Application of Local Reference-Free Damage Detection Techniques to In Situ Bridges
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013069
+VI - 140
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000846 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000846
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000846
+SO - Journal of Structural Engineering 2014-03-01 140(3): 04013069
+AB - There are increasing demands to apply structural health monitoring (SHM) techniques to bridge structures. To meet these demands, our group has developed a suite of local SHM techniques that can detect particular types of damage without using baseline data obtained from the pristine condition of a structure. They are coined as reference-free damage detection techniques. The main advantage of the reference-free techniques is that they can provide improved damage diagnosis even when the system being monitored is exposed to ambient variations such as external load and temperature changes. Since the reference-free techniques do not rely on a direct comparison with previously obtained baseline data, they are less vulnerable to false alarms due to undesirable variations which in-site structures are frequently subjected to. In this study, the applicability of two specific reference-free techniques to real bridge structures and associated implementation issues are examined through field tests of a decommissioned curved steel box girder bridge and an in-service single-span steel girder bridge in Korea. Our monitoring efforts are focused on detection of cracking in critical steel members with additional structural features such as stiffeners and diaphragms. External loading effects on the reference-free techniques are investigated through static and dynamic loading tests using a 35-t dump truck. Furthermore, daily/seasonal temperature variations are observed over a 1-year period. The test results confirm that the reference-free techniques successfully identify cracks on the test bridges even under varying external loading and temperature conditions. In addition, the long-term durability issues of piezoelectric transducers (PZTs) are addressed, and an enhanced PZT design has been proposed to improve the PZT durability.
+
+
+    
+        AU - Joseph A. Main
+    
+        AU - Fahim Sadek
+    
+
+TI - Modeling and Analysis of Single-Plate Shear Connections under Column Loss
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013070
+VI - 140
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000866 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000866
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000866
+SO - Journal of Structural Engineering 2014-03-01 140(3): 04013070
+AB - This paper presents a computational assessment of the behavior of single-plate shear (shear tab) connections in gravity frames under column-loss scenarios. Two-span beam assemblies without floor slabs are considered under push-down loading of the unsupported center column. Both detailed and reduced modeling approaches are used in the computational assessment, and comparisons with experimental data are presented to establish confidence in the models. The models are used to investigate the influence of factors such as end support conditions, span length, connection strength, and postultimate connection behavior on the collapse resistance of gravity framing systems. Rotational capacities of single-plate shear connections under column-loss scenarios are, in some cases, less than half the values based on seismic test data, owing to the axial extension imposed on the connections in addition to rotation.
+
+
+    
+        AU - Yuan Lu
+    
+        AU - Marios Panagiotou
+    
+
+TI - Three-Dimensional Cyclic Beam-Truss Model for Nonplanar Reinforced Concrete Walls
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013071
+VI - 140
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000852 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000852
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000852
+SO - Journal of Structural Engineering 2014-03-01 140(3): 04013071
+AB - A three-dimensional nonlinear cyclic model for nonplanar reinforced concrete walls is presented. Nonlinear Euler-Bernoulli fiber-section beam elements are used to represent steel and concrete in the vertical direction, and nonlinear trusses are used to represent the steel and concrete in the horizontal direction and the concrete in the diagonal directions. The model represents the effects of flexure-shear interaction by computing the stress and strains in the horizontal and vertical directions and by considering biaxial effects on the behavior of concrete diagonals and accounts for mesh-size effects. The model is validated by comparing the experimentally measured and numerically computed response of three reinforced concrete T-shape, C-shape, and I-shape section wall specimens, respectively, with the response of the latter two characterized by crushing of the concrete in the diagonal direction. The overall force-deformation and local strain responses are presented. Finally, the computed response using the model developed here is compared with the Euler-Bernoulli fiber-section beam models.
+
+
+    
+        AU - Dimitrios G. Lignos
+    
+        AU - Daniel M. Moreno
+    
+        AU - Sarah L. Billington
+    
+
+TI - Seismic Retrofit of Steel Moment-Resisting Frames with High-Performance Fiber-Reinforced Concrete Infill Panels: Large-Scale Hybrid Simulation Experiments
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013072
+VI - 140
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000877 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000877
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000877
+SO - Journal of Structural Engineering 2014-03-01 140(3): 04013072
+AB - Recent earthquakes around the world have demonstrated that steel moment-frame buildings designed based on older seismic provisions are seismically deficient. To enhance the seismic performance of these buildings, a new seismic retrofit system has been developed and evaluated experimentally as part of a two-story steel moment-resisting frame, designed in California in the 1980s. The proposed retrofit system consists of high-performance fiber-reinforced concrete (HPFRC) infill panels acting as energy dissipation elements that can be easily replaced after a major earthquake. Through two large-scale hybrid simulation tests of the retrofitted two-story steel moment-resisting frame, it is demonstrated that (1)&nbsp;the proposed retrofit system is effective in terms of reducing the maximum story drift ratios and residual deformations of the retrofitted steel moment resisting frame relative to the predicted bare frame performance, and (2)&nbsp;the structural damage of the retrofitted steel moment-resisting frame is kept minimal because energy dissipation is concentrated in the infill panel retrofit system.
+
+
+    
+        AU - Serkan Sagiroglu
+    
+        AU - Mehrdad Sasani
+    
+
+TI - Progressive Collapse-Resisting Mechanisms of Reinforced Concrete Structures and Effects of Initial Damage Locations
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013073
+VI - 140
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000854 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000854
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000854
+SO - Journal of Structural Engineering 2014-03-01 140(3): 04013073
+AB - Computational simulations for analyzing progressive collapse resistance of structures following initial damage require specific attention to structural modeling of floor systems. In collapse analysis of RC structures, it is shown that the degrees of freedom of nonlinear beam, joist, and slab sections must include flexural and axial deformations. It is also shown that ignoring torsional cracking of beams can lead to a significant overestimation of the progressive collapse resistance of structures. Evaluating the response of a seven-story RC structure following 15 simulated single column removal scenarios, it is shown that a top floor column removal is more likely to cause structural collapse than failure on a lower floor. This is in part due to the lack of Vierendeel frame action after a top floor column removal. For the simulated scenarios in which the structure resists progressive collapse without experiencing large vertical displacements, the resistance is primarily provided by Vierendeel frame action and axial compressive force-moment interaction of beams. The importance of the floor system in-plane action in axial-flexural response of beams is discussed. The effect of accounting for the elevation difference between the centerlines of floor slabs and beam elements within the building model is studied.
+
+
+    
+        AU - Young-Joo Lee
+    
+        AU - Junho Song
+    
+
+TI - System Reliability Updating of Fatigue-Induced Sequential Failures
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013074
+VI - 140
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000836 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000836
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000836
+SO - Journal of Structural Engineering 2014-03-01 140(3): 04013074
+AB - Many structural systems are subjected to the risk of fatigue-induced failures caused by repeated loading during their service. For effective management of such risk, it is essential to estimate the reliability of a structure against fatigue-induced sequential failures and update the estimated reliability based on actual observations made during structural inspections. Despite much research effort dedicated to inspection-based reliability updating of structures, many previous studies aimed at updating the reliability estimates of individual structural members instead of system-level reliability. Moreover, such studies tend to focus on structures which show uniform stress distribution in discrete members such as truss. This paper proposes a new method to update the system-level reliability of a wide variety of structures under the risk of fatigue-induced sequential failures based on inspection results. The proposed system reliability updating method employs the Branch-and-Bound method employing system reliability Bounds (termed the B3 method). For both discrete and continuum structures, the B3 method can identify critical sequences of fatigue-induced failure in the decreasing order of their likelihood through integration with structural analysis and crack growth analysis. Next, the proposed method updates the probabilities of the most critical failure and nonfailure cases identified by the B3 method, so the upper and lower bounds on the system failure probability are efficiently updated with a reasonable size of gap without additional search of failure sequences. The proposed method is first demonstrated by a relatively simple numerical example, whose results can be verified by Monte Carlo simulation. Next, the method is applied to an aircraft longeron example to demonstrate that the method enables efficient and accurate system reliability updating of fatigue-induced sequential failures for a continuum structure under various inspection scenarios.
+
+
+    
+        AU - Bennett R. Banting
+    
+        AU - Wael W. El-Dakhakhni
+    
+
+TI - Normal Strain-Adjusted Shear Strength Expression for Fully Grouted Reinforced Masonry Structural Walls
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013075
+VI - 140
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000842 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000842
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000842
+SO - Journal of Structural Engineering 2014-03-01 140(3): 04013075
+AB - Since the conclusion of the test programs carried out by the Joint U.S.–Japan Technical Coordinating Committee on Masonry Research (TCCMAR) during the 1970s and 1980s, there has been little progress made to enhance the shear strength expressions used for masonry design. The experimentally-derived expressions currently employed by North American design codes are based on the 45° cracked member assumption and truss analogy, where shear strength is expressed as an algebraic summation of resistance offered by masonry, axial load, and shear reinforcement. By contrast, the modified compression field theory (MCFT), which has gained a wide acceptance within the concrete design community, demonstrates that the 45° cracked member assumption can be overly conservative. Yet the MCFT or similar equilibrium-based approaches have often been thought of as incompatible with masonry due to the latter’s complex anisotropic behavior. However, seismic design detailing requirements within North America typically require the highly-susceptible plastic hinge region of structural (shear) walls to contain vertical and horizontal steel reinforcement in fully grouted concrete block units. Under these circumstances, the anisotropic effects are greatly reduced and the development of a simplified approach to estimate the equilibrium conditions at the shear-critical zone of masonry structural walls is possible. Tests on masonry panels conducted at McMaster University in Canada are used with existing literature to define a set of constitutive relationships for cracked masonry subject to stress states that are typical in reinforced masonry structural walls. Subsequently, a methodology is proposed to accurately estimate the angle of inclination of shear cracking and the shear resistance offered by the horizontal reinforcement and the masonry compression strut accounting for aggregate interlock effects. The proposed normal strain-adjusted shear strength expression (NSSSE) was found to predict the shear strength of 57 wall tests reported in literature with a mean ratio of experimental to theoretical strengths of VExperimental/VTheory=1.16 (C.O.V.=11.4%) and a 95% percentile of VExperimental/VTheory=0.98.
+
+
+    
+        AU - Yuichi Sato
+    
+        AU - Kazuhiro Naganuma
+    
+
+TI - Discrete-Like Crack Simulation of Reinforced Concrete Incorporated with Analytical Solution of Cyclic Bond Model
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013076
+VI - 140
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000864 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000864
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000864
+SO - Journal of Structural Engineering 2014-03-01 140(3): 04013076
+AB - This paper presents solutions of second-order ordinary differential equations on bond problems to estimate crack widths of reinforced concrete (RC) members subjected to repeated cyclic loads. Up to now, bond behaviors under repeated cyclic loads have usually been calculated by a difference scheme. In contrast, this research adopts analytical solutions of the differential equations to calculate bond behaviors in finite element models where a number of concrete cracks occur. The conventional differential equation for the bond problem has been available only under monotonic loading conditions. This paper extends the equation to cases where the reinforcement becomes plastic and the bond is subject to unloading/reloading conditions. The bond stress-slip relationship is modeled by a multilinear model that is composed of an envelope made of five lines, unloading/reloading paths, and a negative friction path. The solution of the differential equation is classified into 25 cases when the bond stress-slip relationship is on the envelope and seven cases when on the unloading/reloading paths or the negative friction path. The solutions are implemented into the smeared crack-based finite-element method (FEM) to evaluate the crack widths of a RC beam subject to repeated cyclic flexural/shear loads. The FEM program is incorporated with the discrete-like crack procedure developed by the authors and calculates stress redistributions due to cracking using the solutions of the differential equations. Typical distributions of reinforcement stress, bond stress, and slip along the reinforcement are presented.
+
+
+    
+        AU - Jun Yu
+    
+        AU - Kang Hai Tan
+    
+
+TI - Special Detailing Techniques to Improve Structural Resistance against Progressive Collapse
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013077
+VI - 140
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000886 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000886
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000886
+SO - Journal of Structural Engineering 2014-03-01 140(3): 04013077
+AB - Previous research work has found that catenary action can significantly increase structural resistance in addition to flexural capacity under column removal scenarios. However, whether reinforcements in beams can effectively function as ties to develop catenary action against progressive collapse is a big concern in current engineering practice because of the limited rotational capacity of RC beam-column connections. Therefore, four RC frame specimens were designed and tested to investigate their structural behavior under a column removal scenario. In addition to a specimen designed with conventional detailing in accordance with ACI 318-05, the other three specimens were designed with special detailing techniques at little or no additional cost, endeavoring to improve catenary action capacity at large deformations without reducing the structural resistance at small deformations. The special detailing included placing an additional reinforcement layer at the midheight of beam sections, partially debonding bottom reinforcing bars in the joint region, and setting partial hinges at one beam depth away from the adjacent joint interfaces. Furthermore, the nonlinear static responses obtained from the tests were used to evaluate the progressive collapse resistances of the four specimens with the consideration of dynamic effect. With systematic instrumentation, the effects of detailing techniques on structural behavior are demonstrated in this paper at different levels. In particular, the mechanism of each special detailing to affect beam-column connection rotations is illustrated and discussed in detail. Finally, suggestions on structural design against progressive collapse via catenary action are provided.
+
+
+    
+        AU - Chun Ni
+    
+        AU - Mohammad Mohammad
+    
+        AU - Abdullah Al Mamun
+    
+        AU - G. Doudak
+    
+
+TI - Performance Evaluation of Portal Frame System in Low-Rise Light-Frame Wood Structures
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013078
+VI - 140
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000878 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000878
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000878
+SO - Journal of Structural Engineering 2014-03-01 140(3): 04013078
+AB - In this paper, results are presented from a testing program focused on evaluating the performance of portal frame systems. A total of nine full-scale portal frame assemblies with six different configurations were tested under monotonic and reversed cyclic loading. The portal frames were 3.66&nbsp;m in length and 2.44&nbsp;m in height, with a 406-mm wall segment at each end of the portal frame. From the experimental results, it was observed that the corner joint between the header and narrow braced wall segment governs the lateral load-carrying capacity and ultimate displacement of the portal frame. Installation of metal straps considerably increased the lateral load-carrying capacity of the portal frame assemblies. Straps placed directly on the lumber framing showed increased resistance compared to those installed on the oriented strand board. Portal frames with hold-downs had a greater lateral load-carrying capacity those without hold-downs. A comparison was made between portal frames and conventional braced walls used in low-rise light-frame wood buildings. The portal frames in general have lower initial stiffness than the braced walls. A portal frame with sheathing on one side only and no hold-down has an ultimate load-carrying capacity equivalent to a 2.44-m long braced wall with hold-down. A portal frame with hold-down can on average achieve a capacity similar to that of a 4.88-m long braced wall without hold-down.
+
+
+    
+        AU - Javaid Ahmad
+    
+        AU - Shaohong Cheng
+    
+
+TI - Impact of Key System Parameters on the In-Plane Dynamic Response of a Cable Network
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013079
+VI - 140
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000847 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000847
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000847
+SO - Journal of Structural Engineering 2014-03-01 140(3): 04013079
+AB - Using crossties to connect a cable which has experienced or is prone to violent motions with its neighbors and form a cable network has been successfully applied to a number of cable-stayed bridges to control stay cable vibrations. However, matured guidelines for designing crossties are still lacking. The present study aims at identifying key system parameters which dictate the in-plane dynamic behavior of a cable network and evaluate their respective roles. An analytical model of a general cable network consisting of n horizontally laid cables interconnected by a single line of transverse rigid crossties will be developed, based on which the key system parameters will be identified from the system characteristic equation. An extensive parametric study will be conducted to assess the impact of these parameters on the dynamic response of cable networks. The outcome from the study is expected to not only comprehend our understanding in the mechanics associated with cable networks, but also shed light on developing more effective and creative crosstie solutions.
+
+
+    
+        AU - D. Mitchell
+    
+        AU - W. D. Cook
+    
+        AU - Y. Deng
+    
+        AU - J. Liu
+    
+
+TI - Confinement of Columns and Wall Boundary Elements Using Headed Bars
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013080
+VI - 140
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000850 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000850
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000850
+SO - Journal of Structural Engineering 2014-03-01 140(3): 04013080
+AB - Two series of full-scale specimens were constructed and tested under pure axial load to investigate the effectiveness of confinement provided by headed bars. One series consisted of columns and the other series represented boundary elements in shear walls. Each series consisted of five specimens that included a specimen without any confinement, a specimen with closed ties, a specimen with seismic hoops and crossties, a specimen with closed hoops and headed bars replacing the crossties, and a specimen that had all of the transverse reinforcement replaced by headed bars. It was concluded that headed bars provided a viable solution when used to replace crossties, offering similar confinement. In these monotonically loaded tests, it was also found that headed bars could be used to replace entirely the hoops and the crossties, offering similar confinement effects.
+
+
+    
+        AU - Thanh-Phuong Pham
+    
+        AU - Bing Li
+    
+
+TI - Splitting Failure of Reinforced Concrete Columns
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013081
+VI - 140
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000859 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000859
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000859
+SO - Journal of Structural Engineering 2014-03-01 140(3): 04013081
+AB - Many earthquake reconnaissance studies have revealed a unique splitting failure mode of reinforced concrete (RC) columns that has yet to be fully elucidated. Most available shear strength models in the current codes are established based on the concept of a diagonal shear plane through which shear force must be transferred; this concept might not be as applicable to RC columns that failed by vertical cracks, or via splitting failure from an earthquake. In this study, an alternative load-transferring path is proposed that not only explains the failure mechanism, but also allows the estimation of shear strength of the test specimens. Experimental observations from 17 RC columns that underwent splitting failure were used to validate the proposed model. To enhance the applicability of the model, it was corroborated further with 89 short columns screened from existing literature. The validations showed that, while simple to apply, the proposed model can give better predictions of shear strength for RC short columns than other shear strength models available in the literature.
+
+
+    
+        AU - Wei Song
+    
+        AU - Shirley Dyke
+    
+
+TI - Real-Time Dynamic Model Updating of a Hysteretic Structural System
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013082
+VI - 140
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000857 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000857
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000857
+SO - Journal of Structural Engineering 2014-03-01 140(3): 04013082
+AB - Linear model updating techniques have been successfully applied in structural health monitoring (SHM) for assessing structural conditions. However, civil structures generally exhibit nonlinear hysteretic behavior under damaging loading conditions. Updating nonlinear models is necessary to represent a structure’s deteriorating behaviors. Here, an approach is proposed to update a hysteretic model in real time. An experimental study is conducted to demonstrate the use of this nonlinear updating technique on a lab-sized shear building. A recently proposed modified Bouc-Wen model is used. A numerical study is performed to demonstrate the capabilities of the model updating technique in identifying the nonlinear model. The need for deionizing filters is also emphasized. The experimental study considers quasistatic cyclic tests to characterize the nonlinear behavior of the structure, and two shake table tests for demonstrating the proposed approach in the prediction of future responses. Comparison of the error indexes shows that the real-time updated model can be used to predict the response of the tested building structure during strong motion inputs. The real-time testbed developed in this study has the potential to enable rapid structural diagnosis and prognosis, and will facilitate many other engineering applications, such as rapid risk assessment and structural control design.
+
+
+    
+        AU - Lu Wang
+    
+        AU - Ray Kai-Leung Su
+    
+
+TI - Repair of Fire-Exposed Preloaded Rectangular Concrete Columns by Postcompressed Steel Plates
+PT - Journal Article
+DP - 2014
+TA - Journal of Structural Engineering
+PG - 04013083
+VI - 140
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000884 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000884
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000884
+SO - Journal of Structural Engineering 2014-03-01 140(3): 04013083
+AB - This paper describes an experimental study of axially loaded, fire-exposed, rectangular RC columns repaired with postcompressed steel plates. Seven RC columns with identical section dimensions and reinforcement details were fabricated and tested. Six of these were exposed to a 4-h fire load according to the ISO 834 standard. After 1 month of cooling, five of the fire-exposed columns were installed with precambered steel plates, which were then postcompressed by a method newly developed by the authors. All columns were tested under axial compression to determine their ultimate load capacity, deformation, and ductility. The effects of steel-plate thickness, initial precamber displacements, and preloading level on the ultimate load capacity of repaired RC columns were investigated. The test results show that up to 72% of the original capacity of the axial load-carrying capacity of fire-exposed columns repaired with postcompressed steel plates can be restored. Furthermore, the repaired specimens show better ductility and postpeak deformability. An analytical model was adopted to predict the ultimate axial load capacity of fire-exposed columns repaired with postcompressed steel plates. The comparison of the theoretical and experimental results reveals that the analytical model can accurately predict the ultimate axial load capacity of the repaired columns.
+
+

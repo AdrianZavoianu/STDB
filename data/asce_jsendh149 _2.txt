@@ -1,0 +1,511 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Simos Gerasimidis
+    
+        AU - Bruce Ellingwood
+    
+
+TI - Twenty Years of Advances in Disproportionate Collapse Research and Best Practices since 9/11/2001
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 02022002
+VI - 149
+IP - 2
+AID - 10.1061/JSENDH.STENG-12056 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12056
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12056
+SO - Journal of Structural Engineering 2023-02-01 149(2): 02022002
+
+
+    
+        AU - Yahya C. Kurama
+    
+        AU - Chung-Chan Hung
+    
+
+TI - RC Structures with High and Ultrahigh-Performance Materials
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 02022003
+VI - 149
+IP - 2
+AID - 10.1061/JSENDH.STENG-12072 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12072
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12072
+SO - Journal of Structural Engineering 2023-02-01 149(2): 02022003
+
+
+    
+        AU - Zhen Wang
+    
+        AU - Ting-Hua Yi
+    
+        AU - Dong-Hui Yang
+    
+        AU - Peng Zhou
+    
+        AU - Li Sun
+    
+
+TI - Early Warning Method of Structural Damage Using Localized Frequency Cointegration under Changing Environments
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022230
+VI - 149
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0003480 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003480
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003480
+SO - Journal of Structural Engineering 2023-02-01 149(2): 04022230
+AB - Modal frequencies are widely used to capture dynamics and reveal possible failures of bridge structures. However, the non-Gaussianity and nonlinearity of nonstationary modal frequencies associated with the actual structure under changing environmental conditions often restrict the application in structural health monitoring. Therefore, a new localized frequency cointegration without environmental measurements for the elimination of environmental interference and damage warning is proposed in this paper. The k-nearest neighbor rule is first employed to search for sufficient nearest neighbors for each modal feature based on similarity measurements over a wide range of training data. After that, the cointegration analysis associated with the Johansen procedure is performed to remove environmental trends and obtain multivariable cointegration residuals. Then, the defined early warning index (i.e.,&nbsp;the weighted Mahalanobis distance) derived from the exponentially weighted moving average is adopted with respect to the identification of subtle damage. Eight groups of cointegration models between nonstationary modal variables are constructed and validated on the Z24 bridge case. The results demonstrate that the proposed approach can successfully discard spurious influences of environmental variations and identify the occurrence of real structural damage compared to traditional methods. Additionally, this approach is not constrained by the statistical distribution of observation samples, and the selection and combination of different modal orders are crucial in capturing the changes in frequency anomalies for the bridge condition assessment.
+
+
+    
+        AU - Michael H. Scott
+    
+        AU - Mark D. Denavit
+    
+
+TI - Generalized Computation of Buckling Loads via Curvature-Based Displacement Interpolation
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022231
+VI - 149
+IP - 2
+AID - 10.1061/JSENDH.STENG-11581 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11581
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11581
+SO - Journal of Structural Engineering 2023-02-01 149(2): 04022231
+AB - The calculation of flexural buckling loads for structural members remains a relevant topic of practical and theoretical interest. In addition to well-known solutions for prismatic members, solutions are available for the buckling loads of nonprismatic and weakened members; however, these solutions are often specialized and difficult to implement, as are finite element analyses that require a refined mesh in order to achieve accurate solutions. A straightforward approach for computing buckling loads based on eigenvalue analysis of the curvature-based displacement interpolation (CBDI) influence matrix is developed. The CBDI influence matrix, which is a byproduct of a force-based frame element formulation of geometric nonlinearity, simplifies the calculation of flexural buckling loads for nonprismatic and weakened members while also providing accurate results for prismatic members. Comparisons with previously published solutions show the CBDI approach gives accurate first-mode buckling loads for prismatic and nonprismatic columns when the CBDI influence matrix is formed using at least three interpolation points. More interpolation points are required for the critical buckling loads of columns where the change in flexural stiffness is more abrupt. The CBDI approach is easy to implement and provides engineers and researchers a means of calculating flexural buckling loads for members with arbitrary changes in flexural stiffness. Critical buckling load calculations are required for a variety of methods to determine column strength and to assess frame stability. The proposed approach using curvature-based displacement interpolation (CBDI) can be applied directly in these methods and is easily implemented in the Python programming language or any software capable of matrix algebra. As presented, the proposed approach is applicable to critical load calculations for flexural buckling of pin-ended initially straight members, inclusive of nonprismatic, e.g.,&nbsp;tapered, stepped, or weakened, members. The approach does not apply to torsional and flexural-torsional buckling, and further research is required to extend the approach to members with other boundary conditions, curved members, and members with prestressing. Although not shown in this work, the proposed approach can be extended to columns with distributed and intermediate axial loads. In addition, the method can be extended to three dimensions for columns subjected to combined axial load and biaxial bending as well as shear deformable columns.
+
+
+    
+        AU - Ameer Marzok
+    
+        AU - Oren Lavan
+    
+
+TI - Optimal Seismic Design of Controlled Coupled Multiple Rocking Systems with Viscous Dampers in Irregular Buildings
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022232
+VI - 149
+IP - 2
+AID - 10.1061/JSENDH.STENG-11651 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11651
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11651
+SO - Journal of Structural Engineering 2023-02-01 149(2): 04022232
+AB - The reduced damage and residual deformations of rocking systems make them efficient for designing resilient buildings for earthquakes. This paper presents a design approach for multiple-rocking coupled self-centering concentrically braced frames (SC-CBFs) with linear fluid viscous dampers (FVDs) utilizing an efficient gradient-based optimization procedure. The optimization problem is formulated such that the framing system, the post-tensioning layout, and the location of the rocking sections are simultaneously designed with the FVDs. The constraints of the optimization problem are formulated following performance-based seismic design. These constraints are evaluated based on results obtained from nonlinear time history analyses of the system when subjected to an ensemble of ground motion records. For the first time, a design method suitable for irregular buildings with multiple-rocking coupled SC-CBFs is proposed. A nine-story irregular building was designed using the proposed method. The results show that an efficient design can be achieved with reasonable computational effort. In addition, the results show that the design of these buildings is not intuitive. A multiple-rocking solution was obtained to reduce force demands in the framing elements.
+
+
+    
+        AU - Hye-Jung Sim
+    
+        AU - Sung-Chul Chun
+    
+        AU - In-Ho Kim
+    
+
+TI - Side-Face Blowout Strength of Large-Diameter High-Strength Headed Bars in a Single Layer or Two Layers Terminated within Exterior Beam–Column Joints
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022233
+VI - 149
+IP - 2
+AID - 10.1061/JSENDH.STENG-11450 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11450
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11450
+SO - Journal of Structural Engineering 2023-02-01 149(2): 04022233
+AB - Due to a lack of test data on large-diameter headed bars, design provisions limit the bar diameter of headed bars to 36&nbsp;mm or less. In exterior beam–column joints with two-layer headed bars as beam bars, if the layer-to-layer spacing of the headed bars is narrow, the side-face blowout area of an individual headed bar is overlapped. Existing design provisions do not consider the effects of layer-to-layer spacing. In this study, 34 simulated exterior beam–column joints were tested to examine the effects of bar diameters over the limitation of existing design provisions using large-diameter (41- and 51-mm) headed bars. The side-face blowout strengths of the two-layer headed bars were experimentally investigated through simulated exterior beam–column joints with layer-to-layer spacing of 2db (two times the bar diameter). The test results showed that the side-face blowout strengths had the same characteristics for bar diameters from 22 to 51&nbsp;mm. For the two-layer headed bars, crack propagation and failure mode were the same as those for single-layer headed bars, but due to the overlap of the blowout area, the strength of the individual headed bar was reduced. A new model was proposed to predict the side-face blowout strengths of large-diameter high-strength headed bars in both a single layer and in two layers by incorporating a spacing factor for an individual headed bar into a model from the literature. A total of 173 test results from this study and previous studies were compared with predictions from the proposed model, and the average and coefficient of variation (COV) of test-to-prediction ratios were 1.08 and 17.4 %, respectively.
+
+
+    
+        AU - Rafic G. El-Helou
+    
+        AU - Benjamin A. Graybeal
+    
+
+TI - Shear Design of Strain-Hardening Fiber-Reinforced Concrete Beams
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022234
+VI - 149
+IP - 2
+AID - 10.1061/JSENDH.STENG-11065 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11065
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11065
+SO - Journal of Structural Engineering 2023-02-01 149(2): 04022234
+AB - Strain-hardening fiber-reinforced concrete (SH-FRC), such as ultrahigh-performance concrete (UHPC), offers sustained tensile capacities up to high values of postcracking strains and, consequently, delivers shear resistance through different mechanisms than conventional concrete. Existing shear design methods for conventional concrete beams include empirical approximations of the tensile resistance offered by the cracked concrete that do not apply to SH-FRC materials. This article presents a design formulation that predicts the shear capacity of SH-FRC beams in support of ongoing efforts to develop UHPC structural design guidance in the United States. The proposed model leverages foundational concepts from engineering mechanics, similar to the modified compression-field theory (MCFT) for conventional reinforced and prestressed concrete, while integrating relationships that address behaviors specific to SH-FRC. The model predicts shear stress versus shear strain behavior of a cracked SH-FRC membrane element, which is then used to model the web of a beam. Verified against experimental shear test results of I-shaped prestressed and non-prestressed beams with different material properties, beam geometries, axial strains, and transverse reinforcement ratios, the proposed shear design model is demonstrated to conservatively predict the shear capacity of SH-FRC beams. As such, this work constitutes a fundamental step in developing mechanics-based SH-FRC shear design guidance.
+
+
+    
+        AU - Lourens Strauss
+    
+        AU - Richard Walls
+    
+
+TI - Modeling of Composite Structures in Fire Using a Coupled Skeletal Frame and Floor System Analysis: Slab Panel Method
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022235
+VI - 149
+IP - 2
+AID - 10.1061/JSENDH.STENG-11807 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11807
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11807
+SO - Journal of Structural Engineering 2023-02-01 149(2): 04022235
+AB - This paper presents a proposed design methodology which combines the fire beam element (FBE) for skeletal frame analysis with the slab panel method (SPM) for floor experiencing catenary action. The methodology enables the two systems to interact with each other to provide a simplistic manner to design a full composite structure. The design methodology consists of an iterative process in which (1)&nbsp;the SPM is used to design the composite slab and provides the loads on the support beams of the skeletal structure, and then (2)&nbsp;the FBE analysis, implemented in OpenSees version 2.5.0, determines the deflection of the edge support beams which are used to update the SPM calculations. The existing two-dimensional (2D) FBE finite-element matrices are updated for a three-dimensional FBE, while the SPM is modified to allowing the interaction between the FBE analysis and the SPM. Three validation studies of the FBE analysis show that the FBE analysis is able to capture the behavior of the skeletal structure adequately, as long as the support edge beams of the slab panel have sufficient strength to support the slab panel. The application of the design methodology to an office building serves as a proof on concept and demonstrates that the deflection of the edge beams does have a significant impact on the predicted ultimate load-carrying capacity of the slab panel.
+
+
+    
+        AU - Sheyenne Davis
+    
+        AU - Eric Stoddard
+    
+        AU - Matthew T. Yarnold
+    
+
+TI - Full-Scale Floor System Testing for Future Hot-Rolled Asymmetric Steel I-Beams
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022236
+VI - 149
+IP - 2
+AID - 10.1061/JSENDH.STENG-11610 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11610
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11610
+SO - Journal of Structural Engineering 2023-02-01 149(2): 04022236
+AB - The presented study conveys the initial full-scale experimental study for future hot-rolled asymmetric steel I-beams, termed A-shapes. The primary use for these beams is residential building floor systems. Current systems commonly utilize concrete solutions, which achieve a shallow depth for optimal floor-to-floor heights. However, these floor systems are relatively slow to construct because of the amount of formwork, rebar and post-tensioning placement, and shoring needed. The shallow-depth steel-concrete floor system concept explored in this research aims to improve the speed and efficiency of residential building construction. This increase in speed is achieved through hot-rolled steel A-shapes, which reduce the fabrication time for beam production. These steel shapes have a wide bottom flange that can support precast concrete panels or deep metal decking. Therefore, a relatively easy to assemble shallow-depth system can be achieved. The research study presented herein includes the experimental feasibility testing of a full-scale shallow-depth steel-concrete floor system to further the knowledge of A-shape performance in such systems. The floor system concept evaluated consisted of three steel A-shapes, precast hollow-core concrete panels, and a cast-in-place concrete topping slab. The testing involved taking measurements during construction, service live loading, and loading of the system to failure. The major unknowns were constructability, stability during construction, live load performance, and composite behavior. This experiment revealed that the system was constructed easily and rapidly and also remained stable during construction. The system performed well under service live load, experiencing deflections equivalent to L/3,000. The system failed due to the bond breaking between the concrete and steel, going noncomposite after experiencing partially composite behavior. This occurred at an actuator load equivalent to five times the design service live load. All of this indicates that the floor system concept using A-shapes is a legitimate path forward to faster construction of residential facilities. This validates the need for the research toward standardized A-shapes in the United States.
+
+
+    
+        AU - Ahmed Akl
+    
+        AU - Mohamed Ezzeldin
+    
+
+TI - Seismic Collapse Risk Assessment of Low-Aspect-Ratio Reinforced Concrete Shear Walls Using the FEMA P695 Methodology
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022237
+VI - 149
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0003505 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003505
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003505
+SO - Journal of Structural Engineering 2023-02-01 149(2): 04022237
+AB - Several recent research studies have demonstrated that the seismic performance of low-aspect-ratio reinforced concrete (RC) shear walls (i.e.,&nbsp;defined herein as walls with height-to-length ratios less than 2) has not been yet adequately quantified to allow for robust risk assessment. This is mainly attributed to the complex nonlinear flexure/shear interaction behavior of such walls, along with their wide spectrum of possible design parameters, leading to major discrepancies in their seismic performance. Despite this unique behavior, most building codes and design standards do not assign distinctive seismic performance factors for such walls. To address this, the main objective of the current study is to propose seismic performance factors for low-aspect-ratio RC shear walls when different wall geometrical configurations and design parameters (e.g.,&nbsp;aspect ratios, axial load levels, and seismic design categories) are adopted. These factors are evaluated against the acceptance criteria of the FEMA P695 methodology for Quantification of Building Seismic Performance Factors. In this respect, a numerical model was developed and experimentally validated to simulate the seismic response of 36 low-aspect-ratio RC shear wall archetypes. The model was utilized to perform nonlinear static and dynamic analyses, and collapse fragility curves were then generated to assess the collapse risk of such wall archetypes following the FEMA P695 methodology. According to the methodology, the proposed seismic performance factors were assessed by quantifying the ratio between the median collapse intensity and the intensity of the maximum considered earthquake (MCE). The results showed that R factors of 2.0 and 3.0 for special low-aspect-ratio RC walls with low and high axial load levels, respectively, can limit the probability of collapse under the MCE and are subsequently able to meet the FEMA P695 acceptance criteria.
+
+
+    
+        AU - Chenglong Shi
+    
+        AU - Jigang Zhang
+    
+        AU - Xiangying Wang
+    
+        AU - Feifei Liu
+    
+        AU - Wenli Chen
+    
+        AU - Zhehao Ma
+    
+        AU - Haizhi Liang
+    
+        AU - Yang Zhao
+    
+
+TI - Improving the Impact Resistance and Antisplash of Civil Air Defense Wall: Experiments and Finite-Element Simulation
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022238
+VI - 149
+IP - 2
+AID - 10.1061/JSENDH.STENG-11817 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11817
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11817
+SO - Journal of Structural Engineering 2023-02-01 149(2): 04022238
+AB - In order to avoid the occurrence of serious casualties and secondary injuries caused by high-speed splashing concrete fragments, pendulum impact test research and numerical analysis were carried out for the first time on the civil air defense wall sprayed with 2-mm polyisocyanate-oxazodone (POZD) coatings at different positions. The results showed that spraying a 2-mm POZD coating on the civil air defense wall can significantly reduce the damage area of the wall, restrain the splashing of concrete fragments, ensure the integrity of the wall, and improve the impact resistance and airtightness of the civil air defense wall. The large-rupture-strain fiber-reinforced polymer (FRP) pasted on the back significantly improved the bending stiffness and deformation capacity and reduced the residual displacement of the wall. The failure modes and failure characteristics of the wall obtained through the experiments in this paper provide the failure evaluation criteria for existing civil air defense walls.
+
+
+    
+        AU - Ester Garcia-Castillo
+    
+        AU - Thomas Gernay
+    
+        AU - Ignacio Paya-Zaforteza
+    
+
+TI - Probabilistic Models for Temperature-Dependent Compressive and Tensile Strengths of Timber
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022239
+VI - 149
+IP - 2
+AID - 10.1061/JSENDH.STENG-11369 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11369
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11369
+SO - Journal of Structural Engineering 2023-02-01 149(2): 04022239
+AB - Reliable reduction factors for timber mechanical properties at elevated temperatures are needed to design timber structures for fire safety as well as to assess the safety of historic timber structures against fire hazards. In this paper, a compilation of the available data on the compressive and tensile strengths of timber at elevated temperatures is carried out. Then, a probabilistic modeling approach to predict the temperature-dependent reduction factors applicable to fire design is proposed. The collected data cover both solid and engineered timber at temperatures from 20°C to 300°C, with a variety of sample sizes, wood species, test protocols, and moisture content used in the experiments. The data revealed a large scatter in elevated temperature strengths, and a large conservativeness of the relationships of the current European standard, which is commonly used for the advanced design of timber structures under fire. To address this variability, multiple probability density functions were calibrated across the temperature range, quantifying the goodness of fit with statistical criteria. Two-parameter Weibull functions provided the best fit, and continuous temperature-dependent relationships were derived for the parameters of the distribution. The proposed probabilistic models can be implemented in a numerical code, facilitating their use in analytical and computational approaches, and can be applied to the probabilistic assessment of the structural performance and reliability of timber structures against fire.
+
+
+    
+        AU - Resul Saritas
+    
+        AU - M. Taylan Das
+    
+        AU - Omar Rasheed
+    
+        AU - Mohammad AlHamaydeh
+    
+        AU - Mustafa Yavuz
+    
+        AU - Eihab Abdel-Rahman
+    
+
+TI - Structural Health Monitoring via Phase Space Warping and Time-Delay Embedding
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022240
+VI - 149
+IP - 2
+AID - 10.1061/JSENDH.STENG-11415 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11415
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11415
+SO - Journal of Structural Engineering 2023-02-01 149(2): 04022240
+AB - The state of a structure’s health can be determined by investigating its vibration characteristics. Vibration-based structural health monitoring (SHM) enables early detection and diagnosis of damage as well as extension of service life. Herein, linear and nonlinear tracking metrics are proposed to track deterioration in the condition of multistory structures and assess their instantaneous health in real-time via measurement of floor accelerations. The linear metrics, the amplitude damage index ADIn(t¯) and the frequency damage index FDIn(t¯), are based on tracking the power spectra of floor accelerations. The nonlinear metric e(t¯) is based on a novel implementation of the phase-space warping method and obtained from the orbits representing the floors’ motions in pseudo phase-space. A scaled-down model of a four-floor moment-resisting frame building is designed and fabricated to demonstrate and to compare the capabilities of the three damage indices. Structural damage is introduced to individual columns, to mimic damage initiation, by cutting two notches on opposite sides of a column cross-section at midheight. The ADIn(t¯) detected large damage events, fast deterioration beyond them, and the onset of failure using any of the four floor accelerations. The FDIn(t¯) proved insensitive to damage compared with the other two metrics. The nonlinear metric e(t¯) detected gradual (fatigue-induced) deterioration in the building’s health before introduction of damage, large damage events, fast deterioration beyond them, and the onset of failure, using any of the four floor accelerations. The e(t¯) metric varied slowly and continuously with gradual deterioration and exhibited larger discontinuous jumps with discrete damage events. This was true for all three damage experiments undertaken on the model building. The nonlinear e(t¯) metric was also found to be more efficient, in terms of signal utilization, in comparison with the linear ADIn(t¯) metric.
+
+
+    
+        AU - Snehasagar Gopagani
+    
+        AU - Andre Filiatrault
+    
+        AU - Amjad J. Aref
+    
+        AU - Daniele Perrone
+    
+
+TI - Finite-Element Modeling for Seismic Damage Estimation of Suspended Ceiling Systems
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022241
+VI - 149
+IP - 2
+AID - 10.1061/JSENDH.STENG-11593 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11593
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11593
+SO - Journal of Structural Engineering 2023-02-01 149(2): 04022241
+AB - The seismic qualification and seismic performance assessment of suspended ceiling systems have been traditionally conducted through large-scale shake table testing. This experimentally-based approach not only involves significant financial and time resources but is also not flexible to evaluate several configurations of suspended ceiling systems. As an alternate approach, this paper discusses the development of a general finite-element (FE) model of suspended ceiling systems that accurately captures the propagation of damage observed during full-scale shake table testing using the commercial finite-element analysis software, Abaqus/Explicit. The results of the large-scale shake table testing on suspended ceiling systems conducted at the University at Buffalo as part of the NEES nonstructural project were used to validate the FE model. The major components of suspended ceiling systems such as grid runners, ceiling tiles, and hanger wires were modeled and assembled with significant detail in the FE model. The properties of the connections between the grid runners, which are vital for capturing the seismic behavior of suspended ceiling systems were derived numerically. A user-defined subroutine was incorporated in the Abaqus/Explicit software framework to capture the multidirectional pinched hysteretic behavior of the connections between grid runners. An illustrative example of the application of the proposed FE model to develop robust numerically generated fragility curves for suspended ceiling systems is presented.
+
+
+    
+        AU - Xiguang Liu
+    
+        AU - Weiping Zhang
+    
+        AU - Xianglin Gu
+    
+        AU - Zhiwen Ye
+    
+
+TI - Assessment of Fatigue Life for Corroded Prestressed Concrete Beams Subjected to High-Cycle Fatigue Loading
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022242
+VI - 149
+IP - 2
+AID - 10.1061/JSENDH.STENG-11663 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11663
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11663
+SO - Journal of Structural Engineering 2023-02-01 149(2): 04022242
+AB - Millions of in-service concrete bridges around the world are exceeding their design life. Corrosion may lead to a sudden fracture of prestressing steels, and understanding the fatigue behavior of corroded prestressed concrete (PC) bridges is essential. Accordingly, an effective fatigue analytical model for corroded PC beams is needed. In this study, an experimental investigation of the fatigue behavior of corroded PC beams, was carried out. Thirteen PC beams had experienced acceleration corrosion before high-cycle fatigue testing. All beams failed due to fatigue fracture of the corroded tensile steel bars, and three-dimensional laser scanning results indicated that the fracture occurred at the minimum cross sections with a severe corrosion pit. A segmented linear analytical model to evaluate fatigue response and predict fatigue life was developed which considers fatigue irrecoverable plastic strain of concrete, stress concentration, and longitudinal variation in the cross-sectional areas of corroded steel bars. There is an acceptable agreement between the numerical and experimental results of corroded PC beams. The proposed model can reasonably predict the evolution of strains in concrete, corroded prestressing steel, and rebars in PC beams under high-cycle fatigue loading, thereby allowing fatigue life prediction. Further analysis studied the influence of degree of corrosion in prestressing wires/rebars, stress concentration and longitudinal variation in cross-sectional areas of corroded steel bars, load ranges, and partial prestressing ratios (PPRs). It was found that, to reasonably estimate the fatigue life of corroded PC beams, the influence of stress concentration must be considered with the proposed impact factor. A higher corrosion degree, load range, or PPR shortens the fatigue life of corroded PC beams.
+
+
+    
+        AU - Atsushi Suzuki
+    
+        AU - Yoshihiro Kimura
+    
+
+TI - Rotation Capacity of I-Shaped Beam Failed by Local Buckling in Buckling-Restrained Braced Frames with Rigid Beam-Column Connections
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022243
+VI - 149
+IP - 2
+AID - 10.1061/JSENDH.STENG-11745 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11745
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11745
+SO - Journal of Structural Engineering 2023-02-01 149(2): 04022243
+AB - A buckling-restrained braced frame (BRBF) reduces the response of buildings during a strong earthquake, during which the surrounding members such as beams and columns must resist the axial force imposed by the buckling-restrained braces (BRBs). However, the steel beams and columns are subjected to reversed axial force from the horizontal and vertical component of BRB axial force. The steel beams might then buckle under the compressive force or even yield under the subsequent tensile axial force because the beams are not designed primarily to sustain the axial force. Therefore, the rotation capacity becomes inconsistent with the typical loading protocols. Faced with this concern, this study examines a BRBF design with reasonable balance between the steel frame and the BRBs. Pushover analyses and nonlinear response history analyses (NRHAs) are undertaken to quantify the magnitude of the beam axial force. Furthermore, a detailed finite-element analysis (FEA) model is constructed based on results obtained from a previous experiment. The strain distribution and axial force transfer mechanism are identified using an experimentally validated FEA model. Results confirm that BRB axial force is transmitted primarily to the single side of the flange. Furthermore, the parametric study in terms of the beam section, BRB axial force, and loading protocols establishes a database of the structural performance. The results of this research are used to formulate a novel index and equations describing the ultimate strength ratio, rotation capacity, and energy dissipation capacity.
+
+
+    
+        AU - Xiaoxiang Lin
+    
+        AU - Cheng Su
+    
+        AU - Jianhua Xian
+    
+
+TI - A Response Spectrum Method for Base-Isolated Structures with Equivalent Base Excitations
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022244
+VI - 149
+IP - 2
+AID - 10.1061/(ASCE)ST.1943-541X.0003508 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003508
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003508
+SO - Journal of Structural Engineering 2023-02-01 149(2): 04022244
+AB - Base isolation is an effective seismic design strategy that has received considerable attention in recent decades. This research is dedicated to developing a response spectrum method (RSM) for analysis of base-isolated structures under seismic excitation. A novel analytical model consisting of a linear superstructure under equivalent base excitations is proposed in the present study. To determine the response spectra corresponding to the base excitations, termed as the base response spectra, a sufficient number of samples of base excitations comprising base responses need to be obtained through time-history analysis of the nonlinear base-isolated structure in conjunction with the Monte Carlo simulation (MCS). To improve the efficiency for each sample analysis, the recently proposed explicit time-domain method (ETDM) is utilized for fast analysis of the base acceleration and velocity responses with a dimension-reduced iteration scheme. Once the base response spectra are obtained, the mean peak values (MPVs) of structural responses of the linear superstructure can be conveniently evaluated through the complete quadratic combination (CQC) rule. A 4-story nonlinear base-isolated frame structure was analyzed to validate the effectiveness of the proposed analytical model and the feasibility of the present approach for seismic response analysis of nonlinear base-isolated structures.
+
+
+    
+        AU - Gang Xu
+    
+        AU - Tong Guo
+    
+        AU - Aiqun Li
+    
+
+TI - Self-Centering Rotational Joints for Seismic Resilient Steel Moment Resisting Frame
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022245
+VI - 149
+IP - 2
+AID - 10.1061/JSENDH.STENG-11475 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11475
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11475
+SO - Journal of Structural Engineering 2023-02-01 149(2): 04022245
+AB - A novel self-centering rotational joint (SCRJ) was proposed to replace the plastic hinge at the beam end to achieve a seismic resilient frame without diminishing the structural usability. The quasi-static cyclic tests of the SCRJs with different sets of friction components and disc springs were conducted, with the results showing that the precompressive force, stiffness of the compressive force, and slope angle of the right helicoid surfaces can significantly affect the hysteresis behavior. The hysteresis curve of the SCRJ demonstrates a flag shape with four characteristic states: activation state, ultimate state, reversal activation state, and deactivation state. The displacement-based design approach was adopted for the resilient steel moment resisting frame structure with the SCRJs based on which a six-story resilient frame structure was designed with the SCRJs at the beam ends. The nonlinear dynamic analysis shows that the interstory drift ratio and residual interstory drift ratio of the resilient frame structure can meet the design objectives, in which the SCRJs reach the plastic state (caused by geometric nonlinearity) more easily than conventional plastic hinges (caused by material plasticity), resulting in larger deformations, and can effectively dissipate seismic energy and protect the main frame from yielding under the rarely occurring earthquake (ROE) level.
+
+
+    
+        AU - Diego R. Martinez
+    
+        AU - Mervyn J. Kowalsky
+    
+
+TI - Influence of Viscous Damping Models on the Inelastic Response of Reinforced Concrete Columns and Bridges
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022246
+VI - 149
+IP - 2
+AID - 10.1061/JSENDH.STENG-11040 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11040
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11040
+SO - Journal of Structural Engineering 2023-02-01 149(2): 04022246
+AB - The appropriate estimation of displacements is crucial in performance-based design. Among the options to assess deformation demands, Nonlinear Time History Analysis (NLTHA) is the most sophisticated. However, previous research has shown that NLTHA is sensitive to the viscous damping model definition, and there is substantial disagreement in the engineering community regarding damping model choices. Thus, the goal of this paper is to show the impact of viscous damping model assumptions on the nonlinear response of bridges. A displacement sensitivity study was conducted on several multi-span bridges using various viscous damping models and earthquake records. The results indicate that the mean displacement varies as a function of the displacement ductility level and damping model. In order of ascending displacement demand, the Wilson-Penzien model had the lowest demands followed by the Rayleigh-Initial stiffness, Mass proportional, Rayleigh-Tangent stiffness, Tangent stiffness proportional damping, and Zero-damping. Also, this paper proposes a new viscous damping model. We expect these findings to help practitioners understand the implications of the choice of the damping model and guide the analyst when selecting damping parameters.
+
+
+    
+        AU - Hongdong Ran
+    
+        AU - Liangxiong Jian
+    
+        AU - Yunmei Ma
+    
+        AU - Yao Sun
+    
+
+TI - Behavior of Stainless-Steel Hot-Rolled Channel Section Beam–Columns: Testing, Modeling, and Design
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022247
+VI - 149
+IP - 2
+AID - 10.1061/JSENDH.STENG-11820 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11820
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11820
+SO - Journal of Structural Engineering 2023-02-01 149(2): 04022247
+AB - This paper presents a testing and numerical modeling program on the global stability and resistance of stainless steel hot-rolled channel section beam–columns under combined compression and minor-axis bending. The testing program comprised material tests, imperfection measurements, and 18 beam–column tests. Following the testing program, systematic numerical simulations were conducted; finite-element models were developed to simulate the test observations and conduct parametric studies to obtain more numerical data. The obtained experimental and numerical results were analyzed and used to perform a design analysis, in which the accuracy of interaction curves prescribed in the US and European design codes for stainless steel hot-rolled channel section beam–columns was assessed comprehensively. The results of the design analysis generally revealed that both the US and European interaction curves yield unduly inaccurate and scattered resistance predictions due to the use of inappropriate curve shape and inaccurate end points. A new design interaction formula is proposed using a more appropriate curve shape and more-accurate end points. The new interaction curve was shown to be capable of offering greatly improved design accuracy and consistency compared with the US and European curves.
+
+
+    
+        AU - Shaghayegh Abtahi
+    
+        AU - Yong Li
+    
+
+TI - Investigation of Corroded Bond-Slip Effects for Corroded RC Columns
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022248
+VI - 149
+IP - 2
+AID - 10.1061/JSENDH.STENG-11444 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11444
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11444
+SO - Journal of Structural Engineering 2023-02-01 149(2): 04022248
+AB - Steel bar corrosion is one of the most common causes of structural performance degradation for reinforced concrete (RC) columns subjected to extreme loads such as earthquakes. Due to the different characteristics of corrosion effects, a comprehensive and efficient finite element (FE) modeling approach is necessary for the performance assessment of corroded RC columns. To this end, this study provides an effective FE modeling approach using a recently developed geometrically nonlinear fiber-based frame element that considers bond-slip, allowing for explicit representation of corrosion-affected bonding. This aspect necessitates the use of an explicit material model for corroded bond-slip and its associated corroded properties. Since the existing models of corroded bonding properties in the literature were developed based on the highly scattered and limited experimental data, this study develops a new probabilistic model for corroded bonding properties based on more experimental data compiled from the literature and quantifies the prevailing uncertainties. To facilitate its use for modeling corroded RC structures, a cyclic corroded bond-slip model in an open-source FE software framework is implemented. In this paper, the FE modeling approach is first used to model two corroded RC columns tested in the literature, with comparison to the conventional modeling approach (i.e.,&nbsp;assuming perfect bonding). The influence of corroded bonding on the static and dynamic behaviors of RC columns is further explored deterministically. Furthermore, the impact of uncertainty in corroded bonding properties on the static and dynamic behavior simulations of RC columns is examined. This work is concluded that (1)&nbsp;the FE modeling approach provided for corroded RC columns proves to be effective in capturing corrosion effects; and (2)&nbsp;corroded bonding plays an important role in simulating the behavior of corroded RC columns, and thus cannot be neglected. This is particularly true considering its associated uncertainty and its impact on the performance assessment of RC columns under severe corrosion conditions.
+
+
+    
+        AU - Mohamed Afifi
+    
+        AU - Robert Tremblay
+    
+        AU - Colin A. Rogers
+    
+
+TI - Design and Detailing Recommendations of Slotted-Hidden-Gap Connection for Square HSS Brace Members
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 04022249
+VI - 149
+IP - 2
+AID - 10.1061/JSENDH.STENG-11609 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-11609
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-11609
+SO - Journal of Structural Engineering 2023-02-01 149(2): 04022249
+AB - The slotted-hidden-gap (SHG) connection eliminates the need to reinforce the slot region of hollow structural sections (HSS) braces of concentrically braced frames (CBFs). However, the existing design approach for SHG connections is rather empirical and limited by the range of the connection geometries and materials that had previously been tested. A general design approach based on the findings of a large-scale parametric study is presented in this paper, where the most critical parameters of the connection were varied. Different weld configurations were investigated to examine the effect of shear lag on the overall performance of the brace. The inelastic performance of SHG-connected braces designed using the proposed approach was validated by means of numerically simulating the resulting braces and connections and subjecting them to a reversed-cyclic loading protocol. The simulated braces were able to attain their yield tensile resistance and fracture away from the connection region while sustaining an axial deformation corresponding to an average story drift of 5.43%. The proposed design and detailing method was, as such, found to be effective in the design of square HSS SHG connection braces ranging in size and steel grade.
+
+
+TI - Reviewers
+PT - Journal Article
+DP - 2023
+TA - Journal of Structural Engineering
+PG - 09022001
+VI - 149
+IP - 2
+AID - 10.1061/JSENDH.STENG-12120 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12120
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12120
+SO - Journal of Structural Engineering 2023-02-01 149(2): 09022001
+
+

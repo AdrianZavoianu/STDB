@@ -1,0 +1,382 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Sashi K. Kunnath
+    
+
+TI - Editor’s Note
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1349-1350
+VI - 133
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2007)133:10(1349) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281349%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281349%29
+SO - Journal of Structural Engineering 2007-10-01 133(10): 1349-1350
+
+
+    
+        AU - Honggun Park
+    
+        AU - Taesung Eom
+    
+
+TI - Truss Model for Nonlinear Analysis of RC Members Subject to Cyclic Loading
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1351-1363
+VI - 133
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2007)133:10(1351) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281351%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281351%29
+SO - Journal of Structural Engineering 2007-10-01 133(10): 1351-1363
+AB - The nonlinear finite-element analysis of RC members subjected to cyclic loading requires complicated modeling and analytical techniques. In the present study, a simplified nonlinear analytical method using a truss model was developed. In the nonlinear truss model, a RC member was idealized by longitudinal, transverse, and diagonal truss elements. Each element was modeled as a composite element of the concrete and the reinforcing bar. Cyclic stress–strain relationships were developed in order to describe the nonlinear behavior of the composite concrete and reinforcing-bar elements. The nonlinear truss model was applied to existing test specimens with various reinforcing-bar layouts under various loading conditions. The results predicted by the nonlinear truss model were compared with the test results. The comparison revealed that the nonlinear truss model predicted the load-carrying capacity and energy dissipation of the test specimens with reasonable precision. However, to estimate the deformation capacity of the specimens, the compression softening of concrete struts and the buckling and fracture of the reinforcing bar must be predicted more accurately.
+
+
+    
+        AU - M. Fernández Ruiz
+    
+        AU - A. Muttoni
+    
+        AU - P. G. Gambarova
+    
+
+TI - Analytical Modeling of the Pre- and Postyield Behavior of Bond in Reinforced Concrete
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1364-1372
+VI - 133
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2007)133:10(1364) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281364%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281364%29
+SO - Journal of Structural Engineering 2007-10-01 133(10): 1364-1372
+AB - This paper presents the theoretical basis and the main results of an analytical model that describes the pre- and postyield response of bond in reinforced concrete, as well as its influence on the behavior of structural members. The model is based on a number of reasonable assumptions that simplify the differential equation governing the phenomenon. In this way, a closed-form integration is feasible in certain cases, and relatively simple but accurate expressions can be worked out for the interface slip, the strain, and the stress in the reinforcement and the bond stress at the bar–concrete interface. Applications are made to different structural members (pull-out specimens, tension ties, and beams in bending), whose behavior is well documented in the literature. The agreement between the available test data turns out to be quite satisfactory. Consequently, the proposed model can be usefully adopted for studying the serviceability behavior, the ductility and the postyield response of a variety of reinforced-concrete members.
+
+
+    
+        AU - G. E. Thermou
+    
+        AU - S. J. Pantazopoulou
+    
+        AU - A. S. Elnashai
+    
+
+TI - Flexural Behavior of Brittle RC Members Rehabilitated with Concrete Jacketing
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1373-1384
+VI - 133
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2007)133:10(1373) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281373%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281373%29
+SO - Journal of Structural Engineering 2007-10-01 133(10): 1373-1384
+AB - The composite flexural action of prismatic reinforced concrete (RC) members repaired/strengthened by RC jacketing was modeled with a dual-section approach. The model considers the relative slip at the interface between the existing member and the jacket and establishes the mechanisms that are mobilized to resist this action, thereby supporting composite behavior. An iterative step-by-step incremental algorithm was developed for calculating the overall flexural response curve. Consideration of frictional interlock and dowel action associated with sliding at the interfaces as well as the spacing and penetration of flexure-shear cracks are key aspects of the algorithm. The proposed procedure was verified through comparison with published experimental data on RC jacketed members. The sensitivity of the upgraded member’s flexural response to jacket design variables was investigated parametrically. Monolithic response modification factors related to strength and deformation indices were evaluated and the sensitivity of the model was assessed.
+
+
+    
+        AU - Mario M. Attard
+    
+        AU - Alfonso Nappi
+    
+        AU - Francis Tin-Loi
+    
+
+TI - Modeling Fracture in Masonry
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1385-1392
+VI - 133
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2007)133:10(1385) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281385%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281385%29
+SO - Journal of Structural Engineering 2007-10-01 133(10): 1385-1392
+AB - A finite element procedure developed for the study of fracture in concrete is extended for the simulation of tensile and/or shear fracture in masonry. Triangular units are grouped into rectangular zones mimicking brick units with surrounding mortar joints. Fracture is captured through a constitutive softening-fracture law at the boundary interface nodes. The mortar joint, which is a plane of weakness, can be modeled as an interface of zero thickness or of a given thickness. At each nodal location, there exist essentially two nodes, the relative displacement (i.e., crack opening or sliding) of which is related to the conjugate internodal force by the appropriate softening relationship. The model is ideally suited to the modeling of fracture in masonry because fracture usually runs along a horizontal or vertical joint in the mortar or is approximately vertical in the brick unit. The inelastic failure properties are divided into those for the mortar joints and those for fracture within the brick units. The inelastic failure surface is modeled using a Mohr–Coulomb failure surface with a tension cut-off. Examples which include: Direct tension, microshear, and three-point bending of masonry panels are used to verify the formulation.
+
+
+    
+        AU - Robert B. Fleischman
+    
+        AU - Xuejun Li
+    
+        AU - Yong Pan
+    
+        AU - Ali Sumer
+    
+
+TI - Cast Modular Panel Zone Node for Steel Special Moment Frames. I: Analytical Development
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1393-1403
+VI - 133
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2007)133:10(1393) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281393%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281393%29
+SO - Journal of Structural Engineering 2007-10-01 133(10): 1393-1403
+AB - A panel zone dissipator modular node (PZ-MN) has been developed for use in seismic-resistant steel moment frames. The PZ-MN is configured directly for optimal seismic performance through a casting process. The PZ-MN dissipates energy through stable yielding of the panel zone. This objective is accomplished by mitigating the effects of panel zone distortion on surrounding members and connections. Field welds are removed from critical cross sections and demands are redirected in noncritical paths. A cast piece easily accommodates the geometries and features to meet this objective. The PZ-MN was developed through a comprehensive analytical research program and verified through full-scale experimentation. This paper describes the analytical development stage. Investigation of trial configurations, key parameters, and enhancements resulted in a prototype design for the PZ-MN. The PZ-MN prototype shows the potential for excellent seismic performance, including under the combined effects of lateral and gravity load. This performance is experimentally verified in a companion paper.
+
+
+    
+        AU - Robert B. Fleischman
+    
+        AU - Nathan J. Palmer
+    
+        AU - Ge Wan
+    
+        AU - Xuejun Li
+    
+
+TI - Cast Modular Panel Zone Node for Steel Special Moment Frames. II: Experimental Verification and System Evaluation
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1404-1414
+VI - 133
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2007)133:10(1404) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281404%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281404%29
+SO - Journal of Structural Engineering 2007-10-01 133(10): 1404-1414
+AB - A companion paper has described the analytical development of a panel zone dissipator modular node (PZ-MN) prototype for use in seismic-resistant steel moment frames. The PZ-MN dissipates energy through stable yielding of its panel zone, an objective accomplished by mitigating the effects of panel zone distortion on the surrounding members. The PZ-MN is configured directly for this purpose through a casting process. This paper presents experimental verification of the PZ-MN prototype. This process relied heavily on interaction with industry partners to create a castable and constructible shape. The PZ-MN prototype was cast at full scale, fabricated and subjected to FEMA-350 qualification testing with and without gravity load. The PZ-MN prototype exhibited remarkable performance, greatly exceeding qualifying drift angles and possessing exceptional hysteretic characteristics. Using models based on these characteristics, frame performance is evaluated. Design guidelines are given on the basis of the analytical and experimental results.
+
+
+    
+        AU - David C. Weggel
+    
+        AU - Brian J. Zapata
+    
+        AU - Michael J. Kiefer
+    
+
+TI - Properties and Dynamic Behavior of Glass Curtain Walls with Split Screw Spline Mullions
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1415-1425
+VI - 133
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2007)133:10(1415) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281415%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281415%29
+SO - Journal of Structural Engineering 2007-10-01 133(10): 1415-1425
+AB - Recent terrorist events have underscored the importance of designing glass curtain walls as engineered systems. For most building owners, however, it is usually an unjustifiable expense to have a curtain wall designed to provide a high level of blast resistance. This paper investigates the serviceability of an economical, nearly conventional, glass curtain wall system that provides a low level of blast resistance in appropriate applications. A conventional, split screw spline mullion system is utilized with laminated glass lites properly attached to the mullions with structural silicone sealant. The response of this system to service load conditions is first explored through static and dynamic experimental testing. A simple finite-element model of the system is then calibrated to low-amplitude static test results. Finally, the calibrated model is used to perform modal and transient analyses that are compared to experimental free vibration responses. The model was found to provide results that agree well with experimental responses, indicating that the primary properties have been adequately defined for reliable serviceability investigations.
+
+
+    
+        AU - Fabien Delhomme
+    
+        AU - Michel Mommessin
+    
+        AU - Jean-Pierre Mougin
+    
+        AU - Pascal Perrotin
+    
+
+TI - Damage Mechanisms of a Reinforced Concrete Rock-Shed Slab Impacted by Blocks
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1426-1433
+VI - 133
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2007)133:10(1426) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281426%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281426%29
+SO - Journal of Structural Engineering 2007-10-01 133(10): 1426-1433
+AB - In mountainous areas, accidental rock falls are common hazards, which can cause a lot of damage. The passive protection systems of roads are usually rock-shed galleries composed of reinforced concrete elements. In this paper, a new type of structure is presented. The main innovation, compared to conventional solutions, is to dissipate the impact energy directly into the reinforced concrete slab or into fuse supports, and no longer into a cushion layer. The dynamic phenomena, taking place during the impact of a block onto the slab, are analyzed by means of experiments on a one-third-scale model (slab of 
+
+12
+m×4.80
+m×0.28
+m
+
+) of a real structure. The results made it possible to validate the operating and repair principles of the structurally dissipation rock-shed and revealed that the slab is damaged by three main mechanisms: punching, bending, and surface level breaking below of the impacted zone. These three damage modes are analyzed by means of data resulting from the various experimental tests.
+
+
+    
+        AU - Ramiro Vargas
+    
+        AU - Michel Bruneau
+    
+
+TI - Effect of Supplemental Viscous Damping on the Seismic Response of Structural Systems with Metallic Dampers
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1434-1444
+VI - 133
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2007)133:10(1434) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281434%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281434%29
+SO - Journal of Structural Engineering 2007-10-01 133(10): 1434-1444
+AB - Metallic dampers can enhance structural performance by reducing seismically induced lateral displacements, and by reducing inelastic behavior of beams and columns. Limiting story drift also indirectly allows us to mitigate damage of nonstructural components that are sensitive to lateral deformations. However, many nonstructural elements and components are vulnerable to excessive accelerations. Therefore, in order to protect these components, floor accelerations in buildings should be kept below certain limits. In this perspective, this paper investigates the seismic performance of single-degree-of-freedom (SDOF) systems with metallic and viscous dampers installed in parallel, to determine the effectiveness or appropriateness of using metallic dampers to mitigate lateral displacements, simultaneously with viscous dampers to reduce acceleration demands, knowing that their behavior is fundamentally different (i.e., metallic dampers are displacement dependent, whereas velocity dampers are velocity dependent). The effect of a combination of these damping systems is, therefore, studied for SDOF structures as a contribution to the state-of-the-art of seismic protection of nonstructural components. Parametric analyses investigate the effectiveness of adding various levels of viscous damping on the equivalent hysteretic damping and on the spectral floor acceleration for short, intermediate, and long period structures. Argand diagrams are used to explain why in some instances it is observed that adding viscous dampers to strongly inelastic systems can result in increases in floor acceleration (rather than the intended decreases). Results from this study are also applicable to buildings that have been retrofitted with viscous dampers and whose original frame still behaves inelastically after the retrofit.
+
+
+    
+        AU - Durgesh C. Rai
+    
+        AU - Subhash C. Goel
+    
+
+TI - Seismic Strengthening of Rocking-Critical Masonry Piers
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1445-1452
+VI - 133
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2007)133:10(1445) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281445%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281445%29
+SO - Journal of Structural Engineering 2007-10-01 133(10): 1445-1452
+AB - Systems of discrete wall piers and spandrels created by large openings are particularly weak in resisting in-plane lateral loads. The rocking piers thus stabilized by hold-down vertical forces have excellent strength, stiffness, and ductility in a very stable manner for a safer and better performance under lateral loads. However, the undesirable compressive mode of failure of stabilized rocking piers at larger drifts can be eliminated by the use of yielding energy dissipation device to limit the forces in verticals and thereby the compression force in rocking piers. A displacement-based design procedure can be used to design the energy dissipation devices and other stabilizing elements. A simple mechanics model is developed for the nonlinear load–deformation relationship of the stabilized piers which is accurate enough for design purposes. This performance-based design scheme rationally accounts for the superior ductility and energy dissipation characteristics of strengthened rocking piers.
+
+
+    
+        AU - Javier Avilés
+    
+        AU - Luis Eduardo Pérez-Rocha
+    
+
+TI - Damage Analysis of Structures on Elastic Foundation
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1453-1461
+VI - 133
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2007)133:10(1453) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281453%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281453%29
+SO - Journal of Structural Engineering 2007-10-01 133(10): 1453-1461
+AB - A performance-based design methodology is aimed at controlling the structural damage based on precise estimations of the seismic response of the whole building–foundation system. This work presents a simplified procedure for practical damage analysis of structures considering the soil–structure interaction effects, with potential application to performance-based design of new buildings as well as to performance-based evaluation of existing buildings. A damage model based on maximum displacement and dissipated energy under monotonic loading is proposed, with the effects of cyclic load reversals being estimated by using a modified Park–Ang index. To simplify the consideration of the soil–structure interaction effects, an equivalent fixed-base oscillator with the same yield strength and energy dissipation capacity as the actual flexible-base structure is applied. Selected numerical results are presented in terms of dimensionless parameters for their general application, using a set of appropriate earthquake motions for ensuring generality of conclusions. The significance of soil–structure interaction in the structural performance is elucidated and the adequacy of the approach proposed is examined.
+
+
+    
+        AU - X. K. Zou
+    
+        AU - C. M. Chan
+    
+        AU - G. Li
+    
+        AU - Q. Wang
+    
+
+TI - Multiobjective Optimization for Performance-Based Design of Reinforced Concrete Frames
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1462-1474
+VI - 133
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2007)133:10(1462) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281462%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281462%29
+SO - Journal of Structural Engineering 2007-10-01 133(10): 1462-1474
+AB - In order to meet the emerging trend of performance-based design of structural systems, attempts have been made to develop a multiobjective optimization technique that incorporates the performance-based seismic design methodology of concrete building structures. Specifically, the life-cycle cost of a reinforced concrete building frame is minimized subject to multiple levels of seismic performance design criteria. In formulating the total life-cycle cost, the initial material cost can be expressed in terms of the design variables, and the expected damage loss can be stated as a function of seismic performance levels and their associated failure probability by the means of a statistical model. Explicit formulation of design constraints involving inelastic drift response performance caused by pushover loading is expressed with the consideration of the occurrence of reinforced concrete plasticity and the formation of plastic hinges. Due to the fact that the initial material cost and the expected damage loss are conflicting by nature, the life-cycle cost of a building structure can be posed as a multiobjective optimization problem and solved by the 
+
+ε
+
+–constraint method to produce a Pareto optimal set, from which the best compromise solution can be selected. The methodology for each Pareto optimal solution is fundamentally based on the Optimality Criteria approach. A ten-story planar framework example is presented to illustrate the effectiveness of the proposed optimal design method.
+
+
+    
+        AU - M. Di Paola
+    
+        AU - L. La Mendola
+    
+        AU - G. Navarra
+    
+
+TI - Stochastic Seismic Analysis of Structures with Nonlinear Viscous Dampers
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1475-1478
+VI - 133
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2007)133:10(1475) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281475%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281475%29
+SO - Journal of Structural Engineering 2007-10-01 133(10): 1475-1478
+AB - Fluid damper devices inserted in buildings or bridges are commonly used as energy sinks for seismic protection. In the response analysis of structures with filled damper devices the main problem exists in the strong nonlinear behavior of such equipment, as a consequence the differential equation of motion remains nonlinear and the response spectrum analysis still cannot be applied. In this note, by using the concept of power spectral density function coherent with the elastic response spectrum and by using the statistical linearization technique, expressions for finding the equivalent linear damping have been found. Comparisons with results obtained by Monte Carlo simulations confirm that for the kind of nonlinearity induced by fluid dampers the statistical linearization technique gives satisfactory results in terms of second order moments, as well as in terms of absolute maximum peak response. The latter is evaluated by the semiempirical formulation of Vanmarcke.
+
+
+    
+        AU - Clive L. Dym
+    
+        AU - Harry E. Williams
+    
+
+TI - Estimating Fundamental Frequencies of Tall Buildings
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1479-1483
+VI - 133
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2007)133:10(1479) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281479%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281479%29
+SO - Journal of Structural Engineering 2007-10-01 133(10): 1479-1483
+AB - Empirical estimates of the fundamental frequency of tall buildings vary inversely with their height, a dependency not exhibited by the various familiar models of beam behavior. This paper examines and explains this apparent discrepancy by analyzing the consequences of using two models to estimate such natural frequencies: A two-beam model that couples the bending of a classical cantilever to that of a shear beam by imposing a displacement constraint; and a Timoshenko beam in which the Euler–Bernoulli beam model is extended by adding a shear-displacement term to the classical bending deflection. A comparison of the two beam models suggests that the Timoshenko model is appropriate for describing the behavior of shear-wall buildings, while the coupled two-beam model is appropriate for shear-wall–frame (e.g., tube-and-core) buildings, and that the coupled-beam model comes much closer to replicating the parametric dependence of building frequency on height.
+
+
+    
+        AU - Emil Simiu
+    
+
+TI - Discussion of “Peak Wind Load Comparison: Theoretical Estimates and ASCE 7” by Henry W. Tieleman, Mohamed A. K. Elsayed and Muhammad R. Hajj
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1484-1485
+VI - 133
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2007)133:10(1484) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281484%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281484%29
+SO - Journal of Structural Engineering 2007-10-01 133(10): 1484-1485
+
+
+    
+        AU - H. W. Tieleman
+    
+        AU - M. A. K. Elsayed
+    
+        AU - M. R. Hajj
+    
+
+TI - Closure to “Peak Wind Load Comparison: Theoretical Estimates and ASCE 7” by Henry W. Tieleman, Mohamed A. K. Elsayed and Muhammad R. Hajj
+PT - Journal Article
+DP - 2007
+TA - Journal of Structural Engineering
+PG - 1485-1486
+VI - 133
+IP - 10
+AID - 10.1061/(ASCE)0733-9445(2007)133:10(1485) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281485%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282007%29133%3A10%281485%29
+SO - Journal of Structural Engineering 2007-10-01 133(10): 1485-1486
+
+

@@ -1,0 +1,600 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Aylmer P. Cheng
+    
+        AU - Howard L. Furr
+    
+
+TI - Beams on Discrete, Nonlinear Elastic Supports
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2335-2352
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002392 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002392
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002392
+SO - Journal of the Structural Division 1969-11-01 95(11): 2335-2352
+AB - A matrix method of analyzing beams on discrete, nonlinear elastic supports is presented. Basic beam theory and Newton-Raphson's iteration technique is used for the solution. This approach relates the boundary conditions at the left end of the beam to those at the right end as a function of the beam properties, spring characteristics, and loading conditions. Determination of the conditions at the two ends of the beam permits subsequent solution of the whole beam by successive implementation of the transfer matrix technique. Two example problems are presented to demonstrate the application of the method.
+
+
+    
+        AU - Conrad P. Heins
+    
+        AU - Robert L. Hails
+    
+
+TI - Behavior of stiffened Curved Plate Model
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2353-2370
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002393 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002393
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002393
+SO - Journal of the Structural Division 1969-11-01 95(11): 2353-2370
+AB - The solution of the orthotropic plate equation, in polar coordinates, is obtained by the finite difference technique. The boundary conditions are imposed such that simple supports along the radial edges and free supports along the angular edges are prescribed. Fifteen various mesh pattern equations are developed; six of these patterns are described. The solution of these equations, representing a particular subdivided plate sector, is solved by a computer program. The internal forces throughout the plate are also evaluated by the finite difference method, utilizing the deflection data and a computer program. To evaluate the validity of the technique, a stiffened curved steel plate model was tested. Separate stiffness model tests were also conducted to evaluate experimentally the angular and radial stiffnesses and torsional stiffness, which were compared to the calculated stiffnesses. Proper evaluation of the plate stiffnesses resulted in analytical deflections and strains, which correlated very well with the experimental data.
+
+
+    
+        AU - James H. Lee
+    
+        AU - Colin O'Connor
+    
+        AU - John W. Fisher
+    
+
+TI - Effect of Surface Coatings and Exposure on Slip
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2371-2384
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002394 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002394
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002394
+SO - Journal of the Structural Division 1969-11-01 95(11): 2371-2384
+AB - Eighteen joints of A36 steel were tested to investigate the effects of surface coatings on slip behavior. All specimens were double lap butt splices with A325 high-strength bolts and were initially blast cleaned. Three joints had slotted holes. Three were exposed 2, 6, and 12 months without protective coatings. Nine were treated with vinyl wash and linseed oil and exposed to an industrial environment for two months before testing. Three were treated with vinyl wash coating without exposure. The slotted holes and the exposure without protection reduced the slip coefficient. There was no significant effect in the slip resistance with or without two months exposure to industrial environment.
+
+
+    
+        AU - Francis L. LaQue
+    
+
+TI - Factors Affecting Durability of Ferrous Metals in the Atmosphere
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2385-2400
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002395 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002395
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002395
+SO - Journal of the Structural Division 1969-11-01 95(11): 2385-2400
+AB - The corrosivity of the atmosphere in which a light gage ferrous metal is to be used must be considered. The corrosivity of unalloyed steel can vary through wide limits with a range as great as 8,500 to 1. It is probably more useful to compare the slopes of weight loss versus time curves for different steels rather than the ratios of weight losses at a particular time because alloy steels use a finite amount of thickness to form a protective layer of corrosion products (rust). The formation of this protective layer is favored by bold rather than partially sheltered exposure. The advantages of using alloy steels increase with the increasing corrosivity of the atmosphere. Paint coatings on alloy steels are superior to those on unalloyed steels. The austenitic stainless steels do not suffer a significant loss in thickness or mechanical properties when exposed for long periods of time to very corrosive atmospheres. The corrosion resistance and the properties of stainless steels can be utilized to achieve lighter structures for use in the atmosphere or in fresh water.
+
+
+    
+        AU - W. D. Whetstone
+    
+
+TI - Computer Analysis of large Linear Frames
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2401-2418
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002396 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002396
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002396
+SO - Journal of the Structural Division 1969-11-01 95(11): 2401-2418
+AB - A procedure for static analysis of linear frames is described which deals exclusively with nonzero submatrices of the structure's stiffness matrix, thus virtually eliminating trivial arithmetic. The bookkeeping operations involved in the procedure require only a small amount of computer execution time; accordingly, low computer costs are obtained. The procedure involves no restrictions on stiffness matrix band width, as band matrix methods are not used. Frame and finite-element programs based on this procedure are applicable to structures having many thousands of degrees-of-freedom. Detailed execution cost data are given.
+
+
+    
+        AU - Chiyyarath V. Girijavallabhan
+    
+
+TI - Buckling Loads of Nonuniform Columns
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2419-2432
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002397 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002397
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002397
+SO - Journal of the Structural Division 1969-11-01 95(11): 2419-2432
+AB - Using finite-difference method, the buckling problem of a hinged-hinged column is expressed as a linear algebraic eigenvalue problem. An iterative procedure to evaluate accurately the minimum eigenvalue of the involved coefficient matrix, without recourse to the characteristic equation or inversion of the matrix, is presented. By the method of Rayleigh and Kato, the upper and lower bounds of the minimum eigenvalue of the coefficient matrix are evaluated. Iteration is used to bring the upper and lower bounds closer together until they are almost equal. Another feature of the method is its capability to find the buckling loads of columns which have discontinuities in the value of moment of inertia by introducing a new concept of equivalent flexural stiffness. The use of equivalent stiffness gives more exact results with fewer divisions of the beam. Several typical examples are solved and results given.
+
+
+    
+        AU - William F. Bates
+    
+        AU - William M. Cox
+    
+
+TI - Structural Analysis by Computer Graphics
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2433-2448
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002398 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002398
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002398
+SO - Journal of the Structural Division 1969-11-01 95(11): 2433-2448
+AB - Deals with the emerging uses of computer graphics in the field of structural engineering and design, especially in the transference of numerical output into visual graphical form. Describes a Two-Dimensional Structure Analysis program through an IBM 360/50 Computer system at Lockheed-Georgia Laboratory. Civil Engineering is considered as a prime field for implementation of computer graphics, which would reduce calculation time; quantity of input would be reduced greatly by IBM program. Future expansion of computer graphics in engineering is described. Uses being developed presently include some which will display three-dimensional structural arrangements and permit broader man-machine interaction in input and output phases. Also under development is the kinematic analysis of three-dimensional mechanisms to optimize space requirements and maintain clearance. Computer graphics points the way toward better man-machine communication in all phases of design.
+
+
+    
+        AU - Gayle E. Albritton
+    
+
+TI - Deep Slabs Subjected to Static and Blast Loading
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2449-2462
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002399 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002399
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002399
+SO - Journal of the Structural Division 1969-11-01 95(11): 2449-2462
+AB - The results of experimental static tests on square, deep, reinforced and plain concrete slabs show that the governing mode of failure is shear. The magnitude of static failure overpressures ranged from 810 psi to 1,683 psi. The deep, reinforced and plain concrete slabs tested in the field were subjected to a peak air-blast pressure of approximately 5,000 psi. Based on post test visual examination of the field test slabs, their response appeared to be similar to the shallower deep slabs tested statically, i.e. the mode of response was shear. Static tests were conducted on 21 deep-slab specimens having a constant span-to-thickness ratio, L/t, of 4.12. Six additional deep-slab specimens were included in a field test, with three slabs having an L/t ratio of 3.5 and three a ratio of 2.6. All of the slabs had a constant square length of 30.25 in. and were supported over a 24-in. diam clear span.
+
+
+    
+        AU - Maurice L. Sharp
+    
+
+TI - Field Tests of Aluminum Orthotropic Bridge Deck
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2463-2476
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002400 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002400
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002400
+SO - Journal of the Structural Division 1969-11-01 95(11): 2463-2476
+AB - Field tests of a lightweight aluminum bridge deck of orthotopic construction provided stresses and deflections in the deck plate and ribs caused by a truck loaded to 20 tons. A typical panel, shop fabricated complete with a 3/8-in. thick polyester resin-silica sand wear surface, was instrumented with electrical resistance strain gages and dial gages. Stresses and deflections were determined for 18 different positions of the truck on the panel. Stresses caused by the moving truck were evaluated for truck speeds up to about 20 mph. The test data for static loadings are compared to values calculated using available design methods.
+
+
+    
+        AU - Ronald J. Alvarez
+    
+        AU - Charles Birnstiel
+    
+
+TI - Inelastic Analysis of Multistory Multibay Frames
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2477-2506
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002401 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002401
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002401
+SO - Journal of the Structural Division 1969-11-01 95(11): 2477-2506
+AB - An incremental load procedure is presented for determining the elasto-plastic behavior of plane rectangular rigid frames from the unloaded state to the ultimate carrying capacity. The procedure utilizes the displacement method of analysis and includes the effects of joint displacement, strain reversal, axial force, and spread of the inelastic zones in the members. The numerical procedure was programmed to study bending and bifurcation failures of fixed base portal and multibay, multistory frames under proportional and nonproportional loading. On the basis of the frames studied the inclusion of joint displacements in the analysis had a significant effect on the computed value of the ultimate carrying capacity of the structure. The studies indicated that the value for the determinant of the stiffness matrix approaches zero at the ultimate carrying capacity regardless of whether the frame fails by bifurcation or by bending, elastically or inelastically.
+
+
+    
+        AU - August J. Durelli
+    
+        AU - Carlos J. Del Rio
+    
+        AU - Vincent J. Parks
+    
+        AU - Henry Feng
+    
+
+TI - Discussion of “Stresses in a Pressurized Cylinder with a Hole”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2507-2507
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002402 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002402
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002402
+SO - Journal of the Structural Division 1969-11-01 95(11): 2507-2507
+
+
+    
+        AU - Samuel Aroni
+    
+
+TI - Closure to “Slender Prestressed Concrete Columns”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2508-2509
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002403 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002403
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002403
+SO - Journal of the Structural Division 1969-11-01 95(11): 2508-2509
+
+
+    
+        AU - Ralph R. Mozingo
+    
+
+TI - Closure to “Matrix Distribution”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2511-2511
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002404 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002404
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002404
+SO - Journal of the Structural Division 1969-11-01 95(11): 2511-2511
+
+
+    
+        AU - William E. Saul
+    
+
+TI - Closure to “Static and Dynamic Analysis of Pile Foundations”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2511-2512
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002405 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002405
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002405
+SO - Journal of the Structural Division 1969-11-01 95(11): 2511-2512
+
+
+    
+        AU - Calvin O. Cramer
+    
+
+TI - Closure to “Load Distribution in Multiple-Bolt Tension Joints”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2513-2513
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002406 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002406
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002406
+SO - Journal of the Structural Division 1969-11-01 95(11): 2513-2513
+
+
+    
+        AU - Alfred Korn
+    
+        AU - Theodore V. Galambos
+    
+
+TI - Closure to “Behavior of Elastic-Plastic Frames”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2513-2515
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002407 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002407
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002407
+SO - Journal of the Structural Division 1969-11-01 95(11): 2513-2515
+
+
+    
+        AU - E. Whitman Wright
+    
+        AU - Edwin H. Gaylord
+    
+
+TI - Closure to “Analysis of Unbraced Multistory Steel Rigid Frames”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2517-2518
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002408 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002408
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002408
+SO - Journal of the Structural Division 1969-11-01 95(11): 2517-2518
+
+
+    
+        AU - John F. McDermott
+    
+
+TI - Closure to “Single-Layer Corrugated-Steel-Sheet Hypars”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2518-2519
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002409 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002409
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002409
+SO - Journal of the Structural Division 1969-11-01 95(11): 2518-2519
+
+
+    
+        AU - John E. Breen
+    
+
+TI - Closure to “Fabrication and Tests of Structural Models”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2520-2520
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002410 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002410
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002410
+SO - Journal of the Structural Division 1969-11-01 95(11): 2520-2520
+
+
+    
+        AU - Robert F. Mast
+    
+
+TI - Closure to “Auxiliary Reinforcement in Concrete Connections”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2520-2521
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002411 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002411
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002411
+SO - Journal of the Structural Division 1969-11-01 95(11): 2520-2521
+
+
+    
+        AU - Alexander Chajes
+    
+
+TI - Closure to “Inelastic Deflections of Beams”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2522-2522
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002412 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002412
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002412
+SO - Journal of the Structural Division 1969-11-01 95(11): 2522-2522
+
+
+    
+        AU - Boris Bresler
+    
+        AU - Vitelmo Bertero
+    
+
+TI - Closure to “Behavior of Reinforced Concrete Under Repeated Load”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2523-2523
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002413 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002413
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002413
+SO - Journal of the Structural Division 1969-11-01 95(11): 2523-2523
+
+
+    
+        AU - Chen Pang Tan
+    
+        AU - Sidney Shore
+    
+
+TI - Closure to “Response of Horizontally Curved Bridge to Moving Load”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2523-2525
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002414 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002414
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002414
+SO - Journal of the Structural Division 1969-11-01 95(11): 2523-2525
+
+
+    
+        AU - Daniel Dicker
+    
+
+TI - Discussion of “Continuous Methods of Suspension Bridge Analysis”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2526-2528
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002415 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002415
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002415
+SO - Journal of the Structural Division 1969-11-01 95(11): 2526-2528
+
+
+    
+        AU - S. N. Lim
+    
+        AU - M. S. Mirza
+    
+        AU - N. C. Sinha
+    
+        AU - P. K. Gayen
+    
+
+TI - Discussion of “Reinforced Concrete Rectangular Columns in Torsion”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2528-2535
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002417 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002417
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002417
+SO - Journal of the Structural Division 1969-11-01 95(11): 2528-2535
+
+
+    
+        AU - Dong Woo Lee
+    
+
+TI - Discussion of “Yield Line Analysis of Folded Plate Structures”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2535-2537
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002418 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002418
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002418
+SO - Journal of the Structural Division 1969-11-01 95(11): 2535-2537
+
+
+    
+        AU - Hans J. Leutheusser
+    
+
+TI - Discussion of &#x201c;Wind Loads on Kresge Auditorium and Traveler's Building&#x201d;
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2537-2538
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002419 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002419
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002419
+SO - Journal of the Structural Division 1969-11-01 95(11): 2537-2538
+
+
+    
+        AU - Anatol A. Eremin
+    
+
+TI - Discussion of “Stability of Tensile Cracks in Prestressed Concrete Beams”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2538-2538
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002420 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002420
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002420
+SO - Journal of the Structural Division 1969-11-01 95(11): 2538-2538
+
+
+    
+        AU - A. A. Toprac
+    
+
+TI - Discussion of “Elasto-Plastic Deflection of Tubular Beams”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2539-2539
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002421 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002421
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002421
+SO - Journal of the Structural Division 1969-11-01 95(11): 2539-2539
+
+
+    
+        AU - Mehmet Çelebi
+    
+
+TI - Discussion of “Design and Analysis of Frames for Stability”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2540-2541
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002422 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002422
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002422
+SO - Journal of the Structural Division 1969-11-01 95(11): 2540-2541
+
+
+    
+        AU - David B. Beal
+    
+        AU - Robert J. Kissane
+    
+
+TI - Discussion of “Horizontally Curved Girders—State of the Art”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2541-2542
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002423 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002423
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002423
+SO - Journal of the Structural Division 1969-11-01 95(11): 2541-2542
+
+
+    
+        AU - Harold S. Reemsnyder
+    
+        AU - John W. Fisher
+    
+
+TI - Erratum for “Service Histories and Laboratory Testing”
+PT - Journal Article
+DP - 1969
+TA - Journal of the Structural Division
+PG - 2528-2528
+VI - 95
+IP - 11
+AID - 10.1061/JSDEAG.0002416 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002416
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002416
+SO - Journal of the Structural Division 1969-11-01 95(11): 2528-2528
+
+

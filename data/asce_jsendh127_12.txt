@@ -1,0 +1,360 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - C. Dale Buckner
+    
+
+TI - Editor's Note
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 1373-1373
+VI - 127
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2001)127:12(1373) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281373%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281373%29
+SO - Journal of Structural Engineering 2001-12-01 127(12): 1373-1373
+
+
+    
+        AU - A. Dutta
+    
+        AU - J. B. Mander
+    
+
+TI - Energy Based Methodology for Ductile Design of Concrete Columns
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 1374-1381
+VI - 127
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2001)127:12(1374) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281374%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281374%29
+SO - Journal of Structural Engineering 2001-12-01 127(12): 1374-1381
+AB - Potential plastic hinge zones in confined concrete columns require that sufficient transverse reinforcement be provided to avert undesirable failure modes and to ensure dependable inelastic (ductile) behavior in earthquakes. Conventional code-based approaches for detailing confining reinforcement are founded on the premise of preserving axial load before and after spalling of the cover concrete. Such formulations account for neither the cyclic actions nor the duration effects of ground motions. This paper derives the amount of transverse reinforcement necessary so that hoop fracture and fatigue fracture of the longitudinal bars coincide for critical earthquake motions. An energy-based approach coupled with notions of low cycle fatigue are used for this purpose.
+
+
+    
+        AU - Michele Brocca
+    
+        AU - Zdene˘k P. Bažant
+    
+
+TI - Size Effect in Concrete Columns: Finite-Element Analysis with Microplane Model
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 1382-1390
+VI - 127
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2001)127:12(1382) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281382%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281382%29
+SO - Journal of Structural Engineering 2001-12-01 127(12): 1382-1390
+AB - Failure of concrete structures due to concrete failing in compression was recently shown to exhibit a size effect. This is not taken into account by current design codes based on failure criteria expressed in terms of strength or plasticity. But compressive failure of concrete cannot be described by strength criteria, since it is brittle and is caused by release of elastic strain energy stored in the structure. In this sense, it is similar to tensile failure governed by fracture mechanics. The paper presents a finite-element study of the size effect of compressive failure of geometrically similar concrete columns of different sizes. The test columns considered here are reduced-scale specimens made with micro-concrete of maximum aggregate size 3.35 mm and are loaded eccentrically. The analysis employs the microplane model for concrete. It is based on the crack-band concept and is shown to capture with good approximation the size effect observed experimentally.
+
+
+    
+        AU - W.-P. Kwan
+    
+        AU - S. L. Billington
+    
+
+TI - Simulation of Structural Concrete under Cyclic Load
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 1391-1401
+VI - 127
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2001)127:12(1391) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281391%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281391%29
+SO - Journal of Structural Engineering 2001-12-01 127(12): 1391-1401
+AB - The selection and evaluation of finite-element modeling approaches for predicting cyclic behavior of structural concrete is presented. Nonlinear material models for structural concrete are evaluated through comparison of simulations with one set of experiments. A set of models and parameters is selected and modifications are implemented by the writers. This set of models is further evaluated through comparison with experiments of cyclically loaded structural concrete components with varying geometry, loading conditions, and hysteretic response. It is found that representation of shear transfer across crack faces strongly influences hysteretic behavior. Modeling compression strain-softening and the Bauschinger effect in reinforcing steel improves predicted cyclic response relative to experiments. The selected set of material models are evaluated and found to capture flexure-dominated hysteretic behavior, indicate potential shear-dominated failure, predict local influences of bonded prestressing through joints, and capture the influences of unbonded vertical prestressing in bridge columns. Modeling bondslip, concrete shear distortion, and steel buckling are necessary for full failure mode prediction. This research uses models available in commercial finite-element codes and is intended for researchers and practitioners interested in using nonlinear finite-element analysis to predict cyclic response of new and existing structural concrete designs.
+
+
+    
+        AU - Mohamad Mansour
+    
+        AU - Jung-Yoon Lee
+    
+        AU - Thomas T. C. Hsu
+    
+
+TI - Cyclic Stress-Strain Curves of Concrete and Steel Bars in Membrane Elements
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 1402-1411
+VI - 127
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2001)127:12(1402) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281402%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281402%29
+SO - Journal of Structural Engineering 2001-12-01 127(12): 1402-1411
+AB - The shear behavior of reinforced concrete membrane elements (panels) can be predicted by rational models that satisfy the three principles of mechanics of materials: stress equilibrium, strain compatibility, and constitutive relationships of concrete and steel bars. At present, these models can only be applied to the monotonic shear behavior, because only the monotonic constitutive relationships of materials are available. This paper reports the reversed cyclic tests of six panels to generate the cyclic constitutive relationships of concrete and steel bars. These fundamental stress-strain curves allow us to extend the rational models to predict the cyclic shear behavior of reinforced concrete structures. The cyclic stress-strain curves of steel bars embedded in concrete were found to have two characteristics: (1) the backbone envelope curve of steel in tension can be expressed by the monotonic stress-strain curve proposed by Belarbi and Hsu; and (2) the unloading and reloading curves can be expressed analytically in the form of a Ramberg-Osgood equation to simulate the Bauschinger effect. The three characteristics of the cyclic stress-strain curves of concrete are (1) the backbone envelope curve of concrete in compression can be expressed by the monotonic stress-strain curve for compression proposed by Belarbi and Hsu; (2) the backbone envelope curve of concrete in tension can be expressed by the monotonic stress-strain curves for tension proposed by Belarbi and Hsu; and (3) the unloading and reloading stress-strain curves of concrete are expressed analytically by a set of points connected by straight lines.
+
+
+    
+        AU - Beatrice Belletti
+    
+        AU - Roberto Cerioni
+    
+        AU - Ivo Iori
+    
+
+TI - Physical Approach for Reinforced-Concrete (PARC) Membrane Elements
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 1412-1426
+VI - 127
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2001)127:12(1412) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281412%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281412%29
+SO - Journal of Structural Engineering 2001-12-01 127(12): 1412-1426
+AB - A method is proposed for the analysis of the nonlinear behavior up to failure of reinforced-concrete membrane elements. The approach considers a linear elastic behavior for concrete before cracking; after cracking, the cracks are assumed as having a fixed direction and uniform spacing and cracked reinforced concrete is modeled as an orthotropic material. The basic element of cracked reinforced-concrete membrane is defined and the related stiffness matrix is proposed. The quantities that govern the problem are the opening and the sliding of the crack lips, as well as the strain of the concrete struts that are located between cracks. Applied to a local analysis of cracked reinforced concrete, the above variables allow for the effective modeling of compatibility and equilibrium conditions and take into account phenomena such as aggregate interlock, tension stiffening, and dowel action. To verify the reliability and capability of the proposed method, some comparisons with experimental observations of relevant tests are made.
+
+
+    
+        AU - Alessandra Aprile
+    
+        AU - Andrea Benedetti
+    
+        AU - Fabio Grassucci
+    
+
+TI - Assessment of Cracking and Collapse for Old Brick Masonry Columns
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 1427-1435
+VI - 127
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2001)127:12(1427) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281427%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281427%29
+SO - Journal of Structural Engineering 2001-12-01 127(12): 1427-1435
+AB - This paper presents experimental and theoretical research focused on the structural behavior of old brick masonry columns. To gather data on the role played by the evolution of brick-mortar interaction stresses when the load is increasing up to failure, six prototype columns made with 17th century bricks and lime mortar were prepared and tested. The instrumentation layout allowed the writers to carefully detect the cracking load and to pick out some selected strain values. Afterward, the obtained data were discussed on the basis of the well-known hypotheses characterizing the masonry stress fields and collapse events. A simple modification of the classical Hilsdorf equilibrium equation motivated by the observed experimental behavior led to a sensible interpretation of the nested phases of brittle failure endured by the masonry up to the collapse. In order to account for the changing interaction stress between mortar layers and brick courses, an influence factor was defined to restore the internal equilibrium during the evolution of the column damage states. In fact, the introduced mortar influence factor holds an important position in the definition of the margin between the cracking and global failure phases, explaining why the collapse load of the column is higher than the first cracking load. Moreover, thanks to some simplifications in the analyses, it was shown that this key parameter plays the role of a strength amplification factor linked to the damage evolution, and that consequently it can be used in the approximate evaluation of the remaining reliability of the masonry column after the stabilized cracking phase.
+
+
+    
+        AU - Hyo-Gyoung Kwak
+    
+        AU - Sun-Pil Kim
+    
+
+TI - Nonlinear Analysis of RC Beam Subject to Cyclic Loading
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 1436-1444
+VI - 127
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2001)127:12(1436) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281436%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281436%29
+SO - Journal of Structural Engineering 2001-12-01 127(12): 1436-1444
+AB - A hysteretic moment-curvature relationship to simulate the behavior of a reinforced concrete (RC) beam under cyclic loading is introduced in this paper, and the nonlinear behavior of RC beams subjected to flexural cyclic loading is analyzed by means of the proposed model. Unlike previous moment-curvature models and the layered-section approach, the proposed model takes bond-slip effects into account by using the monotonic moment-curvature relationship constructed on the basis of the bond-slip relation and the corresponding equilibrium equation at each nodal point. In addition, in contrast to linearized hysteretic curves, the use of curved unloading and reloading branches inferred from the stress-strain relation of steel considering the Bauschinger effect gives more accurate structural responses. This follows a correct assessment of the energy-absorbing capacity of the structure at large deformations. The advantages of the proposed model, compared with the layered-section approach, may be in the reduction in calculation time and memory space in applications to large-frame structures with many degrees of freedom. Modifications of the moment-curvature relationship to reflect the fixed-end rotation and pinching effect are also introduced. Finally, correlation studies between analytical results and experimental studies are conducted to establish the validity of the proposed model.
+
+
+    
+        AU - Alessandra Aprile
+    
+        AU - Enrico Spacone
+    
+        AU - Suchart Limkatanyu
+    
+
+TI - Role of Bond in RC Beams Strengthened with Steel and FRP Plates
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 1445-1452
+VI - 127
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2001)127:12(1445) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281445%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281445%29
+SO - Journal of Structural Engineering 2001-12-01 127(12): 1445-1452
+AB - This paper discusses the problem of predicting the stiffness, load capacity, and failure modes of RC members strengthened in bending with bonded steel or carbon-fiber–reinforced plastic thin plates. A critical issue of this strengthening technique is that, when the plate debonds, the load capacity suddenly drops and the failure mode is typically brittle. Because of the concrete cracking diffusion and the yielding of the steel rebars, a significant amplification of the bond stresses takes place at the beam-plate interface. Delamination occurs when the bond strength is reached locally. To properly describe and realistically predict the behavior of the strengthened beams, a displacement-based fiber beam model is used. Bond slip between the beam and the plate is included by assuming separate displacement fields in the beam and in the strengthening plate. The proposed model is used to confirm and investigate distinct failure modes observed in experimental investigations. The discussion is limited to shallow beams, where shear deformations are neglected.
+
+
+    
+        AU - M. S. Mohamed Ali
+    
+        AU - Deric J. Oehlers
+    
+        AU - Mark A. Bradford
+    
+
+TI - Shear Peeling of Steel Plates Bonded to Tension Faces of RC Beams
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 1453-1459
+VI - 127
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2001)127:12(1453) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281453%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281453%29
+SO - Journal of Structural Engineering 2001-12-01 127(12): 1453-1459
+AB - The technique of adhesively bonding steel or fiber-reinforced plastic plates to the surfaces of reinforced concrete (RC) structural elements is being adopted worldwide to strengthen or repair reinforced concrete buildings and bridges. However, the prevention of premature debonding or peeling of externally bonded plates is a most critical aspect of design. One of the major modes of debonding in plated RC beams is shear peeling induced by the formation of critical diagonal cracks caused by the applied vertical shear forces. In this paper, mathematical models are developed for quantifying the shear peeling resistance of RC beams bonded with plates of different configurations. These models are based on the simplified theory of plasticity concepts for shear in reinforced concrete beams and also on procedures to compute the bond strength between an adhesively bonded plate and a concrete element. The models are validated against 32 test results from reinforced concrete beams adhesively bonded with either steel plates or steel angles attached to the tension faces, or tension face plated beams additionally bonded with side plates to improve their shear peeling resistance.
+
+
+    
+        AU - Jennifer Durham
+    
+        AU - Frank Lam
+    
+        AU - Helmut G. L. Prion
+    
+
+TI - Seismic Resistance of Wood Shear Walls with Large OSB Panels
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 1460-1466
+VI - 127
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2001)127:12(1460) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281460%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281460%29
+SO - Journal of Structural Engineering 2001-12-01 127(12): 1460-1466
+AB - Results are presented from studies on the seismic resistance of wood shear walls sheathed with large (2.4 × 2.4 m) and standard (1.2 × 2.4 m) size oriented strand board (OSB) panels. Comparisons were made among twelve 2.4 × 2.4 m walls tested under quasi-static monotonic and cyclic, as well as dynamic, loads. In push-over tests, all walls reached a drift of approximately 2.5% at maximum load. A 26% increase in shear capacity was achieved using large panels. The nails that would be at internal seams in walls with standard panels were redistributed around the exterior edges of some large panel walls. They also showed a 104% increase in shear capacity and a 30% increase in initial stiffness. These walls performed significantly better when tested dynamically, using the east-west motion recorded at Joshua Tree Station during the 1992 Landers, Calif., earthquake. Their maximum drift was reduced by approximately 25% over standard walls. Damage incurred during dynamic tests consisted mainly of nail pullout and tear out. Renailing at these locations is simple and can restore the wall to a satisfactory performance level.
+
+
+    
+        AU - Xinzhong Chen
+    
+        AU - Ahsan Kareem
+    
+
+TI - Equivalent Static Wind Loads for Buffeting Response of Bridges
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 1467-1475
+VI - 127
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2001)127:12(1467) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281467%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281467%29
+SO - Journal of Structural Engineering 2001-12-01 127(12): 1467-1475
+AB - In current design practice, the dynamic wind loads are described in terms of the equivalent static wind loads based on the gust response factor. This approach results in a distribution of the equivalent static loading similar to the mean static wind load distribution, which may not always be a physically meaningful and realistic load description. In this paper, the equivalent static load representation for multimode buffeting response of bridges is formulated in terms of either a weighted combination of modal inertial load components, or the background and resonant load components. The focus of the present study is on the determination of weighting factors of equivalent static load components in which the correlation among modal response components due to structural and aerodynamic coupling effects is taken into consideration. It is noteworthy that the equivalent static load distributions vary for each response component. The proposed approach particularly helps in extracting design loads from full aeroelastic model test results by expressing the dynamic loads in terms of the equivalent static loads. This facilitates in drawing useful design input from full aeroelastic tests, which have been employed mostly for monitoring the response of bridge models at selected locations. A simplified formulation is also presented in a closed form when wind loading information is available and coupling in modal response components is negligible, which can be very attractive for the preliminary design application. Examples are presented to illustrate modeling of the equivalent static loading and to demonstrate its effectiveness in bridge design.
+
+
+    
+        AU - R. A. Cook
+    
+        AU - D. Bloomquist
+    
+        AU - D. S. Richard
+    
+        AU - M. A. Kalajian
+    
+
+TI - Damping of Cantilevered Traffic Signal Structures
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 1476-1483
+VI - 127
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2001)127:12(1476) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281476%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281476%29
+SO - Journal of Structural Engineering 2001-12-01 127(12): 1476-1483
+AB - Fatigue failure of cantilever (mast arm) supports for traffic signs and signals due to wind-induced vibrations has occurred in several states. A preferred method of reducing and perhaps eliminating these failures is to decrease the number and magnitude of load cycles by installing a damping device. Several types of damping devices were developed and tested on a mast arm at the University of Florida Structures Laboratory and field mast arm structures in Gainesville and Tampa, Florida. Both free-vibration and forced-vibration techniques were used to evaluate the responses of the structures. In addition, response under actual wind conditions was determined for the preferred damping device on the Tampa installation. Damping devices tested included tuned mass dampers, liquid dampers, friction dampers, damping devices installed at the arm-pole connection, and impact dampers. The preferred device was a tapered impact damper that functions in both the horizontal and vertical directions. This device was selected based on overall performance, applicability of a single device to a full range of field conditions, and economy of construction.
+
+
+    
+        AU - David S. Gromala
+    
+
+TI - Evolving toward Project-Specific Reliability: Are We Sure It's a Good Idea?
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 1485-1488
+VI - 127
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2001)127:12(1485) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281485%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281485%29
+SO - Journal of Structural Engineering 2001-12-01 127(12): 1485-1488
+AB - The writers of current standards and specifications for load and resistance factor design (LRFD) envisioned that those documents would be used by designers in a manner similar to that used in prior (allowable stress design) formats. They presumed that designs would be accomplished by satisfying a series of checking equations in which the structural resistance exceeds the demand on the structure. While these early developers used reliability analysis tools to derive the load and resistance factors, they did not envision that reliability analysis would evolve into a tool to be directly used by designers. In spite of those early presumptions, the evolving reality is that reliability analysis procedures are now available to an increasing number of individual designers. Sooner or later, these designers will attempt to use reliability analysis to assist them in their project-specific or, more likely, product-specific designs. This paper discusses limitations and potential pitfalls of reliability analysis when used in routine structural design. Specific examples focus on wood design. The conclusion reiterates the premise that LRFD, not theoretical reliability analysis, is the proper tool for use in daily design.
+
+
+    
+        AU - Lip H. Teh
+    
+        AU - Kuo-Mo Hsiao
+    
+        AU - Donald W. White
+    
+        AU - Ronald D. Ziemian
+    
+        AU - Siu-Lai Chan
+    
+        AU - Jian-Xin Gu
+    
+
+TI - Exact Tangent Stiffness for Imperfect Beam-Column Members
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 1490-1492
+VI - 127
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2001)127:12(1490) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281490%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281490%29
+SO - Journal of Structural Engineering 2001-12-01 127(12): 1490-1492
+
+
+    
+        AU - Siu‐Lai Chan
+    
+        AU - Jian‐Xin Gu
+    
+
+TI - Closure to “Exact Tangent Stiffness for Imperfect Beam‐Column Members” by Siu‐Lai Chan and Jian‐Xin Gu
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 1492-1494
+VI - 127
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2001)127:12(1492) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281492%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281492%29
+SO - Journal of Structural Engineering 2001-12-01 127(12): 1492-1494
+
+
+TI - REVIEWERS FOR THE <b><i>Journal of Structural Engineering</i></b>
+PT - Journal Article
+DP - 2001
+TA - Journal of Structural Engineering
+PG - 1495-1503
+VI - 127
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(2001)127:12(1495) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281495%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282001%29127%3A12%281495%29
+SO - Journal of Structural Engineering 2001-12-01 127(12): 1495-1503
+
+

@@ -1,0 +1,572 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Mohamed Elgaaly
+    
+        AU - William L. Nunan
+    
+
+TI - Behavior of Rolled Section Web under Eccentric Edge Compressive Loads
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1561-1578
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1561) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281561%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281561%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1561-1578
+AB - Webs of rolled and built‐up beams can be subjected to in‐plane compressive edge loads. Since stiffeners are not always provided under the load, it is necessary to check the unstiffened web under this loading condition. The results from 22 tests conducted to study, for the first time, the effect of small eccentricities of the load with respect to the web, are reported in this paper. Eccentricity, the only variable considered, ranges from 0 to 0.5 in. Loads are applied uniformly through a thick patch plate placed eccentrically with respect to the plane of the web on the top flange of the beam, or applied as an eccentric line load through a cylindrical bar placed on the top flange. Practically, there is no reduction in the ultimate capacity of the web due to the eccentricity when the load is applied through the patch plate. Considerable reductions, however, are observed when the load is applied through the cylindrical bar. A linear finite element model is developed. The analysis results are compared with the test results obtained at the initial stages of loading, before large out‐of‐plane displacements or local yielding occur, and the comparison is satisfactory.
+
+
+    
+        AU - Sankaran Mahadevan
+    
+        AU - Achintya Haldar
+    
+
+TI - Efficient Algorithm for Stochastic Structural Optimization
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1579-1598
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1579) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281579%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281579%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1579-1598
+AB - A stochastic structural optimization procedure using element‐level reliabilities as constraints is proposed here. The procedure is robust and efficient and closely resembles the practical approach used in design offices. The procedure is developed in modules which can be linked and unlinked. Element‐level reliabilities are estimated using the stochastic finite element method or Monte Carlo simulation with variance reduction techniques whenever necessary. The method can consider different limit states with different desired levels of reliability as well as the system reliability as constraints, resulting in a balanced distribution of weight. A constrained optimization algorithm is used which is tailored to the information and the requirements of the structural optimization problem considered here. The algorithm contains a simple and efficient search procedure that uses variable, discrete step sizes. Several alternatives for reliability analysis and trial structure selection, and strategies for reduction of the number of constraints are included and explained with the help of numerical examples to show the desirability of the proposed method.
+
+
+    
+        AU - H. N. Linsbauer
+    
+        AU - A. R. Ingraffea
+    
+        AU - H. P. Rossmanith
+    
+        AU - P. A. Wawrzynek
+    
+
+TI - Simulation of Cracking in Large Arch Dam: Part I
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1599-1615
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1599) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281599%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281599%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1599-1615
+AB - A complete fracture mechanics investigation of the cracking of the Kolnbrein arch dam is presented in two parts. In Part I, the history of cracking of this dam and theories attempting to explain it are described. The fundamental principles of mixed‐mode, linear elastic fracture mechanics are then elucidated and used to study cracking observed near the toe of the dam. The stability, trajectory, and opening of two cracks are computed and favorably compared to observations. In Part II, cracking which occurred in the heel region of the dam is investigated next using computer simulation and fracture mechanics in an attempt to reproduce observed trajectory and load history before cracking. Four models for the cause of this cracking are described. All four models are shown to be viable mechanisms within the constraints of available cracking data. The necessity for combining simulation with accurate data of various types, and the insufficiency of two‐dimensional analysis are discussed. The significant implication of this study is that classical fracture mechanics theory, implemented through modern computer simulation techniques, can be used to explain cracking events in concrete arch dams. This capability can prove valuable in designing against such events, and in specifying effective repair procedures.
+
+
+    
+        AU - H. N. Linsbauer
+    
+        AU - A. R. Ingraffea
+    
+        AU - H. P. Rossmanith
+    
+        AU - P. A. Wawrzynek
+    
+
+TI - Simulation of Cracking in Large Arch Dam: Part II
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1616-1630
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1616) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281616%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281616%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1616-1630
+AB - Part two of a complete fracture mechanics investigation of the cracking of the Kölnbrein Arch Dam is presented. Cracking which occurred in the heel region of the dam is investigated using computer simulation and fracture mechanics in an attempt to reproduce observed trajectory and load history before cracking. Four models for the cause of this cracking are described. All four models are shown to be viable mechanisms within the constraints of available cracking data. Each model is shown to possess the capacity to initiate observed cracking in the heel region, and to provide a zone of tensile principal stress with orientation consistent with observed trajectory. It is not possible to eliminate any model on the basis of crack direction of propagation. The necessity for combining simulation with accurate data of various types, and the insufficiency of two‐dimensional analysis are discussed.
+
+
+    
+        AU - R. Richard Avent
+    
+        AU - George M. Fadous
+    
+
+TI - Heat‐Straightening Prototype Damaged Bridge Girders
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1631-1649
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1631) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281631%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281631%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1631-1649
+AB - While heat‐straightening techniques have been used to repair damaged steel bridge girders for a number of years, little experimental data documenting behavior are available. The purpose of this paper is to describe an experimental program in which prototype steel girders were damaged and restraightened. To simulate an actual bridge, a test facility was constructed which was capable of handling girders up to 3 ft deep and 40 ft long. Two girders were damaged and heat‐straightened twice each with the behavior measured after each heating cycle. The results of these tests indicate that a distinct advantage is obtained by applying external forces prior to heating, that all plastically deformed areas should be heated, yield lines should be heated with line heats and yield zones by vee heats, and that repetitive damage can be repaired by heat‐straightening without affecting the strength of the structure.
+
+
+    
+        AU - Iqbal S. Sohal
+    
+        AU - Lian Duan
+    
+        AU - Wai‐Fah Chen
+    
+
+TI - Design Interaction Equations for Steel Members
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1650-1665
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1650) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281650%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281650%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1650-1665
+AB - Most of the steel design specifications have two equations for stability and strength check of structural members. This approach has two weaknesses. The first weakness is that if the length of a member is reduced to zero in the stability interaction equation, it does not always reduce to the strength interaction equation. As a result, the transition from long to short members is not smooth. The non‐smooth transition makes the design equations unconservative in the transition region and overly conservative in the rest of region. Secondly, the stability equation is based on the concept of moment amplification factor. This amplification factor, by definition, should not be less than unity. However, in order to combine properly the amplification factor with the strength equation, these specifications allow the moment amplification factor to be less than unity. To eliminate these weaknesses, a single design equation for both strength and stability check is desirable. This paper presents a logical method of deriving a single design equation to satisfy both strength and stability criteria.
+
+
+    
+        AU - Bryan Folz
+    
+        AU - Ricardo O. Foschi
+    
+
+TI - Reliability‐Based Design of Wood Structural Systems
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1666-1680
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1666) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281666%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281666%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1666-1680
+AB - A methodology is presented for the study of the reliability of lightframe wood structural systems, with particular consideration given to floors and flat roofs. Reliability levels associated with the bending strength limit state of such systems are computed by first‐order reliability methods, using a structural analysis based on the finite strip method. A system modification factor is derived in relation to a simple design equation for bending, which is suitable for implementation in a limit states design code. Values for the modification factor are studied in relation to different parameters: plate action of the sheathing, the non‐rigid connection between the sheathing and the joists, the variability in the strength and stiffness of the joists, the applied load variability, the geometric parameters of the floor and the definition of system failure. The system modification factor, when applied to the simple design equation based on a single member, ensures a prescribed reliability for the structural system,
+
+
+    
+        AU - Duen Ho
+    
+        AU - Chi‐Ho Liu
+    
+
+TI - Extreme Thermal Loadings in Highway Bridges
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1681-1696
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1681) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281681%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281681%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1681-1696
+AB - Thermal loadings acting on highway bridges are treated as random variables. Values of such loadings for a 50‐year return period are determined based on an analysis of the statistics of extremes. A one‐dimensional heat‐flow model is assumed. Accuracy of the mathematical model is checked by comparison with field measurements. Evans's method, which is used to calculate the first four moments of a random function, is described. Emphasis is placed on the statistical aspect of the thermal loadings rather than on the numerical modeling of the heat‐flow problem.
+
+
+    
+        AU - J. Y. Richard Liew
+    
+        AU - N. E. Shanmugam
+    
+        AU - S. L. Lee
+    
+
+TI - Tapered Box Columns under Biaxial Loading
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1697-1710
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1697) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281697%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281697%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1697-1710
+AB - The stability of symmetric pin‐ended square box column tapering from the mid‐length to the ends and subjected to the combined action of axial thrust and biaxial moments is investigated. Torsional‐flexural behavior is not considered. The tangent stiffness method is used to develop the moment‐curvature‐thrust relationships for the column cross section. The stability problem is transformed into a nonlinear programming problem and the ultimate load‐carrying capacity of the member is defined by extending Home's stability criterion. Due allowance is made to account for the effect of residual stresses and column initial deflections. Columns having positive and negative taper slopes are considered. The results are presented in the form of interaction diagrams.
+
+
+    
+        AU - L. Bognár
+    
+        AU - B. G. Strauber
+    
+
+TI - Load‐Shortening Relationships for Bars
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1711-1725
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1711) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281711%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281711%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1711-1725
+AB - The stability functions of beam‐columns are investigated. The P(u) function (P=normal force, u=deformation in the direction of bar axis) is determined for three basic cases (beam‐column built‐in at both ends, beam‐column built‐in at one end and hinged at the other, and bar hinged at both ends) including the effect of a transversal, uniformly distributed load acting on the bar. These functions are used in the stiffness‐matrix of the bar. Numerical problems are discussed.
+
+
+    
+        AU - Ibrahim A. E. M. Shehata
+    
+        AU - Paul E. Regan
+    
+
+TI - Punching in R.C. Slabs
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1726-1740
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1726) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281726%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281726%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1726-1740
+AB - An experimental test program has provided the basis for the mechanical model presented here to estimate the punching resistance of axisymmetric reinforced concrete slabs subjected to concentrated loads or reactions. The proposed model has the advantages of describing the slab behavior beyond the cracking stage and of estimating both punching and flexural capacities of such slabs. Material characteristics are defined by generally accepted stress‐strain relationships for uniform stress states and a formulation dependent on the stress gradient for the stress concentration region near the column or load. Failure criteria are expressed in terms of limiting strains or the limit at which tension is developed in the critical region of concrete. The dependence of the theoretical punching resistance on the influential parameters is illustrated and compared with the predictions of codes of practice. Finally, calculated and experimental punching strengths are compared and shown to correlate very well for a wide range of test slabs.
+
+
+    
+        AU - Zongjin Li
+    
+        AU - E. C. Rossow
+    
+        AU - S. P. Shah
+    
+
+TI - Sinusoidal Forced Vibration of Sliding Masonry System
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1741-1755
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1741) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281741%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281741%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1741-1755
+AB - Analytical and experimental studies of a sliding structural system are undertaken. The analytical studies show that the intensity of ground motion transmitted to the structure is largely limited by friction and the response of the structure is approximately linearly dependent of input frequency. This agrees with field observation of full scale masonry structures subjected to severe earthquakes and previous analytical studies. Two experimental model studies are carried out on an aluminum and a masonry structural system to verify the analytical results. These systems are subjected to steady sinusoidal excitation on a shaking table. Three materials are used to develop a simple horizontal plane. Comparisons show a good general agreement between experimental and theoretical results.
+
+
+    
+        AU - Pedro Albrecht
+    
+        AU - Maher Sidani
+    
+
+TI - Fatigue of Eight‐Year Weathered A588 Steel Stiffeners in Salt Water
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1756-1767
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1756) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281756%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281756%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1756-1767
+AB - Bare, exposed, weathering steel structures have lower fatigue strength than painted steel structures. This finding is based on the results of 36 tests in which transverse stiffener specimens are weathered for eight years and then stresscycled in air or in 3% salt water. The results are compared with those from 1,565 previous fatigue tests of specimens weathered up to eight years and than stresscycled in air. Reductions in allowable stress range are recommended for bare, exposed, weathering steel for bridges in environments of medium corrosivity.
+
+
+    
+        AU - S. A. Kiger
+    
+        AU - F. D. Dallriva
+    
+        AU - R. L. Hall
+    
+
+TI - Dynamic Skin‐Friction Effects on Buried Arches
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1768-1781
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1768) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281768%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281768%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1768-1781
+AB - Loads induced by friction as the soil is compacted around embedded structures are especially difficult to quantify. To qualitatively investigate the relative importance of these loads, a dynamic test was conducted on two identical arch structures, in which one structure was covered with a double layer of Teflon to reduce frictional loads as much as possible. At a dynamic peak overpressure of about 1,700 psi (11.7 MPa), the Teflon‐covered arch did not collapse, while the other arch totally collapsed. Results from this test indicate that skin‐friction loads can affect both the maximum capacity and the failure mode of buried arches.
+
+
+    
+        AU - J. A. Puckett
+    
+        AU - J. F. Atkinson
+    
+
+TI - Ultimate Strength of Wood Walls in Tension—Pilot Study
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1782-1794
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1782) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281782%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281782%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1782-1794
+AB - The tension resistance of conventionally constructed wood‐frame walls was determined experimentally in a pilot study. A series of tests was performed using a combination of gypsum board, foam, and plywood as sheathing material. The ultimate tension resistances of the test panels are compared to the ultimate strength of a typical nailed roof‐to‐wall connection and to the resistance required by the Uniform Building Code. The design implications are examined.
+
+
+    
+        AU - R. E. Melchers
+    
+
+TI - Human Error in Structural Design Tasks
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1795-1807
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1795) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281795%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281795%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1795-1807
+AB - This paper presents an overview of a research program aimed at obtaining basic data about errors committed in some of the tasks that typically occur in structural engineering design. Such information is of interest in attempting to better understand the design process itself and thus in attempts to mathematically model it and to improve it.
+
+
+    
+        AU - Alex Coull
+    
+        AU - W. H. Otto Lau
+    
+
+TI - Analysis of Multioutrigger‐Braced Structures
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1811-1815
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1811) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281811%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281811%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1811-1815
+AB - An approximate method is presented for the analysis of multioutrigger structures subjected to lateral forces. The discrete set of outriggers is smeared over the height to give an equivalent uniform connecting medium between the central core and the perimeter columns. The equations of equilibrium and compatibility yield a second-order governing differential equation, which, when solved, leads to closed-form solutions for all forces and deflections, independent of the number of outriggers. Particular attention is focused on two important design parameters, the maximum drift at the top of the structure, and the maximum base moment in the core. Comprehensive design curves have been produced to show the variation of these two quantities with two generalized parameters that define the relative stiffness of core, outriggers and columns. Comparisons between these results and those from a flexibility analysis indicate that the approximate method can give reasonably accurate results for even a very small number of outriggers.
+
+
+    
+        AU - B. L. Ly
+    
+
+TI - Discussion of &#x201c;<i>Bridge Vibrations due to Vehicle Moving over Rough Surface</i>&#x201d; by Mahil J. Inbanathan and Martin Wieland (September, 1987, Vol. 113, No. 9)
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1819-1820
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1819) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281819%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281819%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1819-1820
+
+
+    
+        AU - Mahil J. Inbanathan
+    
+        AU - Martin Wieland
+    
+
+TI - Closure to &#x201c;<i>Bridge Vibrations due to Vehicle Moving over Rough Surface</i>&#x201d; by Mahil J. Inbanathan and Martin Wieland (September, 1987, Vol. 113, No. 9)
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1820-1821
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1820) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281820%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281820%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1820-1821
+
+
+    
+        AU - M. A. Osman
+    
+
+TI - Discussion of &#x201c;<i>Load Factors for Limit State Codes</i>&#x201d; by R. V. Milford (September, 1987, Vol. 113, No. 9)
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1821-1822
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1821) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281821%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281821%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1821-1822
+
+
+    
+        AU - R. V. Milford
+    
+
+TI - Closure to &#x201c;<i>Load Factors for Limit State Codes</i>&#x201d; by R. V. Milford (September, 1987, Vol. 113, No. 9)
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1822-1822
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1822) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281822%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281822%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1822-1822
+
+
+    
+        AU - Carlos Guedes Soares
+    
+
+TI - Discussion of &#x201c;<i>Simplified Design of Unstiffened and Stiffened Plates</i>&#x201d; by Max A. M. Herzog (October, 1987, Vol. 113, No. 10)
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1822-1824
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1822.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281822.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281822.2%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1822-1824
+
+
+    
+        AU - Max A. M. Herzog
+    
+
+TI - Closure to &#x201c;<i>Simplified Design of Unstiffened and Stiffened Plates</i>&#x201d; by Max A. M. Herzog (October, 1987, Vol. 113, No. 10)
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1824-1824
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1824) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281824%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281824%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1824-1824
+
+
+    
+        AU - B. P. Stroeven
+    
+
+TI - Discussion of &#x201c;<i>Behavior of Reinforced Steel&#x2010;Fiber&#x2010;Concrete Beams in Flexure</i>&#x201d; by Teck&#x2010;Yong Lim, P. Paramasivam, and Seng&#x2010;Lip Lee (December, 1987, Vol. 113, No. 12)
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1825-1827
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1825) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281825%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281825%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1825-1827
+
+
+    
+        AU - Teck‐Yong Lim
+    
+        AU - P. Paramasivam
+    
+        AU - Seng‐Lip Lee
+    
+
+TI - Closure to &#x201c;<i>Behavior of Reinforced Steel&#x2010;Fiber&#x2010;Concrete Beams in Flexure</i>&#x201d; by Teck&#x2010;Yong Lim, P. Paramasivam, and Seng&#x2010;Lip Lee (December, 1987, Vol. 113, No. 12)
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1827-1828
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1827) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281827%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281827%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1827-1828
+
+
+    
+        AU - Patrick M. McGuire
+    
+
+TI - Discussion of &#x201c;<i>Roof Connection in Houses: Key to Wind Resistance</i>&#x201d; by Harold W. Conner, David S. Gromala, and Donald W. Burgess (December, 1987, Vol. 113, No. 12)
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1828-1829
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1828) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281828%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281828%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1828-1829
+
+
+    
+        AU - Gary Glen Nichols
+    
+
+TI - Discussion of &#x201c;<i>Roof Connection in Houses: Key to Wind Resistance</i>&#x201d; by Harold W. Conner, David S. Gromala, and Donald W. Burgess (December, 1987, Vol. 113, No. 12)
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1829-1830
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1829) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281829%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281829%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1829-1830
+
+
+    
+        AU - Theodore Stathopoulos
+    
+        AU - Klnh Ha
+    
+
+TI - Discussion of &#x201c;<i>Roof Connection in Houses: Key to Wind Resistance</i>&#x201d; by Harold W. Conner, David S. Gromala, and Donald W. Burgess (December, 1987, Vol. 113, No. 12)
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1830-1832
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1830) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281830%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281830%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1830-1832
+
+
+TI - Erratum: “Ductility Design Via Optimum Design of Nonlinear Elastic Frames” by Tsuneyoshi Nakamura and Izuru Takewaki (March, 1989, Vol. 115, No. 3)
+PT - Journal Article
+DP - 1989
+TA - Journal of Structural Engineering
+PG - 1833-1833
+VI - 115
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1989)115:7(1833) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281833%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281989%29115%3A7%281833%29
+SO - Journal of Structural Engineering 1989-07-01 115(7): 1833-1833
+
+

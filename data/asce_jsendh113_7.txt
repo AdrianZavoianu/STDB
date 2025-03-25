@@ -1,0 +1,508 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Paul H. Wirsching
+    
+        AU - Y. N. Chen
+    
+
+TI - Fatigue Design Criteria for TLP Tendons
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1398-1414
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1398) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281398%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281398%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1398-1414
+AB - A framework for the development of fatigue design criteria for components (joints) of tendons of tension leg platforms (TLP) is presented. Two approaches are considered. First, a target reliability for the tendon (as an element) is specified from which a component target reliability, β0, is derived. The second approach requires that a maximum probability of replacing any tendon during the service life be specified; β0 is derived from elementary system analysis. The safety check format proposed requires that linear fatigue damage, D, computed by conventional methods using nominal values, be less than a target damage level, Δ0, and derived from β0. A simplified approach to the computation of the probability of progressive tendon failure is presented as a mechanism to ensure that β0 is chosen to be sufficiently large to avoid loss of platform. No specific recommendation is made herein regarding target reliabilities. However, the suggestion is made that the choice of Δ0 not be made without consideration of ultimate strength requirements based on system reliability analysis.
+
+
+    
+        AU - Avinash M. Nafday
+    
+        AU - Ross B. Corotis
+    
+        AU - Jared L. Cohort
+    
+
+TI - Failure Mode Identification for Structural Frames
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1415-1432
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1415) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281415%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281415%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1415-1432
+AB - A systematic approach is developed for the identification, enumeration, and description of multiple failure modes for structural frames. The procedure is based on a linear programming model of plastic analysis. The mathematical structure of the model is used to identify the failure modes as extreme points of an associated convex polytope, and an algorithmic procedure is used to find the failure modes in the ascending order of their collapse loads, The method automatically excludes all kinematically inadmissible modes and can generate a certain prespecified number of modes or all modes up to a specified level of significance, based on a safety measure. The modal collapse loads are obtained either as linear combinations of member resistances or as linear combinations of elementary mechanisms. Methods for finding bending moment distributions, modal correlations, and bounds on the number of failure modes are discussed. The approach is illustrated with an example.
+
+
+    
+        AU - John P. Papangelis
+    
+        AU - Nicholas S. Trahair
+    
+
+TI - Flexural‐Torsional Buckling Tests on Arches
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1433-1443
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1433) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281433%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281433%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1433-1443
+AB - Flexural‐torsional buckling tests on circular aluminium arches of doubly symmetric I‐sections are described. The arches are fabricated by bending straight specimens to the required radius of curvature in a rolling machine. Calculations of the resulting residual stresses indicate that these have little effect on lateral buckling. Simply supported arches subjected to central concentrated point loads are tested in the normal and inverted attitudes. The test results are compared with previous theoretical solutions.
+
+
+    
+        AU - Nevis E. Cook
+    
+        AU - Kurt H. Gerstle
+    
+
+TI - Safety of Type 2 Steel Frames
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1444-1455
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1444) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281444%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281444%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1444-1455
+AB - A study of the strength of unbraced steel building frames designed according to AISC Type 2 construction is presented. A nonlinear analysis that includes the effects of geometric and material nonlinearity as well as connection flexibility is outlined and used to predict the behavior and strength of a range of Type 2 frames under monotonically applied gravity and wind loads. Strength interaction curves demonstrate frame strength well in excess of that required by specifications, but frame sway needs careful attention in such structures.
+
+
+    
+        AU - Nevis E. Cook
+    
+        AU - Kurt H. Gerstle
+    
+
+TI - Safety of Type Steel Frames Under Load Cycles
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1456-1467
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1456) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281456%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281456%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1456-1467
+AB - The paper explores the safety of unbraced steel building frames designed according to AISC Type 2 construction under cyclic loadings. The study proceeds in the following steps: The probability of occurrence of live‐wind load cycles of various intensities to be expected during the lifetime of the structure is computed. A series of Type 2 frames is designed, following AISC specifications and common office practice. These frames are analyzed for behavior and strength under load cycles, using a previously developed nonlinear analysis program. Comparing expected cyclic load intensities and predicted frame resistances, it is concluded that these frames have ample safety against the liveand wind‐load cycles to be expected during the lifetime of the structure.
+
+
+    
+        AU - Richard M. Gutkowski
+    
+        AU - William J. McCutcheon
+    
+
+TI - Comparative Performance of Timber Bridges
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1468-1486
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1468) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281468%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281468%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1468-1486
+AB - Eighteen timber bridges built in the late 1960s and early 1970s are inspected to determine the performance of their various components. In general, the bridges are in excellent structural condition. Glulam decks provide effective “roofs” over stringers as shown by relatively low moisture content readings in the stringers. The findings support the use of dry use design stresses for stringers but not for decks.
+
+
+    
+        AU - Charles K. Nmai
+    
+        AU - Mark D. Bowman
+    
+
+TI - Crack Gages for Detecting Fatigue Crack Initiation
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1487-1500
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1487) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281487%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281487%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1487-1500
+AB - The use of fatigue crack gages is examined, in order to provide a clear indication of fatigue crack initiation and early subcritical crack growth in structural steel details. The crack gage consists of a thin steel coupon that can be bonded to a structural member in the vicinity of a known stress raiser, such as at the end of a cover plate or near a stiffener. The crack gage concept has traditionally been used to correlate fatigue crack growth in the gage to crack growth in the structure. The present emphasis, however, is to use the crack gage to detect the onset of fatigue crack growth. The geometry of the crack gage is designed such that either initiation or significant crack propagation in the gage provides a direct indication that the structural element has developed a detectable fatigue crack.
+
+
+    
+        AU - Y. Goto
+    
+        AU - Wai‐Fah Chen
+    
+
+TI - Second‐Order Elastic Analysis for Frame Design
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1501-1519
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1501) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281501%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281501%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1501-1519
+AB - Several methods of second‐order elastic analysis are developed here primarily for the practical use in mini‐ and microcomputers. To this end, the stiffness equations derived from the analytical solutions are first expressed in series expansion and then reduced by some simplifications. Their accuracy is then examined with regard to their applicability for practical design. This is followed by a comparison with the accuracy of the B1 and B2 factor analysis method recommended by the 1986 AISC/LRFD specification. The proposed method using one cycle of iteration is simplest and yet accurate enough for practical purposes. It can be easily implemented into the customary computer programs for the usual elastic first‐order analysis without increasing its capacity. Taking all these factors into consideration in conjunction with the demonstrated validity of the approach, it is recommended for general use.
+
+
+    
+        AU - Dimos Polyzois
+    
+
+TI - Sag Rods as Lateral Supports for Girts and Purlins
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1521-1531
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1521) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281521%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281521%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1521-1531
+AB - Although cold‐formed sections provide substantial savings, because of their high strength‐to‐weight ratio, their cross‐sectional configuration gives rise to behavioral phenomena not encountered in the more familiar hotrolled sections. Of great concern to structural engineers is the tendency of these members to deform under most conditions of loading and to fail by yielding or local buckling as a result of the stresses developed. Channels and Z‐sections are commonly used as girts and purlins. In many installations, sag rods are used to provide alignment for these members for the attachment of the steel panels and to reduce their tendency to bend laterally and twist. Test results indicate that the presence of sag rods may not always be beneficial to the girts or purlins and, in fact, may cause premature distortional buckling of the compression flange.
+
+
+    
+        AU - Dan M. Frangopol
+    
+        AU - James P. Curley
+    
+
+TI - Effects of Damage and Redundancy on Structural Reliability
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1533-1549
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1533) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281533%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281533%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1533-1549
+AB - Analytical investigations into the effects of damage and redundancy on the reliability of structural systems are reported. These investigations are based on a definition of structural redundancy including both system reliability and damage assessment concepts. Truss systems and bridges analyzed for different damage scenarios are used to develop the theoretical concepts and to illustrate their practical applications.
+
+
+    
+        AU - Giovanni Solari
+    
+
+TI - Turbulence Modeling for Gust Loading
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1550-1569
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1550) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281550%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281550%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1550-1569
+AB - This paper presents the analytical models most in use at present for the description of the structure of turbulence in the surface atmospheric boundary layer. The study gives maximum prominence to the degree of uncertainty involved in these models, showing that a detailed forecast of the configuration of turbulence is very often fallacious. In the light of this consideration, two straightforward expressions of the power spectrum and of the coherence function are proposed that are particularly apt for the evaluation of the actions of wind on constructions such as buildings, towers, and chimneys. The use of each of these equations calls for the assignment of only one parameter, the best choice and the variability field of which are discussed.
+
+
+    
+        AU - D. A. Reed
+    
+
+TI - Use of Field Parameters in Wind Engineering Design
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1570-1585
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1570) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281570%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281570%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1570-1585
+AB - In recent years, the treatment of wind loads through the application of reliability principles has increased. In many design situations, including glass cladding design, the parameters for describing the effects of wind loadings are defined from limited data sources. In this paper, meteorological, structural, and aerodynamic parameters that are involved in the wind design process are discussed. As an example of a local damage concern for tall buildings, results for glass cladding strength characterization that have not been published previously are included.
+
+
+    
+        AU - Oren Vilnay
+    
+
+TI - Characteristics of Cable Nets
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1586-1599
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1586) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281586%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281586%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1586-1599
+AB - The paper is concerned with the behavior of cable nets. The initial stability of these nets is investigated and the effect of an external load applied to these nets is studied. It is shown that the behavior of cable nets is conditioned by the nature of the nodal equilibrium equations. In most cases where there are more internal unknown forces in the cables than the number of nodal equilibrium equations, the effect of external load is similar to the case of ordinary reticulated shells and the nodal displacements are due to the elasticity of the members only. Where the number of unknowns is equal to or less than the number of equations, the nodal displacements caused by external load are due to rigid body movements of the net members as well as their elastic properties. A method of analyzing these displacements is proposed. The so‐called fitted load where the nodal displacements are due to the elasticity of the members only is investigated. The behavior of these two type of nets is compared and the implication for the design of cable nets is discussed.
+
+
+    
+        AU - Alberto Castellani
+    
+
+TI - Safety Margins of Suspension Bridges Under Seismic Conditions
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1600-1616
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1600) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281600%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281600%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1600-1616
+AB - The American Association of State Highway Transportation Officials (AASHTO) 1983 code, “Seismic Design of Highway Bridges,” does not cover explicitly suspension bridges. Nevertheless, if AASHTO earthquake excitation is applied to some existing suspension bridges, even those of strategical importance, for example, the Golden Gate bridge, the structural safety of these bridges cannot be proven. The need for new standards is also widely recognized in Japan. Analyses that have appeared in the literature are reviewed. A criterion to select the design earthquake is proposed and its relevance on the previous safety analyses is shown.
+
+
+    
+        AU - Issam E. Harik
+    
+        AU - Joseph M. Abou‐Khali
+    
+
+TI - Horizontally Curved Plates on Elastic Foundations
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1619-1622
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1619) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281619%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281619%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1619-1622
+AB - An analytical solution is presented for the analysis of horizontally curved (or sector) plates on elastic foundations. Circular concrete pavements of highways may be analyzed by this method. Plates with different boundary conditions and subjected to various types of loadings can be treated by the proposed method.
+
+
+    
+        AU - Åke Holmberg
+    
+
+TI - Discussion of &#x201c;<i>On the Computation of Slab Effective Widths</i>&#x201d; by Milija N. Pavlovi&#x107; and Steven M. Poulton (February, 1985, Vol. 111, No. 2)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1625-1625
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1625) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281625%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281625%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1625-1625
+
+
+    
+        AU - Milija N. Pavlović
+    
+        AU - Steven M. Poulton
+    
+
+TI - Closure to &#x201c;<i>On the Computation of Slab Effective Widths</i>&#x201d; by Milija N. Pavlovi&#x107; and Steven M. Poulton (February, 1985, Vol. 111, No. 2)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1625-1626
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1625.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281625.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281625.2%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1625-1626
+
+
+    
+        AU - Mohsen el Shahawi
+    
+        AU - Barrington de V. Batchelor
+    
+
+TI - Discussion of &#x201c;<i>Static and Fatigue Tests on Partially Prestressed Beams</i>&#x201d; by M. H. Harajli and A. E. Naaman (July, 1985)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1626-1628
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1626) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281626%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281626%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1626-1628
+
+
+    
+        AU - Hassan Saffarini
+    
+
+TI - Discussion of &#x201c;<i>Multistory Frames under Sequential Gravity Loads</i>&#x201d; by Chang&#x2010;Koon Choi and E&#x2010;Doo Kim (November, 1985, Vol. 111, No. 11)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1628-1629
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1628) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281628%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281628%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1628-1629
+
+
+    
+        AU - Chang‐Koon Choi
+    
+        AU - E‐Doo Kim
+    
+
+TI - Closure to &#x201c;<i>Multistory Frames under Sequential Gravity Loads</i>&#x201d; by Chang&#x2010;Koon Choi and E&#x2010;Doo Kim (November, 1985, Vol. 111, No. 11)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1629-1630
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1629) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281629%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281629%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1629-1630
+
+
+    
+        AU - Avtar S. Pall
+    
+
+TI - Discussion of &#x201c;<i>Design of Seismic&#x2010;Resistant Frictionbraced Frames</i>&#x201d; by Mark A. Austin and Karl S. Pister (December, 1985, Vol. 111, No. 12)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1630-1631
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1630) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281630%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281630%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1630-1631
+
+
+    
+        AU - Mark A. Austin
+    
+        AU - Karl S. Pister
+    
+
+TI - Closure to &#x201c;<i>Design of Seismic&#x2010;Resistant Frictionbraced Frames</i>&#x201d; by Mark A. Austin and Karl S. Pister (December, 1985, Vol. 111, No. 12)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1631-1632
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1631) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281631%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281631%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1631-1632
+
+
+    
+        AU - M. M. Attard
+    
+
+TI - Discussion of &#x201c;<i>Stiffness Matrix for Geometric Nonlinear Analysis</i>&#x201d; by Yeong&#x2010;Bin Yang and William McGuire (April, 1986, Vol. 112, No. 4)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1632-1634
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1632) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281632%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281632%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1632-1634
+
+
+    
+        AU - Ziad M. Elias
+    
+
+TI - Discussion of &#x201c;<i>Stiffness Matrix for Geometric Nonlinear Analysis</i>&#x201d; by Yeong&#x2010;Bin Yang and William McGuire (April, 1986, Vol. 112, No. 4)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1634-1635
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1634) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281634%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281634%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1634-1635
+
+
+    
+        AU - Yeong‐Bin Yang
+    
+        AU - William McGuire
+    
+
+TI - Closure to &#x201c;<i>Stiffness Matrix for Geometric Nonlinear Analysis</i>&#x201d; by Yeong&#x2010;Bin Yang and William McGuire (April, 1986, Vol. 112, No. 4)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1635-1637
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1635) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281635%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281635%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1635-1637
+
+
+TI - Erratum: “Biaxially Loaded L‐Shaped Reinforced Concrete Columns” by Cheng‐Tzu Thomas Hsu (December, 1985, Vol. 111, No. 12)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1639-1639
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1639) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281639%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281639%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1639-1639
+
+
+TI - Erratum: “Earthquake Tank‐Wall Stability of Unanchored Tanks” by George C. Manos (August, 1986, Vol. 112, No. 8)
+PT - Journal Article
+DP - 1987
+TA - Journal of Structural Engineering
+PG - 1640-1640
+VI - 113
+IP - 7
+AID - 10.1061/(ASCE)0733-9445(1987)113:7(1640) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281640%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281987%29113%3A7%281640%29
+SO - Journal of Structural Engineering 1987-07-01 113(7): 1640-1640
+
+

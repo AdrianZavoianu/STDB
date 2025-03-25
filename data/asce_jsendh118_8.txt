@@ -1,0 +1,414 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - S. Bild
+    
+        AU - G. Chen
+    
+        AU - N. S. Trahair
+    
+
+TI - Out‐of‐Plane Strengths of Steel Beams
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 1987-2003
+VI - 118
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(1992)118:8(1987) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A8%281987%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A8%281987%29
+SO - Journal of Structural Engineering 1992-08-01 118(8): 1987-2003
+AB - A general finite element method of analyzing the nonlinear effects of instability and yielding on the biaxial bending and torsion of steel I‐section members with residual stresses and geometrical imperfections is presented. The analysis assumes tangent modulus behavior of the elastic‐plastic strain‐hardening material, and makes simple approximations for the effects of shear on yielding and for the shear modulus of the yielded and strain‐hardened material. The results obtained from a computer program based on the element are compared with a wide range of available solutions to confirm the high accuracy of the method in predicting the effects of geometrical imperfections, instability, biaxial bending and torsion, residual stresses, and yielding and strain hardening. The program is used to study the out‐of‐plane strengths of steel I‐beams with residual stresses and geometrical imperfections by extending previous studies of the in‐plane strengths of steel columns and beam columns. This study includes an assessment of the initial crookednesses and twists implied by recent formulations of beam strength.
+
+
+    
+        AU - Deric John Oehlers
+    
+        AU - Sung Moo Park
+    
+
+TI - Shear Connectors in Composite Beams with Longitudinally Cracked Slabs
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 2004-2022
+VI - 118
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(1992)118:8(2004) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282004%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282004%29
+SO - Journal of Structural Engineering 1992-08-01 118(8): 2004-2022
+AB - The longitudinal shear flow in composite steel and concrete beams is transferred across the steel‐flange‐concrete‐slab interface at a discrete number of points by the dowel action of individual shear connectors. The strengths of these dowels are affected by the presence of longitudinal cracks in the concrete slab that may have been formed by transverse flexural forces in the slab or by splitting or by shear forces that are induced by the dispersal of the dowel forces into the concrete slab. Twenty‐five push specimens are tested to determine the effect of transverse reinforcement on the dowel strength of shear connectors that are embedded in longitudinally cracked concrete slabs. This postcracking dowel strength is quantified, and it is found that it is affected by the stiffness of the transverse reinforcement, but not by its strength.
+
+
+    
+        AU - Deric John Oehlers
+    
+
+TI - Reinforced Concrete Beams with Plates Glued to their Soffits
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 2023-2038
+VI - 118
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(1992)118:8(2023) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282023%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282023%29
+SO - Journal of Structural Engineering 1992-08-01 118(8): 2023-2038
+AB - Reinforced concrete beams can be strengthened and stiffened by gluing steel plates to the tension face of the beam. However, experimental tests show that shear and flexural forces can cause these externally bonded plates to peel away before the design load is reached. In this paper, peeling due to shear forces and the interaction between shear peeling and flexural peeling is studied, and the results are used to formulate a design procedure to prevent debonding due to peeling for reinforced concrete beams that have been strengthened or stiffened by gluing steel plates to their soffits. It is shown that this system is better suited for the strengthening of reinforced concrete slabs than reinforced concrete beams, although it enhances the serviceability requirements of both types of structures.
+
+
+    
+        AU - G. S. Palani
+    
+        AU - Sundaramoorthy Rajasekaran
+    
+
+TI - Finite Element Analysis of Thin‐Walled Curved Beams Made of Composites
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 2039-2061
+VI - 118
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(1992)118:8(2039) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282039%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282039%29
+SO - Journal of Structural Engineering 1992-08-01 118(8): 2039-2061
+AB - The equilibrium equation of thin‐walled curved beams of open cross‐sections, based on the principle of virtual work, is presented in variational form. Finite element formulation for static and stability analysis of thin‐walled curved beams of open cross section based on this equilibrium equation is discussed. A straight beam element employing suitable transformations is used to model the curve beams. The geometric stiffness matrix of a thin‐walled curved beam of open cross section has been derived for general loading conditions. Numerical studies have been conducted for in‐ and out‐of‐plane buckling analysis of curved beams made of isotropic and composite sections. The results of the present analysis are compared with the values presented in the literature. Laminated composites of different materials such as glass/epoxy, Kevlar/epoxy, boron/epoxy, and graphite/epoxy with single‐layer 0° composites, two‐layer 45°/−45° composites, and three‐layer 0°/45°/0° composites are considered for static and stability analysis.
+
+
+    
+        AU - Angelo Marcello Tarantino
+    
+        AU - Luigino Dezi
+    
+
+TI - Creep Effects in Composite Beams with Flexible Shear Connectors
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 2063-2080
+VI - 118
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(1992)118:8(2063) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282063%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282063%29
+SO - Journal of Structural Engineering 1992-08-01 118(8): 2063-2080
+AB - This paper presents a method for the viscoelastic analysis of composite steel‐concrete beams with flexible shear connectors. In particular, the proposed method evaluates the effects of the connection device's deformability on the migration of the stresses from the concrete slab to the steel beam, which occurs with time as a result of creep and shrinkage of the concrete part. The mathematical formulation of this problem involves the equations of equilibrium, compatibility, and constitutive relationships, i.e., an elastic law for the steel part and an integral‐type creep law for the concrete part. Thus, the problem is governed by a coupled system of three equations, of which two are integral‐differential‐type equations. This system of equations is resolved by numerical step‐by‐step techniques. Finally, a numerical analysis is applied to show the influence of the main parameters.
+
+
+    
+        AU - A. Alexandridis
+    
+        AU - N. J. Gardner
+    
+
+TI - Tolerance Limits for Geometric Imperfections in Hyperbolic Cooling Towers
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 2082-2100
+VI - 118
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(1992)118:8(2082) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282082%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282082%29
+SO - Journal of Structural Engineering 1992-08-01 118(8): 2082-2100
+AB - The imperfection forces, due to a meridional imperfection in the form of a cosine curve, are calculated using a series solution to the classic elastic thin‐shell theory for hyperboloid cooling tower shells. The closed‐form solution is extended to include the effects of reduced hoop stiffness due to vertical cracking and yield in the circumferential steel. Subsequently, tolerance limits are derived to predict the maximum permissible radial deviation at any level in a cooling tower shell assuming orthotropic behavior due to vertical cracking and extended to include yielding in the circumferential direction, assuming the shell can safely strain in the circumferential direction to twice the yield strain of steel without progressive failure. The tolerance limits derived permit larger radial deviations in the more critically stressed zones near the base of a cooling tower than the limits published by Croll and Kemp and Al‐Dabbagh and Gupta in 1979 and can accommodate imperfections of very short length characteristic of a kink in the perfect meridian.
+
+
+    
+        AU - Henning Agerskov
+    
+        AU - Niels Thougård Pedersen
+    
+
+TI - Fatigue Life of Offshore Steel Structures Under Stochastic Loading
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 2101-2117
+VI - 118
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(1992)118:8(2101) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282101%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282101%29
+SO - Journal of Structural Engineering 1992-08-01 118(8): 2101-2117
+AB - The fatigue life of offshore steel structures under stochastic loading is studied. Of special interest is the problem of fatigue damage accumulation, and in this connection, a comparison between experimental results and results obtained using current codes and specifications. Fatigue test series are performed, with various types of stochastic loadirtg that are realistic in relation to offshore structures. Four different load spectra, with irregularity factors ranging from ∼0.70-1.00, have been applied. The experimental investigation comprises test series on both full‐scale tubular joints and smaller weided test specimens. The materials that have been used until now have been ordinary offshore structural steels, with a yield stress of J. Strain Analysis fy≃360-410MPa. The test series show a significant difference between constant amplitude and variable amplitude fatigue test results. For the welded plate test specimens, approximately 100 fatigue tests have been carried out, and the values of the Miner sum that, were obtained in the variable amplitude test series, generally vary in the range 1/3–2/3. On the basis of these results, a modified fatigue damage accumulation formula is proposed. For the full‐scale tubular joints, the number of test results is currently too limited to draw final conclusions. However, the results obtained until now indicate a value of the Miner sum of M∼0.7-0.8 for the variable amplitude tests.
+
+
+    
+        AU - H. C. Chan
+    
+        AU - Y. K. Cheung
+    
+        AU - Y. P. Huang
+    
+
+TI - Crack Analysis of Reinforced Concrete Tension Members
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 2118-2132
+VI - 118
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(1992)118:8(2118) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282118%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282118%29
+SO - Journal of Structural Engineering 1992-08-01 118(8): 2118-2132
+AB - An analytical model is proposed for crack analysis of reinforced concrete tension members in which the tension‐stiffening effect has been taken into account. To make the model simple and practical, a new bond stress distribution function is used in the analysis instead of a bond‐slip function. The ultimate bond stress and bond stress transfer length are introduced in the bond stress distribution function. The effect of the nonuniform distribution of concrete stress in transverse and longitudinal directions on the crack strength of a reinforced concrete tension member is considered by the proposed expression of crack strength for a reinforced concrete tension member. The predictions of crack loading and elongation of a reinforced concrete member from the model are satisfactory when compared with some available experimental data and analytical results. The model has also been successfully applied to two‐dimensional reinforced concrete element analysis, which will be presented later.
+
+
+    
+        AU - Sinan Altin
+    
+        AU - Ugur Ersoy
+    
+        AU - Tugrul Tamkut
+    
+
+TI - Hysteretic Response of Reinforced‐Concrete Infilled Frames
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 2133-2150
+VI - 118
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(1992)118:8(2133) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282133%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282133%29
+SO - Journal of Structural Engineering 1992-08-01 118(8): 2133-2150
+AB - Strengthening of framed reinforced concrete structures by cast‐in‐place reinforced concrete infills is commonly used in practice. The objective of this study is to investigate the behavior of such infilled frames under seismic loads. For this purpose, 14 two‐story, one‐bay infilled frames are tested under reversed cyclic loading simulating seismic action. The variables investigated are the effect of type of infill reinforcement, the connection between the frame and the infill, and the flexural capacity of columns. Test results are evaluated to estimate the effects of infill on stiffness, strength, energy dissipation, lateral drift, and ductility. The feasibility of different analytical methods is also investigated. The results obtained using such analytical methods are compared with the experimental observations. Using the test results, a simple dynamic evaluation is made to predict the dynamic behavior of infilled frames under seismic action.
+
+
+    
+        AU - Bogdan O. Kuzmanović
+    
+        AU - Manuel R. Sanchez
+    
+
+TI - Design of Bridge Pier Pile Foundations for Ship Impact
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 2151-2167
+VI - 118
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(1992)118:8(2151) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282151%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282151%29
+SO - Journal of Structural Engineering 1992-08-01 118(8): 2151-2167
+AB - Procedures to assess the equivalent static force acting on a bridge pier due to a vessel impact and various pier protective systems are briefly discussed. Equations and closed‐form expressions are developed to obtain transverse and longitudinal components of ship impact, redistributed between pier and superstructure according to their relative stiffnesses. Plumb‐ and batter‐pile combinations are compared. The necessity of investigating batter‐pile combinations in several iteration cycles is stressed. Zero forces in “pulled‐out” piles are assumed in each next consecutive iteration cycle until either stability or failure is reached. Battered piles increase axial forces but decrease bending moments. This reduction in flexure is important because it reduces significantly the required number of prestressing strands in the pile. As an illustration, a comparative plumb and batter pile foundation design of the channel pier of Howard Frankland bridge, in Florida, is given.
+
+
+    
+        AU - Demetres Briassoulis
+    
+
+TI - Integrated Physical Model for Cylindrical Shells
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 2168-2185
+VI - 118
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(1992)118:8(2168) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282168%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282168%29
+SO - Journal of Structural Engineering 1992-08-01 118(8): 2168-2185
+AB - An integrated physical model for closed thin‐walled cylindrical shells under nonaxisymmetric pressure is proposed. The model, based on the interaction of the beam‐plate bending, the membrane, and an equivalent ring foundation load‐carrying mechanism, is capable of capturing the overall physical behavior of the shell under both lower (n=0,1) and higher load (n&gt;1) harmonics. The model converges to the beam on elastic foundation model (n=0), to the Bernoulli‐Euler beam model (n=1), and to the slice‐beam on elastic foundation model (n&gt;1). It also accounts for the beam‐plate bending behavior of the shell (even though only approximately for n&gt;1). The load‐carrying mechanisms activated along the cylindrical shell are determined by the shell geometry and the load harmonic under consideration. For rather shallow and/or thin cylindrical shells and for the lower load harmonics (n=2,3), membrane action is shown to represent the dominating load‐carrying mechanism throughout the cylinder. The corresponding edge disturbances, absorbed by a rather weak ring foundation, have very long decay lengths. As the shell becomes thicker and/or taller, and especially for the higher load harmonics n=6,7,8, the ring action progressively becomes active over a larger portion of the shell.
+
+
+    
+        AU - Madhwesh Raghavendrachar
+    
+        AU - Ahmet E. Aktan
+    
+
+TI - Flexibility by Multireference Impact Testing for Bridge Diagnostics
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 2186-2203
+VI - 118
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(1992)118:8(2186) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282186%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282186%29
+SO - Journal of Structural Engineering 1992-08-01 118(8): 2186-2203
+AB - Modal testing by impact is a practical tool for structural identification, integrity monitoring, and diagnostics of bridges. Typically, nonlinearities in bridge response as well as sensitivity to ambient conditions are observed during modal tests. Therefore, impact tests should be planned and executed so that the effects of nonlinearities are incorporated in estimating modal parameters of a test structure. Furthermore, indexes more reliable than the modal parameters are needed to diagnose local and/or obscure damage. These and other shortcomings in current modal test‐based diagnostic studies are reviewed. A multireference impact testing of a bridge, in which frequency‐response functions (FRF) are measured and a large number of modal parameters are reliably identified, is presented. The mode shape coefficients obtained through processing measured FRF are directly transformed into flexibility of the test bridge without assuming mass. Analytical studies of a calibrated analytical model are presented to demonstrate that flexibility coefficients are more sensitive to local damage than either frequencies or mode shapes.
+
+
+    
+        AU - G. Juhn
+    
+        AU - G. D. Manolis
+    
+        AU - M. C. Constantinou
+    
+        AU - A. M. Reinhorn
+    
+
+TI - Experimental Study of Secondary Systems in Base‐Isolated Structure
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 2204-2221
+VI - 118
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(1992)118:8(2204) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282204%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282204%29
+SO - Journal of Structural Engineering 1992-08-01 118(8): 2204-2221
+AB - This work investigates the response of secondary systems attached to a base‐isolated, six‐story model structure that is subjected to base motions. The secondary systems are modeled by cantilevered, inverted pendulums. They have natural frequencies and mass ratios that span a wide range of values. The scaled model structure is base‐isolated through the use of sliding Teflon disc bearings coupled with restoring helical springs. The structural system is placed on a seismic simulator and is subjected to several prerecorded earthquake accelerograms. Time histories and frequency spectra for the secondary systems and their supporting floors are presented. Subsequently, a numerical model is developed to reproduce the results obtained from the experiments. The level of agreement between numerical and experimental results indicates that the numerical model can be used for the construction of floor response spectra (FRS) for the secondary systems. The experimental results and the numerical studies show that under most circumstances, this novel structural base isolation system reduces the effects of vibrations in the secondary systems.
+
+
+    
+        AU - Ton‐Lo Wang
+    
+        AU - Dongzhou Huang
+    
+        AU - Mohsen Shahawy
+    
+
+TI - Dynamic Response of Multigirder Bridges
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 2222-2238
+VI - 118
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(1992)118:8(2222) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282222%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282222%29
+SO - Journal of Structural Engineering 1992-08-01 118(8): 2222-2238
+AB - The objective of the paper is to study the dynamic behavior of multigirder bridges due to vehicles moving across rough bridge decks. The multigirder bridge is modeled as a grillage beam system. The vehicles are simulated as two nonlinear vehicle models with seven and 12 degrees of freedom according to the H20–44 truck and HS20–44 truck design loadings contained in the American Association of State Highway and Transportation Officials (AASHTO) specifications, respectively. The road‐surface roughnesses of the approach roadways and bridge decks are generated from power spectral density function for very good, good, average, and poor roads in accordance with International Organization for Standardization (ISO) specification. A prestressed‐concrete bridge with span of 20 m is designed based on AASHTO standard bridge girders. The dynamic responses of the longitudinal girders are calculated for single truck and two trucks (side by side), with different speeds and road‐surface roughness. The analytical results show that the transverse diaphragms of bridges greatly affects the lateral dynamic, load distribution of concrete multigirder bridges. In order to verify the proposed procedure for calculation of the dynamic load, the theoretical results obtained have been compared with experimental data reported by Fenves et al. (1962). The comparison shows that the agreement between experiment and theory is quite satisfactory.
+
+
+    
+        AU - Dionisio Bernal
+    
+
+TI - Instability of Buildings Subjected to Earthquakes
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 2239-2260
+VI - 118
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(1992)118:8(2239) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282239%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282239%29
+SO - Journal of Structural Engineering 1992-08-01 118(8): 2239-2260
+AB - A method to check safety against dynamic instability of two‐dimensional buildings is presented. The method is based on the reduction of the multistory structure into an equivalent single‐degree‐of‐freedom (SDOF) system and on the derivation of statistical expressions that yield minimum base shear coefficients to prevent instability as a function of key structural and ground motion parameters. The results indicate that the minimum strength (base shear capacity) needed to withstand a given ground motion without collapse is strongly dependent on the shape of the controlling mechanism but insensitive to the initial elastic stiffness. On the basis of the latter observation it is contended that safety against inelastic dynamic instability cannot be ensured by restricting the drift computed in a linearly elastic model of the structure. It is shown that the minimum design base shear required by the recommended provisions of the National Earthquake Hazards Reduction Program may or may not provide adequate safety against instability, depending on the available overstrength and on the shape of critical mechanism.
+
+
+    
+        AU - Kenneth J. Fridley
+    
+        AU - R. C. Tang
+    
+        AU - Lawrence A. Soltis
+    
+
+TI - Creep Behavior Model for Structural Lumber
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 2261-2277
+VI - 118
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(1992)118:8(2261) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282261%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282261%29
+SO - Journal of Structural Engineering 1992-08-01 118(8): 2261-2277
+AB - An existing four‐element viscoelastic model is used to model the creep response of lumber as a function of load and is modified to account for thermal and moisture effects, including mechanosorptive effects (i.e., the nonlinear interaction between applied stress and changing moisture content reflected in the creep response of wood). Creep data from a large population of Douglas fir nominal 2‐in.‐by‐4‐in. (38.1‐mm‐by‐88.9‐mm) lumber are used to calibrate the model. The lumber is actually tested to failure as part of a parent load‐duration (creep‐rupture) study, but the time‐dependent deflections are also monitored. The purpose for monitoring and evaluating the creep behavior of the lumber is to provide insight into the long‐term behavior of lumber and develop a general creep model that accounts for load and hygrothermal effects.
+
+
+    
+        AU - Geoffrey L. Kulak
+    
+
+TI - Discussion of &#x201c;<i>Fatigue Strength of Riveted Bridge Members</i>&#x201d; by John W. Fisher, Ben T. Yen, and Dayi Wang (November 1990, Vol. 116, No. 11)
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 2280-2281
+VI - 118
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(1992)118:8(2280) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282280%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282280%29
+SO - Journal of Structural Engineering 1992-08-01 118(8): 2280-2281
+
+
+    
+        AU - John W. Fisher
+    
+        AU - Ben T. Yen
+    
+        AU - Dayi Wang
+    
+
+TI - Closure to &#x201c;<i>Fatigue Strength of Riveted Bridge Members</i>&#x201d; by John W. Fisher, Ben T. Yen, and Dayi Wang (November 1990, Vol. 116, No. 11)
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 2281-2282
+VI - 118
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(1992)118:8(2281.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282281.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282281.2%29
+SO - Journal of Structural Engineering 1992-08-01 118(8): 2281-2282
+
+
+    
+        AU - K. Van Dalen
+    
+        AU - J. H. P. Quenneville
+    
+
+TI - Discussion of &#x201c;<i>Prestress Level in Stress&#x2010;Laminated Timber Bridges</i>&#x201d; by Edward F. Sarisley Jr. and Michael L. Accorsi (November 1990, Vol. 116, No. 11)
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 2283-2284
+VI - 118
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(1992)118:8(2283) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282283%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282283%29
+SO - Journal of Structural Engineering 1992-08-01 118(8): 2283-2284
+
+
+    
+        AU - Edward F. Sarisley
+    
+        AU - Michael L. Accorsi
+    
+
+TI - Closure to &#x201c;<i>Prestress Level in Stress&#x2010;Laminated Timber Bridges</i>&#x201d; by Edward F. Sarisley Jr. and Michael L. Accorsi (November 1990, Vol. 116, No. 11)
+PT - Journal Article
+DP - 1992
+TA - Journal of Structural Engineering
+PG - 2284-2285
+VI - 118
+IP - 8
+AID - 10.1061/(ASCE)0733-9445(1992)118:8(2284.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282284.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281992%29118%3A8%282284.2%29
+SO - Journal of Structural Engineering 1992-08-01 118(8): 2284-2285
+
+

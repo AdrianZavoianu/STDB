@@ -1,0 +1,460 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Eduardo Miranda
+    
+
+TI - Evaluation of Site‐Dependent Inelastic Seismic Design Spectra
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1319-1338
+VI - 119
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(1993)119:5(1319) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281319%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281319%29
+SO - Journal of Structural Engineering 1993-05-01 119(5): 1319-1338
+AB - The effect of site conditions on the response of single‐degree‐of‐freedom inelastic systems is investigated. The study is based on 124 earthquake ground motions recorded on rock, alluvium, and soft soil sites. Special emphasis is given to the effects of the level of inelastic deformation on strength and displacement demands. For each soil group, inelastic strength demand spectra corresponding to mean and mean‐plus‐one standard deviation ordinates are presented. The use of elastic analysis to estimate inelastic displacements is evaluated through mean values of the ratio of maximum inelastic to maximum elastic displacements. Spectra are presented for different levels of inelastic deformation and for different soil conditions. Results indicate that inelastic demands are strongly dependent on site conditions, period of vibration, and level of inelastic deformation. Results are compared with design forces specified by current seismic codes. It is shown that design force and displacement demands that are based on inelastic response spectra together with estimates of the overstrength of a structure can lead to a more rational and transparent approach than that of current U.S. design codes.
+
+
+    
+        AU - H. C. Chan
+    
+        AU - Y. K. Cheung
+    
+        AU - Y. P. Huang
+    
+
+TI - Analytical Crack Model for Reinforced‐Concrete Structures
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1339-1357
+VI - 119
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(1993)119:5(1339) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281339%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281339%29
+SO - Journal of Structural Engineering 1993-05-01 119(5): 1339-1357
+AB - Based on a proposed bond stress distribution function that was successfully applied to the analysis of reinforced‐concrete members under tension, a two‐dimensional smeared crack model for reinforced‐concrete structures is presented in this paper. In the model, the tension stiffening effect in cracked reinforced concrete is taken into account in a more appropriate manner. The magnitude of the tension stiffening effect is related to several parameters, namely, the ratio of reinforcement, the diameter of a steel bar, the strength and the cover of concrete and the moduli of reinforcement and concrete. With the derived tangential stress‐strain equations for concrete in the direction perpendicular to the cracks, the constitutive relationship for cracked reinforced concrete is established. Several experimental specimens have been analyzed with this analytical model, and good agreements between the analytical and experimental results are obtained. The results of analysis indicate that the proposed model can be applied to the crack analysis of reinforced‐concrete structures subjected to in‐plane forces with reasonable accuracy.
+
+
+    
+        AU - Tsutomu Usami
+    
+
+TI - Effective Width of Locally Buckled Plates in Compression and Bending
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1358-1373
+VI - 119
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(1993)119:5(1358) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281358%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281358%29
+SO - Journal of Structural Engineering 1993-05-01 119(5): 1358-1373
+AB - The effective‐width concept has been recognized as an efficient way to compute the strength of locally buckled thin‐walled members. In a previous paper, an effective‐width formula for a locally buckled plate in combined compression and bending was presented. The formula was derived from the numerical results of an elastic postbuckling analysis of plates subjected to eccentric loading in its plane. The present paper is aimed to extend the previous study. An elastic‐plastic large‐displacement finite element (FEM) analysis has been performed to compute the ultimate strength of simply supported, initially imperfect steel plates in compression and bending. The plate is assumed to possess initial out‐of‐flatness as well as welding‐type residual stresses. Based on an extensive numerical study, a set of new effective‐width formulas have been derived as functions of both the magnitudes of initial out‐of‐flatness and compressive residual stress. Thus, the formulas could be used to predict the strength variations of various plate‐assembled members in combined compression and bending.
+
+
+    
+        AU - Üsame Yalçin
+    
+        AU - Ahmad J. Durrani
+    
+
+TI - Effect of Slab on Inelastic Response of R/C Building
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1374-1387
+VI - 119
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(1993)119:5(1374) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281374%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281374%29
+SO - Journal of Structural Engineering 1993-05-01 119(5): 1374-1387
+AB - Tests on beam‐to‐column connections have shown that the presence of a slab significantly increases the flexural resistance of the beam under bending, which causes tension in the slab. The analytical beam models should, therefore, be able to simulate this behavior in the inelastic dynamic analysis of buildings. A multispring beam model modified to recognize different strengths and stiffnesses of the beam in the slab‐in‐tension and slab‐in‐compression directions of bending is presented. Analysis of a typical multistory building with the proposed method of beam‐slab representation indicates significant increases in story accelerations and base shear. The curvature ductility demand at the two ends of the beam is affected by the increasing participation of the slab. Furthermore, by recognizing the increased capacity of the beam‐slab section, the demands placed on the columns can be estimated more realistically to assure a strong‐column and weak‐beam mechanism.
+
+
+    
+        AU - A. K. H. Kwan
+    
+
+TI - Mixed Finite Element Method for Analysis of Coupled Shear/Core Walls
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1388-1401
+VI - 119
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(1993)119:5(1388) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281388%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281388%29
+SO - Journal of Structural Engineering 1993-05-01 119(5): 1388-1401
+AB - Theoretically, the finite element method can be applied to any type of building structure. However, not all elements are suitable for coupled wall analysis. Basically, the plane stress elements that model the walls should: (1) Have in‐plane rotations defined as vertical fiber rotations in order to allow direct connection and ensure compatibility with the beam elements; (2) be able to represent the strain state of pure bending so as to avoid parasitic shears; and (3) span at most only one story so that stress discontinuities at floor levels can be allowed. In this paper, two existing elements, namely Cheung's beam‐type element and Kwan's strain‐based element, which satisfy these criteria, are combined together to model shear/core wall structures so as to make the best use of these two elements. Two transition elements that behave like Cheung's element at one vertical edge and like Kwan's element at the other vertical edge are developed. The two existing elements and the two newly developed elements together form a family of wall elements with same degrees of freedom. Examples are given to illustrate the versatility and accuracy of such a mixed finite element method.
+
+
+    
+        AU - Alberto Castellani
+    
+
+TI - Concrete Toughness after 20 Years
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1402-1412
+VI - 119
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(1993)119:5(1402) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281402%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281402%29
+SO - Journal of Structural Engineering 1993-05-01 119(5): 1402-1412
+AB - Test results are presented showing stress‐strain diagrams of aged and young plain concrete columns (20×20×80cm), under cycles of axial deformation of increasing amplitude. The aged columns had been stored for 20 years under controlled conditions and the young columns aged one month. Both series were made employing similar kinds of cement, coarse aggregate, mix proportioning, consistency, and setting conditions. The results show that the aged columns have lower toughness. Different indexes are proposed, based on the mechanical energy required to reach the collapse. The peak resistance of aged columns is some 30% higher than that of the young columns. This partly reduces the differences in energies. Significant differences are shown in terms of ratio between the energies required to reach collapse and the peak resistance. This ratio is shown to carry the same information as the quantity ductility, currently used in earthquake engineering, with reference to an elastic‐perfectly plastic material. Measurements of Poisson ratio on aged columns do not show significant differences with values reported for young concrete.
+
+
+    
+        AU - Sergio M. Alcocer
+    
+
+TI - RC Frame Connections Rehabilitated by Jacketing
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1413-1431
+VI - 119
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(1993)119:5(1413) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281413%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281413%29
+SO - Journal of Structural Engineering 1993-05-01 119(5): 1413-1431
+AB - The behavior of frame connections repaired and/or strengthened by jacketing was assessed experimentally. Four slab‐beam‐column joints were constructed and rehabilitated. The specimens were tested under bidirectional cyclic loading that simulated earthquake‐type motions. Variables were the jacketed element, level of damage of the existing structure prior to rehabilitation, and layout of jacketed column reinforcement. Test results indicated that jacketing was effective to rehabilitate the existing structure. The strength, stiffness, and energy dissipation characteristics of the existing structure were improved considerably by the jackets. The strength corresponding to joint failure, based on current recommendations for design of beam‐column joints, was exceeded by all the specimens. In this test series, no detrimental effect was found in the use of bundles in the jacketed column reinforcement. However, it is preferable to use distributed bars around the column perimeter to avoid bond failure. Finally, the construction of column jackets was done quite easily; however, beam jacketing required large and heavy forms as well as artful detailing during construction, features that might be uneconomical for U.S. practice.
+
+
+    
+        AU - A. Filiatrault
+    
+        AU - R. Tinawi
+    
+        AU - B. Massicotte
+    
+
+TI - Damage to Cable‐Stayed Bridge during 1988 Saguenay Earthquake. I: Pseudostatic Analysis
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1432-1449
+VI - 119
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(1993)119:5(1432) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281432%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281432%29
+SO - Journal of Structural Engineering 1993-05-01 119(5): 1432-1449
+AB - An inspection of the cable‐stayed Shipshaw bridge near Jonquière, Québec, following the 1988 Saguenay earthquake (ML=6.0) revealed the failure of one anchorage plate connecting the steel box girders to one abutment. This paper is the first of two companion papers describing the circumstances of the failure. The static aspects of the problem are considered in this paper, and the dynamic aspects of the analyses are reported in the second paper. The purpose of the investigation was to determine if the Saguenay earthquake was responsible for the failure of the anchorage plate. A site visit revealed damage to the concrete abutments, which suggested a longitudinal motion and pounding of the deck against both abutments. Local buckling of horizontal bracing members underneath the deck support this hypothesis. The results of a finite element analysis showed that the anchorage plates were subjected to high stress concentrations under dead load only, and that the stress increments induced by the earthquake were sufficient to cause the failure. Repair of the bridge with bolted connections (to eliminate stress concentration in the anchorage plate) is described.
+
+
+    
+        AU - A. Filiatrault
+    
+        AU - R. Tinawi
+    
+        AU - B. Massicotte
+    
+
+TI - Damage to Cable‐Stayed Bridge during 1988 Saguenay Earthquake. II: Dynamic Analysis
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1450-1463
+VI - 119
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(1993)119:5(1450) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281450%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281450%29
+SO - Journal of Structural Engineering 1993-05-01 119(5): 1450-1463
+AB - The November 25, 1988, Saguenay earthquake (ML=6.0) is the largest seismic event recorded in eastern Canada. The cable‐stayed Shipshaw bridge, which crosses the Saguenay river near Jonquière, Québec, suffered significant structural damage during the earthquake. One of four anchorage plates connecting the steel box girders to one abutment failed, apparently due to the ground shaking. This paper is the second of two companion papers describing the circumstances of the failure. This paper deals with the dynamic analyses and testing of the bridge that were performed to confirm the cause of failure. Free‐vibration analyses were undertaken to determine the natural frequencies and mode shapes of the bridge. These results were verified by field vibration measurements. A nonlinear dynamic model of the contact friction at the tie‐rod assembly was derived. The model was incorporated in nonlinear time‐step dynamic analyses using horizontal and vertical accelerograms recorded near the site. The results of these analyses confirm the hypothesis that the Saguenay earthquake was the direct cause of failure.
+
+
+    
+        AU - Vladimír Křístek
+    
+        AU - Karel Bauer
+    
+
+TI - Stress Distribution in Front Columns of High‐Rise Buildings
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1464-1483
+VI - 119
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(1993)119:5(1464) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281464%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281464%29
+SO - Journal of Structural Engineering 1993-05-01 119(5): 1464-1483
+AB - A method employing harmonic analysis is presented that enables the quick and convenient evaluation of stress distribution in columns and connecting beams of wide high‐rise buildings subjected to lateral loads. The method idealizes the front of the building as a system of axial load‐carrying column members and shear‐carrying segments. The segment represents the flexural properties of horizontal connecting beams distributed, or smeared, over the story heights. The method is intended for use as a design tool, and can allow for different structural arrangements. Results of numerical calculations are presented to illustrate the influence of various parameters. Various stress distributions are discussed, including those corresponding to the negative shear lag. A suitable computer program, which is very easy to handle, is included in Appendix I for added convenience.
+
+
+    
+        AU - Luigino Dezi
+    
+        AU - Carlo Ianni
+    
+        AU - Angelo Marcello Tarantino
+    
+
+TI - Simplified Creep Analysis of Composite Beams with Flexible Connectors
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1484-1497
+VI - 119
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(1993)119:5(1484) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281484%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281484%29
+SO - Journal of Structural Engineering 1993-05-01 119(5): 1484-1497
+AB - The paper presents some approximate solutions for the time‐dependent analysis of composite steel‐concrete beams with flexible shear connectors. These permit evaluating the migration of the stresses from the concrete slab to the steel beam and the increment of the deflections, which occur gradually with time as a result of creep and shrinkage of the concrete part. The mathematical formulation of this problem, which involves a coupled system of three equations, with two being integral‐differential‐type equations, is reduced to a system of ordinary differential equations by applying the algebraic methods (age‐adjusted‐effective‐modulus, effective‐modulus, and mean‐stress methods). The simplifications introduced by these methods permit obtaining solutions in closed form, which can be useful for practical applications. The accuracy of the numerical results is successively estimated by comparing these values with those of the exact numerical solution, obtained by employing the numerical algorithm proposed elsewhere using the numerical step‐by‐step procedures of the general method.
+
+
+    
+        AU - Wojtek Jesień
+    
+        AU - Theodore Stathopoulos
+    
+        AU - H. Kinh Ha
+    
+
+TI - Dynamic Along‐Wind Response of Buildings: Comparative Study
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1498-1515
+VI - 119
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(1993)119:5(1498) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281498%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281498%29
+SO - Journal of Structural Engineering 1993-05-01 119(5): 1498-1515
+AB - This paper presents a comparative study of current methods for the calculation of along‐wind response of buildings. The methods used in the analysis are based on the National Building Code of Canada, the American National Standard ASCE 7‐88, and the state‐of‐the‐art procedures devised independently by Solari and Simiu. The last version of the method proposed by Engineering Science Data Unit has also been considered. Eight buildings were analyzed. Five buildings were examined in parametric study, whereas the responses of the other three buildings were compared with published experimental data. Satisfactory agreement between the methods has been found for calculated forces and mean displacements of the buildings considered. However, discrepancies in the resonant component of displacements and accelerations have been found. These have mainly been attributed to the different wind velocity spectra, pressure correlation functions, and the mode shapes assumed in the calculations. Uncertainty associated with the measured values has also been considered. The Solari and NBS revised methods show consistency for all computed quantities.
+
+
+    
+        AU - Alexander Michael Ansah
+    
+
+TI - Analysis of Arch Dams
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1516-1538
+VI - 119
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(1993)119:5(1516) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281516%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281516%29
+SO - Journal of Structural Engineering 1993-05-01 119(5): 1516-1538
+AB - A theory for arch dams based on extended shell theory is given and compared with finite‐element‐shell and three‐dimensional (3D) analyses. The dam equations given are solved by successive overrelaxation. In a flexible valley, stress boundary conditions are used. Various loading cases and the pore‐water‐pressure effect are discussed. Valley‐flexibility effects are realized effectively by means of Vogt's equations and a normal shear valley‐deformation analysis given by the writer. On basic theory it is found that in spite of some intrinsic differences there is good agreement between the results of this classical theory and those of the finite‐element analyses, which are very similar. It is concluded that for any arch dam a rigorous shell analysis is as good as a sound 3D analysis; and that the second approximation is as good as the full theory. Also, it is found that the boundary extension artifice depresses transverse displacements.
+
+
+    
+        AU - W. M. Kim Roddis
+    
+
+TI - Structural Failures and Engineering Ethics
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1539-1555
+VI - 119
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(1993)119:5(1539) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281539%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281539%29
+SO - Journal of Structural Engineering 1993-05-01 119(5): 1539-1555
+AB - Major engineering failures act as a catalyst for change in standards of practice and therefore create the opportunity for establishing better ethical practices for the profession. When examining ethics in engineering practice, it is useful to make the distinction between ethics in engineering and ethics of engineering. Ethics in engineering deals with the ethics of actions of individual engineers. Ethics of engineering deals with ethical issues that involve the role of engineers in industry, the ethics of the organizations in which they work and of professional engineering societies, and the ethical responsibilities of the profession. This paper presents case studies of two major structural disasters—the 1907 Quebec Bridge collapse and the 1981 Kansas City, Mo. Hyatt Regency walkway failure. The effect of each failure on engineering ethics is examined from the viewpoint of both ethics in engineering and of ethics of engineering. In response to failures, engineers need to change professional procedures and practices so that they reinforce, rather than place obstacles in the way of, moral action.
+
+
+    
+        AU - Timothy L. Phillips
+    
+        AU - Rafik Y. Itani
+    
+        AU - David I. McLean
+    
+
+TI - Lateral Load Sharing by Diaphragms in Wood‐Framed Buildings
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1556-1571
+VI - 119
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(1993)119:5(1556) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281556%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281556%29
+SO - Journal of Structural Engineering 1993-05-01 119(5): 1556-1571
+AB - Current analysis and design procedures for light‐frame wood buildings do not give consideration to the complex three‐dimensional structural response of the buildings. A full‐scale single‐story wood house is constructed and tested under lateral loads at various stages of loading to evaluate the structural response and load‐sharing characteristics. Different sheathings, fastener arrangements, and openings are incorporated to create shear walls with varying stiffnesses. Extensive force and displacement readings are made of the building during testing to quantify the structural response. Results of the study indicate that the roof diaphragm affected the distribution of lateral load to the shear walls of the building. The roof diaphragm behaved nearly like a rigid diaphragm. Load distribution among the shear walls is a function of wall stiffness and position within the building. The walls transverse to the loading direction carried between 8% and 25% of the applied lateral load. Stiffness contributions provided by additional layers of sheathing are directly additive. 
+
+
+    
+        AU - C. V. Girija Vallabhan
+    
+        AU - Y. C. Das
+    
+        AU - Mohareb Magdi
+    
+        AU - Mehmet Asik
+    
+        AU - James R. Bailey
+    
+
+TI - Analysis of Laminated Glass Units
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1572-1585
+VI - 119
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(1993)119:5(1572) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281572%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281572%29
+SO - Journal of Structural Engineering 1993-05-01 119(5): 1572-1585
+AB - Laminated glass units used for glazing buildings consist of two thin glass plates bonded together by a thin core material, called polyvinyl butyral (PVB). As the plates are usually thin and undergo large lateral displacements, the conventional thin plate theory cannot be applied; instead, a nonlinear theory of plates has to be employed. As well, the interlayer, though soft in material properties, provides significant change in the overall behavior of the composite. Variational calculus and minimum potential energy theorem are employed to obtain the five nonlinear differential equations with appropriate boundary conditions; these equations are solved numerically with iteration. Experiments were conducted at the Glass Research and Testing Laboratory at Texas Tech University, Lubbock, Texas, to validate the mathematical model. Laminated glass units 1.524m×1.524m (60in.×60in.) in size with two glass plates each 4.763 mm (0.1875 in.) thick with a PVB of thickness equal to 1.52 mm (0.06 in.) were tested up to a lateral pressure of 6.895 kPa (1 psi). Lateral displacements and strains at four different locations at the top and bottom of the units were measured. The experimental results are compared with those from the mathematical model and presented in this paper.
+
+
+    
+        AU - P. Marek
+    
+        AU - M. Guštar
+    
+        AU - P. J. Tikalsky
+    
+
+TI - Monte Carlo Simulation—Tool for Better Understanding of LRFD
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1586-1599
+VI - 119
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(1993)119:5(1586) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281586%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281586%29
+SO - Journal of Structural Engineering 1993-05-01 119(5): 1586-1599
+AB - The current procedures for reliability assessment based on limit states design method—load and resistance factor design (LRFD)—do not fully utilize the possibilities offered by advancing computer technology. A procedure is proposed based on the use of the Monte Carlo simulation, allowing to compute the frequency distributions for resulting reliability of structural components expressed, e.g. by ln(R/Q), where R represents the resistance variables, and Q, the load‐effects variables. The procedure introduced through selected examples may be considered as a tool for better understanding of interaction, effects, and relationships of individual variables involved in the reliability assessment process defined by specifications (e.g. LRFD and Eurocode). Computer program M‐Star for IBM PCs allows very fast calculation of algebraic, logarithmic, exponential, and trigonometric functions (containing up to 26 variables expressed by histograms) representing the reliability. In the discussed examples, the reliability is expressed by probability of exceedance (of failure), while nonnegligible dependence of the index of reliability on the actual shape of frequency distributions of individual variables is demonstrated.
+
+
+    
+        AU - Yasuhiro Mori
+    
+        AU - Bruce R. Ellingwood
+    
+
+TI - Reliability‐Based Service‐Life Assessment of Aging Concrete Structures
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1600-1621
+VI - 119
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(1993)119:5(1600) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281600%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281600%29
+SO - Journal of Structural Engineering 1993-05-01 119(5): 1600-1621
+AB - Concrete structures may be affected by aging or changes in strength and stiffness beyond the baseline conditions assumed for design. These changes may impair the safety and serviceability of the structure, and should be considered as part of the process by which a structure is evaluated for continued future service. Methods are being developed using structural reliability principles to evaluate time‐dependent reliability of reinforced or prestressed concrete structures. These methods enable the impact on safety and serviceability of uncertainties in loading conditions, structural strength, and strength degradation due to aggressive environmental Stressors to be assessed qualitatively. Parametric analyses show that the reliability is sensitive to the choice of initial component strength and strength degradation models. Less sensitivity is found to correlate component strengths within a system. Identification of the critical components before performing system reliability analysis is important in reducing the size of the analysis. The role of periodic inspection and maintenance in enabling a target reliability level to be met over a period of continued service also is considered.
+
+
+    
+        AU - Joan Huang
+    
+        AU - Tomasz Wierzbicki
+    
+
+TI - Plastic Tripping of Ring Stiffeners
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1622-1642
+VI - 119
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(1993)119:5(1622) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281622%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281622%29
+SO - Journal of Structural Engineering 1993-05-01 119(5): 1622-1642
+AB - A simple analytical model is developed that describes the plastic‐tripping behavior of a curved cylindrical panel with ring stiffeners. The failure modes of the ring stiffeners with adjacent plating under two types of loading applications, inward and outward bending at the end of the stiffeners, are studied. Energy methods are used to analyze the plastic‐tripping response of the structure. The entire load‐deformation characteristics are determined by combining both the elastic, fully plastic and softening tripping paths. The differences in the structure response to the inward and the outward bending as well as the effects of geometry on the bending resistance are discussed.
+
+
+    
+        AU - Harvey L. Coffman
+    
+        AU - M. Lee Marsh
+    
+        AU - Colin B. Brown
+    
+
+TI - Seismic Durability of Retrofitted Reinforced‐Concrete Columns
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1643-1661
+VI - 119
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(1993)119:5(1643) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281643%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281643%29
+SO - Journal of Structural Engineering 1993-05-01 119(5): 1643-1661
+AB - The seismic performances of four (three retrofitted and one control) half‐scale, circular, reinforced‐concrete columns were studied. The columns were 10‐ft high, 18‐in. diameter cantilevers. The longitudinal flexural steel was spliced to the foundation dowels just above the fixed base. A concentric axial load of 0.20 f′cAg was continually applied during testing. The free ends of the cantilevers were translated to produce a maximum displacement of four times that necessary to produce yield in the longitudinal reinforcing steel. This loading was repeated with both positive and negative displacements in a quasistatic manner until the lateral forces required to produce these displacements approached zero. The measure of seismic durability used was the number of such cycles that a column sustained before losing structural integrity. The laboratory arrangement was intended to model the arrangement of bridge columns constructed in the 1950 to mid‐1970 era. Three columns were retrofitted with prestressed, externally located circular hoops at intervals along the lower 4 ft. The spacing and size of these ties varied from column to column. The control column sustained less than two cycles before losing structural integrity; the retrofitted columns sustained a minimum of 12 cycles.
+
+
+    
+        AU - D. B. Van Dyer
+    
+        AU - Y. Abdul‐Massih
+    
+
+TI - Strength and Efficiency of Eccentrically Loaded Layered Timber Columns
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1662-1668
+VI - 119
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(1993)119:5(1662) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281662%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281662%29
+SO - Journal of Structural Engineering 1993-05-01 119(5): 1662-1668
+AB - The literature on timber structures provides no information on layered timber columns subjected to eccentric loads. This paper presents the results of an investigation into the strength and efficiency of eccentrically loaded bolted layered timber columns. Seventy‐two layered columns covering a wide range of slenderness ratios and three load eccentricities were tested. All columns were fabricated from three component members having similar cross‐sectional dimensions. The test material was No. 1 grade eastern spruce lumber. Compression modulus of elasticity for the test material was obtained from tests on 216 compression specimens taken from each column component member. Strength comparison of eccentrically loaded layered columns, and the efficiency of these columns, is made with respect to theoretical predictions for similar layered columns that are centrally loaded. Column strength is seen to decrease with an increase in column slenderness parameter and with an increase in loading eccentricity. Column efficiency is seen to increase with slenderness parameter, but to decrease as eccentricity increases.
+
+
+    
+        AU - J. F. Davalos
+    
+        AU - D. A. Kish
+    
+        AU - M. P. Wolcott
+    
+
+TI - Bending Stiffness of Stress‐Laminated Timber Decks with Butt Joints
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 1670-1676
+VI - 119
+IP - 5
+AID - 10.1061/(ASCE)0733-9445(1993)119:5(1670) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281670%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A5%281670%29
+SO - Journal of Structural Engineering 1993-05-01 119(5): 1670-1676
+AB - Stress‐laminated timber bridge decks consist of lumber assemblies transversely posttensioned with high‐strength steel bars. The lumber components contain end‐to‐end butt joints to span the length of the bridge. At any cross section of the bridge, the joints are placed in a regular pattern, with one butt joint in a group of three to five laminae. The presence of butt joints in a bridge deck reduces its longitudinal bending stiffness. Since stress‐laminated timber bridge decks are modeled as orthotropic plates, the actual system stiffness properties are needed in the analysis. This paper presents an analytical‐experimental study to verify existing bending stiffness reduction factors for decks with regular butt‐joint patterns. Forty northern red oak and hickory stress‐laminated beams with three butt joint patterns and subjected to three transverse stress levels are tested in bending, and the experimental responses are correlated with existing theoretical predictions using linear regression analysis. Design recommendations are presented.
+
+

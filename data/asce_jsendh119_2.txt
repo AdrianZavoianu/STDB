@@ -1,0 +1,582 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Giovanni Solari
+    
+
+TI - Gust Buffeting. I: Peak Wind Velocity and Equivalent Pressure
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 365-382
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(365) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28365%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28365%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 365-382
+AB - Although the peak wind velocity, the equivalent pressure on rigid bodies, and the dynamic alongwind response of flexible structures are component parts of the gust buffeting problem, different procedures have been developed in the technical literature with reference to each of these subjects. This fact gives rise to conflicting solutions and noticeable inconsistencies of results, especially when these procedures are applied to boundary situations. On the basis of this consideration, this paper and a companion paper propose a revised and generalized formulation of the wind buffeting problem and a unified definition of gust factor. The present paper analyzes the themes of the peak wind velocity and of the equivalent pressure solving both problems in closed form. This goal is pursued by introducing a new general expression of the power spectrum of the alongwind turbulence and by applying the equivalent wind spectrum technique. In the context of this formulation, several well‐known specific procedures can be conceptually regarded as particular cases of this more general treatment.
+
+
+    
+        AU - Giovanni Solari
+    
+
+TI - Gust Buffeting. II: Dynamic Alongwind Response
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 383-398
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(383) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28383%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28383%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 383-398
+AB - The present study is the logical successor to a preceding paper, in which a procedure was developed for treating the peak wind velocity and the equivalent pressure on rigid bodies in a unified way. Based upon this formulation the present paper sets out a closed‐form solution (CFS2) of the dynamic alongwind response of structures that substantially generalizes a previous solution (CFS1) given by the author. The method introduced makes the gust‐buffeting problem formally consistent by defining an equivalent static pressure on flexible structures from which the equivalent pressure on rigid structures can be derived as a limiting solution. Furthermore, it leaves the user free of calculating the dynamic alongwind response associated with any model of the oncoming wind and with any structural modal shape; under this point of view, CFS1 can be regarded as a particular case of CFS2.
+
+
+    
+        AU - Alfred G. Bishara
+    
+        AU - Maria Chuan Liu
+    
+        AU - Nasser D. El‐Ali
+    
+
+TI - Wheel Load Distribution on Simply Supported Skew I‐Beam Composite Bridges
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 399-419
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(399) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28399%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28399%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 399-419
+AB - This paper presents distribution factor expressions for wheel‐load distribution to interior and exterior girders of concrete on multisteel beam composite bridges of medium span length. These expressions were derived from finite element analysis of 36 bridges: with 9 ft spacing of girders, different spans (75, 100, and 125 ft), different widths (39, 57, and 66 ft), different skew angles (0°, 20°, 40°, and 60°), and different spacing and size of intermediate cross frames. The analysis recognizes the three‐dimensional interaction of all bridge members, places the bearings at their actual location, and considers the effect of the restraining forces at the bolster and rocker bearings. To test the validity of the adopted discretization scheme, its results were validated by testing an actual 137 ft. span four‐lane, 59.5° skew bridge. The derived distribution factor expressions give values that are generally much lower than the current American Association of State Highway Transportation Officials (AASHTO) values, particularly for skew bridges. In addition to the girder spacing, these distribution factors recognize the effect of skew, span length, deck slab width, number of girders, and number of loaded traffic lanes, as well as the probability that positioning all the standard AASHTO trucks in locations to produce maximum flexure effects is reduced as the number of loaded lanes exceeds two.
+
+
+    
+        AU - A. K. H. Kwan
+    
+
+TI - Improved Wide‐Column‐Frame Analogy for Shear/Core Wall Analysis
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 420-437
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(420) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28420%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28420%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 420-437
+AB - The wide‐column‐frame analogy is popular in design offices for the analysis of shear/core wall buildings. However, it has been found to yield erroneous results in cases where shear deformation of the walls is significant, e.g. core walls subjected to torsion. There are two sources of error. First, due to discrete modeling of the vertical joints between adjacent planar wall units, the wall elements are subjected to parasitic moments, which cause artificial flexure of the elements and eventually excessive shear deformation of the walls. Second, the rotations of the coupling beams at the beam‐wall joints have been mistaken as equal to the rotations of the horizontal rigid arms and, as a result, the beam end rotations are underestimated by amount equal to the shear strain in the walls. It is proposed that these problems be resolved by: (1) Adjusting the shear deformation factor of the wall elements to compensate for the errors in shear deformation due to artificial flexure; and (2) using beam elements with vertical rigid arms for the coupling beams, so as to eliminate the errors in beam end rotations. Substantial improvement in accuracy is achieved with these modifications.
+
+
+    
+        AU - Jose A. Inaudi
+    
+        AU - James M. Kelly
+    
+
+TI - Minimum Variance Control of Base‐Isolated Floors
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 438-453
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(438) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28438%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28438%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 438-453
+AB - This paper presents a formulation for earthquake‐resistant design of hybrid isolation systems for base‐isolated floors and sensitive equipment mounted on a main structural system. Hybrid isolation techniques constitute a viable alternative for protection of medical equipment, art objects, and sensitive devices subjected to support excitation. An integrated design procedure for the passive and active components of the isolation system is developed aiming at acceleration reduction under random excitation. The active component provides a resistant scheme to absolute motion by an absolute velocity feedback strategy that is a very convenient scheme for acceleration reduction in isolated structures. Constraints in the deformation capacity of the isolators, as well as constraints in the capacity of the actuators, are considered for the design of an optimal hybrid isolation system. Simple numerical examples are developed to illustrate the design procedure. The superiority of hybrid systems over passive systems in reducing acceleration response is demonstrated.
+
+
+    
+        AU - Chris P. Pantelides
+    
+        AU - Amy D. Horst
+    
+        AU - Joseph E. Minor
+    
+
+TI - Postbreakage Behavior of Heat Strengthened Laminated Glass under Wind Effects
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 454-467
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(454) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28454%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28454%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 454-467
+AB - Results of a full‐scale experimental investigation into the postbreakage behavior of heat‐strengthened laminated glass subjected to windstorm effects are presented. Two different interlayer constructions and two different glazing configurations are examined. The two interlayer constructions are a PVB polymer and a PVB/PET/PBV composite polymer. The two glazing configurations are a conventional dry glazed system and an unconventional system with a silicone anchor bead. Two test criteria are established that relate to effects of a severe windstorm. The first criterion addresses impact with windborne debris; the second defines a wind‐load spectrum that represents a severe windstorm of a 4‐hr duration. Three principal findings are presented. First, the ability of heat strengthened laminated glass to reject small missile impacts with small probabilities of breaking the inner glass ply is established. Second, heat‐strengthened laminated glass with the silicone anchor bead performed significantly better than similar glass in a dry‐glazed system. Finally, the heat‐strengthened laminated glass with the PVB/PET/PVB composite interlayer performs significantly better than similar glass with PVB interlayer.
+
+
+    
+        AU - Gilbert Hartley
+    
+        AU - Ahmed Abdel‐Akher
+    
+
+TI - Analysis of Building Frames
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 468-483
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(468) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28468%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28468%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 468-483
+AB - The term building frame as defined in this paper, refers to a general flat‐plate structural system, comprising thin Kirchoff plates (the floor slabs), which are interconnected by one‐dimensional flexural elements (the columns and column walls) of various shapes and layout. The building‐frame material is assumed to be linear elastic. A stiffness method for analyzing this structure addresses the full three‐dimensional frame and is practical for use either as a design tool or for research. The direct boundary element method (DBEM) is used to generate the stiffness properties of the slab thin‐plate element and to calculate the internal actions. Potential applications include stress analysis, and in addition, these numerical procedures permit a more rational basis for studying dynamic behavior, and other types of analysis in which a full building frame structural stiffness model is desirable. The paper is oriented toward a general structural engineering readership.
+
+
+    
+        AU - Fazl Ehsan
+    
+        AU - Nicholas P. Jones
+    
+        AU - Robert H. Scanlan
+    
+
+TI - Effect of Sidewalk Vents on Bridge Response to Wind
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 484-504
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(484) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28484%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28484%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 484-504
+AB - Modifications to bridge deck structures, such as open‐grate sidewalks or vents, have been used with the goal of suppressing wind‐induced oscillations of long‐span bridges. This paper presents results of a detailed two‐dimensional wind‐tunnel study on the effect of different vent configurations on the vortex‐induced response and flutter susceptibility of an H‐section bridge (a 3/125 scale model of the Deer Isle bridge). The presence of the sidewalk vents is seen to have a strong influence on the characteristics of the flow around the deck. The vortex‐shedding process is not disrupted completely but merely reorganized around different frequencies.  Vent configurations that render the deck stable at low wind speeds are seen to have a destabilizing effect at high wind speeds, and vice versa. It is seen that the judicious use of modifications to the deck structure can lead to a stable section in the wind‐speed range of interest. In particular, in this case both the static and the aeroelastic behavior of the model depend mainly on whether the windward vent is open or closed. The leeward vent appears to play a secondary role.
+
+
+    
+        AU - Ioan H. I. Toader
+    
+
+TI - Stability Functions for Members with Semirigid Joint Connections
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 505-521
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(505) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28505%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28505%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 505-521
+AB - The partial restraint of steel‐frame members, which depends on the solution adopted for joint connections, affects the structural stiffness of these structures, and thus affects the overall deflections, internal force distribution, and stability limit loads of these structures as well. To develop an inelastic second‐order analysis model for the analysis of space frames, in which the members are constrained elastically against axial and shearing forces as well as bending and twisting moments, connection springs for every possible degree of freedom at the ends of prismatic structural members have been introduced. A correction matrix—the equivalent stiffness matrix, Ke, for incorporation in a displacement matrix analysis, in terms of various degrees of fixity involved—has been established. This matrix can be used for the second‐order nonlinear analysis as well as for the stability analysis of space frames with semirigid joint connections. The correction factors of the equivalent stiffness matrix (C1yA, C1yB, C2y, C3yA, C3yB, C4y, C1zA, C1zB, C2z, C3zA, C3zB, and C4z) are stability functions for members with semirigid joint connections—a generalization of Livesley's stability functions.
+
+
+    
+        AU - Michael J. Chajes
+    
+        AU - Karl M. Romstad
+    
+        AU - David B. McCallen
+    
+
+TI - Analysis of Multiple‐Bay Frames Using Continuum Model
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 522-546
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(522) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28522%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28522%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 522-546
+AB - An approximate method that can be used to determine displacements and member forces of multiple‐bay frames is presented. The method utilizes simple continuum models. Finite‐element representations of building frameworks resulting from continuum methodology require significantly fewer degrees of freedom than classical discrete finite‐element models, which individually model each of the beam and column elements. As a result, the use of continuum models to analyze structures can result in considerable savings in terms of computational effort. This makes the method attractive for use in the analysis of large frames, especially during the preliminary design stage. This paper reviews the continuum methodology and presents a method for computing discrete element forces from the continuum element displacements. In determining element forces, the effects of deep‐beam‐type cross‐sectional warping are approximated. Examples including the analysis of fixed‐ and pinned‐base single‐ and multiple‐bay plane frames illustrate the accuracy of the continuum analyses procedure.
+
+
+    
+        AU - Thomas Sputo
+    
+
+TI - History of Steel Beam‐Column Design
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 547-557
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(547) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28547%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28547%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 547-557
+AB - Design guidance for structural steel members under combined axial and transverse loads, or beam‐columns, has evolved from very simple assumptions to the present ultimate‐strength approaches. The changes in design recommendations have paralleled the state of knowledge of the behavior of these structural elements. Early elastic models have given way to an understanding of inelastic behavior. This paper follows the advances in design recommendations for these members from the late 19th century to the present specifications, including load and resistance factor design. An example of the application of these methods to a typical steel beam‐column is shown. This information on past design methods will be of assistance to structural engineers involved with rehabilitation of vintage structures.
+
+
+    
+        AU - Hesham Mohammed
+    
+        AU - John B. Kennedy
+    
+
+TI - Response of Long‐Span Soil‐Metal Structures
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 558-572
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(558) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28558%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28558%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 558-572
+AB - In the last four decades, soil‐metal structures have been used extensively as short‐span bridges. With deep soil cover, the soil provides the necessary support for the metallic structure. However, for long spans and shallow soil cover, the soil may not provide enough support. Failures of such structures, some catastrophic, are reported. Previous studies show that reinforcing the soil and tieing the metal structure into the soil improve dramatically the load response. In this paper, a rational design and analytical procedure is presented to determine the ultimate load response of reinforced and nonreinforcing soil‐metal structures of long span under shallow soil cover conditions. The procedure is based on a buckling mode of failure. The effect of reinforcing is accounted for by using a modified modulus of soil reaction. Results from five model soil‐metal structures are compared to the theoretical results. An illustrated design example is given.
+
+
+    
+        AU - Vincent Caccese
+    
+        AU - Mohamed Elgaaly
+    
+        AU - Ruobo Chen
+    
+
+TI - Experimental Study of Thin Steel‐Plate Shear Walls under Cyclic Load
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 573-587
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(573) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28573%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28573%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 573-587
+AB - The results of an investigation into the seismic behavior of unstiffened thin steel‐plate shear walls is presented. Little work has been done in the past to investigate the behavior of unstiffened thin steel‐plate shear walls in resisting lateral forces due to earthquakes or wind. Described is the cyclic testing of six, 1:4 scale specimens that include a moment‐resisting frame, three specimens with varying plate thickness and moment‐resisting beam‐to‐column connections, and two specimens with shear beam‐to‐column connections. Dissimilarities in behavior modes are found when the specimens of different plate thickness are compared to each other. The specimens with thinner plates exhibit an inelastic behavior that is controlled primarily by yielding of the thin plate, and the nonlinear system behavior is predominantly due to the stretching of the plate and the formation of a diagonal tension field. The specimens with thicker plates show an inelastic behavior that is primarily governed by the columns, and the capacity of the specimen with the thickest plate is limited by the instability of the column.
+
+
+    
+        AU - M. Elgaaly
+    
+        AU - V. Caccese
+    
+        AU - C. Du
+    
+
+TI - Postbuckling Behavior of Steel‐Plate Shear Walls under Cyclic Loads
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 588-605
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(588) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28588%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28588%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 588-605
+AB - In current design practice the capacity of a steel‐plate shear wall is limited to the elastic buckling strength of its plate panels. This practice results not only in a conservative design, but also in an undesirable one where the columns yield and may buckle before the plate reaches a fraction of its capacity. Plate buckling is not synonymous with failure and if the plate is adequately supported along its boundaries, as in the case of the shear wall, the postbuckling strength can be several times the theoretical buckling strength. Furthermore, due to the unavoidable out‐of‐plane imperfections, no change in the plate behavior will be observed at the theoretically calculated buckling load. Although the post‐buckling behavior of plates under monotonic loads has been under investigation for more than half a century, this behavior under cyclic loading has not been investigated until recently. One test was conducted at the University of Alberta and 10 tests were conducted at the University of Maine. In this paper analytical models are described. These models are capable of accurately predicting the behavior of the wall in the postbuckling domain under monotonic and cyclic loads.
+
+
+    
+        AU - P. S. Nowak
+    
+        AU - T. W. Hartmann
+    
+
+TI - Eccentric Connection Design: Geometric Approach
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 606-618
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(606) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28606%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28606%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 606-618
+AB - A noniterative and conservative method is developed to predict the ultimate capacity of eccentrically loaded steel connections. The method is based upon the inelastic behavior of the connectors and the geometry of the connection. This geometric approach can be used to analyze connections with skewed loads, arbitrary connection geometries, and varying bolt sizes. A simple interaction equation is developed so that connections with both high and low eccentricities may also be analyzed. Comparisons between these methods, experimental test results, and the ultimate strength method currently used in the American Institute of Steel Construction (AISC) design manuals are given. Results of the interaction equation and the geometric method are within a few percent of experimental test data and are closer than the ultimate strength method, without the need of an iterative approach. Several design examples reveal that the maximum results from the geometric approach and the interaction can be used in design.
+
+
+    
+        AU - Marc O. Eberhard
+    
+        AU - M. A. Sozen
+    
+
+TI - Behavior‐Based Method to Determine Design Shear in Earthquake‐Resistant Walls
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 619-640
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(619) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28619%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28619%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 619-640
+AB - For earthquake‐resistant design of reinforced concrete structures, the shear force for frame elements is established on the basis of the proportions and flexural strength of the element according to the American Concrete Institute Standard 318‐89 (1989), the Applied Technology Council Standard 3‐06 (1989); and the Uniform Building Code, published in 1988. In this paper, a similar procedure is proposed for walls in medium‐rise, reinforced concrete buildings. Results of small‐scale dynamic tests of nine‐ and ten‐story structures with walls are presented to provide data with which to evaluate methods of estimating base shear. Maximum base‐shear response during these tests consistently exceeded limit analysis estimates calculated assuming a linearly varying acceleration distribution. If the observed force distribution is used in estimating base shear, the limit analysis estimates are acceptable. The need to take into account variations of inertial force distribution with base‐motion intensity is supported by experimentally observed behavior, by modal analysis, and by nonlinear response‐history analysis. After discussing other factors that influence maximum base shear, such as strain rate, strain hardening, and systematic experimental error, a design procedure for estimating shear demand for walls that reflects observed behavior is proposed.
+
+
+    
+        AU - Thomas H. Miller
+    
+        AU - Teoman Pekoz
+    
+
+TI - Behavior of Cold‐Formed Steel Wall Stud Assemblies
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 641-651
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(641) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28641%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28641%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 641-651
+AB - The overall behavior under axial loading of cold‐formed steel wall stud assemblies is investigated. Wall stud assemblies consist of several wall studs acting as beam columns, top and bottom tracks to restrain the ends of the studs, and may include both diaphragm and discrete bracing. Particular emphasis is placed on the study of strengthening effects of channel bridging and strap bracing, effective lengths for buckling of braced and unbraced studs, and loading eccentricity effects on axial strength. Experimental efforts include individual long column testing to study the interaction of local and overall buckling, flat‐ended column testing to estimate loading eccentricities for wall studs and tracks bearing directly on concrete floors, and wall stud assembly tests to observe the behavior of the overall system including the effects of commonly used bracing elements. The test results are compared to predictions based on the 1986 American Iron and Steel Institute specification for the design of cold‐formed steel wall studs.
+
+
+    
+        AU - Ai‐Kah Soh
+    
+        AU - Chee‐Kiong Soh
+    
+
+TI - Hot Spot Stresses of Tubular Joints Subjected to Combined Loadings
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 654-661
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(654) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28654%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28654%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 654-661
+AB - An approach has been proposed to verify, and modify if necessary, the conventional method for determining the peak hot spot stresses of various configurations of tubular joints subjected to combined loadings. To illustrate the proposed approaches, three different sizes of TK square‐to‐round tubular joints were subjected to five basic load types (two axial loadings, two in‐plane bendings, and one out‐of‐plane bending) and six combinations of the basic load types. The accuracy of the peak hot spot stresses estimated by the conventional method for combined loadings were found to be closely related to the types of loading condition involved. This relation is due to the possible change in peak stress locations when various basic load types are combined. The peak hot spot stresses of some combined loadings are significantly overestimated by the conventional method and can be reduced to provide accurate data for fatigue analysis.
+
+
+    
+        AU - Richard J. Nielsen
+    
+        AU - Darel Tracy
+    
+        AU - Xiqin Long
+    
+
+TI - Fatigue Reliability under Nonstationary Loads: Model Formulation
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 662-669
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(662) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28662%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28662%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 662-669
+AB - This paper develops a method for predicting the expected low‐cycle fatigue damage in structures subjected to nonstationary loading processes. The load is a filtered Gaussian random process of limited duration. The resulting strain‐response process in a given structural component determines the fatigue damage of the component. The fatigue analysis is based on a recursive definition of waiting‐time distributions for range‐pair cycles. The range‐pair waiting‐time distribution is derived from the crossing rate of the strain‐response process through strain‐range limits. The waiting‐time distributions determine the probability that a given number of range‐pair cycles will occur through the duration of the response. The damage is assumed to accumulate linearly according to the Manson‐Coffin relationship. The methodology is applied numerically to a spherical storage tank subjected to a moderate earthquake. The expected damage correlates well with the results of a Monte‐Carlo simulation, indicating that the methodology can be successfully implemented for loadings of limited duration.
+
+
+    
+        AU - Jacques Rondal
+    
+
+TI - Discussion of &#x201c;<i>Study on Maximum Strength of Cold&#x2010;Formed Steel Columns</i>&#x201d; by C. C. Weng and C. P. Lin (January, 1992, Vol. 118, No. 6)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 672-672
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(672) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28672%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28672%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 672-672
+
+
+    
+        AU - Fred W. Williams
+    
+        AU - Adel K. Jemah
+    
+
+TI - Discussion of &#x201c;<i>Distortional Buckling Solutions for Continuous Composite Beams</i>&#x201d; by Mark Andrew Bradford and Zhi Gao (January, 1992, Vol. 118, No. 1)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 672-674
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(672.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28672.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28672.2%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 672-674
+
+
+    
+        AU - Mark Andrew Bradford
+    
+        AU - Zhi Gao
+    
+
+TI - Closure to &#x201c;<i>Distortional Buckling Solutions for Continuous Composite Beams</i>&#x201d; by Mark Andrew Bradford and Zhi Gao (January, 1992, Vol. 118, No. 1)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 674-674
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(674) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28674%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28674%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 674-674
+
+
+    
+        AU - Michael A. Reitman
+    
+
+TI - Discussion of &#x201c;<i>Predicting Behavior of Cyclically Loaded RC Structures</i>&#x201d; by William K. Rule and Robert E. Rowlands (Feb. 1992, Vol. 118, No. 2)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 675-677
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(675) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28675%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28675%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 675-677
+
+
+    
+        AU - William K. Rule
+    
+        AU - Robert E. Rowlands
+    
+
+TI - Closure to &#x201c;<i>Predicting Behavior of Cyclically Loaded RC Structures</i>&#x201d; by William K. Rule and Robert E. Rowlands (Feb. 1992, Vol. 118, No. 2)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 677-677
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(677) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28677%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28677%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 677-677
+
+
+    
+        AU - Tolgay Toksoy
+    
+        AU - Chuan Chuntavan
+    
+        AU - A. Emin Aktan
+    
+
+TI - Discussion of &#x201c;<i>Modal Analysis for Damage Detection in Structures</i>&#x201d; by George Hearn and Rene B. Testa (October, 1991, Vol. 117, No. 10)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 677-679
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(677.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28677.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28677.2%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 677-679
+
+
+    
+        AU - George Hearn
+    
+        AU - Rene B. Testa
+    
+
+TI - Closure to &#x201c;<i>Modal Analysis for Damage Detection in Structures</i>&#x201d; by George Hearn and Rene B. Testa (October, 1991, Vol. 117, No. 10)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 679-681
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(679) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28679%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28679%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 679-681
+
+
+    
+        AU - Lando Mentrasti
+    
+        AU - Luigino Dezi
+    
+
+TI - Discussion of &#x201c;<i>Negative Shear Lag in Flanges of Plated Structures</i>&#x201d; by Vladim&#xed;r Kr&#x2d8;&#xed;stek and Jir&#x2d8;&#xed; Studnic&#x2d8;ka (December, 1991, Vol. 117, No. 12)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 681-684
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(681) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28681%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28681%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 681-684
+
+
+    
+        AU - L. Adeghe
+    
+        AU - A. Danay
+    
+
+TI - Discussion of &#x201c;<i>Earthquake&#x2010;Induced Base Sliding of Concrete Gravity Dams</i>&#x201d; by Anil K. Chopra and Liping Zhang (December, 1991, Vol. 117, No. 12)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 684-686
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(684) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28684%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28684%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 684-686
+
+
+    
+        AU - Anil K. Chopra
+    
+        AU - Liping Zhang
+    
+
+TI - Closure to &#x201c;<i>Earthquake&#x2010;Induced Base Sliding of Concrete Gravity Dams</i>&#x201d; by Anil K. Chopra and Liping Zhang (December, 1991, Vol. 117, No. 12)
+PT - Journal Article
+DP - 1993
+TA - Journal of Structural Engineering
+PG - 686-686
+VI - 119
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(1993)119:2(686) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28686%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281993%29119%3A2%28686%29
+SO - Journal of Structural Engineering 1993-02-01 119(2): 686-686
+
+

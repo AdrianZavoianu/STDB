@@ -1,0 +1,286 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - J. R. Eyre
+    
+
+TI - Flow Rule in Elastically Restrained One‐Way Spanning RC Slabs
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3251-3267
+VI - 116
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1990)116:12(3251) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283251%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283251%29
+SO - Journal of Structural Engineering 1990-12-01 116(12): 3251-3267
+AB - The applicability of either incremental or total strain plastic potential flow rules to yielding reinforced concrete sections under combined flexure and membrane action has recently been clarified. The correct flow rule applicable depends upon the direction of motion along the yield criterion, which is demonstrated using the special case of a rigid‐plastic strip element with gaps at its abutments. This paper presents the equations for the elastic‐plastic modeling of slab behavior under both flow rules and compares the formulation of previous researchers. The elastic‐plastic model is used to show the applicability of flow‐rule choice to the general case, the circumstances at transfer from one flow rule to the other, and the importance of making the correct choice.
+
+
+    
+        AU - Steen Krenk
+    
+
+TI - Constrained Lateral Buckling of I‐Beam Gable Frames
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3268-3284
+VI - 116
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1990)116:12(3268) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283268%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283268%29
+SO - Journal of Structural Engineering 1990-12-01 116(12): 3268-3284
+AB - An important failure mode of I‐beam gable frames is lateral buckling of the compressed inside flange near the corner of the frame. The magnitude of the buckling load depends on the support provided by the joint at the corner. The outside flange is restrained from translation out of the plane of the frame, whereby the buckling mode is described solely in terms of the angle of rotation of the beams. For the common joint type with a corner plate connecting the flanges a kinematic condition relating the angle of rotation and its derivative for the two beams is derived. A simple beam‐type finite element formulation suitable for design computations is given, and some numerical examples are presented. The support provided by the corner depends on the relative buckling stiffness of the two members. Examples indicate that reasonable approximations to the buckling load can be obtained by the present design procedures using two separate beam calculations. However, if the two beams have approximately the same buckling load, the simplified beam procedure may be unconservative.
+
+
+    
+        AU - Keh‐Chyuan Tsai
+    
+        AU - Egor P. Popov
+    
+
+TI - Seismic Panel Zone Design Effect on Elastic Story Drift in Steel Frames
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3285-3301
+VI - 116
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1990)116:12(3285) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283285%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283285%29
+SO - Journal of Structural Engineering 1990-12-01 116(12): 3285-3301
+AB - A substantial change in seismic design requirements for column panel zones (PZs) in steel moment‐resisting frames (MRFs) for buildings was implemented recently in several codes for building construction. Previously, it was implied that PZs had to develop the full flexural plastic strength of the beams framing a joint without yielding. In the newer seismic steel codes the concept of allowing panel zones to yield prior to or simultaneously with beams has been adopted. This change is based on increasing evidence that PZs can safely sustain cyclic strain reversals and thereby provide some of the needed ductility for a frame. After discussing the basis and the nature of these new provisions, their effect on elastic story drift is illustrated in two examples. A simple approximate method is developed for determining elastic story drift due to PZ deformations. This method can be conveniently used with conventional computer frame‐analysis programs without introducing additional degrees of freedom into the system.
+
+
+    
+        AU - H. C. Fu
+    
+        AU - S. F. Ng
+    
+        AU - M. S. Cheung
+    
+
+TI - Thermal Behavior of Composite Bridges
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3302-3323
+VI - 116
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1990)116:12(3302) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283302%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283302%29
+SO - Journal of Structural Engineering 1990-12-01 116(12): 3302-3323
+AB - This paper presents the analytical results obtained from a parametric study on the thermal behavior of three types of composite bridge structures subjected to solar radiation, namely, a plate‐girder, a single‐cell box, and a two‐cell box‐girder concrete‐steel composite bridge. A series of transient temperature distributions and the thermal stresses for a few selected temperature cases corresponding to a given geographic location and assumed environmental conditions are computed. The results of this study confirm that a steady‐state thermal condition never exists within a bridge structure, in that ambient air temperature and intensity of solar radiation are both time‐dependent. The effects of convection coefficient, slab overhang, and air temperature inside an enclosed box on the temperature distributions of the bridge deck are examined and discussed.
+
+
+    
+        AU - Kevin Z. Truman
+    
+        AU - Franklin Y. Cheng
+    
+
+TI - Optimum Assessment of Irregular Three‐Dimensional Seismic Buildings
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3324-3337
+VI - 116
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1990)116:12(3324) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283324%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283324%29
+SO - Journal of Structural Engineering 1990-12-01 116(12): 3324-3337
+AB - A structural optimization algorithm based on an optimality criteria approach is presented for three‐dimensional, statically and dynamically loaded steel or reinforced concrete structures. The theoretical work is presented in terms of scaling, sensitivity analyses, optimality criteria, and Lagrange multiplier determination. The structures can be subjected to a combination of static and dynamic displacement and stress, and natural frequency constraints. The dynamic analyses are based upon the ATC‐03 provisions for equivalent lateral force and modal analysis procedures, or multicomponent response spectra modal analyses. Using the algorithm presented, a computer program called ODRESB‐3D was developed for analysis and design of various building systems. In this paper, only the design examples of vertically irregular building systems are provided to illustrate the rapid convergence and the practicality of the presented method as well as the effects of ATC‐03 provisions on the optimal structural parameters. Interesting results are: ATC‐03 modal analysis and equivalent lateral force procedures produce similar stiffness distributions but different magnitudes for the irregular structural configurations, and ATC‐03 stability function values are much less than the upper bound value of 0.1 in the provisions.
+
+
+    
+        AU - Mark A. Bradford
+    
+        AU - R. Ian Gilbert
+    
+
+TI - Time‐Dependent Analysis and Design of Composite Columns
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3338-3357
+VI - 116
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1990)116:12(3338) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283338%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283338%29
+SO - Journal of Structural Engineering 1990-12-01 116(12): 3338-3357
+AB - The instantaneous and time‐dependent behavior of composite steel‐concrete columns subjected to eccentric axial load is examined analytically. The age‐adjusted effective modulus method is used for the analysis of individual cross sections to include the time‐dependent effects of creep and shrinkage in the concrete. Cracking of the concrete is also included. An iterative procedure is described to successively adjust the secondary moments as the geometry of the column changes with time. Agreement between analytical results and experimental measurements is shown to be good. Finally, a design‐oriented procedure is proposed for estimating the maximum acceptable service load on a slender, eccentrically loaded composite column. This approach uses a factored strength prediction developed elsewhere that is described in the paper. The design‐oriented procedure may be implemented readily on a hand calculator.
+
+
+    
+        AU - Michel Bruneau
+    
+        AU - Stephen A. Mahin
+    
+
+TI - Normalizing Inelastic Seismic Response of Structures having Eccentricities in Plan
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3358-3379
+VI - 116
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1990)116:12(3358) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283358%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283358%29
+SO - Journal of Structural Engineering 1990-12-01 116(12): 3358-3379
+AB - The potentially disastrous consequences of “plan eccentricities” on the seismic response of structures is well recognized, but the exact influence of various parameters on the inelastic response of such systems remains unclear. This paper presents the results of an extensive parametric study conducted to investigate the effect of the uncoupled translational frequency ωx, the ratio of uncoupled frequencies Ω, the normalized eccentricity (e/r), and the level of excitation, on the inelastic response of simple structures having eccentricities in plan. A procedure is developed to ensure a logical comparison between the response of the eccentric systems and equivalent single‐degree‐of‐freedom (SDOF) benchmark. This procedure hinges on the definition of an equivalent SDOF system, and on a relationship between the excitation levels of the eccentric and SDOF systems. The findings and observations noted from this parametric study, initially conducted on simple monosymmetric bilinear two‐element single‐story systems, are then shown to be equally applicable for systems with multiple elements, various types of element models, and some simple multistory systems. In consequence of these findings, a simple preliminary design methodology is proposed to estimate ductility demands on simple systems with plan eccentricities, without having to perform detailed inelastic analyses.
+
+
+    
+        AU - Oral Buyukozturk
+    
+        AU - Mourad M. Bakhoum
+    
+        AU - S. Michael Beattie
+    
+
+TI - Shear Behavior of Joints in Precast Concrete Segmental Bridges
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3380-3401
+VI - 116
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1990)116:12(3380) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283380%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283380%29
+SO - Journal of Structural Engineering 1990-12-01 116(12): 3380-3401
+AB - Joints between segments in precast concrete segmental bridges (PCSB) require special attention in design and construction. These joints introduce discontinuity in the bridge; meanwhile they must transmit compressive and shear stresses. Tests were carried out to assess the shear strength and deformation behavior of precast segmental bridge joints. The parameters studied included flat and keyed joints, without epoxy (dry) and with, the level of prestressing, and the epoxy thickness. It was found that the strength of epoxied joints is consistently higher than that of dry joints. However, the failure of the epoxied joints was found to be very sudden and brittle. Formulas are proposed for assessing the shear strength of PCSB joints. Combinations of these formulas with the current ACI and AASHTO specifications for shear design, aimed at preventing diagonal failures, may provide a rational basis for the design of PCSB.
+
+
+    
+        AU - Gaetano Russo
+    
+
+TI - Beam Strength Enhancement at Design Ductility Factor Demands
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3402-3416
+VI - 116
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1990)116:12(3402) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283402%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283402%29
+SO - Journal of Structural Engineering 1990-12-01 116(12): 3402-3416
+AB - A refined bending‐analysis model is presented that accurately predicts available experimental results. By means of this model, the relations of the ultimate‐to‐yielding moment ratio versus the longitudinal reinforcement ratio are deduced for a beam that is rectangular in cross section with two reinforcement layers. Two values of the curvature‐ductility factor were assumed to be boundary values of the demand during a severe earthquake. From each of the two values a moment value is then derived, which is considered ultimate. The results show that the strength enhancement due to strain‐hardening of the reinforcing steel can vary over a wide range of values (12‐65%) depending on the longitudinal (in tension and compression) and transverse reinforcement ratios. Hence the ACI Committee 352 recommendation of a constant (40%) increase in the sum of beam's nominal moment strength at beam‐column joints is found to be inadequate. To provide an approximate evaluation of the strength enhancement, thus avoiding the iterative analytical solution, a simple numerical model that gives reasonable agreement with the more exact values is proposed.
+
+
+    
+        AU - Deric John Oehlers
+    
+
+TI - Deterioration in Strength of Stud Connectors in Composite Bridge Beams
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3417-3431
+VI - 116
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1990)116:12(3417) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283417%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283417%29
+SO - Journal of Structural Engineering 1990-12-01 116(12): 3417-3431
+AB - It is a common practice for the stud shear connections in composite bridge beams to be designed for both strength, to resist the ultimate loads, and for endurance, to resist the numerous applications of the serviceability loads. These two calculations are normally done independently of each other and the upper bound of the two connector distributions is used in design. This technique therefore assumes that there is no interaction between the strength of the shear connection and the fatigue loads. However, new experimental tests now show that the monotonic strength of stud shear connectors reduces under fatigue loads, and hence present design techniques do not simulate the actual behavior of the shear connection. A method is given of designing the shear connection to allow for the reduction in the monotonic strength due to fatigue loads that can also be used to estimate the residual strength of the shear connection in existing bridge beams.
+
+
+    
+        AU - A. S. Prasada Rao
+    
+
+TI - Direct Analysis of Prestressed Concrete Members
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3432-3447
+VI - 116
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1990)116:12(3432) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283432%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283432%29
+SO - Journal of Structural Engineering 1990-12-01 116(12): 3432-3447
+AB - Expressions for the direct computation of time‐dependent stress and strain in a fully prestressed concrete section with or without nonprestressed reinforcement are given. Linearization of the exponential expression of the relaxation loss reduction factor and the simultaneous use of equilibrium and compatibility equations leads to a compact 2×2 matrix, the solution of which directly gives the time‐dependent stress and strain distribution across the cross section. To directly account for the elastic shortening effect in the posttensioned member, half the transformed area of the prestressing steel is considered while the full transformed area is considered in the case of pretensioned members. The suggested procedure requires neither the prior estimation of loss of prestress due to elastic shortening, concrete creep and shrinkage, and steel relaxation, nor the time‐consuming iterative approach to account for the effect of creep and shrinkage of concrete on steel relaxation. A numerical example of a posttensioned beam is given to demonstrate the method. The method is applicable to pretensioned beams as well.
+
+
+    
+        AU - R. A. Behr
+    
+        AU - E. J. Cundy
+    
+        AU - C. H. Goodspeed
+    
+
+TI - Cost Comparison of Timber, Steel, and Prestressed Concrete Bridges
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3448-3457
+VI - 116
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1990)116:12(3448) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283448%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283448%29
+SO - Journal of Structural Engineering 1990-12-01 116(12): 3448-3457
+AB - This study was undertaken to investigate the economics of timber bridge superstructures versus traditional steel/concrete and prestressed concrete alternatives in the short‐span range of 20 to 60 ft (6.1–18.3 m). Only superstructure costs were considered because substructure and abutment costs are highly site‐specific. A lack of definitive data regarding service lives and maintenance costs precluded a life‐cycle cost study; thus, only initial costs were compared. Representative superstructure designs were obtained for timber, steel/concrete, and prestressed concrete bridges at 20‐, 40‐, and 60‐ft spans. Five to six northern New England general contractors performed cost estimates on these designs. Also, nine timber bridge designs, three at each span length, received cost estimates from three timber bridge suppliers. Results from general contractors indicated that timber was cost competitive with steel/concrete and was less expensive than prestressed concrete. Results from timber bridge suppliers showed more impressive distinct initial cost advantages for timber over both steel/concrete and prestressed concrete. The study indicated the initial cost effectiveness of modern, short‐span timber bridges in northern New England.
+
+
+    
+        AU - S. M. Cramer
+    
+        AU - D. Shrestha
+    
+        AU - W. B. Fohrell
+    
+
+TI - Theoretical Consideration of Metal‐Plate‐Connected Wood‐Splice Joints
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3458-3474
+VI - 116
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1990)116:12(3458) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283458%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283458%29
+SO - Journal of Structural Engineering 1990-12-01 116(12): 3458-3474
+AB - A model is presented for the tensile and bending analysis of metal‐plate‐connected wood‐splice joints. The model employs a nonlinear, plane stress finite element formulation to allow computation of the internal deformations, stress conditions, and ultimate strength for these joints. The individual stiffness contributions of the wood in the contact area, the steel plate, and the tooth‐wood interface are considered in the analysis. Application of the model shows a strong plate‐size effect in the lateral load resistance of plates computed in the standard manner on a per‐tooth basis. The theoretical mechanical behavior associated with the size effect is discussed. This research shows that current design assumptions represent realistic approximations of behavior for relatively small plate connections, but unrealistic ones for connections involving larger plates. As a result, this research may be useful for refining the design procedure of longer span trusses containing larger metal‐plate connectors. The ability to model bending behavior and assess the effect of gap closure between members is shown. Ultimate bending moments are predicted for two examples within 10%.
+
+
+    
+        AU - Luis Miguel da Cruz Simões
+    
+
+TI - Reliability of Portal Frames with Interacting Stress Resultants
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3475-3496
+VI - 116
+IP - 12
+AID - 10.1061/(ASCE)0733-9445(1990)116:12(3475) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283475%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A12%283475%29
+SO - Journal of Structural Engineering 1990-12-01 116(12): 3475-3496
+AB - A general formulation based on mathematical programming and structural reliability theory is given for the analysis and synthesis of portal frames where yield with respect to plastic collapse is governed by several stress resultants. The mechanism compatibility equations are formulated using the generalized mesh description. The elasto‐plastic material is assumed to satisfy Drucker's postulate of stability. The stochastically most important modes of the reliability assessment problem are found by minimizing a quadratic concave function over a linear domain. Mathematical programming techniques that include recent developments in concave quadratic minimization are presented. The paper also describes a first‐order second‐moment reliability‐based approach to the optimum design of ductile frames. It involves an iterative process, which is repeated until the best reliability‐based design is obtained. This design has a preassigned reliability level against plastic collapse and simultaneously minimizes the prescribed objective function. Examples are solved by employing the proposed computational techniques.
+
+

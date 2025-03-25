@@ -1,0 +1,440 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Sashi K. Kunnath
+    
+
+TI - Editor’s Note
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 169-170
+VI - 132
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2006)132:2(169) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28169%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28169%29
+SO - Journal of Structural Engineering 2006-02-01 132(2): 169-170
+
+
+    
+        AU - W.-M. Chi
+    
+        AU - A. M. Kanvinde
+    
+        AU - G. G. Deierlein
+    
+
+TI - Prediction of Ductile Fracture in Steel Connections Using SMCS Criterion
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 171-181
+VI - 132
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2006)132:2(171) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28171%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28171%29
+SO - Journal of Structural Engineering 2006-02-01 132(2): 171-181
+AB - Conventional fracture mechanics approaches have limited capabilities to accurately predict fracture under conditions of large scale yielding or in complex geometries where there are no significant pre-existing flaws. Such conditions are found, for example, in welded steel moment connections that meet stringent detailing and quality assurance requirements for seismic design that have been imposed in response to damage caused by the Northridge earthquake. The stress modified critical strain (SMCS) criterion provides an alternative approach for modeling ductile crack initiation by relating the fundamental process of void initiation, growth, and coalescence to macroscopic stresses and strains, obtained using detailed finite element models. The material-specific parameters of the SMCS model are calibrated for mild A572 Grade 50 steel using a series of notched tensile tests and fractographic data. Accuracy of the SMCS criterion is demonstrated for specimens with a range of triaxial constraint conditions, including both sharp-crack fracture specimens and blunt-notch specimens, the latter being examples of cases where conventional fracture mechanics approaches would not apply. The SMCS model is then applied in a practical demonstration to relate data from idealized pull-plate tests to the fracture resistance of beam–column moment connections.
+
+
+    
+        AU - David Duerr
+    
+
+TI - Pinned Connection Strength and Behavior
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 182-194
+VI - 132
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2006)132:2(182) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28182%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28182%29
+SO - Journal of Structural Engineering 2006-02-01 132(2): 182-194
+AB - Theoretical and experimental studies of pinned connections that have been published over the past 
+
+65
+years
+
+ are discussed. Elastic stress distribution, service load deformations, and ultimate strength behavior are examined. The findings reported in the literature are correlated and a single set of equations that define pinned connection strength and behavior are developed. The predictions of these equations are compared to the reported test data and statistics are computed that may be used for the development of resistance factors or design factors for use in design specifications. Recommendations for additional research are made.
+
+
+    
+        AU - Robert G. Driver
+    
+        AU - Hassan H. Abbas
+    
+        AU - Richard Sause
+    
+
+TI - Shear Behavior of Corrugated Web Bridge Girders
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 195-203
+VI - 132
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2006)132:2(195) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28195%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28195%29
+SO - Journal of Structural Engineering 2006-02-01 132(2): 195-203
+AB - Results from many shear strength tests conducted on steel I-girder specimens with corrugated webs are available in the literature wherein both local and global shear buckling modes have been observed. A systematic analysis of these data has revealed that previously proposed equations based on plate buckling theories can overestimate the shear strength of corrugated webs by a considerable margin. The results of finite element analyses conducted as part of this investigation suggest that the strength is overestimated, at least in part, because of the sensitivity of the shear behavior to the presence of initial imperfections in the web. Shear tests reported in the literature were conducted primarily on relatively small-scale specimens with dimensions and web thicknesses substantially smaller than would be used in actual bridge girders. Therefore, two full-scale corrugated web girders made of HPS 485W steel were tested. The shear strength and failure mode of the girders are reported and the effect of web initial geometric imperfections is assessed through measurements of the out-of-plane displacements of the web. Since web imperfections due to the fabrication process, as well as residual stresses and material nonlinearities, are expected to be present in varying degrees, a lower bound equation is proposed for design that accounts for both local and global buckling of the web in the elastic and inelastic domains.
+
+
+    
+        AU - Kim J. Rasmussen
+    
+
+TI - Design of Slender Angle Section Beam-Columns by the Direct Strength Method
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 204-211
+VI - 132
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2006)132:2(204) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28204%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28204%29
+SO - Journal of Structural Engineering 2006-02-01 132(2): 204-211
+AB - This paper is concerned with the application of the direct strength method to equal angle section beam-columns with locally unstable legs. In contrast to existing design methods, which independently determine the compression and bending capacities and use an interaction equation to combine these, the direct strength method determines the elastic local buckling stress for the actual stress distribution resulting from the combined action of compression and bending, and incorporates the elastic buckling stress into a direct strength equation for beam-columns. In applying the method to equal leg angles, the torsional buckling mode is ignored when determining the overall buckling capacities, since it is accounted for through the local buckling mode, and the shift of the effective centroid is incorporated as an additional loading eccentricity. The shift in the effective centroid resulting from local buckling is determined from the actual stress distribution, as obtained using Stowell’s classical solution, in place of an effective cross section. The predicted strengths are conservative compared to tests on slender equal angle columns, and are shown to accurately predict the variation in load with applied loading eccentricity.
+
+
+    
+        AU - B. W. Schafer
+    
+        AU - A. Sarawit
+    
+        AU - T. Peköz
+    
+
+TI - Complex Edge Stiffeners for Thin-Walled Members
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 212-226
+VI - 132
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2006)132:2(212) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28212%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28212%29
+SO - Journal of Structural Engineering 2006-02-01 132(2): 212-226
+AB - The objective of this paper is to investigate the behavior, and provide recommendations on, the design of open cross-section thin-walled cold-formed steel members that employ complex stiffeners. Complex stiffeners are formed when the free edge of an open section is folded multiple times, as opposed to simple stiffeners which employ a single fold (a lip). Simple stiffeners become ineffective when long lips are required to stabilize the flange, as the lip itself initiates the instability. In the elastic buckling regime, complex stiffeners are shown to hold a distinct advantage in local buckling over simple stiffeners. Closed-formed solutions for both local and distortional buckling of members with complex stiffeners can provide conservative and reliable solutions, but remain cumbersome and somewhat limited in applicability, therefore numerical solutions are preferred. Nonlinear finite element analysis is used to examine the post-buckling and ultimate strength regime. Complex stiffeners are shown to provide improved ultimate strength performance over simple stiffeners, but with a slight increase in imperfection sensitivity. Further, for an equivalent amount of material, complex stiffeners only provide advantages for specific stiffener lengths, though global optimal designs (maximum strength while minimizing material) still favor complex stiffeners over simple stiffeners in the investigated examples. The cold-formed steel design specification in current use is shown to be a poor predictor for the ultimate strength of bending members with complex stiffeners. However, the direct strength method, recently adopted as an alternative design method in the North American Specification for cold-formed steel members is shown to be a reliable predictor of ultimate strength. The direct strength method is recommended for design and optimization of members with complex stiffeners.
+
+
+    
+        AU - R. Seracino
+    
+        AU - C. T. Lee
+    
+        AU - Z. Tan
+    
+
+TI - Partial Interaction Shear Flow Forces in Continuous Composite Steel–Concrete Beams
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 227-236
+VI - 132
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2006)132:2(227) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28227%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28227%29
+SO - Journal of Structural Engineering 2006-02-01 132(2): 227-236
+AB - Most research since the introduction of mechanical forms of shear connection to provide interaction in steel–concrete beams in the 1940s has focused on simply supported beams. With the use of advanced computer techniques current research on continuous beams is increasing and tends to focus on design issues. However, the fatigue assessment of existing composite bridges worldwide is growing rapidly due to increasing allowable load limits and because many of the bridges are reaching the end of their originally anticipated design life. Based on linear elastic partial interaction theory, this paper develops simplified equations and practical assessment charts that are used to more accurately assess the remaining strength or endurance of the shear connection in continuous composite beams. This research extends the tiered assessment approach previously published for simply supported beams so that it is now applicable to composite beams with any number of spans, varying span lengths and varying shear connection distribution, and/or cross-sectional geometry. The technique is validated using a finite element program developed to model the behavior of composite structures and an example application in a fatigue assessment is given.
+
+
+    
+        AU - Wendel M. Sebastian
+    
+
+TI - Performance Implications of Imperfectly Plastic Material in Metallic Structures with Nonmetallic Reinforcement
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 237-243
+VI - 132
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2006)132:2(237) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28237%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28237%29
+SO - Journal of Structural Engineering 2006-02-01 132(2): 237-243
+AB - The performance under load of flexural metallic structures with adhesively bonded nonmetallic—specifically fiber reinforced polymer (FRP)—reinforcement can be strongly influenced by the stresses developed in the adhesive connection. High shear stresses in the adhesive can lead to connection failure and so to significant loss of structural integrity. If the metal is steel or wrought iron, one source of high shear stress in the adhesive is yield of the metal. This is because the reduced flexural stiffnesses in yield zones lead to high curvatures and so to high axial stresses in the FRP, and the resulting increased axial stress gradients along the FRP dictate the presence of high concomitant shear stresses from the adhesive. The present study uses a verified finite element analysis of a FRP-plated steel member to show that these adhesive shear stresses can be sensitive to small deviations of the metal from elastic-perfectly plastic behavior. Two deviations from this idealized behavior, namely a rounded “knee” instead of the abrupt kink in the transition from elastic to inelastic behavior, and strain hardening in the inelastic regime, are considered. The effects of change in stiffness of the adhesive and of the FRP plate are also considered. The results show that yield zone shear stresses can be significantly sensitive to small changes in the steel constitutive model and to stiffness changes of the plate, and palpably sensitive to stiffness changes of the adhesive. Some of the results are counter-intuitive, in that increase in stiffness of the FRP plate results in lower, not higher, shear stresses in yield zones. It is concluded that robust prediction of performance requires accurate constitutive modeling of the metal.
+
+
+    
+        AU - Michael H. Scott
+    
+        AU - Gregory L. Fenves
+    
+
+TI - Plastic Hinge Integration Methods for Force-Based Beam–Column Elements
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 244-252
+VI - 132
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2006)132:2(244) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28244%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28244%29
+SO - Journal of Structural Engineering 2006-02-01 132(2): 244-252
+AB - A new plastic hinge integration method overcomes the problems with nonobjective response caused by strain-softening behavior in force-based beam–column finite elements. The integration method uses the common concept of a plastic hinge length in a numerically consistent manner. The method, derived from the Gauss–Radau quadrature rule, integrates deformations over specified plastic hinge lengths at the ends of the beam–column element, and it has the desirable property that it reduces to the exact solution for linear problems. Numerical examples show the effect of plastic hinge integration on the response of force-based beam–column elements for both strain-hardening and strain-softening section behavior in the plastic hinge regions. The incorporation of a plastic hinge length in the element integration method ensures objective element and section response, which is important for strain-softening behavior in reinforced concrete structures. Plastic rotations are defined in a consistent manner and clearly related to deformations in the plastic hinges.
+
+
+    
+        AU - C. M. Wang
+    
+        AU - K. K. Vo
+    
+        AU - Y. H. Chai
+    
+
+TI - Membrane Analysis and Minimum Weight Design of Submerged Spherical Domes
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 253-259
+VI - 132
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2006)132:2(253) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28253%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28253%29
+SO - Journal of Structural Engineering 2006-02-01 132(2): 253-259
+AB - This paper is concerned with the membrane analysis and minimum weight design of submerged spherical domes. In addition to the hydrostatic pressure, loads acting on the dome include the self-weight and a skin cover load. By adopting a uniform strength design as governed by the Tresca yield condition, the variation of the shell thickness of spherical domes can be accurately defined by a power series. Based on a family of uniform strength designs associated with a given depth of water and the dome’s base radius, we determine the optimal subtended angle 
+
+2α
+
+ (and the optimal dome height) for the minimum weight design of submerged spherical domes.
+
+
+    
+        AU - Terje Haukaas
+    
+
+TI - Efficient Computation of Response Sensitivities for Inelastic Structures
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 260-266
+VI - 132
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2006)132:2(260) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28260%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28260%29
+SO - Journal of Structural Engineering 2006-02-01 132(2): 260-266
+AB - Response sensitivities with respect to the parameters of a finite element model are useful in many applications. The direct differentiation method (DDM) is commonly utilized to obtain such results. In recent years, the DDM has been extended to include sensitivities of inelastic response with respect to material, load, and geometry parameters. While the DDM is more efficient and accurate than finite difference methods, considerable cost is still associated with the computation of response sensitivities for inelastic problems. In this paper it is demonstrated that the computational cost can be significantly reduced for certain types of problems that are common in structural engineering. A novel event-based computation strategy is suggested, whereby sensitivities of the final response are obtained more efficiently than in the ordinary DDM. It is also demonstrated that sensitivity contributions from all inelastic material points are not needed for statically determinate structures. Numerical examples involving a truss structure, a steel frame structure, and a reinforced concrete frame structure are presented to demonstrate the efficiency of the presented developments.
+
+
+    
+        AU - S. G. Buonopane
+    
+        AU - B. W. Schafer
+    
+
+TI - Reliability of Steel Frames Designed with Advanced Analysis
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 267-276
+VI - 132
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2006)132:2(267) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28267%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28267%29
+SO - Journal of Structural Engineering 2006-02-01 132(2): 267-276
+AB - The design of steel frames by advanced analysis can result in more efficient structures while maintaining satisfactory levels of reliability by incorporating nonlinear structural analysis. The structural reliabilities of a series of two-story, two-bay steel frames designed by both load and resistance factor design (LRFD) and advanced analysis methods are compared. Yield strength and gravity loads are modeled as random variables. Strength distributions and probabilities of failure are calculated by Monte Carlo simulation and first-order approximation for two failure criteria—plastic collapse and first plastic hinge. The results indicate that LRFD methods successfully enforce the target reliability on first plastic hinging. In contrast, design by advanced analysis results in acceptable reliabilities against plastic collapse, but relatively large probabilities of plastic hinging at service load levels. Specifications based on advanced analysis may require greater attention to serviceability criteria. Resistance factors for advanced analysis are calculated based on the strength distributions for two levels of target reliability. System-based failure criteria, such as plastic frame collapse, present a fundamental difficulty in determining resistance factors applicable to a wide-range of structures.
+
+
+    
+        AU - Lei Xu
+    
+        AU - Yanglin Gong
+    
+        AU - Donald E. Grierson
+    
+
+TI - Seismic Design Optimization of Steel Building Frameworks
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 277-286
+VI - 132
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2006)132:2(277) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28277%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28277%29
+SO - Journal of Structural Engineering 2006-02-01 132(2): 277-286
+AB - This paper presents a multicriteria optimization method for the performance-based seismic design of steel building frameworks under (equivalent static) seismic loading. Minimizing structural cost (interpreted as structural weight) is taken as one objective. The other objective concerns minimizing earthquake damage which, since uniform postelastic ductility demand over all stories generally avoids local weak-story collapse, is interpreted as providing a uniform interstory drift distribution over the height of the building. That is, the overall objective for the design of a building framework is to have minimum structural weight and uniform plastic ductility demand while, at the same time, meeting displacement and strength constraints corresponding to the various performance levels. Explicit forms of the objective functions and constraints in terms of member sizing variables are formulated to enable computer solution for the optimization model. The concepts are illustrated for three-story and nine-story steel building frame examples.
+
+
+    
+        AU - André Filiatrault
+    
+        AU - Howard Matt
+    
+
+TI - Seismic Response of High Voltage Electrical Transformer–Bushing Systems
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 287-295
+VI - 132
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2006)132:2(287) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28287%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28287%29
+SO - Journal of Structural Engineering 2006-02-01 132(2): 287-295
+AB - High voltage porcelain bushings mounted on transformers have shown vulnerability during past earthquakes. This is contrary to the generally good performance observed during shake table qualification testing of bushings anchored to a rigid base. The seismic vulnerability of porcelain bushings might be caused by the flexibility of transformer tanks and of bushing attachments. Current seismic qualification guidelines consider an amplification factor of 2.0 between the amplitude of the ground motion and the amplitude of the motion at the base of the bushing. This paper investigates numerically the dynamic response of porcelain bushings mounted on transformer tanks. The results of the numerical study show that large amplification occurs when the fundamental frequency of the porcelain bushing is tuned with the fundamental frequency of the transformer tank.
+
+
+    
+        AU - Melissa D. Burton
+    
+        AU - Kenny C. Kwok
+    
+        AU - Peter A. Hitchcock
+    
+        AU - Roy O. Denoon
+    
+
+TI - Frequency Dependence of Human Response to Wind-Induced Building Motion
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 296-303
+VI - 132
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2006)132:2(296) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28296%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28296%29
+SO - Journal of Structural Engineering 2006-02-01 132(2): 296-303
+AB - There has long been debate about the necessity of considering motion frequency in the assessment of occupant comfort during wind-induced tall building motion. This paper characterizes the biodynamic human body vibration response occurring during exposures to low-frequency, constant amplitude acceleration sinusoidal motion and demonstrates a physiological frequency dependence of this motion. The findings from a series of motion simulator experiments show that, as the frequency of oscillation increases from 0.15 to 1.00 Hz, acceleration measured at the head of a human test subject is increasingly magnified. This motion magnification demonstrates that biodynamic human body vibration is frequency dependent in this frequency range. Furthermore there may also be further implications for visual perception of motion through parallax shift. Clearly, these effects need to be accounted for in developing more refined occupant comfort acceptable criteria for tall building motion.
+
+
+    
+        AU - Sopon Ritdumrongkul
+    
+        AU - Yozo Fujino
+    
+
+TI - Identification of the Location and Level of Damage in Multiple-Bolted-Joint Structures by PZT Actuator-Sensors
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 304-311
+VI - 132
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2006)132:2(304) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28304%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28304%29
+SO - Journal of Structural Engineering 2006-02-01 132(2): 304-311
+AB - A piezoceramic (PZT) patch can be used simultaneously as an actuator and as a sensor for structural damage detection by utilizing its electromechanical coupling property. In this technique, a PZT actuator-sensor patch is bonded on a structure. Through the measurement of its electrical impedance, which is related to mechanical impedance of the structure being bonded, the change in structure properties due to damage can be detected. This paper presents the use of PZT actuator-sensors in conjunction with numerical model-based methodology in order to identify the location and level of the damage in multiple-bolted-joint structures. Laboratory experiments were performed on a two-joint and a four-joint aluminum beam, where the damage was simulated by loosening the bolts. The impedance was measured at high frequencies so that the wavelength of the excited motion is small and sensitive enough to detect local damage. Numerical models of structures were formulated by using a spectral element method, which has a high capability for high-frequency modeling. By utilizing the models, the location and level of the damage could be quantitatively identified.
+
+
+    
+        AU - Zia Wadud
+    
+        AU - Sohrabuddin Ahmad
+    
+
+TI - Design Charts for Helicoidal Stair Slabs with Landing at Midspan
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 312-320
+VI - 132
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2006)132:2(312) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28312%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28312%29
+SO - Journal of Structural Engineering 2006-02-01 132(2): 312-320
+AB - Helicoidal staircases are quite popular among architects for aesthetic reasons. While design charts for simple helicoidal stair slabs are available in design handbooks, no such aid is available for fixed ended helicoidal slabs with landings at midspan. This paper attempts to propose such a design tool for the practicing engineer. Because of the symmetric nature of the slab, four of the six stress resultants at midspan become zero. Thus if the two redundants at midspan can be determined, the rest of the analysis becomes a statically determinate problem. Strain energy method has been used to analyze the structure and determine these two redundants at midspan. Based on this analytical framework, charts have been proposed to quickly determine these midspan redundants. Different geometric parameters have been considered and nondimensional parameters have been used to derive the charts. Finally, the effect of a landing on the stress resultants has been investigated through a limited parametric study. It has been found that the presence of landing significantly affects the maximum vertical moment and torsion. Landing span also considerably influences the distribution of vertical moment, torsion, and vertical shear along the span.
+
+
+    
+        AU - David P. Brosnan
+    
+
+TI - Discussion of “Effective Flange Width Definition for Steel–Concrete Composite Bridge Girder” by Methee Chiewanichakorn, Amjad J. Aref, Stuart S. Chen, and II-Sang Ahn
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 321-322
+VI - 132
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2006)132:2(321) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28321%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28321%29
+SO - Journal of Structural Engineering 2006-02-01 132(2): 321-322
+
+
+    
+        AU - Methee Chiewanichakorn
+    
+        AU - Amjad J. Aref
+    
+        AU - Stuart S. Chen
+    
+        AU - Il-Sang Ahn
+    
+
+TI - Closure to “Effective Flange Width Definition for Steel–Concrete Composite Bridge Girder” by Methee Chiewanichakorn, Amjad J. Aref, Stuart S. Chen, and Il-Sang Ahn
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 322-324
+VI - 132
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2006)132:2(322) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28322%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28322%29
+SO - Journal of Structural Engineering 2006-02-01 132(2): 322-324
+
+
+    
+        AU - William L. Gamble
+    
+
+TI - Discussion of “Evaluation of Fire Endurance of Concrete Slabs Reinforced with Fiber-Reinforced Polymer Bars” by V. K. R. Kodur and L. A. Bisby
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 324-324
+VI - 132
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2006)132:2(324) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28324%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28324%29
+SO - Journal of Structural Engineering 2006-02-01 132(2): 324-324
+
+
+    
+        AU - V. K. Kodur
+    
+        AU - L. A. Bisby
+    
+
+TI - Closure to “Evaluation of Fire Endurance of Concrete Slabs Reinforced with Fiber-Reinforced Polymer Bars” by V. K. R. Kodur and L. A. Bisby
+PT - Journal Article
+DP - 2006
+TA - Journal of Structural Engineering
+PG - 324-325
+VI - 132
+IP - 2
+AID - 10.1061/(ASCE)0733-9445(2006)132:2(324.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28324.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282006%29132%3A2%28324.2%29
+SO - Journal of Structural Engineering 2006-02-01 132(2): 324-325
+
+

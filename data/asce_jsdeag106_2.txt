@@ -1,0 +1,373 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Mohammad Aslam
+    
+        AU - William G. Godden
+    
+        AU - D. Theodore Scalise
+    
+
+TI - Earthquake Rocking Response of Rigid Bodies
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 377-392
+VI - 106
+IP - 2
+AID - 10.1061/JSDEAG.0005363 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005363
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005363
+SO - Journal of the Structural Division 1980-02-01 106(2): 377-392
+AB - Using a computer program, the rocking and overturning response of rectangular blocks of various sizes and aspect ratios is studied under several strong motion earthquakes. The effect of coefficient of restitution and of vertically prestressing the blocks to the floor is also studied. This investigation was undertaken primarily to study the response of solid concrete block stacks used as radiation shields in particle accelerator laboratories. Results from this study indicate that rocking should be prevented in such systems on account of the possibility of overturning once rocking commences, unless a tie-down design is used. The paper also points out the sensitivity of overturning to small changes in base geometry and coefficient of restitution as well as to the form of the ground motion. This suggests that it may be difficult to use data from observations on standing and overturned rigid bodies after an earthquake to provide much useful information on the intensity of ground motion.
+
+
+    
+        AU - A. Louis DeBonis
+    
+
+TI - Stochastic Simulation of Wood Load-Sharing Systems
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 393-410
+VI - 106
+IP - 2
+AID - 10.1061/JSDEAG.0005364 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005364
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005364
+SO - Journal of the Structural Division 1980-02-01 106(2): 393-410
+AB - A generalized procedure was developed to predict the effect of material variability on the variability of system performance when the material properties of the system component members are correlated. This procedure utilized Monte Carlo simulations to predict the load-carrying capacity (strength behavior) of parallel-member wood load-sharing systems from a linear-elastic mathematical model also developed in this study. The simulated strength behavior obtained using this procedure was compared to the strength behavior of actual wood load-sharing systems tested to failure. This simulation technique was shown to be an extremely good predictor of system variability. Although this procedure was developed for specific application to the prediction of wood-joist floor behavior, it can easily be applied to any area of structures research in which the members exhibit correlated properties.
+
+
+    
+        AU - Armen Der Kiureghian
+    
+
+TI - Reliability Analysis Under Stochastic Loads
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 411-429
+VI - 106
+IP - 2
+AID - 10.1061/JSDEAG.0005365 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005365
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005365
+SO - Journal of the Structural Division 1980-02-01 106(2): 411-429
+AB - A second-moment approximate procedure for reliability analysis of linear structures under combinations of stationary and independent stochastic loads is developed. Loads are modeled as Poisson square wave and filtered Poisson processes. Close bounds on the probability of failure are obtained in terms of the first and second moments of the structure resistance and loads and sets of parameters describing temporal fluctuations of loads. The application of the method to reliability-based design is discussed. An example demonstrates the applicability, as well as validity, of the procedure. The main advantages of the proposed method are its computational simplicity and its ability to analyze structures under any number of sustained and transient loads. The proposed method is particularly suitable for formulation of probabilistic design codes.
+
+
+    
+        AU - David M. Todd
+    
+        AU - Peter B. Cooper
+    
+
+TI - Strength of Composite Beams with Web Openings
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 431-444
+VI - 106
+IP - 2
+AID - 10.1061/JSDEAG.0005366 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005366
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005366
+SO - Journal of the Structural Division 1980-02-01 106(2): 431-444
+AB - An ultimate strength analysis of composite beams with unreinforced, rectangular web openings is presented. The analysis is developed for general beam geometry and material properties, and for a single web opening of any practical depth, width and location. The beneficial effects of strain hardening and the shear contribution of the slab are neglected, and a four hinge failure mechanism at the opening is assumed. Analytical results indicate that a composite section with a web opening has a significantly higher bending strength than the corresponding noncomposite section, and that variations in opening length, height and eccentricity can have a significant effect on the ultimate strength. Comparison of the analytical results with the limited experimental data available indicates that the theory provides a very conservative estimate of the ultimate strength. The discrepancy between theory and test results is attributed primarily to strain hardening and the shear contribution of the slab.
+
+
+    
+        AU - Young-Jin Kang
+    
+        AU - Alexander C. Scordelis
+    
+
+TI - Nonlinear Analysis of Prestressed Concrete Frames
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 445-462
+VI - 106
+IP - 2
+AID - 10.1061/JSDEAG.0005367 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005367
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005367
+SO - Journal of the Structural Division 1980-02-01 106(2): 445-462
+AB - A numerical procedure based on the finite element method for the material and geometric nonlinear analysis of plane prestressed concrete frames including the time dependent effects due to load history, temperature history, creep, shrinkage and aging of concrete and relaxation of prestress is developed. The procedure is capable of predicting the response of these structures throughout their service load history as well as throughout elastic, inelastic and ultimate load ranges in one complete analysis. Time dependent variation of concrete properties is recognized. Concrete creep is evaluated by an efficient numerical procedure based on the age and temperature dependent integral formulation. Varied material properties within a frame element is accounted for by a composite concrete and reinforcing steel layer system. The contribution of prestressing steel is incorporated directly. A series of numerical examples is presented.
+
+
+    
+        AU - Raymond M.L. Ting
+    
+
+TI - Interactive Strength of Two Structural Parameters
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 463-476
+VI - 106
+IP - 2
+AID - 10.1061/JSDEAG.0005368 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005368
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005368
+SO - Journal of the Structural Division 1980-02-01 106(2): 463-476
+AB - An empirical approach based on load test data is commonly used to develop the interactive failure envelope. The failure envelope is normally expressed as functions of two nondimensional ratios; each ratio is the force of stress at failure and the corresponding independent strength. The independent strength is the strength of the structural parameter under consideration without the presence of the other structural parameter. Once the equation defining the interactive failure envelope has been developed, the design envelope is normally constructed by replacing the two independent strengths with the corresponding independent allowable forces or stresses. This approach is a scalar reduction from the failure envelope. A new vectorial concept is presented for constructing the design envelope from a given failure envelope.
+
+
+    
+        AU - John O. Surtees
+    
+        AU - Moheeb E. Ibrahim
+    
+
+TI - Bolt Tension Measurement from Head Strain Data
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 477-490
+VI - 106
+IP - 2
+AID - 10.1061/JSDEAG.0005369 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005369
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005369
+SO - Journal of the Structural Division 1980-02-01 106(2): 477-490
+AB - Development and testing of a new method for continuous monitoring of tension in high strength bolts, based on head surface strain calibration, is described. The method overcomes access and interference problems associated with other methods. Radial and tangential head strain measurement are compared and the former is shown to be superior in terms of sensitivity and consistency. Calibration is linear up to at least 130% of proof load. Conditions in a calibration rig differ appreciably from those in a joint during tightening but it is shown from tests that the respective responses are related by a constant factor that depends only on the details of the joint. Correction factors are given for a variety of joint conditions.
+
+
+    
+        AU - Charles Birnstiel
+    
+        AU - Jerome S.B. Iffland
+    
+
+TI - Factors Influencing Frame Stability
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 491-504
+VI - 106
+IP - 2
+AID - 10.1061/JSDEAG.0005370 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005370
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005370
+SO - Journal of the Structural Division 1980-02-01 106(2): 491-504
+AB - Factors influencing the stability limit load of structural steel building frames are reviewed. The manner in which these can be accounted for in formulating the structural stiffness matrix are described so that an evaluation of the determinant of this matrix may be a better index of frame stability.
+
+
+    
+        AU - Mahendra P. Singh
+    
+
+TI - Seismic Design Input for Secondary Systems
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 505-517
+VI - 106
+IP - 2
+AID - 10.1061/JSDEAG.0005371 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005371
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005371
+SO - Journal of the Structural Division 1980-02-01 106(2): 505-517
+AB - Acceleration floor spectra curves are commonly used as seismic design inputs for light equipment and other secondary systems. Earlier the writer had presented a method for generation of floor spectra directly from prescribed ground spectra. Further complementary developments in this method are made. These are: (1)The development of the method for generation of floor spectra at structural frequencies (an important resonance case); and (2)evaluation of nonstationarity of earthquake motions on floor spectra curves. Also, some approximations made in earlier work are further evaluated. As a result of these developments and evaluations, a comprehensive procedure based on stochastic principles is presented in the paper for definition of seismic design inputs for secondary systems. This procedure avoids the use of often used and recently criticized spectrum-consistent time history as seismic input for generation of floor spectra curves.
+
+
+    
+        AU - Sam Chan
+    
+
+TI - Current Structural Engineering Reference Sources
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 519-530
+VI - 106
+IP - 2
+AID - 10.1061/JSDEAG.0005372 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005372
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005372
+SO - Journal of the Structural Division 1980-02-01 106(2): 519-530
+AB - The goal of this paper is to provide a quick reference and guide for structural engineers and researchers, especially graduate students, who are interested in the current reference sources. This paper is divided into three parts: (1)Areas and disciplines related to structural engineering; (2)international resources; and (3)domestic resources. The bibliography is intended to include as many reference sources as information retrieval directs, in English and other languages; however, no attempt was made to render this exhaustive.
+
+
+    
+        AU - Wolfgang Zerna
+    
+        AU - Ihsan Mungan
+    
+
+TI - Construction and Design of Large Cooling Towers
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 531-544
+VI - 106
+IP - 2
+AID - 10.1061/JSDEAG.0005373 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005373
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005373
+SO - Journal of the Structural Division 1980-02-01 106(2): 531-544
+AB - Large natural-draft cooling towers are required for dry-type cooling of power plants having high capacity. Through the choice of an appropriate offset distance between the axis of the hyperbola and axis of rotation the stress distribution as well as buckling and vibration behavior can be influenced considerably. In order to keep the required buckling safety and lowest natural frequency as the dimensions of the cooling tower shell are increased stiffening of the shell becomes indispensable. Numerical investigations and tests carried out show clearly that the efficiency of the stiffeners is different, rings being more effective than meridional ribs. Stiffening rings can be built easily after slight modification of the existing climbing formwork. Reinforced concrete shells stiffened by rings can compete with cable network structures, even beyond a height of 200 m (656 ft).
+
+
+    
+        AU - Harry G. Harris
+    
+        AU - John C. Muskivitch
+    
+
+TI - Models of Precast Concrete Large Panel Buildings
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 545-565
+VI - 106
+IP - 2
+AID - 10.1061/JSDEAG.0005374 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005374
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005374
+SO - Journal of the Structural Division 1980-02-01 106(2): 545-565
+AB - Small-scale direct-modeling techniques are applied to study the behavior of a six-story, three-bay 3/32-scale model of a precast concrete large panel building under simulated progressive collapse conditions. Preselected bearing walls at various locations were removed from the model in separate tests. Test results indicated the proper functioning of the PCA-recommended tie system in enabling the model to bridge over local damage. The application of modeling techniques to faithfully reproduce prototype construction details are discussed. Typical test results are presented and compared to demonstrate the valuable information that can be obtained through the testing of small-scale models in aiding the understanding of complex structural behavior.
+
+
+    
+        AU - John W. Fisher
+    
+        AU - Alan W. Pense
+    
+        AU - Richard Roberts
+    
+
+TI - Closure to “Evaluations of Fracture of Lafayette Street Bridge”
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 569-571
+VI - 106
+IP - 2
+AID - 10.1061/JSDEAG.0005375 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005375
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005375
+SO - Journal of the Structural Division 1980-02-01 106(2): 569-571
+
+
+    
+        AU - Theodore V. Galambos
+    
+        AU - Ivan M. Viest
+    
+
+TI - Closure to “Composite Beam Criteria in LRFD”
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 571-572
+VI - 106
+IP - 2
+AID - 10.1061/JSDEAG.0005376 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005376
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005376
+SO - Journal of the Structural Division 1980-02-01 106(2): 571-572
+
+
+    
+        AU - Mayasandra K. Ravindra
+    
+        AU - Theodore V. Galambos
+    
+
+TI - Closure to “Load and Resistance Factor Design for Steel”
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 572-573
+VI - 106
+IP - 2
+AID - 10.1061/JSDEAG.0005377 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005377
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005377
+SO - Journal of the Structural Division 1980-02-01 106(2): 572-573
+
+
+    
+        AU - Peter B. Cooper
+    
+        AU - Theodore V. Galambos
+    
+        AU - Mayasandra K. Ravindra
+    
+
+TI - Closure to “LRFD Criteria for Plate Girders”
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 573-573
+VI - 106
+IP - 2
+AID - 10.1061/JSDEAG.0005378 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005378
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005378
+SO - Journal of the Structural Division 1980-02-01 106(2): 573-573
+
+
+    
+        AU - Natarajan Krishnamurthy
+    
+
+TI - Discussion of “Limit Design of Extended End-Plate Connections”
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 573-576
+VI - 106
+IP - 2
+AID - 10.1061/JSDEAG.0005379 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005379
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005379
+SO - Journal of the Structural Division 1980-02-01 106(2): 573-576
+
+
+    
+        AU - Hassan I.A. Hegab
+    
+
+TI - Discussion of “Free Torsional Vibrations of Suspension Bridges”
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 576-577
+VI - 106
+IP - 2
+AID - 10.1061/JSDEAG.0005380 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005380
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005380
+SO - Journal of the Structural Division 1980-02-01 106(2): 576-577
+
+
+    
+        AU - Jacques Heyman
+    
+
+TI - Discussion of “Minimum-Weight Design of Nonuniform Beams”
+PT - Journal Article
+DP - 1980
+TA - Journal of the Structural Division
+PG - 578-578
+VI - 106
+IP - 2
+AID - 10.1061/JSDEAG.0005381 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005381
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005381
+SO - Journal of the Structural Division 1980-02-01 106(2): 578-578
+
+

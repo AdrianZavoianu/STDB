@@ -1,0 +1,468 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Jung-Yoon Lee
+    
+        AU - Sang-Woo Kim
+    
+        AU - Mohamad Y. Mansour
+    
+
+TI - Nonlinear Analysis of Shear-Critical Reinforced Concrete Beams Using Fixed Angle Theory
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 1017-1029
+VI - 137
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000345 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000345
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000345
+SO - Journal of Structural Engineering 2011-10-01 137(10): 1017-1029
+AB - This paper proposes a solution methodology for the application of the fixed-angle theory to predict the shear response of reinforced concrete (RC) beams subjected to the combined actions of shear and flexure. The proposed solution, based on the fixed-angle theory, takes into account the effect of flexural moment on the shear strength of RC beams and calculates the concrete constitutive relationships by transforming the concrete stresses and strains from the principal direction of concrete stresses to that of the applied stresses. To verify the effectiveness of the proposed solution method, seven shear-critical RC beams were tested and their corresponding experimental shear stress-strain relationships were compared with the predicted ones by using the proposed methodology. Furthermore, the shear strengths of 150 RC test beams, reported in the literature with various shear span-to-depth ratios, steel reinforcing ratios, and support conditions, were compared with the predicted shear strengths obtained by the proposed method and other existing truss models. The results presented in this paper show that the proposed formulation can predict the shear response of RC beams with reasonable accuracy.
+
+
+    
+        AU - Keun-Hyeok Yang
+    
+        AU - Ashraf F. Ashour
+    
+
+TI - Strut-and-Tie Model Based on Crack Band Theory for Deep Beams
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 1030-1038
+VI - 137
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000351 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000351
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000351
+SO - Journal of Structural Engineering 2011-10-01 137(10): 1030-1038
+AB - A simplified strut-and-tie model including size effect based on the crack&nbsp;band theory is proposed to evaluate the shear capacity of deep beams. Concrete struts are idealized as uniformly tapered prismatic members with a stress relief strip whereas horizontal and vertical shear reinforcements are assumed to be an internally statically indeterminate system. The shear transfer mechanism of concrete and shear reinforcement is then driven by using the energy equilibrium in the stress relief strip and crack&nbsp;band zone of concrete struts. The shear capacity predictions of deep beams obtained from the present models are in better agreement with 637 test results than those determined from strut-and-tie models proposed by ACI 318-08, EC-2, and Tan and Cheng. In addition, the trend of the shear capacity of deep beams against different parameters as predicted by the present models has a consistent agreement with that observed from experimental results. In particular, the present model shows that the normalized shear capacity of deep beams is proportional to (h)-0.25, where h = section overall depth.
+
+
+    
+        AU - Hai H. Dinh
+    
+        AU - Gustavo J. Parra-Montesinos
+    
+        AU - James K. Wight
+    
+
+TI - Shear Strength Model for Steel Fiber Reinforced Concrete Beams without Stirrup Reinforcement
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 1039-1051
+VI - 137
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000362 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000362
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000362
+SO - Journal of Structural Engineering 2011-10-01 137(10): 1039-1051
+AB - A simple model is presented to estimate the shear strength of steel fiber reinforced concrete (FRC) beams without stirrup reinforcement. The model was developed on the basis of observations from tests of 27 large-scale beams under monotonically increased concentrated loading. Three types of hooked steel fibers were evaluated in volume fractions ranging between 0.75% (59  kg/m3 or 100  lb/yd3) and 1.5% (118  kg/m3 or 200  lb/yd3). All but one beam failed in shear either prior to or after flexural yielding. In the proposed model, shear in steel FRC beams is assumed to be resisted by shear stress carried in the compression zone and tension transferred across diagonal cracks by steel fibers. Shear carried in the compression zone is estimated by using the failure criterion for concrete subjected to combined compression and shear proposed by Bresler and Pister. The contribution from fiber reinforcement to shear strength, on the other hand, is tied to material performance obtained through standard ASTM 1609 four-point bending tests. Comparison of predicted versus experimental shear strengths for a large number of FRC beams tested in this and other investigations indicates that the proposed model is capable of predicting the shear strength of steel FRC beams with reasonable accuracy; mean and standard deviation values are 0.79 and 0.12, respectively.
+
+
+    
+        AU - Brian J. Smith
+    
+        AU - Yahya C. Kurama
+    
+        AU - Michael J. McGinnis
+    
+
+TI - Design and Measured Behavior of a Hybrid Precast Concrete Wall Specimen for Seismic Regions
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 1052-1062
+VI - 137
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000327 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000327
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000327
+SO - Journal of Structural Engineering 2011-10-01 137(10): 1052-1062
+AB - This paper presents the measured behavior from the testing of a 0.4-scale “hybrid” precast concrete wall specimen under reversed-cyclic lateral loading and provides an assessment of the seismic design and analysis of the wall by using the experimental results. The hybrid precast wall system investigated in the paper utilizes a combination of mild (i.e., Grade 400) steel and high-strength unbonded posttensioning (PT) steel for lateral resistance across horizontal joints. A seismic design procedure that conforms to ACI 318 and ACI ITG-5.2 was used for the design of the test specimen based on ACI ITG-5.1. The behavior of the specimen was measured with conventional data acquisition techniques and also full-field digital image correlation of the base panel and the critical joint between the base panel and the foundation, providing unprecedented information on the wall performance. The paper compares these measurements with the design and analytical predictions, focusing specifically on the applied lateral load and displacement, energy dissipation, behavior of the steel reinforcement, and behavior along the horizontal joints. The test specimen was not able to reach the expected ultimate drift level owing to a combination of poor unconfined concrete strength and poor placement of the confinement reinforcement at the toes. However, the performance of the wall up to the failure point was consistent with the predicted behavior based on both the design procedure and the analytical models.
+
+
+    
+        AU - D. Zhang
+    
+        AU - R. B. Fleischman
+    
+        AU - C. J. Naito
+    
+        AU - R. Ren
+    
+
+TI - Experimental Evaluation of Pretopped Precast Diaphragm Critical Flexure Joint under Seismic Demands
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 1063-1074
+VI - 137
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000352 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000352
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000352
+SO - Journal of Structural Engineering 2011-10-01 137(10): 1063-1074
+AB - Precast concrete diaphragm seismic response is examined in experimental research integrating model-based simulation with physical testing. The experimental substructure is the diaphragm critical flexural region of a prototype precast parking structure. This region is expected to undergo significant inelastic flexural deformation, while potentially nonductile regions remain elastic on the basis of capacity design rules from an emerging design methodology. The physical test is conducted at half-scale. The test specimen is detailed using diaphragm reinforcement intended to meet deformability requirements. Predetermined displacement histories are applied to the test specimen on the basis of nonlinear transient dynamic analyses of the prototype structure. The loading history is applied by a test fixture capable of simultaneously providing shear, axial, and moment to the joint. Moment strength, stiffness, rotational deformation capacity, and progressive damage are examined under a sequence of increasing intensity earthquakes. Design recommendations are provided.
+
+
+    
+        AU - Peter Dusicka
+    
+        AU - Thomas Kay
+    
+
+TI - In-Plane Lateral Cyclic Behavior of Insulated Concrete Form Grid Walls
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 1075-1084
+VI - 137
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000354 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000354
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000354
+SO - Journal of Structural Engineering 2011-10-01 137(10): 1075-1084
+AB - The in-plane lateral behavior of insulated concrete form grid walls consisting of prefabricated stay-in-place form blocks made of recycled expanded polystyrene and evenly spaced horizontal and vertical reinforced concrete cores was experimentally investigated. Incrementally increasing reversed cyclic drifts were imposed on sets of full-scale walls of two different aspect ratios and on two different vertical loading conditions. The results of the 13 experiments indicated that a consistent wall failure mode stemmed from fracture of the individual vertical cores. Additional vertical load was found to increase the strength and effective stiffness of the walls, but the effect on drift capacity and ductility depended on the wall aspect ratio. The residual stiffness and energy dissipation severely degraded within cycles of 1% drift for all aspect geometries and loading conditions. The stay-in-place form blocks had a significant positive influence on the behavior despite the material’s relatively low strength.
+
+
+    
+        AU - David Yeoh
+    
+        AU - Massimo Fragiacomo
+    
+        AU - Mary De Franceschi
+    
+        AU - Koh Heng Boon
+    
+
+TI - State of the Art on Timber-Concrete Composite Structures: Literature Review
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 1085-1095
+VI - 137
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000353 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000353
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000353
+SO - Journal of Structural Engineering 2011-10-01 137(10): 1085-1095
+AB - This paper presents a survey on the state-of-the-art of timber-concrete composite research in the past and recent years. The most important literature references were carefully selected and reviewed to provide an overview and some depth in the development of this construction technique. After highlighting the advantages of the composite system, the standards and design methods currently available are presented. An extensive description of the connection systems developed around the world is also provided. The experimental and numerical investigations performed on connections and beams in both the short- and long-term (at collapse and under sustained load, respectively) are discussed at length in the paper. Other aspects covered are prefabrication, the influence of concrete properties, fatigue tests, fire resistance, vibrations, and acoustics.
+
+
+    
+        AU - Tetsuya Yabuki
+    
+        AU - Yasunori Arizumi
+    
+        AU - Janice J. Chambers
+    
+        AU - Tetsuhiro Shimozato
+    
+        AU - Toshiyasu Yoza
+    
+
+TI - Instability of Axially Loaded Compression Members under Lateral Rigid Body Excitations
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 1096-1103
+VI - 137
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000319 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000319
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000319
+SO - Journal of Structural Engineering 2011-10-01 137(10): 1096-1103
+AB - The global compressive capacity of steel members subject to lateral rigid body dynamic excitation is examined numerically with a dynamic nonlinear finite-element analytical algorithm that uses the implicit Newmark-β integration procedure combined with the Newton-Raphson iterative scheme. The algorithm was validated with experimental results. Parametric studies on 180 box, tube, and W shapes are presented. The members included initial geometric imperfections along their lengths. On the basis of the parametric study, a simplified formula for the buckling capacity of a steel member under lateral rigid body excitations is presented that may be considered for the use in the development of a design formula.
+
+
+    
+        AU - Morris Ojalvo
+    
+
+TI - Opposing Theories and the Buckling Strength of Unequal-Leg Angle Columns
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 1104-1106
+VI - 137
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000389 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000389
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000389
+SO - Journal of Structural Engineering 2011-10-01 137(10): 1104-1106
+AB - A structural engineer wishing to determine the buckling load of unequal-leg angle columns receives conflicting information from published literature because researchers offer two radically different models for their analyses of thin-walled open-profile bars. One model considers the bar to be a continuum whereas the American Institute of Steel Construction adopts a noncontinuum multifilament model. Furthermore, the continuum model defines the normal planes of the deflected bar with the line of centroids whereas the multifilament model uses the shear center line. A test program based on 5×3×1/4  in. (127×76×6  mm) steel angles is proposed to resolve the issue by determining which model produces computed buckling loads that better correlate with collapse loads obtained from tests. The possibility that neither method produces a buckling load that correlates with collapse loads is not ruled out.
+
+
+    
+        AU - Yunlu Shen
+    
+        AU - Constantin Christopoulos
+    
+        AU - Nabil Mansour
+    
+        AU - Robert Tremblay
+    
+
+TI - Seismic Design and Performance of Steel Moment-Resisting Frames with Nonlinear Replaceable Links
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 1107-1117
+VI - 137
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000359 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000359
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000359
+SO - Journal of Structural Engineering 2011-10-01 137(10): 1107-1117
+AB - Although moment resisting frames (MRFs) designed according to the latest seismic codes can provide life safety during a design level earthquake, they are expected to sustain significant damage at flexural yielding locations in the beams. The design of the beams for strength and drift control considerations are also interlinked, often resulting in overdesign of other elements, such as diaphragms and foundations. These drawbacks can be mitigated by introducing replaceable links at the locations of expected inelastic action. A five-story prototype MRF building with replaceable links in a high-seismic zone was designed. Four full-scale beam-to-column subassemblages representing the first floor exterior connections in the prototype building were experimentally evaluated. The results demonstrated that MRFs with replaceable flexural links can provide strength and ductility equivalent to existing MRFs while minimizing the effect of the added links on the elastic stiffness of the system. Finite-element models were then developed to capture the observed experimental responses, including local buckling, bolt slipping, and bolt bearing.
+
+
+    
+        AU - Prayag J. Sayani
+    
+        AU - Emrah Erduran
+    
+        AU - Keri L. Ryan
+    
+
+TI - Comparative Response Assessment of Minimally Compliant Low-Rise Base-Isolated and Conventional Steel Moment-Resisting Frame Buildings
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 1118-1131
+VI - 137
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000358 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000358
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000358
+SO - Journal of Structural Engineering 2011-10-01 137(10): 1118-1131
+AB - In this study, the multihazard response of code-designed conventional and base-isolated steel frame buildings is evaluated using nonlinear response history analysis. The results of hazard and structural response analysis for 3-story moment-resisting frame buildings are presented in this paper. Three-dimensional models for both buildings are created, and seismic response is assessed for three scenario earthquakes. The response history analysis results indicate that the performance of the isolated building is superior to the conventional building in the design event. However, for the Maximum Considered Earthquake, the presence of outliers in the response data reduces confidence that the isolated building provides superior performance to its conventional counterpart. The potential causes of the outliers have been carefully evaluated.
+
+
+    
+        AU - Seng-Tjhen Lie
+    
+        AU - Zheng-Mao Yang
+    
+
+TI - Numerical Models Validation of Cracked Square Hollow Section (SHS) Y- and K-Joints
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 1132-1140
+VI - 137
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000349 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000349
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000349
+SO - Journal of Structural Engineering 2011-10-01 137(10): 1132-1140
+AB - To validate the accuracy of finite-element models of cracked square hollow section (SHS) Y- and K-joints, two full-scale precracked specimens were tested under static incremental loads up to failure. The load-displacement curves were plotted during the tests, and a set of linear variable displacement transducers (LVDTs) were used to record the crack mouth opening displacements (CMOD) at the deepest points, whereas the crack extension was captured using the standard Alternating Current Potential Drop (ACPD) technique. The experimental results are compared with the corresponding numerical results obtained using the nonlinear finite-element method. Both sets of results show good agreement with maximum percentage differences of 7.15 and 7.96% for the plastic collapse loads and crack mouth opening displacements, respectively. Hence, the numerical model adopted previously for the cracked SHS T-joints is robust and can also be used to estimate the plastic collapse load Pc and crack driving force Jep of any uniplanar tubular cracked Y- and K-joints.
+
+
+    
+        AU - Nabil Mansour
+    
+        AU - Constantin Christopoulos
+    
+        AU - Robert Tremblay
+    
+
+TI - Experimental Validation of Replaceable Shear Links for Eccentrically Braced Steel Frames
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 1141-1152
+VI - 137
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000350 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000350
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000350
+SO - Journal of Structural Engineering 2011-10-01 137(10): 1141-1152
+AB - In the current design of steel eccentrically braced frames (EBFs), the yielding link is coupled with the floor beam. This often results in oversized link elements, which leads to overdesigned structures and foundations. In addition, the beams are expected to sustain significant damage through repeated inelastic deformations under design-level earthquakes, and thus the structure may require extensive repair or replacement. These drawbacks can be mitigated by designing EBFs with replaceable shear links. Two different replaceable link types with alternate section profiles, connection configurations, welding details, and intermediate stiffener spacings were tested. A total of 13 cyclic quasi-static full-scale cyclic tests were performed, including tests on EBFs with replaceable shear links, to study their inelastic seismic performance. The links exhibited a very good ductile behavior, developing stable and repeatable yielding. Additional inelastic rotation capacity can be achieved with bolted replaceable links when bolt bearing deformations are allowed to occur. The on-site replaceability of the link sections is confirmed even in the presence of residual deformations of 0.5% drift.
+
+
+    
+        AU - Bernardo Deschapelles
+    
+
+TI - New Finite Element for Analysis of Thin-Walled Structures
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 1153-1167
+VI - 137
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000372 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000372
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000372
+SO - Journal of Structural Engineering 2011-10-01 137(10): 1153-1167
+AB - The analysis of thin-walled structures has been discussed by many theoreticians who produced seminal works. Unfortunately, these studies are based on mathematical formulations which are not easy to understand by the majority of engineers because the background provided by the undergraduate schools does not cover the solution of complex differential equations or the use of area coordinates in the calculation of cross-section properties. Accordingly, practicing engineers are often at a loss in problems involving nonlinear differential equations or the meaning of an elusive mechanical action called bimoment in the evaluation of longitudinal stresses caused by warping torsion. On the other hand, present day formulations should take advantage of the availability of computers that can easily handle the matrix relations on which the finite element analysis is based. This work presents a new finite element that allows the evasion of the aforementioned complexities. The main novelty is the discussion of a nonnodal degree of freedom that efficiently captures the possible shear flow along the longitudinal edges of a beam-column element.
+
+
+    
+        AU - Ying Yu
+    
+        AU - Glaucio H. Paulino
+    
+        AU - Yaozhi Luo
+    
+
+TI - Finite Particle Method for Progressive Failure Simulation of Truss Structures
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 1168-1181
+VI - 137
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000321 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000321
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000321
+SO - Journal of Structural Engineering 2011-10-01 137(10): 1168-1181
+AB - A structural analysis framework called the finite particle method (FPM) for structure failure simulation is presented in this paper. The traditional finite-element method is generated from continuum mechanics and the variational principle; vector mechanics form the basis of FPM. It discretizes the domain with finite particles whose motions are described by Newton’s second law. Instead of imposing a global equilibrium of the entire continuous system, FPM enforces equilibrium on each particle. Thus, particles are free to separate from one another, which is advantageous in the simulation of structural failure. One of the features of this approach is that no iterations to follow nonlinear laws are necessary, and no global matrices are formed or solved in this method. A convected material frame is used to evaluate the structure deformation and internal force. The explicit time integration is adopted to solve the equation of motion. To simulate the truss structure failure, a failure criterion on the basis of the ideal plastic constitutive model and a failure modeling algorithm are proposed by using FPM. According to the energy conservation study of a two-dimensional (2D) truss, the energy is decomposed and balanced during the failure process. Also, a more complicated three-dimensional (3D) structure failure simulation is given. The comparison of the simulation results and the practical failure mode shows the capability of this method.
+
+
+    
+        AU - Yu-li Dong
+    
+        AU - Chong-ji Zhu
+    
+
+TI - Limit Load Carrying Capacity of Two-Way Slabs with Two Edges Clamped and Two Edges Simply Supported in Fire
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 1182-1192
+VI - 137
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000360 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000360
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000360
+SO - Journal of Structural Engineering 2011-10-01 137(10): 1182-1192
+AB - This paper presents test results of temperature distribution, central vertical deflection, and edge horizontal deflection of a two-way concrete slab with two edges clamped and two edges simply supported in fire. On the basis of experimental results, a segment equilibrium method was presented to calculate the limit load-carrying capacity of concrete slabs in fire conditions. The model considered the tensile membrane action contributing to the vertical component of reinforcement tensile forces after the formation of mechanism of the plastic hinge line. The model could clearly predict the effect of the restraint end moment on the plastic hinge line pattern. Comparison between the developed model and test results showed good correlation.
+
+
+    
+        AU - M. Irshidat
+    
+        AU - A. Al-Ostaz
+    
+        AU - A. H.-D. Cheng
+    
+        AU - C. Mullen
+    
+
+TI - Nanoparticle Reinforced Polymer for Blast Protection of Unreinforced Masonry Wall: Laboratory Blast Load Simulation and Design Models
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 1193-1204
+VI - 137
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000361 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000361
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000361
+SO - Journal of Structural Engineering 2011-10-01 137(10): 1193-1204
+AB - This paper investigates the performance of a new generation of nanoparticle-reinforced polymeric materials as an alternative to fiber-reinforced polymer for the protection of masonry structures against blast loads. The nanoparticles used in this study include exfoliated graphene nano platelets (XGnP) and polyhedral oligomeric silsesquioxane (POSS). The polymer is polyurea. A one-quarter scale physical model of unreinforced masonry walls, spray coated with the nanoparticle-reinforced polymers, are subjected to blast load in the Engineer Research and Development Center Blast Load Simulator facility. POSS-reinforced polyurea is observed to significantly enhance the performance of masonry walls sustaining blast loads, whereas XGnP reinforcement has only marginal improvement. To build a numerical simulation and engineering design capability, computer models using ANSYS AUTODYN and simplified analytical models are constructed. These models fairly accurately predict the observed laboratory tests.
+
+
+    
+        AU - Badr M. Abou-Zeid
+    
+        AU - Wael W. El-Dakhakhni
+    
+        AU - A. Ghani Razaqpur
+    
+        AU - S. Foo
+    
+
+TI - Response of Arching Unreinforced Concrete Masonry Walls to Blast Loading
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 1205-1214
+VI - 137
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000344 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000344
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000344
+SO - Journal of Structural Engineering 2011-10-01 137(10): 1205-1214
+AB - New standards for blast protection of buildings are currently being developed in the United States and Canada. In this regard, both standards are considering unreinforced masonry (URM) walls as particularly vulnerable to blast events and may not be used in blast-resisting structural systems. In this paper, the effectiveness of enforcing arching action as a cost-effective hardening technique for vertically spanning one-way URM walls under blast loads is investigated. A total of eight full-scale concrete-block URM walls were subjected to blast loads generated by high explosives. Enforcing URM walls arching between rigid supports significantly enhanced their out-of-plane blast resistance compared to similar nonarching (flexural) URM walls. Moreover, no fragments or debris were observed on the leeward side of the arching walls, indicating the potential of the proposed hardening technique in reducing the hazard level on the occupants of buildings with exterior URM walls. The improved performance is attributed to the formation of hinges at the walls’ supports and midheights. This three-hinged arch mechanism allowed the walls to develop large in-plane compressive forces, which subsequently increased their out-of-plane resistances and prevented flying debris due to increased friction forces between the masonry courses. Comparing the observed strength of the arched walls to their strength predicted by existing models showed a significant underestimation of the actual wall strengths. The results of the study clearly demonstrate that, with minimal structural intervention, URM walls can significantly improve the building envelope performance and contribute to the structural resistance of blast loads.
+
+
+    
+        AU - Hae Young Noh
+    
+        AU - K. Krishnan Nair
+    
+        AU - Dimitrios G. Lignos
+    
+        AU - Anne S. Kiremidjian
+    
+
+TI - Use of Wavelet-Based Damage-Sensitive Features for Structural Damage Diagnosis Using Strong Motion Data
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 1215-1228
+VI - 137
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000385 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000385
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000385
+SO - Journal of Structural Engineering 2011-10-01 137(10): 1215-1228
+AB - This paper introduces three wavelet-based damage-sensitive features (DSFs) extracted from structural responses recorded during earthquakes to diagnose structural damage. Because earthquake excitations are nonstationary, the wavelet transform, which represents data as a weighted sum of time-localized waves, is used to model the structural responses. These DSFs are defined as functions of wavelet energies at particular frequencies and specific times. The first DSF (DSF1) indicates how the wavelet energy at the original natural frequency of the structure changes as the damage progresses. The second DSF (DSF2) indicates how much the wavelet energy is spread out in time. The third DSF (DSF3) reflects how slowly the wavelet energy decays with time. The performance of these DSFs is validated using two sets of shake-table test data. The results show that as the damage extent increases, the DSF1 value decreases and the DSF2 and DSF3 values increase. Thus, these DSFs can be used to diagnose structural damage. The robustness of these DSFs to different input ground motions is also investigated using a set of simulated data.
+
+
+    
+        AU - Zhi Hao Zuo
+    
+        AU - Yi Min Xie
+    
+        AU - Xiaodong Huang
+    
+
+TI - Optimal Topological Design of Periodic Structures for Natural Frequencies
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 1229-1240
+VI - 137
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000347 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000347
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000347
+SO - Journal of Structural Engineering 2011-10-01 137(10): 1229-1240
+AB - This paper proposes a method for topology optimization of periodic structures on dynamic problems by using an improved bidirectional evolutionary structural optimization (BESO) technique. Frequency optimization and frequency-stiffness optimization are formulated for periodic continuum structures at the macroscopic level under arbitrary loadings and boundaries. Numerical instabilities that occur in common topological frequency optimization are dealt with by eliminating singular and single-hinged elements and removing alternative element groups in case of sudden drops of the relevant frequency. Layout periodicity of the optimal design is guaranteed by creating a representative unit cell (RUC) on the basis of a user-defined cell mode and averaging the sensitivities from all unit cells into the RUC. The capability and effectiveness of the proposed approach are demonstrated by numerical experiments with various cell modes.
+
+
+    
+        AU - M. Gillie
+    
+
+TI - Measures of Circularity for Shell Structures
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 1241-1243
+VI - 137
+IP - 10
+AID - 10.1061/(ASCE)ST.1943-541X.0000348 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000348
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000348
+SO - Journal of Structural Engineering 2011-10-01 137(10): 1241-1243
+AB - Most design codes for circular shell structures include a limit on out-of-round imperfections. However, commonly used measures of out-of-roundness fail to identify shapes that have constant diameter but are not circular. It is shown that out-of-roundness imperfections that take these forms can significantly affect the strength of nominally circular shell structures. An alternative measure of out-of-roundness is proposed that captures all out-of-round shapes, gives the same measure of out-of-roundness for elliptical structures as currently used measures, and is easy to apply.
+
+

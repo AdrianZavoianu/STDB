@@ -1,0 +1,358 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Hiroyuki Suzuki
+    
+        AU - Tse-Yung P. Chang
+    
+
+TI - Bending of Laminated Cantilever Beams with Interlayer Slip
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 269-281
+VI - 105
+IP - 2
+AID - 10.1061/JSDEAG.0005092 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005092
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005092
+SO - Journal of the Structural Division 1979-02-01 105(2): 269-281
+AB - This paper deals with the load-deformation responses of laminated cantilever beams with the consideration of interlayer slip. In the analysis, a slip criterion was assumed that slip between the laminae of a beam will occur if the interlayer shear reaches a critical value. An analytical solution was obtained by extending the simple beam theory for which interlayer slip of the beam is permitted. Analysis results indicate that slip deformation not only reduces the bending stiffness of the beam, but also leads to an ultimate state in a manner similar to plastic deformation.
+
+
+    
+        AU - Lawrence F. Kahn
+    
+        AU - Robert D. Hanson
+    
+
+TI - Infilled Walls for Earthquake Strengthening
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 283-296
+VI - 105
+IP - 2
+AID - 10.1061/JSDEAG.0005093 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005093
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005093
+SO - Journal of the Structural Division 1979-02-01 105(2): 283-296
+AB - Five one-half scale reinforced concrete frames were constructed and tested under static reversed cycle loads to determine experimentally the effectiveness of infilled walls in strengthening and stiffening existing framed structures against earthquake loads. An unstrengthened portal frame and a frame with a monolithically cast infilled wall provided references for the three strengthening techniques. The first wall was cast-in-place within the existing frame; the second was a single precast panel that was bolted to top and bottom beams; and the third was made of six individual precast panels that were connected to the top and bottom beam and to each other. Tests showed that the cast-in-place wall strengthened the frame so that its capacity was similar to the monolithically cast specimen but that the cast-in-place system dissipated only one-half the energy. The multiple precast panel wall demonstrated greater ductility than the other infilled structures; although its maximum load capacity was about one-half that of the monolithically cast specimen.
+
+
+    
+        AU - Kuen-Yaw Shye
+    
+        AU - James Colville
+    
+
+TI - Post-Buckling Finite Element Analysis of Flat Plates
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 297-311
+VI - 105
+IP - 2
+AID - 10.1061/JSDEAG.0005094 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005094
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005094
+SO - Journal of the Structural Division 1979-02-01 105(2): 297-311
+AB - A finite element analysis procedure that is capable of yielding the initial and secondary critical buckling loads and corresponding buckling modes for thin elastic plates is presented. The solution procedure is based on an iterative solution of the geometrically nonlinear equilibrium equations. It is shown that this procedure will converge to the absolute minimum potential energy state possible for a symmetrical buckled mode if the plate is initially disturbed in a symmetrical mode. A method of determining the minimum potential energy state corresponding to an initially unsymmetrical mode is also included. Simple equations representing the basic uncoupled plate deflection forms and the relation between these forms and the final converged forms are also given. Numerical examples for square and rectangular plates subjected to several magnitudes of in-plane loading are presented and compared to available data.
+
+
+    
+        AU - Paola Ronca
+    
+        AU - M. Z. Cohn
+    
+
+TI - Limit Analysis of Reinforced Concrete Arch Bridges
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 313-326
+VI - 105
+IP - 2
+AID - 10.1061/JSDEAG.0005095 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005095
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005095
+SO - Journal of the Structural Division 1979-02-01 105(2): 313-326
+AB - The analysis of limit load and deformations of arch bridges can be cast as linear programming problems by idealizing them as plane structures that consaist of discretized elastic elements connected by plastic hinges and by assuming elastic-plastic models for both steel and concrete before the ultimate concrete strain is reached. For the case of holonomic behavior, the internal forces and displacements can be determined at any level of loading up to collapse by using a general matrix formulation of the equilibrium, compatibility, and constitutive law equations along with the appropriate computer programs. Theoretical formulations of the limit load analysis under static loadings and the historical elastic-plastic analysis are presented. Their applications to reinforced concrete bridges are then examined and results are compared with experimental and numerical data of an arch bridge tested in Italy.
+
+
+    
+        AU - Zdenĕk P. Bažant
+    
+        AU - Tatsuya Tsubaki
+    
+
+TI - Concrete Reinforcing Net: Optimum Slip-Free Limit Design
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 327-346
+VI - 105
+IP - 2
+AID - 10.1061/JSDEAG.0005096 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005096
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005096
+SO - Journal of the Structural Division 1979-02-01 105(2): 327-346
+AB - The proposed slip-free design assures desired safety against large frictional shear slip of crack surfaces, which assures a reduced extent of cracking and damage to concrete. Orthogonal nets in shell or plate walls under in-plane forces are considered. A reinforcement that is up to about 34% heavier is obtained when large shear forces in the bar directions are present. The case when one principal force is compressive is also analyzed, and here the differences become still larger (up to about 67%). The optimum classical (frictionless) limit design is found to be equivalent to the optimum service stress design (except for a common scaling factor), which is an objectionable feature, and the difference between them is due solely to safety factors. In the slip-free design, which is almost as simple as the frictionless design, the critical crack direction leading to the lightest possible reinforcement is not at a 45° angle with the bars, as in the frictionless design, but deviates from it substantially. The safe domain in the plane whose coordinates are the reinforcement ratios is still a hyperbola, but with inclined asymptotes.
+
+
+    
+        AU - George E. Drew
+    
+
+TI - Post-Tensioning System Surveillance Program
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 347-357
+VI - 105
+IP - 2
+AID - 10.1061/JSDEAG.0005097 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005097
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005097
+SO - Journal of the Structural Division 1979-02-01 105(2): 347-357
+AB - Nuclear power plant containment structure post-tensioning system tendon surveillance program is described in detail. Data collected over three yearly post-tensioning system Surveillance Programs is presented and evaluated to correlate anticipated stress losses with actual losses. In addition corrosion protected system performance is analyzed.
+
+
+    
+        AU - Hisham H. Hafez
+    
+        AU - Murray C. Temple
+    
+        AU - John S. Ellis
+    
+
+TI - Pretensioning of Single-Crossarm Stayed Columns
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 359-375
+VI - 105
+IP - 2
+AID - 10.1061/JSDEAG.0005098 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005098
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005098
+SO - Journal of the Structural Division 1979-02-01 105(2): 359-375
+AB - The effect of the initial pretension in the stays on the buckling load of a single-crossarm stayed column is presented. Previous research on stayed columns has been concerned only with the maximum buckling load. The initial pretension in the stays required to obtain this buckling load had not been determined. A geometrical study of a single-crossarm stayed column was carried out to determine this effect. The minimum effective, optimum, and maximum possible pretensions are defined and equations are given for their determination. Experimental results are presented for the buckling loads obtained by varying the initial pretension in the stays. Numerical examples are used to demonstrate the influence of three of the stayed column parameters on the minimum effective and optimum pretensions, as well as the maximum buckling load. The theoretical and experimental results indicate the great influence of the initial pretension on the buckling load of a single-crossarm stayed column.
+
+
+    
+        AU - Robert G. Bea
+    
+        AU - Jean M. E. Audibert
+    
+        AU - M. Radwan Akky
+    
+
+TI - Earthquake Response of Offshore Platforms
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 377-400
+VI - 105
+IP - 2
+AID - 10.1061/JSDEAG.0005099 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005099
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005099
+SO - Journal of the Structural Division 1979-02-01 105(2): 377-400
+AB - The response and performance of conventional offshore platforms subjected to intense earthquake ground motions is a topic of vital concern to the offshore energy industry. The platforms discussed are steel, tubular-membered, truss-framed structures supported by tubular piles and conductors. Elastic and inelastic response, and platform system element characteristics are considered. An offshore platform system, if properly designed and carefully proportioned according to API RP 2A guidelines, can develop earthquake resistance which equals or exceeds that of comparable conventional onshore building structures.
+
+
+    
+        AU - Robert G. Bea
+    
+
+TI - Earthquake and Wave Design Criteria for Offshore Platforms
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 401-419
+VI - 105
+IP - 2
+AID - 10.1061/JSDEAG.0005100 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005100
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005100
+SO - Journal of the Structural Division 1979-02-01 105(2): 401-419
+AB - A method that applies experience, projections of environmental conditions, response analyses, and reliability logic is used to develop earthquake and wave design criteria for one class of offshore platform system. The system consists of a steel, tubular-membered, template-type superstructure supported on piles and firm soils, in 300 ft of water. Three fictitious sites are considered: Eastern Gulf of Alaska, Southern California, and the Santa Barbara Channel. Ranges of design wave heights and ground motion velocities are given. Results are compared with those appropriate for a conventional building structure and with those from API RP 2A guidelines for fixed offshore platforms. Good agreement with API guidelines is indicated.
+
+
+    
+        AU - David J. Malcolm
+    
+        AU - Peter G. Glockner
+    
+
+TI - Optimum Cable Configuration for Air-Supported Structures
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 421-435
+VI - 105
+IP - 2
+AID - 10.1061/JSDEAG.0005101 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005101
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005101
+SO - Journal of the Structural Division 1979-02-01 105(2): 421-435
+AB - It is anticipated that the design of large-span air-supported structures will increasingly rely on a two-way system of reinforcing cables to provide the overall structural integrity. This report makes recommendations on the optimum shape for such reinforcing cable networks if the deflections and cable forces are to be minimized. It is proposed that this optimum will comprise cables that follow lines of initial geodesic curvature and will therefore maintain constant tension along their lengths. Examination of numerical results for a spherical cap and a part-circular cylinder under lateral loading support this proposal and confirm the advantages of geodesic networks over networks that follow lines of principal curvature. Numerical results are obtained with the use of an iterative computer program based on previous work and adapted for the solution of tension-only structures. Consideration of the numerical difficulties encountered with this class of structure is included.
+
+
+    
+        AU - Bharat B. Joshi
+    
+        AU - Chandrahas S. Gurujee
+    
+
+TI - Structural Analyses and Tests of Portable Mast
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 437-444
+VI - 105
+IP - 2
+AID - 10.1061/JSDEAG.0005102 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005102
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005102
+SO - Journal of the Structural Division 1979-02-01 105(2): 437-444
+AB - The derrick of portable drilling equipment is analyzed both as space truss and as space frame. The stiffness-matrix procedure is used for theoretical analysis. Tests were carried out on an actual derrick. The theoretical and experimental results are compared and the behavior of the derrick under load is considered. Suggestions have been made for the design of such structures.
+
+
+    
+        AU - Lawrence L. Durocher
+    
+        AU - James Kane
+    
+
+TI - Stiffness Matrix for Eccentric Beam Segment
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 447-450
+VI - 105
+IP - 2
+AID - 10.1061/JSDEAG.0005103 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005103
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005103
+SO - Journal of the Structural Division 1979-02-01 105(2): 447-450
+AB - The writers’ purpose was to derive a stiffness matrix that could be simply inserted in a standard skeleton program and whose degrees-of-freedom are very familiar to structural analysts.
+
+
+    
+        AU - Prakash Desayi
+    
+        AU - A. B. Kulkarni
+    
+
+TI - Closure to “Load-Deflection Behaviour of Restrained R/C Slabs”
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 453-453
+VI - 105
+IP - 2
+AID - 10.1061/JSDEAG.0005104 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005104
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005104
+SO - Journal of the Structural Division 1979-02-01 105(2): 453-453
+
+
+    
+        AU - Perumalsamy N. Balaguru
+    
+        AU - Antoine E. Naaman
+    
+        AU - Surendra P. Shah
+    
+
+TI - Closure to “Analysis and Behavior of Ferrocement in Flexure”
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 453-454
+VI - 105
+IP - 2
+AID - 10.1061/JSDEAG.0005105 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005105
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005105
+SO - Journal of the Structural Division 1979-02-01 105(2): 453-454
+
+
+    
+        AU - Edwin G. Burdette
+    
+
+TI - Discussion of “Projectile Penetration into Buried Structures”
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 454-457
+VI - 105
+IP - 2
+AID - 10.1061/JSDEAG.0005106 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005106
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005106
+SO - Journal of the Structural Division 1979-02-01 105(2): 454-457
+
+
+    
+        AU - Raymond M. L. Ting
+    
+
+TI - Discussion of “Projectile Penetration Into Buried Structures”
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 457-462
+VI - 105
+IP - 2
+AID - 10.1061/JSDEAG.0005107 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005107
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005107
+SO - Journal of the Structural Division 1979-02-01 105(2): 457-462
+
+
+    
+        AU - David Allen
+    
+
+TI - Discussion of “Eccentrically Braced Steel Frames for Earthquakes”
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 462-463
+VI - 105
+IP - 2
+AID - 10.1061/JSDEAG.0005108 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005108
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005108
+SO - Journal of the Structural Division 1979-02-01 105(2): 462-463
+
+
+    
+        AU - David Allen
+    
+
+TI - Discussion of “Unbraced Length Requirements for Steel I-Beams”
+PT - Journal Article
+DP - 1979
+TA - Journal of the Structural Division
+PG - 463-464
+VI - 105
+IP - 2
+AID - 10.1061/JSDEAG.0005109 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0005109
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0005109
+SO - Journal of the Structural Division 1979-02-01 105(2): 463-464
+
+

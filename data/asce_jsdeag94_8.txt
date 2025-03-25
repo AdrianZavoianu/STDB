@@ -1,0 +1,479 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - William W. McVinnie
+    
+        AU - Edwin H. Gaylord
+    
+
+TI - Inelastic Buckling of Unbraced Space Frames
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 1863-1885
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002034 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002034
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002034
+SO - Journal of the Structural Division 1968-08-01 94(8): 1863-1885
+AB - Inelastic lateral buckling of an unbraced orthogonal space frame is studied analytically. The frame consists of four simply-supported columns and four beams, with two beams framing into each column top. All members are of hollow, rectangular cross section of elastic-plastic material. Uniform load is applied to each beam along with concentrated loads at the column tops to simulate multistory frames. Both the frame and loading have two planes of symmetry. The collapse load, assuming the frame to remain stable, and the lateral buckling load are determined. Single-story frames carried loads of at least 90% of the collapse load before buckling occurred. Many simulated three-story frames buckled laterally at loads considerably less than the collapse load. Comparison of results with the AISC requirements for columns in unbraced plane frames indicates that the requirements are conservative when the columns are subjected to biaxial moments. Equations for estimating the lateral buckling load for the frames studied are given.
+
+
+    
+        AU - Andrew C. Palmer
+    
+
+TI - Optimal Structure Design by Dynamic Programming
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 1887-1906
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002035 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002035
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002035
+SO - Journal of the Structural Division 1968-08-01 94(8): 1887-1906
+AB - The lower bound theorem of plastic theory offers a direct procedure for structural design: any equilibrium distribution of stress (or force, or bending moment) gives an admissible design if the structure is so proportioned that it is then everywhere at or below yield. A cost can be assigned to each element of the structure, and the total cost is the sum of these costs. The optimal structure is the cheapest of all admissible designs, and is associated with the optimal equilibrium stress distribution. Herein dynamic programming is applied to the problem of locating this optimal stress distribution, and thence the optimal design. An application to the optimal design of a continuous beam is described in detail. It turns out that realistic cost functions can be introduced without difficulty, taking account of nonlinearity, fabrication cost and limited section availability. Extensions of the technique to more complex structures are discussed, and illustrated by the design of a multistory single-bay frame.
+
+
+    
+        AU - Subhash C. Goel
+    
+        AU - Glen V. Berg
+    
+
+TI - Inelastic Earthquake Response of Tall Steel Frames
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 1907-1934
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002036 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002036
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002036
+SO - Journal of the Structural Division 1968-08-01 94(8): 1907-1934
+AB - A procedure for evaluating the lateral response of unbraced multistory building frames subjected to a prescribed base motion was developed for use on a digital computer. A Ramberg-Osgood type moment-curvature function was used to describe the inelastic hysteresis behavior of girders, while the columns were assumed to behave elastically. Representative frames of 10, 25, and 40 stories were analyzed. Recorded accelerograms of El Centro 1940, Taft 1952, and Alameda Park, Mexico 1962 earthquakes were used with modified intensities. The results indicate that the shape and intensity of the velocity response spectrum of the earthquakes and the elastic fundamental period of the structures have a marked influence upon their inelastic response. While the elastic behavior of columns is well documented by the results, the hysteresis behavior of girders alone may be a potential source of energy dissipation during a severe earthquake.
+
+
+    
+        AU - James M. Doyle
+    
+        AU - Shih-Lung Chu
+    
+
+TI - Plastic Design of Flexible Conduits
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 1935-1944
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002037 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002037
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002037
+SO - Journal of the Structural Division 1968-08-01 94(8): 1935-1944
+AB - A design procedure for circular underground flexible conduits is presented. The method is based on the formation of a collapse mechanism in contrast to the deflection criterion which is widely used at present. In order to locate the points of maximum bending moment, the loading conditions assumed by Spangler are used, with some modification, and the structure is analyzed elastically. Plastic hinges are assumed at these points and the thickness required to maintain equilibrium is calculated.
+
+
+    
+        AU - Charles G. Schilling
+    
+
+TI - Bending Behavior of Composite Hybrid Beams
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 1945-1964
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002038 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002038
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002038
+SO - Journal of the Structural Division 1968-08-01 94(8): 1945-1964
+AB - Theoretical moment-curvature and moment-stress relations are developed to describe the bending behavior of composite hybrid beams, which differs from that of noncomposite hybrid beams and of composite homogeneous beams. Formulas are developed for the ultimate strength of composite hybrid beams, as limited by either crushing of the concrete or yielding of the full cross section of the steel beam. Curves of moment vs (1) curvature, (2) location of the neutral axis, (3) bottom-flange stress, and (4) top-flange stress are presented to illustrate the theoretical bending behavior of composite hybrid beams and to compare this behavior with that of composite homogeneous beams. These curves show that there is a small difference between the behavior of the two types of beams as a result of web yielding In the hybrid beam. For design purposes, the small reduction in the flange-yield moment caused by web yielding can be accounted for by an approximate design formula that gives a reduced allowable flange stress. If this reduced allowable stress is used the bending stress in the web need not be checked.
+
+
+    
+        AU - Phillip S. Carskaddan
+    
+
+TI - Shear Buckling of Unstiffened Hybrid Beams
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 1965-1990
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002039 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002039
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002039
+SO - Journal of the Structural Division 1968-08-01 94(8): 1965-1990
+AB - An investigation of the web buckling strength of hybrid beams was conducted with the specific objective of determining the maximum web slenderness ratio for unstiffened webs to prevent web buckling before general yielding in beams subjected to combined bending moment and shearing force. Theoretical equations were derived to predict the shear-buckling strength. Because the web of a hybrid beam yields before the flanges, the equations are written for any amount of web yielding. Six test results are presented for beams with A514 steel flanges and both carbon steel and high-strength low-alloy steel webs. The test variables included the web slenderness ratio, the depth of web yielding, and the web distortions. The experimental and theoretical results are in good agreement and shear buckling curves based on the theoretical equations are presented.
+
+
+    
+        AU - Anthony T. Hinkley
+    
+
+TI - Closure to “Analysis of a Shear Wall Supported by a Beam”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 1993-1993
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002040 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002040
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002040
+SO - Journal of the Structural Division 1968-08-01 94(8): 1993-1993
+
+
+    
+        AU - Carl Berwanger
+    
+
+TI - Closure to “Limit Design by Successive Moment Distribution”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 1993-1995
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002041 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002041
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002041
+SO - Journal of the Structural Division 1968-08-01 94(8): 1993-1995
+
+
+    
+        AU - Donald A. Sawyer
+    
+
+TI - Closure to “Ponding of Rainwater on Flexible Roof Systems”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 1996-1999
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002042 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002042
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002042
+SO - Journal of the Structural Division 1968-08-01 94(8): 1996-1999
+
+
+    
+        AU - Maxwell G. Lay
+    
+        AU - Theodore V. Galambos
+    
+
+TI - Closure to “Inelastic Beams under Moment Gradient”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 1999-2001
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002043 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002043
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002043
+SO - Journal of the Structural Division 1968-08-01 94(8): 1999-2001
+
+
+    
+        AU - Cenap Oran
+    
+
+TI - Closure to “Complementary Energy Concept for Large Deformations”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2001-2003
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002044 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002044
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002044
+SO - Journal of the Structural Division 1968-08-01 94(8): 2001-2003
+
+
+    
+        AU - M. J. L. Hussey
+    
+
+TI - Closure to “General Theory of Cyclically Symmetric Frames”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2003-2004
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002045 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002045
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002045
+SO - Journal of the Structural Division 1968-08-01 94(8): 2003-2004
+
+
+    
+        AU - Wen F. Chang
+    
+
+TI - Closure to “Inelastic Buckling and Sidesway of Concrete Frames”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2004-2005
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002046 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002046
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002046
+SO - Journal of the Structural Division 1968-08-01 94(8): 2004-2005
+
+
+    
+        AU - Paul E. Mast
+    
+
+TI - Closure to “New Method for Exact Analysis of Folded Plates”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2005-2005
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002047 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002047
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002047
+SO - Journal of the Structural Division 1968-08-01 94(8): 2005-2005
+
+
+    
+        AU - Alan G. Davenport
+    
+
+TI - Closure to “Gust Loading Factors”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2006-2006
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002048 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002048
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002048
+SO - Journal of the Structural Division 1968-08-01 94(8): 2006-2006
+
+
+    
+        AU - J. Michael Davies
+    
+
+TI - Closure to “Collapse and Shakedown Loads of Plane Frames”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2006-2007
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002049 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002049
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002049
+SO - Journal of the Structural Division 1968-08-01 94(8): 2006-2007
+
+
+    
+        AU - Hakam Bayazid
+    
+        AU - Adrian Pauw
+    
+
+TI - Discussion of “Reinforced Concrete Beams Subjected to Repeated Loads”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2007-2010
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002050 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002050
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002050
+SO - Journal of the Structural Division 1968-08-01 94(8): 2007-2010
+
+
+    
+        AU - Prabir K. Neogi
+    
+
+TI - Discussion of “Strength of Steel-Encased Concrete Beam Columns”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2011-2012
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002051 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002051
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002051
+SO - Journal of the Structural Division 1968-08-01 94(8): 2011-2012
+
+
+    
+        AU - Kenneth P. Osborne
+    
+
+TI - Discussion of “Folded Plates Continuous Over Flexible Supports”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2013-2014
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002052 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002052
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002052
+SO - Journal of the Structural Division 1968-08-01 94(8): 2013-2014
+
+
+    
+        AU - Ishwar C. Jhamb
+    
+        AU - William H. Jones
+    
+        AU - Malcolm K. Wilkinson
+    
+        AU - Jacobus H. Wynhoven
+    
+
+TI - Closure to “Inelastic Torsional Buckling of H-Columns”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2014-2015
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002053 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002053
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002053
+SO - Journal of the Structural Division 1968-08-01 94(8): 2014-2015
+
+
+    
+        AU - William Weaver
+    
+        AU - William P. Dawkins
+    
+
+TI - Discussion of “Computer System for Analysis of Large Frameworks”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2016-2018
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002054 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002054
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002054
+SO - Journal of the Structural Division 1968-08-01 94(8): 2016-2018
+
+
+    
+        AU - Anthony R. Cusens
+    
+        AU - Ricardo P. Pama
+    
+
+TI - Discussion of “Multibeam Bridges with Elements of Channel Section”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2019-2021
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002055 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002055
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002055
+SO - Journal of the Structural Division 1968-08-01 94(8): 2019-2021
+
+
+    
+        AU - Frederic T. Mavis
+    
+
+TI - Discussion of “Shear-Volume Method of Solving Tensions in Cables”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2021-2021
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002056 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002056
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002056
+SO - Journal of the Structural Division 1968-08-01 94(8): 2021-2021
+
+
+    
+        AU - Walter A. Von Riesemann
+    
+
+TI - Discussion of “Analysis by Group Iteration Using Substructures”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2022-2022
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002057 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002057
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002057
+SO - Journal of the Structural Division 1968-08-01 94(8): 2022-2022
+
+
+    
+        AU - Franklin Y. Cheng
+    
+
+TI - Discussion of “Dynamic Characteristics of Multistory Buildings”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2023-2025
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002058 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002058
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002058
+SO - Journal of the Structural Division 1968-08-01 94(8): 2023-2025
+
+
+    
+        AU - Anthony R. Kjar
+    
+
+TI - Lower Bound for Torsional Lateral Buckling
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2029-2032
+VI - 94
+IP - 8
+AID - 10.1061/JSDEAG.0002059 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002059
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002059
+SO - Journal of the Structural Division 1968-08-01 94(8): 2029-2032
+AB - Herein an algebraic lower bound solution to the buckling load of the structures is presented.
+
+

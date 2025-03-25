@@ -1,0 +1,327 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Sashi K. Kunnath
+    
+
+TI - Editor’s Note
+PT - Journal Article
+DP - 2009
+TA - Journal of Structural Engineering
+PG - 1305-1309
+VI - 135
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000096 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000096
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000096
+SO - Journal of Structural Engineering 2009-11-01 135(11): 1305-1309
+
+
+    
+        AU - Chin-Long Lee
+    
+        AU - Filip C. Filippou
+    
+
+TI - Efficient Beam-Column Element with Variable Inelastic End Zones
+PT - Journal Article
+DP - 2009
+TA - Journal of Structural Engineering
+PG - 1310-1319
+VI - 135
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000064 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000064
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000064
+SO - Journal of Structural Engineering 2009-11-01 135(11): 1310-1319
+AB - The paper presents a new beam-column element that combines computational efficiency with accuracy. The element uses only one monitoring section in each end inelastic zone of the structural member, but accounts for the spread of inelastic deformations under strain hardening response. It is, therefore, a variable inelastic zone model that combines the benefit of integrating the section moment-curvature response with the computational efficiency of concentrated hinge models for beams and columns. The element is more accurate than current distributed inelasticity models in simulating the monotonic and cyclic inelastic response of beams and columns under typical curvature distributions, while being much more cost effective. The element is also suitable for softening response, as long as a relation is available between the length of the softening zone and element response parameters.
+
+
+    
+        AU - William G. Davids
+    
+
+TI - In-Plane Load-Deflection Behavior and Buckling of Pressurized Fabric Arches
+PT - Journal Article
+DP - 2009
+TA - Journal of Structural Engineering
+PG - 1320-1329
+VI - 135
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000068 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000068
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000068
+SO - Journal of Structural Engineering 2009-11-01 135(11): 1320-1329
+AB - This study focuses on the in-plane load-deflection and buckling response of pressurized fabric arches of constant circular cross section. These lightweight portable structural members support tents used for temporary medical facilities, disaster-relief shelters, and military applications. A quadratic Timoshenko beam element is developed for materially and geometrically nonlinear analysis based on a virtual work principle that includes work done by internal pressure due to deformation-induced volume changes. The inability of the arch fabric to carry compressive stress is addressed with a nonlinear moment-curvature relationship that captures the effect of fabric tensile stiffness, internal pressure, and axial load. A corotational formulation and cylindrical arc-length solver are used to permit large displacement analysis and the tracking of postbuckling softening response. A convergence study demonstrates the good performance of the element and the solver. Results of laboratory load tests on a 9.5 m-span semicircular inflated fabric arch are presented, and shown to agree well with the model predictions. Parametric studies are conducted to examine the significance of inflation pressure and lateral restraint on arch deflections and buckling under the action of code-specified snow loads. The numerical studies show that the work done by the confined air significantly increases arch load capacity, and that shear deformations of woven fabrics can significantly reduce arch capacity.
+
+
+    
+        AU - Y. H. Chai
+    
+        AU - Yanfei Chen
+    
+
+TI - Reexamination of the Vibrational Period of Coupled Shear Walls by Differential Transformation
+PT - Journal Article
+DP - 2009
+TA - Journal of Structural Engineering
+PG - 1330-1339
+VI - 135
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000059 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000059
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000059
+SO - Journal of Structural Engineering 2009-11-01 135(11): 1330-1339
+AB - In multistory buildings, coupled shear walls are frequently used as the main lateral load resisting system, the seismic design of which requires some knowledge of their periods of vibration. Although the vibrational characteristics of coupled shear walls have been extensively studied since the 1970’s, most of the studies were based on approximations resulting in varying degree of accuracies and complexities. Methods proposed by these studies ranged from the Rayleigh’s quotient to the Dunkerley’s formula, to the Galerkin’s method of weighted residuals, and to the solution of the Sturm-Louiville type differential equation. A review of the literature, including a recent publication, shows conflicting results regarding the accuracy and implementation of these methods. With this as motivation, this paper re-examines the vibrational characteristics of coupled shear walls and compares their periods of vibration with previous methods when available. The governing equation, established on the basis of replacing the coupling beams by an equivalent laminae medium, is solved as an eigenvalue problem using the recently developed technique of differential transformation. The convergence of solutions, which is important for numerical implementation, is investigated as part of this study.
+
+
+    
+        AU - Jurgen Becque
+    
+        AU - Kim J. R. Rasmussen
+    
+
+TI - Experimental Investigation of the Interaction of Local and Overall Buckling of Stainless Steel I-Columns
+PT - Journal Article
+DP - 2009
+TA - Journal of Structural Engineering
+PG - 1340-1348
+VI - 135
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000051 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000051
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000051
+SO - Journal of Structural Engineering 2009-11-01 135(11): 1340-1348
+AB - This paper describes an experimental program carried out at the University of Sydney to study the interaction of local and overall flexural buckling in stainless steel I-columns. The columns were composed of cold-formed back-to-back channels, connected with sheet metal screws. Two stainless steel alloys were considered: austenitic AISI304 and ferritic AISI404. Tests were carried out to determine the material properties. The results reveal nonlinear stress-strain behavior with low proportionality limit, moderate anisotropy, and enhanced strength as a result of cold working. A total of 24 columns were tested under an axial load, applied with a nominal eccentricity of 
+
+
+Le
+/1,500
+
+, where 
+
+
+Le
+
+
+=effective length. The length of the specimens varied between 500 and 3,000 mm in 500-mm increments. Twin specimens were tested for each length. All columns were tested between pinned ends. The research aims to rectify the lack of experimental data on local-overall interaction buckling in stainless steel columns with open cross section.
+
+
+    
+        AU - Jurgen Becque
+    
+        AU - Kim J. R. Rasmussen
+    
+
+TI - Numerical Investigation of the Interaction of Local and Overall Buckling of Stainless Steel I-Columns
+PT - Journal Article
+DP - 2009
+TA - Journal of Structural Engineering
+PG - 1349-1356
+VI - 135
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000052 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000052
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000052
+SO - Journal of Structural Engineering 2009-11-01 135(11): 1349-1356
+AB - This report describes research carried out at the University of Sydney to study the interaction of local and overall buckling in stainless steel I-columns. A finite-element model was constructed using the commercially available ABAQUS software package, taking into account the specific material properties of stainless steel: nonlinear stress-strain behavior, anisotropy, and enhanced corner properties as a result of cold working. The model was verified against the experimental data presented in the companion paper and yielded good predictions of the behavior and ultimate capacity of the test specimens. The finite-element model was subsequently used in parametric studies, which covered the practical ranges of overall and cross-sectional slenderness values. The current Australian/New Zealand, North American, and European design guidelines for stainless steel were assessed using the available experimental and numerical data. It is demonstrated that the current design standards fail to appropriately account for the local overall interaction effect in stainless steel I-columns.
+
+
+    
+        AU - Jonah J. Shishkin
+    
+        AU - Robert G. Driver
+    
+        AU - Gilbert Y. Grondin
+    
+
+TI - Analysis of Steel Plate Shear Walls Using the Modified Strip Model
+PT - Journal Article
+DP - 2009
+TA - Journal of Structural Engineering
+PG - 1357-1366
+VI - 135
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000066 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000066
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000066
+SO - Journal of Structural Engineering 2009-11-01 135(11): 1357-1366
+AB - Unstiffened steel plate shear walls are an effective and economical method of resisting lateral forces on structures due to wind and earthquakes. Structural engineers require the ability to assess the inelastic structural response of steel plate shear walls using conventional analysis software that is commonly available and is relatively simple and expeditious to use. The strip model, a widely accepted analytical tool for steel plate shear wall analysis, is refined based on phenomena observed during loading of steel plate shear walls in the laboratory. Since the original strip model was proposed as an elastic analysis tool, these refinements are made primarily to achieve an accurate representation of yielding and eventual deterioration of the wall, although moderate improvements in initial stiffness predictions are also made. In assessing each of the proposed refinements, modeling efficiency is evaluated against the accuracy of the solution. A parametric study using the modified strip model examines the effect of varying the angle of inclination of the tension strips on the predicted inelastic behavior of the model. Notably, it was found that the ultimate capacities of steel plate shear wall models with a wide variety of configurations vary little with the variation of the inclination of the strips.
+
+
+    
+        AU - Ronny Purba
+    
+        AU - Michel Bruneau
+    
+
+TI - Finite-Element Investigation and Design Recommendations for Perforated Steel Plate Shear Walls
+PT - Journal Article
+DP - 2009
+TA - Journal of Structural Engineering
+PG - 1367-1376
+VI - 135
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000061 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000061
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000061
+SO - Journal of Structural Engineering 2009-11-01 135(11): 1367-1376
+AB - This paper presents results from an investigation of the behavior of unstiffened thin steel plate shear wall (SPSW) having a regular pattern of openings (a.k.a. perforated SPSW). Finite element monotonic pushover analyses were conducted, first on a series of individual perforated strips with variation in perforation diameter, to develop a fundamental understanding of the behavior of complete perforated SPSW, then on a corresponding series of complete perforated SPSW having various perforation diameters. Three different sets of wall boundary conditions are considered, namely: flexible beam laterally braced, rigid floor, and rigid beam. Though some differences between the SPSW panel strips and the individual strip results are observed at large monitored strain, at lower monitored strain however the two models are in a good agreement. Based on the analytical results design recommendations of these perforated SPSWs are presented. The shear strength of a SPSW infill plate having a pattern of multiple regularly spaced circular perforations can be calculated as a function of the shear strength of a solid panel, perforation diameter, and distance between perforations.
+
+
+    
+        AU - Jianguo Nie
+    
+        AU - Muxuan Tao
+    
+        AU - C. S. Cai
+    
+        AU - Shaojing Li
+    
+
+TI - Deformation Analysis of Prestressed Continuous Steel-Concrete Composite Beams
+PT - Journal Article
+DP - 2009
+TA - Journal of Structural Engineering
+PG - 1377-1389
+VI - 135
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000067 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000067
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000067
+SO - Journal of Structural Engineering 2009-11-01 135(11): 1377-1389
+AB - Deformation calculation of prestressed continuous steel-concrete composite beams accounting for the slip effect between the steel and concrete interface under service loads is analyzed. A simplified analytical model is presented. Based on this model, formulas for predicting the cracking region of concrete slab near the interior supports and the increase of the prestressing tendon force are derived. A table for calculating the midspan deflection of two-span prestressed continuous composite beams is also proposed. It is found that the internal force of the prestressing tendon under service loads can be accurately calculated using the proposed formulas. By ignoring the increase of the tendon force, the calculated deflection are overestimated, and considering the increase of the tendon force can significantly improve the accuracy of analytical predictions. As the calculated values show good agreement with the test results, the proposed formulas can be reliably applied to the deformation analysis of prestressed continuous composite beams. Finally, based on the formulas for calculating the deformation of two-span prestressed continuous composite beams, a general method for deformation analysis of prestressed continuous composite beams is proposed.
+
+
+    
+        AU - Thomas J. Mander
+    
+        AU - Geoffrey W. Rodgers
+    
+        AU - J. Geoffrey Chase
+    
+        AU - John B. Mander
+    
+        AU - Gregory A. MacRae
+    
+        AU - Rajesh P. Dhakal
+    
+
+TI - Damage Avoidance Design Steel Beam-Column Moment Connection Using High-Force-to-Volume Dissipators
+PT - Journal Article
+DP - 2009
+TA - Journal of Structural Engineering
+PG - 1390-1397
+VI - 135
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000065 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000065
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000065
+SO - Journal of Structural Engineering 2009-11-01 135(11): 1390-1397
+AB - Existing welded steel moment frames are designed to tolerate substantial yielding and plastic rotation under earthquake loads. This sacrificial design approach can lead to permanent, and often irreparable damage when interstory drifts exceed 2%. The experimental seismic performance of a 50% full-scale damage avoidance designed structural steel beam-column connection is presented. The beam-column joint region consists of a top flange-hung beam connected to the column by an angle bracket. High-force-to-volume (HF2V) devices are attached from the column to the beam to provide joint rigidity and energy dissipation as the joint opens and closes. The HF2V devices are connected either below the beam flange or concealed above the beam’s lower flange. Reversed cyclic lateral load tests are conducted with drift amplitudes up to 4%. No damage is observed in the principal beam and column structural elements. The need for stiff device connections to achieve optimal device performance is demonstrated, and potential design solutions presented. Stable hysteresis and repeatable energy dissipation for a large number of cycles up to the 4% drift level is observed. It is concluded that superior and repeatable energy dissipation without damage can be achieved for every dynamic motion cycle, in contrast to conventional sacrificially designed welded moment frame connections.
+
+
+    
+        AU - Yuntian Wu
+    
+        AU - Yan Xiao
+    
+        AU - J. C. Anderson
+    
+
+TI - Seismic Behavior of PC Column and Steel Beam Composite Moment Frame with Posttensioned Connection
+PT - Journal Article
+DP - 2009
+TA - Journal of Structural Engineering
+PG - 1398-1407
+VI - 135
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000062 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000062
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000062
+SO - Journal of Structural Engineering 2009-11-01 135(11): 1398-1407
+AB - This paper presents test results of two large-scale precast concrete (PC) column/footing and steel beam subassemblies. In the model subassemblies, the steel beams were posttensioned by high-strength steel rods to the PC columns using an end-plate shop welded to a beam. The PC columns were connected to their footings using splice-sleeve method and dowel anchorage method, respectively. The objective of the test program was to investigate the seismic behavior of special moment resisting frames consisting of PC columns and steel beams in high-seismic regions. The detailed design approach of the proposed PC and steel special moment frames based on current seismic provisions was suggested and applied to the design of model subassemblies. Test results indicated that the PC and steel composite moment frame could be designed for resisting seismic load in terms of strength, drift ductility, and postyield deformation capacity. The test subassemblies also exhibited excellent strength and stiffness retention capacity even when the first-story drift ductility reached 5.0. In addition, the effectiveness of the two different column-footing connection types is evaluated in this paper.
+
+
+    
+        AU - M. B. Dwaikat
+    
+        AU - V. K. R. Kodur
+    
+
+TI - Response of Restrained Concrete Beams under Design Fire Exposure
+PT - Journal Article
+DP - 2009
+TA - Journal of Structural Engineering
+PG - 1408-1417
+VI - 135
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000058 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000058
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000058
+SO - Journal of Structural Engineering 2009-11-01 135(11): 1408-1417
+AB - Results from fire resistance experiments on six RC beams are presented in this paper. The test variables included concrete strength (permeability), support conditions, fire scenario, and load ratio. Data from fire tests are used to illustrate the comparative performance of high strength concrete (HSC) and normal strength concrete (NSC) beams under fire conditions. Also, data from the tests is used to validate a macroscopic finite-element model specifically developed for tracing the fire response of RC beams. Results from the tests and numerical studies show that HSC beams have lower fire resistance than that of NSC beams. It is also shown that HSC beams exhibit higher levels of spalling which is largely influenced by the permeability of concrete, type of fire exposure, load level, and restraint conditions. Similarly, the type of fire scenario, axial restraint, and load level have significant influence on the overall fire resistance of RC beams. These factors are to be considered for evaluating the fire resistance of RC beams under fire conditions.
+
+
+    
+        AU - Ricardo Perera
+    
+        AU - Francisco B. Varona
+    
+
+TI - Flexural and Shear Design of FRP Plated RC Structures Using a Genetic Algorithm
+PT - Journal Article
+DP - 2009
+TA - Journal of Structural Engineering
+PG - 1418-1429
+VI - 135
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(2009)135:11(1418) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282009%29135%3A11%281418%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282009%29135%3A11%281418%29
+SO - Journal of Structural Engineering 2009-11-01 135(11): 1418-1429
+AB - A design procedure implementing a genetic algorithm has been developed for the discrete optimization of the design of fiber-reinforced polymer (FRP) RC structures. The aims of the procedure are to minimize the material costs of strengthening RC beams for flexural and shear behavior. The ultimate limit states and the serviceability limit states are defined according to the European design guidelines for the use of FRP reinforcement in RC structures in accordance with the design format of Eurocode No. 2. The design variables are encoded in order to make use of genetic algorithms as an optimization routine. Comparative studies are presented to study the effect of the different parameters and characteristics of the genetic algorithm. Different aspects covered in the European design code are also considered in the design procedure.
+
+
+    
+        AU - J. Dario Aristizabal-Ochoa
+    
+
+TI - Discussion of “Mechanics and Slenderness Limits of Sway-Restricted Reinforced Concrete Columns” by Jostein Hellesland
+PT - Journal Article
+DP - 2009
+TA - Journal of Structural Engineering
+PG - 1430-1431
+VI - 135
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000090 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000090
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000090
+SO - Journal of Structural Engineering 2009-11-01 135(11): 1430-1431
+
+
+    
+        AU - Jostein Hellesland
+    
+
+TI - Closure to “Mechanics and Slenderness Limits of Sway-Restricted Reinforced Concrete Columns” by Jostein Hellesland 
+PT - Journal Article
+DP - 2009
+TA - Journal of Structural Engineering
+PG - 1431-1433
+VI - 135
+IP - 11
+AID - 10.1061/(ASCE)ST.1943-541X.0000083 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000083
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000083
+SO - Journal of Structural Engineering 2009-11-01 135(11): 1431-1433
+
+

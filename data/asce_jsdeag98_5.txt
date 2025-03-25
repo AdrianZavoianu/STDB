@@ -1,0 +1,592 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - M. Daniel Vanderbilt
+    
+
+TI - Shear Strength of Continuous Plates
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 961-973
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003248 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003248
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003248
+SO - Journal of the Structural Division 1972-05-01 98(5): 961-973
+AB - Results of punching shear test of 15 reinforced concrete specimens of a new type of test specimen that simulates continuous two-way construction are reported. Conclusions for these tests are that: (1) Circular columns permit development of higher shear strength than square columns of equal periphery; (2) increasing moment reinforcing results in slight shear strength increase; (3) none of the empirical strength equations extant are reliable; and (4) conventional footing type test specimens are adequate for parameter studies.
+
+
+    
+        AU - Matthys P. Levy
+    
+        AU - Istvan S. Varga
+    
+
+TI - High-Rise Panel Structures
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 975-987
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003249 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003249
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003249
+SO - Journal of the Structural Division 1972-05-01 98(5): 975-987
+AB - Design curves are presented for examining the height limitations of residential buildings constructed of prefabricated large panel components. Assuming most frequently encountered values for both gravity and wind loads and using commonly accepted design criteria for allowable stresses and wind drift, the maximum building height is determined for a number of geometric parameters for typical floor plan configurations.
+
+
+    
+        AU - Lorne J. Butler
+    
+        AU - Shubendu Pal
+    
+        AU - Geoffrey L. Kulak
+    
+
+TI - Eccentrically Loaded Welded Connections
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 989-1005
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003250 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003250
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003250
+SO - Journal of the Structural Division 1972-05-01 98(5): 989-1005
+AB - Although present methods of investigating eccentrically loaded weld groups have produced safe designs, the factor of safety is, in general, unknown. An analytical method of predicting the ultimate load on eccentrically loaded weld groups is developed. The method uses the true load-deformation response of the welds rather than some idealized one. The validity of the approach has been verified by a testing program using 13 full-size specimens. By making use of the more accurate predictions presented, the factor of safety can be brought into line with that of other structural components and can be established at a constant value for all connections of this type.
+
+
+    
+        AU - Robert M. Korol
+    
+        AU - John Hudoba
+    
+
+TI - Plastic Behavior of Hollow Structural Sections
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1007-1023
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003221 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003221
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003221
+SO - Journal of the Structural Division 1972-05-01 98(5): 1007-1023
+AB - A series of tests on beams of hollow structural sections was conducted to determine their adequacy in plastic design. A minimum plastic rotation requirement of law times the elastic limit rotation prior to unloading below the fully plastic moment was used to separate sections into categories of plastic and allowable stress design. Local buckling caused by high residual stresses occurred for all but the very stocky sections (b/t&lt;15, in which b=flange width and t=thickness). The recommended slenderness limit is given by b/t&lt;150/(σo)1/2, in which σo=yield stress) a value considerably less than is currently recommended by CSA-S16 (1969) or AISC (1970).
+
+
+    
+        AU - Tony C. Y. Liu
+    
+        AU - Arthur H. Nilson
+    
+        AU - Floyd O. Slate
+    
+
+TI - Biaxial Stress-Strain Relations for Concrete
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1025-1034
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003222 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003222
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003222
+SO - Journal of the Structural Division 1972-05-01 98(5): 1025-1034
+AB - On the basis of an extensive experimental investigation reported more fully elsewhere, an analytical form of stress-strain relationship for plain concrete in biaxial compression is proposed. This plane-stress orthotropic constitutive relationship accounts for the influence of microcrack confinement as well as Poison's ratio. Other equations found in the literature are shown to be special cases of the one proposed. Also based on experimental results, a simple equation is offered which accounts for the increase in compressive strength of plain concrete when biaxial compressive stress is introduced. Both the biaxial stress-strain equation and the strength equation are shown to give good agreement with the experimental results obtained by the writers as well as by others. Finally, a constitutive law, stated in matrix terms, is given for concrete in biaxial plane stress. This relation is suitable for use in the finite element analysis of reinforced or presstressed concrete.
+
+
+    
+        AU - Wai F. Chen
+    
+        AU - Toshio Atsuta
+    
+
+TI - Interaction Equations for Biaxially Loaded Sections
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1035-1052
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003223 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003223
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003223
+SO - Journal of the Structural Division 1972-05-01 98(5): 1035-1052
+AB - A simple method for obtaining the exact interaction relationships of doubly symmetric sections under combined axial force and biaxial bending moments is presented. Simple expressions for approximating the interaction curves of wide-flange sections are proposed, and the associated plastic deformations are calculated. For illustration, interaction curves for a wide-flange section, a box section and a circular section are developed using the method. Simple analytical expressions to approximate the interaction relations of wide-flange sections are proposed, and the associated plastic deformations are calculated.
+
+
+    
+        AU - Jitendra N. Kar
+    
+        AU - Anil K. Pal
+    
+
+TI - Strength of Fiber-Reinforced Concrete
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1053-1068
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003224 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003224
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003224
+SO - Journal of the Structural Division 1972-05-01 98(5): 1053-1068
+AB - The results of experimental and analytical studies on the characteristics of concrete reinforced with uniformly distributed short wire pieces are presented. The experimental program includes tests on workability, modulus of rupture strength, and compressive strength of 75 batches of concrete; the major variables are water-cement ratio, percentage of steel, and gage and length of wire pieces. Despite the slight loss of workability, preparation of good wire reinforced concrete is quite feasible. Effective wire spacing has been formulated taking into consideration the bond deficiency and probable orientation of the wire pieces both within the interior concrete and near the exterior faces of the specimen. Based on experimental results, a correlation has been obtained between effective wire spacing and tensile strength ratio.
+
+
+    
+        AU - John Springfield
+    
+        AU - Peter F. Adams
+    
+
+TI - Aspects of Column Design in Tall Steel Buildings
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1069-1083
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003225 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003225
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003225
+SO - Journal of the Structural Division 1972-05-01 98(5): 1069-1083
+AB - Present design procedures (1971) for steel columns imply that each column in a story is capable of resisting a lateral force including that produced by the axial force as the structure sways under the action of the applied loads. A more economical solution may result if selected columns are designed to resist the lateral forces in a complete story; the remaining columns are then supported by these elements. This paper analyzes the techniques used to assess the stability of a 57-story steel structure designed so that rigidly connected exterior frames resist the applied lateral loads and also provide support for less stiff interior frames. The difficulties in the preliminary design are described briefly and the final solution, which includes the secondary or sway forces directly, is described in detail. In addition, the technique used for a story-by-story assessment of the ultimate strength is reported.
+
+
+    
+        AU - Paul P. Fazio
+    
+
+TI - Failure Modes of Folded Sandwich Panel Roofs
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1085-1104
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003226 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003226
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003226
+SO - Journal of the Structural Division 1972-05-01 98(5): 1085-1104
+AB - Folded sandwich plate structures make effective light-weight roof structures capable of carrying relatively high loads. Two models were tested. The first had a span of 9.5 ft (2.90 m) and a saw-tooth cross section made up of six 2-ft wide (61 cm) sandwich panels having 0.025-in thick (0.64 mm) aluminum facings and 1-in thick paper honeycomb core. Shear failures (delaminations and bulging of facings) occurred at the ends of the model at a load of 17,750 lb (79,000 n) uniformly distributed along the internal five ridges. The second model had a span of 19 ft (5.80 m) and a cross section similar to the first-model, with panels having styrolite core. The two internal hip ridges buckled at midspan when the model was subjected to 75.4 psf (3620 N/m²) of pressure.
+
+
+    
+        AU - Conrad P. Heins
+    
+        AU - John T. C. Kuo
+    
+
+TI - Composite Beams in Torsion
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1105-1117
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003227 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003227
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003227
+SO - Journal of the Structural Division 1972-05-01 98(5): 1105-1117
+AB - The experimental behavior of four 12 WF 27 sections in composite action with a reinforced concrete slab (2 in., 3 in., 4 in., 6 in. thick) by 36.0 in. wide, subjected to only an end torque is presented. The beams were tested with end supports pinned-pinned and fixed-pinned. The experimental data yielded torsional constants KT, Iw, rotations and strains. These results were then compared to the thin walled beam theory yielding good correlation. Approximate equations for evaluation of the torsional parameters are also presented.
+
+
+    
+        AU - Alan H. Yorkdale
+    
+        AU - Robert P. Anderson
+    
+
+TI - Computer Design of Engineered Brick Masonry
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1119-1135
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003228 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003228
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003228
+SO - Journal of the Structural Division 1972-05-01 98(5): 1119-1135
+AB - The rational approach to the design of engineered brick masonry, as with other building materials, is time consuming. With the advent of the computer, brick masonry analysis programs can be written to aid the design professional. Two computer programs along with examples are given for the analysis of multistory loadbearing buildings following the nonreinforced provisions of the 1969 SCPI Standard, Building Code Requirements for Engineered Brick Masonry. One program considers the analysis of shear walls subjected to lateral wind forces. The other program covers the analysis of bearing walls subject to gravity loads and lateral wind loads. Both programs are written in the BASIC language and should be compatible with most time-sharing facilities.
+
+
+    
+        AU - Vitelmo V. Bertero
+    
+        AU - Egor P. Popov
+    
+        AU - Helmut Krawinkler
+    
+
+TI - Beam-Column Subassemblages Under Repeated Loading
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1137-1159
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003229 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003229
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003229
+SO - Journal of the Structural Division 1972-05-01 98(5): 1137-1159
+AB - The behavior of two types of structural steel half-scale subassemblages of a multistory unbraced frame have been investigated experimentally. These subassemblages were subjected to simulated gravity and cyclic seismic loads. The results obtained in the tests of the upper story specimens show that the weakest element of the subassemblage was the panel zone, where large shear deformation and diagonal buckling occurred. The weakness of the subassemblages representing a lower story, was associated with lateral torsional instability of the beams, which was triggered by local instabilities. From the interpretation of the results, it is concluded that for an efficient design of earthquake resistant structure, it is advisable to have a design which provides a balance between the inelastic deformations, which may take place in each of the critical regions (beam ends and panel zone). It also appears that the energy absorption and dissipation capacity of properly designed steel subassemblages exceeded the required energy even for cases of extreme earthquakes.
+
+
+    
+        AU - Frank J. Tokarz
+    
+        AU - Raghbir S. Sandhu
+    
+
+TI - Lateral-Torsional Buckling of Parabolic Arches
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1161-1179
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003230 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003230
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003230
+SO - Journal of the Structural Division 1972-05-01 98(5): 1161-1179
+AB - Equations were derived which govern the lateral-torsional buckling of parabolic arches. Buckling loads were obtained for a uniform applied loading. Both free-standing and crown restrained arches with fixed and hinged end support were considered. A comparison was made, wherever possible, between some of the buckling loads calculated and existing theoretical and experimental loads. Good agreement was evidenced.
+
+
+    
+        AU - Leroy Z. Emkin
+    
+        AU - William A. Litle
+    
+
+TI - Closure to “Plastic Design of Multistory Steel Frames by Computer”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1183-1184
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003231 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003231
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003231
+SO - Journal of the Structural Division 1972-05-01 98(5): 1183-1184
+
+
+    
+        AU - Jeremy Isenberg
+    
+        AU - Samy Adham
+    
+
+TI - Closure to “Analysis of Orthotropic Reinforced Concrete Structures”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1184-1185
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003232 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003232
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003232
+SO - Journal of the Structural Division 1972-05-01 98(5): 1184-1185
+
+
+    
+        AU - John M. Biggs
+    
+        AU - Peter J. Pahl
+    
+        AU - Harry N. Wenke
+    
+
+TI - Closure to “Integrated System for RC Building Design”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1186-1186
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003233 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003233
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003233
+SO - Journal of the Structural Division 1972-05-01 98(5): 1186-1186
+
+
+    
+        AU - Charles F. Beck
+    
+
+TI - Closure to &#x201c;Computer's Role in Transmission Line Design&#x201d;
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1187-1188
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003234 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003234
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003234
+SO - Journal of the Structural Division 1972-05-01 98(5): 1187-1188
+
+
+    
+        AU - Ian C. Medland
+    
+        AU - Donald A. Taylor
+    
+
+TI - Closure to “Flexural Rigidity of Concrete Column Sections”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1188-1189
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003235 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003235
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003235
+SO - Journal of the Structural Division 1972-05-01 98(5): 1188-1189
+
+
+    
+        AU - David W. Fowler
+    
+
+TI - Closure to “Design of Laterally Unsupported Timber Beams”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1189-1190
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003236 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003236
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003236
+SO - Journal of the Structural Division 1972-05-01 98(5): 1189-1190
+
+
+    
+        AU - A. Anthony Toprac
+    
+        AU - Murugesam Natarajan
+    
+
+TI - Closure to “Fatigue Strength of Hybrid Plate Girders”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1190-1190
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003237 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003237
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003237
+SO - Journal of the Structural Division 1972-05-01 98(5): 1190-1190
+
+
+    
+        AU - V. Malakonda Reddy
+    
+        AU - K. Nagi Reddy
+    
+        AU - S. Ramaswami Reddy
+    
+
+TI - Discussion of “Flexural Members with Confined Concrete”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1191-1192
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003239 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003239
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003239
+SO - Journal of the Structural Division 1972-05-01 98(5): 1191-1192
+
+
+    
+        AU - Wai F. Chen
+    
+
+TI - Discussion of “Stability and Load Capacity of Members with No Tensile Strength”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1193-1197
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003240 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003240
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003240
+SO - Journal of the Structural Division 1972-05-01 98(5): 1193-1197
+
+
+    
+        AU - Jawalker K. Sridhar Rao
+    
+        AU - Bakul S. Bulsari
+    
+        AU - Manhar C. Thakkar
+    
+
+TI - Discussion of “Optimum Beam Layout for Large Areas”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1198-1200
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003241 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003241
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003241
+SO - Journal of the Structural Division 1972-05-01 98(5): 1198-1200
+
+
+    
+        AU - Hans Larsson
+    
+
+TI - Discussion of “Alternative Approach to Light-Gage Beam Design”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1200-1202
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003242 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003242
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003242
+SO - Journal of the Structural Division 1972-05-01 98(5): 1200-1202
+
+
+    
+        AU - Leon Ru-Liang Wang
+    
+        AU - Lap-Yan Chu
+    
+        AU - Arthur F. Kirstein
+    
+        AU - Filomeno N. Almeida
+    
+
+TI - Discussion of “Behavior of Fiber Glass Reinforced Concrete Beams”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1202-1208
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003243 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003243
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003243
+SO - Journal of the Structural Division 1972-05-01 98(5): 1202-1208
+
+
+    
+        AU - Adnan B. Sabir
+    
+
+TI - Discussion of “Natural Frequencies of Circular Arches”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1208-1210
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003244 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003244
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003244
+SO - Journal of the Structural Division 1972-05-01 98(5): 1208-1210
+
+
+    
+        AU - Chen P. Tan
+    
+
+TI - Discussion of “Plastic Liners for Candu Containment Structures”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1210-1211
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003245 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003245
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003245
+SO - Journal of the Structural Division 1972-05-01 98(5): 1210-1211
+
+
+    
+        AU - Adel Fam
+    
+        AU - Carl J. Turkstra
+    
+
+TI - Discussion of “Analysis of Horizontally Curved Box Girder Bridges”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1212-1214
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003246 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003246
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003246
+SO - Journal of the Structural Division 1972-05-01 98(5): 1212-1214
+
+
+    
+        AU - George I. N. Rozvany
+    
+        AU - Sai R. Adidam
+    
+
+TI - Absolute Minimum Volume of Reinforcement in Slabs
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1217-1222
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003247 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003247
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003247
+SO - Journal of the Structural Division 1972-05-01 98(5): 1217-1222
+AB - The paper discusses the optimal solutions for nonaxisymmetric two-way slabs of various boundary conditions.
+
+
+    
+        AU - Man-Chung Tang
+    
+
+TI - Erratum for “Analysis of Cable-Stayed Girder Bridges”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 1191-1191
+VI - 98
+IP - 5
+AID - 10.1061/JSDEAG.0003238 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003238
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003238
+SO - Journal of the Structural Division 1972-05-01 98(5): 1191-1191
+
+

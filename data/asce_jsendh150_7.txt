@@ -1,0 +1,428 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Arijit Acharjya
+    
+        AU - Atanu Santra
+    
+        AU - Rana Roy
+    
+
+TI - Response of Structures to Bidirectional Seismic Excitation Using Spectrum Compatible Records: Evolution of a Pair of Spectra from Newmark’s Sliding Block
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024061
+VI - 150
+IP - 7
+AID - 10.1061/JSENDH.STENG-13249 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13249
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13249
+SO - Journal of Structural Engineering 2024-07-01 150(7): 04024061
+AB - Bidirectional analyses covering a range of incidence angles for several records are essential yet challenging for routine design. Recent studies have shown that the response to bidirectional shaking may be estimated per straightforward unidirectional analysis in the most preferred orientation in conjunction with suitable combination rules, and this can also eliminate the need for various incidence angles. Further, it is well known that the mean response can be estimated with reduced dispersion using fewer spectrum-compatible records. The present investigation aims to combine the advantages of (1)&nbsp;the most preferred orientation; and (2)&nbsp;spectral matching within the context of bidirectional excitation. To this end, with the motivation derived from the Newmark’s sliding block theory, a pair of interrelated spectra directly connected to the most preferred orientation is proposed. Since the concept of these spectra is introduced for the first time, to our best knowledge, the mathematical basis of is discussed in rigor. The spectra are then illustrated and compared to other existing alternatives such as GMRotDpp, GMRotIpp, RotDpp, and MaxRotD50. The spectra evolved herein are orientation and period independent, implicitly account for directionality, and bear a clear physical meaning, which was obscured in earlier options. The proposed spectra are interpreted in the context of energy-based design and can be conveniently expressed in both force-based and displacement-based design formats. The proposed spectra help spectrally match two horizontal components independently and can specify bidirectional seismic loading. Response statistics of a simple multistory building demonstrate that, by using fewer spectrum-compatible records, the seismic demand can be estimated with reduced dispersion per bidirectional analyses as well as by unidirectional analyses.
+
+
+    
+        AU - Hongdong Ran
+    
+        AU - Jing Ma
+    
+        AU - Xiangrong Chen
+    
+        AU - Yao Sun
+    
+        AU - Michaela Gkantou
+    
+        AU - Daniel McCrum
+    
+
+TI - Local Stability of Laser-Welded Stainless-Steel T-Section Stub Columns
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024062
+VI - 150
+IP - 7
+AID - 10.1061/JSENDH.STENG-13323 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13323
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13323
+SO - Journal of Structural Engineering 2024-07-01 150(7): 04024062
+AB - This paper presents experimental and numerical studies on the local stability and compression resistances of laser-welded stainless-steel T-section stub columns. A testing program was first conducted, including material coupon tests, residual stress measurements, and 20 stub column tests. The testing program was supplemented by a numerical modeling program, in which finite-element models were developed and validated against the test results. The finite-element models were afterward used to perform parametric studies to obtain additional numerical data. The test and numerical data were adopted to evaluate the main design rules in the American and European standards and the continuous strength method. The evaluation results indicate that the American and European standards yield conservative resistance predictions, especially for nonslender T-sections, owing to no consideration of material strain hardening, while the continuous strength method is shown to provide greatly improved design accuracy and consistency over the American and European standards.
+
+
+    
+        AU - Homero Carrion-Cabrera
+    
+        AU - Michel Bruneau
+    
+
+TI - Asynchronous Shake-Table Testing of Seismic Resilient Multispan Bridges Having Buckling Restrained Braces in Bidirectional Ductile Diaphragm
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024063
+VI - 150
+IP - 7
+AID - 10.1061/JSENDH.STENG-12845 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12845
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12845
+SO - Journal of Structural Engineering 2024-07-01 150(7): 04024063
+AB - The bidirectional ductile end diaphragm concept uses energy-dissipating buckling restrained braces (BRB) as fuses located at the end of a bridge superstructure’s floating spans. This system using BRBs can provide seismic resilient and damage-free bridges fully operational immediately after an earthquake. A shake-table testing program was conducted to subject a 1/2.5-scale specimen to series of ground motions. The specimen tested represents one span of a five-span bridge having BRBs connected to the abutment and the pier next to it. The purpose of these tests was to experimentally validate proposed connection details when subjected to the three-dimensional (3D) displacement histories (compared with the axis of the BRBs) that resulted from bidirectional ground motions and the fact that the connections must accommodate inclined BRB layouts. The test protocol included earthquake displacement histories that represent design demands, cycles of thermal excitations, and (to eventually make the BRBs fail) extreme motions. The testing program validated the effectiveness of the proposed concept and the ability of BRBs to sustain multiple ground motions before failure.
+
+
+    
+        AU - Canxing Qiu
+    
+        AU - Lizi Cheng
+    
+        AU - Xiuli Du
+    
+
+TI - Seismic Analysis and Design of a Resilient Steel Frame with Multiple Lateral Force–Resisting Systems
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024064
+VI - 150
+IP - 7
+AID - 10.1061/JSENDH.STENG-12858 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12858
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12858
+SO - Journal of Structural Engineering 2024-07-01 150(7): 04024064
+AB - Earthquake-induced damage often is caused by large deformation and floor acceleration. To ensure a fast function recovery process, controlling postevent permanent deformation also is very critical. Combining the merits of different lateral force–resisting systems is a promising solution to control these engineering demand parameters simultaneously. Therefore, this study investigated a resilient steel frame with multiple lateral force–resisting systems and developed the corresponding seismic design method. Specifically, the proposed steel frame consists of buckling-restrained braces, viscous damping braces, and a moment-resisting frame, which mainly control peak interstory drift ratio (θp), peak floor acceleration (Ap), and residual interstory drift ratio (θr), respectively. Based on the equivalent single-degree-of-freedom systems, nonlinear time-history analyses were conducted to obtain various constant-ductility response spectra. These response spectra were incorporated into the proposed design method which jointly defines θp, Ap, and θr as the performance objectives. A six-story benchmark steel frame was selected for demonstrating the seismic performance of the frame and validating the design method. Because θr is a critical metric for evaluating seismic resilience, three levels of θr were used in the design examples. The seismic analysis results indicated that the designed structures can well satisfy the preselected performance objectives.
+
+
+    
+        AU - Dheeraj Karki
+    
+        AU - Harry Far
+    
+        AU - Shami Nejadi
+    
+
+TI - Structural Behavior of Prefabricated Composite Cold-Formed Steel and Timber Flooring Systems
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024065
+VI - 150
+IP - 7
+AID - 10.1061/JSENDH.STENG-12382 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12382
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12382
+SO - Journal of Structural Engineering 2024-07-01 150(7): 04024065
+AB - In this study, the structural performance of a new type of lightweight composite cold-formed steel and timber (CFST) flooring system has been investigated by conducting four-point bending tests on 13 specimens. A bare cold-formed steel system without timber sheathing was also tested to provide a benchmark response to which the strength and stiffness of the composite system were compared. This paper presents key findings on the flooring system’s structural behavior and performance parameters, such as ultimate bending capacity, load-deflection response, load-slip response, and failure modes, by categorizing 13 specimens into four subgroups based on shear connector types and spacings. In the proposed composite CFST flooring system, 45-mm thick structural plywood panels were connected to the 2.4-mm thick cold-formed steel C-section joist using self-drilling screws, coach screws, and nuts and bolts. The performance of different types of shear connectors on the composite action is experimentally investigated and compared with the theoretical plastic section. Furthermore, the load-carrying capacity, effective bending stiffness, and deflection of composite CFST beams were computed theoretically using elastic theory and compared to experimental results, which showed good agreement.
+
+
+    
+        AU - M. Javad Hashemi
+    
+        AU - Hamidreza A. Yazdi
+    
+        AU - Amin Heidarpour
+    
+        AU - Riadh Al-Mahaidi
+    
+
+TI - Seismic Performance Assessment of Built-Up High-Strength Steel Tubular Columns through Multiaxis Cyclic and Hybrid Simulation
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024066
+VI - 150
+IP - 7
+AID - 10.1061/JSENDH.STENG-12847 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12847
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12847
+SO - Journal of Structural Engineering 2024-07-01 150(7): 04024066
+AB - This study investigates the seismic performance of built-up steel tubular (BST) columns composed of four mild-steel plates welded to four ultrahigh-strength steel (UHSS) tubes of Grade 1200, presenting a novel concept in column construction. The focus of this research is to evaluate the behavior of these columns under six degrees-of-freedom (6DOF) boundary conditions, replicating realistic loads induced by seismic events. A comprehensive experimental program was carried out at Swinburne University of Technology, including quasi-static (QS) cyclic and hybrid simulation (HS) tests. These experiments aimed to monitor the progression of physical damage and assess the hysteresis response of the columns, providing valuable insights into their stiffness, strength, and energy absorption capabilities. The results demonstrate the columns’ reasonable seismic performance, indicating their potential use in ordinary moment-resisting frames within regions experiencing low–moderate seismic activity.
+
+
+    
+        AU - Jingchun Zhang
+    
+        AU - Quanquan Guo
+    
+
+TI - Analytical Model for Out-of-Plane Behavior of Steel-Plate Composite Wall-to-Wall L-Joints
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024067
+VI - 150
+IP - 7
+AID - 10.1061/JSENDH.STENG-12321 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12321
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12321
+SO - Journal of Structural Engineering 2024-07-01 150(7): 04024067
+AB - Steel-plate composite (SC) walls intersect each other to form a series of wall-to-wall joints. The most unfavorable stress state of such joint is under out-of-plane lateral loading. According to the literature, using commercial finite-element analysis software is the only method currently available to evaluate the out-of-plane load-displacement response and failure modes of such joint. In order to better understand the mechanism of the joint, taking an SC wall-to-wall L-joint as an example, an analytical model to evaluate the out-of-plane behavior of the joints from these aspects in the absence of special software program requirement was proposed in this study. First, a rigid bar-nonlinear spring system was established to simplify the joints according to the mechanical properties of the SC wall and the core region. Then, in accordance with the material and geometric parameters, the constitutive equation for each type of spring was derived by the corresponding load and boundary conditions. Subsequently, an analytical model of out-of-plane behavior for the joint was proposed. Finally, the accuracy of the proposed model was compared with all available test data, indicating that the model could simulate all possible failure modes and load-displacement responses with reasonable accuracy.
+
+
+    
+        AU - Zoe Baird
+    
+        AU - Joshua E. Woods
+    
+        AU - Christian Viau
+    
+        AU - Ghasan Doudak
+    
+
+TI - Cyclic Behavior of Bolted Glued-Laminated Timber Brace Connections with Slotted-In Steel Plates
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024068
+VI - 150
+IP - 7
+AID - 10.1061/JSENDH.STENG-13012 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13012
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13012
+SO - Journal of Structural Engineering 2024-07-01 150(7): 04024068
+AB - This paper presents the experimental results of a study investigating the behavior of bolted glued-laminated (glulam) timber brace connections with slotted-in steel plates under monotonic and cyclic loading. A total of 12 brace specimens with one or two slotted-in steel plates and two different bolt sizes were studied with the aim to determine the ductility of the connections and brace assemblies. The use of self-tapping screws as perpendicular-to-grain reinforcement to prevent splitting and enhance brace ductility was also investigated. The results of the study showed that both connections in a brace can experience significant plastic deformations if the connections exhibit a postyield hardening response. In braces with connections that exhibited postyield softening, plastic deformations were limited to one of the brace connections, resulting in lower brace ductility ratios. The use of self-tapping screws was found to be effective at preventing splitting and increasing the connection yield and ultimate strengths, while also increasing the brace ductility when compared with an identical connection without reinforcement tested under cyclic loading.
+
+
+    
+        AU - Magdy Alanani
+    
+        AU - Tristen Brown
+    
+        AU - Ahmed Elshaer
+    
+
+TI - Multiobjective Structural Layout Optimization of Tall Buildings Subjected to Dynamic Wind Loads
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024069
+VI - 150
+IP - 7
+AID - 10.1061/JSENDH.STENG-12366 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12366
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12366
+SO - Journal of Structural Engineering 2024-07-01 150(7): 04024069
+AB - The tall building design process typically goes through a time-consuming iterative procedure to ensure the cost efficiency of the proposed structural system, especially in the conceptual design stage where the layout is designed. Despite that, this procedure does not guarantee to yield an optimal layout. Consequently, an automated layout optimization procedure will result in a more economical and sustainable design. This paper presents a novel multiobjective lateral load resisting system (LLRS) (i.e.,&nbsp;shear walls) layout optimization framework provided for dynamically sensitive tall buildings subjected to a wind load time history. The developed framework relies on an artificial neural network (ANN) surrogate model for constraints and objective function evaluation to reduce the computational time of the optimization process. The adopted surrogate model is built based on an automated finite element models-generated database using MATLAB code via the Open Application Program Interface of the ETABS software. The ANN surrogate model proved its efficiency in capturing complex variations in the structural response with a correlation coefficient that ranges between 90% and 98%. A nongradient optimization algorithm (NSGA-II) is adopted to identify the optimal shear wall layout to resist the applied dynamic wind load. In order to reduce the number of optimal layout solutions on the Pareto front, a pruning algorithm is used to limit the optimal solutions to 24 layouts. This will enable designers to use the direct selection method to choose an appropriate layout that fits the project’s objectives. Also, a case study building is presented where the optimized results are analyzed and discussed in the numerical example to verify the effectiveness of the proposed optimization framework.
+
+
+    
+        AU - Zengde Zhang
+    
+        AU - Michalis F. Vassiliou
+    
+        AU - Ying Zhou
+    
+        AU - Sergio I. Reyes
+    
+        AU - Dimitrios Konstantinidis
+    
+
+TI - Experimental and Numerical Studies on Thick Rubber Bearings under Uniaxial and Offset Tensile Loading
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024070
+VI - 150
+IP - 7
+AID - 10.1061/JSENDH.STENG-12779 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12779
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12779
+SO - Journal of Structural Engineering 2024-07-01 150(7): 04024070
+AB - Thick rubber bearings (TRBs) have been proven to be effective in mitigating horizontal shaking induced by earthquakes as well as railway-induced vertical vibration. During earthquake excitations, TRBs might be subjected to tension, which should be carefully assessed during design. This paper presents experimental and numerical studies on the behavior of TRBs under tensile loading. Four full-scale thick natural rubber bearing (TNRB) and lead thick rubber bearing (LTRB) specimens were designed and tested under tension, with and without lateral offset. The test results showed that increasing the applied lateral offset decreased the tensile stress and stiffness of the TNRBs, while the LTRBs did not exhibit any reduction. In addition, the test results were compared with design specifications in current codes for conventional rubber bearings. Finally, finite element (FE) models of TRBs were built and validated against the results of uniaxial and offset tensile experiments, and the cavitation of rubber was modeled via a two-phase model. To further estimate the damage due to previous tensile loading, damage variables under cyclic tensile loading were also taken into account. The experimental and numerical results showed that the lead core only slightly increased the initial tensile stiffness of the bearing under uniaxial testing, while it had a significant influence on the tensile properties of the LTRBs under offset displacement.
+
+
+    
+        AU - Qin Zhang
+    
+        AU - Ming-Hui Chen
+    
+        AU - Xiang-Lin Gu
+    
+        AU - Ying-Zhu Li
+    
+        AU - Wen-Jie Li
+    
+        AU - Jin-Xin Gong
+    
+
+TI - Low-Cycle Fatigue Properties and Model for Flexure-Shear Critical Reinforced Concrete Columns Considering Cyclic Damage Effects
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024071
+VI - 150
+IP - 7
+AID - 10.1061/JSENDH.STENG-12916 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12916
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12916
+SO - Journal of Structural Engineering 2024-07-01 150(7): 04024071
+AB - To investigate the low-cycle fatigue properties of flexure-shear critical columns, nine reinforced concrete (RC) columns were subjected to monotonic and constant-amplitude cyclic loading. The effects of loading displacement amplitudes and shear span ratios on failure modes, load-displacement response, strength degradation, and energy dissipation capacities of RC flexure-shear columns were explored. Test results indicated that the low-cycle fatigue and damage properties of column specimens were dependent on the displacement amplitudes. The cumulative damage effects and shear effects induced by cyclic loading were intensified with increasing displacement amplitudes and decreasing shear span ratios, respectively, resulting in flexure-shear failure. The maximum loading cycles (i.e.,&nbsp;fatigue life) of low-cycle fatigue specimens decreased apparently as displacement amplitudes increased, with a maximum variation range of 98.8%. Meanwhile, the low-cycle fatigue characteristics of flexure-shear columns were also relevant to energy dissipation capacities. The normalized energy dissipation capacity of specimens diminished exponentially with increases in loading cycles due to the cyclic effects, and the cumulative energy dissipation decreased significantly as displacement amplitude increased. Test columns had a maximum degradation rate of energy dissipation up to 0.43 times that of the first hysteresis cycle. Furthermore, a new fatigue-life model was proposed based on the cumulative damage properties of cyclic loading columns. This model considered the effects of deformation and energy dissipation on low-cycle fatigue properties, providing a basis for evaluating the damage properties of flexure-shear critical columns subjected to low-cycle fatigue loading.
+
+
+    
+        AU - Tohid Ghanbari-Ghazijahani
+    
+        AU - Hamid Valipour
+    
+        AU - Martin Mensinger
+    
+
+TI - Innovative Sandwich Columns Including Steel, Carbon Fiber–Reinforced Polymer, and Timber under Axial Compression
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024072
+VI - 150
+IP - 7
+AID - 10.1061/JSENDH.STENG-12668 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12668
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12668
+SO - Journal of Structural Engineering 2024-07-01 150(7): 04024072
+AB - Significant advancements have been made in the area of composite structures. Aligned with an innovative design, the motivation behind this research is, first, to make efficient use of timber as an environmentally friendly material and, second, to employ steel alongside timber effectively to prevent buckling of the steel. This research aims to bridge this knowledge gap by exploring the integration of steel, carbon fiber–reinforced polymer (CFRP), and timber. The objective is to create innovative composite column structures that leverage the unique properties of each material to enhance structural performance and efficiency. The authors conducted tests on a set of 24 columns under compression conditions. The results of the structural tests demonstrated significant compression capacities relative to their mass, highlighting the significant advantages of material synergy within these elements. The study thoroughly quantifies these benefits, shedding light on the potentially transformative impact of these innovative composite columns in the field of structural engineering. A significant finding was the influence of the timber section’s geometry on preventing column buckling. Furthermore, the positioning of steel within the sandwich columns played a vital role, with steel elements having a greater area with timber exhibiting enhanced structural performance and reduced likelihood of debonding. This paper introduces a new parameter, the inelastic transition area denoted as INT±70% peak, which characterizes the smoothness or abruptness of the transition once the inelastic region begins and the graph descends. This parameter bears significance in risk analysis for structures susceptible to progressive failure. All specimens displaying substantial energy absorption featured larger timber sections, highlighting the pivotal role of timber in absorbing higher levels of energy during structural loading. The findings contribute to the growing body of knowledge on composite materials and their applications in modern construction.
+
+
+    
+        AU - Zhe-Xi Zhang
+    
+        AU - Cheng Fang
+    
+        AU - Qun He
+    
+        AU - Yuanmu Li
+    
+        AU - Shengxin Yu
+    
+        AU - Haojie Niu
+    
+
+TI - Low-Temperature Mechanical Behavior of Fe-SMA for Structural Damping
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024073
+VI - 150
+IP - 7
+AID - 10.1061/JSENDH.STENG-12988 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12988
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12988
+SO - Journal of Structural Engineering 2024-07-01 150(7): 04024073
+AB - Iron-based shape memory alloy (Fe-SMA) is an emerging class of material having a great potential for civil engineering, especially seismic engineering applications. However, the behavior of Fe-SMA strongly depends on temperature-sensitive martensitic transformation, and thus the influence of temperature on the behavior of Fe-SMA should receive particular attention. The current study experimentally investigates how temperature variation affects the mechanical properties, including monotonic tensile strength, low cycle fatigue (LCF), and impact toughness, of Fe-SMA (Fe-17Mn-5Si-10Cr-5Ni in wt%), with a particular focus on its low-temperature behavior. Specifically, the considered temperatures used for conducting monotonic tensile and LCF tests were −40°C, −10°C, and 20°C, whereas the range of temperature for impact toughness tests was from −100°C to 20°C. Additional tests were performed on S30408 stainless steel and conventional Q355 structural steel for comparison purposes. The experimental results suggest that low temperature leads to increased strength and reduced ductility of Fe-SMA. The impact toughness of Fe-SMA is comparable with that of S30408 steel, exhibiting ductile fracture characteristic observed even at −100°C. Fe-SMA outperforms conventional steels with an evidently greater LCF life given the considered temperature variation; although, its LCF life decreases at lower temperatures due to the inhibited reversible martensite transformation. This study also provides a set of practical parameters that facilitate constitutive modeling and strain-based fatigue life prediction of Fe-SMA under various temperatures.
+
+
+    
+        AU - Reyhaneh Hosseini
+    
+        AU - Hamid R. Valipour
+    
+
+TI - Timber–Encased-Steel Beams: Laboratory Experimentation and Analytical Modeling
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024074
+VI - 150
+IP - 7
+AID - 10.1061/JSENDH.STENG-12898 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12898
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12898
+SO - Journal of Structural Engineering 2024-07-01 150(7): 04024074
+AB - The flexural behavior of hybrid timber–steel encased beams comprising coniferous radiata pine (Pinus radiata) (MGP10) and Douglas fir (Pseudotsuga menziesii) (F8) timber lamellae with bonded-in steel bars is studied. The effect of cross-section depth, steel bar size, timber species/grade, and steel bar arrangements (only bottom and top-and-bottom) on the hybrid beams’ stiffness, failure mode, ductility, and load-carrying capacity were investigated. The flexural capacity and stiffness of the doubly (top-and-bottom) reinforced beams are increased by 127% and 71%, respectively. However, in the singly (bottom) reinforced beams, the flexural capacity and stiffness are increased only by 41% and 25%, respectively, highlighting the important role of the compressive bars. The failure of all beams was associated with tensile flexural failure of timber, but the steel bars improved the ductility of the beams. The maximum coefficient of variation of the peak load in hybrid beams (CoV=14.3%) is lower than that of the bare timber beams (CoV=21.7%). Two analytical models were developed based on a linear and a bilinear stress–strain relationship for timber. The analytically predicted peak load and stiffness agree well (less than 13% and 12% difference) with the experimental results.
+
+
+    
+        AU - Junho Chun
+    
+
+TI - Reliability-Based Topology Optimization Using the Virtual Element Method: An Integrated Framework
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024075
+VI - 150
+IP - 7
+AID - 10.1061/JSENDH.STENG-13071 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13071
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13071
+SO - Journal of Structural Engineering 2024-07-01 150(7): 04024075
+AB - This paper introduces a topology optimization approach based on the virtual element method (VEM), incorporating uncertainties. The objective of this optimization process is to design an optimal material layout for problems governed by linear elasticity equations to minimize the volume while satisfying probabilistic compliance constraints. The VEM is used to solve the boundary value problem in reliability-based topology optimization (RBTO). In the comparison between the VEM and the standard finite element method (FEM), a key difference emerges in the absence of explicitly defined shape functions tied to discrete degrees of freedom in VEM. Unlike FEM, VEM directly constructs the discrete bilinear form and load linear form without the need for computing shape function derivatives within the elements. This flexibility accommodates meshes with intricate geometries and arbitrarily shaped elements. The paper discusses the computational efficiency of VEM RBTO and explores the geometric impact of tessellations on converged topologies, demonstrating reduced susceptibility to checkerboard patterns compared to conventional quadrilateral elements. Additionally, the single-loop approach is examined, showcasing comparable accuracy to the first-order/second-order reliability methods (FORM/SORM) of RBTO using VEM. Numerical results for several problems that demonstrate the feasibility of the proposed method are presented.
+
+
+    
+        AU - Lianxu Zhou
+    
+        AU - M. Shahria Alam
+    
+        AU - Aijun Ye
+    
+
+TI - Probabilistic Postearthquake Vertical Load-Carrying Capacity Loss Model and Rapid Functionality Assessment for Reinforced Concrete Circular Bridge Columns
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 04024076
+VI - 150
+IP - 7
+AID - 10.1061/JSENDH.STENG-13007 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13007
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13007
+SO - Journal of Structural Engineering 2024-07-01 150(7): 04024076
+AB - The rapid and accurate postearthquake traffic capacity or functionality loss assessment for highway bridges after a strong earthquake is crucial to the decision-making for postearthquake emergency rescue and recovery, as well as seismic resilience analysis. The postearthquake traffic capacity of a simply supported highway girder bridge designed based on the capacity design philosophy is generally dominated by the loss of postearthquake vertical load-carrying capacity of the damaged bridge column, which, however, cannot be rapidly and quantitatively evaluated by previous studies. This study develops a postearthquake vertical load-carrying capacity loss model for flexure-dominated circular RC bridge columns using multiple linear regression, which is a function of column-related structural parameters and a selected damage indicator (i.e.,&nbsp;residual drift ratio). The database of the postearthquake vertical load-carrying capacity loss for the damaged but before collapsed RC columns is generated through numerical simulations using a loading scheme consisting of nonlinear time-history analysis followed by pushdown analysis. In order to generate a sufficient database of the vertical capacity loss of RC columns, an incremental dynamic analysis (IDA) approach is adopted to produce different damage levels on the column. The significance of the loss regression model and the significance of each corresponding regression coefficient are checked by statistical tests. In addition, the generalization ability of the loss model is also tested by 10-fold cross-validation. After that, a probabilistic postearthquake vertical load-carrying capacity loss model is developed in this study. Based on this probabilistic model, a traffic capacity fragility curve conditioned on the residual drift ratio of a given column is proposed in this study for the first time to assess the remaining functionality of a given RC column. This proposed traffic capacity fragility curve is further validated by two example columns with and without considering the uncertainty, respectively. The traffic fragility curve can be quickly generated for the target circular RC bridge column and facilitate the postearthquake decision-making for the damaged but before-collapsed column, thus forwarding to the introduced rapid postearthquake assessment for simply supported highway girder bridges.
+
+
+    
+        AU - Yara Rossi
+    
+        AU - Konstantinos Tatsis
+    
+        AU - Roland Hohensinn
+    
+        AU - John Clinton
+    
+        AU - Eleni Chatzi
+    
+        AU - Markus Rothacher
+    
+
+TI - Unscented Kalman Filter–Based Fusion of GNSS, Accelerometer, and Rotation Sensors for Motion Tracking
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 05024002
+VI - 150
+IP - 7
+AID - 10.1061/JSENDH.STENG-12872 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12872
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-12872
+SO - Journal of Structural Engineering 2024-07-01 150(7): 05024002
+AB - In this paper, we present an unscented Kalman filter (UKF) for fusion of information from an accelerometer, global navigation satellite system (GNSS) instrumentation, and rotational sensor recordings of structural motion. Seismic and structural motions do not only include translations, but further incorporate torsion and twisting of the ground and/or structural components. Accelerometer and GNSS positions are known to be prone to errors introduced by rotation, such as (1)&nbsp;gravitational leakage, (2)&nbsp;misorientation, and (3)&nbsp;antenna pole tilt. In alleviating such effects, we propose fusion of information from six component (6C) data—3C translation and 3C rotation—and demonstrate its applicability for motion tracking on a flexible pedestrian bridge. To simulate a variety of load effects, the bridge was subjected to various sources of excitation such as hammer impulses, jumping, twisting, and running, as well as a combination thereof named the “artificial coupled forcing.” The rotation errors of both the accelerometer and GNSS-estimated positions are corrected via a UKF-based fusion. We further identify the modal properties of the monitored bridge, excited by the different excitation sources, using a covariance driven stochastic subspace identification. The twisting of the bridge is shown to be a primary source of rotation errors. These errors ought to be corrected because their order of magnitude can be as large as the actual signal in the case of GNSS positions and up to 10% for accelerometer sensors. We compare the proposed UKF-based fusion for 6C motion tracking against a simplified linear Kalman filter and demonstrate the potential of the former for real-time, broadband, rotation-free displacement, velocity, and rotations tracking.
+
+
+    
+        AU - Hamidreza Alinejad
+    
+        AU - Byeonguk Ahn
+    
+        AU - Thomas H.-K. Kang
+    
+
+TI - Performance-Based Wind Design of Tall Buildings Considering Corner Modification and Inelastic Behavior
+PT - Journal Article
+DP - 2024
+TA - Journal of Structural Engineering
+PG - 05024003
+VI - 150
+IP - 7
+AID - 10.1061/JSENDH.STENG-13100 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-13100
+4100 - https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-13100
+SO - Journal of Structural Engineering 2024-07-01 150(7): 05024003
+AB - Design for wind-induced response is one of the critical factors for the design of tall buildings. Aerodynamic treatments such as corner modifications are among the traditional passive solutions for the reduction of wind-induced effects. Another practical solution is the permission of inelastic behavior under extreme wind load to reduce the resonant component of wind load. This approach has received more attention recently in performance-based wind design (PBWD) as an alternative approach for wind design. Moreover, inelastic wind design using a proper wind load reduction factor can significantly facilitate the initial design and makes PBWD more practical. In this study, the efficiency of aerodynamic modification and permission of inelastic behavior in the reduction of wind load and material cost was compared in detail. Three case study buildings with a square-shaped plan and 160&nbsp;m height were considered, where one building has sharp corners and the others have chamfered and recessed corners as aerodynamic treatment. RC core walls with perimeter moment frames were considered as the structural system of all buildings, and they were designed based on wind load reduction factors of 1 (elastic design) and 2 (inelastic design). Then, the performance of buildings was evaluated according to ASCE prestandard procedure by performing linear and nonlinear time-history analysis using wind load obtained from wind tunnel tests. The results showed that inelastic wind design can be more effective than corner modification in the reduction of wind load; however, the design reinforcement ratio is less and more similar due to minimum requirement. Performance assessment of the building confirmed the adequacy of designed buildings and showed that the inelastic system has acceptable behavior, and there is a large margin of safety against failure for the inelastic building.
+
+

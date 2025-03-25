@@ -1,0 +1,344 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Michael H. Scott
+    
+        AU - Paolo Franchin
+    
+        AU - Gregory L. Fenves
+    
+        AU - Filip C. Filippou
+    
+
+TI - Response Sensitivity for Nonlinear Beam–Column Elements
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1281-1288
+VI - 130
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2004)130:9(1281) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281281%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281281%29
+SO - Journal of Structural Engineering 2004-09-01 130(9): 1281-1288
+AB - Response sensitivity is needed for simulation applications such as optimization, reliability, and system identification. The exact response sensitivity of material nonlinear beam–column elements is derived for the displacement- and force-based formulations. For displacement-based beam–column elements the response sensitivity is straightforward to compute because the displacement field is specified along the element. A new approach is presented for computing the response sensitivity of force-based beam–column elements, in which the displacement field is not specified. In this approach, the response sensitivity depends on the derivative of unbalanced section forces because the element displacement field changes with the element state. Example nonlinear static analyses of steel and reinforced concrete structural systems verify the exact response sensitivity for force-based elements using the new approach. 
+
+
+    
+        AU - Izuru Takewaki
+    
+
+TI - Bound of Earthquake Input Energy
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1289-1297
+VI - 130
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2004)130:9(1289) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281289%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281289%29
+SO - Journal of Structural Engineering 2004-09-01 130(9): 1289-1297
+AB - A new general critical excitation method is developed for a damped linear elastic single-degree-of-freedom structure. In contrast to previous studies considering amplitude nonstationarity only, no special constraint of input motions is needed on nonstationarity. The input energy to the structure during an earthquake is introduced as a new measure of criticality. It is shown that the formulation of earthquake input energy in the frequency domain is essential for solving the critical excitation problem and deriving a bound on the earthquake input energy for a class of ground motions. It is remarkable that no mathematical programming technique is required in the solution procedure. This enables structural engineers to use the method in their structural design practice without difficulty. The constancy of earthquake input energy for various natural periods and damping ratios is discussed based on an original sophisticated mathematical treatment. Through numerical examinations for four classes of recorded ground motions, the bounds under acceleration and velocity constraints (time integral of the squared base acceleration and time integral of the squared base velocity) are clarified to be meaningful in the short and intermediate/long natural period ranges, respectively. 
+
+
+    
+        AU - Luis D. Decanini
+    
+        AU - Silvia Bruno
+    
+        AU - Fabrizio Mollaioli
+    
+
+TI - Role of Damage Functions in Evaluation of Response Modification Factors
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1298-1308
+VI - 130
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2004)130:9(1298) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281298%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281298%29
+SO - Journal of Structural Engineering 2004-09-01 130(9): 1298-1308
+AB - From the study of the nonlinear behavior of single degree of freedom (SDOF) oscillators, response modification factor spectra corresponding to failure conditions of structures are assessed by means of damage indices. Two different damage indices are used: one that neglects and one that takes into account the way in which the hysteretic energy is dissipated. Ground motion records obtained from several earthquakes and grouped as a function of magnitude of the event, source-to-site conditions and site-soil conditions are used as input for nonlinear dynamic analysis of inelastic SDOF systems in order to evaluate constant damage spectra of the strength reduction factors. Simplified relations depending on a limited number of significant parameters are then proposed to approximate the computed mean reduction factors, in order to derive inelastic response spectra directly from the elastic ones. 
+
+
+    
+        AU - Anil K. Chopra
+    
+        AU - Chatpan Chintanapakdee
+    
+
+TI - Inelastic Deformation Ratios for Design and Evaluation of Structures: Single-Degree-of-Freedom Bilinear Systems
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1309-1319
+VI - 130
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2004)130:9(1309) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281309%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281309%29
+SO - Journal of Structural Engineering 2004-09-01 130(9): 1309-1319
+AB - The relationship between the peak deformations of inelastic and corresponding linear single-degree-of-freedom (SDF) systems is investigated. Presented are the median of the inelastic deformation ratio for 214 ground motions organized into 11 ensembles of ground motions, representing large or small earthquake magnitude and distance, and National Earthquake Hazards Reduction Program (NEHRP) site classes B, C, and D; near-fault ground motions are also included. Two sets of results are presented for bilinear nondegrading systems over the complete range of elastic vibration period, Tn: Cμ for systems with known ductility factor, μ, and CR for systems with known yield-strength reduction factor, Ry. The influence of postyield stiffness on the inelastic deformation ratios Cμ and CR is investigated comprehensively. All data are interpreted in the context of acceleration-sensitive, velocity-sensitive, and displacement-sensitive regions of the spectrum for broad applications. The median Cμ versus Tn and CR versus Tn plots are demonstrated to be essentially independent of the earthquake magnitude and distance (over their ranges considered), and of site class. In the acceleration-sensitive spectral region, the median inelastic deformation ratio for near-fault ground motions is systematically different when plotted against Tn; however, when plotted against normalized period Tn/Tc (where Tc is the period separating the acceleration- and velocity-sensitive regions) they become very similar in all spectral regions. Determined by regression analysis of the data, two equations—one for Cμ and the other for CR—have been developed as a function of Tn/Tc, and μ or Ry, respectively, and are valid for all ground motion ensembles considered. These equations for Cμ and CR should be useful in estimating the inelastic deformation of new or rehabilitated structures—where the global ductility capacity can be estimated—and existing structures with known lateral strength. 
+
+
+    
+        AU - A. E. Schultz
+    
+        AU - S. S. Welton
+    
+        AU - L. E. Rey
+    
+
+TI - Long-Term Effects on Response of Reinforced Concrete Columns to Cyclic Loading
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1320-1332
+VI - 130
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2004)130:9(1320) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281320%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281320%29
+SO - Journal of Structural Engineering 2004-09-01 130(9): 1320-1332
+AB - An experimental research program was undertaken to define the effects of long-term deformations on the seismic performance of reinforced concrete columns. Thirteen beam–column specimens were subjected to simulated seismic drift histories after the columns sustained axial load for a predefined duration. The experiments are supplemented by computer analyses that simulate: (1) the changes in column internal stresses due to long-term deformation of concrete during the sustained load period, and (2) stress and strain demands from nonlinear flexural response to short-term lateral loading. Columns which sustained load for longer durations were observed to develop inclined cracks at earlier stages of the lateral load tests due to a combination of (1) reduced concrete compression stresses from axial stress redistribution, and (2) transverse tension stresses in the column core due to restrained shrinkage of the concrete. This damage produced decreases in (1) lateral stiffness prior to column hinging, (2) flexural strengths at first yield and ultimate, and (3) toughness (as indicated by energy dissipated through hysteresis). However, the observed reductions in flexural strength did not exceed 15%, and, in most cases, column drift capacity exhibited improvement with sustained load duration. 
+
+
+    
+        AU - Jubum Kim
+    
+        AU - John Stanton
+    
+        AU - Gregory MacRae
+    
+
+TI - Effect of Beam Growth on Reinforced Concrete Frames
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1333-1342
+VI - 130
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2004)130:9(1333) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281333%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281333%29
+SO - Journal of Structural Engineering 2004-09-01 130(9): 1333-1342
+AB - In well-designed reinforced concrete frames subjected to earthquake shaking, flexural yielding and cracking occur at the ends of the beams as they undergo large lateral displacements. As the cracks form, the horizontal distance between column centerlines increases. This is known as “beam growth” and it causes an increase in member demands that is not generally taken into account in analysis used for building design. This paper describes the mechanism of beam growth, observations of it from previous experimental studies, the development and calibration of analytical models considering and ignoring beam growth, and static and dynamic inelastic frame analyses to quantify beam growth effects. Changes in beam axial forces, beam flexural strength, and column moments and shears are quantified for several frame configurations. It is shown that the column demand due to beam growth tends to be greatest at the first story level and this demand tends to be most severe in frames with deep beams and with many bays. For the four-, eight-, and ten-bay frames used in the study, pushover analyses showed increases in column shear demands due to beam growth of 52, 76, and 86%, respectively. Dynamic loading to design-level earthquake records caused a 23% increase in the four-bay reference frame. 
+
+
+    
+        AU - Wael W. El-Dakhakhni
+    
+        AU - Ahmad A. Hamid
+    
+        AU - Mohamed Elgaaly
+    
+
+TI - Seismic Retrofit of Concrete-Masonry-Infilled Steel Frames with Glass Fiber-Reinforced Polymer Laminates
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1343-1352
+VI - 130
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2004)130:9(1343) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281343%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281343%29
+SO - Journal of Structural Engineering 2004-09-01 130(9): 1343-1352
+AB - An experimental investigation was conducted to study the effect of retrofitting unreinforced concrete masonry-infilled steel frame structures using glass fiber-reinforced polymer (GFRP) laminates. The study focuses on enhancing the in-plane seismic behavior of unreinforced masonry (URM) infill walls when subjected to displacement controlled cyclic loading. Six full-scale single-story single-bay steel frames with different infill configurations were tested. The retrofitting technique using GFRP laminates aimed at creating an engineered infill wall with a well defined failure mode and a stable postpeak behavior as well as containing the hazardous URM damage and preventing catastrophic failure. Results demonstrated the effectiveness of the GFRP laminates in preventing both shear and tension cracking by supplying the required tensile and shear strength. The GFRP laminates also increased the lateral load capacity and enhanced the postpeak behavior by stabilizing the masonry face shells and preventing their out-of-plane spalling. Supporting the face shells against out-of-plane spalling, allowed the wall to carry more in-plane loads and prevented sudden drop in the load carrying capacity. 
+
+
+    
+        AU - Bryan Folz
+    
+        AU - Andre Filiatrault
+    
+
+TI - Seismic Analysis of Woodframe Structures. I: Model Formulation
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1353-1360
+VI - 130
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2004)130:9(1353) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281353%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281353%29
+SO - Journal of Structural Engineering 2004-09-01 130(9): 1353-1360
+AB - A simple numerical model to predict the dynamic characteristics, quasistatic pushover, and seismic response of woodframe buildings is presented. In this model the building structure is composed of two primary components: rigid horizontal diaphragms and nonlinear lateral load resisting shear wall elements. The actual three-dimensional building is degenerated into a two-dimensional planar model using zero-height shear wall spring elements connected between adjacent diaphragms or the foundation. The degrading strength and stiffness hysteretic behavior of each wood shear wall in the building can be characterized using an associated numerical model that predicts the walls load-displacement response under general quasistatic cyclic loading. In turn, in this model, the hysteretic behavior of each shear wall is represented by an equivalent nonlinear shear spring element. With this simple approach the response of the building is defined in terms of only three degrees of freedom per floor. This numerical model has been incorporated into the computer program SAWS (seismic analysis of woodframe structures). This paper discusses model formulation. In Part II, the predictive capabilities of this program are compared with recent shake table tests performed on a full-scale two-story woodframe house. 
+
+
+    
+        AU - Bryan Folz
+    
+        AU - Andre Filiatrault
+    
+
+TI - Seismic Analysis of Woodframe Structures. II: Model Implementation and Verification
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1361-1370
+VI - 130
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2004)130:9(1361) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281361%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281361%29
+SO - Journal of Structural Engineering 2004-09-01 130(9): 1361-1370
+AB - This is the second of two companion papers on the seismic analysis of woodframe structures. In Part I, a simple numerical model was formulated to predict the dynamic characteristics, quasistatic pushover, and seismic response of woodframe buildings. This numerical model has been incorporated into the computer program SAWS (seismic analysis of woodframe structures). Here in Part II, attention turns to implementation and verification of the SAWS model. To this end, the predictive capabilities of the SAWS program are compared with experimental results obtained from recent shake table tests performed on a full-scale two-story woodframe house under the CUREE-Caltech Woodframe Project. It is shown that the SAWS computer program provides reasonably accurate estimates of the dynamic characteristics, quasistatic pushover, and seismic response of the test structure. Furthermore, the SAWS program requires a minimum amount of data input and provides a fast computational turnaround time in which to analyze a given structure. As a result, this simple numerical may be a useful structural analysis tool for practicing engineers and researchers involved in the seismic design and/or analysis of woodframe structures. 
+
+
+    
+        AU - Judy Liu
+    
+        AU - Abolhassan Astaneh-Asl
+    
+
+TI - Moment–Rotation Parameters for Composite Shear Tab Connections
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1371-1380
+VI - 130
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2004)130:9(1371) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281371%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281371%29
+SO - Journal of Structural Engineering 2004-09-01 130(9): 1371-1380
+AB - Shear tab connections, acting compositely with the floor slab, are capable of providing some lateral resistance in steel frame buildings. This resistance was suspected from the events of the 1994 Northridge Earthquake and verified in a series of tests. For performance evaluation of steel structures, it is necessary to quantify the non-negligible rotational strength and stiffness of these composite connections, a task that cannot be accomplished through the use of simple rules of thumb. Therefore, trends in the moment–rotation behavior of the connections are identified from comparison of the cyclic behavior against parameters such as number of bolts, type of concrete, use of slab reinforcement, and the presence of a column web cavity. Analysis of these trends leads to guidelines for determining parameters for a basic backbone moment–rotation curve. These guidelines depend heavily on applicable limit states for elements of the connections and connection geometry. Predicted values of moment and rotation capacity are compared against experimental values, showing good agreement overall and defining limitations and directions for further development of these procedures. 
+
+
+    
+        AU - Magdi Mohareb
+    
+        AU - Istemi F. Ozkan
+    
+
+TI - Plastic Interaction Relationships for Square Hollow Structural Sections: Lower Bound Solution
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1381-1391
+VI - 130
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2004)130:9(1381) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281381%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281381%29
+SO - Journal of Structural Engineering 2004-09-01 130(9): 1381-1391
+AB - General interaction relationships for hollow structural square sections subjected to general combinations of normal force, twisting moments, biaxial bending moments, and biaxial shearing forces are developed. The lower bound theorem of plasticity is employed to obtain the fully plastic resistance of the section as determined by the maximum distortional energy density criterion. Previously established interaction relationships for hollow structural sections subjected to bending moments, axial force, and twisting moments are recovered as a special case of the general solution. The developments are expressed as universal, nondimensional relationships suitable for limit state design. Consideration is given to the limits of applicability of the interaction relations. Simplifying assumptions are made and their effects are discussed. A stress resultant transformation scheme is developed in order to reduce the number of interaction relations to be developed from 20 cases to only three fundamental cases. 
+
+
+    
+        AU - Lin-Hai Han
+    
+        AU - Zhong Tao
+    
+        AU - Wei Liu
+    
+
+TI - Effects of Sustained Load on Concrete-Filled Hollow Structural Steel Columns
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1392-1404
+VI - 130
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2004)130:9(1392) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281392%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281392%29
+SO - Journal of Structural Engineering 2004-09-01 130(9): 1392-1404
+AB - The use of concrete-filled hollow structural steel (HSS) columns has become widespread in the past few decades. However, these members are subject to static long-term behaviors under sustained loading, a common phenomenon in concrete structures. Such a problem has not been addressed satisfactorily by design codes. The present study is an attempt to predict the time-dependent behavior of concrete-filled HSS columns by means of a model that is proposed by ACI 209R-92. Tests on the behavior of concrete-filled HSS columns with square sections under long-term sustained loading are performed, in addition to proposing further tests on the static ultimate strength of the composite columns. A theoretical model of analysis to account for shrinkage and creep effects on concrete-filled HSS columns under sustained loading is presented. A comparison of results calculated using this model shows good agreement with test results. Finally, formulas for the calculation of the ultimate strength of the concrete-filled HSS columns subjected to long-term sustained loads are presented. 
+
+
+    
+        AU - K. H. Tan
+    
+        AU - C. Y. Tang
+    
+
+TI - Interaction Model for Unprotected Concrete Filled Steel Columns Under Standard Fire Conditions
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1405-1413
+VI - 130
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2004)130:9(1405) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281405%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281405%29
+SO - Journal of Structural Engineering 2004-09-01 130(9): 1405-1413
+AB - This paper extends the Rankine method to the analyses of reinforced concrete filled steel (RCFS) columns and plain concrete filled steel (PCFS) columns at elevated temperature. The advantage of this approach is that it gives structural engineers a physical feel of the adequacy of a column in terms of its plastic squashing capacity and elastic buckling capacity. The method hinges on the concept of modified buckling coefficient, which is equally applicable for both axially and eccentrically loaded columns. A novel feature is that the fire resistance of a column is expressed in terms of its plastic squashing capacity and elastic buckling capacity at ambient temperature. The mean of agreement between the Rankine predictions and test results for both RCFS (61 columns) and PCFS (95 columns) is satisfactory. The paper includes a worked example to illustrate the flexibility of the approach, and also comments on the accuracy when the Rankine method is applied to other types of columns such as steel or reinforced concrete columns. 
+
+
+    
+        AU - Mark G. Stewart
+    
+        AU - Allen C. Estes
+    
+        AU - Dan M. Frangopol
+    
+
+TI - Bridge Deck Replacement for Minimum Expected Cost Under Multiple Reliability Constraints
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1414-1419
+VI - 130
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2004)130:9(1414) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281414%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281414%29
+SO - Journal of Structural Engineering 2004-09-01 130(9): 1414-1419
+AB - The present paper investigates the effect of limit state selection (strength versus serviceability) on bridge deck life-cycle costs and thus on optimal repair strategies. Such a comparison may then help determine whether safety or functionality (or both) are important criteria when optimizing bridge life-cycle performance and costs. The structural element under consideration is a reinforced concrete bridge deck; namely, a State Highway Bridge in Colorado. Two limit states are considered: ultimate strength and serviceability. The exceedence of either of the limit states considered herein will result in deck replacement; namely, if the reliability index falls below a target reliability index or if widespread cracking and spalling occurs. The life-cycle cost analysis includes expected replacement costs as well as the random variability of material properties, loads, section dimensions, model errors, chloride penetration, and corrosion rates. Life-cycle costs can then be compared for strength and serviceability limit state violations. Life-cycle costs for deck replacement based on a serviceability limit state were generally larger than those obtained for the strength limit states. Hence, an unrealistically optimistic life-cycle cost will result when serviceability is not included in the analysis. 
+
+
+    
+        AU - Katy Saadé
+    
+        AU - Bernard Espion
+    
+        AU - Guy Warzée
+    
+
+TI - Discussion of “Exact Finite Element for Nonuniform Torsion of Open Sections” by Magdi Mohareb and Farhood Nowzartash
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1420-1420
+VI - 130
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2004)130:9(1420) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281420%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281420%29
+SO - Journal of Structural Engineering 2004-09-01 130(9): 1420-1420
+
+
+    
+        AU - Magdi Mohareb
+    
+        AU - Farhood Nowzartash
+    
+
+TI - Closure to “Exact Finite Element for Nonuniform Torsion of Open Sections” by Magdi Mohareb and Farhood Nowzartash
+PT - Journal Article
+DP - 2004
+TA - Journal of Structural Engineering
+PG - 1420-1421
+VI - 130
+IP - 9
+AID - 10.1061/(ASCE)0733-9445(2004)130:9(1420.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281420.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282004%29130%3A9%281420.2%29
+SO - Journal of Structural Engineering 2004-09-01 130(9): 1420-1421
+
+

@@ -1,0 +1,357 @@
+
+
+
+
+
+
+
+
+
+
+TI - Editor's Note
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 1-1
+VI - 122
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1996)122:1(1) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A1%281%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A1%281%29
+SO - Journal of Structural Engineering 1996-01-01 122(1): 1-1
+
+
+    
+        AU - Zdeněk P. Bažant
+    
+
+TI - Is No-Tension Design of Concrete or Rock Structures Always Safe?—Fracture Analysis
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 2-10
+VI - 122
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1996)122:1(2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A1%282%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A1%282%29
+SO - Journal of Structural Engineering 1996-01-01 122(1): 2-10
+AB - Plain concrete structures such as dams or retaining walls, as well as rock structures such as tunnels, caverns, excavations, and rock slopes, have commonly been designed by elastic–perfectly plastic analysis in which the tensile yield strength of the material is taken as zero. The paper analyzes the safety of this “no-tension” design in the light of the finiteness of the tensile strength of concrete or the tensile strength of rock between the joints. Through examples, it is demonstrated that: (1) the calculated length of cracks or cracking zones can correspond to an unstable state; (2) the uncracked ligament of the cross section, available for resisting horizontal shear loads, can be predicted much too large, compared to the fracture mechanics prediction; (3) the calculated load-deflection diagram can lie lower than that obtained by fracture mechanics; (4) the no-tension load capacity for a combination of crack face pressure and loads remote from the crack front, calculated by elastic analysis on the basis of allowable compressive stress, can be higher than that obtained by fracture mechanics; and (5) an increase in the tensile strength of the material can cause the load capacity of the structure to decrease. Due to the size effect, these facts are true not only for zero fracture toughness (no-toughness design) but also for finite fracture toughness provided that the structure size is large enough. Several previous studies on the safety of no-tension design, including the finite-element analysis of a gravity dam, are also reviewed. It is concluded that if the no-tension limit design is used, the safety factors of concrete or rock structures cannot be guaranteed to have the specified values. Fracture mechanics is required for that.
+
+
+    
+        AU - L. Cao
+    
+        AU - J. H. Allen
+    
+        AU - P. B. Shing
+    
+        AU - D. Woodham
+    
+
+TI - Behavior of RC Bridge Decks with Flexible Girders
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 11-19
+VI - 122
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1996)122:1(11) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A1%2811%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A1%2811%29
+SO - Journal of Structural Engineering 1996-01-01 122(1): 11-19
+AB - The current design practice for concrete bridge decks requires a top mat and a bottom mat of reinforcing bars. The chloride attack of the top mat of reinforcing bars is a major cause of deterioration of bridge decks. Empirical evidence has indicated that the top transverse reinforcing bars can essentially be eliminated without jeopardizing the structural integrity of a deck. To explore this issue, the behavior of a four-span highway bridge deck subjected to a test truck and normal traffic loads is being investigated. The behavior of the bridge deck under the test truck and various combinations of truck loads has been analyzed with the finite-element method. These results confirm the fact that a properly designed bridge deck does not require top transverse reinforcement for sustaining the negative bending moment induced by traffic loads.
+
+
+    
+        AU - Young Mook Yun
+    
+        AU - Julio A. Ramirez
+    
+
+TI - Strength of Struts and Nodes in Strut-Tie Model
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 20-29
+VI - 122
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1996)122:1(20) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A1%2820%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A1%2820%29
+SO - Journal of Structural Engineering 1996-01-01 122(1): 20-29
+AB - General approaches for determining the effective stress levels of concrete struts and for verifying the bearing capacity of nodal zones in strut-tie models are proposed. The effective stress levels of concrete struts are determined by implementing the principal stress ratios of the finite elements (used in the finite-element nonlinear analysis of a two-dimensional plain concrete) corresponding to the strut regions of the strut-tie model. Based on the obtained geometry of the struts, nodal zones are developed and their bearing capacity is verified using a finite-element nonlinear analysis with a failure criteria that incorporates the different state of stresses. To illustrate the proposed approaches, an analysis of a reinforced concrete beam tested to failure is conducted using the strut-tie model approach with the aid of interactive computer graphics program NL-STAT.
+
+
+    
+        AU - T. T. Lie
+    
+        AU - V. K. R. Kodur
+    
+
+TI - Fire Resistance of Steel Columns Filled with Bar-Reinforced Concrete
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 30-36
+VI - 122
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1996)122:1(30) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A1%2830%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A1%2830%29
+SO - Journal of Structural Engineering 1996-01-01 122(1): 30-36
+AB - Parametric studies, using mathematical models, were carried out to determine the influence of various factors on the fire resistance of steel hollow structural section (HSS) columns filled with bar-reinforced concrete. Data from the parametric studies were used to develop simple expressions for calculating the fire resistance of bar-reinforced concrete-filled HSS columns with circular and square cross sections. The validity of the calculation procedure was established by comparing the calculated fire resistances with those obtained from fire tests on columns. The procedure, which is suitable for incorporation in design codes, provides a rational and easy-to-use design method for evaluating the fire resistance of hollow steel columns filled with bar-reinforced concrete for any value of the significant parameters that determine it, such as load, cross-sectional dimensions, effective length, and concrete strength.
+
+
+    
+        AU - U. Andreaus
+    
+
+TI - Failure Criteria for Masonry Panels under In-Plane Loading
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 37-46
+VI - 122
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1996)122:1(37) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A1%2837%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A1%2837%29
+SO - Journal of Structural Engineering 1996-01-01 122(1): 37-46
+AB - Failure of masonry panels under in-plane loading can be attributed to three simple modes: slipping of mortar joints, cracking of clay bricks and splitting of mortar joints, and middle plane spalling. In this paper a suitable strength criterion is connected to each collapse mode. In more detail, a frictional law is associated with the slipping, which accounts for the shear strength depending nonlinearly on normal stress (modified Mohr-Coulomb criterion of intrinsic curve). Splitting can be expected by the maximum tensile strain criterion (Saint Venant), orthotropic nonsymmetric elasticity being assumed for the material. Eventually panels exhibit spalling when the maximum compressive stress (Navier criterion) is attained under biaxial loading. Strength parameters are then identified on the basis of experimental results and a comparison with the reliable criteria found in the literature is carried out. The validity of the proposed failure criteria to predict the experimental failure modes in a nondimensional stress space, normalized with respect to the normal stress, has been tested in a qualitative manner for the three fundamental failure modes. A quantitative comparison between experimental and analytical results has been carried out for the cases where significant scatters are concerned. The proposed failure criteria seem to be in good agreement with experimental results, within the limits of: small-size panels, single withes, solid units, regular mortar joints, and in-plane loads. Further, these criteria can be used together with a suitable two-dimensional finite-element model, and then directly used to carry out the limit analysis of masonry walls, modeled by a discrete number of panels of finite size. The potential application of the proposed criteria to actual cases is also illustrated. In fact, a specific example is worked out to show how to apply these criteria to predict the failure load and failure mode of a particular masonry panel.
+
+
+    
+        AU - Y. L. Mo
+    
+        AU - R. Y. Yang
+    
+
+TI - Dynamic Response of Box Tubes to Combined Shear and Torsion
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 47-54
+VI - 122
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1996)122:1(47) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A1%2847%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A1%2847%29
+SO - Journal of Structural Engineering 1996-01-01 122(1): 47-54
+AB - Based on equilibrium and compatibility conditions, as well as a stress-strain relationship for softened concrete, a truss model theory for reinforced-concrete structural walls subjected to static shear was applied to determine the shear-force-displacement relationship as the primary curve for dynamic analysis. Similarly, the torque-twist relationship of reinforced-concrete box tubes subjected to static torsion was able to be determined using the truss model theory. In this paper, the inelastic dynamic response of reinforced-concrete box tubes to combined shear and torsion is predicted using the primary curve obtained by the interaction relationship between shear and torsion, the hysteretic model proposed for reinforced-concrete structures under shear or torsion, and the linear acceleration step-by-step method. Further, parametric studies are performed using the proposed algorithms.
+
+
+    
+        AU - Hung-Liang (Roger) Chen
+    
+        AU - Shen-En Chen
+    
+
+TI - Dynamic Responses of Shallow-Buried Flexible Plates Subjected to Impact Loading
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 55-60
+VI - 122
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1996)122:1(55) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A1%2855%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A1%2855%29
+SO - Journal of Structural Engineering 1996-01-01 122(1): 55-60
+AB - The dynamic soil-structure interaction phenomenon involved in a shallow-buried flexible plate under impact loading is investigated both experimentally and numerically. This interaction causes load relief on the buried structure. Plexiglass plates were used as the buried flexible roof structure and low-velocity impact loadings were generated on the soil surface. Measurements of the interaction loads between the sand and the plate, and the accelerations of the buried plates were conducted. A decoupled single-degree-of-freedom model was used to simulate the dynamic responses of the buried flexible plates. The numerical model allows separation between soil medium and the buried structure. Different degrees of load-relief phenomenon are experimentally and numerically observed for the buried plates of three different stiffnesses. The numerical calculation shows good agreement with the experimental results. The results show that the stiffer plates experienced less separation from soil, which was observed in terms of higher loading magnitudes and longer loading durations. The same separation phenomenon was also observed in terms of lower displacement mag-nitudes and shorter durations.
+
+
+    
+        AU - M. Saiidi
+    
+        AU - E. Maragakis
+    
+        AU - S. Feng
+    
+
+TI - Parameters in Bridge Restrainer Design for Seismic Retrofit
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 61-68
+VI - 122
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1996)122:1(61) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A1%2861%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A1%2861%29
+SO - Journal of Structural Engineering 1996-01-01 122(1): 61-68
+AB - The primary objective of this study was to determine the effects of changing (1) the cross-sectional area of restrainers; and (2) the restrainer gap on the nonlinear seismic response of a representative bridge with several hinges. The computer program NEABS-86 was used in the nonlinear analyses. The focus of the study was the relative displacements at the hinges, restrainer stresses, and abutment forces. The input earthquake, the number of restrainers at each hinge, the restrainer gap, and the hinge gap were varied. It was found that restrainer forces can become critical in cold weather, when the restrainer gap is minimum. It is recommended that the design should be based on cases with and without restrainer gaps to encompass all the critical forces, stresses, and displacements.
+
+
+    
+        AU - J. N. Yang
+    
+        AU - J. C. Wu
+    
+        AU - A. M. Reinhorn
+    
+        AU - M. Riley
+    
+        AU - W. E. Schmitendorf
+    
+        AU - F. Jabbari
+    
+
+TI - Experimental Verifications of  <i>H</i><sub>&#x221e;</sub>
+ and Sliding Mode Control for Seismically Excited Buildings
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 69-75
+VI - 122
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1996)122:1(69) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A1%2869%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A1%2869%29
+SO - Journal of Structural Engineering 1996-01-01 122(1): 69-75
+AB - Recently,  H∞
+ and sliding mode control methods have been investigated for applications to active/hybrid control of seismically excited structures. Numerical simulation results indicate that both control methods are quite promising for civil engineering applications. In the present paper, shaking table experimental tests were conducted to verify the  H∞
+ and continuous sliding mode control methods. The test structure used was the three-story 1/4-scaled building model, equipped with an active tendon control system, which was used extensively at the State University of New York, Buffalo. Different earthquake records were used as the input excitations, including the El Centro, Pacoima, Hachinohe, and Taft. Both the full-state feedback controllers and the static output feedback controllers were used. Experimental data correlate satisfactorily with numerical simulation results. Extensive experimental results demonstrate that the  H∞
+ and continuous sliding mode control methods, in particular the static output feedback controllers using only the measured information from a limited number of sensors installed at strategic locations without an observer, are quite promising for practical implementations of active control systems on seismically excited structures.
+
+
+    
+        AU - K. L. Shen
+    
+        AU - T. T. Soong
+    
+
+TI - Design of Energy Dissipation Devices Based on Concept of Damage Control
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 76-82
+VI - 122
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1996)122:1(76) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A1%2876%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A1%2876%29
+SO - Journal of Structural Engineering 1996-01-01 122(1): 76-82
+AB - Recent laboratory and theoretical studies show that structures with added energy dissipation devices will generally exhibit inelastic behavior when they are subjected to strong ground motion; therefore, the assumption of linear structural responses has to be eliminated in the design of such devices for the purposes of structural upgrade and retrofit. In this paper, effects of high damping on a structure experiencing inelastic deformation under seismic ground motions are examined. The importance of the energy concept in the design of energy dissipation devices for structural applications is addressed, and a new design method is proposed based on the concept of damage control. To establish a rational design approach, an explicit procedure is developed to transform a multidegree-of-freedom system to an equivalent single-degree-of-freedom model in the inelastic range so that the evaluation of structural seismic performance with and without the added devices can be easily performed. While the example is given for the application of viscoelastic dampers, the proposed method is also applicable to other devices, such as friction and viscous dampers, under certain conditions.
+
+
+    
+        AU - Seshasayee Ankireddi
+    
+        AU - Henry T. Y. Yang
+    
+
+TI - Simple ATMD Control Methodology for Tall Buildings Subject to Wind Loads
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 83-91
+VI - 122
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1996)122:1(83) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A1%2883%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A1%2883%29
+SO - Journal of Structural Engineering 1996-01-01 122(1): 83-91
+AB - A procedure for the design of an active tuned mass damper for vibration control in tall buildings subject to wind loads is presented. The building motions are modeled by the first mode of the response, and it is assumed that the excitation is white noise. The controller is based on complete feedback (namely, feedback of displacement, velocity, and acceleration). The controller gains that minimize the variance of the rooftop displacement are derived in closed-form. Two examples, one of a 162 m tall planar frame and the other of a 400 m tall building in a city are studied to illustrate the active damper design and to evaluate the procedure and the results. The same examples are then studied as multiple-degree-of-freedom systems subject to nonwhite excitation that better simulates the wind. Results on the reduction of the dynamic response and control effectiveness of the active damper designs are presented and discussed.
+
+
+    
+        AU - Loren D. Lutes
+    
+        AU - Shahram Sarkani
+    
+
+TI - Decay of Residual Stress in Stochastic Fatigue
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 92-98
+VI - 122
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1996)122:1(92) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A1%2892%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A1%2892%29
+SO - Journal of Structural Engineering 1996-01-01 122(1): 92-98
+AB - Random-amplitude fatigue situations are studied to determine the possible effects of residual stresses induced by the welding of the specimens. Experimental results show that large-amplitude precycling of a welded specimen can significantly extend its fatigue life under small constant-amplitude loadings, and that this effect is consistent with the results of the Gerber formula for the effect of mean stress, along with an assumption of elastoplastic stress-strain behavior of the specimen. This model predicts that the remaining residual stress at the critical location in the specimen is a function of the largest load that has ever been applied to the specimen. For a stochastic loading this implies that the mean stress gradually decays in a random manner throughout the fatigue life of the specimen. Numerical results show that the stochastic fatigue life may be significantly extended beyond that predicted by neglecting the decay of residual stress.
+
+
+    
+        AU - Amde M. Amde
+    
+        AU - Amir Mirmiran
+    
+        AU - Thomas A. Walter
+    
+
+TI - Local Damage Assessment of Metal Barriers under Turbine Missile Impacts
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 99-108
+VI - 122
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1996)122:1(99) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A1%2899%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A1%2899%29
+SO - Journal of Structural Engineering 1996-01-01 122(1): 99-108
+AB - Turbine missiles resulting from the failure of rotary machines in nuclear-power plants could cause severe damages and endanger public safety. This paper presents the current state of the art on models and methodologies for predicting the magnitude of damages and the possibility of the missile leaving the casing structure. Eight empirical methods for the perforation of steel by rigid missiles were collected and analyzed using over 30 test data from experimental works of the past two decades. Based upon the analyses, several modifications of the empirical and semiempirical formulas are proposed to evaluate the problem of containment and to better reflect the amount of damage resulting from turbine missile impact. The modified formulas are shown to be accurate for over 90% of the test results. It was also found that use of an equivalent missile diameter was helpful in accounting for the piercing impacts in the experimental works. It further reduced the nonconservative nature of the predictions.
+
+
+    
+        AU - S. T. Ariaratnam
+    
+        AU - L. Xu
+    
+
+TI - Uniqueness in Analysis of Semirigid Frames
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 110-111
+VI - 122
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1996)122:1(110) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A1%28110%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A1%28110%29
+SO - Journal of Structural Engineering 1996-01-01 122(1): 110-111
+AB - The behavior and modeling of connections, which form the essential bases of accounting for connection flexibility in the analysis and design of steel-frame structures, have been under investigation since the 1930s. This technical note presents a sufficient condition on the moment-rotation characteristic of the connection model that will ensure uniqueness in the analysis of steel frames when nonlinear semirigid connection behavior is taken into account. This sufficient condition should be useful in the development of various connection models.
+
+
+    
+        AU - C. X. Wang
+    
+        AU - W. J. Yi
+    
+
+TI - Discussion: Structural Damage Identification from Dynamic-Test Data 
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 113-114
+VI - 122
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1996)122:1(113) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A1%28113%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A1%28113%29
+SO - Journal of Structural Engineering 1996-01-01 122(1): 113-114
+
+
+    
+        AU - Juan R. Casas
+    
+        AU - Angel C. Aparicio
+    
+
+TI - Closure to “Structural Damage Identification from Dynamic‐Test Data” by Juan R. Casas and Angel C. Aparicio
+PT - Journal Article
+DP - 1996
+TA - Journal of Structural Engineering
+PG - 114-114
+VI - 122
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(1996)122:1(114) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281996%29122%3A1%28114%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281996%29122%3A1%28114%29
+SO - Journal of Structural Engineering 1996-01-01 122(1): 114-114
+
+

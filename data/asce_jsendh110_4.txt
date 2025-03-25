@@ -1,0 +1,857 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - William R. Spillers
+    
+        AU - Robert Levy
+    
+
+TI - Truss Design: Two Loading Conditions with Prestress
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 677-687
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(677) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28677%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28677%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 677-687
+AB - This paper reviews the effect of prestress on a simple truss design problem with two loading conditions. Optimality criteria are formulated on the “sum” and “difference” problems. These criteria are subsequently interpreted to imply that the optimal design is fully stressed and to develop an iterative design scheme. Examples are included.
+
+
+    
+        AU - Erling A. Smith
+    
+
+TI - Space Truss Nonlinear Analysis
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 688-705
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(688) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28688%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28688%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 688-705
+AB - The nonlinear behavior of space truss members is described and modeled. The interaction between a space truss member and its adjoining structure is detailed and the “Chordal Snap Through” phenomenon is described. A nonlinear stepwise linearization analysis method is developed which does not require the repeated updating of the structural stiffness matrix. The method is used to model published experimental results and gives excellent correlation, modeling several characteristics of the experimental results.
+
+
+    
+        AU - Rene W. Luft
+    
+
+TI - Vertical Accelerations in Prestressed Concrete Tanks
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 706-714
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(706) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28706%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28706%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 706-714
+AB - Vertical accelerations of circular cylindrical tanks and their contents cause hoop forces in the tank walls. The hoop forces caused by hydrodynamic fluid pressure are additive to those caused by hydrostatic fluid pressure; earthquake‐resistant design of tanks should therefore consider the combined fluid pressure. The design of a prestressed concrete tank wall must be such that under combined hydrostatic and earthquake‐induced hoop forces either: (1) The concrete does not crack (if leaking is not permitted); or (2) the stress in the prestressing wires remains below 0.7fpu (if minor leaking during the earthquake is permitted). Since under both of these criteria the tank wall materials remain practically elastic, the earthquake‐induced hoop forces should be based on elastic acceleration response spectra. This paper presents a normal mode solution for a neoprene pad supported, cylindrical, prestressed concrete tank filled with an inviscid and incompressible liquid subjected to vertical accelerations. The solution, which gives the natural modes and frequencies and the load participation factors, is used to compute the hoop forces caused by the hydrodynamic fluid pressure.
+
+
+    
+        AU - D. A. Reed
+    
+        AU - Emil Simiu
+    
+
+TI - Wind Loading and Strength of Cladding Glass
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 715-729
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(715) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28715%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28715%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 715-729
+AB - A procedure for investigating glass cladding behavior under arbitrary loads, including fluctuating wind loads, is presented. The procedure accounts for the fact that internal stresses are nonlinear functions of the external loads, that initial glass strengths are random functions of position and direction, and that glass strength undergoes degradation under the action of external loads in accordance with basic fracture mechanics laws. Numerical examples are presented, and corresponding probability distribution curves are calculated, indicating the probability of failure of a specified panel subjected to 1‐min constant loads. The work reported in the paper is part of an ongoing window cladding research program being conducted at the National Bureau of Standards.
+
+
+    
+        AU - Sami H. Rizkalla
+    
+        AU - Sidney H. Simmonds
+    
+        AU - James G. MacGregor
+    
+
+TI - Prestressed Concrete Containment Model
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 730-743
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(730) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28730%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28730%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 730-743
+AB - The construction and testing of a model of a prestressed concrete containment structure is described. The test structure consisted of a reinforced concrete base, cylindrical wall, ring beam and dome built of prestressed concrete with construction details patterned after the Canadian CANDU reactor containment. The overall height above the base was 12 ft‐6 in. (3,810 mm), and the outer diameter was 10 ft‐6 in. (3,200 mm). Internal pressure was obtained using water, and leakage was prevented by using a flexible plastic liner. Mea‐, surements made during the test included internal pressure, steel and concrete strains, crack widths and spacing, and curvatures at the base of the cylindrical wall. The test structure began to exhibit cracking at a pressure of. 30 psi (0.28 MPa), and yielding of the reinforcement at approximately 110 psi (0.76 MPa). The structure displayed considerable ductility before failing at internal pressure of 159 psi (1.10 MPa) by rupture of three horizontal tendons at midheight of the wall. Outward deflection of the walls damaged the anchorage zones of some of the tendons. The cracking behavior and failure mechanism are described.
+
+
+    
+        AU - Lawrence A. Soltis
+    
+
+TI - Low‐Rise Timber Buildings Subjected to Seismic, Wind, and Snow Loads
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 744-753
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(744) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28744%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28744%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 744-753
+AB - Wood‐frame buildings have generally performed well when subjected to extreme wind, seismic, or snow loads. Some of this performance is attributed to the material characteristics of the wood itself and some to the redundance in structural assembly. Failures, however, have occurred. Not all damage can be eliminated, but much could be avoided or minimized based on past observations. The objective of this paper is to look at past common failures and their causes. A main observation is that marginally engineered or nonengineered structures performed worse than engineered structures. Connection or anchorage failures between major components were commonplace. Engineered details of joints are available. The primary conclusion is that, a technology transfer effort is required to incorporate engineered features in more wood‐frame buildings to reduce many of the commonly observed failures in natural disasters.
+
+
+    
+        AU - Sadao Komatsu
+    
+        AU - Yoshikazu Moriwaki
+    
+        AU - Masayuki Fujino
+    
+        AU - Tetsushiro Takimoto
+    
+
+TI - Ultimate Strength of Girders in Combined Load
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 754-768
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(754) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28754%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28754%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 754-768
+AB - In plate girders built up by welding, residual stresses and initial deflections inevitably remain in both flanges and web. Taking into account this fact, a numerical plastic analysis was carried out by the incremental technique in order to clarify the ultimate strength of transversely stiffened plate girders built up by welding under combined shear and bending. The appropriateness of this analytical method was then examined by comparison with test results. This analysis, clearly indicates that residual stress of the compression flange reduces the ultimate strength of plate girders under bending. In addition, the applicability of the writers' empirical formulas is considered. These empirical formulas can be shown to give a good approximation to the ultimate strength of the general welded plate girders with transverse stiffeners. Consequently, this analytical method is useful for the examination of safety against collapse, while the empirical formulas can be applied to the dimensioning in design practice.
+
+
+    
+        AU - Kishor C. Mehta
+    
+
+TI - Wind Load Provisions Ansi #A58.1‐1982
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 769-784
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(769) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28769%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28769%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 769-784
+AB - The wind load provisions of ANSI A58.1, published in 1982, contain the latest available pertinent data and technical knowledge. Summary of changes from the previous standard and background material for wind speed map, format of the standard, importance coefficient, pressure coefficients, and wind tunnel procedure are presented. The balloting and public review process has resulted in a consensus standard.
+
+
+    
+        AU - Emil Simiu
+    
+        AU - Stefan D. Leigh
+    
+
+TI - Turbulent Wind and Tension Leg Platform Surge
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 785-802
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(785) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28785%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28785%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 785-802
+AB - A procedure is presented for estimating surge response to turbulent wind in the presence of current and waves. The procedure accounts for the nonlinearity of the hydrodynamic forces with respect to surge and for the coupling of aerodynamic and hydrodynamic effects. It is shown that current wind spectra do not model correctly the wind speed fluctuations at very low frequencies and an alternative model of the wind spectrum, whose ordinate at the origin is consistent with fundamental principles, is presented. The equation of surge motion under turbulent wind in the presence of current and waves is solved for typical tension leg platforms, and it is shown that under extreme wave conditions the damping provided by the hydrodynamic forces precludes the occurrence of significant wind‐induced resonant amplification effects even if the drag coefficient in the Morison equation is very small (e.g., Cd=0.1). It is verified that for the platforms being investigated the use of a one‐minute wind speed to represent the effect of the mean wind and of the turbulent wind fluctuations is acceptable for the purpose of estimating peak surge response.
+
+
+    
+        AU - Bern Jakobsen
+    
+        AU - Erik Hjorth‐Hansen
+    
+        AU - Ivar Holamd
+    
+
+TI - Cyclic Torsion Tests of Concrete Box Columns
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 803-822
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(803) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28803%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28803%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 803-822
+AB - Stiffness reduction and material energy dissipation of reinforced concrete box‐members have been investigated experimentally under cyclic torsional loading. Six specimens were tested; four in pure torsion and two with axial force in addition to the alternating torque. The amount of reinforcement, the axial load and the load history were varied. The load histories were chosen to simulate the main features of a lightly damped structural response to random environmental loading, such as wind. The specimens were instrumented to trace time‐histories of torque, axial load, twisting angle, concrete and reinforcement strains and displacement across cracks. Hysteretic loops are presented in the form of torque‐twisting angle curves and strain‐torque curves. Developments of stiffness reduction, material energy dissipation, an equivalent viscous damping ratio as well as bond deterioration are shown as functions of time. Stiffness reductions by a factor of 8‐30 were found when compared to the uncracked stiffness. The post‐cracking damping ratio was 2‐3 times the corresponding uncracked values.
+
+
+    
+        AU - Maria K. Karavesiroglou
+    
+        AU - George G. Penelis
+    
+
+TI - Analysis of Plates with Right Angled Boundaries
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 823-834
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(823) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28823%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28823%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 823-834
+AB - An analysis method is described and used to analyse the behavior of elastic plates with right angled boundaries subjected to laterally applied uniform and concentrated loads. The experimental verification of the stress analysis as conceived here and the comparison of the test results with the expected values from the proposed method is also included.
+
+
+    
+        AU - Boyd D. Larsen
+    
+
+TI - Repair and Restoration of Assembly Hall Roof
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 835-846
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(835) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28835%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28835%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 835-846
+AB - During the early expansion of western America a group of Mormon pioneers came to the Great Salt Lake valley in covered wagons, arriving in July of 1847. Here they began to build a city. In the center of the city they established a Temple Square, on which a building called the “Assembly Hall” was built in 1877. After 100 yr of service life three of the six roof trusses failed for no apparent reason. After much study, it was determined the unique structure could be restored without destroying its artistic or historic value. Under a construction management program, a select group of experienced and skilled craftsmen completed the restoration. The unique and indeterminate roof structures had failed in the heel joints and main tensile members. The general solution was to replace the failed connections and members with steel straps and heel connections. Bob beams and structural diaphragms were constructed to upgrade the safety of the structure, all as part of the restoration. The project proceeded on time and within budget during the fall of 1980.
+
+
+    
+        AU - Aldo Raithel
+    
+        AU - Claudio Franciosi
+    
+
+TI - Dynamic Analysis of Arches Using Lagrangian Approach
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 847-858
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(847) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28847%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28847%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 847-858
+AB - Research of frequencies and modes of vibration of an arch is pursued, using the method of reducing the structure to a conservative rigid‐elastic system. The role of the reductive matrix of the strain energy is clearly shown. Finally, the loads resulting from earthquakes are investigated using dynamic analysis. It is shown that, when a horizontal earthquake occurs, skew‐symmetric vertical loads are set up; they are more dangerous; for shallow arches, than horizontal loads.
+
+
+    
+        AU - Milton Lanser
+    
+        AU - Amde M. Wolde‐Tinsae
+    
+        AU - Lowell F. Greimann
+    
+
+TI - Effects of Lightning on Concrete
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 859-870
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(859) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28859%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28859%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 859-870
+AB - Possible lightning damage to a concrete farm silo in northeast Iowa prompted a research study of the damaging effects of lightning strokes on concrete. Lightning damage to concrete was studied by reviewing other writings on damaging effects and by completing simulated lightning strokes on concrete samples. Two sets of experiments were carried out. The damage caused by the simulated lightning strokes varied in intensity. Photos of the damaged samples are included in this paper. Correlations between observed damage and damage hypotheses are presented.
+
+
+    
+        AU - Anthony R. Ingraffea
+    
+        AU - Walter H. Gerstk
+    
+        AU - Peter Gergely
+    
+        AU - Victor Saouma
+    
+
+TI - Fracture Mechanics of Bond in Reinforced Concrete
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 871-890
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(871) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28871%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28871%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 871-890
+AB - A new approach is taken to predict numerically the bond‐slip behavior of a reinforcing bar embedded in concrete. Attention is focused on radial, secondary cracking. This cracking is found not to follow the principles of linear elastic fracture mechanics, and therefore is modeled using a nonlinear, discrete crack, interface and finite element approach. A new method for finite element modeling of nonlinear fracture is presented. A “tension‐softening element” is introduced for the purpose of modeling bond‐slip in practical reinforced concrete engineering problems. Finally, as an example, a reinforced concrete tension diaphragm is analyzed.
+
+
+    
+        AU - Alexander Coull
+    
+
+TI - Discussion of &#x201c;<i>A Shear Lag Anomaly</i>&#x201d; by Douglas A. Foutch and P. C. Chang (July, 1982)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 893-893
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(893) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28893%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28893%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 893-893
+
+
+    
+        AU - Raymond E. Davis
+    
+
+TI - Discussion of &#x201c;<i>A Shear Lag Anomaly</i>&#x201d; by Douglas A. Foutch and P. C. Chang (July, 1982)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 894-895
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(894) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28894%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28894%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 894-895
+
+
+    
+        AU - Douglas A. Foutch
+    
+        AU - P. C. Chang
+    
+
+TI - Closure to &#x201c;<i>A Shear Lag Anomaly</i>&#x201d; by Douglas A. Foutch and P. C. Chang (July, 1982)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 895-896
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(895) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28895%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28895%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 895-896
+
+
+    
+        AU - Bohdan K. Boczkaj
+    
+
+TI - Discussion of &#x201c;<i>Prestressed Concrete Flexural Member: Design</i>&#x201d; by Shan Somayaji (August, 1982)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 896-898
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(896) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28896%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28896%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 896-898
+
+
+    
+        AU - Natarajan Krishnamurthy
+    
+
+TI - Discussion of &#x201c;<i>Prestressed Concrete Flexural Member: Design</i>&#x201d; by Shan Somayaji (August, 1982)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 898-901
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(898) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28898%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28898%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 898-901
+
+
+    
+        AU - Shan Somayaji
+    
+
+TI - Colsure to &#x201c;<i>Prestressed Concrete Flexural Member: Design</i>&#x201d; by Shan Somayaji (August, 1982)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 901-902
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(901) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28901%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28901%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 901-902
+
+
+    
+        AU - Carlos Guedes Soares
+    
+
+TI - Discussion of &#x201c;<i>Reliability Procedure for Fixed Offshore Platforms</i>&#x201d; by William D. Anderson, Mark N. Silbert, and James R. Lloyd (November, 1982)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 902-906
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(902) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28902%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28902%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 902-906
+
+
+    
+        AU - William D. Anderson
+    
+        AU - Mark N. Silbert
+    
+        AU - James R. Lloyd
+    
+
+TI - Closure to &#x201c;<i>Reliability Procedure for Fixed Offshore Platforms</i>&#x201d; by William D. Anderson, Mark N. Silbert, and James R. Lloyd (November, 1982)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 906-907
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(906) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28906%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28906%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 906-907
+
+
+    
+        AU - Shlomo Ginsburg
+    
+
+TI - Discussion of &#x201c;<i>Design of Timber Beams: A Graphical Approach</i>&#x201d; by Shan Somayaji (January, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 907-909
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(907) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28907%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28907%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 907-909
+
+
+    
+        AU - Shan Somayaji
+    
+
+TI - Closure to &#x201c;<i>Design of Timber Beams: A Graphical Approach</i>&#x201d; by Shan Somayaji (January, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 909-909
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(909) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28909%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28909%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 909-909
+
+
+    
+        AU - Wilhelm Zellner
+    
+        AU - Reiner Saul
+    
+
+TI - Discussion of &#x201c;<i>Cable&#x2010;Stayed Bridges: Degrees of Anchoring</i>&#x201d; by Ramon E. Gilsanz and John M. Biggs (January, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 910-911
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(910) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28910%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28910%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 910-911
+
+
+    
+        AU - P. G. Buckland
+    
+
+TI - Discussion of &#x201c;<i>Cable&#x2010;Stayed Bridges: Degrees of Anchoring</i>&#x201d; by Ramon E. Gilsanz and John M. Biggs (January, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 911-912
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(911) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28911%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28911%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 911-912
+
+
+    
+        AU - Ramon E. Gilsanz
+    
+        AU - John M. Biggs
+    
+
+TI - Closure to &#x201c;<i>Cable&#x2010;Stayed Bridges: Degrees of Anchoring</i>&#x201d; by Ramon E. Gilsanz and John M. Biggs (January, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 913-914
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(913) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28913%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28913%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 913-914
+
+
+    
+        AU - Hassan I. A. Hegab
+    
+
+TI - Discussion of &#x201c;<i>Gravity Stiffness of Classical Suspension Bridges</i>&#x201d; by Alan Jennings (January, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 915-915
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(915) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28915%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28915%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 915-915
+
+
+    
+        AU - Alan Jennings
+    
+
+TI - Closure to &#x201c;<i>Gravity Stiffness of Classical Suspension Bridges</i>&#x201d; by Alan Jennings (January, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 916-918
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(916) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28916%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28916%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 916-918
+
+
+TI - Erratum: “Nonlinear Finite Element Analysis of Steel Frames” by Mohamed H. El‐Zanaty and David W. Murray (February, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 918-918
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(918) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28918%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28918%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 918-918
+
+
+    
+        AU - R. Hussein
+    
+
+TI - Discussion of &#x201c;<i>Parameters Influencing Behavior of Diafhragms</i>&#x201d; by Rafik Y. Itani, Girish S. Hiremath, and Robert J. Hoyle, Jr. (February, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 919-920
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(919) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28919%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28919%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 919-920
+
+
+    
+        AU - Rafik Y. Itani
+    
+        AU - Robert J. Hoyle
+    
+
+TI - Closure to &#x201c;<i>Parameters Influencing Behavior of Diafhragms</i>&#x201d; by Rafik Y. Itani, Girish S. Hiremath, and Robert J. Hoyle, Jr. (February, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 920-922
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(920) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28920%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28920%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 920-922
+
+
+    
+        AU - M. N. Viswanathan
+    
+
+TI - Discussion of &#x201c;<i>Time Series Analysis of Cooling Tower Wind Loading</i>&#x201d; by D. Aubrey Reed and Robert H. Scanian (February, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 922-923
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(922) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28922%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28922%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 922-923
+
+
+    
+        AU - D. Aubrey Reed
+    
+        AU - Robert H. Scanlan
+    
+
+TI - Closure to &#x201c;<i>Time Series Analysis of Cooling Tower Wind Loading</i>&#x201d; by D. Aubrey Reed and Robert H. Scanian (February, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 923-923
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(923) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28923%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28923%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 923-923
+
+
+    
+        AU - David Allen
+    
+
+TI - Discussion of &#x201c;<i>Buckling of Four Equal&#x2010;Leg Angle Cruciform Columns</i>&#x201d; by Erling A. Smith (February, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 923-925
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(923.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28923.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28923.2%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 923-925
+
+
+    
+        AU - Richard W. Loomis
+    
+        AU - Robert S. Loomis
+    
+        AU - Robert W. Loomis
+    
+
+TI - Discussion of &#x201c;<i>Buckling of Four Equal&#x2010;Leg Angle Cruciform Columns</i>&#x201d; by Erling A. Smith (February, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 925-926
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(925) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28925%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28925%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 925-926
+
+
+    
+        AU - Himat T. Solanki
+    
+
+TI - Discussion of &#x201c;<i>Buckling of Four Equal&#x2010;Leg Angle Cruciform Columns</i>&#x201d; by Erling A. Smith (February, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 926-927
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(926) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28926%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28926%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 926-927
+
+
+    
+        AU - Erling A. Smith
+    
+
+TI - Clouser to &#x201c;<i>Buckling of Four Equal&#x2010;Leg Angle Cruciform Columns</i>&#x201d; by Erling A. Smith (February, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 928-930
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(928) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28928%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28928%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 928-930
+
+
+    
+        AU - Phillip L. Gould
+    
+
+TI - Discussion of &#x201c;<i>Single&#x2010;Span Deep Beams</i>&#x201d; by J. E. Barry and Heino Ainso (March, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 930-931
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(930) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28930%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28930%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 930-931
+
+
+    
+        AU - J. E. Barry
+    
+        AU - Heino Ainso
+    
+
+TI - Closure to &#x201c;<i>Single&#x2010;Span Deep Beams</i>&#x201d; by J. E. Barry and Heino Ainso (March, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 931-931
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(931) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28931%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28931%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 931-931
+
+
+    
+        AU - Dan M. Frangopol
+    
+
+TI - Discussion of &#x201c;<i>Probability of Failure From Abnormal Load</i>&#x201d; by Bruce Ellingwood, E. V. Leyendecker and James T. P. Yao (April, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 931-933
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(931.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28931.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28931.2%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 931-933
+
+
+    
+        AU - Brace Ellingwood
+    
+        AU - E. V. Leyendecker
+    
+        AU - James T. P. Yao
+    
+
+TI - Closure to &#x201c;<i>Probability of Failure From Abnormal Load</i>&#x201d; by Bruce Ellingwood, E. V. Leyendecker and James T. P. Yao (April, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 933-933
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(933) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28933%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28933%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 933-933
+
+
+TI - Erratum: “Strength Design of Shell Membrane Reinforcement” by Morris N. Fialkow (April, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 933-933
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(933.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28933.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28933.2%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 933-933
+
+
+    
+        AU - Harold Engstrom
+    
+
+TI - Discussion of &#x201c;<i>Hyatt&#x2010;Regency Walkway Collapse: Design Alternates</i>&#x201d; by George F. W. Hauck (May, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 934-934
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(934) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28934%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28934%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 934-934
+
+
+    
+        AU - George F. W. Hauck
+    
+
+TI - Closure to &#x201c;<i>Hyatt&#x2010;Regency Walkway Collapse: Design Alternates</i>&#x201d; by George F. W. Hauck (May, 1983)
+PT - Journal Article
+DP - 1984
+TA - Journal of Structural Engineering
+PG - 935-936
+VI - 110
+IP - 4
+AID - 10.1061/(ASCE)0733-9445(1984)110:4(935) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28935%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281984%29110%3A4%28935%29
+SO - Journal of Structural Engineering 1984-04-01 110(4): 935-936
+
+

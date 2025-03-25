@@ -1,0 +1,516 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - A. M. Hasofer
+    
+
+TI - Statistical Model for Live Floor Loads
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2183-2196
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002085 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002085
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002085
+SO - Journal of the Structural Division 1968-10-01 94(10): 2183-2196
+AB - Theoretical considerations and analysis of survey data suggest that live loads on floors of buildings can be represented by a two-dimensional stochastic process with independent increments, the prototype of which is the compound poisson process. An essential assumption, which is vindicated by analysis of the data, is the statistical independence of the loads on nonoverlapping areas, provided the areas are not too small. This is closely analysed. Rational probabilistic design is based on the upper tail of the load probability distribution, and it is shown that the tail can be well approximated by the Pareto formula Cx−α. The fit to survey data obtained is compared with that of the alternatives of a normal and an exponential tail. From the representation of the tail distribution, rational load-reduction formulas are derived. A further consideration which has been so far neglected is the necessity to assure that none of the panels into which the floor area is divided collapse, and this leads to an increase of the design load with increasing floor area.
+
+
+    
+        AU - Muppidi N. Reddy
+    
+
+TI - Lateral Vibrations of Plane Curved Bars
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2197-2212
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002086 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002086
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002086
+SO - Journal of the Structural Division 1968-10-01 94(10): 2197-2212
+AB - A practical method of calculating the frequencies of free lateral vibrations of plane curved bars is presented. The accuracy of the results was found to be high. At least half as many natural frequencies as the number of degrees of freedom were observed to be within 2% error. A general program for IBM 7040 is written and can solve for the natural frequencies of lateral vibrations of any plane bar with not more than two segments meeting at any division point. Numerical examples are shown to demonstrate the theory, and the results compared with the available solutions.
+
+
+    
+        AU - Santi P. Banerjee
+    
+
+TI - Analysis of Elliptic-Paraboloid Shell
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2213-2230
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002087 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002087
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002087
+SO - Journal of the Structural Division 1968-10-01 94(10): 2213-2230
+AB - The current method of analysis for E-P shells by use of a stress function has been found to produce results that do not satisfy the fundamental equations nor the equilibrium conditions. The proposed method considers variations of internal stresses in relation to boundary conditions and enables easy verification of the equilibrium condition.
+
+
+    
+        AU - Sana R. Abdel-Samad
+    
+        AU - Richard N. Wright
+    
+        AU - Arthur R. Robinson
+    
+
+TI - Analysis of Box Girders with Diaphragms
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2231-2256
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002088 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002088
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002088
+SO - Journal of the Structural Division 1968-10-01 94(10): 2231-2256
+AB - Analyses based on thin-walled beam theory are presented for multicell box girders of deformable cross section. The influence of flexible interior diaphragms on stresses arising from deformation of the cross section is investigated for torsional loadings and box-cell properties appropriate for steel and reinforced concrete highway bridges. Stiffened plate elements and various end conditions are considered. Sample analyses show that warping stresses, transverse flexural stresses and shearing stresses are substantially affected by deformation of the cross section. Conventional flexural and torsional analyses do not reveal these effects. Interior diaphragms are shown to be effective in reducing deformation of the cross section and the associated stresses.
+
+
+    
+        AU - William Ronald Hudson
+    
+        AU - Hudson Matlock
+    
+
+TI - Discrete-Element Analysis for Discontinuous Plates
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2257-2280
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002089 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002089
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002089
+SO - Journal of the Structural Division 1968-10-01 94(10): 2257-2280
+AB - The mathematical details are applicable for plates and slabs with freely variable foundation support including holes in the subgrade. Anisotropic elasticity which governs the behavior of orthotropic plates is used to develop the necessary equations. The method is not limited by discontinuities, and uses an efficient alternating-direction iteration means of solving the resulting equations. The method allows considerable freedom in configuration, loading, flexural stiffness, and boundary conditions. Three principal features are incorporated into the method: (1) The plate is defined by a discrete-element model consisting of bars, springs, elastic blocks, and torsion bars, which are further grouped for analysis into orthogonal systems of beam-column elements and forces; (2) each individual line-element of the two dimensional system is solved rapidly and directly by recursive techniques; and (3) an alternating-direction iterative method is utilized for coordinating the solution of the individual line-elements into the slab solution. The computer program utilizes the developed equations and techniques. Several sample problems illustrate the generality of the method, and the use of the computer program. The results compare well with closed-form solutions.
+
+
+    
+        AU - W. Terence O’Brien
+    
+
+TI - Behavior of Loaded Cable Systems
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2281-2302
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002090 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002090
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002090
+SO - Journal of the Structural Division 1968-10-01 94(10): 2281-2302
+AB - The behavior of freely suspended cable systems under a single concentrated load is examined and results are presented to demonstrate the effect of various parameters on the cable response. Variation in the magnitude and location of the applied load and the extensibility and initial tautness of the cable system are considered. For symmetrical cables, results are presented for loadings applied in each principal direction (horizontally in-plane, vertically and horizontally out-of-plane). The results for vertical loading are extended to cables in which the supports are at different elevations.
+
+
+    
+        AU - Geoffrey L. Kulak
+    
+        AU - John W. Fisher
+    
+
+TI - A514 Steel Joints Fastened by A490 Bolts
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2303-2324
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002091 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002091
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002091
+SO - Journal of the Structural Division 1968-10-01 94(10): 2303-2324
+AB - Results are reported of analytical and experimental studies of the behavior of construction alloy (ASH) butt splices which use A490 fasteners. Based on the results of previous theoretical work, the parameters that might be expected to affect the behavior of this type of joint were examined. This examination showed that the ultimate strength of these joints is a function of joint length and relative plate-fastener proportions, but is independent of fastener diameter or pitch. The validity of the previously developed theoretical work and the analytical studies reported herein have been verified by means of an extensive testing program. A comparison shows that the theoretical predictions are reliable, both for the ultimate load of the joint and for obtaining the distribution of load among the fasteners at loads less than ultimate. The experimental work also showed that blast-cleaned A514 steel has a slip coefficient of about 0.33. The study further showed that constructional alloy steel joints using A490 bolts do not produce desirable behavior in their adjoining members if the elements of the joint are proportioned according to currently used practice.
+
+
+    
+        AU - R. C. Fenwick
+    
+        AU - Thomas Paulay
+    
+
+TI - Mechanisms of Shear Resistance of Concrete Beams
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2325-2350
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002092 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002092
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002092
+SO - Journal of the Structural Division 1968-10-01 94(10): 2325-2350
+AB - The nature of shear resistance of reinforced concrete beams is examined, and it is shown that shear may be resisted in two different ways, namely by beam and arch actions. At the diagonal cracking load of the shear span, beam action breaks down. Unless the beam contains pre stressed reinforcement arch action cannot develop to an appreciable extent prior to the diagonal cracking. It is shown that the strength of beam action depends largely on the mechanism of shear transfer across the crack by interlocking of the aggregate particles, and to a lesser extent by dowel action of the reinforcement. Direct tests on aggregate interlock action show that this shear transfer increases with concrete strength, and a reduction in crack width. From tests the dowel capacity of bottom bars is found to be considerably greater than that of top bars. Beam tests illustrate the contradictions of these different mechanisms.
+
+
+    
+        AU - Alan H. Mattock
+    
+        AU - Sterling B. Johnston
+    
+
+TI - Behavior Under Load of Composite Box-Girder Bridges
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2351-2370
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002093 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002093
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002093
+SO - Journal of the Structural Division 1968-10-01 94(10): 2351-2370
+AB - Quarter and fifth scale models were tested of 80- and 100-ft span composite box-girder bridges made of trapezoidal shaped steel girders joined by stud shear connectors to a reinforced concrete deck slab. Observed behavior of the model bridges was in close agreement with behavior predicted by folded plate theory.
+
+
+    
+        AU - Gunnar A. Harstead
+    
+        AU - Charles Birnstiel
+    
+        AU - Keh-Chun Leu
+    
+
+TI - Inelastic H-Columns Under Biaxial Bending
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2371-2398
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002094 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002094
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002094
+SO - Journal of the Structural Division 1968-10-01 94(10): 2371-2398
+AB - A numerical procedure is presented for determining the displacements of an isolated H-column loaded eccentrically with respect to both principal axes of the end cross sections. The procedure is an indirect incremental-load analysis in which the strain history is considered. With this procedure the column behavior may be studied as the load is increased from zero to the ultimate carrying capacity of the member and for unloading accompanied by increasing displacements. The procedure is applicable to initially straight and untwisted columns made from an elastic-perfectly plastic material. Torsional warping of the end cross sections may be either permitted or prevented. The eccentricities of loading must be alike at both ends of the member. Residual thermal strains are accounted for in the analysis. Based on limited numerical studies it appears that warping restraint at the end cross sections increases the ultimate carrying capacity. The results also show that residual thermal strains present prior to loading have a significant influence on the deformational response and strength of columns under biaxial bending.
+
+
+    
+        AU - Ahmet H. Gursoy
+    
+
+TI - Lateral Wind on Side Spans of Suspension Bridges
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2399-2410
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002095 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002095
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002095
+SO - Journal of the Structural Division 1968-10-01 94(10): 2399-2410
+AB - Lateral wind on side spans of suspension bridges is examined. A generalized solution for the deflection of the side span is presented by means of dimensionless parameters. Existing suspension bridges with controlling ranges of side span characteristics are examined and limiting values for the side span parameters are selected accordingly. Curves for moment, reaction and deflection coefficients are presented for the purpose of rapid design.
+
+
+    
+        AU - Franklin Y. Cheng
+    
+
+TI - Dynamics of Frames with Nonuniform Elastic Members
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2411-2428
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002096 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002096
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002096
+SO - Journal of the Structural Division 1968-10-01 94(10): 2411-2428
+AB - Fundamental and higher characteristic values and characteristic vectors of frameworks with elastic or rigid members are obtained by an approximation of a dynamic structural matrix. The approximate method is derived based on the direct iteration procedure, and the reduced dynamic matrix. The dynamic structural matrix is composed of the product of the dynamic mass matrix and the mass flexibility matrix which is formulated from the structural configurations, and the elastic properties of the divided segments of the constituent nonuniform members. A computer program and numerical examples are provided of which eigenfunctions are tabulated and plotted. Significant differences or frequencies of the same structure with various considerations of rigid-body analysis versus elastic analysis, rigid-joint versus pin-connected joints are shown.
+
+
+    
+        AU - Charles Birnstiel
+    
+
+TI - Experiments on H-Columns Under Biaxial Bending
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2429-2450
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002097 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002097
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002097
+SO - Journal of the Structural Division 1968-10-01 94(10): 2429-2450
+AB - Twelve isolated steel H-columns were tested under loading eccentric with respect to both principal axes of the end-cross sections. The eccentricities of loading were substantially alike at both ends of the specimens. The columns were manufactured from various alloys. Both stress-relieved and as-rolled specimens were tested. In each experiment the load was applied to the column in increments until the ultimate carrying capacity of the column was reached, and then the specimen was unloaded incrementally so that unloading was accompanied by increasing lateral displacements and twist. Conclusions: (1) Dominant influence on ultimate load was bending about the minor principal axis of the cross section; (2) CRC interaction equation underestimates strength by a variable amount; and (3) adequate correspondence between observed deformational response and that predicted by indirect incremental computer solution.
+
+
+    
+        AU - Movses J. Kaldjian
+    
+        AU - William R. S. Fan
+    
+
+TI - Earthquake Response of a Ramberg-Osgood Structure
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2451-2466
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002098 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002098
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002098
+SO - Journal of the Structural Division 1968-10-01 94(10): 2451-2466
+AB - Response of a single-degree-of-freedom Ramberg-Osgood type structure subjected to strong-motion earthquakes as well as to steady-state oscillations is studied. The Ramberg-Osgood system is a realistic nonlinear nondeteriorating, hysteretic force deflection relation. Effects of different earthquakes, and degree of plasticity on the response for various ductility and energy ratios are two of the parameters considered. The principles and construction of the response spectra are examined in detail and a family of spectral curves presented. Elastic and elastoplastie results are compared.
+
+
+    
+        AU - M. Z. Cohn
+    
+
+TI - Limit Design of Reinforced Concrete Frames
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2467-2486
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002099 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002099
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002099
+SO - Journal of the Structural Division 1968-10-01 94(10): 2467-2486
+AB - A limit design method is presented in which load factors against all possible modes of structural collapse and against yield of all critical sections are prescribed. The design plastic moments are some fractions of the elastic envelope moments under the specified ultimate load. The design problem consists of solving a system of linear equations or inequalities expressing the limit equilibrium conditions in terms of the scale factors of the elastic envelope moments. The principles of the simple plastic theory can be used for finding feasible limit design solutions. Optimal solutions can be obtained in relation to given criteria such as minimum moment area or maximum economy versus elastic design by using the techniques of mathematical programming. Two examples illustrate the application of the method to simple building frames.
+
+
+    
+        AU - Phillip L. Gould
+    
+        AU - Seng-Lip Lee
+    
+
+TI - Closure to “Hyperbolic Cooling Towers Under Seismic Design Load”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2487-2493
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002100 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002100
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002100
+SO - Journal of the Structural Division 1968-10-01 94(10): 2487-2493
+
+
+    
+        AU - Joseph Vellozzi
+    
+
+TI - Closure to “Vibration of Suspension Bridges under Moving Loads”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2493-2494
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002101 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002101
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002101
+SO - Journal of the Structural Division 1968-10-01 94(10): 2493-2494
+
+
+    
+        AU - Tung-Ming Wang
+    
+        AU - D. C. Church
+    
+
+TI - Closure to “Analysis of Continuous Arch Frames”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2494-2496
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002102 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002102
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002102
+SO - Journal of the Structural Division 1968-10-01 94(10): 2494-2496
+
+
+    
+        AU - Sebastian von Hoerner
+    
+
+TI - Closure to “Homologous Deformations of Tiltable Telescopes”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2496-2497
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002103 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002103
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002103
+SO - Journal of the Structural Division 1968-10-01 94(10): 2496-2497
+
+
+    
+        AU - Leon Ru-Liang Wang
+    
+
+TI - Discussion of “Circular-Arc I-Type Girders”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2498-2502
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002105 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002105
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002105
+SO - Journal of the Structural Division 1968-10-01 94(10): 2498-2502
+
+
+    
+        AU - Joseph Schwaighofer
+    
+        AU - Anatol A. Eremin
+    
+        AU - Jacob Gluck
+    
+        AU - Menachem Gellert
+    
+
+TI - Discussion of “Analysis of Pierced Shear Walls”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2502-2505
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002106 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002106
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002106
+SO - Journal of the Structural Division 1968-10-01 94(10): 2502-2505
+
+
+    
+        AU - Mario G. Salvadori
+    
+        AU - David H. Geiger
+    
+
+TI - Discussion of “Integral Equation Method for a Corner Plate”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2506-2510
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002107 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002107
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002107
+SO - Journal of the Structural Division 1968-10-01 94(10): 2506-2510
+
+
+    
+        AU - Martin Margolin
+    
+
+TI - Discussion of “Shear-Volume Method of Solving Tensions in Cables”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2511-2511
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002108 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002108
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002108
+SO - Journal of the Structural Division 1968-10-01 94(10): 2511-2511
+
+
+    
+        AU - Bent Aksel Christensen
+    
+
+TI - Discussion of “Roof-Structure Roof-Drainage Interaction”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2512-2516
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002109 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002109
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002109
+SO - Journal of the Structural Division 1968-10-01 94(10): 2512-2516
+
+
+    
+        AU - N. Shanmughasundaram
+    
+        AU - Robert L. Longardner
+    
+
+TI - Discussion of “Frame Constant Matrices”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2516-2519
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002110 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002110
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002110
+SO - Journal of the Structural Division 1968-10-01 94(10): 2516-2519
+
+
+    
+        AU - Prabir K. Neogi
+    
+
+TI - Discussion of “Design of Steel-Encased Concrete Beam-Columns”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2519-2520
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002111 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002111
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002111
+SO - Journal of the Structural Division 1968-10-01 94(10): 2519-2520
+
+
+    
+        AU - Ralph J. Pschunder
+    
+
+TI - Erratum for “Tapered Towers with Variable Wall Thickness”
+PT - Journal Article
+DP - 1968
+TA - Journal of the Structural Division
+PG - 2497-2497
+VI - 94
+IP - 10
+AID - 10.1061/JSDEAG.0002104 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0002104
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0002104
+SO - Journal of the Structural Division 1968-10-01 94(10): 2497-2497
+
+

@@ -1,0 +1,502 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Parviz Soroushian
+    
+        AU - Mohamad Samer Alawa
+    
+
+TI - Hysteretic Modeling of Steel Struts: Refined Physical Theory Approach
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2903-2916
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(2903) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%282903%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%282903%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 2903-2916
+AB - The nonlinear behavior and failure mechanism of braced frames and trusses under static and dynamic loads tend to be strongly influenced by the inelastic‐buckling behavior of steel struts. The study reported herein has been concerned with analytical modeling of the nonlinear behavior of steel struts under generalized loading conditions. A computationally efficient formulation is presented for predicting the inelastic‐buckling behavior of steel struts under monotonic and cyclic loads. The proposed formulation incorporates approximate techniques to account for some critical aspects of the strut inelastic‐buckling behavior under generalized loads, including: (1) Partial plastification and degradation prior to full yielding at critical regions of struts under increasing loads; (2) sudden buckling of straight elements; and (3) degradation of strut stiffness and strength under repeated inelastic cyclic loads. The simplifying assumptions in the development of the proposed formulation were based on the observed physics of the strut behavior. The computational efficiency of the model results from its limited number of degrees of freedom as well as its compatibility with the stiffness method of structural analysis. The proposed formulation is shown to compare favorably with several monotonic and cyclic test results performed on struts with various material and geometric properties. In spite of some reliance on empirical refinements, the model has been largely based on theoretical concepts, and may thus be generally applicable and can be further refined and developed without conceptual problems.
+
+
+    
+        AU - Keh‐Chyuan Tsai
+    
+        AU - Egor P. Popov
+    
+
+TI - Cyclic Behavior of End‐Plate Moment Connections
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2917-2930
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(2917) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%282917%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%282917%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 2917-2930
+AB - Three tests on large‐size beam end‐plate moment connections to column flanges under severe cyclic loading are reported. Such connections are used in the erection of low‐rise Steel frames. Their use is advantageous where field welding is not advisable. In a conventionally designed end‐plate connection, premature fracture of one of the inside bolts in a four‐tension bolt type specimen occurs at a small number of cyclic load reversals. This clearly indicates unequal force distribution among the four‐tension bolts. The end plate of this specimen is then reinforced with rib stiffeners in line with the webs, and stronger bolts are installed. This specimen shows excellent behavior under large cyclic loads. An additional specimen with larger bolts and a slightly thicker end plate also shows superior performance. It is evident that because of beam strain hardening, the required bolts must be larger than in a conventional design. Recommendations for increasing the strength of connecting bolts for four‐tension bolt type of end‐plate connections in seismic design conclude the paper.
+
+
+    
+        AU - Bilal M. Ayyub
+    
+        AU - Young G. Sohn
+    
+        AU - Hamid Saadatmanesh
+    
+
+TI - Prestressed Composite Girders under Positive Moment
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2931-2951
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(2931) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%282931%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%282931%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 2931-2951
+AB - According to the 1986 U.S. Federal Highway Administration statistics, there are 575,607 bridges on the highway system. About half of these bridges are structurally deficient and/or functionally obsolete. To strengthen the structurally deficient bridges without replacing the girders, external prestressing techniques can be used. In this paper, the behavior of prestressed, composite steel‐concrete beams under positive bending moment is examined, and the benefits of different types of prestressing are compared. These specimens were tested to study various aspects of prestressed composite girders, including tendon type and profile. Two methods of analysis are discussed, i.e., the transformed area method and the strain compatibility method. The test results show that prestressing a composite girder increases the range of elastic behavior, reduces deflections, increases ultimate strength, and adds to the redundancy by providing multiple stress paths. Based on the experimental results, a comparison was made between three tendon types and profiles. It was concluded that strands are more effective than bars for the tendon type, and a straight tendon profile is more effective than a draped profile with regard to stiffness.
+
+
+    
+        AU - Yiren Wang
+    
+        AU - Jozsef Bodig
+    
+
+TI - Strength‐Grading Method for Wood Poles
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2952-2967
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(2952) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%282952%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%282952%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 2952-2967
+AB - Based on a nondestructive evaluation (NDE) system, a methodology is described to develop a strength‐grading method for wood utility poles. Considerations are given for both economics and engineering design aspects. The proposed NDE‐based grading system is calibrated to provide at least the same production economic benefit and structural reliability as currently exist with visually graded poles. However, even with these limitations, an additional reliability and hence an additional economic benefit is derived by enabling a better matching of pole strength with specific design loads. Use of currently rejected poles is possible with the proposed method. The proposed grading system retains the size classification concept currently used by the American National Standard Institute, but would upgrade or downgrade individual poles according to their NDE‐predicted strengths. Five strength grades are proposed that are calibrated to recently obtained bending strength data for transmission‐size Douglas fir poles.
+
+
+    
+        AU - John W. Fisher
+    
+        AU - Ben T. Yen
+    
+        AU - Dayi Wang
+    
+
+TI - Fatigue Strength of Riveted Bridge Members
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2968-2981
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(2968) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%282968%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%282968%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 2968-2981
+AB - Available experimental data frorm more than 1,200 previous fatigue tests and some fatigue and fracture tests on full‐scale members are compiled and examined in conjunction with the details and measured live load stresses in riveted bridges. It is found that the type of riveted detail does not significantly affect fatigue resistance, that AASHTO fatigue strength category D is a reasonable lower bound for the initial fatigue crack development, and that the fatigue strength of a riveted built‐up member effectively exceeds the category C resistance curve. It is also found that the primary members in riveted highway bridges seldom are subjected to stress ranges that exceed the category D fatigue limit, and thus are not likely to develop fatigue cracks. The riveted details most likely to develop cracks are those subjected to distortion or displacement‐induced stresses at connections. Corrosion can reduce the fatigue resistance, but the effect is not critical if the minimum remaining thickness is not less than one‐half of the original thickness. Recommendations are made for rating riveted highway bridges for fatigue damage.
+
+
+    
+        AU - M. Saiful Islam
+    
+        AU - Bruce Ellingwood
+    
+        AU - Ross B. Corotis
+    
+
+TI - Dynamic Response of Tall Buildings to Stochastic Wind Load
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 2982-3002
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(2982) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%282982%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%282982%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 2982-3002
+AB - A random vibration‐based procedure is used to estimate the dynamic responses of symmetric tall buildings (coincident centers of mass, rigidity, and geometry) subjected to the effects of wind. The along‐wind, across‐wind, and torsional components of wind force were obtained from a time‐series analysis of surface pressures measured during a wind‐tunnel test of a rigid model. The structural response analysis takes the statistical correlation among these three components of aerodynamic force into account. The contributions of the first and second translational and torsional modes to the response are investigated. The across‐wind and torsional accelerations are the major contributors to building acceleration. A simple approach is developed for evaluating the response statistics that are important for building serviceability. This approach can be used in the preliminary design stage to assess the possibility of unserviceability and the need for more detailed and expensive wind‐tunnel model tests.
+
+
+    
+        AU - Edward F. Sarisley
+    
+        AU - Michael L. Accorsi
+    
+
+TI - Prestress Level in Stress‐Laminated Timber Bridges
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3003-3019
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(3003) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283003%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283003%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 3003-3019
+AB - An important consideration in stress‐laminated timber bridges is the retention of the prestress force in the deck. This paper presents the results of an experimental and analytical investigation of the prestress level in a prototype stress‐laminated timber‐bridge deck. Loss of prestress force can be minimized using disc springs on the tensioning rods that reduce the effective stiffness of the prestressing system. The disc springs also provide a practical technique for measuring prestress force. It is also shown that the initial loss of prestress force due to wood creep can be accurately modeled as a power function of time and that this model can be used for predictive purposes. The effect of temperature changes on the prestress level is investigated, and it is demonstrated that this is a significant effect that should be included in future design specifications. Finally, the performance of the distribution channel is evaluated analytically and a performance parameter is identified.
+
+
+    
+        AU - Rajan Sen
+    
+        AU - David S. Hodge
+    
+
+TI - Ultimate Capacity of Biaxially Prestressed Members
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3020-3038
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(3020) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283020%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283020%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 3020-3038
+AB - An approximate one‐dimensional analysis is developed to determine the ultimate bending capacity of longitudinally and transversely prestressed members. The effect of transverse prestress is incorporated by using biaxial stress‐strain relations in a strain compatibility analysis. By selecting appropriate biaxial parameters, a lower‐bound estimate of the increase in moment capacity due to transverse prestress can be obtained. The calculation of biaxial parameters is illustrated and results of parametric studies showing the effect of variation in the magnitude of transverse prestress on the ultimate capacity are presented and discussed.
+
+
+    
+        AU - Bruno Massicotte
+    
+        AU - Alaa E. Elwi
+    
+        AU - James G. MacGregor
+    
+
+TI - Tension‐Stiffening Model for Planar Reinforced Concrete Members
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3039-3058
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(3039) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283039%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283039%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 3039-3058
+AB - This paper introduces a simple, practical, and operational two‐dimensional hypoelastic model for reinforced concrete with emphasis on a new approach for the description of tension stiffening. The tension‐softening behavior of plain concrete members and, tension‐stiffening behavior of reinforced concrete members are described. A new approach to define the post‐cracking stress‐strain curve of concrete in a reinforced concrete member for finite element analysis is proposed. In this method, all the main parameters influencing the behavior of concrete in a reinforced concrete member in tension are taken into account. It is a global approach in which the average effect over a region is modeled. A simple incremental hypoelastic model for concrete in plane‐stress conditions is presented in which two types of fixed crack model and two types of rotating crack model are considered. The model predictions are compared with the results of tests of reinforced concrete members in uniaxial tension, of reinforced concrete panels in shear, and of reinforced concrete plates, simply supported along their four sides and loaded axially and laterally.
+
+
+    
+        AU - Reidar Bjorhovde
+    
+        AU - Andre Colson
+    
+        AU - Jacques Brozzetti
+    
+
+TI - Classification System for Beam‐to‐Column Connections
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3059-3076
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(3059) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283059%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283059%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 3059-3076
+AB - The actual response characteristics of a frame and its connections are nonlinear, and current studies of analysis and design methods aim to incorporate such semirigid concepts into the models. Elements of this approach are incorporated in earlier steel design specifications, through Type 3 connections, and codes in several areas of the world now reflect further refinements of this philosophy. With the large variety of connection types that are used in practice, it is infeasible to utilize the properties of individual connections. The paper develops a scheme whereby connections can be classified in terms of strength, stiffness, and ductility, using tests and theoretical data. Some special cases are also considered, such as connections with softening‐stiffening characteristics, connections with low ductility, and connections with properties that vary as a function of the applied load sense. The classification system is arranged such that new connection types can easily fit into the current data base.
+
+
+    
+        AU - S. L. Lee
+    
+        AU - S. Tumilar
+    
+        AU - H. C. Chin
+    
+
+TI - Column Load Balancing in Prestressed Concrete Building
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3077-3089
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(3077) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283077%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283077%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 3077-3089
+AB - Architectural and structural considerations in the design of the 27‐story Wisma Dharmala office complex in Jakarta lead to the deployment of twincolumn clusters around the perimeter and interior of the tower block. Due to the large difference in axial loads between the twin columns, excessive differential axial shortening between the columns and high shear stresses in the connecting horizontal structural components are expected. To mitigate this condition, the column load balancing method is proposed, in which the cable profiles in the prestressed girders are designed not only for moment balancing but also to transfer evenly the shear forces in the girders to the twin columns in each cluster. The effect of load balancing is examined in this paper with the use of a simple analytical model. The predicted loads on the columns are also checked against field measurements taken from three pairs of twin columns from the time the columns are cast until the casting of the helipad floor.
+
+
+    
+        AU - Russell D. Call
+    
+        AU - Reidar Bjorhovde
+    
+
+TI - Wood Connections with Heavy Bolts and Steel Plates
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3090-3107
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(3090) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283090%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283090%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 3090-3107
+AB - Due to some recent failures, the use of large‐diameter bolts in timber connections appears to be questionable. The design procedure used today is mostly based on research that was performed in 1932. This paper presents the results of a study that was conducted to examine current design practices for bolts of 1 and 1.5 in. (25 and 38 mm) diameter in the low l/d ratio range, when the connection is loaded perpendicular to grain by steel side plates. In addition, bolt‐modification factors and specification design geometry are examined for multiple bolt connections. The results are evaluated by comparison to yield theory as well as current design criteria. The correlation with yield theory and the results of other researchers is good for 1 in. (25 mm) diameter bolts; the 1.5 in. (38 mm) bolts did not perform as well as expected. The findings indicate that the current bolt‐modification factors may be unconservative for six bolt connections. Additionally, 1.5 in. (38 mm) diameter bolts exhibit reduced normalized bearing strengths in the low l/d range. The design values for the 1 in. (25 mm) diameter bolts appear to be conservative.
+
+
+    
+        AU - Fernando Medina
+    
+        AU - José Dominguez
+    
+        AU - John L. Tassoulas
+    
+
+TI - Response of Dams to Earthquakes Including Effects of Sediments
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3108-3121
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(3108) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283108%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283108%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 3108-3121
+AB - Using a technique based on the boundary element method, results are obtained for two‐dimensional dam‐water‐sediments‐foundation systems subjected to ground motion. Both deep‐stratum and half‐space idealizations of the foundation are considered. The results confirm the findings of previous investigations with respect to dam‐water and dam‐foundation interactions. However, they are in contrast with some of the results of an earlier study obtained using the so‐called “wave reflection coefficient” approach when considering dam‐water‐foundation systems. Specifically, in the case of a half‐space foundation and a full reservoir, the “wave reflection coefficient” approach leads to substantial underestimation (approximately 24% for the system considered) of the peak value of the crest horizontal acceleration due to time‐harmonic horizontal ground motion. Apparently, this is due to the excessive damping introduced into the dam‐water‐foundation system by the absorbing boundary condition imposed on the bottom of the reservoir in the “wave reflection coefficient” approach.
+
+
+    
+        AU - John J. Zahn
+    
+
+TI - Empirical Failure Criteria with Correlated Resistance Variables
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3122-3137
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(3122) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283122%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283122%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 3122-3137
+AB - When a member is subjected to combined loading, such as combined bending and compression, the failure criterion contains more than one resistance variable. This paper addresses the practical effects of correlation among those resistance variables, both during the experimental inference of the failure criterion itself and during subsequent reliability analyses that employ it. There are two main findings. The first, of interest to experimental researchers, is that the mean failing load of a population is always less than the load that would be obtained from the exact (but as yet unknown) failure criterion applied to an individual member, provided that the failure criterion is concave downward, as all realistic engineering failure criteria are likely to be. The second finding, of interest to reliability analysts, is that the reliability of a member under combined loading is at a minimum when the resistance variables are maximally correlated. It is therefore conservative to assume perfect correlation. In that case, the problem is effectively univariate, that is, the effects of less‐than‐perfect correlation may be safely and conveniently ignored.
+
+
+    
+        AU - Salahuddin Ahmed
+    
+        AU - Benjamin Koo
+    
+
+TI - Improved Reliability Bounds of Structural Systems
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3138-3147
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(3138) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283138%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283138%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 3138-3147
+AB - A set of generalized and improved reliability bounds is developed to obtain very narrow upper and lower limits of the probability of failure of a structural system with known performance functions and basic variables. It is assumed that the basic variables are distributed normally due to the central limit theorem. The improved bounds are compared with second‐order and Monte Carlo solutions. The amount of calculations involved is the same as in second‐order bounds. The developed technique requires the evaluation of joint failure probabilities as required in second‐order bound. However, unlike in second‐order bound, the technique takes into account the effect of intersection of joint failure probabilities. The degree of improvement over second‐order bound seems to depend on correlation among failure modes as well as the absolute value of the probability of failure. The developed method can also be applied to other systems, provided the performance functions are known and the central limit theorem is applicable to the basic variables.
+
+
+    
+        AU - Raed M. Samra
+    
+
+TI - Ductility Analysis of Confined Columns
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3148-3161
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(3148) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283148%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283148%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 3148-3161
+AB - This paper describes in detail the weakness of the procedure in the American Concrete Institute (ACI) Building Code used for detailing columns for ductility. It also presents an approach for calculating the amount of transverse steel required in confined columns at various load levels by using idealized stress‐strain diagrams for confined concrete and steel, moment‐curvature curves, and a suggested ductility requirement in which the criterion is specified as the attainment of a curvature factor of 12 at a moment capacity of not less than 75% of the maximum moment capacity. The new approach is more realistic than that of the ACI code, which assumes the function of the transverse reinforcement is to compensate for the loss of the cover concrete. This is particularly important in columns acted upon by a combination of axial load, bending, and shear forces. The controversy surrounding this issue is briefly discussed.
+
+
+    
+        AU - Edmund C. C. Choi
+    
+
+TI - Live Load for Office Buildings: Effect of Occupancy and Code Comparison
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3162-3174
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(3162) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283162%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283162%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 3162-3174
+AB - The present paper presents results of a live‐load survey in office buildings. A live‐load model for the calculation of lifetime maximum total load is calibrated by using the Sydney survey data. Loading characteristics for government and nongovernment occupancies are compared. Sustained load for government occupancy is observed to be greater. However, as the frequency of occupancy change is much higher for nongovernment occupancies, their lifetime maximum sustained load for small areas becomes larger. For large and medium areas, government occupancy still has higher loading. Three types of extraordinary load are identified. Parameters for all three types of government occupancy have higher values than nongovernment ones. The maximum mean extraordinary load and also the lifetime maximum total load are substantially larger for government occupancy. The 95% fractile lifetime total load predicted by the model is compared with the Standard Association of Australia (SAA) loading code, American Building Officials and Code Administrators (BOCA) building code, and the U.K. loading code.
+
+
+    
+        AU - R. A. Bucklin
+    
+        AU - S. A. Thompson
+    
+        AU - I. J. Ross
+    
+
+TI - Bin‐Wall Failure Caused by Eccentric Discharge of Free‐Flowing Grain
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3175-3190
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(3175) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283175%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283175%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 3175-3190
+AB - The method of eccentric or side discharge is sometimes used by the grain storage industry, but the loads generated by this unloading technique are not yet fully understood by designers. Because of this lack of full understanding, many grain bins unloaded using this method have failed. Several methods of predicting the pressures generated by the eccentric discharge of grain are reviewed and compared to the observed behavior of a test bin as it was loaded to failure. Failure by yielding of wall material and failure by elastic buckling of the bin wall are both found to be possible. The use of the pressures predicted using methods suggested by the American Concrete Institute and the Farm Building Information Centre result in reasonable estimates of the required bin wall thickness, but no existing theory can be used with full confidence. Until the development of a theory that accurately describes the behavior of eccentrically unloaded grain bins, this method of unloading grain bins should be avoided if at all possible.
+
+
+    
+        AU - Vladimir Novokshchenov
+    
+
+TI - Prestressed Bridges and Marine Environment
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3191-3205
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(3191) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283191%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283191%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 3191-3205
+AB - A study was made of the corrosion of prestressing steel in bridge components exposed to a marine environment using analytical procedures and available techniques developed for conventional reinforced concrete structures. Four bridges were examined. Based on results of the study, it appears that in a marine environment the seawater and the seawater spray are major carriers of sufficient chloride salts to cause corrosion of prestressing steel. The atmosphere surrounding a bridge is not aggressive enough to cause any noticeable corrosion‐related distress in bridge members. The primary pathway for the ingress of chloride ions is through a concrete cover, sheathing, and grouting. Chlorides may also be deposited on the surface of a deck slab by vehicle tires and later washed down through deficient expansion/contraction joints to anchorages and tendons in end areas of pre‐ and posttensioned girders. Among major factors affecting the extent of corrosion‐related distress in prestressed bridge members are the following: time of exposure to direct action of the seawater, concentration of chlorides at the level of reinforcement, condition of expansion/contraction joints, permeability of concrete, thickness of concrete cover, quality of grouting, as well as the type of sheathing in prestressing tendons.
+
+
+    
+        AU - Thomas T. C. Hsu
+    
+
+TI - Shear Flow Zone in Torsion of Reinforced Concrete
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3206-3226
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(3206) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283206%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283206%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 3206-3226
+AB - Rausch's classical formula overestimates the torsional strength of reinforced concrete members to an unacceptable degree. The error is traced to the incorrect determination of the centerline of the circulating shear flow. The position of the centerline of shear flow is directly related to the thickness of the shear flow zone (td). The determination of td in torsion is analogous to the determination of the depth of the compression zone in bending. This paper presents a simple theoretical method to calculate td based on the softened truss model theory. The method utilizes the equilibrium and compatibility conditions, as well as a softened stress‐strain relationship for concrete struts. Since td is calculated by a rigorous procedure, an accurate torsional strength can be predicted. The prediction of the torsional strengths of 61 beams found in the literature compares extremely well with the test values. In addition, a very simple formula for td is also proposed for the practical design of members subjected to torsion.
+
+
+    
+        AU - Young J. Park
+    
+
+TI - Fatigue of Concrete under Random Loadings
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3228-3235
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(3228) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283228%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283228%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 3228-3235
+AB - A fatigue model is presented for plain concrete subjected to random loadings in compression. Hysteretic nonlinear behavior of concrete is incorporated to express the cumulative fatigue damage in terms of the residual plastic strain. A dual-coordinate system is used to model the envelope curve in compression and the hysteresis loops within the envelope curve. The equivalent linearization technique is utilized to obtain the root-mean-square (RMS) response statistics of hysteretic nonlinear behavior of concrete. Available fatigue test data are analyzed to obtain an optimal form of damage function and calibrate the model. Constant amplitude and random loading tests are used for this purpose. A practical formulation is presented to evaluate fatigue failure probability based on the assumption that the loadings are narrow-banded Gaussian processes. The variabilities both in loading and capacity are incorporated in the formulation. The method can be used to evaluate the fatigue damage and failure probability of critical elements in the reliability analysis of concrete structures.
+
+
+    
+        AU - David S. Chilton
+    
+        AU - Jerzy W. Wekezer
+    
+
+TI - Plates on Elastic Foundation
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3236-3241
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(3236) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283236%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283236%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 3236-3241
+AB - Analysis of rectangular plates resting on a Winkler-type, one-parameter foundation is studied. The finite element method is applied and a 12-degree-of-freedom, nonconforming rectangular plate element is adopted. Based on shape functions of the plate element, an energy approach is used to derive a closed-form, 12-by-12, consistent foundation stiffness matrix for a rectangular plate on an elastic subgrade. A commonly used method of modeling structural elements on an elastic foundation is the application of discrete springs at the element nodes. The model developed in this paper is compared with the discrete spring model and the convergence of both models is discussed. The convergence of the models is compared with the well-known classical solution of plates on elastic foundation developed in the 1950s. Both models show good convergence to the classical solution. The continuous subgrade response model converges in a manner more consistent with the flexibility of the plate element.
+
+
+    
+        AU - R. A. Behr
+    
+        AU - E. J. Grotton
+    
+        AU - C. A. Dwinal
+    
+
+TI - Revised Method of Approximate Structural Analysis
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3242-3247
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(3242) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283242%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283242%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 3242-3247
+AB - A reliable and reasonably accurate approximate method of structural analysis for symmetric rectangular frames under symmetric vertical loadings is developed. For a fully loaded structure, the following set of assumptions gives acceptable results: (1) Girder inflection points exist at approximately 0.1L and 0.9L along each girder span; and (2) column inflection points exist at 0.33 I for first-story columns with fixed bases, 0.4H for top-story columns, and midheight of all remaining columns. For a checkerboard loading, the following set of assumptions is appropriate: (1) Girder inflection points exist at approximately 0.1L and 0.9L along each girder span; and (2) column inflection points exist at 0.33L for first-story columns with fixed bases, 0.2H for exterior columns that directly support a loaded girder, and at the bases of all remaining columns. Solutions from these two revised approximate methods are superior to solutions from a slightly different set of assumptions found in many contemporary structural analysis textbooks.
+
+
+TI - Erratum: “Nonlinear Analyses of Axisymmetric Membranes with Shooting Method” by Boris L. Krayterman (July, 1990, Vol. 116, No. 7)
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3249-3249
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(3249) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283249%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283249%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 3249-3249
+
+
+TI - Erratum: “Predicting Roof Snow Loads on Gabled Structures” by Ronald L. Krayterman (July, 1990, Vol. 116, No. 7)
+PT - Journal Article
+DP - 1990
+TA - Journal of Structural Engineering
+PG - 3249-3249
+VI - 116
+IP - 11
+AID - 10.1061/(ASCE)0733-9445(1990)116:11(3249.2) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283249.2%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%281990%29116%3A11%283249.2%29
+SO - Journal of Structural Engineering 1990-11-01 116(11): 3249-3249
+
+

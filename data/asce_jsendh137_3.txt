@@ -1,0 +1,387 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Erol Kalkan
+    
+        AU - Nicolas Luco
+    
+
+TI - Special Issue on Earthquake Ground-Motion Selection and Modification for Nonlinear Dynamic Analysis of Structures
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 277-277
+VI - 137
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000355 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000355
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000355
+SO - Journal of Structural Engineering 2011-03-01 137(3): 277-277
+
+
+    
+        AU - YeongAe Heo
+    
+        AU - Sashi K. Kunnath
+    
+        AU - Norman Abrahamson
+    
+
+TI - Amplitude-Scaled versus Spectrum-Matched Ground Motions for Seismic Performance Assessment
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 278-288
+VI - 137
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000340 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000340
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000340
+SO - Journal of Structural Engineering 2011-03-01 137(3): 278-288
+AB - The need to consider only a small number of ground motions combined with the complexities of response sensitivity to both modeling choices and ground motion variability calls for an assessment of current ground motion selection and modification methods used in seismic performance evaluation of structures. Since the largest source of uncertainty and variability arises from ground motion selection, this study examines the suitability of two ground motion modification (GMM) schemes: magnitude scaling (wherein the ground motion is uniformly scaled so that the resulting spectrum matches the amplitude of the design spectrum at the structural fundamental period) and spectrum matching. Comprehensive nonlinear time-history (NTH) simulations of two reinforced concrete moment frame buildings are carried out to evaluate the GMM approaches in the context of seismic demand prediction. Findings from the investigation indicate that spectrum matching is generally more stable than scaling both in terms of the bias as well as the resulting dispersion in the predicted demands. It is also concluded that seven ground motions are inadequate to establish median demands for taller frames where multiple modes influence structural response. Both methods are found to be sensitive to the choice of records for the cases investigated in this study.
+
+
+    
+        AU - Damian N. Grant
+    
+
+TI - Response Spectral Matching of Two Horizontal Ground-Motion Components
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 289-297
+VI - 137
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000227 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000227
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000227
+SO - Journal of Structural Engineering 2011-03-01 137(3): 289-297
+AB - Accurate performance-based earthquake engineering analysis requires that engineering seismologists and structural analysts employ consistent characterizations of bidirectional seismic demand. In current design, the seismic demand is generally given as a geometric mean response spectrum, which does not give a direct measure of the maximum spectral demand for all possible orientations of the ground motion with respect to the axes of the structure. Although this may be appropriate for most applications, it is shown that for some structures in which the lateral-load resisting system is not decoupled into two orthogonal subsystems, the maximum rotated spectral demand (major axis demand) may be the most appropriate characterization of bidirectional seismic hazard. On the basis of this observation, a new program is developed for matching the major and minor axis spectra of two horizontal ground-motion components simultaneously to two target spectra, using wavelets. The program, RspMatchBi, is based on the original single-component version of the code, RspMatch2005, written by Hancock and coworkers. It is shown in an example application that the new program can effectively match the major and minor axis spectra of the record to two individual target spectra, where the two targets are representative of either expected major and minor axis demand or the mean demand. The latter may be used to derive effectively orientation-independent ground motions.
+
+
+    
+        AU - Erol Kalkan
+    
+        AU - Anil K. Chopra
+    
+
+TI - Modal-Pushover-Based Ground-Motion Scaling Procedure
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 298-310
+VI - 137
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000308 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000308
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000308
+SO - Journal of Structural Engineering 2011-03-01 137(3): 298-310
+AB - Earthquake engineering is increasingly using nonlinear response history analysis (RHA) to demonstrate the performance of structures. This rigorous method of analysis requires selection and scaling of ground motions appropriate to design hazard levels. This paper presents a modal-pushover-based scaling (MPS) procedure to scale ground motions for use in a nonlinear RHA of buildings. In the MPS method, the ground motions are scaled to match to a specified tolerance, a target value of the inelastic deformation of the first-mode inelastic single-degree-of-freedom (SDF) system whose properties are determined by the first-mode pushover analysis. Appropriate for first-mode dominated structures, this approach is extended for structures with significant contributions of higher modes by considering elastic deformation of second-mode SDF systems in selecting a subset of the scaled ground motions. Based on results presented for three actual buildings—4, 6, and 13-story—the accuracy and efficiency of the MPS procedure are established and its superiority over the ASCE/SEI 7-05 scaling procedure is demonstrated.
+
+
+    
+        AU - Yin-Nan Huang
+    
+        AU - Andrew S. Whittaker
+    
+        AU - Nicolas Luco
+    
+        AU - Ronald O. Hamburger
+    
+
+TI - Scaling Earthquake Ground Motions for Performance-Based Assessment of Buildings
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 311-321
+VI - 137
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000155 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000155
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000155
+SO - Journal of Structural Engineering 2011-03-01 137(3): 311-321
+AB - The impact of alternate ground-motion scaling procedures on the distribution of displacement responses in simplified structural systems is investigated. Recommendations are provided for selecting and scaling ground motions for performance-based assessment of buildings. Four scaling methods are studied, namely, (1)&nbsp;geometric-mean scaling of pairs of ground motions, (2)&nbsp;spectrum matching of ground motions, (3)&nbsp;first-mode-period scaling to a target spectral acceleration, and (4)&nbsp;scaling of ground motions per the distribution of spectral demands. Data were developed by nonlinear response-history analysis of a large family of nonlinear single degree-of-freedom (SDOF) oscillators that could represent fixed-base and base-isolated structures. The advantages and disadvantages of each scaling method are discussed. The relationship between spectral shape and a ground-motion randomness parameter, ε, is presented. A scaling procedure that explicitly considers spectral shape is proposed.
+
+
+    
+        AU - Jack W. Baker
+    
+
+TI - Conditional Mean Spectrum: Tool for Ground-Motion Selection
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 322-331
+VI - 137
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000215 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000215
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000215
+SO - Journal of Structural Engineering 2011-03-01 137(3): 322-331
+AB - A common goal of dynamic structural analysis is to predict the response of a structure subjected to ground motions having a specified spectral acceleration at a given period. This is important, for example, when coupling ground-motion hazard curves from probabilistic seismic hazard analysis (PSHA) with results from dynamic structural analysis. The prediction is often obtained by selecting ground motions that match a target response spectrum and using those ground motions as input to dynamic analysis. The commonly used uniform hazard spectrum (UHS) is shown here to be an unsuitable target for this purpose, as it conservatively implies that large-amplitude spectral values will occur at all periods within a single ground motion. An alternative, termed a conditional mean spectrum (CMS), is presented here. The CMS provides the expected (i.e., mean) response spectrum, conditioned on occurrence of a target spectral acceleration value at the period of interest. It is argued that this is the appropriate target response spectrum for the goal described above and is thus a useful tool for selecting ground motions as input to dynamic analysis. The CMS is described, its advantages relative to the UHS are explained, and practical guidelines for use in ground-motion selection are presented. Recent work illustrating the impact of this change in target spectrum on resulting structural response is briefly summarized.
+
+
+    
+        AU - Curt B. Haselton
+    
+        AU - Jack W. Baker
+    
+        AU - Abbie B. Liel
+    
+        AU - Gregory G. Deierlein
+    
+
+TI - Accounting for Ground-Motion Spectral Shape Characteristics in Structural Collapse Assessment through an Adjustment for Epsilon
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 332-344
+VI - 137
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000103 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000103
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000103
+SO - Journal of Structural Engineering 2011-03-01 137(3): 332-344
+AB - One of the challenges of assessing structural collapse performance is the appropriate selection of ground motions for use in the nonlinear dynamic collapse simulation. The ground motions should represent characteristics of extreme ground motions that exceed the ground-motion intensities considered in the original building design. For modern buildings in the western United States, ground motions that cause collapse are expected to be rare high-intensity motions associated with a large magnitude earthquake. Recent research has shown that rare high-intensity ground motions have a peaked spectral shape that should be considered in ground-motion selection and scaling. One method to account for this spectral shape effect is through the selection of a set of ground motions that is specific to the building’s fundamental period and the site hazard characteristics. This selection presents a significant challenge when assessing the collapse capacity of a large number of buildings or for developing systematic procedures because it implies the need to assemble specific ground-motion sets for each building. This paper proposes an alternative method, whereby a general set of far-field ground motions is used for collapse simulation, and the resulting collapse capacity is adjusted to account for the spectral shape effects that are not reflected in the ground-motion selection. The simplified method is compared with the more direct record selection strategy, and results of the two approaches show good agreement.
+
+
+    
+        AU - Nicola Buratti
+    
+        AU - Peter J. Stafford
+    
+        AU - Julian J. Bommer
+    
+
+TI - Earthquake Accelerogram Selection and Scaling Procedures for Estimating the Distribution of Drift Response
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 345-357
+VI - 137
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000217 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000217
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000217
+SO - Journal of Structural Engineering 2011-03-01 137(3): 345-357
+AB - The problem of selecting a suite of earthquake accelerograms for time-domain analyses is of particular practical and academic interest. Research in this field has led to numerous approaches for compiling suites of accelerograms that may be used to robustly estimate the median structural response. However, many applications in earthquake engineering require the estimation of the full distribution of a structural response parameter for a particular predefined scenario. This article presents an efficient procedure whereby the distributions of interstory or roof drifts may be well approximated. The procedure makes use of three-point approximations to continuous distributions and the strong correlation that exists between the spectral acceleration at the initial fundamental period of the structure and the drift response. The distributions obtained under the proposed approach are compared with a reference distribution assumed to represent the true underlying distribution of drift response. The reference distribution is defined through a regression analysis conducted on the results of time-domain analyses of a six-story reinforced-concrete frame building subjected to 1,666 unscaled natural accelerograms. The results indicate that robust estimates of the first and second moments of the distribution of logarithmic drift may be obtained by subjecting the structure to several accelerograms scaled to match three target spectra over a range of periods. The target spectra are defined by the numbers of standard deviations above or below the median 5%-damped spectral acceleration and correspond to the roots of a third-order Hermite polynomial. The results demonstrate that consideration of fifth-order Hermite polynomials does not lead to a significantly improved performance of the approach.
+
+
+    
+        AU - E. M. Hines
+    
+        AU - L. G. Baise
+    
+        AU - S. S. Swift
+    
+
+TI - Ground-Motion Suite Selection for Eastern North America
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 358-366
+VI - 137
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000258 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000258
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000258
+SO - Journal of Structural Engineering 2011-03-01 137(3): 358-366
+AB - Ground-motion suite selection for Eastern North America (ENA) is distinguished from suite selection for high seismic regions by uncertainty related to earthquake intensity, spectral shape, and the wide range of relevant periods experienced by low-ductility structures. Whereas trends in high seismic regions point toward developing smaller, more efficient suites for use in practice based on reliable intensity parameters, current research on moderate seismic regions requires the development of ground-motion suites capable of exciting the widest range of structural periods while accounting for uncertainty related to ground-motion intensity. This paper discusses uncertainty related to ENA ground motions in terms of the logic tree in the probabilistic seismic hazard analysis (epistemic uncertainty) and the deaggregation of hazard into magnitude and distance bins (aleatory uncertainty), recommends a suite selection process for addressing this uncertainty without amplitude scaling, and evaluates the effectiveness of a specific suite in the context of reliability-based performance assessment procedures.
+
+
+    
+        AU - Angelo Masi
+    
+        AU - Marco Vona
+    
+        AU - Marco Mucciarelli
+    
+
+TI - Selection of Natural and Synthetic Accelerograms for Seismic Vulnerability Studies on Reinforced Concrete Frames
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 367-378
+VI - 137
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000209 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000209
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000209
+SO - Journal of Structural Engineering 2011-03-01 137(3): 367-378
+AB - The choice of seismic input utilized in the evaluation of structural response is determined by the scope of the analysis, namely, the design of new buildings or damage scenarios on existing buildings. Further, a decision has to be made regarding the intensity measure better able to represent the damage potential of the earthquake. This work reports the results of a large set of nonlinear dynamic analyses on structural types representing reinforced concrete buildings widely present in the Italian and European built environments. Seismic input comes from both natural recordings and synthetic data. The maximum interstory drift has been selected as the response parameter better able to represent the structural and nonstructural damage level. The use of a computer code able to generate spectrum-compatible accelerograms showed that synthetic data provide output that is closer to a natural recording when the accelerograms are not forced to converge to a code response spectrum. The Housner intensity proved to be the more effective intensity measure for selecting the seismic input, providing a monotone and almost linear scaling of output.
+
+
+    
+        AU - G. P. Cimellaro
+    
+        AU - A. M. Reinhorn
+    
+        AU - A. D’Ambrisi
+    
+        AU - M. De Stefano
+    
+
+TI - Fragility Analysis and Seismic Record Selection
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 379-390
+VI - 137
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000115 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000115
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000115
+SO - Journal of Structural Engineering 2011-03-01 137(3): 379-390
+AB - This paper explores the influence of spectrum-matched and amplitude-scaled ground motions on the development of fragility functions for structures. The quantification of the influence of these two types of ensembles on ground motions in predicting demands of structural and nonstructural systems is addressed. Moreover, the paper investigates the sensitivity of number of accelerograms in the ensembles, which produces consistent results in the nonlinear analyses. A multidegree-of-freedom (MDOF) inelastic shear-type building is used in the evaluations. The median and the dispersion of different types of damage measures are evaluated at each story and the effect of different levels of nonlinearity is investigated. Fragility functions are developed for structural and nonstructural components using the maximum likelihood method from the response generated with the selected ground motions. The sufficient number of ground motions necessary in the estimation of the response parameters and on the evaluation of the fragility functions is presented herein.
+
+
+    
+        AU - Riki Honda
+    
+        AU - Tauqir Ahmed
+    
+
+TI - Design Input Motion Synthesis Considering the Effect of Uncertainty in Structural and Seismic Parameters by Feature Indexes
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 391-400
+VI - 137
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000085 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000085
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000085
+SO - Journal of Structural Engineering 2011-03-01 137(3): 391-400
+AB - Various aspects of earthquakes and structures have inherent uncertainty, and this consideration is essential for seismic design. It makes the input ground-motion selection for seismic design a difficult task, especially when nonlinear dynamic analysis of the structure is utilized. This paper presents a simple scheme to deal with the problem. First, a set of possible ground motions that reflects the effect of uncertainty is considered. The set is described by feature indexes that take into consideration the effect of ground motions on structural behaviors. Second, the ground motion that represents the set in terms of the feature indexes is synthesized as a design ground motion. A scheme to synthesize a ground motion to represent the set is also presented. The ground motion is synthesized by iteratively modifying its time-frequency characteristics using wavelet functions to improve the values of feature indexes. As numerical simulations, design ground motion for a pier structure is synthesized considering uncertainty of ground motions and structural parameters. The synthesized ground motion shows good performance as a design input motion, and the usefulness of the proposed scheme is verified.
+
+
+    
+        AU - Koray Kadas
+    
+        AU - Ahmet Yakut
+    
+        AU - Ilker Kazaz
+    
+
+TI - Spectral Ground Motion Intensity Based on Capacity and Period Elongation
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 401-409
+VI - 137
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000084 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000084
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000084
+SO - Journal of Structural Engineering 2011-03-01 137(3): 401-409
+AB - Ground motion intensity parameters are used to express the relationship between expected structural damage and the seismic forces imposed. The graphical representation of damage probability as a function of ground motion intensity leads to fragility curves that are generally used in loss estimation studies. The most typical parameters used to represent the ground motion intensity are peak ground acceleration, peak ground velocity, spectral acceleration, and spectral displacement. Other parameters obtained from the ground motion trace and response spectra have been recommended in literature, but no consensus on which intensity parameter to use exists because of the various drawbacks of these ground motion intensities. A new spectrum ground motion intensity parameter that relies on the expected elongated period of the structure under seismic forces has been developed. This intensity measure takes into account the approximate yield capacity of the structure and the area between the fundamental and elongated period of the structure under the elastic response spectrum of the given ground motion. The correlation of this intensity measure with the calculated demand parameter, maximum interstory drift in our case, is investigated for a set of 100 ground motion records in order to verify its accuracy. This intensity measure is primarily proposed for the selection of ground motions to be used for the analyses of individual structures that are desired to respond at various levels of nonlinearity.
+
+
+    
+        AU - Bryce W. Dickinson
+    
+        AU - Henri P. Gavin
+    
+
+TI - Parametric Statistical Generalization of Uniform-Hazard Earthquake Ground Motions
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 410-422
+VI - 137
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000330 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000330
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000330
+SO - Journal of Structural Engineering 2011-03-01 137(3): 410-422
+AB - Sets of ground-motion records used for seismic hazard analyses typically have intensity measures corresponding to a particular hazard level for a site (perhaps conditioned on a particular intensity value and hazard). In many cases the number of available ground motions that match required spectral ordinates and other criteria (such as duration, fault rupture characteristics, and epicentral distance) may not be sufficient for high-resolution seismic hazard analysis. In such cases it is advantageous to generate additional ground motions using a parameterized statistical model calibrated to records of the smaller data set. This study presents a statistical parametric analysis of ground-motion data sets that are classified according to a seismic hazard level and a geographic region and that have been used extensively for structural response and seismic hazard analyses. Parameters represent near-fault effects such as pulse velocity and pulse period, far-field effects such as velocity amplitude and power-spectral attributes, and envelope characteristics. A systematic fitting of parameterized pulse functions to the individual ground-motion records, of parameterized envelopes to individual instantaneous ground-motion amplitudes, and of parameterized power-spectral density functions to averaged power spectra result in probability distributions for ground-motion parameters representative of particular seismic hazard levels for specific geographical regions. This methodology presents a means to characterize the variability in a set of ground-motion records of physically meaningful parameters.
+
+
+    
+        AU - Henri P. Gavin
+    
+        AU - Bryce W. Dickinson
+    
+
+TI - Generation of Uniform-Hazard Earthquake Ground Motions
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 423-432
+VI - 137
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000331 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000331
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000331
+SO - Journal of Structural Engineering 2011-03-01 137(3): 423-432
+AB - This paper presents statistical models for the generation of biaxial earthquake ground-motion time histories with spectra that match those from samples of ground-motion records. The model parameters define near-field characteristics such as pulse velocity and pulse period, far-fault characteristics such as velocity amplitude and power spectral density, and envelope characteristics. The samples of ground motions used in this study were previously selected and scaled to be representative of particular hazard levels in particular geographical regions. A companion paper presents the fitting of the model to samples of ground-motion waveforms. In this paper, the new concept of a parameter-response correlation spectrum establishes the period-dependence of the correlation between the response spectrum and ground-motion parameters. Parameters that correlate to variability of the response spectra are retained as random variables and then fit to mean and mean-plus-standard deviation of biaxial response spectra of the samples of historical records. Parameter statistics also include correlations between velocity amplitudes and pulse periods.
+
+
+    
+        AU - Benedikt Halldórsson
+    
+        AU - George P. Mavroeidis
+    
+        AU - Apostolos S. Papageorgiou
+    
+
+TI - Near-Fault and Far-Field Strong Ground-Motion Simulation for Earthquake Engineering Applications Using the Specific Barrier Model
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 433-444
+VI - 137
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000097 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000097
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000097
+SO - Journal of Structural Engineering 2011-03-01 137(3): 433-444
+AB - Codes for aseismic design may require use of recorded ground motions as input in dynamic analysis. When records are not available, motions must be simulated. The specific barrier model (SBM) is particularly useful in this context because (1)&nbsp;it provides the most complete, yet parsimonious, self-consistent description of the earthquake faulting processes that are responsible for the generation of high-frequency radiation; (2)&nbsp;it has been calibrated to earthquakes of three different tectonic regions; and (3)&nbsp;its key parameter, the barrier interval, is related to the duration of the near-fault pulses (NFP), the most damaging feature of near-fault motions. We carry out “blind” (i.e., using the minimum amount of a priori source information) simulations of strong motions of well-recorded earthquakes of magnitudes between 6.2–7.6. We assess the quality of fit of the simulated time histories to the recorded motions and show that the simulations exhibit close to zero bias over frequencies of 0.1–20&nbsp;Hz for the data set used. This exercise illustrates that the method will provide earthquake motions that can be used with confidence in aseismic design.
+
+
+    
+        AU - Alireza Azarbakht
+    
+        AU - Matjaž Dolšek
+    
+
+TI - Progressive Incremental Dynamic Analysis for First-Mode Dominated Structures
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 445-455
+VI - 137
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000282 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000282
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000282
+SO - Journal of Structural Engineering 2011-03-01 137(3): 445-455
+AB - Incremental dynamic analysis (IDA) is a widely used method for assessing structural performance under earthquake excitations. It enables direct evaluation of the record-to-record variability in structural response through a set of ground-motion records. If the number of ground-motion records is large then, the method becomes computationally demanding. To facilitate its practical application, a precedence list of ground-motion records has been introduced, aiming at selecting the most representative ground-motion records for IDA analysis. In progressive IDA analysis, the IDA curves are computed progressively, starting from the first ground-motion record in the precedence list. After an acceptable tolerance has been achieved, the analysis is terminated. This approach may significantly reduce the computational effort for first-mode-dominated structures, since the seismic response can be computed only for a certain number of ground-motion records from the precedence list to achieve an acceptable level of confidence in the prediction of the summarized (16th, 50th, and 84th fractiles) IDA curves. The proposed implementation of incremental dynamic analysis, which is demonstrated using an example of a 4-story reinforced concrete frame, can also be used for the selection of ground-motion records from a very large set of records, provided that all the records properly represent the seismic scenario for a given site.
+
+
+    
+        AU - Abbas Moustafa
+    
+
+TI - Damage-Based Design Earthquake Loads for Single-Degree-Of-Freedom Inelastic Structures
+PT - Journal Article
+DP - 2011
+TA - Journal of Structural Engineering
+PG - 456-467
+VI - 137
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000074 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000074
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000074
+SO - Journal of Structural Engineering 2011-03-01 137(3): 456-467
+AB - This paper develops a new framework for modeling design earthquake loads for inelastic structures. Limited information on strong ground motions is assumed to be available only at the given site. The design earthquake acceleration is expressed as a Fourier series, with unknown amplitude and phase angle, modulated by an envelope function. The design ground acceleration is estimated by solving an inverse dynamic problem, using nonlinear programming techniques, so that the structure performance is minimized. At the same time, the design earthquake is constrained to the available information on past recorded ground motions. New measures of the structure performance based on energy concepts and damage indexes are introduced in this paper. Specifically, the structural performance is quantified in terms of Park and Ang damage indexes. Damage indexes imply that the structure is damaged by a combination of repeated stress reversals and high-stress excursions. Furthermore, the use of damage indexes provides a measure on the structure damage level, and making a decision on necessary repair possible. The material stress-strain relationship is modeled as either bilinear or elastic-plastic. The formulation is demonstrated by deriving the design earthquake loads for inelastic frame structures at a firm soil site. The damage spectra for the site are also established, to provide upper bounds of damage under possible future earthquakes.
+
+

@@ -1,0 +1,349 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Z. W. Chen
+    
+        AU - Y. L. Xu
+    
+        AU - X. M. Wang
+    
+
+TI - SHMS-Based Fatigue Reliability Analysis of Multiloading Suspension Bridges
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 299-307
+VI - 138
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000460 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000460
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000460
+SO - Journal of Structural Engineering 2012-03-01 138(3): 299-307
+AB - Long-span suspension bridges carrying both highway and railway have been built in wind-prone regions. The estimation of fatigue damage of such bridges under the long-term combined action of railway, highway, and wind loading represents a challenging task in consideration of randomness in multiple types of loading. This study presents a framework for fatigue reliability analysis of multiloading long-span suspension bridges equipped with structural health monitoring systems (SHMS), and the Tsing Ma suspension bridge in Hong Kong is taken as a case study. A limit-state function in the daily sum of m-power stress ranges is first defined for fatigue reliability analysis. Probabilistic models of railway, highway, and wind loading are established on the basis of the measurement data acquired from the SHMS. The daily stochastic stress responses induced by the multiple types of loading are simulated at the fatigue-critical locations of the bridge deck by using the finite-element method and Monte Carlo simulation (MCS) together with the loading probabilistic models established. The probability distribution of the daily sum of m-power stress ranges is estimated on the basis of the daily stochastic stress responses. The probability distribution of the sum of m-power stress ranges for a given time period is then evaluated in consideration of future traffic growth patterns. Finally, the fatigue failure probabilities of the bridge at the fatigue-critical locations are calculated for different time periods. The results demonstrate that the health condition of the Tsing Ma Bridge at the end of its design life will be satisfactory under current traffic conditions without growth but that attention should be paid to future traffic growth because it may lead to a much greater fatigue failure probability.
+
+
+    
+        AU - Vitaliy V. Degtyarev
+    
+
+TI - Reliability-Based Evaluation of U.S. Design Provisions for Composite Steel Deck in Construction Stage
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 308-317
+VI - 138
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000437 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000437
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000437
+SO - Journal of Structural Engineering 2012-03-01 138(3): 308-317
+AB - This paper presents a reliability-based evaluation of the American National Standards Institute/Steel Deck Institute (ANSI/SDI) C1.0 and Structural Engineering Institute/American Society of Civil Engineers (SEI/ASCE) 37 design provisions for composite steel decks in the construction stage. Reliability of the allowable stress design (ASD) and load and resistance factor design (LRFD) methods at the strength and deflection limit states was evaluated in terms of reliability indices employing the first-order reliability method. A large number of composite slab configurations, which cover the range of slab parameters typically used in the U.S. construction practice, were investigated. Obtained results demonstrate that the current design provisions for steel decks in the construction stage are overconservative. Modifications of the ANSI/SDI C1.0 construction load requirements are proposed. The modified load requirements result in longer maximum unshored construction spans and acceptable reliability. Safety of the deck designed according to the modified load requirements is more uniform across the typical design parameters when compared with the current design provisions.
+
+
+    
+        AU - S. F. Darehshouri
+    
+        AU - N. E. Shanmugam
+    
+        AU - S. A. Osman
+    
+
+TI - Collapse Behavior of Composite Plate Girders Loaded in Shear
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 318-326
+VI - 138
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000467 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000467
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000467
+SO - Journal of Structural Engineering 2012-03-01 138(3): 318-326
+AB - This paper is concerned with the ultimate shear capacity of steel-concrete composite plate girders in which one of the flanges of the steel girder is connected to reinforced concrete slab through shear connectors so that the steel girder and the slab act compositely as a single unit. The analysis of such girders becomes complex and it is necessary to have a simple method for design office use. Therefore, an attempt is made in this paper to propose an analytical method to determine the shear strength of a web panel in the girder. The method considers the tension field action in the plate girder web panel and shear failure of concrete slab. The method is approximate and can be applied to composite plate girders at the preliminary stages of design. The predicted results are compared with the corresponding experimental values for girders tested by other researchers and also with finite-element predictions. The predictions are found to be accurate enough for any design office use.
+
+
+    
+        AU - K. H. Lien
+    
+        AU - Y. J. Chiou
+    
+        AU - P. A. Hsiao
+    
+
+TI - Vector Form Intrinsic Finite-Element Analysis of Steel Frames with Semirigid Joints
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 327-336
+VI - 138
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000485 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000485
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000485
+SO - Journal of Structural Engineering 2012-03-01 138(3): 327-336
+AB - This study uses the vector form intrinsic finite-element (VFIFE) method to investigate the inelastic large deflection behavior of steel frames with semirigid joints. The structural connections are modeled by the two-node, multidegree-of-freedom spring system and dummy element with stiffness but without actual mass and length. The proposed model is first verified by comparing its numerical solutions with the published results. The various structural behaviors, such as the bifurcation instability, the snap-through buckling, and the inelastic structural response with beam element fracture, are then fully studied. The numerical results show that the semirigid joint reduces the global stiffness of structure. Therefore, as expected, the simplified rigid joint will over estimate the loading capacity of the structure. The fracture analysis of the multi span frame shows that when the beam fractures, the structure elements would absorb more energy and thus, the reduction ratio of loading capacity after beam fracture is smaller than that of single-span frame. In addition, the loss of loading capacity is more obvious when the beams fracture in the lower story.
+
+
+    
+        AU - Lip H. Teh
+    
+        AU - Benoit P. Gilbert
+    
+
+TI - Net Section Tension Capacity of Bolted Connections in Cold-Reduced Steel Sheets
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 337-344
+VI - 138
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000477 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000477
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000477
+SO - Journal of Structural Engineering 2012-03-01 138(3): 337-344
+AB - This paper examines the accuracy of design equations specified in the North American, European and Australasian codes for cold-formed steel structures in determining the net section tension capacity of bolted connections in flat steel sheets. It points out that the shear lag factors embedded in the code equations either yield “anomalous” results or become irrelevant when they exceed unity. The “anomaly” was demonstrated through laboratory tests and is explained by using simple calculus. The configurations of specimens tested in the laboratory include single shear- and double-shear connections, with single or double bolts in a line parallel or perpendicular to the force. A proper mathematical expression for the in-plane shear lag factor, which does not suffer from the anomaly of the code equations and never implies shear lag factors greater than unity for any configuration, is presented and shown to yield improved results compared to the current specifications. The resistance factor of 0.8 for the proposed equation is computed with respect to the load and resistance factor design (LRFD) approach specified in the North American specification for the design of cold-formed steel structures.
+
+
+    
+        AU - Gary S. Prinz
+    
+        AU - Paul W. Richards
+    
+
+TI - Seismic Performance of Buckling-Restrained Braced Frames with Eccentric Configurations
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 345-353
+VI - 138
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000471 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000471
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000471
+SO - Journal of Structural Engineering 2012-03-01 138(3): 345-353
+AB - Braced frames are often used to resist lateral earthquake loads in steel buildings, but braces can interfere with architectural features. Eccentrically braced frames (EBFs) will accommodate windows, doors, and halls, but have performance limitations when link-to-column connections are required. An alternative to EBFs may be buckling-restrained braced frames with eccentric configurations (BRBF-Es). This paper introduces the concept of BRBF-Es and highlights design considerations. An analytical study was conducted that compares the performance and economy of BRBF-Es with EBFs. Results from non-linear time history analyses indicate that BRBF-Es will have greater residual drifts than comparable EBFs, but are less susceptible to failures at link-to-column connections. BRBF-Es require more steel than EBFs, but savings in design, fabrication, and erection may offset higher material costs.
+
+
+    
+        AU - M. Kurata
+    
+        AU - R. T. Leon
+    
+        AU - R. DesRoches
+    
+
+TI - Rapid Seismic Rehabilitation Strategy: Concept and Testing of Cable Bracing with Couples Resisting Damper
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 354-362
+VI - 138
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000401 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000401
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000401
+SO - Journal of Structural Engineering 2012-03-01 138(3): 354-362
+AB - The goal of this study is to design and evaluate simple and rapid seismic retrofit devices for relatively small rehabilitation projects for steel structures. These designs are consistent with the tenets of sustainable design and will result in a more resilient building stock as well as minimizing environmental and economical effects and social consequences during the rehabilitation project. To achieve these goals, a unique approach to designing supplemental systems by using tension-only elements is proposed, one that eliminates undesirable global and local buckling. The first generation of these devices, a bracing system consisting of cables and a central energy dissipating device [couples resisting (CORE) damper], is presented in this paper. Both analytical studies with advanced and simplified models and proof-of-concept testing demonstrated stable, highly efficient performance of the system under seismic loads. Preliminary applications of the CORE damper system to the retrofitting of a braced steel frame showed the ability of the system to minimize soft story failures and residual deformations.
+
+
+    
+        AU - E. Tubaldi
+    
+        AU - M. Barbato
+    
+        AU - A. Dall’Asta
+    
+
+TI - Influence of Model Parameter Uncertainty on Seismic Transverse Response and Vulnerability of Steel–Concrete Composite Bridges with Dual Load Path
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 363-374
+VI - 138
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000456 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000456
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000456
+SO - Journal of Structural Engineering 2012-03-01 138(3): 363-374
+AB - This paper uses a fully probabilistic approach to investigate the seismic response of multispan continuous bridges with dissipative piers and a steel–concrete composite (SCC) deck, the motion of which is transversally restrained at the abutments. This bridge typology is characterized by complex dual load path behavior in the transverse direction, with multiple failure modes involving both the deck and the piers. Proper assessment of the seismic vulnerability of these structural systems must rigorously take into account all pertinent sources of uncertainty, including uncertainties in both the seismic input (record-to-record variability) and the properties defining the structural model (model parameters). Model parameter uncertainty affects not only the structural capacity, but also the seismic response of a structural system. However, most of the procedures for seismic vulnerability assessment focus on the variability of the response resulting solely from seismic input uncertainty. These procedures either neglect model parameter uncertainty effects or incorporate these effects only in a simplified way. A computationally expensive but rigorous procedure is introduced in this work to include the effects of model parameter uncertainty on the seismic response and vulnerability assessment of SCC bridges with dual load path. Monte&nbsp;Carlo simulation with Latin hypercube sampling, in conjunction with probabilistic moment–curvature analysis, is used to build probabilistic finite-element models of the bridges under study. Extended incremental dynamic analysis is used to propagate all pertinent sources of uncertainty to the seismic demand. The proposed procedure is then applied to the assessment of three benchmark bridges exhibiting different seismic behavior and dominant failure modes. Comparison of the response variability induced by seismic input uncertainty and the response variability induced by model parameter uncertainty highlights the importance of accounting for the latter when evaluating the safety of the typology of bridges considered in this study.
+
+
+    
+        AU - Geoffrey W. Rodgers
+    
+        AU - Kevin M. Solberg
+    
+        AU - John B. Mander
+    
+        AU - J. Geoffrey Chase
+    
+        AU - Brendon A. Bradley
+    
+        AU - Rajesh P. Dhakal
+    
+
+TI - High-Force-to-Volume Seismic Dissipators Embedded in a Jointed Precast Concrete Frame
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 375-386
+VI - 138
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000329 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000329
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000329
+SO - Journal of Structural Engineering 2012-03-01 138(3): 375-386
+AB - An experimental and computational study of an 80-percent scale precast concrete 3D beam-column joint subassembly designed with high force-to-volume (HF2V) dampers and damage-protected rocking connections is presented. A prestress system is implemented using high-alloy high-strength unbonded thread-bars through the beams and columns. The thread-bars are posttensioned and supplemental energy dissipation is provided by internally mounted lead-extrusion dampers. A multilevel seismic performance assessment (MSPA) is conducted considering three performance objectives related to occupant protection and collapse prevention. First, bidirectional quasi-static cyclic tests characterise the specimen’s performance. Results are used in a 3D nonlinear incremental dynamic analysis (IDA), to select critical earthquakes for further bidirectional experimental tests. Thus, quasi-earthquake displacement tests are performed by using the computationally predicted seismic demands corresponding to these ground motions. Resulting damage to the specimen is negligible, and the specimen satisfies all performance objectives related to serviceability, life-safety, and collapse prevention.
+
+
+    
+        AU - G. E. Thermou
+    
+        AU - S. J. Pantazopoulou
+    
+        AU - A. S. Elnashai
+    
+
+TI - Global Interventions for Seismic Upgrading of Substandard RC Buildings
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 387-401
+VI - 138
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000474 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000474
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000474
+SO - Journal of Structural Engineering 2012-03-01 138(3): 387-401
+AB - A methodology is developed in this paper for the design and proportioning of interventions for seismic upgrading of substandard reinforced-concrete (RC) buildings. The retrofit approach is presented in the form of a simple design tool that aims toward both demand reduction and enhancement of force and deformation supply through controlled modification of stiffness along the height of the building. This objective is achieved by engineering the translational mode-shape of the structure, so as to optimize the distribution of interstory drift. Results from the proposed approach are summarized in a spectrum format in which demand, expressed in terms of interstory drift, is related to stiffness. Design charts, which relate the characteristics of commonly used global intervention procedures to influence drift demands, are developed to facilitate the retrofit design. The intervention procedures considered in this paper are reinforced-concrete jacketing, the addition of reinforced-concrete walls, and the addition of masonry infills. The proposed methodology is also amenable to adaptation to other strengthening methods, such as the addition of cross-bracing.
+
+
+    
+        AU - R. B. Khadiranaikar
+    
+        AU - Mahesh M. Awati
+    
+
+TI - Concrete Stress Distribution Factors for High-Performance Concrete
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 402-415
+VI - 138
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000465 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000465
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000465
+SO - Journal of Structural Engineering 2012-03-01 138(3): 402-415
+AB - Most of the existing codes are using stress-block parameters which were derived for normal strength concrete. Several researchers in the past have reported that use of ACI 318 stress-block parameters results in un-conservative design of reinforced concrete members for high-performance concrete (HPC). Recent revision of Indian Standard Code IS 456 for design of reinforced members does not include the provisions for strength of concrete beyond 55&nbsp;MPa. Present research aims at developing the stress-block parameters for wide range of concrete strength between 40–120&nbsp;MPa. The experimental program includes testing of plain concrete columns, reinforced concrete members such as eccentrically loaded columns, and beams in pure flexure. Moment interaction curves are developed for the column data of the present and previous research. An error analysis is incorporated to prove the consistent conservativeness obtained by the use of the proposed stress-block parameters.
+
+
+    
+        AU - Ahmed B. Shuraim
+    
+
+TI - Transverse Stirrup Configurations in RC Wide Shallow Beams Supported on Narrow Columns
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 416-424
+VI - 138
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000408 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000408
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000408
+SO - Journal of Structural Engineering 2012-03-01 138(3): 416-424
+AB - This paper addressed the influence of stirrup configurations in wide beams on the effectiveness of stirrups in contributing to shear resistance as a ratio of the nominal shear stirrup strength. The evaluation was made by testing 16 continuous, wide, shallow, reinforced, concrete beams supported on interior narrow columns at their centers and simply supported at the ends. The 16 beams were composed of: three beams without stirrups, six beams having a constant amount of stirrups with either two-leg or four-leg configuration, and seven other beams with various configurations to verify the trend. The general trend is that reducing the transverse spacing of stirrups improves the stirrup efficiency to resist shear forces. For beams with a constant amount of stirrups, four-leg configuration showed a high increase in its efficiency to resist shear force over stirrups with two-leg configuration. Although code design equations assume that stirrups are fully effective, it was evident that wide shallow beams reinforced with two-leg stirrups were susceptible to becoming shear deficient if transverse spacing was not accounted for. On the basis of findings of this study, guidelines for computing the stirrup contribution in shear resistance were proposed and verified by comparisons with tested beams from the present study and a previous study by Serna-Ros et al.
+
+
+    
+        AU - Hong-Gun Park
+    
+        AU - You-Ni Kim
+    
+        AU - Jin-Gyu Song
+    
+        AU - Su-Min Kang
+    
+
+TI - Lattice Shear Reinforcement for Enhancement of Slab-Column Connections
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 425-437
+VI - 138
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000484 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000484
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000484
+SO - Journal of Structural Engineering 2012-03-01 138(3): 425-437
+AB - An experimental study was performed to investigate the unbalanced moment-carrying capacity of slab-column connections reinforced with lattice shear reinforcement. Cyclic loading tests were performed on four specimens with this lattice shear reinforcement. For comparison, eight specimens reinforced with existing shear reinforcement methods (studrails, shear bands, stirrups, and no shear reinforcement) were also tested. All shear reinforcement methods were designed to enhance the unbalanced moment-carrying capacity of the slab-column connections. The test results showed that in the enhancement of the unbalanced moment-carrying capacity of slab-column connections, lattice shear reinforcement was better than the other shear reinforcement methods. Lattice shear reinforcement increased the unbalanced moment-carrying capacity of the slab-column connections by more than 1.8&nbsp;times that of the specimens without shear reinforcement. All shear reinforcement methods significantly improved the deformation capacity of the slab-column connections.
+
+
+    
+        AU - Charles V. Camp
+    
+        AU - Alper Akin
+    
+
+TI - Design of Retaining Walls Using Big Bang–Big Crunch Optimization
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 438-448
+VI - 138
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000461 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000461
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000461
+SO - Journal of Structural Engineering 2012-03-01 138(3): 438-448
+AB - A procedure is developed for designing low-cost or low-weight cantilever reinforced concrete retaining walls, with base shear keys, using big bang–big crunch (BB-BC) optimization. The objective of the optimization is to minimize the total cost or total weight per unit length of the retaining structure subjected to constraints on the basis of stability, bending moment, and shear force capacities and the requirements of the American Concrete Institute (ACI 318-05). An iterative population-based heuristic search method, BB-BC optimization has a numerically simple algorithm with relatively few control parameters as compared with other evolutionary methods. Low-cost and low-weight designs for two retaining walls are presented. In addition, results are presented on the effects of surcharge load, backfill slope, and internal friction angle of the retained soil on the values of low-cost and low-weight designs with and without a base shear key.
+
+
+    
+        AU - Y. Deng
+    
+        AU - C. Y. Tuan
+    
+        AU - Y. Xiao
+    
+
+TI - Flexural Behavior of Concrete-Filled Circular Steel Tubes under High-Strain Rate Impact Loading
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 449-456
+VI - 138
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000464 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000464
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000464
+SO - Journal of Structural Engineering 2012-03-01 138(3): 449-456
+AB - Nine simply supported circular steel concrete-filled tubes (CFTs), two circular steel posttensioned concrete-filled tubes (PTCFTs), and one circular steel fiber–reinforced concrete-filled tube (FRCFT) have been tested in an instrumented drop-weight impact facility. The weight and the height of the drop-weight were varied to cause failure in some test specimens. The failure modes and local damages in those specimens have been investigated extensively. Failure in the steel tubes was commonly tensile facture or rupture along the circumference. Concrete core in the impact area commonly crushed under compression and cracked under tension. The use of prestressing strands and steel fibers significantly restrained the concrete tension cracks in the PTCFT and FRCFT specimens, respectively. The experimental results are analyzed in the context of principles of energy and momentum conservation.
+
+
+    
+        AU - António Pinho Ramos
+    
+
+TI - Discussion of “Punching Shear Behavior of Externally Prestressed Concrete Slabs” by H. Mostafaei, F. J. Vecchio, P. Gauvreau, and M. Semelawy
+PT - Journal Article
+DP - 2012
+TA - Journal of Structural Engineering
+PG - 457-457
+VI - 138
+IP - 3
+AID - 10.1061/(ASCE)ST.1943-541X.0000480 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0000480
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0000480
+SO - Journal of Structural Engineering 2012-03-01 138(3): 457-457
+
+

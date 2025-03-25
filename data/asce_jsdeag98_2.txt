@@ -1,0 +1,507 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - M. I. Beg
+    
+
+TI - Finite Difference Approach to Hyperbolic Paraboloids
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 429-445
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003147 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003147
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003147
+SO - Journal of the Structural Division 1972-02-01 98(2): 429-445
+AB - A square, shallow, elastic hyperbolic paraboloid shell is considered. Local failures of shell membrane and flexible edge beam in a ruled surface due to bending and twisting effects are considered under symmetric loading condition. Differential equations have been discussed with consideration of shell membrane and edge beam. Arbitrary boundary conditions in terms of Airy stress function have been used to make the solution determinant. Special considerations have been given to high and low corner junctions in the structure. Linear simultaneous equations have been formed and assemblage is shown in terms of vertical displacement components and stress functions. Convergence of the solution is shown using the finite difference method. The results are plotted in terms of functional contours for different boundary conditions.
+
+
+    
+        AU - Gene M. Wilhoite
+    
+
+TI - Wind Recommendations for Transmission Towers
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 447-463
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003148 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003148
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003148
+SO - Journal of the Structural Division 1972-02-01 98(2): 447-463
+AB - The recommendations concerning design wind loadings for transmission line towers show a wide divergence. When the varying intents of the codes are reviewed, closer agreement is obtained. For normal cable spans, the proper determination of the effective wind on the wires is the critical factor. The recommendations of Proc. Paper 5403, Electrical Transmission Line and Tower Design Guide provide valid loadings for normal conditions. The special conditions which warrant additional review are short spans, tall crossing towers, or winds following heavy icing. Additional testing and experience is required on multiple conductor bundles before any reduction for shielding of the leeward cable is incorporated into design loadings.
+
+
+    
+        AU - John H. Argyris
+    
+        AU - John R. Roy
+    
+
+TI - General Treatment of Structural Modifications
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 465-492
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003149 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003149
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003149
+SO - Journal of the Structural Division 1972-02-01 98(2): 465-492
+AB - In order to perform modifications of structures analyzed by the Matrix Displacement Method, a direct computer-oriented approach is presented enabling the treatment of coupled combinations of three possible types of modifications, namely, removal of freedoms, addition of freedoms, and modification of elements. The formulation is extended to cover modifications of elements in substructures together with the corresponding modification to the main structure. The method is derived from the laws of partitioned matrices and Boolean transformation of freedoms within the structural stiffness matrix, and fully exploits symmetry and positive-definiteness. The presented form of the modification equations allows the use of an alternative existing approach of updating the triangularized factor of the structural stiffness matrix due to the modification of elements. The method is extended to provide a recursive hypermatrix Cholesky algorithm. All formulations are accompanied by operation counts to enable rapid determination of break-even points for reanalysis or possible iterative solutions.
+
+
+    
+        AU - J. Laginha Serafim
+    
+        AU - J. A. Caldeira Rodrigues
+    
+        AU - Alfredo Portela
+    
+        AU - Mário J. Milho
+    
+
+TI - Closure to “Complete Adjustment Method For Analyzing Arch Dams”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 495-499
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003150 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003150
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003150
+SO - Journal of the Structural Division 1972-02-01 98(2): 495-499
+
+
+    
+        AU - Salman H. Abu-Sitta
+    
+        AU - Alan G. Davenport
+    
+
+TI - Closure to “Earthquake Design of Cooling Towers”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 500-501
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003151 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003151
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003151
+SO - Journal of the Structural Division 1972-02-01 98(2): 500-501
+
+
+    
+        AU - Heinz G. Juhl
+    
+
+TI - Closure to “Horizontal Thermal Movement of Curved Bridge Decks”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 501-503
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003152 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003152
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003152
+SO - Journal of the Structural Division 1972-02-01 98(2): 501-503
+
+
+    
+        AU - Robert B. Knowles
+    
+        AU - Robert Park
+    
+
+TI - Closure to “Axial Load Design for Concrete Filled Steel Tubes”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 504-505
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003153 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003153
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003153
+SO - Journal of the Structural Division 1972-02-01 98(2): 504-505
+
+
+    
+        AU - Umesh Chandra Tahbildar
+    
+        AU - Hugh Tottenham
+    
+
+TI - Closure to “Earthquake Response of Arch Dams”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 505-506
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003154 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003154
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003154
+SO - Journal of the Structural Division 1972-02-01 98(2): 505-506
+
+
+    
+        AU - James G. Arendts
+    
+        AU - Wallace W. Sanders
+    
+
+TI - Closure to “Concrete Box-Girder Bridges as Sandwich Plates”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 507-508
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003155 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003155
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003155
+SO - Journal of the Structural Division 1972-02-01 98(2): 507-508
+
+
+    
+        AU - William R. Schriever
+    
+
+TI - Discussion of “Structural Response to Sonic Booms”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 509-510
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003157 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003157
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003157
+SO - Journal of the Structural Division 1972-02-01 98(2): 509-510
+
+
+    
+        AU - Jostein Hellesland
+    
+
+TI - Discussion of “Sustained Biaxial Load on Slender Concrete Columns”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 511-513
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003159 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003159
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003159
+SO - Journal of the Structural Division 1972-02-01 98(2): 511-513
+
+
+    
+        AU - Benjamin Koo
+    
+
+TI - Discussion of “Spaced Steel Columns”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 513-515
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003160 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003160
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003160
+SO - Journal of the Structural Division 1972-02-01 98(2): 513-515
+
+
+    
+        AU - Geerhard Haaijer
+    
+
+TI - Discussion of “Collapse Load Analysis using Linear Programming”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 516-520
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003161 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003161
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003161
+SO - Journal of the Structural Division 1972-02-01 98(2): 516-520
+
+
+    
+        AU - Gian Mario Bo
+    
+
+TI - Discussion of “Relaxation Tests on Alloy Steel Bars”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 520-521
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003162 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003162
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003162
+SO - Journal of the Structural Division 1972-02-01 98(2): 520-521
+
+
+    
+        AU - Donald F. Meinheit
+    
+        AU - John Springfield
+    
+
+TI - Discussion of “Strength of Load-Bearing Masonry Walls”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 522-526
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003163 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003163
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003163
+SO - Journal of the Structural Division 1972-02-01 98(2): 522-526
+
+
+    
+        AU - Ganpat S. Pandit.
+    
+
+TI - Discussion of “Analysis of Dowel Action”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 526-527
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003164 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003164
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003164
+SO - Journal of the Structural Division 1972-02-01 98(2): 526-527
+
+
+    
+        AU - John B. Kennedy
+    
+        AU - T. Kumanan
+    
+
+TI - Discussion of “Study of Suspended Roof Model”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 527-529
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003165 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003165
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003165
+SO - Journal of the Structural Division 1972-02-01 98(2): 527-529
+
+
+    
+        AU - Jens Jacob Jensen.
+    
+
+TI - Discussion of “Cable-Suspended Roof Construction State-of-the-Art”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 530-531
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003166 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003166
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003166
+SO - Journal of the Structural Division 1972-02-01 98(2): 530-531
+
+
+    
+        AU - B. V. Rangan
+    
+        AU - Kashi T. Krishnaswamy
+    
+        AU - Sakharam V. Gharpure
+    
+        AU - Ashok B. Kulkarni
+    
+
+TI - Discussion of “Flexural Members with Confined Concrete”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 532-534
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003167 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003167
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003167
+SO - Journal of the Structural Division 1972-02-01 98(2): 532-534
+
+
+    
+        AU - K. Veeraraghavachary
+    
+
+TI - Discussion of “Stress Distribution in Castellated Beams”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 534-536
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003168 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003168
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003168
+SO - Journal of the Structural Division 1972-02-01 98(2): 534-536
+
+
+    
+        AU - Maxwell G. Lay
+    
+
+TI - Discussion of “Glossary of Terms Pertaining to Structural Steel Engineering and Design”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 536-538
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003169 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003169
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003169
+SO - Journal of the Structural Division 1972-02-01 98(2): 536-538
+
+
+    
+        AU - Chithradurga S. Chandrasekhar
+    
+        AU - Ti Huang
+    
+
+TI - Discussion of “Behavior of Fiber Glass Reinforced Concrete Beams”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 538-541
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003170 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003170
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003170
+SO - Journal of the Structural Division 1972-02-01 98(2): 538-541
+
+
+    
+        AU - Melvin W. Jackson
+    
+
+TI - Discussion of “Earthquake Design Formula Considering Local Soil Conditions”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 541-543
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003171 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003171
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003171
+SO - Journal of the Structural Division 1972-02-01 98(2): 541-543
+
+
+    
+        AU - David J. Fader
+    
+
+TI - Discussion of “Ambient Vibration of two Suspension Bridges”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 543-543
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003172 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003172
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003172
+SO - Journal of the Structural Division 1972-02-01 98(2): 543-543
+
+
+    
+        AU - Asadour H. Hadjian
+    
+
+TI - Scaling of Earthquake Accelerograms-A Simplified Approach
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 547-551
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003173 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003173
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003173
+SO - Journal of the Structural Division 1972-02-01 98(2): 547-551
+AB - With the more sophisticated computer programs now available for the dynamic analysis of structures, use of time-history excitation of such structures has become common practice. Besides affording a more rigorous analysis of the structure itself, a time-history excitation simplifies the calculation of the response of equipment located at the higher elevations in a structure. Regarding the time-history excitation of a structure, the main problem would be the selection of an accelerogram that is compatible with a given smooth spectrum curve. A method to obtain a comaptible accelerogram is discussed herein.
+
+
+    
+        AU - Surendra K. Goel
+    
+        AU - Steven J. Fenves
+    
+
+TI - Erratum for “Computer-Aided Processing of Design Specifications”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 508-508
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003156 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003156
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003156
+SO - Journal of the Structural Division 1972-02-01 98(2): 508-508
+
+
+    
+        AU - Harvey H. Haynes
+    
+        AU - Lawrence F. Kahn
+    
+        AU - Jerry D. Stachiw
+    
+
+TI - Erratum for “Concrete Hulls for Undersea Applications”
+PT - Journal Article
+DP - 1972
+TA - Journal of the Structural Division
+PG - 510-510
+VI - 98
+IP - 2
+AID - 10.1061/JSDEAG.0003158 [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/JSDEAG.0003158
+4100 - https://ascelibrary.org/doi/full/10.1061/JSDEAG.0003158
+SO - Journal of the Structural Division 1972-02-01 98(2): 510-510
+
+

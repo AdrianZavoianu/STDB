@@ -1,0 +1,363 @@
+
+
+
+
+
+
+
+
+
+
+    
+        AU - Michael D. Symans
+    
+
+TI - Special Issue on Design and Analysis of Structures with Seismic Damping Systems
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 1-2
+VI - 134
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2008)134:1(1) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A1%281%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A1%281%29
+SO - Journal of Structural Engineering 2008-01-01 134(1): 1-2
+
+
+    
+        AU - M. D. Symans
+    
+        AU - F. A. Charney
+    
+        AU - A. S. Whittaker
+    
+        AU - M. C. Constantinou
+    
+        AU - C. A. Kircher
+    
+        AU - M. W. Johnson
+    
+        AU - R. J. McNamara
+    
+
+TI - Energy Dissipation Systems for Seismic Applications: Current Practice and Recent Developments
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 3-21
+VI - 134
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2008)134:1(3) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A1%283%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A1%283%29
+SO - Journal of Structural Engineering 2008-01-01 134(1): 3-21
+AB - This paper presents a summary of current practice and recent developments in the application of passive energy dissipation systems for seismic protection of structures. The emphasis is on the application of passive energy dissipation systems within the framing of building structures. Major topics that are presented include basic principles of energy dissipation systems, descriptions of the mechanical behavior and mathematical modeling of selected passive energy dissipation devices, advantages and disadvantages of these devices, development of guidelines and design philosophy for analysis and design of structures employing energy dissipation devices, and design considerations that are unique to structures with energy dissipation devices. A selection of recent applications of passive energy dissipation systems is also presented.
+
+
+    
+        AU - Jenn-Shin Hwang
+    
+        AU - Yin-Nan Huang
+    
+        AU - Shy-Lian Yi
+    
+        AU - Song-Yen Ho
+    
+
+TI - Design Formulations for Supplemental Viscous Dampers to Building Structures
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 22-31
+VI - 134
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2008)134:1(22) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A1%2822%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A1%2822%29
+SO - Journal of Structural Engineering 2008-01-01 134(1): 22-31
+AB - The existing design formulas such as those provided by FEMA 273 (or FEMA 356) and other research reports have provided significantly convenient tools to practical engineers in determining the damping coefficients of the supplemental viscous dampers corresponding to an expected added damping ratio to the structure. However, the relative vertical deformation between the ends of the damper was not considered when the formulas were derived. This has resulted into the lack of accuracy for predicting the added damping ratio of medium-rise to high-rise buildings compared with low-rise buildings. This is primarily due to the fact that, for the medium-rise and high-rise buildings, the flexural deformation is as significant as the shear deformation of the building when subjected to earthquake loading, and thus the vertical relative deformation may be comparable with the horizontal relative displacement between the ends of the damper. In this study, new design formulas are derived for commonly used installation schemes of viscous dampers. Numerical verifications have indicated that the new design formulas predict a more accurate viscous damping ratio contributed by linear viscous dampers and ensure a more conservative design for the structure with nonlinear viscous dampers.
+
+
+    
+        AU - Finley A. Charney
+    
+        AU - Robert J. McNamara
+    
+
+TI - Comparison of Methods for Computing Equivalent Viscous Damping Ratios of Structures with Added Viscous Damping
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 32-44
+VI - 134
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2008)134:1(32) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A1%2832%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A1%2832%29
+SO - Journal of Structural Engineering 2008-01-01 134(1): 32-44
+AB - Three analysis methods are compared for determining the equivalent viscous damping ratios in a simple one-story, one-bay system with three different added damping configurations. The analysis methods are modal strain energy using the undamped mode shapes, free vibration log decrement, and complex eigenvalue-eigenvector analysis. The damping configurations include a diagonal configuration, a horizontal configuration, and a toggle-braced system. For each of these systems, a variety of linkage stiffness and damper capacities are considered. In all cases the structure, exclusive of the dampers, is assumed to remain elastic. A brief discussion is provided for the behavior of systems with nonlinear viscous dampers. The results of the study show that significantly different values may be obtained for the effective viscous damping in the same system when different analysis approaches are used. For the toggle-braced system with relatively flexible linkages, it was shown that the modal strain energy approach consistently produced increasing effective damping with increased damper capacity, while the other two methods indicated the opposite results. Subsequent analysis of the toggle-braced structure using the complex eigenvalue-eigenvector approach showed that the effective system damping was indeed decreasing with an increased device damping constant, and that the behavior could be attributed to the axial flexibility of the toggle brace linkage. The analysis indicated that the greater the flexibility of the linkage relative to the damping constant of the device, the greater the phase difference between the deformational velocity in the device and the relative horizontal velocity of the story containing the device. While the phase shift is evident from response history analysis, the most efficient visualization tool is a plot of the damped mode shapes on a complex plane.
+
+
+    
+        AU - Stefano Sorace
+    
+        AU - Gloria Terenzi
+    
+
+TI - Seismic Protection of Frame Structures by Fluid Viscous Damped Braces
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 45-55
+VI - 134
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2008)134:1(45) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A1%2845%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A1%2845%29
+SO - Journal of Structural Engineering 2008-01-01 134(1): 45-55
+AB - A research study on a damped bracing system incorporating pressurized silicone fluid viscous devices for seismic protection of frame structures is presented in this paper. This technology features an inverse-chevron brace configuration, where a pair of interfaced devices are placed, parallel with the floor-beam axis, at the tip end of each couple of supporting steel braces. The experimental section of this study consisted of a pseudodynamic testing campaign on a 2:3-scale three-story steel frame and a full-scale three-story reinforced concrete frame seismically retrofitted by the technology considered. Test results were elaborated to evaluate: the improvement of seismic response of both structures after retrofit, also assessed through a formal performance-based evaluation analysis; the capabilities of the assumed analytical and numerical models in reproducing the observed structural response; and the feasibility of a methodology previously formulated to select the damping coefficient of fluid viscous devices, herein implemented with further details for practical use. This methodology was applied to the design of the protection systems of the two test structures, and checked by comparing the target and experimentally obtained values of the governing energy-ratio coefficients.
+
+
+    
+        AU - Chien-Yuan Hou
+    
+
+TI - Fluid Dynamics and Behavior of Nonlinear Viscous Fluid Dampers
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 56-63
+VI - 134
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2008)134:1(56) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A1%2856%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A1%2856%29
+SO - Journal of Structural Engineering 2008-01-01 134(1): 56-63
+AB - Fluid dynamics in viscous fluid dampers with annular orifices was analyzed by solving the Navier–Stokes equations. The shear-thinning effect and viscoelastic behavior of silicone oil, which is often used in a viscous fluid damper, were both considered. When the solutions were compared to experimental data, it was found that both the nonlinear viscous and the restoring-force behaviors of viscous dampers can be captured. To verify the effects of fluid inertia, finite-element analysis of the fluid dynamics in the damper tested was also performed, assuming the damper was filled with a Newtonian fluid. It was found that the inertial force is not important in an annular-orificed damper moving at 
+
+10
+Hz
+
+. The effect of fluid compression in a fluid damper was also discussed. The proposed equations were used to calculate the restoring forces in the annular-orificed damper. It was found that the results give a close restoring force-displacement relationship as the one given by FEMA 273.
+
+
+    
+        AU - Xilin Lu
+    
+        AU - Ying Zhou
+    
+        AU - Feng Yan
+    
+
+TI - Shaking Table Test and Numerical Analysis of RC Frames with Viscous Wall Dampers
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 64-76
+VI - 134
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2008)134:1(64) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A1%2864%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A1%2864%29
+SO - Journal of Structural Engineering 2008-01-01 134(1): 64-76
+AB - This paper presents a comprehensive investigation on viscous wall dampers (VWD) used for seismic response mitigation of reinforced concrete (RC) frames. First, a shaking table test on a large-scaled three-story RC frame with VWD and another identical three-story RC frame without any dampers was carried out. A total of three types of earthquake excitations were inputted to the shaking table to evaluate the effects of VWD on seismic response mitigation. The influence of different earthquake input intensities on seismic performance of VWD were also examined. From the experiment, this paper further assessed the performance of VWD on seismic retrofitting of a partly damaged RC frame. The test results show that the main effect of installing VWD is to provide a large amount of supplemental damping to the RC frame, and at the same time the stiffness of the structure is also raised moderately as an accessorial effect. As a result, the displacement responses of the RC frame can always be reduced significantly, while the acceleration responses and the base shear of the RC frame were reduced in some test cases, but increased in other cases. The test results of seismic retrofit also show that seismic responses of the damaged RC frame can be alleviated evidently by the installation of VWD and, therefore, installing VWD is an effective retrofitting approach for RC frames. After test investigation, elastic and inelastic seismic responses of the RC frame were numerically simulated using finite element software Sap2000 and Canny99, respectively. A good agreement of experimental results and analysis results verified the analytical method and model used for RC structures with VWD.
+
+
+    
+        AU - A. S. Blasetti
+    
+        AU - R. M. Hoffman
+    
+        AU - D. W. Dinehart
+    
+
+TI - Simplified Hysteretic Finite-Element Model for Wood and Viscoelastic Polymer Connections for the Dynamic Analysis of Shear Walls
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 77-86
+VI - 134
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2008)134:1(77) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A1%2877%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A1%2877%29
+SO - Journal of Structural Engineering 2008-01-01 134(1): 77-86
+AB - This paper presents a simplified methodology of modeling the complex hysteretic behaviors of wood sheathing connections using basic elements found in commercially available finite-element analysis software. By combining these basic elements, customized connection elements that often require extensive programming can be eliminated. This both simplifies the modeling process and adds versatility to the model, such that it can be modified for different types of sheathing connections. A typical nailed sheathing connection has successfully been modeled and implemented into a shear wall model using this methodology. In addition, an innovative viscoelastic (VE) sheathing connection has been modeled using the same strategy and was used in a VE shear wall model. Though this study was focused on wood frame shear walls and their connections, the proposed modeling technique may be applied to virtually all structural components with hysteretic behaviors.
+
+
+    
+        AU - D. W. Dinehart
+    
+        AU - A. S. Blasetti
+    
+        AU - H. W. Shenton
+    
+
+TI - Experimental Cyclic Performance of Viscoelastic Gypsum Connections and Shear Walls
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 87-95
+VI - 134
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2008)134:1(87) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A1%2887%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A1%2887%29
+SO - Journal of Structural Engineering 2008-01-01 134(1): 87-95
+AB - The shear capacity of gypsum sheathed shear walls is typically neglected in areas of high seismicity due to the susceptibility of conventional drywall screw connections to damage caused by earthquakes. This paper presents an alternative to the conventional screwed sheathing connection found in wood-framed gypsum shear walls. A viscoelastic (VE) polymer was inserted between the sheathing and the stud framing. A sheathing connection study and shear wall study were performed, and the results of the VE connection show a dramatic increase in stiffness and energy dissipation over the conventional screwed connection. Energy dissipation increases 632% for the sheathing connection and 510% for the shear wall. Stiffness of the shear wall also improves. The VE polymer improves structural performance while resisting damage when subjected to shear displacements up to 
+
+18
+mm
+
+ by providing a constant source of energy dissipation. This new VE sheathing connection may allow for weak or nonstructural materials, such as gypsum wallboard, to be used as structural elements for design purposes while reducing the risk of costly damages during seismic events.
+
+
+    
+        AU - C. Christopoulos
+    
+        AU - R. Tremblay
+    
+        AU - H.-J. Kim
+    
+        AU - M. Lacerte
+    
+
+TI - Self-Centering Energy Dissipative Bracing System for the Seismic Resistance of Structures: Development and Validation
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 96-107
+VI - 134
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2008)134:1(96) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A1%2896%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A1%2896%29
+SO - Journal of Structural Engineering 2008-01-01 134(1): 96-107
+AB - Buildings designed according to modern seismic codes are expected to develop a controlled ductile inelastic response during major earthquakes, implying extensive structural damage after a design level earthquake, along with possibly substantial residual deformations. To address this drawback of traditional yielding systems, a new bracing system that can undergo large axial deformations without structural damage while providing stable energy dissipation capacity and a restoring force has recently been developed. The proposed bracing member exhibits a repeatable flag-shaped hysteretic response with full recentering capabilities, therefore eliminating residual deformations. The mechanics of this new system are first explained, the equations governing its design and response are outlined, and one embodiment of the system, which combines a friction dissipative mechanism and Aramid tensioning elements, is further studied. Results from component tests, full-scale (reduced length) quasi-static axial tests, and quasi-static and dynamic seismic tests on a full-scale frame system are presented. Experimental results confirm the expected self-centering behavior of the self-centering energy dissipative (SCED) bracing system within the target design drift. Results also confirm the validity of the design and behavior equations that were developed. It is concluded that the proposed SCED concept can represent a viable alternative to current braced frame systems because of its attractive self-centering property and because the simplicity of the system allows it to be scaled to any desired strength level.
+
+
+    
+        AU - Robert Tremblay
+    
+        AU - M. Lacerte
+    
+        AU - C. Christopoulos
+    
+
+TI - Seismic Response of Multistory Buildings with Self-Centering Energy Dissipative Steel Braces
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 108-120
+VI - 134
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2008)134:1(108) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A1%28108%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A1%28108%29
+SO - Journal of Structural Engineering 2008-01-01 134(1): 108-120
+AB - This paper examines the seismic response of 2-, 4-, 8-, 12-, and 16-story steel framed buildings with self-centering energy dissipative (SCED) bracing members. The structures are assumed to be located in Los Angeles, California. Identical buildings equipped with buckling restrained braces (BRB) are also studied for comparison purposes. Incremental static analysis and nonlinear dynamic analysis under ground motion ensembles corresponding to three hazard levels were performed. The SCED frames generally experienced smaller peak story drifts, less damage concentration over the building height, and smaller residual lateral deformations compared to the BRB system. Higher floor acceleration peaks were observed in the SCED frames due to the sharper transitions between elastic and inelastic response assumed in the analysis. The study also indicated that higher design seismic loads may be needed for low-rise SCED and BRB frames in order to improve their collapse prevention performance.
+
+
+    
+        AU - Songye Zhu
+    
+        AU - Yunfeng Zhang
+    
+
+TI - Seismic Analysis of Concentrically Braced Frame Systems with Self-Centering Friction Damping Braces
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 121-131
+VI - 134
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2008)134:1(121) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A1%28121%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A1%28121%29
+SO - Journal of Structural Engineering 2008-01-01 134(1): 121-131
+AB - This paper presents a special type of bracing element termed self-centering friction damping brace (SFDB) for use in seismic-resistant concentrically braced frame (CBF) systems. The SFDB is a passive energy dissipation device with its core recentering component made of stranded superelastic Nitinol wires while enhanced energy dissipation mechanism of the SFDB is achieved through friction. Compared with conventional braces for steel frame buildings, SFDB has a few desirable performance characteristics such as minimized residual drifts of the CBF system and its ability to withstand several design level earthquakes without the need for replacement. The mechanical configuration of the SFDB is first described. A comparative study of SFDB frame and buckling restrained braced (BRB) frame was carried out, which is based on nonlinear dynamic analysis of two prototype CBF buildings—a three- and a six-story steel frame. Two suites of earthquake ground motions, which represent the frequent and design basis earthquakes for Los Angeles, were considered in the nonlinear time-history analysis. The results of the nonlinear time-history and pushover analysis show that the SFDB frame can achieve a seismic response level comparable to that of the BRB frame while having significantly reduced residual drifts. The SFDB thus has a potential to establish a new type of CBF system with self-centering capability.
+
+
+    
+        AU - Brian G. Morgen
+    
+        AU - Yahya C. Kurama
+    
+
+TI - Seismic Response Evaluation of Posttensioned Precast Concrete Frames with Friction Dampers
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 132-145
+VI - 134
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2008)134:1(132) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A1%28132%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A1%28132%29
+SO - Journal of Structural Engineering 2008-01-01 134(1): 132-145
+AB - This paper presents a seismic response evaluation of unbonded posttensioned precast concrete moment frames that use friction dampers at selected beam ends. The dampers utilize the displacements that occur as a result of gap opening between the beam and column members during an earthquake. The parameters investigated include the number of stories, number and strength of the dampers, and amount of posttensioning. Nonlinear static and dynamic time history analyses of prototype structures show that the dampers provide a considerable amount of energy dissipation to a frame, while the posttensioning force provides a restoring effect resulting in self-centering capability (i.e., ability of the structure to return towards its undisplaced position upon unloading). The seismic design of the structures to achieve target displacement-based performance objectives is critically evaluated based on the analysis results. Comparisons with structures that use mild steel (e.g., Grade 60) reinforcement through the beam-column joints as well as structures that use only posttensioning steel (with no friction dampers) and structures that use combinations of mild steel and posttensioning steel are also provided.
+
+
+    
+        AU - Aparna Ghosh
+    
+        AU - Biswajit Basu
+    
+
+TI - Seismic Vibration Control of Nonlinear Structures Using the Liquid Column Damper
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 146-153
+VI - 134
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2008)134:1(146) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A1%28146%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A1%28146%29
+SO - Journal of Structural Engineering 2008-01-01 134(1): 146-153
+AB - A design methodology for a variation of the conventional liquid column damper (LCD) (by attaching a spring connection to the LCD) as a seismic vibration control device for structures with nonlinear behavior has been proposed in this paper. The proposed method with the nonconventional damper has the advantage of being applicable to nonlinear structures having high initial stiffness (short natural period) in the linear range below yield with subsequent period lengthening in the postyield phase, where the conventional LCD would be ineffective. The reason for the lack of effectiveness is not only due to the damper parameters designed for the linear structure becoming inapplicable when the structures move to the inelastic regime but also because of the restriction imposed by the high natural period of the conventional damper on its applicability to comparatively stiff structures (for tuning). The methodology in this paper, thereby incorporating the use of a modified model of the LCD system, namely a spring-connected one, removes the requirement on the natural period of the liquid in the LCD and further, the design is based on the parameters of an equivalent linear system for the nonlinear structure. The latter has been represented by a single-degree-of-freedom system with bilinear hysteresis. A procedure for obtaining the equivalent linear system for the nonlinear structure by adopting a temporally averaged linearization technique has been outlined. A few different response parameters known to have damaging effects on structures, such as number/extent of nonlinear excursions of yield level, permanent set, decay of vibration (duration of response), in addition to the reduction in peak response has been the focus of this paper. The efficacy of the proposed method has been examined through simulation studies using recorded accelerograms.
+
+
+    
+        AU - Shane Colwell
+    
+        AU - Biswajit Basu
+    
+
+TI - Experimental and Theoretical Investigations of Equivalent Viscous Damping of Structures with TLCD for Different Fluids
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 154-163
+VI - 134
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2008)134:1(154) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A1%28154%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A1%28154%29
+SO - Journal of Structural Engineering 2008-01-01 134(1): 154-163
+AB - An experimental investigation into the passive damping properties of various fluids, including magnetorheological (MR) fluid, in a tuned liquid column damper (TLCD) is undertaken. The coefficient of head loss for different fluids used in TLCDs to reduce structural responses in single-degree-of-freedom (SDOF) structures subjected to base excitation is experimentally determined. Experimental results are used to calculate the nonlinear coefficient of head loss based on a theoretical formulation. The numerical simulations of the responses of the structure-TLCD system with various fluids used in TLCDs are validated with the experimental results. Water has traditionally been used in TLCDs although semiactive control and additional functional requirements (antifreezing) of TLCDs can be achieved with MR fluids and glycol as resident TLCD liquids, respectively. The semiactive MR-TLCD works by utilizing the ability to change the damping properties (i.e., head loss) of the MR fluid by applying a magnetic field within the TLCD. However, the effectiveness of the MR-TLCD relies upon an adequate movement of the MR fluid within the TLCD (for both tuning and damping through head loss). Hence, an investigation into the passive damping properties of an MR fluid as the residing liquid within the TLCD is imperative for semiactive MR-TLCDs to be realizable. The performances of water, glycol, and a MR fluid are compared and the merits of each of the fluids in providing adequate passive damping to the structural system are discussed. The equivalent viscous damping in the structure provided by the TLCDs using each of the fluids is obtained for both harmonic and broad banded excitations. The theoretical analysis also examines if the existing TLCD theory may be implemented to accurately describe the passive damping performance of the MR-TLCD.
+
+
+    
+        AU - Rogelio Palomera-Arias
+    
+        AU - Jerome J. Connor
+    
+        AU - John A. Ochsendorf
+    
+
+TI - Feasibility Study of Passive Electromagnetic Damping Systems
+PT - Journal Article
+DP - 2008
+TA - Journal of Structural Engineering
+PG - 164-170
+VI - 134
+IP - 1
+AID - 10.1061/(ASCE)0733-9445(2008)134:1(164) [doi]
+    4099 - https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9445%282008%29134%3A1%28164%29
+4100 - https://ascelibrary.org/doi/full/10.1061/%28ASCE%290733-9445%282008%29134%3A1%28164%29
+SO - Journal of Structural Engineering 2008-01-01 134(1): 164-170
+AB - A linear displacement electromagnetic machine is proposed to be used as a passive structural damper. The electromagnetic damper extracts the kinetic energy imparted into the structure by wind or seismic disturbances by transforming it into electricity and induces a force that opposes the movement produced by the disturbance. It is shown that the force-velocity relationship of the electromagnetic damper approximates that of an ideal dashpot with a time delay caused by the circuit reactance. A feasibility analysis is presented to demonstrate the physical and economical viability of the electromagnetic damper as a structural device. The proposed device presents several advantages over current passive structural dampers, among which are: energy dissipation external to the device; possible operation as a semiactive damper by modifying the circuit impedance; and possible operation as an actuator by reversing the energy flow direction.
+
+

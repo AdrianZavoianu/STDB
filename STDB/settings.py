@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'STDB_app',
+    'publications',
 ]
 
 MIDDLEWARE = [
@@ -78,7 +78,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'stdb',
-        'USER': 'stduser',
+        'USER': 'stdbuser',
         'PASSWORD': 'ziua13AZ!DB',
         'HOST': 'localhost',
         'PORT': '5432',

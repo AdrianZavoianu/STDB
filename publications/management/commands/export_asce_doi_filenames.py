@@ -8,18 +8,24 @@ from publications.models import ASCEJournalStructuralEngineering
 
 
 class Command(BaseCommand):
-    help = 'Export DOI and filename for ASCE Journal articles'
+    help = 'Export DOI and filename for ASCE Journal articles where PDF is missing'
 
     def handle(self, *args, **kwargs):
-        output_path = 'data/asce_doi_filenames.csv'
+        output_path = 'data/asce_missing_doi_filenames.csv'
+
+        queryset = ASCEJournalStructuralEngineering.objects.filter(file_exists=False).order_by(
+            'year', 'volume', 'issue', 'article_index'
+        )
 
         with open(output_path, mode='w', newline='', encoding='utf-8') as file:
             writer = csv.writer(file)
             writer.writerow(['doi', 'filename'])
 
-            for article in ASCEJournalStructuralEngineering.objects.all().order_by('year', 'volume', 'issue', 'article_index'):
+            for article in queryset:
                 doi = article.doi or ''
-                filename = f"STDB-{article.publication_code()}-{article.year}.pdf"
+                filename = article.filename()
                 writer.writerow([doi, filename])
 
-        self.stdout.write(self.style.SUCCESS(f"Exported {article.__class__.__name__} to {output_path}"))
+        self.stdout.write(self.style.SUCCESS(
+            f"Exported {queryset.count()} missing entries to {output_path}"
+        ))

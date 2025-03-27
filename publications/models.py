@@ -43,6 +43,8 @@ class BaseJournalArticle(models.Model):
     issue = models.IntegerField(default=0)  # Optional for journals without issues
     article_index = models.IntegerField()
 
+    file_exists = models.BooleanField(default=False)
+
     class Meta:
         abstract = True
 

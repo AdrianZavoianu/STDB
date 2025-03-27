@@ -15,6 +15,6 @@ class JournalPublicationAdmin(admin.ModelAdmin):
     search_fields = ("name",)
 @admin.register(ASCEJournalStructuralEngineering)
 class ASCEJournalStructuralEngineering(admin.ModelAdmin):
-    list_display = ("id", "title", "volume", "issue", "article_index", "year","filename")
+    list_display = ("id", "title", "volume", "issue", "article_index", "year","filename","file_exists")
     search_fields = ("title", "authors", "abstract")
     list_filter = ("volume", "issue", "year")

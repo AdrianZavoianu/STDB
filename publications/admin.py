@@ -8,7 +8,13 @@ from .models import (ASCEJournalCompositesConstruction,
                      ElsevierEngineeringStructures,
                      ElsevierFiniteElementsAnalysisDesign,
                      ElsevierJournalConstructionalSteelResearch,
-                     ElsevierStructuralSafety, JournalPublication)
+                     ElsevierStructuralSafety, JournalPublication,
+                     SpringerBulletinEarthquakeEngineering,
+                     SpringerComputationalMechanics,
+                     SpringerEarthquakeEngineeringEngineeringVibrations,
+                     SpringerInternationalJournalSteelStructures,
+                     SpringerMaterialsStructures,
+                     SpringerStructuralMultidisciplinaryOptimization)
 
 
 @admin.register(DocumentType)
@@ -54,3 +60,28 @@ class ElsevierFiniteElementsAnalysisDesignAdmin(admin.ModelAdmin):
 @admin.register(ElsevierStructuralSafety)
 class ElsevierStructuralSafetyAdmin(admin.ModelAdmin):
     list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+
+@admin.register(SpringerEarthquakeEngineeringEngineeringVibrations)
+class SpringerEarthquakeEngineeringEngineeringVibrationsAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+
+@admin.register(SpringerInternationalJournalSteelStructures)
+class SpringerInternationalJournalSteelStructuresAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+
+@admin.register(SpringerBulletinEarthquakeEngineering)
+class SpringerBulletinEarthquakeEngineeringAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+
+@admin.register(SpringerStructuralMultidisciplinaryOptimization)
+class SpringerStructuralMultidisciplinaryOptimizationAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+
+@admin.register(SpringerMaterialsStructures)
+class SpringerMaterialsStructuresAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+
+@admin.register(SpringerComputationalMechanics)
+class SpringerComputationalMechanicsAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+

@@ -6,4 +6,11 @@ journals={'ASCE_SEJ':'ASCEJournalStructuralEngineering',
         'ELSE_CST':'ElsevierComputersStructures',
         'ELSE_EST':'ElsevierEngineeringStructures',
         'ELSE_FEA':'ElsevierFiniteElementsAnalysisDesign',
-        'ELSE_STS':'ElsevierStructuralSafety',}
+        'ELSE_STS':'ElsevierStructuralSafety',
+        'SPRI_EEV':'SpringerEarthquakeEngineeringEngineeringVibrations',
+        'SPRI_ISS':'SpringerInternationalJournalSteelStructures',
+        'SPRI_BEE':'SpringerBulletinEarthquakeEngineering',
+        'SPRI_SMO':'SpringerStructuralMultidisciplinaryOptimization',
+        'SPRI_MAS':'SpringerMaterialsStructures',
+        'SPRI_CME':'SpringerComputationalMechanics'
+        }

@@ -63,21 +63,21 @@ class Command(BaseCommand):
                     url = f"https://doi.org/{doi}"
                     lines = [l.strip() for l in entry.splitlines() if l.strip()]
 
-                    # Extract volume (handle "Volume X" or "Volumes X–Y")
-                    vol_match = re.search(r"Volumes?\s+(\d+)", entry, re.I)
+                    # Extract volume (handle Volume X or Volumes X–Y)
+                    vol_match = re.search(r"Volume(?:s)?\s+(\d+)(?:\s*[-–]\s*\d+)?", entry, re.I)
                     vol = int(vol_match.group(1)) if vol_match else None
                     if vol is None:
                         raise ValueError("Missing volume number")
 
                     # Extract issue (optional)
-                    issue_match = re.search(r"Issues?\s+(\d+)", entry, re.I)
+                    issue_match = re.search(r"Issue(?:s)?\s+(\d+)(?:\s*[-–]\s*\d+)?", entry, re.I)
                     issue = int(issue_match.group(1)) if issue_match else 0
 
                     # Extract year
                     year_match = re.search(r"\b(19|20)\d{2}\b", entry)
                     year = int(year_match.group(0)) if year_match else 1900
 
-                    # Extract authors and title: assume first two lines
+                    # Extract authors and title
                     authors = lines[0] if len(lines) > 0 else "NA"
                     title = lines[1] if len(lines) > 1 else "NA"
 
@@ -86,20 +86,13 @@ class Command(BaseCommand):
                     if abstract_match:
                         abstract = abstract_match.group(1).strip()
 
-                    # Extract article number if present
-                    article_number_match = re.search(r",\s*(\d{5,7})\s*,", entry)
-                    article_index = None
-                    if article_number_match:
-                        article_index = int(article_number_match.group(1))
-
-                    # If no article number: assign unique article index per (journal, volume, issue)
-                    if article_index is None:
-                        max_index = (
-                            model.objects
-                            .filter(journal=journal_instance, volume=vol, issue=issue)
-                            .aggregate(Max("article_index"))
-                        )
-                        article_index = (max_index["article_index__max"] or 0) + 1
+                    # ✅ Always assign sequential article_index per (volume, issue)
+                    max_index = (
+                        model.objects
+                        .filter(journal=journal_instance, volume=vol, issue=issue)
+                        .aggregate(Max("article_index"))
+                    )
+                    article_index = (max_index["article_index__max"] or 0) + 1
 
                     # Final duplicate check
                     if model.objects.filter(journal=journal_instance, volume=vol, issue=issue, article_index=article_index).exists():
@@ -117,7 +110,7 @@ class Command(BaseCommand):
                         volume=vol,
                         issue=issue,
                         year=year,
-                        article_index=article_index
+                        article_index=article_index,
                     )
                     article.save()
                     self.stdout.write(f"✅ Imported: {title[:60]}...")

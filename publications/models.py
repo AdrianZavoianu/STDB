@@ -156,3 +156,69 @@ class ElsevierStructuralSafety(BaseJournalArticle):
         doc_type_code = self.journal.doc_type.code()
         journal_code = self.journal.code()
         return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+    
+class SpringerEarthquakeEngineeringEngineeringVibrations(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Springer Earthquake Engineering and Engineering Vibrations"
+        verbose_name_plural ="Springer Earthquake Engineering and Engineering Vibrations Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class SpringerInternationalJournalSteelStructures(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Springer International Journal of Steel Structures"
+        verbose_name_plural ="Springer International Journal of Steel Structures Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class SpringerBulletinEarthquakeEngineering(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Springer Bulletin of Earthquake Engineering"
+        verbose_name_plural ="Springer Bulletin of Earthquake Engineering Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class SpringerStructuralMultidisciplinaryOptimization(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Springer Structural and Multidisciplinary Optimization"
+        verbose_name_plural ="Springer Structural and Multidisciplinary Optimization Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class SpringerMaterialsStructures(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Springer Materials and Structures"
+        verbose_name_plural ="Springer Materials and Structures Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class SpringerComputationalMechanics(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Springer Computational Mechanics"
+        verbose_name_plural ="Springer Computational Mechanics Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"

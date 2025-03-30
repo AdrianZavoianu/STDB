@@ -6,7 +6,7 @@ from collections import defaultdict
 
 from django.core.management.base import BaseCommand
 
-from publications.models import (ASCEJournalStructuralEngineering,
+from publications.models import (ASCEJournalCompositesConstruction,
                                  JournalPublication)
 
 
@@ -14,7 +14,7 @@ class Command(BaseCommand):
     help = 'Import ASCE Journal Articles from all text files in /data/'
 
     def handle(self, *args, **options):
-        journal_name = "ASCE Journal of Structural Engineering"
+        journal_name = "ASCE Journal of Composites for Construction"
         data_dir = "data"
         file_pattern = ".txt"
 
@@ -83,7 +83,7 @@ class Command(BaseCommand):
                 article_index = issue_counter[key]
 
                 authors = ", ".join(fields["authors"])
-                ASCEJournalStructuralEngineering.objects.create(
+                ASCEJournalCompositesConstruction.objects.create(
                     journal=journal,
                     title=fields["title"],
                     authors=authors,

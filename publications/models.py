@@ -65,3 +65,94 @@ class ASCEJournalStructuralEngineering(BaseJournalArticle):
         doc_type_code = self.journal.doc_type.code()
         journal_code = self.journal.code()
         return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class ASCEJournalStructuralDesignConstructionPractice(BaseJournalArticle):
+
+    class Meta:
+        verbose_name = "ASCE Journal of Structural Design and Construction Practice"
+        verbose_name_plural = "ASCE Journal of Structural Design and Construction Practice Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class ASCEJournalPerformanceConstructedFacilities(BaseJournalArticle):
+
+    class Meta:
+        verbose_name = "ASCE Journal of Performance of Constructed Facilities"
+        verbose_name_plural = "ASCE Journal of Performance of Constructed Facilities Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class ASCEJournalCompositesConstruction(BaseJournalArticle):
+
+    class Meta:
+        verbose_name = "ASCE Journal of Composites for Construction"
+        verbose_name_plural = "ASCE Journal of Composites for Construction Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class ElsevierJournalConstructionalSteelResearch(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Elsevier Journal of Constructional Steel Research"
+        verbose_name_plural = verbose_name + " Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class ElsevierComputersStructures(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Elsevier Computers and Structures"
+        verbose_name_plural = verbose_name + " Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class ElsevierEngineeringStructures(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Elsevier Engineering Structures"
+        verbose_name_plural = verbose_name + " Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class ElsevierFiniteElementsAnalysisDesign(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Elsevier Finite Elements in Analysis and Design"
+        verbose_name_plural = verbose_name + " Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class ElsevierStructuralSafety(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Elsevier Structural Safety"
+        verbose_name_plural = verbose_name + " Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"

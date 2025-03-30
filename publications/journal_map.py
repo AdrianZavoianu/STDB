@@ -1,0 +1,9 @@
+journals={'ASCE_SEJ':'ASCEJournalStructuralEngineering',
+        'ASCE_DCP':'ASCEJournalStructuralDesignConstructionPractice',
+        'ASCE_PCF':'ASCEJournalPerformanceConstructedFacilities',
+        'ASCE_JCC':'ASCEJournalCompositesConstruction',
+        'ELSE_CSR':'ElsevierJournalConstructionalSteelResearch',
+        'ELSE_CST':'ElsevierComputersStructures',
+        'ELSE_EST':'ElsevierEngineeringStructures',
+        'ELSE_FEA':'ElsevierFiniteElementsAnalysisDesign',
+        'ELSE_STS':'ElsevierStructuralSafety',}

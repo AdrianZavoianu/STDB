@@ -156,7 +156,7 @@ class ElsevierStructuralSafety(BaseJournalArticle):
         doc_type_code = self.journal.doc_type.code()
         journal_code = self.journal.code()
         return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
-    
+
 class SpringerEarthquakeEngineeringEngineeringVibrations(BaseJournalArticle):
     class Meta:
         verbose_name = "Springer Earthquake Engineering and Engineering Vibrations"
@@ -216,6 +216,83 @@ class SpringerComputationalMechanics(BaseJournalArticle):
     class Meta:
         verbose_name = "Springer Computational Mechanics"
         verbose_name_plural ="Springer Computational Mechanics Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class TaylorFrancisJournalEarthquakeEngineering(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Taylor & Francis Journal of Earthquake Engineering"
+        verbose_name_plural ="Taylor & Francis Journal of Earthquake Engineering Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class TaylorFrancisMechanicsStructuresMaterials(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Taylor & Francis Mechanics of Structures and Materials"
+        verbose_name_plural ="Taylor & Francis Mechanics of Structures and Materials Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class IABSEJournalSeismologyEarthquakeEngineering(BaseJournalArticle):
+    class Meta:
+        verbose_name = "IABSE Journal of Seismology and Earthquake Engineering"
+        verbose_name_plural ="IABSE Journal of Seismology and Earthquake Engineering Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class WileyStructuralDesignTallSpecialBuildings(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Wiley The Structural Design of Tall and Special Buildings"
+        verbose_name_plural ="Wiley The Structural Design of Tall and Special Buildings Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class WileyEarthquakeEngineeringStructuralDynamics(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Wiley Earthquake Engineering & Structural Dynamics"
+        verbose_name_plural ="Wiley Earthquake Engineering & Structural Dynamics Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class WileyStructuralControlHealthMonitoring(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Wiley Structural Control and Health Monitoring"
+        verbose_name_plural ="Wiley Structural Control and Health Monitoring Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class WileyInternationalJournalNumericalMethodsEngineering(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Wiley International Journal for Numerical Methods in Engineering"
+        verbose_name_plural ="Wiley International Journal for Numerical Methods in Engineering Articles"
         unique_together = ("journal", "volume", "issue", "article_index")
 
     def publication_code(self):

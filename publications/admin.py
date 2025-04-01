@@ -8,13 +8,20 @@ from .models import (ASCEJournalCompositesConstruction,
                      ElsevierEngineeringStructures,
                      ElsevierFiniteElementsAnalysisDesign,
                      ElsevierJournalConstructionalSteelResearch,
-                     ElsevierStructuralSafety, JournalPublication,
-                     SpringerBulletinEarthquakeEngineering,
+                     ElsevierStructuralSafety,
+                     IABSEJournalSeismologyEarthquakeEngineering,
+                     JournalPublication, SpringerBulletinEarthquakeEngineering,
                      SpringerComputationalMechanics,
                      SpringerEarthquakeEngineeringEngineeringVibrations,
                      SpringerInternationalJournalSteelStructures,
                      SpringerMaterialsStructures,
-                     SpringerStructuralMultidisciplinaryOptimization)
+                     SpringerStructuralMultidisciplinaryOptimization,
+                     TaylorFrancisJournalEarthquakeEngineering,
+                     TaylorFrancisMechanicsStructuresMaterials,
+                     WileyEarthquakeEngineeringStructuralDynamics,
+                     WileyInternationalJournalNumericalMethodsEngineering,
+                     WileyStructuralControlHealthMonitoring,
+                     WileyStructuralDesignTallSpecialBuildings)
 
 
 @admin.register(DocumentType)
@@ -85,3 +92,30 @@ class SpringerMaterialsStructuresAdmin(admin.ModelAdmin):
 class SpringerComputationalMechanicsAdmin(admin.ModelAdmin):
     list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
 
+@admin.register(TaylorFrancisJournalEarthquakeEngineering)
+class TaylorFrancisJournalEarthquakeEngineeringAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+
+@admin.register(TaylorFrancisMechanicsStructuresMaterials)
+class TaylorFrancisMechanicsStructuresMaterialsAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+
+@admin.register(IABSEJournalSeismologyEarthquakeEngineering)
+class IABSEJournalSeismologyEarthquakeEngineeringAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+
+@admin.register(WileyStructuralDesignTallSpecialBuildings)
+class WileyStructuralDesignTallSpecialBuildingsAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+
+@admin.register(WileyEarthquakeEngineeringStructuralDynamics)
+class WileyEarthquakeEngineeringStructuralDynamicsAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+
+@admin.register(WileyStructuralControlHealthMonitoring)
+class WileyStructuralControlHealthMonitoringAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+
+@admin.register(WileyInternationalJournalNumericalMethodsEngineering)
+class WileyInternationalJournalNumericalMethodsEngineeringAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")

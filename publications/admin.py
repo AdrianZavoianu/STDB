@@ -1,6 +1,7 @@
 from django.contrib import admin
 
-from .models import (ASCEJournalCompositesConstruction,
+from .models import (ACIStructuralJournal, AISCJournalStructuralEngineering,
+                     ASCEJournalCompositesConstruction,
                      ASCEJournalPerformanceConstructedFacilities,
                      ASCEJournalStructuralDesignConstructionPractice,
                      ASCEJournalStructuralEngineering, DocumentType,
@@ -10,7 +11,10 @@ from .models import (ASCEJournalCompositesConstruction,
                      ElsevierJournalConstructionalSteelResearch,
                      ElsevierStructuralSafety,
                      IABSEJournalSeismologyEarthquakeEngineering,
-                     JournalPublication, SpringerBulletinEarthquakeEngineering,
+                     JournalPublication,
+                     JSEEJournalSeismologyEarthquakeEngineering,
+                     SageAdvancesStructuralEngineering, SageEarthquakeSpectra,
+                     SpringerBulletinEarthquakeEngineering,
                      SpringerComputationalMechanics,
                      SpringerEarthquakeEngineeringEngineeringVibrations,
                      SpringerInternationalJournalSteelStructures,
@@ -21,7 +25,8 @@ from .models import (ASCEJournalCompositesConstruction,
                      WileyEarthquakeEngineeringStructuralDynamics,
                      WileyInternationalJournalNumericalMethodsEngineering,
                      WileyStructuralControlHealthMonitoring,
-                     WileyStructuralDesignTallSpecialBuildings)
+                     WileyStructuralDesignTallSpecialBuildings,
+                     WSCInternationalJournalStructuralStabilityDynamics)
 
 
 @admin.register(DocumentType)
@@ -118,4 +123,28 @@ class WileyStructuralControlHealthMonitoringAdmin(admin.ModelAdmin):
 
 @admin.register(WileyInternationalJournalNumericalMethodsEngineering)
 class WileyInternationalJournalNumericalMethodsEngineeringAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+
+@admin.register(WSCInternationalJournalStructuralStabilityDynamics)
+class WSCInternationalJournalStructuralStabilityDynamicsAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+
+@admin.register(SageEarthquakeSpectra)
+class SageEarthquakeSpectraAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+
+@admin.register(SageAdvancesStructuralEngineering)
+class SageAdvancesStructuralEngineeringAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+
+@admin.register(JSEEJournalSeismologyEarthquakeEngineering)
+class JSEEJournalSeismologyEarthquakeEngineeringAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+
+@admin.register(AISCJournalStructuralEngineering)
+class AISCJournalStructuralEngineeringAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+
+@admin.register(ACIStructuralJournal)
+class ACIStructuralJournalAdmin(admin.ModelAdmin):
     list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")

@@ -299,3 +299,70 @@ class WileyInternationalJournalNumericalMethodsEngineering(BaseJournalArticle):
         doc_type_code = self.journal.doc_type.code()
         journal_code = self.journal.code()
         return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class WSCInternationalJournalStructuralStabilityDynamics(BaseJournalArticle):
+    class Meta:
+        verbose_name = "WSC International Journal of Structural Stability and Dynamics"
+        verbose_name_plural ="WSC International Journal of Structural Stability and Dynamics Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class SageEarthquakeSpectra(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Sage Earthquake Spectra"
+        verbose_name_plural ="Sage Earthquake Spectra Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class SageAdvancesStructuralEngineering(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Sage Advances in Structural Engineering"
+        verbose_name_plural ="Sage Advances in Structural Engineering Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class JSEEJournalSeismologyEarthquakeEngineering(BaseJournalArticle):
+    class Meta:
+        verbose_name = "JSEE Journal of Seismology and Earthquake Engineering"
+        verbose_name_plural ="JSEE Journal of Seismology and Earthquake Engineering Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class AISCJournalStructuralEngineering(BaseJournalArticle):
+    class Meta:
+        verbose_name = "AISC Journal of Structural Engineering"
+        verbose_name_plural ="AISC Journal of Structural Engineering Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class ACIStructuralJournal(BaseJournalArticle):
+
+    class Meta:
+        verbose_name = "ACI Structural Journal"
+        verbose_name_plural ="ACI Structural Journal Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"

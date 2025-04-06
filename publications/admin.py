@@ -22,6 +22,7 @@ from .models import (ACIStructuralJournal, AISCJournalStructuralEngineering,
                      SpringerStructuralMultidisciplinaryOptimization,
                      TaylorFrancisJournalEarthquakeEngineering,
                      TaylorFrancisMechanicsStructuresMaterials,
+                     UnifiedArticles,
                      WileyEarthquakeEngineeringStructuralDynamics,
                      WileyInternationalJournalNumericalMethodsEngineering,
                      WileyStructuralControlHealthMonitoring,
@@ -48,6 +49,7 @@ class ASCEJournalStructuralDesignConstructionPracticeAdmin(admin.ModelAdmin):
 @admin.register(ASCEJournalCompositesConstruction)
 class ASCEJournalCompositesConstructionAdmin(admin.ModelAdmin):
     list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    list_filter = ("volume", "issue", "year", "file_exists")
 
 @admin.register(ASCEJournalPerformanceConstructedFacilities)
 class ASCEJournalPerformanceConstructedFacilitiesAdmin(admin.ModelAdmin):
@@ -140,11 +142,23 @@ class SageAdvancesStructuralEngineeringAdmin(admin.ModelAdmin):
 @admin.register(JSEEJournalSeismologyEarthquakeEngineering)
 class JSEEJournalSeismologyEarthquakeEngineeringAdmin(admin.ModelAdmin):
     list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    list_filter = ("volume", "issue", "year", "file_exists")
 
 @admin.register(AISCJournalStructuralEngineering)
 class AISCJournalStructuralEngineeringAdmin(admin.ModelAdmin):
     list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    list_filter = ("volume", "issue", "year", "file_exists")
+    search_fields = ("title", "volume")
 
 @admin.register(ACIStructuralJournal)
 class ACIStructuralJournalAdmin(admin.ModelAdmin):
     list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    list_filter = ("volume", "issue", "year", "file_exists")
+    search_fields = ("title", "volume")
+
+@admin.register(UnifiedArticles)
+class UnifiedArticlesAdmin(admin.ModelAdmin):
+    list_display = ("id", "title","journal_name", "volume", "issue", "article_index", "year", "filename", "file_exists")
+
+
+

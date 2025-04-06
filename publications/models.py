@@ -1,3 +1,6 @@
+import os
+
+from django.conf import settings
 from django.db import models
 
 # Create your models here.
@@ -366,3 +369,30 @@ class ACIStructuralJournal(BaseJournalArticle):
         doc_type_code = self.journal.doc_type.code()
         journal_code = self.journal.code()
         return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class UnifiedArticles(models.Model):
+    journal_name = models.CharField(max_length=255)
+    title = models.TextField()
+    authors = models.TextField()
+    abstract = models.TextField(blank=True, null=True)
+    year = models.IntegerField()
+    doi = models.CharField(max_length=255, blank=True, null=True)
+    url = models.URLField(blank=True, null=True)
+    volume = models.IntegerField()
+    issue = models.IntegerField(default=0)
+    article_index = models.IntegerField()
+    file_exists = models.BooleanField(default=False)
+    publication_code = models.CharField(max_length=50)
+
+    class Meta:
+        unique_together = ("journal_name", "volume", "issue", "article_index")
+        verbose_name = "0.UNIFIED JOURNAL ARTICLE"
+        verbose_name = "0.UNIFIED JOURNAL ARTICLES"
+
+    def filename(self):
+        return f"STDB-{self.publication_code}-{self.year}.pdf"
+    
+    def file_url(self):
+        if self.file_exists:
+            return os.path.join(settings.MEDIA_URL, 'publications', self.filename())
+        return None

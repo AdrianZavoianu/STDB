@@ -1,0 +1,136 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>STDB Technical Library</title>
+  <link rel="stylesheet" href="{% static 'frontend/styles.css' %}?v={{ now|date:'U' }}">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Header -->
+  <header class="main-header">
+    <div class="logo-section">
+      <img src="{% static 'frontend/STDB_logo.png' %}" alt="Logo" class="logo">
+    </div>
+    <div class="nav-buttons">
+      <button>Login</button>
+      <button>Help</button>
+    </div>
+  </header>
+
+
+
+  <section class="section-card search-section">
+    <!-- Top: search bar + toggle buttons -->
+    <div class="search-top">
+      <div class="search-bar-block">
+        <input type="text" placeholder="Search..." class="search-input">
+  
+        <div class="search-mode">
+          <label><input type="radio" name="search_mode" value="author"> By Author</label>
+          <label><input type="radio" name="search_mode" value="content"> By Title and Content</label>
+        </div>
+      </div>
+  
+      <div class="toggle-buttons">
+        <button id="toggle-filter">Filtering Options</button>
+        <button id="toggle-sort">Sorting Options</button>
+      </div>
+    </div>
+  
+    <!-- Expandable Options Row -->
+    <div class="options-row">
+      <div id="filter-box" class="option-box hidden">
+        <h3>Filtering Options</h3>
+        <div class="filter-group">
+          <label><input type="checkbox" name="type" value="journal"> Journal Articles</label>
+          <label><input type="checkbox" name="type" value="conference"> Conference Articles</label>
+          <label><input type="checkbox" name="type" value="books"> Books</label>
+          <label><input type="checkbox" name="type" value="guidelines"> Guidelines</label>
+          <label><input type="checkbox" name="type" value="codes"> Codes</label>
+          <label><input type="checkbox" name="type" value="standards"> Standards</label>
+        </div>
+        <div class="filter-range">
+          <label>Year: <input type="number" name="year_min" placeholder="From"> - <input type="number" name="year_max" placeholder="To"></label>
+          <label>Volume: <input type="number" name="vol_min" placeholder="From"> - <input type="number" name="vol_max" placeholder="To"></label>
+          <label>Issue: <input type="number" name="iss_min" placeholder="From"> - <input type="number" name="iss_max" placeholder="To"></label>
+        </div>
+        <div class="filter-journals">
+          <label>Journal Name:
+            <input type="text" name="journal_filter" placeholder="e.g., ASCE JCC">
+          </label>
+        </div>
+      </div>
+  
+      <div id="sort-box" class="option-box hidden">
+        <h3>Sorting Options</h3>
+        <div class="sort-group">
+          <label>Year:
+            <input type="radio" name="sort_year" value="asc"> Asc
+            <input type="radio" name="sort_year" value="desc"> Desc
+          </label>
+          <label>Volume:
+            <input type="radio" name="sort_vol" value="asc"> Asc
+            <input type="radio" name="sort_vol" value="desc"> Desc
+          </label>
+          <label>Issue:
+            <input type="radio" name="sort_iss" value="asc"> Asc
+            <input type="radio" name="sort_iss" value="desc"> Desc
+          </label>
+          <label>Article Index:
+            <input type="radio" name="sort_idx" value="asc"> Asc
+            <input type="radio" name="sort_idx" value="desc"> Desc
+          </label>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+  <!-- Results Section -->
+  <section class="section-card results">
+    {% for article in articles %}
+      <div class="article">
+        <div class="article-header">
+          <h2>{{ article.title }}</h2>
+          {% if article.file_exists %}
+            <a href="{{ article.file_url }}" class="btn-open" target="_blank">PDF</a>
+          {% else %}
+            <span class="btn-open disabled">No PDF</span>
+          {% endif %}
+        </div>
+
+        <p class="meta">
+          {{ article.journal_name }} | Volume {{ article.volume }}{% if article.issue %}, Issue {{ article.issue }}{% endif %} | {{ article.year }}
+        </p>
+        <p class="meta">Authors: {{ article.authors }}</p>
+        <p class="abstract">{{ article.abstract|truncatewords:1000 }}</p>
+      </div>
+    {% empty %}
+      <p>No articles found.</p>
+    {% endfor %}
+  </section>
+
+  <!-- Footer -->
+  <footer class="main-footer">
+    <p>© {{ now|date:"Y" }} STDB - Structural Technical Document Base</p>
+  </footer>
+  <script>
+    const filterBtn = document.getElementById('toggle-filter');
+    const sortBtn = document.getElementById('toggle-sort');
+    const filterBox = document.getElementById('filter-box');
+    const sortBox = document.getElementById('sort-box');
+
+    filterBtn.addEventListener('click', () => {
+      filterBox.classList.toggle('hidden');
+    });
+
+    sortBtn.addEventListener('click', () => {
+      sortBox.classList.toggle('hidden');
+    });
+  </script>
+
+</body>
+</html>

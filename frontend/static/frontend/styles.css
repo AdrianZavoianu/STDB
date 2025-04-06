@@ -1,0 +1,337 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
+:root {
+  --bg: #0a0c10;
+  --card: #161b22;
+  --border: #2c313a;
+  --text: #d1d5db;
+  --text-muted: #7f8b9a;
+  --accent: #4a7d89;
+  --accent-hover: #5e9ca6;
+  --button-bg: #1c2128;
+  --button-hover: #2c313a;
+  --radius: 8px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+/* HEADER */
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--bg);
+  padding: 0rem 2rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.logo-section {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.logo {
+  height: 100px;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.acronym {
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: var(--accent);
+}
+
+.nav-buttons button {
+  margin-left: 1rem;
+  background: var(--button-bg);
+  color: var(--text);
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.nav-buttons button:hover {
+  background: var(--button-hover);
+}
+
+/* SHARED CARD CONTAINER */
+.section-card {
+  background: var(--card);
+  border-radius: var(--radius);
+  padding: 1rem;
+  margin: 1rem;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+  border: 1px solid var(--border);
+}
+
+
+/* SEARCH SECTION */
+
+.search-section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+}
+
+
+
+
+/* Top: search input + radio buttons + toggle buttons */
+
+.search-top {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 0;
+}
+
+/* Search block grows fully */
+.search-bar-block {
+  flex: 1;
+  min-width: 250px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0;
+}
+
+/* Stretch search input fully */
+.search-input {
+  width: 100%;
+  padding: 0.9rem 1rem;
+  font-size: 1.2rem;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text);
+  height: 48px; /* Ensures consistent height with buttons */
+  line-height: 1.4;
+  margin-bottom: 0.5em;
+}
+
+.search-input::placeholder {
+  color: var(--accent);
+  font-size: 1.2rem;
+  opacity: 0.5;
+}
+
+/* Tighter radio group below input */
+.search-mode {
+  margin-top: 0.25rem;
+  display: flex;
+  gap: 1.5rem;
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  margin-bottom: 0;
+}
+
+/* Right side: toggle buttons */
+.toggle-buttons {
+  display: flex;
+  flex-shrink: 0;
+  gap: 0.75rem;
+  align-items: center;
+  height: 48px; /* Match input height */
+}
+
+.toggle-buttons button {
+  height: 100%;
+  padding: 0 1rem;
+  font-size: 1.1rem;
+  font-weight: 500;
+  background: var(--button-bg);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  transition: background 0.2s ease;
+  white-space: nowrap;
+}
+
+.toggle-buttons button:hover {
+  background: var(--button-hover);
+}
+
+/* Expanded filter/sort section below */
+
+.options-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 0;
+}
+
+.option-box {
+  flex: 1 1 48%;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem;
+}
+
+.option-box h3 {
+  font-size: 1rem;
+  color: var(--text);
+  margin-bottom: 0.75rem;
+  margin-top: 0;
+}
+
+/* Shared: hide/show logic */
+.hidden {
+  display: none;
+}
+
+/* FILTERING content */
+.filter-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.filter-range label,
+.filter-journals label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.filter-range input,
+.filter-journals input {
+  width: 80px;
+  margin-left: 0.5rem;
+  background: var(--card);
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 4px;
+  padding: 0.3rem 0.5rem;
+}
+
+.filter-journals input {
+  width: 100%;
+  margin-left: 0;
+  margin-top: 0.3rem;
+}
+
+/* SORTING content */
+.sort-group label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.85rem;
+  margin-bottom: 0.5rem;
+  color: var(--text-muted);
+}
+
+
+/* RESULTS */
+
+.results {
+  padding: 1rem;
+  overflow-x: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+/* Each article box */
+.article {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  gap: 0.1rem;
+}
+
+/* Header row with title and file button */
+.article-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 0.3rem;
+  
+}
+
+.article-header h2 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text);
+  margin: 0;
+  flex: 1;
+  letter-spacing: 0.05rem;
+}
+
+/* Meta and abstract text */
+.meta {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin: 0;
+}
+
+.abstract {
+  font-size: 0.95rem;
+  color: var(--text);
+  margin: 0.7rem 0 0;
+}
+
+/* Open File Button */
+.btn-open {
+  padding: 0.4rem 0.9rem;
+  background-color: var(--accent);
+  color: #fff;
+  border-radius: var(--radius);
+  font-size: 0.9rem;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: background 0.2s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-open:hover {
+  background-color: var(--accent-hover);
+}
+
+/* Disabled button style */
+.btn-open.disabled {
+  background-color: #3a3f46;
+  color: var(--text-muted);
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+
+
+/* FOOTER */
+.main-footer {
+  padding: 1.5rem 2rem;
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  border-top: 1px solid var(--border);
+}

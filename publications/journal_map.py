@@ -27,5 +27,11 @@ journals={
         'JSEE_SEE':'JSEEJournalSeismologyEarthquakeEngineering',                #26
         'IABS_SSE':'IABSEJournalSeismologyEarthquakeEngineering',               #27
         'WSCP_SSD':'WSCInternationalJournalStructuralStabilityDynamics',        #28
+        'TAFR_EST':'TaFrEngineeringStructuresandTechnologies',                  #29
+        'TAFR_ABE':'TaFrJournalAsianArchitectureBuildingEngineering',           #30
+        'SPRI_WWP':'SpringerEuropeanJournalWoodProducts',                       #31
+        'ELSE_CBM':'ElsevierConstructionBuildingMaterials',                     #32
+        'ELSE_JBE':'ElsevierJournalBuildingEngineering',                        #33
+        
         }
 

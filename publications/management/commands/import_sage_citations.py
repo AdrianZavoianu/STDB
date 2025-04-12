@@ -64,11 +64,19 @@ class Command(BaseCommand):
                         continue
 
                     title = field_dict.get("T1", "NA").strip()
-                    abstract = field_dict.get("N2", "").strip()
+
+                    # Updated abstract regex and fallback
+                    abstract_match = re.search(r"(?m)^N2\s+-\s+(.*(?:\n(?![A-Z0-9]{2}\s+-).+)*)", entry)
+                    abstract = abstract_match.group(1).replace("\n", " ").strip() if abstract_match else "NA"
+
                     authors = ", ".join(re.findall(r"(?m)^AU  - (.*)", entry)) or "NA"
                     url = field_dict.get("UR", f"https://doi.org/{doi}")
 
-                    year = int(field_dict.get("PY", "1900"))
+                    py_raw = field_dict.get("PY", "1900")
+                    try:
+                        year = int(re.match(r"\d{4}", py_raw).group())
+                    except:
+                        year = 1900
 
                     article_index += 1
 

@@ -6,8 +6,10 @@ from .models import (ACIStructuralJournal, AISCJournalStructuralEngineering,
                      ASCEJournalStructuralDesignConstructionPractice,
                      ASCEJournalStructuralEngineering, DocumentType,
                      ElsevierComputersStructures,
+                     ElsevierConstructionBuildingMaterials,
                      ElsevierEngineeringStructures,
                      ElsevierFiniteElementsAnalysisDesign,
+                     ElsevierJournalBuildingEngineering,
                      ElsevierJournalConstructionalSteelResearch,
                      ElsevierStructuralSafety,
                      IABSEJournalSeismologyEarthquakeEngineering,
@@ -17,9 +19,12 @@ from .models import (ACIStructuralJournal, AISCJournalStructuralEngineering,
                      SpringerBulletinEarthquakeEngineering,
                      SpringerComputationalMechanics,
                      SpringerEarthquakeEngineeringEngineeringVibrations,
+                     SpringerEuropeanJournalWoodProducts,
                      SpringerInternationalJournalSteelStructures,
                      SpringerMaterialsStructures,
                      SpringerStructuralMultidisciplinaryOptimization,
+                     TaFrEngineeringStructuresandTechnologies,
+                     TaFrJournalAsianArchitectureBuildingEngineering,
                      TaylorFrancisJournalEarthquakeEngineering,
                      TaylorFrancisMechanicsStructuresMaterials,
                      UnifiedArticles,
@@ -146,7 +151,7 @@ class JSEEJournalSeismologyEarthquakeEngineeringAdmin(admin.ModelAdmin):
 
 @admin.register(AISCJournalStructuralEngineering)
 class AISCJournalStructuralEngineeringAdmin(admin.ModelAdmin):
-    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    list_display = ("id", "title","authors", "volume", "issue", "article_index", "year", "filename", "file_exists")
     list_filter = ("volume", "issue", "year", "file_exists")
     search_fields = ("title", "volume")
 
@@ -158,7 +163,37 @@ class ACIStructuralJournalAdmin(admin.ModelAdmin):
 
 @admin.register(UnifiedArticles)
 class UnifiedArticlesAdmin(admin.ModelAdmin):
-    list_display = ("id", "title","journal_name", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    list_display = ("id", "title","authors","journal_name", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    search_fields = ("title","authors", "volume")
 
 
+@admin.register(TaFrEngineeringStructuresandTechnologies)
+class TaFrEngineeringStructuresandTechnologiesAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    list_filter = ("volume", "issue", "year", "file_exists")
+    search_fields = ("title", "volume")
 
+
+@admin.register(TaFrJournalAsianArchitectureBuildingEngineering)
+class TaFrJournalAsianArchitectureBuildingEngineeringAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    list_filter = ("volume", "issue", "year", "file_exists")
+    search_fields = ("title", "volume")
+
+@admin.register(SpringerEuropeanJournalWoodProducts)
+class SpringerEuropeanJournalWoodProductsAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    list_filter = ("volume", "issue", "year", "file_exists")
+    search_fields = ("title", "volume")
+
+@admin.register(ElsevierConstructionBuildingMaterials)
+class ElsevierConstructionBuildingMaterialsAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    list_filter = ("volume", "issue", "year", "file_exists")
+    search_fields = ("title", "volume")
+
+@admin.register(ElsevierJournalBuildingEngineering)
+class ElsevierJournalBuildingEngineeringAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    list_filter = ("volume", "issue", "year", "file_exists")
+    search_fields = ("title", "volume")

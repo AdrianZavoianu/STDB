@@ -370,6 +370,67 @@ class ACIStructuralJournal(BaseJournalArticle):
         journal_code = self.journal.code()
         return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
 
+
+
+class TaFrEngineeringStructuresandTechnologies(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Taylor & Francis Engineering Structures and Technologies"
+        verbose_name_plural ="Taylor & Francis Engineering Structures and Technologies Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+
+class TaFrJournalAsianArchitectureBuildingEngineering(BaseJournalArticle):
+    class Meta:
+        verbose_name = "JAABE Journal of Asian Architecture and Building Engineering"
+        verbose_name_plural ="JAABE Journal of Asian Architecture and Building Engineering Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+
+class SpringerEuropeanJournalWoodProducts(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Springer European Journal of Wood and Wood Products"
+        verbose_name_plural ="Springer European Journal of Wood and Wood Products Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+
+class ElsevierConstructionBuildingMaterials(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Elsevier Construction and Building Materials"
+        verbose_name_plural = "Elsevier Construction and Building Materials Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+
+class ElsevierJournalBuildingEngineering(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Elsevier Journal of Building Engineering"
+        verbose_name_plural = "Elsevier Journal of Building Engineering Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
 class UnifiedArticles(models.Model):
     journal_name = models.CharField(max_length=255)
     title = models.TextField()

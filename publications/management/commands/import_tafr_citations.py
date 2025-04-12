@@ -32,6 +32,8 @@ class Command(BaseCommand):
     #                  10:2000, 9:1999, 8:1998, 7:1997, 6:1996, 5:1995,
     #                  4:1994, 3:1993, 2:1992, 1:1991
     # }
+    volumes_years = {9:2017, 8:2016, 7:2015, 6:2014, 5:2013, 4:2012,
+                     3:2011, 2:2010, 1:2009}
 
     def add_arguments(self, parser):
         parser.add_argument("--journal", required=True, help="Journal code (e.g., TAYF_EEQE)")

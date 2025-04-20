@@ -431,6 +431,162 @@ class ElsevierJournalBuildingEngineering(BaseJournalArticle):
         journal_code = self.journal.code()
         return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
 
+
+class JAABEJournalAsianArchitectureuildingEngineering(BaseJournalArticle):
+    class Meta:
+        verbose_name = "JAABE Journal of Asian Architecture and Building Engineering"
+        verbose_name_plural = "JAABE Journal of Asian Architecture and Building Engineering Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class InderScienceInternationalJournalMaterialsStructuralIntegrity(BaseJournalArticle):
+    class Meta:
+        verbose_name = "InderScience International Journal of Materials and Structural Integrity"
+        verbose_name_plural = "InderScience International Journal of Materials and Structural Integrity Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class InderScienceInternationalJournalStructuraEngineering(BaseJournalArticle):
+    class Meta:
+        verbose_name = "InderScience International Journal of Structural Engineering"
+        verbose_name_plural = "InderScience International Journal of Structural Engineering Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class InderScienceInternationalJournalEarthquakeImpactEngineering(BaseJournalArticle):
+    class Meta:
+        verbose_name = "InderScience International Journal of Earthquake Impact Engineering"
+        verbose_name_plural = "InderScience International Journal of Earthquake Impact Engineering Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class InderScienceInternationalJournalMasonryResearchInnovation(BaseJournalArticle):
+    class Meta:
+        verbose_name = "InderScience International Journal of Masonry Research and Innovation"
+        verbose_name_plural = "InderScience International Journal of Masonry Research and Innovation Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class TechnoSteelCompositeStructures(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Techno Steel and Composite Structures"
+        verbose_name_plural = "Techno Steel and Composite Structures Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class TechnoStructuralEngineeringMechanics(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Techno Structural Engineering Mechanics"
+        verbose_name_plural = "Techno Structural Engineering Mechanics Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class TechnoAdvancesConcreteConstruction(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Techno Advances in Concrete Construction"
+        verbose_name_plural = "Techno Advances in Concrete Construction Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class TechnoComputersConcrete(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Techno Computers and Concrete"
+        verbose_name_plural = "Techno Computers and Concrete Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class  TechnoEarthquakesStructures(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Techno Earthquakes and Structures"
+        verbose_name_plural = "Techno Earthquakes and Structures Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class TechnoSmartStructuresSystems(BaseJournalArticle): 
+    class Meta:
+        verbose_name = "Techno Smart Structures and Systems"
+        verbose_name_plural = "Techno Smart Structures and Systems Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class TechnoWindStructures(BaseJournalArticle):
+    class Meta:
+        verbose_name = "Techno Wind and Structures"
+        verbose_name_plural = "Techno Wind and Structures Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class CASPCanadianJournalCivilEngineering(BaseJournalArticle):
+    class Meta:
+        verbose_name = "CASP Canadian Journal of Civil Engineering"
+        verbose_name_plural = "CASP Canadian Journal of Civil Engineering Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+class NZSEEBulletinEarthquakeEngineering(BaseJournalArticle):
+    class Meta:
+        verbose_name = "NZSEE Bulletin of Earthquake Engineering"
+        verbose_name_plural = "NZSEE Bulletin of Earthquake Engineering Articles"
+        unique_together = ("journal", "volume", "issue", "article_index")
+
+    def publication_code(self):
+        doc_type_code = self.journal.doc_type.code()
+        journal_code = self.journal.code()
+        return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
+
+
 class UnifiedArticles(models.Model):
     journal_name = models.CharField(max_length=255)
     title = models.TextField()

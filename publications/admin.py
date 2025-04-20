@@ -1,38 +1,41 @@
 from django.contrib import admin
 
-from .models import (ACIStructuralJournal, AISCJournalStructuralEngineering,
-                     ASCEJournalCompositesConstruction,
-                     ASCEJournalPerformanceConstructedFacilities,
-                     ASCEJournalStructuralDesignConstructionPractice,
-                     ASCEJournalStructuralEngineering, DocumentType,
-                     ElsevierComputersStructures,
-                     ElsevierConstructionBuildingMaterials,
-                     ElsevierEngineeringStructures,
-                     ElsevierFiniteElementsAnalysisDesign,
-                     ElsevierJournalBuildingEngineering,
-                     ElsevierJournalConstructionalSteelResearch,
-                     ElsevierStructuralSafety,
-                     IABSEJournalSeismologyEarthquakeEngineering,
-                     JournalPublication,
-                     JSEEJournalSeismologyEarthquakeEngineering,
-                     SageAdvancesStructuralEngineering, SageEarthquakeSpectra,
-                     SpringerBulletinEarthquakeEngineering,
-                     SpringerComputationalMechanics,
-                     SpringerEarthquakeEngineeringEngineeringVibrations,
-                     SpringerEuropeanJournalWoodProducts,
-                     SpringerInternationalJournalSteelStructures,
-                     SpringerMaterialsStructures,
-                     SpringerStructuralMultidisciplinaryOptimization,
-                     TaFrEngineeringStructuresandTechnologies,
-                     TaFrJournalAsianArchitectureBuildingEngineering,
-                     TaylorFrancisJournalEarthquakeEngineering,
-                     TaylorFrancisMechanicsStructuresMaterials,
-                     UnifiedArticles,
-                     WileyEarthquakeEngineeringStructuralDynamics,
-                     WileyInternationalJournalNumericalMethodsEngineering,
-                     WileyStructuralControlHealthMonitoring,
-                     WileyStructuralDesignTallSpecialBuildings,
-                     WSCInternationalJournalStructuralStabilityDynamics)
+from .models import (
+    ACIStructuralJournal, AISCJournalStructuralEngineering,
+    ASCEJournalCompositesConstruction,
+    ASCEJournalPerformanceConstructedFacilities,
+    ASCEJournalStructuralDesignConstructionPractice,
+    ASCEJournalStructuralEngineering, CASPCanadianJournalCivilEngineering,
+    DocumentType, ElsevierComputersStructures,
+    ElsevierConstructionBuildingMaterials, ElsevierEngineeringStructures,
+    ElsevierFiniteElementsAnalysisDesign, ElsevierJournalBuildingEngineering,
+    ElsevierJournalConstructionalSteelResearch, ElsevierStructuralSafety,
+    IABSEJournalSeismologyEarthquakeEngineering,
+    InderScienceInternationalJournalEarthquakeImpactEngineering,
+    InderScienceInternationalJournalMasonryResearchInnovation,
+    InderScienceInternationalJournalMaterialsStructuralIntegrity,
+    InderScienceInternationalJournalStructuraEngineering, JournalPublication,
+    JSEEJournalSeismologyEarthquakeEngineering,
+    NZSEEBulletinEarthquakeEngineering, SageAdvancesStructuralEngineering,
+    SageEarthquakeSpectra, SpringerBulletinEarthquakeEngineering,
+    SpringerComputationalMechanics,
+    SpringerEarthquakeEngineeringEngineeringVibrations,
+    SpringerEuropeanJournalWoodProducts,
+    SpringerInternationalJournalSteelStructures, SpringerMaterialsStructures,
+    SpringerStructuralMultidisciplinaryOptimization,
+    TaFrEngineeringStructuresandTechnologies,
+    TaFrJournalAsianArchitectureBuildingEngineering,
+    TaylorFrancisJournalEarthquakeEngineering,
+    TaylorFrancisMechanicsStructuresMaterials,
+    TechnoAdvancesConcreteConstruction, TechnoComputersConcrete,
+    TechnoEarthquakesStructures, TechnoSmartStructuresSystems,
+    TechnoSteelCompositeStructures, TechnoStructuralEngineeringMechanics,
+    TechnoWindStructures, UnifiedArticles,
+    WileyEarthquakeEngineeringStructuralDynamics,
+    WileyInternationalJournalNumericalMethodsEngineering,
+    WileyStructuralControlHealthMonitoring,
+    WileyStructuralDesignTallSpecialBuildings,
+    WSCInternationalJournalStructuralStabilityDynamics)
 
 
 @admin.register(DocumentType)
@@ -194,6 +197,86 @@ class ElsevierConstructionBuildingMaterialsAdmin(admin.ModelAdmin):
 
 @admin.register(ElsevierJournalBuildingEngineering)
 class ElsevierJournalBuildingEngineeringAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    list_filter = ("volume", "issue", "year", "file_exists")
+    search_fields = ("title", "volume")
+
+@admin.register(InderScienceInternationalJournalMaterialsStructuralIntegrity)
+class InderScienceInternationalJournalMaterialsStructuralIntegrityAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    list_filter = ("volume", "issue", "year", "file_exists")
+    search_fields = ("title", "volume")
+
+
+@admin.register(InderScienceInternationalJournalStructuraEngineering)
+class InderScienceInternationalJournalStructuraEngineeringAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    list_filter = ("volume", "issue", "year", "file_exists")
+    search_fields = ("title", "volume")
+
+@admin.register(InderScienceInternationalJournalEarthquakeImpactEngineering)
+class InderScienceInternationalJournalEarthquakeImpactEngineeringAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    list_filter = ("volume", "issue", "year", "file_exists")
+    search_fields = ("title", "volume")
+
+@admin.register(InderScienceInternationalJournalMasonryResearchInnovation)
+class InderScienceInternationalJournalMasonryResearchInnovationAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    list_filter = ("volume", "issue", "year", "file_exists")
+    search_fields = ("title", "volume")
+
+@admin.register(TechnoSteelCompositeStructures)
+class TechnoSteelCompositeStructuresAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    list_filter = ("volume", "issue", "year", "file_exists")
+    search_fields = ("title", "volume")
+
+@admin.register(TechnoStructuralEngineeringMechanics)
+class TechnoStructuralEngineeringMechanicsAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    list_filter = ("volume", "issue", "year", "file_exists")
+    search_fields = ("title", "volume")
+
+@admin.register(TechnoAdvancesConcreteConstruction)
+class TechnoAdvancesConcreteConstructionAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    list_filter = ("volume", "issue", "year", "file_exists")
+    search_fields = ("title", "volume")
+
+@admin.register(TechnoComputersConcrete)
+class TechnoComputersConcreteAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    list_filter = ("volume", "issue", "year", "file_exists")
+    search_fields = ("title", "volume")
+
+@admin.register(TechnoEarthquakesStructures)
+class TechnoEarthquakesStructuresAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    list_filter = ("volume", "issue", "year", "file_exists")
+    search_fields = ("title", "volume")
+
+@admin.register(TechnoSmartStructuresSystems)
+class TechnoSmartStructuresSystemsAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    list_filter = ("volume", "issue", "year", "file_exists")
+    search_fields = ("title", "volume")
+
+@admin.register(TechnoWindStructures)
+class TechnoWindStructuresAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    list_filter = ("volume", "issue", "year", "file_exists")
+    search_fields = ("title", "volume")
+
+
+@admin.register(NZSEEBulletinEarthquakeEngineering)
+class NZSEEBulletinEarthquakeEngineeringAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    list_filter = ("volume", "issue", "year", "file_exists")
+    search_fields = ("title", "volume")
+
+@admin.register(CASPCanadianJournalCivilEngineering)
+class CASPCanadianJournalCivilEngineeringAdmin(admin.ModelAdmin):
     list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
     list_filter = ("volume", "issue", "year", "file_exists")
     search_fields = ("title", "volume")

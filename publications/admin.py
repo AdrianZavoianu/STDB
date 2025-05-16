@@ -5,24 +5,29 @@ from .models import (
     ASCEJournalCompositesConstruction,
     ASCEJournalPerformanceConstructedFacilities,
     ASCEJournalStructuralDesignConstructionPractice,
-    ASCEJournalStructuralEngineering, CASPCanadianJournalCivilEngineering,
-    DocumentType, ElsevierComputersStructures,
+    ASCEJournalStructuralEngineering, BookCategoryLevel1, BookCategoryLevel2,
+    BookCategoryLevel3, BookPublication, CASPCanadianJournalCivilEngineering,
+    CodeCategoryLevel1, CodeCategoryLevel2, CodePublication,
+    ConferenceProceeding, Country, DocumentType, ElsevierComputersStructures,
     ElsevierConstructionBuildingMaterials, ElsevierEngineeringStructures,
     ElsevierFiniteElementsAnalysisDesign, ElsevierJournalBuildingEngineering,
     ElsevierJournalConstructionalSteelResearch, ElsevierStructuralSafety,
-    IABSEJournalSeismologyEarthquakeEngineering,
+    GuidelineCategoryLevel1, GuidelineCategoryLevel2, GuidelineCategoryLevel3,
+    GuidelinePublication, IABSEJournalSeismologyEarthquakeEngineering,
     InderScienceInternationalJournalEarthquakeImpactEngineering,
     InderScienceInternationalJournalMasonryResearchInnovation,
     InderScienceInternationalJournalMaterialsStructuralIntegrity,
     InderScienceInternationalJournalStructuraEngineering, JournalPublication,
     JSEEJournalSeismologyEarthquakeEngineering,
-    NZSEEBulletinEarthquakeEngineering, SageAdvancesStructuralEngineering,
-    SageEarthquakeSpectra, SpringerBulletinEarthquakeEngineering,
-    SpringerComputationalMechanics,
+    NZSEEBulletinEarthquakeEngineering, PCEEProceedings, ReportCategoryLevel1,
+    ReportCategoryLevel2, ReportCategoryLevel3, ReportPublication,
+    SageAdvancesStructuralEngineering, SageEarthquakeSpectra,
+    SpringerBulletinEarthquakeEngineering, SpringerComputationalMechanics,
     SpringerEarthquakeEngineeringEngineeringVibrations,
     SpringerEuropeanJournalWoodProducts,
     SpringerInternationalJournalSteelStructures, SpringerMaterialsStructures,
-    SpringerStructuralMultidisciplinaryOptimization,
+    SpringerStructuralMultidisciplinaryOptimization, StandardCategoryLevel1,
+    StandardCategoryLevel2, StandardCategoryLevel3, StandardPublication,
     TaFrEngineeringStructuresandTechnologies,
     TaFrJournalAsianArchitectureBuildingEngineering,
     TaylorFrancisJournalEarthquakeEngineering,
@@ -30,8 +35,8 @@ from .models import (
     TechnoAdvancesConcreteConstruction, TechnoComputersConcrete,
     TechnoEarthquakesStructures, TechnoSmartStructuresSystems,
     TechnoSteelCompositeStructures, TechnoStructuralEngineeringMechanics,
-    TechnoWindStructures, UnifiedArticles,
-    WileyEarthquakeEngineeringStructuralDynamics,
+    TechnoWindStructures, UnifiedConferenceArticles, UnifiedJournalArticles,
+    WCEEProceedings, WileyEarthquakeEngineeringStructuralDynamics,
     WileyInternationalJournalNumericalMethodsEngineering,
     WileyStructuralControlHealthMonitoring,
     WileyStructuralDesignTallSpecialBuildings,
@@ -164,12 +169,6 @@ class ACIStructuralJournalAdmin(admin.ModelAdmin):
     list_filter = ("volume", "issue", "year", "file_exists")
     search_fields = ("title", "volume")
 
-@admin.register(UnifiedArticles)
-class UnifiedArticlesAdmin(admin.ModelAdmin):
-    list_display = ("id", "title","authors","journal_name", "volume", "issue", "article_index", "year", "filename", "file_exists")
-    search_fields = ("title","authors", "volume")
-
-
 @admin.register(TaFrEngineeringStructuresandTechnologies)
 class TaFrEngineeringStructuresandTechnologiesAdmin(admin.ModelAdmin):
     list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
@@ -280,3 +279,107 @@ class CASPCanadianJournalCivilEngineeringAdmin(admin.ModelAdmin):
     list_display = ("id", "title", "volume", "issue", "article_index", "year", "filename", "file_exists")
     list_filter = ("volume", "issue", "year", "file_exists")
     search_fields = ("title", "volume")
+
+@admin.register(UnifiedJournalArticles)
+class UnifiedJournalArticlesAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "authors", "journal_name", "volume", "issue", "article_index", "year", "filename", "file_exists")
+    search_fields = ("title", "authors", "volume")
+
+@admin.register(ConferenceProceeding)
+class ConferenceProceedingAdmin(admin.ModelAdmin):
+    list_display = ("id", "name", "doc_type", "code")
+
+@admin.register(Country)
+class CountryAdmin(admin.ModelAdmin):
+    list_display = ("id", "name", "numeric")
+
+@admin.register(WCEEProceedings)
+class WCEEProceedingsAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "edition", "country", "article_index", "year", "filename", "file_exists")
+    list_filter = ("edition", "country")
+
+@admin.register(PCEEProceedings)
+class PCEEProceedingsAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "edition", "country", "article_index", "year", "filename", "file_exists")
+    list_filter = ("edition", "country")
+
+@admin.register(UnifiedConferenceArticles)
+class UnifiedConferenceArticlesAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "authors", "conference_name", "edition", "country", "article_index", "year", "filename", "file_exists")
+    search_fields = ("title", "authors", "edition")
+
+@admin.register(BookPublication)
+class BookPublicationAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "authors","filename", "file_exists")
+
+@admin.register(BookCategoryLevel1)
+class BookCategoryLevel1Admin(admin.ModelAdmin):
+    list_display = ("id", "name")
+
+@admin.register(BookCategoryLevel2)
+class BookCategoryLevel2Admin(admin.ModelAdmin):
+    list_display = ("id", "name")
+
+@admin.register(BookCategoryLevel3)
+class BookCategoryLevel3Admin(admin.ModelAdmin):
+    list_display = ("id", "name")
+
+@admin.register(GuidelinePublication)
+class GuidelinePublicationAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "authors","filename", "file_exists")
+
+@admin.register(GuidelineCategoryLevel1)
+class GuidelineCategoryLevel1Admin(admin.ModelAdmin):
+    list_display = ("id", "name")
+
+@admin.register(GuidelineCategoryLevel2)
+class GuidelineCategoryLevel2Admin(admin.ModelAdmin):
+    list_display = ("id", "name")
+
+@admin.register(GuidelineCategoryLevel3)
+class GuidelineCategoryLevel3Admin(admin.ModelAdmin):
+    list_display = ("id", "name")
+
+@admin.register(ReportPublication)
+class ReportPublicationAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "authors","filename", "file_exists")
+
+@admin.register(ReportCategoryLevel1)
+class ReportCategoryLevel1Admin(admin.ModelAdmin):
+    list_display = ("id", "name")
+
+@admin.register(ReportCategoryLevel2)
+class ReportCategoryLevel2Admin(admin.ModelAdmin):
+    list_display = ("id", "name")
+
+@admin.register(ReportCategoryLevel3)
+class ReportCategoryLevel3Admin(admin.ModelAdmin):
+    list_display = ("id", "name")
+
+@admin.register(StandardPublication)
+class StandardPublicationAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "authors","filename", "file_exists")
+
+@admin.register(StandardCategoryLevel1)
+class StandardCategoryLevel1Admin(admin.ModelAdmin):
+    list_display = ("id", "name")
+
+@admin.register(StandardCategoryLevel2)
+class StandardCategoryLevel2Admin(admin.ModelAdmin):
+    list_display = ("id", "name")
+
+@admin.register(StandardCategoryLevel3)
+class StandardCategoryLevel3Admin(admin.ModelAdmin):
+    list_display = ("id", "name")
+
+@admin.register(CodePublication)
+class CodePublicationAdmin(admin.ModelAdmin):
+    list_display = ("id", "title", "authors","filename", "file_exists")
+
+@admin.register(CodeCategoryLevel1)
+class StandardCategoryLevel1Admin(admin.ModelAdmin):
+    list_display = ("id", "name")
+
+@admin.register(CodeCategoryLevel2)
+class StandardCategoryLevel2Admin(admin.ModelAdmin):
+    list_display = ("id", "name")

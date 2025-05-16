@@ -48,6 +48,19 @@ class BaseJournalArticle(models.Model):
 
     file_exists = models.BooleanField(default=False)
 
+    FILE_SOURCE_CHOICES = [
+        ('S', 'Downloaded'),
+        ('O', 'Open Access'),
+        ('U', 'Unpaywall'),
+        ('L', 'Local/Proprietary'),
+    ]
+    file_source = models.CharField(
+        max_length=1,
+        choices=FILE_SOURCE_CHOICES,
+        default='S',
+        help_text="Source of the PDF file"
+    )
+
     class Meta:
         abstract = True
 
@@ -55,7 +68,7 @@ class BaseJournalArticle(models.Model):
         return self.title
 
     def filename(self):
-        return f"STDB-{self.publication_code()}-{self.year}.pdf"
+        return f"STDB-{self.publication_code()}-{self.year}-{self.file_source}.pdf"
 
 class ASCEJournalStructuralEngineering(BaseJournalArticle):
 
@@ -587,7 +600,7 @@ class NZSEEBulletinEarthquakeEngineering(BaseJournalArticle):
         return f"{doc_type_code}{journal_code}{self.volume:03}{self.issue or 0:02}{self.article_index:03}"
 
 
-class UnifiedArticles(models.Model):
+class UnifiedJournalArticles(models.Model):
     journal_name = models.CharField(max_length=255)
     title = models.TextField()
     authors = models.TextField()
@@ -603,8 +616,8 @@ class UnifiedArticles(models.Model):
 
     class Meta:
         unique_together = ("journal_name", "volume", "issue", "article_index")
-        verbose_name = "0.UNIFIED JOURNAL ARTICLE"
-        verbose_name = "0.UNIFIED JOURNAL ARTICLES"
+        verbose_name = "0.Unified Journal Article"
+        verbose_name = "0.Unified Journal Articles"
 
     def filename(self):
         return f"STDB-{self.publication_code}-{self.year}.pdf"
@@ -613,3 +626,516 @@ class UnifiedArticles(models.Model):
         if self.file_exists:
             return os.path.join(settings.MEDIA_URL, 'publications', self.filename())
         return None
+
+
+
+class Country(models.Model):
+    name = models.CharField(max_length=128)
+    alpha2 = models.CharField(max_length=2, unique=True)
+    alpha3 = models.CharField(max_length=3, unique=True)
+    numeric = models.CharField(max_length=3, unique=True)
+
+    def __str__(self):
+        return f"{self.name} ({self.alpha3})"
+
+
+class ConferenceProceeding(models.Model):
+    name = models.CharField(max_length=255, unique=True)
+    doc_type = models.ForeignKey(DocumentType, on_delete=models.PROTECT)
+
+    class Meta:
+        verbose_name = "Conference Proceding"
+        verbose_name_plural = "Conference Proceedings"
+
+    def __str__(self):
+        return self.name
+
+    def code(self):
+        """Returns a padded code based on ID for filenames."""
+        return f"{self.id:03}"
+
+class BaseConferenceArticle(models.Model):
+    conference = models.ForeignKey("ConferenceProceeding", on_delete=models.PROTECT)
+    title = models.TextField()
+    authors = models.TextField()
+    abstract = models.TextField(blank=True, null=True)
+    year = models.IntegerField()
+    edition = models.IntegerField()
+    url = models.URLField(blank=True, null=True)
+    country = models.ForeignKey(Country, on_delete=models.PROTECT)
+    article_index = models.IntegerField()
+
+    file_exists = models.BooleanField(default=False)
+
+    FILE_SOURCE_CHOICES = [
+        ('S', 'Downloaded'),
+        ('O', 'Open Access'),
+        ('U', 'Unpaywall'),
+        ('L', 'Local/Proprietary'),
+    ]
+    file_source = models.CharField(
+        max_length=1,
+        choices=FILE_SOURCE_CHOICES,
+        default='S',
+        help_text="Source of the PDF file"
+    )
+
+    class Meta:
+        abstract = True
+
+    def __str__(self):
+        return self.title
+
+    def filename(self):
+        return f"STDB-{self.publication_code()}-{self.year}-{self.file_source}.pdf"
+
+class WCEEProceedings(BaseConferenceArticle):
+
+    class Meta:
+        verbose_name = "World Conference on Earthquake Engineering Article"
+        verbose_name_plural = "World Conference on Earthquake Engineering Articles"
+        unique_together = ("conference", "edition","country","article_index")
+
+    def publication_code(self):
+        doc_type_code = self.conference.doc_type.code()
+        conference_code = self.conference.code()
+        country_code = self.country.numeric
+        return f"{doc_type_code}{conference_code}{self.edition:03}{country_code}{self.article_index:04}"
+
+
+class PCEEProceedings(BaseConferenceArticle):
+
+    class Meta:
+        verbose_name = "Pacific Conference on Earthquake Engineering Article"
+        verbose_name_plural = "Pacific Conference on Earthquake Engineering Articles"
+        unique_together = ("conference", "edition","country","article_index")
+
+    def publication_code(self):
+        doc_type_code = self.conference.doc_type.code()
+        conference_code = self.conference.code()
+        country_code = self.country.numeric
+        return f"{doc_type_code}{conference_code}{self.edition:03}{country_code}{self.article_index:04}"
+
+
+class UnifiedConferenceArticles(models.Model):
+    conference_name = models.CharField(max_length=255)
+    title = models.TextField()
+    authors = models.TextField()
+    abstract = models.TextField(blank=True, null=True)
+    year = models.IntegerField()
+    edition = models.IntegerField()
+    url = models.URLField(blank=True, null=True)
+    country = models.ForeignKey(Country, on_delete=models.PROTECT)
+    article_index = models.IntegerField()
+
+    file_exists = models.BooleanField(default=False)
+
+    FILE_SOURCE_CHOICES = [
+        ('S', 'Downloaded'),
+        ('O', 'Open Access'),
+        ('U', 'Unpaywall'),
+        ('L', 'Local/Proprietary'),
+    ]
+    file_source = models.CharField(
+        max_length=1,
+        choices=FILE_SOURCE_CHOICES,
+        default='S',
+        help_text="Source of the PDF file"
+    )
+
+    filename = models.CharField(max_length=255)
+
+    class Meta:
+        verbose_name = "0.Unified Conference Article"
+        verbose_name_plural = "0.Unified Conference Articles"
+        unique_together = ("conference_name", "edition", "country", "article_index")
+
+    def __str__(self):
+        return self.title
+
+
+class BookCategoryLevel1(models.Model):
+    name = models.CharField(max_length=100, unique=True)
+
+    def __str__(self):
+        return self.name
+
+
+class BookCategoryLevel2(models.Model):
+    name = models.CharField(max_length=100)
+    parent = models.ForeignKey(BookCategoryLevel1, on_delete=models.CASCADE, related_name="subcategories")
+
+    class Meta:
+        unique_together = ("name", "parent")
+
+    def __str__(self):
+        return f"{self.parent} / {self.name}"
+
+class BookCategoryLevel3(models.Model):
+    name = models.CharField(max_length=100)
+    parent = models.ForeignKey(BookCategoryLevel2, on_delete=models.CASCADE, related_name="subsubcategories")
+
+    class Meta:
+        unique_together = ("name", "parent")
+
+    def __str__(self):
+        return f"{self.parent} / {self.name}"
+
+class BookPublication(models.Model):
+    doc_type = models.ForeignKey("DocumentType", on_delete=models.PROTECT)
+
+    category_lvl1 = models.ForeignKey(BookCategoryLevel1, on_delete=models.PROTECT)
+    category_lvl2 = models.ForeignKey(BookCategoryLevel2, on_delete=models.PROTECT)
+    category_lvl3 = models.ForeignKey(BookCategoryLevel3, on_delete=models.PROTECT)
+    title = models.TextField()
+    authors = models.TextField()
+    content_summary = models.TextField(blank=True, null=True)
+    year = models.IntegerField()
+    publisher = models.CharField(max_length=255, blank=True)
+    isbn = models.CharField(max_length=20, blank=True)
+    url = models.URLField(blank=True, null=True)
+
+    book_index = models.IntegerField()
+
+    FILE_SOURCE_CHOICES = [
+        ('S', 'Downloaded'),
+        ('O', 'Open Access'),
+        ('U', 'Unpaywall'),
+        ('L', 'Local/Proprietary'),
+    ]
+    file_source = models.CharField(
+        max_length=1,
+        choices=FILE_SOURCE_CHOICES,
+        default='S',
+        help_text="Source of the PDF file"
+    )
+
+    file_exists = models.BooleanField(default=False)
+
+    class Meta:
+        verbose_name = "Book Entry"
+        verbose_name_plural = "Book Entries"
+        unique_together = (
+            "category_lvl1", "category_lvl2", "category_lvl3", "book_index"
+        )
+
+    def __str__(self):
+        return self.title
+
+    def publication_code(self):
+        doc_type_code = self.doc_type.code()
+        lvl1 = self.category_lvl1.id
+        lvl2 = self.category_lvl2.id
+        lvl3 = self.category_lvl3.id
+        return f"{doc_type_code}{lvl1:03}{lvl2:03}{lvl3:03}{self.book_index:04}"
+
+    def filename(self):
+        return f"STDB-{self.publication_code()}-{self.year}-{self.file_source}.pdf"
+
+
+class GuidelineCategoryLevel1(models.Model):
+    name = models.CharField(max_length=100, unique=True)
+
+    def __str__(self):
+        return self.name
+
+class GuidelineCategoryLevel2(models.Model):
+    name = models.CharField(max_length=100)
+    parent = models.ForeignKey(GuidelineCategoryLevel1, on_delete=models.CASCADE, related_name="subcategories")
+
+    class Meta:
+        unique_together = ("name", "parent")
+
+    def __str__(self):
+        return f"{self.parent} / {self.name}"
+
+class GuidelineCategoryLevel3(models.Model):
+    name = models.CharField(max_length=100)
+    parent = models.ForeignKey(GuidelineCategoryLevel2, on_delete=models.CASCADE, related_name="subsubcategories")
+
+    class Meta:
+        unique_together = ("name", "parent")
+
+    def __str__(self):
+        return f"{self.parent} / {self.name}"
+
+class GuidelinePublication(models.Model):
+    doc_type = models.ForeignKey("DocumentType", on_delete=models.PROTECT)
+
+    category_lvl1 = models.ForeignKey(GuidelineCategoryLevel1, on_delete=models.PROTECT)
+    category_lvl2 = models.ForeignKey(GuidelineCategoryLevel2, on_delete=models.PROTECT)
+    category_lvl3 = models.ForeignKey(GuidelineCategoryLevel3, on_delete=models.PROTECT)
+    title = models.TextField()
+    authors = models.TextField()
+    content_summary = models.TextField(blank=True, null=True)
+    year = models.IntegerField()
+    publisher = models.CharField(max_length=255, blank=True)
+
+
+    guideline_index = models.IntegerField()
+
+    FILE_SOURCE_CHOICES = [
+        ('S', 'Downloaded'),
+        ('O', 'Open Access'),
+        ('U', 'Unpaywall'),
+        ('L', 'Local/Proprietary'),
+    ]
+    file_source = models.CharField(
+        max_length=1,
+        choices=FILE_SOURCE_CHOICES,
+        default='S',
+        help_text="Source of the PDF file"
+    )
+
+    file_exists = models.BooleanField(default=False)
+
+    class Meta:
+        verbose_name = "Guideline Entry"
+        verbose_name_plural = "Guideline Entries"
+        unique_together = (
+            "category_lvl1", "category_lvl2", "category_lvl3", "guideline_index"
+        )
+
+    def __str__(self):
+        return self.title
+
+    def publication_code(self):
+        doc_type_code = self.doc_type.code()
+        lvl1 = self.category_lvl1.id
+        lvl2 = self.category_lvl2.id
+        lvl3 = self.category_lvl3.id
+        return f"{doc_type_code}{lvl1:03}{lvl2:03}{lvl3:03}{self.guideline_index:04}"
+
+    def filename(self):
+        return f"STDB-{self.publication_code()}-{self.year}-{self.file_source}.pdf"
+
+
+
+class ReportCategoryLevel1(models.Model):
+    name = models.CharField(max_length=100, unique=True)
+
+    def __str__(self):
+        return self.name
+
+class ReportCategoryLevel2(models.Model):
+    name = models.CharField(max_length=100)
+    parent = models.ForeignKey(ReportCategoryLevel1, on_delete=models.CASCADE, related_name="subcategories")
+
+    class Meta:
+        unique_together = ("name", "parent")
+
+    def __str__(self):
+        return f"{self.parent} / {self.name}"
+
+class ReportCategoryLevel3(models.Model):
+    name = models.CharField(max_length=100)
+    parent = models.ForeignKey(ReportCategoryLevel2, on_delete=models.CASCADE, related_name="subsubcategories")
+
+    class Meta:
+        unique_together = ("name", "parent")
+
+    def __str__(self):
+        return f"{self.parent} / {self.name}"
+
+class ReportPublication(models.Model):
+    doc_type = models.ForeignKey("DocumentType", on_delete=models.PROTECT)
+
+    category_lvl1 = models.ForeignKey(ReportCategoryLevel1, on_delete=models.PROTECT)
+    category_lvl2 = models.ForeignKey(ReportCategoryLevel2, on_delete=models.PROTECT)
+    category_lvl3 = models.ForeignKey(ReportCategoryLevel3, on_delete=models.PROTECT)
+    title = models.TextField()
+    authors = models.TextField()
+    content_summary = models.TextField(blank=True, null=True)
+    year = models.IntegerField()
+    publisher = models.CharField(max_length=255, blank=True)
+
+
+    report_index = models.IntegerField()
+
+    FILE_SOURCE_CHOICES = [
+        ('S', 'Downloaded'),
+        ('O', 'Open Access'),
+        ('U', 'Unpaywall'),
+        ('L', 'Local/Proprietary'),
+    ]
+    file_source = models.CharField(
+        max_length=1,
+        choices=FILE_SOURCE_CHOICES,
+        default='S',
+        help_text="Source of the PDF file"
+    )
+
+    file_exists = models.BooleanField(default=False)
+
+    class Meta:
+        verbose_name = "Report Entry"
+        verbose_name_plural = "Report Entries"
+        unique_together = (
+            "category_lvl1", "category_lvl2", "category_lvl3", "report_index"
+        )
+
+    def __str__(self):
+        return self.title
+
+    def publication_code(self):
+        doc_type_code = self.doc_type.code()
+        lvl1 = self.category_lvl1.id
+        lvl2 = self.category_lvl2.id
+        lvl3 = self.category_lvl3.id
+        return f"{doc_type_code}{lvl1:03}{lvl2:03}{lvl3:03}{self.report_index:04}"
+
+    def filename(self):
+        return f"STDB-{self.publication_code()}-{self.year}-{self.file_source}.pdf"
+
+
+
+class StandardCategoryLevel1(models.Model):
+    name = models.CharField(max_length=100, unique=True)
+
+    def __str__(self):
+        return self.name
+
+class StandardCategoryLevel2(models.Model):
+    name = models.CharField(max_length=100)
+    parent = models.ForeignKey(StandardCategoryLevel1, on_delete=models.CASCADE, related_name="subcategories")
+
+    class Meta:
+        unique_together = ("name", "parent")
+
+    def __str__(self):
+        return f"{self.parent} / {self.name}"
+
+class StandardCategoryLevel3(models.Model):
+    name = models.CharField(max_length=100)
+    parent = models.ForeignKey(StandardCategoryLevel2, on_delete=models.CASCADE, related_name="subsubcategories")
+
+    class Meta:
+        unique_together = ("name", "parent")
+
+    def __str__(self):
+        return f"{self.parent} / {self.name}"
+
+class StandardPublication(models.Model):
+    doc_type = models.ForeignKey("DocumentType", on_delete=models.PROTECT)
+
+    category_lvl1 = models.ForeignKey(StandardCategoryLevel1, on_delete=models.PROTECT)
+    category_lvl2 = models.ForeignKey(StandardCategoryLevel2, on_delete=models.PROTECT)
+    category_lvl3 = models.ForeignKey(StandardCategoryLevel3, on_delete=models.PROTECT)
+    title = models.TextField()
+    authors = models.TextField()
+    content_summary = models.TextField(blank=True, null=True)
+    year = models.IntegerField()
+    publisher = models.CharField(max_length=255, blank=True)
+    country = models.ForeignKey(Country, on_delete=models.PROTECT,default=171)
+
+    FILE_SOURCE_CHOICES = [
+        ('S', 'Downloaded'),
+        ('O', 'Open Access'),
+        ('U', 'Unpaywall'),
+        ('L', 'Local/Proprietary'),
+    ]
+    file_source = models.CharField(
+        max_length=1,
+        choices=FILE_SOURCE_CHOICES,
+        default='S',
+        help_text="Source of the PDF file"
+    )
+
+    file_exists = models.BooleanField(default=False)
+
+    class Meta:
+        verbose_name = "Standard Entry"
+        verbose_name_plural = "Standard Entries"
+        unique_together = (
+            "category_lvl1", "category_lvl2", "category_lvl3", "country"
+        )
+
+    def __str__(self):
+        return self.title
+
+    def publication_code(self):
+        doc_type_code = self.doc_type.code()
+        lvl1 = self.category_lvl1.id
+        lvl2 = self.category_lvl2.id
+        lvl3 = self.category_lvl3.id
+        country_code = self.country.numeric
+        return f"{doc_type_code}{lvl1:03}{lvl2:03}{lvl3:03}0{country_code}"
+
+    def filename(self):
+        return f"STDB-{self.publication_code()}-{self.year}-{self.file_source}.pdf"
+
+
+class CodeCategoryLevel1(models.Model):
+    name = models.CharField(max_length=100, unique=True)
+
+    def __str__(self):
+        return self.name
+
+class CodeCategoryLevel2(models.Model):
+    name = models.CharField(max_length=100)
+    parent = models.ForeignKey(CodeCategoryLevel1, on_delete=models.CASCADE, related_name="subcategories")
+
+    class Meta:
+        unique_together = ("name", "parent")
+
+    def __str__(self):
+        return f"{self.parent} / {self.name}"
+
+class CodePublication(models.Model):
+    doc_type = models.ForeignKey("DocumentType", on_delete=models.PROTECT)
+
+    category_lvl1 = models.ForeignKey(CodeCategoryLevel1, on_delete=models.PROTECT)
+    category_lvl2 = models.ForeignKey(CodeCategoryLevel2, on_delete=models.PROTECT)
+
+    title = models.TextField()
+    authors = models.TextField()
+    content_summary = models.TextField(blank=True, null=True)
+    year = models.IntegerField()
+    publisher = models.CharField(max_length=255, blank=True)
+    country = models.ForeignKey(Country, on_delete=models.PROTECT,default=171)
+    code_index = models.IntegerField()
+
+    FILE_SOURCE_CHOICES = [
+        ('S', 'Downloaded'),
+        ('O', 'Open Access'),
+        ('U', 'Unpaywall'),
+        ('L', 'Local/Proprietary'),
+    ]
+    file_source = models.CharField(
+        max_length=1,
+        choices=FILE_SOURCE_CHOICES,
+        default='S',
+        help_text="Source of the PDF file"
+    )
+
+    file_exists = models.BooleanField(default=False)
+
+    class Meta:
+        verbose_name = "Code Entry"
+        verbose_name_plural = "Code Entries"
+        unique_together = (
+            "category_lvl1", "category_lvl2",  "code_index"
+        )
+
+    def __str__(self):
+        return self.title
+
+    def publication_code(self):
+        doc_type_code = self.doc_type.code()
+        lvl1 = self.category_lvl1.id
+        lvl2 = self.category_lvl2.id
+        country_code = self.country.numeric
+        return f"{doc_type_code}{lvl1:03}{lvl2:03}{country_code}{self.code_index:04}"
+
+    def filename(self):
+        return f"STDB-{self.publication_code()}-{self.year}-{self.file_source}.pdf"
+
+
+
+
+
+
+
+
+
+
